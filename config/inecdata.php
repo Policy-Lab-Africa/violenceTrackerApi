@@ -9,5 +9,5 @@ return [
     | This option controls the storage path for the INEC data content.
     |
     */
-    'path' => 'data/states/'
+    'path' => env('INEC_DATA_PATH', 'data/states/'),
 ];
