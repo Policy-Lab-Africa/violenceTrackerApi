@@ -2,8 +2,9 @@
 
 namespace Database\Seeders;
 
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\Artisan;
+use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 
 class NgLocalGovernmentSeeder extends Seeder
 {
@@ -15,5 +16,6 @@ class NgLocalGovernmentSeeder extends Seeder
     public function run()
     {
         //
+        Artisan::call('inecdata:generate lga');
     }
 }

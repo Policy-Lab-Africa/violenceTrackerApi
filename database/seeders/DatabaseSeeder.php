@@ -14,6 +14,13 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
+        $this->call([
+            NgStateSeeder::class,
+            NgLocalGovernmentSeeder::class,
+            NgWardSeeder::class,
+            NgPollingUnitSeeder::class,
+            ViolenceTypeSeeder::class
+        ]);
         // \App\Models\User::factory(10)->create();
 
         // \App\Models\User::factory()->create([

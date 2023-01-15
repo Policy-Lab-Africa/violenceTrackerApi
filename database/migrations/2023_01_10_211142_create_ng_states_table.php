@@ -15,6 +15,11 @@ return new class extends Migration
     {
         Schema::create('ng_states', function (Blueprint $table) {
             $table->id();
+            $table->unsignedBigInteger('data_id')->index();
+            $table->string('name')->nullable()->index();
+            $table->string('capital')->nullable();
+            $table->string('latitude')->nullable();
+            $table->string('longitude')->nullable();
             $table->timestamps();
         });
     }

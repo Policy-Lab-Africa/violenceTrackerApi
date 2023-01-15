@@ -19,6 +19,8 @@ php artisan key:generate
 
 php artisan migrate
 
+php artisan db:seed
+
 # if you are not using a service like valet
 php artisan serve
 

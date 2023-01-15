@@ -5,7 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class NgLocalGovernment extends Model
+class NgWard extends Model
 {
     use HasFactory;
 
@@ -13,7 +13,6 @@ class NgLocalGovernment extends Model
         'data_id',
         'name',
         'abbreviation',
-        'state_id',
-        'state_name',
+        'local_government_id',
     ];
 }

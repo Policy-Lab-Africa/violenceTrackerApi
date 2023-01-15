@@ -15,6 +15,10 @@ return new class extends Migration
     {
         Schema::create('ng_local_governments', function (Blueprint $table) {
             $table->id();
+            $table->unsignedBigInteger('data_id')->index();
+            $table->string('name')->nullable();
+            $table->string('abbreviation')->nullable();
+            $table->foreignId('state_id')->references('data_id')->on('ng_states');
             $table->timestamps();
         });
     }
