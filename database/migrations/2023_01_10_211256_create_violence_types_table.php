@@ -15,6 +15,8 @@ return new class extends Migration
     {
         Schema::create('violence_types', function (Blueprint $table) {
             $table->id();
+            $table->string('name')->index();
+            $table->string('note')->nullable();
             $table->timestamps();
         });
     }

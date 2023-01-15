@@ -2,11 +2,11 @@
 
 namespace Database\Seeders;
 
-use App\Models\ViolenceType;
 use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\Artisan;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 
-class ViolenceReportSeeder extends Seeder
+class NgWardSeeder extends Seeder
 {
     /**
      * Run the database seeds.
@@ -16,5 +16,6 @@ class ViolenceReportSeeder extends Seeder
     public function run()
     {
         //
+        Artisan::call('inecdata:generate ward');
     }
 }

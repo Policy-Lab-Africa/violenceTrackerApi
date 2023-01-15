@@ -2,8 +2,9 @@
 
 namespace Database\Seeders;
 
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\Artisan;
+use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 
 class NgPollingUnitSeeder extends Seeder
 {
@@ -15,5 +16,6 @@ class NgPollingUnitSeeder extends Seeder
     public function run()
     {
         //
+        Artisan::call('inecdata:generate polling-unit');
     }
 }

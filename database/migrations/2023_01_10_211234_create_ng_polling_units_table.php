@@ -15,6 +15,15 @@ return new class extends Migration
     {
         Schema::create('ng_polling_units', function (Blueprint $table) {
             $table->id();
+            $table->unsignedBigInteger('data_id')->index();
+            $table->string('name')->nullable()->index();
+            $table->integer('registration_area_id')->index()->nullable();
+            $table->string('precise_location')->nullable();
+            $table->string('abbreviation')->nullable();
+            $table->string('units')->nullable();
+            $table->string('delimitation')->nullable();
+            $table->string('remark')->nullable();
+            $table->foreignId('ward_id')->references('data_id')->on('ng_wards')->nullable();
             $table->timestamps();
         });
     }

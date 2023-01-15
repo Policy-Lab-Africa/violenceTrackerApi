@@ -15,5 +15,25 @@ class ViolenceTypeSeeder extends Seeder
     public function run()
     {
         //
+        $types = [
+            'attempted murder',
+            'gun shots',
+            'murder',
+            'intimidation',
+            'physical harm',
+            'ballot box snatching',
+            'physical threat',
+            'group clash',
+            'sexual violence',
+            'other'
+        ];
+
+        foreach($types as $type)
+        {
+            // 
+            ViolenceType::updateOrCreate([
+                'name' => $type
+            ]);
+        }
     }
 }

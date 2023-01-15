@@ -2,11 +2,10 @@
 
 namespace Database\Seeders;
 
-use App\Models\ViolenceType;
-use Illuminate\Database\Seeder;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+use Illuminate\Database\Seeder;
 
-class ViolenceReportSeeder extends Seeder
+class NgPuLocationSeeder extends Seeder
 {
     /**
      * Run the database seeds.
