@@ -15,7 +15,7 @@ class ViolenceTypeController extends Controller
      */
     public function index()
     {
-        //
+        return ViolenceType::all();
     }
 
     /**
