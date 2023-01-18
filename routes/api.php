@@ -2,6 +2,7 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\NgStateController;
 use App\Http\Controllers\ViolenceTypeController;
 
 /*
@@ -16,6 +17,11 @@ use App\Http\Controllers\ViolenceTypeController;
 */
 
 Route::get('/violence-types', [ViolenceTypeController::class, 'index']);
+
+Route::apiResource('states', NgStateController::class)->only([
+    'index',
+    'show',
+]);
 
 
 

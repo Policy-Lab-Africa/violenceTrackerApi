@@ -2,30 +2,24 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\NgState;
 use App\Http\Requests\StoreNgStateRequest;
 use App\Http\Requests\UpdateNgStateRequest;
-use App\Models\NgState;
+use App\Http\Resources\NgStateResourceCollection;
 
 class NgStateController extends Controller
 {
     /**
-     * Display a listing of the resource.
+     * Return all Nigerian states.
      *
      * @return \Illuminate\Http\Response
      */
     public function index()
     {
         //
-    }
-
-    /**
-     * Show the form for creating a new resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
-    public function create()
-    {
-        //
+        return $this->sendResponse([
+            new NgStateResourceCollection(NgState::all())
+        ]);
     }
 
     /**
@@ -40,25 +34,21 @@ class NgStateController extends Controller
     }
 
     /**
-     * Display the specified resource.
+     * Return a specified state.
      *
-     * @param  \App\Models\NgState  $ngState
+     * @param  mixed  $ngState
      * @return \Illuminate\Http\Response
      */
-    public function show(NgState $ngState)
+    public function show(mixed $ngState)
     {
         //
-    }
+        $ngState = NgState::where('id', $ngState)
+        ->orWhere('name', $ngState)
+        ->first();
 
-    /**
-     * Show the form for editing the specified resource.
-     *
-     * @param  \App\Models\NgState  $ngState
-     * @return \Illuminate\Http\Response
-     */
-    public function edit(NgState $ngState)
-    {
-        //
+        return $this->sendResponse([
+            'state' => $ngState
+        ]);
     }
 
     /**
