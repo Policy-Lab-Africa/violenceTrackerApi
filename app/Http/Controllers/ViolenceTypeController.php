@@ -2,30 +2,23 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\ViolenceType;
+use App\Http\Resources\ViolenceTypeCollection;
 use App\Http\Requests\StoreViolenceTypeRequest;
 use App\Http\Requests\UpdateViolenceTypeRequest;
-use App\Models\ViolenceType;
 
 class ViolenceTypeController extends Controller
 {
     /**
-     * Display a listing of the resource.
+     * Return a list of all violence types.
      *
      * @return \Illuminate\Http\Response
      */
     public function index()
     {
-        //
-    }
-
-    /**
-     * Show the form for creating a new resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
-    public function create()
-    {
-        //
+        return $this->sendResponse([
+            new ViolenceTypeCollection(ViolenceType::all())
+        ]);
     }
 
     /**
@@ -46,17 +39,6 @@ class ViolenceTypeController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function show(ViolenceType $violenceType)
-    {
-        //
-    }
-
-    /**
-     * Show the form for editing the specified resource.
-     *
-     * @param  \App\Models\ViolenceType  $violenceType
-     * @return \Illuminate\Http\Response
-     */
-    public function edit(ViolenceType $violenceType)
     {
         //
     }

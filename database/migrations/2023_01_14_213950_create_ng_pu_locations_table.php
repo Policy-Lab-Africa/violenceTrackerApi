@@ -15,7 +15,7 @@ return new class extends Migration
     {
         Schema::create('ng_pu_locations', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('ng_polling_unit_id')->references('data_id')->on('ng_polling_units');
+            $table->foreignId('ng_polling_unit_id'); //->references('data_id')->on('ng_polling_units')
             $table->string('latitude')->index()->nullable();
             $table->string('longitude')->index()->nullable();
             $table->json('viewport')->nullable();

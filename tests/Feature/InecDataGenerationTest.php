@@ -2,13 +2,14 @@
 
 namespace Tests\Feature;
 
-use Illuminate\Foundation\Testing\RefreshDatabase;
-use Illuminate\Foundation\Testing\WithFaker;
 use Tests\TestCase;
+use Illuminate\Foundation\Testing\WithFaker;
+use Illuminate\Foundation\Testing\RefreshDatabase;
+use Illuminate\Foundation\Testing\DatabaseMigrations;
 
 class InecDataGenerationTest extends TestCase
 {
-    // use RefreshDatabase;
+    use RefreshDatabase, DatabaseMigrations;
 
     /**
      * Test tha the job to creat states is successful.
