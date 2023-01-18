@@ -15,9 +15,9 @@ return new class extends Migration
     {
         Schema::create('violence_reports', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('ng_state_id')->refernces('data_id')->on('ng_states')->nullable();
-            $table->foreignId('ng_local_government_id')->refernces('data_id')->on('ng_local_governments')->nullable();
-            $table->foreignId('ng_polling_unit')->refernces('data_id')->on('ng_polling_units')->nullable();
+            $table->foreignId('ng_state_id')->nullable(); //->refernces('data_id')->on('ng_states')
+            $table->foreignId('ng_local_government_id')->nullable(); //->refernces('data_id')->on('ng_local_governments')
+            $table->foreignId('ng_polling_unit')->nullable(); //->refernces('data_id')->on('ng_polling_units')
             $table->foreignId('type_id')->refernces('id')->on('violence_types')->nullable();
             $table->string('title')->nullable();
             $table->text('description')->nullable();

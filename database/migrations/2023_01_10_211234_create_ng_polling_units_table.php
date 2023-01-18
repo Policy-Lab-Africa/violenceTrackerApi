@@ -23,7 +23,7 @@ return new class extends Migration
             $table->string('units')->nullable();
             $table->string('delimitation')->nullable();
             $table->string('remark')->nullable();
-            $table->foreignId('ward_id')->references('data_id')->on('ng_wards')->nullable();
+            $table->foreignId('ward_id')->nullable(); // ->references('data_id')->on('ng_wards')
             $table->timestamps();
         });
     }

@@ -18,7 +18,7 @@ return new class extends Migration
             $table->unsignedBigInteger('data_id')->index();
             $table->string('name')->nullable();
             $table->string('abbreviation')->nullable();
-            $table->foreignId('state_id')->references('data_id')->on('ng_states');
+            $table->foreignId('state_id'); // ->references('data_id')->on('ng_states')
             $table->timestamps();
         });
     }

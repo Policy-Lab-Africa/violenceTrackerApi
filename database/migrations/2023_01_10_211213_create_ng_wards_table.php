@@ -18,7 +18,7 @@ return new class extends Migration
             $table->unsignedBigInteger('data_id')->index();
             $table->string('name')->nullable();
             $table->string('abbreviation')->nullable();
-            $table->foreignId('local_government_id')->references('data_id')->on('ng_local_governments');
+            $table->foreignId('local_government_id'); // ->references('data_id')->on('ng_local_governments')
             $table->timestamps();
         });
     }
