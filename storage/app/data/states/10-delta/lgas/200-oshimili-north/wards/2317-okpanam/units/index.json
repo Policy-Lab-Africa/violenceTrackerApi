@@ -1,0 +1,1032 @@
+[
+  {
+    "id": "42117",
+    "name": "MGBALA PRIMARY SCHOOL - UMUOBODO/OGBEODE AND UMUCHIMA VILLAGES",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "10/14/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.226972,
+      "longitude": 6.6701995,
+      "viewport": {
+        "northeast": {
+          "lat": 6.228264329892722,
+          "lng": 6.671684429892723
+        },
+        "southwest": {
+          "lat": 6.225564670107278,
+          "lng": 6.668984770107279
+        }
+      },
+      "formatted_address": "8 Chiazor ijeh street, off midwifery market road, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.226972,6.6701995",
+      "google_place_id": "ChIJS-YqgnLzQxARbkjprQVyjQI"
+    }
+  },
+  {
+    "id": "42118",
+    "name": "HEALTH CENTRE - UMUOSUMA/UMUONAHE/ODOGWU AND ASAYA CAMPS",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "10/14/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.2324147,
+      "longitude": 6.6625023,
+      "viewport": {
+        "northeast": {
+          "lat": 6.233859829892721,
+          "lng": 6.663881629892722
+        },
+        "southwest": {
+          "lat": 6.231160170107278,
+          "lng": 6.661181970107278
+        }
+      },
+      "formatted_address": "No 3 Shirlet Onyemenem Street Off Okpanam Road By Redeem Junction Okpanam Opposite Federal Ministry of Agriculture Off Okpanam Road, Okpanam Rd, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2324147,6.6625023",
+      "google_place_id": "ChIJH5r9OvLxQxARVX2Mc24hPak"
+    }
+  },
+  {
+    "id": "42119",
+    "name": "TOWN HALL - UMUMALE/UMUOMAKE/OGBEOBI/OGBEOJIE",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "10/14/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1964928,
+      "longitude": 6.708067499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.197834929892722,
+          "lng": 6.709437379892721
+        },
+        "southwest": {
+          "lat": 6.195135270107278,
+          "lng": 6.706737720107277
+        }
+      },
+      "formatted_address": "5PW5+H6W, Onuorah Chukwurah Drive, Umuagu 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1964928,6.708067499999999",
+      "google_place_id": "ChIJr_lgJcvzQxARenHb7ytndUg"
+    }
+  },
+  {
+    "id": "42120",
+    "name": "BUDGET BANK/ASHIA EKE - IDIGBAOJI/IDIGBAOCHA/UMUOBIAYE",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "10/14/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "42121",
+    "name": "TAI SOLARIN PRIMARY SCHOOL - OKWUTE UGBO/IYIABI/IYIOYIBO/POST OFFICE/OLD ASABA ROAD",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "10/14/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "42122",
+    "name": "ACHALLA HALL - AMACHAI/AGBAHWE CAMP/OGANA III CAMPS/OGBE OJIE CAMPS",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "10/14/09/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.326628299999999,
+      "longitude": 6.4689554,
+      "viewport": {
+        "northeast": {
+          "lat": 6.327971579892722,
+          "lng": 6.470347329892721
+        },
+        "southwest": {
+          "lat": 6.325271920107278,
+          "lng": 6.467647670107278
+        }
+      },
+      "formatted_address": "8FG9+MH4, Issele-Uku Rd, 320111, Issele-Uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.326628299999999,6.4689554",
+      "google_place_id": "ChIJseXl8sH-QxARC6wDZHcLMcc"
+    }
+  },
+  {
+    "id": "42123",
+    "name": "UMUGBAH PRIMARY SCHOOL OGBEOZOMA/ANIKPO CAMPS",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "10/14/09/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.2279332,
+      "longitude": 6.6625836,
+      "viewport": {
+        "northeast": {
+          "lat": 6.229287879892722,
+          "lng": 6.663908729892721
+        },
+        "southwest": {
+          "lat": 6.226588220107278,
+          "lng": 6.661209070107277
+        }
+      },
+      "formatted_address": "6MH7+52H, 320108, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2279332,6.6625836",
+      "google_place_id": "ChIJ7bJ870XxQxARNi58PjQ4pak"
+    }
+  },
+  {
+    "id": "42124",
+    "name": "SAVIORS APOSTOLIC CHURCH - OGBEOSADI OKOTOMI/DELEI/ANWAI CAMP",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "10/14/09/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.229667,
+      "longitude": 6.6610647,
+      "viewport": {
+        "northeast": {
+          "lat": 6.231036579892722,
+          "lng": 6.662378629892722
+        },
+        "southwest": {
+          "lat": 6.228336920107278,
+          "lng": 6.659678970107278
+        }
+      },
+      "formatted_address": "6MH6+VC8, 320108, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.229667,6.6610647",
+      "google_place_id": "ChIJ8WP50uPxQxARbUmkeQtmLbc"
+    }
+  },
+  {
+    "id": "42125",
+    "name": "UGBOLU PRIMARY SCHOOL I - AMACHAI/MILE 5/ANWAI GODWIN CAMPS",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "10/14/09/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "42126",
+    "name": "UGBOLU PRIMARY SCHOOL II - OGBE OBI/OGBEIYASE/UGWUNWOSU AND OTHERS",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "10/14/09/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.264497,
+      "longitude": 6.307619499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.265649179892722,
+          "lng": 6.309299379892722
+        },
+        "southwest": {
+          "lat": 6.262949520107278,
+          "lng": 6.306599720107278
+        }
+      },
+      "formatted_address": "7875+Q2X, 321107, Umunede, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.264497,6.307619499999999",
+      "google_place_id": "ChIJ9_6lE0BRQRARZp5WSuGaxqE"
+    }
+  },
+  {
+    "id": "42127",
+    "name": "UGBOLU PRIMARY SCHOOL II - OGBE OBI/OGBEIYASE/UGWUNWOSU AND OTHERS",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "10/14/09/011",
+    "remark": "EXISTING PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.264497,
+      "longitude": 6.307619499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.265649179892722,
+          "lng": 6.309299379892722
+        },
+        "southwest": {
+          "lat": 6.262949520107278,
+          "lng": 6.306599720107278
+        }
+      },
+      "formatted_address": "7875+Q2X, 321107, Umunede, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.264497,6.307619499999999",
+      "google_place_id": "ChIJ9_6lE0BRQRARZp5WSuGaxqE"
+    }
+  },
+  {
+    "id": "42128",
+    "name": "MOLUMBA'S COLLEGE",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "10/14/09/012",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.2329186,
+      "longitude": 6.6477771,
+      "viewport": {
+        "northeast": {
+          "lat": 6.234056629892722,
+          "lng": 6.649348729892721
+        },
+        "southwest": {
+          "lat": 6.231356970107278,
+          "lng": 6.646649070107277
+        }
+      },
+      "formatted_address": "320108, Okpanam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2329186,6.6477771",
+      "google_place_id": "ChIJAQAAAJzxQxARVGgO1i2sCSk"
+    }
+  },
+  {
+    "id": "42129",
+    "name": "NNEMIYI OPEN SPACE",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "10/14/09/013",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "42130",
+    "name": "OBODOGBA COMMUNITY HALL",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "10/14/09/014",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "42131",
+    "name": "UMUMALE ADA NWAFOR CAMP",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "10/14/09/015",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "42132",
+    "name": "UMUOBIAJE COMMUNITY HALL",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "10/14/09/016",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "42133",
+    "name": "UMUOMAKE COMMUNITY HALL",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "10/14/09/017",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "42134",
+    "name": "OGWA OGBEOSADI HALL",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "10/14/09/018",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.205540099999999,
+      "longitude": 6.721731999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.20685737989272,
+          "lng": 6.723078629892721
+        },
+        "southwest": {
+          "lat": 6.204157720107276,
+          "lng": 6.720378970107276
+        }
+      },
+      "formatted_address": "Nwaezeakpu Street, Off Nnebisi Road, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.205540099999999,6.721731999999999",
+      "google_place_id": "ChIJM-uS3o_yQxARy2qSDOikKvg"
+    }
+  },
+  {
+    "id": "42135",
+    "name": "OBODOGWUGWU OPEN SPACE",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "10/14/09/019",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "42136",
+    "name": "OGBEOWELLE OPEN SPACE",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "10/14/09/020",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1964928,
+      "longitude": 6.708067499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.197834929892722,
+          "lng": 6.709437379892721
+        },
+        "southwest": {
+          "lat": 6.195135270107278,
+          "lng": 6.706737720107277
+        }
+      },
+      "formatted_address": "5PW5+H6W, Onuorah Chukwurah Drive, Umuagu 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1964928,6.708067499999999",
+      "google_place_id": "ChIJr_lgJcvzQxARenHb7ytndUg"
+    }
+  },
+  {
+    "id": "42137",
+    "name": "POST OFFICE OKPANAM",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "10/14/09/021",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.227725,
+      "longitude": 6.6590853,
+      "viewport": {
+        "northeast": {
+          "lat": 6.229004129892721,
+          "lng": 6.66043962989272
+        },
+        "southwest": {
+          "lat": 6.226304470107277,
+          "lng": 6.657739970107277
+        }
+      },
+      "formatted_address": "56 Okpanam Rd, 320108, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.227725,6.6590853",
+      "google_place_id": "ChIJEeJMRqCNQRARl806KVF1J6k"
+    }
+  },
+  {
+    "id": "42138",
+    "name": "OWELLE OPEN SPACE AIRPORT VIEW OKPANAM",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "10/14/09/022",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.2259462,
+      "longitude": 6.6510269,
+      "viewport": {
+        "northeast": {
+          "lat": 6.227295779892722,
+          "lng": 6.652368429892722
+        },
+        "southwest": {
+          "lat": 6.224596120107278,
+          "lng": 6.649668770107279
+        }
+      },
+      "formatted_address": "6MG2+9CC, Airport View Estate Street, 320108, Okpanam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2259462,6.6510269",
+      "google_place_id": "ChIJXbGmEBTxQxARM_8rI0tdE8s"
+    }
+  },
+  {
+    "id": "42139",
+    "name": "UNITY SECONDARY SCHOOL",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "10/14/09/023",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.2458484,
+      "longitude": 6.6436923,
+      "viewport": {
+        "northeast": {
+          "lat": 6.247302279892722,
+          "lng": 6.645104879892721
+        },
+        "southwest": {
+          "lat": 6.244602620107278,
+          "lng": 6.642405220107277
+        }
+      },
+      "formatted_address": "6JWV+8FP, 320108, Okpanam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2458484,6.6436923",
+      "google_place_id": "ChIJLwuz-ubxQxARfKQkQddcP8o"
+    }
+  },
+  {
+    "id": "42140",
+    "name": "NEW ERA PRIMARY SCHOOL",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "10/14/09/024",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "42141",
+    "name": "OGANA CAMP AMACHAI",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "10/14/09/025",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.2329186,
+      "longitude": 6.6477771,
+      "viewport": {
+        "northeast": {
+          "lat": 6.234056629892722,
+          "lng": 6.649348729892721
+        },
+        "southwest": {
+          "lat": 6.231356970107278,
+          "lng": 6.646649070107277
+        }
+      },
+      "formatted_address": "320108, Okpanam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2329186,6.6477771",
+      "google_place_id": "ChIJAQAAAJzxQxARVGgO1i2sCSk"
+    }
+  },
+  {
+    "id": "42142",
+    "name": "ORUCHI COMPREHENSIVE SECONDARY SCHOOL AMACHAI",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "10/14/09/026",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.2469865,
+      "longitude": 6.641608199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.248384279892722,
+          "lng": 6.642889779892721
+        },
+        "southwest": {
+          "lat": 6.245684620107278,
+          "lng": 6.640190120107277
+        }
+      },
+      "formatted_address": "6JWR+QJX, Unnamed road, Amachai 320108, Okpanam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2469865,6.641608199999999",
+      "google_place_id": "ChIJ4wSI9VTxQxARGQfpqJA2t0Y"
+    }
+  },
+  {
+    "id": "42143",
+    "name": "OGWA OPEN SPACE",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "10/14/09/027",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1816141,
+      "longitude": 6.5303102,
+      "viewport": {
+        "northeast": {
+          "lat": 6.207701999999999,
+          "lng": 6.5592029
+        },
+        "southwest": {
+          "lat": 6.158498,
+          "lng": 6.499962999999999
+        }
+      },
+      "formatted_address": "320109, Ogwashi-Ukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1816141,6.5303102",
+      "google_place_id": "ChIJjSD5jdvkQxAR_nBCDQzPIk0"
+    }
+  },
+  {
+    "id": "42144",
+    "name": "OGBE OJIE HALL",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "10/14/09/028",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "42145",
+    "name": "OGBE OBI OPEN SPACE",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "10/14/09/029",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.201877899999999,
+      "longitude": 6.7347116,
+      "viewport": {
+        "northeast": {
+          "lat": 6.202847229892721,
+          "lng": 6.735807929892721
+        },
+        "southwest": {
+          "lat": 6.200147570107277,
+          "lng": 6.733108270107278
+        }
+      },
+      "formatted_address": "Nnebisi Road, Umuonaje 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.201877899999999,6.7347116",
+      "google_place_id": "ChIJbRWIfNfzQxARr-WbfOuFRfk"
+    }
+  },
+  {
+    "id": "42146",
+    "name": "AWELLE MARKET SPACE",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "10/14/09/030",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.237376299999999,
+      "longitude": 6.6467937,
+      "viewport": {
+        "northeast": {
+          "lat": 6.238751979892721,
+          "lng": 6.648150179892722
+        },
+        "southwest": {
+          "lat": 6.236052320107278,
+          "lng": 6.645450520107278
+        }
+      },
+      "formatted_address": "6JPW+WPR, Asaba Road, 320108, Okpanam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.237376299999999,6.6467937",
+      "google_place_id": "ChIJldHSFp7xQxARzpjvIbDZxx4"
+    }
+  },
+  {
+    "id": "42147",
+    "name": "UMUMALE COMMUNITY HALL",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "10/14/09/031",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "42148",
+    "name": "AMACHAI TOWN HALL",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "10/14/09/032",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1964928,
+      "longitude": 6.708067499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.197834929892722,
+          "lng": 6.709437379892721
+        },
+        "southwest": {
+          "lat": 6.195135270107278,
+          "lng": 6.706737720107277
+        }
+      },
+      "formatted_address": "5PW5+H6W, Onuorah Chukwurah Drive, Umuagu 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1964928,6.708067499999999",
+      "google_place_id": "ChIJr_lgJcvzQxARenHb7ytndUg"
+    }
+  },
+  {
+    "id": "42149",
+    "name": "OGWA AMACHAI",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "10/14/09/033",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.2588004,
+      "longitude": 6.5577155,
+      "viewport": {
+        "northeast": {
+          "lat": 6.260098679892723,
+          "lng": 6.559144029892722
+        },
+        "southwest": {
+          "lat": 6.257399020107279,
+          "lng": 6.556444370107278
+        }
+      },
+      "formatted_address": "7H55+G3G, Enu-Ani Mega City, Edo-Ogwashi, Delta, Abo Ogwash-Ukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2588004,6.5577155",
+      "google_place_id": "ChIJa5pMl2r6QxARqjggyUrhQkQ"
+    }
+  },
+  {
+    "id": "42150",
+    "name": "UGBOLU SECONDARY SCHOOL, UGBOLU",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "10/14/09/034",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.2329186,
+      "longitude": 6.6477771,
+      "viewport": {
+        "northeast": {
+          "lat": 6.234056629892722,
+          "lng": 6.649348729892721
+        },
+        "southwest": {
+          "lat": 6.231356970107278,
+          "lng": 6.646649070107277
+        }
+      },
+      "formatted_address": "6JMX+546, 320108, Okpanam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2329186,6.6477771",
+      "google_place_id": "ChIJAQAAAJzxQxAR0Eb8rZtViRs"
+    }
+  },
+  {
+    "id": "42151",
+    "name": "AFIA EKE OPEN SPACE",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "10/14/09/035",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "42152",
+    "name": "OGBE-OBI COMMUNITY HALL, UGBOLU",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "036",
+    "units": "036",
+    "delimitation": "10/14/09/036",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": -26.6474326,
+      "longitude": 152.8091294,
+      "viewport": {
+        "northeast": {
+          "lat": -26.64617177010728,
+          "lng": 152.8105291798927
+        },
+        "southwest": {
+          "lat": -26.64887142989273,
+          "lng": 152.8078295201073
+        }
+      },
+      "formatted_address": "856 Obi Obi Rd, Obi Obi QLD 4574, Australia",
+      "google_map_url": "https://maps.google.com?q=-26.6474326,152.8091294",
+      "google_place_id": "ChIJo8DI5uV_lGsReaCJgMAQsgk"
+    }
+  },
+  {
+    "id": "42153",
+    "name": "AFOR MARKET UGBOLU",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "037",
+    "units": "037",
+    "delimitation": "10/14/09/037",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.3375916,
+      "longitude": 6.748521999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.339023529892722,
+          "lng": 6.749866029892721
+        },
+        "southwest": {
+          "lat": 6.336323870107278,
+          "lng": 6.747166370107277
+        }
+      },
+      "formatted_address": "8PQX+2C2, 432109, Oroma Etiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3375916,6.748521999999999",
+      "google_place_id": "ChIJO9uSpjT1QxARtGxJKRIlHJo"
+    }
+  },
+  {
+    "id": "42154",
+    "name": "ASHIA EKE, MILE 5, UGBOLU",
+    "registration_area_id": "2317",
+    "precise_location": null,
+    "abbreviation": "038",
+    "units": "038",
+    "delimitation": "10/14/09/038",
+    "remark": "NEW PU",
+    "ward_id": "2317",
+    "ward_name": "OKPANAM",
+    "local_government_id": "200",
+    "local_government_name": "OSHIMILI - NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  }
+]

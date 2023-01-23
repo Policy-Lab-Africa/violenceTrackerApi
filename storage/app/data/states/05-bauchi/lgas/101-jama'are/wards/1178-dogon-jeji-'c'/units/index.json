@@ -1,0 +1,250 @@
+[
+  {
+    "id": "21061",
+    "name": "GONGO,   GONGO PRIMARY SCHOOL I",
+    "registration_area_id": "1178",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "05/11/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1178",
+    "ward_name": "DOGON JEJI 'C'",
+    "local_government_id": "101",
+    "local_government_name": "JAMA'ARE",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21062",
+    "name": "GONGO,   GONGO PRIMARY SCHOOL II",
+    "registration_area_id": "1178",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "05/11/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1178",
+    "ward_name": "DOGON JEJI 'C'",
+    "local_government_id": "101",
+    "local_government_name": "JAMA'ARE",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.7117249,
+      "longitude": 9.9590714,
+      "viewport": {
+        "northeast": {
+          "lat": 11.71311362989272,
+          "lng": 9.960470779892724
+        },
+        "southwest": {
+          "lat": 11.71041397010728,
+          "lng": 9.95777112010728
+        }
+      },
+      "formatted_address": "PX65+PJ7, 751107, Jamaare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7117249,9.9590714",
+      "google_place_id": "ChIJ8_pRc3cyqhER9Tu7Tq1S_Fg"
+    }
+  },
+  {
+    "id": "21063",
+    "name": "GILAR,   GILAR  PRIMARY SCHOOL I",
+    "registration_area_id": "1178",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "05/11/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1178",
+    "ward_name": "DOGON JEJI 'C'",
+    "local_government_id": "101",
+    "local_government_name": "JAMA'ARE",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.7168823,
+      "longitude": 9.9581881,
+      "viewport": {
+        "northeast": {
+          "lat": 11.71836197989272,
+          "lng": 9.959502879892723
+        },
+        "southwest": {
+          "lat": 11.71566232010728,
+          "lng": 9.956803220107279
+        }
+      },
+      "formatted_address": "PX85+Q74, 751107, Jamaare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7168823,9.9581881",
+      "google_place_id": "ChIJeTfTU_UtqhEReYiSAUc7h9g"
+    }
+  },
+  {
+    "id": "21064",
+    "name": "GILAR,   GILAR  PRIMARY SCHOOL II",
+    "registration_area_id": "1178",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "05/11/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1178",
+    "ward_name": "DOGON JEJI 'C'",
+    "local_government_id": "101",
+    "local_government_name": "JAMA'ARE",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.7168415,
+      "longitude": 9.9581652,
+      "viewport": {
+        "northeast": {
+          "lat": 11.71813557989272,
+          "lng": 9.95950407989272
+        },
+        "southwest": {
+          "lat": 11.71543592010728,
+          "lng": 9.956804420107277
+        }
+      },
+      "formatted_address": "Gilar Primary School, 751107, Gellar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7168415,9.9581652",
+      "google_place_id": "ChIJpwDZc4gtqhERBQ_yU7mOQ2w"
+    }
+  },
+  {
+    "id": "21065",
+    "name": "GILAR,   GILAR  PRIMARY SCHOOL III",
+    "registration_area_id": "1178",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "05/11/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1178",
+    "ward_name": "DOGON JEJI 'C'",
+    "local_government_id": "101",
+    "local_government_name": "JAMA'ARE",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.7168823,
+      "longitude": 9.9581881,
+      "viewport": {
+        "northeast": {
+          "lat": 11.71836197989272,
+          "lng": 9.959502879892723
+        },
+        "southwest": {
+          "lat": 11.71566232010728,
+          "lng": 9.956803220107279
+        }
+      },
+      "formatted_address": "PX85+Q74, 751107, Jamaare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7168823,9.9581881",
+      "google_place_id": "ChIJeTfTU_UtqhEReYiSAUc7h9g"
+    }
+  },
+  {
+    "id": "21066",
+    "name": "AREWA, AREWA I",
+    "registration_area_id": "1178",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "05/11/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1178",
+    "ward_name": "DOGON JEJI 'C'",
+    "local_government_id": "101",
+    "local_government_name": "JAMA'ARE",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6707475,
+      "longitude": 9.927613599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67206677989272,
+          "lng": 9.928887129892724
+        },
+        "southwest": {
+          "lat": 11.66936712010728,
+          "lng": 9.92618747010728
+        }
+      },
+      "formatted_address": "MWCH+832, 751106, Jamaare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6707475,9.927613599999999",
+      "google_place_id": "ChIJm6WuskgzqhER6fevYkMPYSk"
+    }
+  },
+  {
+    "id": "21067",
+    "name": "AREWA, AREWA II",
+    "registration_area_id": "1178",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "05/11/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1178",
+    "ward_name": "DOGON JEJI 'C'",
+    "local_government_id": "101",
+    "local_government_name": "JAMA'ARE",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.7429868,
+      "longitude": 9.9632741,
+      "viewport": {
+        "northeast": {
+          "lat": 11.751452,
+          "lng": 9.9800323
+        },
+        "southwest": {
+          "lat": 11.7291607,
+          "lng": 9.9404843
+        }
+      },
+      "formatted_address": "Dogon Jeji A, 751107, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7429868,9.9632741",
+      "google_place_id": "ChIJee0l_rwtqhER1g7bwy9-yb4"
+    }
+  },
+  {
+    "id": "21068",
+    "name": "FATISKE,  H. JAURO",
+    "registration_area_id": "1178",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "05/11/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1178",
+    "ward_name": "DOGON JEJI 'C'",
+    "local_government_id": "101",
+    "local_government_name": "JAMA'ARE",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.7429868,
+      "longitude": 9.9632741,
+      "viewport": {
+        "northeast": {
+          "lat": 11.751452,
+          "lng": 9.9800323
+        },
+        "southwest": {
+          "lat": 11.7291607,
+          "lng": 9.9404843
+        }
+      },
+      "formatted_address": "Dogon Jeji A, 751107, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7429868,9.9632741",
+      "google_place_id": "ChIJee0l_rwtqhER1g7bwy9-yb4"
+    }
+  }
+]

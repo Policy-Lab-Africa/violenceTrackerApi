@@ -1,0 +1,350 @@
+[
+  {
+    "id": "99653",
+    "name": "LAMBO - LAMBO",
+    "registration_area_id": "5063",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/22/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5063",
+    "ward_name": "WURMA 'B'",
+    "local_government_id": "435",
+    "local_government_name": "KURFI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.5823726,
+      "longitude": 7.4647169,
+      "viewport": {
+        "northeast": {
+          "lat": 12.58330217989272,
+          "lng": 7.466121029892721
+        },
+        "southwest": {
+          "lat": 12.58060252010728,
+          "lng": 7.463421370107278
+        }
+      },
+      "formatted_address": "HFJ7+WVW, 821103, Wurma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5823726,7.4647169",
+      "google_place_id": "ChIJDeMPmb7JsRERqUUpmIh8j6A"
+    }
+  },
+  {
+    "id": "99654",
+    "name": "SUDA - SUDA",
+    "registration_area_id": "5063",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/22/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5063",
+    "ward_name": "WURMA 'B'",
+    "local_government_id": "435",
+    "local_government_name": "KURFI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0840719,
+      "longitude": 7.4069081,
+      "viewport": {
+        "northeast": {
+          "lat": 13.08549722989272,
+          "lng": 7.408286879892722
+        },
+        "southwest": {
+          "lat": 13.08279757010728,
+          "lng": 7.405587220107278
+        }
+      },
+      "formatted_address": "Jibia Rd, 320001, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0840719,7.4069081",
+      "google_place_id": "ChIJ9Qt07BJrsBERIHMHnR2AuAk"
+    }
+  },
+  {
+    "id": "99655",
+    "name": "BEGUWA BEGUWA",
+    "registration_area_id": "5063",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/22/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5063",
+    "ward_name": "WURMA 'B'",
+    "local_government_id": "435",
+    "local_government_name": "KURFI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7753758,
+      "longitude": 7.7138364,
+      "viewport": {
+        "northeast": {
+          "lat": 12.778736,
+          "lng": 7.715213099999999
+        },
+        "southwest": {
+          "lat": 12.7735349,
+          "lng": 7.7121901
+        }
+      },
+      "formatted_address": "822103, Beguwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7753758,7.7138364",
+      "google_place_id": "ChIJZ3DQMuQrsBERg14GDzwxNNE"
+    }
+  },
+  {
+    "id": "99656",
+    "name": "TAMU - TAMU",
+    "registration_area_id": "5063",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/22/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5063",
+    "ward_name": "WURMA 'B'",
+    "local_government_id": "435",
+    "local_government_name": "KURFI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "99657",
+    "name": "FANDOGARI - FANDOGARI",
+    "registration_area_id": "5063",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/22/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5063",
+    "ward_name": "WURMA 'B'",
+    "local_government_id": "435",
+    "local_government_name": "KURFI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6043984,
+      "longitude": 7.3854002,
+      "viewport": {
+        "northeast": {
+          "lat": 12.60581812989272,
+          "lng": 7.38674242989272
+        },
+        "southwest": {
+          "lat": 12.60311847010728,
+          "lng": 7.384042770107276
+        }
+      },
+      "formatted_address": "J93P+Q52, 821103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6043984,7.3854002",
+      "google_place_id": "ChIJrzLcv4S2sRERO-x9J-cMtS8"
+    }
+  },
+  {
+    "id": "99658",
+    "name": "YALLE - YALLE",
+    "registration_area_id": "5063",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/22/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5063",
+    "ward_name": "WURMA 'B'",
+    "local_government_id": "435",
+    "local_government_name": "KURFI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6685912,
+      "longitude": 7.484056999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.66994387989272,
+          "lng": 7.485406479892722
+        },
+        "southwest": {
+          "lat": 12.66724422010728,
+          "lng": 7.482706820107278
+        }
+      },
+      "formatted_address": "Unguwar Limamai, Kurfi Lga, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6685912,7.484056999999999",
+      "google_place_id": "ChIJgfmr9VrLsREROoGrsqIlIMo"
+    }
+  },
+  {
+    "id": "99659",
+    "name": "BALAGAWA - BALAGAWA",
+    "registration_area_id": "5063",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/22/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5063",
+    "ward_name": "WURMA 'B'",
+    "local_government_id": "435",
+    "local_government_name": "KURFI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "99660",
+    "name": "CHIKAWA - CHIKAWA",
+    "registration_area_id": "5063",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/22/10/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5063",
+    "ward_name": "WURMA 'B'",
+    "local_government_id": "435",
+    "local_government_name": "KURFI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6043984,
+      "longitude": 7.3854002,
+      "viewport": {
+        "northeast": {
+          "lat": 12.60581812989272,
+          "lng": 7.38674242989272
+        },
+        "southwest": {
+          "lat": 12.60311847010728,
+          "lng": 7.384042770107276
+        }
+      },
+      "formatted_address": "J93P+Q52, 821103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6043984,7.3854002",
+      "google_place_id": "ChIJrzLcv4S2sRERtpp5ahtGWOE"
+    }
+  },
+  {
+    "id": "99661",
+    "name": "GUMBA - GUMBA",
+    "registration_area_id": "5063",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/22/10/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5063",
+    "ward_name": "WURMA 'B'",
+    "local_government_id": "435",
+    "local_government_name": "KURFI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "99662",
+    "name": "FARINDUTSE - FARIN DUTSE",
+    "registration_area_id": "5063",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/22/10/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5063",
+    "ward_name": "WURMA 'B'",
+    "local_government_id": "435",
+    "local_government_name": "KURFI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.7361634,
+      "longitude": 9.395865299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.73746882989272,
+          "lng": 9.397230529892722
+        },
+        "southwest": {
+          "lat": 11.73476917010728,
+          "lng": 9.394530870107278
+        }
+      },
+      "formatted_address": "P9PW+F89, 720211, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7361634,9.395865299999999",
+      "google_place_id": "ChIJcxu9_KTlqxERgMVmT3MeGgw"
+    }
+  },
+  {
+    "id": "99663",
+    "name": "LAMBO 'B' - LAMBO",
+    "registration_area_id": "5063",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/22/10/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5063",
+    "ward_name": "WURMA 'B'",
+    "local_government_id": "435",
+    "local_government_name": "KURFI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.5823726,
+      "longitude": 7.4647169,
+      "viewport": {
+        "northeast": {
+          "lat": 12.58330217989272,
+          "lng": 7.466121029892721
+        },
+        "southwest": {
+          "lat": 12.58060252010728,
+          "lng": 7.463421370107278
+        }
+      },
+      "formatted_address": "HFJ7+WVW, 821103, Wurma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5823726,7.4647169",
+      "google_place_id": "ChIJDeMPmb7JsRERqUUpmIh8j6A"
+    }
+  },
+  {
+    "id": "99664",
+    "name": "TAMU PRIMARY SCHOOL",
+    "registration_area_id": "5063",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "20/22/10/012",
+    "remark": "NEW PU",
+    "ward_id": "5063",
+    "ward_name": "WURMA 'B'",
+    "local_government_id": "435",
+    "local_government_name": "KURFI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6162589,
+      "longitude": 7.443709399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.61762447989272,
+          "lng": 7.445096829892719
+        },
+        "southwest": {
+          "lat": 12.61492482010728,
+          "lng": 7.442397170107276
+        }
+      },
+      "formatted_address": "JC8V+GF4, 821103, Wurma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6162589,7.443709399999999",
+      "google_place_id": "ChIJQTMoHQTKsRERYbbs-LQeCcQ"
+    }
+  }
+]

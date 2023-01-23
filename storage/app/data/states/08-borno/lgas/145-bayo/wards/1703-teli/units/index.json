@@ -1,0 +1,236 @@
+[
+  {
+    "id": "31662",
+    "name": "TELI PRI. SCH. I",
+    "registration_area_id": "1703",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/04/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1703",
+    "ward_name": "TELI",
+    "local_government_id": "145",
+    "local_government_name": "BAYO",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4415994,
+      "longitude": 11.7042497,
+      "viewport": {
+        "northeast": {
+          "lat": 10.44294047989272,
+          "lng": 11.70558187989272
+        },
+        "southwest": {
+          "lat": 10.44024082010728,
+          "lng": 11.70288222010728
+        }
+      },
+      "formatted_address": "Teli Primary School, 603104, Biriyel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4415994,11.7042497",
+      "google_place_id": "ChIJY8kVY9bfARERsQ_qCgNQ4_4"
+    }
+  },
+  {
+    "id": "31663",
+    "name": "TELI CENTRAL",
+    "registration_area_id": "1703",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/04/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1703",
+    "ward_name": "TELI",
+    "local_government_id": "145",
+    "local_government_name": "BAYO",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4444837,
+      "longitude": 11.7032712,
+      "viewport": {
+        "northeast": {
+          "lat": 10.4496461,
+          "lng": 11.707435
+        },
+        "southwest": {
+          "lat": 10.433813,
+          "lng": 11.697158
+        }
+      },
+      "formatted_address": "603104, Teli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4444837,11.7032712",
+      "google_place_id": "ChIJdcTJvNbfARER4Y48gZaM768"
+    }
+  },
+  {
+    "id": "31664",
+    "name": "YARD",
+    "registration_area_id": "1703",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/04/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1703",
+    "ward_name": "TELI",
+    "local_government_id": "145",
+    "local_government_name": "BAYO",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31665",
+    "name": "GARINGADO PRI.SCH",
+    "registration_area_id": "1703",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/04/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1703",
+    "ward_name": "TELI",
+    "local_government_id": "145",
+    "local_government_name": "BAYO",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31666",
+    "name": "BULAMA KABBI",
+    "registration_area_id": "1703",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/04/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1703",
+    "ward_name": "TELI",
+    "local_government_id": "145",
+    "local_government_name": "BAYO",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31667",
+    "name": "GEDABA PRI. SCH",
+    "registration_area_id": "1703",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/04/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1703",
+    "ward_name": "TELI",
+    "local_government_id": "145",
+    "local_government_name": "BAYO",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31668",
+    "name": "TELI PRIMARY SCHOOL II",
+    "registration_area_id": "1703",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/04/08/007",
+    "remark": "NEW PU",
+    "ward_id": "1703",
+    "ward_name": "TELI",
+    "local_government_id": "145",
+    "local_government_name": "BAYO",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4415994,
+      "longitude": 11.7042497,
+      "viewport": {
+        "northeast": {
+          "lat": 10.44294047989272,
+          "lng": 11.70558187989272
+        },
+        "southwest": {
+          "lat": 10.44024082010728,
+          "lng": 11.70288222010728
+        }
+      },
+      "formatted_address": "Teli Primary School, 603104, Biriyel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4415994,11.7042497",
+      "google_place_id": "ChIJY8kVY9bfARERsQ_qCgNQ4_4"
+    }
+  },
+  {
+    "id": "31669",
+    "name": "TELI DISPENSARY",
+    "registration_area_id": "1703",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "08/04/08/008",
+    "remark": "NEW PU",
+    "ward_id": "1703",
+    "ward_name": "TELI",
+    "local_government_id": "145",
+    "local_government_name": "BAYO",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4457353,
+      "longitude": 11.7065877,
+      "viewport": {
+        "northeast": {
+          "lat": 10.44716737989272,
+          "lng": 11.70789292989272
+        },
+        "southwest": {
+          "lat": 10.44446772010728,
+          "lng": 11.70519327010728
+        }
+      },
+      "formatted_address": "CPW4+7JW, 603104, Biriyel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4457353,11.7065877",
+      "google_place_id": "ChIJpY7PfNXfARERlDuf32RBFlQ"
+    }
+  },
+  {
+    "id": "31670",
+    "name": "KOFAR LAWAN GARIN GADO",
+    "registration_area_id": "1703",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "08/04/08/009",
+    "remark": "NEW PU",
+    "ward_id": "1703",
+    "ward_name": "TELI",
+    "local_government_id": "145",
+    "local_government_name": "BAYO",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31671",
+    "name": "KOFAR MAI-UNGUWA SANO GARO",
+    "registration_area_id": "1703",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "08/04/08/010",
+    "remark": "NEW PU",
+    "ward_id": "1703",
+    "ward_name": "TELI",
+    "local_government_id": "145",
+    "local_government_name": "BAYO",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  }
+]

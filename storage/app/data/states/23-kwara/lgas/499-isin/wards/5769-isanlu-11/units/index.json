@@ -1,0 +1,219 @@
+[
+  {
+    "id": "111071",
+    "name": "ILE AGBASIN OPEN SPACE",
+    "registration_area_id": "5769",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "23/10/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5769",
+    "ward_name": "ISANLU 11",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111072",
+    "name": "MARKET CENTRE OPEN SPACE",
+    "registration_area_id": "5769",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "23/10/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5769",
+    "ward_name": "ISANLU 11",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2755486,
+      "longitude": 5.015527,
+      "viewport": {
+        "northeast": {
+          "lat": 8.276834829892724,
+          "lng": 5.016980979892721
+        },
+        "southwest": {
+          "lat": 8.27413517010728,
+          "lng": 5.014281320107277
+        }
+      },
+      "formatted_address": "Oke Onigbin-Odo Ore, 251105, Owu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2755486,5.015527",
+      "google_place_id": "ChIJDyCtp9XZNxARZY0O46iHBus"
+    }
+  },
+  {
+    "id": "111073",
+    "name": "OKE-EPA OPEN SPACE",
+    "registration_area_id": "5769",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "23/10/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5769",
+    "ward_name": "ISANLU 11",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111074",
+    "name": "MATERNITY CENTRE",
+    "registration_area_id": "5769",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "23/10/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5769",
+    "ward_name": "ISANLU 11",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2297849,
+      "longitude": 5.0819982,
+      "viewport": {
+        "northeast": {
+          "lat": 8.231101429892721,
+          "lng": 5.083357529892723
+        },
+        "southwest": {
+          "lat": 8.228401770107277,
+          "lng": 5.080657870107279
+        }
+      },
+      "formatted_address": "63HJ+WQ9, 251106, Isanlu Isin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2297849,5.0819982",
+      "google_place_id": "ChIJg4NaHwsnSBAR1oCmfNmyBkY"
+    }
+  },
+  {
+    "id": "111075",
+    "name": "AIYEDE OPEN SPACE",
+    "registration_area_id": "5769",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "23/10/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5769",
+    "ward_name": "ISANLU 11",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111076",
+    "name": "IGBAGBOTEDO OPEN SPACE",
+    "registration_area_id": "5769",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "23/10/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5769",
+    "ward_name": "ISANLU 11",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111077",
+    "name": "ILE OLOMUJO OPEN SPACE",
+    "registration_area_id": "5769",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "23/10/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5769",
+    "ward_name": "ISANLU 11",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111078",
+    "name": "MODEL PRIMARY HEALTH CENTRE",
+    "registration_area_id": "5769",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "23/10/04/008",
+    "remark": "NEW PU",
+    "ward_id": "5769",
+    "ward_name": "ISANLU 11",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2787845,
+      "longitude": 5.0206846,
+      "viewport": {
+        "northeast": {
+          "lat": 8.28026262989272,
+          "lng": 5.021922379892721
+        },
+        "southwest": {
+          "lat": 8.277562970107276,
+          "lng": 5.019222720107277
+        }
+      },
+      "formatted_address": "72HC+G77, 251105, OWU-ISIN, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2787845,5.0206846",
+      "google_place_id": "ChIJCc3UX4DXNxAR4f4KDlr5q2g"
+    }
+  },
+  {
+    "id": "111079",
+    "name": "POST OFFICE ISANLU-ISIN",
+    "registration_area_id": "5769",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "23/10/04/009",
+    "remark": "NEW PU",
+    "ward_id": "5769",
+    "ward_name": "ISANLU 11",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1399852,
+      "longitude": 5.1016839,
+      "viewport": {
+        "northeast": {
+          "lat": 8.141338529892721,
+          "lng": 5.103019079892722
+        },
+        "southwest": {
+          "lat": 8.138638870107277,
+          "lng": 5.100319420107279
+        }
+      },
+      "formatted_address": "44Q2+XMH, 251103, Elehin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1399852,5.1016839",
+      "google_place_id": "ChIJNVn3nFUgSBARX9962PSCgGM"
+    }
+  }
+]

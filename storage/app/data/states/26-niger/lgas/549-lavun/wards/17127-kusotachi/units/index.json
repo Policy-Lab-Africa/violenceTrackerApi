@@ -1,0 +1,614 @@
+[
+  {
+    "id": "337143",
+    "name": "SHABA MALIKI",
+    "registration_area_id": "17127",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/13/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17127",
+    "ward_name": "KUSOTACHI",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.020549299999999,
+      "longitude": 6.0731905,
+      "viewport": {
+        "northeast": {
+          "lat": 9.02186037989272,
+          "lng": 6.074480579892721
+        },
+        "southwest": {
+          "lat": 9.019160720107276,
+          "lng": 6.071780920107277
+        }
+      },
+      "formatted_address": "6FX823CF+67J, 912211, Gbando, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.020549299999999,6.0731905",
+      "google_place_id": "ChIJoyRwkjpdSRARLGHhS2iGQdo"
+    }
+  },
+  {
+    "id": "337144",
+    "name": "SA'ACHI",
+    "registration_area_id": "17127",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/13/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17127",
+    "ward_name": "KUSOTACHI",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.395472,
+      "longitude": 5.641737,
+      "viewport": {
+        "northeast": {
+          "lat": 9.396980679892723,
+          "lng": 5.643135179892721
+        },
+        "southwest": {
+          "lat": 9.394281020107279,
+          "lng": 5.640435520107277
+        }
+      },
+      "formatted_address": "6FX79JWR+5MQ, zhigun, ward 913102, Awodu Kinchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.395472,5.641737",
+      "google_place_id": "ChIJK0JmPdgxShARI8yedVpTD7s"
+    }
+  },
+  {
+    "id": "337145",
+    "name": "NDALOKE",
+    "registration_area_id": "17127",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/13/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17127",
+    "ward_name": "KUSOTACHI",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.197875699999999,
+      "longitude": 5.8136294,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1999971,
+          "lng": 5.816766899999999
+        },
+        "southwest": {
+          "lat": 9.19693,
+          "lng": 5.811376
+        }
+      },
+      "formatted_address": "913102, Lavun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.197875699999999,5.8136294",
+      "google_place_id": "ChIJ0fzsACjUSxARSWQu01RqAto"
+    }
+  },
+  {
+    "id": "337146",
+    "name": "KUPAFU DZANA",
+    "registration_area_id": "17127",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/13/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17127",
+    "ward_name": "KUSOTACHI",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "337147",
+    "name": "DOTAKO",
+    "registration_area_id": "17127",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/13/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17127",
+    "ward_name": "KUSOTACHI",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.1697039,
+      "longitude": 5.768447399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.171072429892721,
+          "lng": 5.769784329892721
+        },
+        "southwest": {
+          "lat": 9.168372770107277,
+          "lng": 5.767084670107277
+        }
+      },
+      "formatted_address": "5Q99+V9G, 913102, Seraka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1697039,5.768447399999999",
+      "google_place_id": "ChIJs2rGvAvVSxARfiuU6Tu20Sc"
+    }
+  },
+  {
+    "id": "337148",
+    "name": "KUTUGI DADI",
+    "registration_area_id": "17127",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/13/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17127",
+    "ward_name": "KUSOTACHI",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.203280699999999,
+      "longitude": 5.6038541,
+      "viewport": {
+        "northeast": {
+          "lat": 9.20474727989272,
+          "lng": 5.605201279892721
+        },
+        "southwest": {
+          "lat": 9.202047620107276,
+          "lng": 5.602501620107277
+        }
+      },
+      "formatted_address": "6J33+8G9, 913102, Kutigi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.203280699999999,5.6038541",
+      "google_place_id": "ChIJs1odzdQpShARPp4wo2J3MkM"
+    }
+  },
+  {
+    "id": "337149",
+    "name": "GOGATA MAJIN",
+    "registration_area_id": "17127",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/13/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17127",
+    "ward_name": "KUSOTACHI",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.197875699999999,
+      "longitude": 5.8136294,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1999971,
+          "lng": 5.816766899999999
+        },
+        "southwest": {
+          "lat": 9.19693,
+          "lng": 5.811376
+        }
+      },
+      "formatted_address": "913102, Lavun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.197875699999999,5.8136294",
+      "google_place_id": "ChIJ0fzsACjUSxARSWQu01RqAto"
+    }
+  },
+  {
+    "id": "337150",
+    "name": "SODANGI",
+    "registration_area_id": "17127",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/13/10/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17127",
+    "ward_name": "KUSOTACHI",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9747,
+      "longitude": 6.039499999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.976106079892721,
+          "lng": 6.040942229892721
+        },
+        "southwest": {
+          "lat": 8.973406420107278,
+          "lng": 6.038242570107277
+        }
+      },
+      "formatted_address": "X2FQ+VRC, 912211, Dokotigi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9747,6.039499999999999",
+      "google_place_id": "ChIJhZFRzcRnSRARQd5b3-1pB9k"
+    }
+  },
+  {
+    "id": "337151",
+    "name": "KUSOTACHI NDAIJI",
+    "registration_area_id": "17127",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "26/13/10/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17127",
+    "ward_name": "KUSOTACHI",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "337152",
+    "name": "NNAFYANE",
+    "registration_area_id": "17127",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "26/13/10/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17127",
+    "ward_name": "KUSOTACHI",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.568148,
+      "longitude": 5.3242086,
+      "viewport": {
+        "northeast": {
+          "lat": 9.569446529892721,
+          "lng": 5.325669579892722
+        },
+        "southwest": {
+          "lat": 9.566746870107277,
+          "lng": 5.322969920107278
+        }
+      },
+      "formatted_address": "Shop 2 Opp. Police Station Tashan Hajiya Lavun/Kutigi, LGA, 913101, Tashan Hajiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.568148,5.3242086",
+      "google_place_id": "ChIJVRlc9XRrShAR9H-6qJSFMso"
+    }
+  },
+  {
+    "id": "337153",
+    "name": "KAGOWOGI",
+    "registration_area_id": "17127",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "26/13/10/011",
+    "remark": "EXISTING PU",
+    "ward_id": "17127",
+    "ward_name": "KUSOTACHI",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.197875699999999,
+      "longitude": 5.8136294,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1999971,
+          "lng": 5.816766899999999
+        },
+        "southwest": {
+          "lat": 9.19693,
+          "lng": 5.811376
+        }
+      },
+      "formatted_address": "913102, Lavun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.197875699999999,5.8136294",
+      "google_place_id": "ChIJ0fzsACjUSxARSWQu01RqAto"
+    }
+  },
+  {
+    "id": "337154",
+    "name": "CHANCHAGA",
+    "registration_area_id": "17127",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "26/13/10/012",
+    "remark": "EXISTING PU",
+    "ward_id": "17127",
+    "ward_name": "KUSOTACHI",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9438838,
+      "longitude": 6.0106937,
+      "viewport": {
+        "northeast": {
+          "lat": 8.944924,
+          "lng": 6.0149349
+        },
+        "southwest": {
+          "lat": 8.9410349,
+          "lng": 6.0054909
+        }
+      },
+      "formatted_address": "912211, Kupafu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9438838,6.0106937",
+      "google_place_id": "ChIJ7x_3WpNoSRARCzEWJ8RKn_o"
+    }
+  },
+  {
+    "id": "337155",
+    "name": "KUSOTACHI BANA  I",
+    "registration_area_id": "17127",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "26/13/10/013",
+    "remark": "EXISTING PU",
+    "ward_id": "17127",
+    "ward_name": "KUSOTACHI",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0288486,
+      "longitude": 6.089103199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1537522,
+          "lng": 6.1499164
+        },
+        "southwest": {
+          "lat": 8.9445373,
+          "lng": 6.0067664
+        }
+      },
+      "formatted_address": "Kusotachi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0288486,6.089103199999999",
+      "google_place_id": "ChIJQ7yqM_1dSRARUGFbbeIeCA0"
+    }
+  },
+  {
+    "id": "337156",
+    "name": "BATAKO",
+    "registration_area_id": "17127",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "26/13/10/014",
+    "remark": "EXISTING PU",
+    "ward_id": "17127",
+    "ward_name": "KUSOTACHI",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "337157",
+    "name": "SAKIWA",
+    "registration_area_id": "17127",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "26/13/10/015",
+    "remark": "EXISTING PU",
+    "ward_id": "17127",
+    "ward_name": "KUSOTACHI",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.395472,
+      "longitude": 5.641737,
+      "viewport": {
+        "northeast": {
+          "lat": 9.396980679892723,
+          "lng": 5.643135179892721
+        },
+        "southwest": {
+          "lat": 9.394281020107279,
+          "lng": 5.640435520107277
+        }
+      },
+      "formatted_address": "6FX79JWR+5MQ, zhigun, ward 913102, Awodu Kinchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.395472,5.641737",
+      "google_place_id": "ChIJK0JmPdgxShARI8yedVpTD7s"
+    }
+  },
+  {
+    "id": "337158",
+    "name": "GADZAN",
+    "registration_area_id": "17127",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "26/13/10/016",
+    "remark": "EXISTING PU",
+    "ward_id": "17127",
+    "ward_name": "KUSOTACHI",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9879927,
+      "longitude": 6.008211999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.989370329892722,
+          "lng": 6.00949697989272
+        },
+        "southwest": {
+          "lat": 8.986670670107278,
+          "lng": 6.006797320107276
+        }
+      },
+      "formatted_address": "6FW8X2Q5+56C Gadza Kusodaci, Motugi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9879927,6.008211999999999",
+      "google_place_id": "ChIJfYYcEe9nSRARqUS6grtpVuo"
+    }
+  },
+  {
+    "id": "337159",
+    "name": "EMI  LUGI HEALTH CENTER",
+    "registration_area_id": "17127",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "26/13/10/017",
+    "remark": "NEW PU",
+    "ward_id": "17127",
+    "ward_name": "KUSOTACHI",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.073768,
+      "longitude": 5.9985083,
+      "viewport": {
+        "northeast": {
+          "lat": 9.075370529892721,
+          "lng": 5.999808279892721
+        },
+        "southwest": {
+          "lat": 9.072670870107277,
+          "lng": 5.997108620107277
+        }
+      },
+      "formatted_address": "Suleija-Lapai-Bida Road, 912101, Bida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.073768,5.9985083",
+      "google_place_id": "ChIJx_RoBUJhSRARMH0pueusYaM"
+    }
+  },
+  {
+    "id": "337160",
+    "name": "MAJIN  GARI",
+    "registration_area_id": "17127",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "26/13/10/018",
+    "remark": "NEW PU",
+    "ward_id": "17127",
+    "ward_name": "KUSOTACHI",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.395472,
+      "longitude": 5.641737,
+      "viewport": {
+        "northeast": {
+          "lat": 9.396980679892723,
+          "lng": 5.643135179892721
+        },
+        "southwest": {
+          "lat": 9.394281020107279,
+          "lng": 5.640435520107277
+        }
+      },
+      "formatted_address": "6FX79JWR+5MQ, zhigun, ward 913102, Awodu Kinchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.395472,5.641737",
+      "google_place_id": "ChIJK0JmPdgxShARI8yedVpTD7s"
+    }
+  },
+  {
+    "id": "337161",
+    "name": "NDAWANGWA",
+    "registration_area_id": "17127",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "26/13/10/019",
+    "remark": "NEW PU",
+    "ward_id": "17127",
+    "ward_name": "KUSOTACHI",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.203280699999999,
+      "longitude": 5.6038541,
+      "viewport": {
+        "northeast": {
+          "lat": 9.20474727989272,
+          "lng": 5.605201279892721
+        },
+        "southwest": {
+          "lat": 9.202047620107276,
+          "lng": 5.602501620107277
+        }
+      },
+      "formatted_address": "6J33+8G9, 913102, Kutigi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.203280699999999,5.6038541",
+      "google_place_id": "ChIJs1odzdQpShARPp4wo2J3MkM"
+    }
+  },
+  {
+    "id": "337162",
+    "name": "NASARAFU PRY. SCHOOL",
+    "registration_area_id": "17127",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "26/13/10/020",
+    "remark": "NEW PU",
+    "ward_id": "17127",
+    "ward_name": "KUSOTACHI",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0046553,
+      "longitude": 6.0793766,
+      "viewport": {
+        "northeast": {
+          "lat": 9.006139529892723,
+          "lng": 6.080878529892722
+        },
+        "southwest": {
+          "lat": 9.003439870107279,
+          "lng": 6.078178870107278
+        }
+      },
+      "formatted_address": "6FX8233H+VMX, Nasarafu, 912104, Bororo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0046553,6.0793766",
+      "google_place_id": "ChIJ8X_tYwpdSRAR2HBhFgRVXSY"
+    }
+  }
+]

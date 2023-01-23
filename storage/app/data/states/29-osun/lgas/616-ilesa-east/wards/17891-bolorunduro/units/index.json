@@ -1,0 +1,680 @@
+[
+  {
+    "id": "350650",
+    "name": "FRONTAGE COCOA STORE IJOFI",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "29/18/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "350651",
+    "name": "ISONA CHURCH AREA",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "29/18/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5911749,
+      "longitude": 4.7329268,
+      "viewport": {
+        "northeast": {
+          "lat": 7.6237483,
+          "lng": 4.7503929
+        },
+        "southwest": {
+          "lat": 7.5587991,
+          "lng": 4.708736099999999
+        }
+      },
+      "formatted_address": "Bolorunduro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5911749,4.7329268",
+      "google_place_id": "ChIJEWPbMgcYOBARq9-sZdJwiAM"
+    }
+  },
+  {
+    "id": "350652",
+    "name": "OROGBA AREA",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "29/18/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.617945199999999,
+      "longitude": 4.7395355,
+      "viewport": {
+        "northeast": {
+          "lat": 7.619295029892721,
+          "lng": 4.740885329892721
+        },
+        "southwest": {
+          "lat": 7.616595370107277,
+          "lng": 4.738185670107277
+        }
+      },
+      "formatted_address": "Orogba Lane, 233285, Ilerin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.617945199999999,4.7395355",
+      "google_place_id": "ChIJqWg0nG8YOBARXtzWNwCgje0"
+    }
+  },
+  {
+    "id": "350653",
+    "name": "APOSTOLIC PRY. SCHOOL, OKE-IRO I",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "29/18/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.619824199999999,
+      "longitude": 4.7386782,
+      "viewport": {
+        "northeast": {
+          "lat": 7.62118177989272,
+          "lng": 4.740030379892722
+        },
+        "southwest": {
+          "lat": 7.618482120107276,
+          "lng": 4.737330720107278
+        }
+      },
+      "formatted_address": "JP9Q+WFF, Oke Iro Street, 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.619824199999999,4.7386782",
+      "google_place_id": "ChIJIXnVNmUYOBARAvvWdHnHvAA"
+    }
+  },
+  {
+    "id": "350654",
+    "name": "APOSTOLIC PRY. SCHOOL, OKE IRO II",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "29/18/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.619824199999999,
+      "longitude": 4.7386782,
+      "viewport": {
+        "northeast": {
+          "lat": 7.62118177989272,
+          "lng": 4.740030379892722
+        },
+        "southwest": {
+          "lat": 7.618482120107276,
+          "lng": 4.737330720107278
+        }
+      },
+      "formatted_address": "JP9Q+WFF, Oke Iro Street, 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.619824199999999,4.7386782",
+      "google_place_id": "ChIJIXnVNmUYOBARAvvWdHnHvAA"
+    }
+  },
+  {
+    "id": "350655",
+    "name": "ORO AJIMOKO PRY. SCHOOL I",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "29/18/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.658202999999999,
+      "longitude": 4.726272799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.659606029892723,
+          "lng": 4.727539079892721
+        },
+        "southwest": {
+          "lat": 7.656906370107279,
+          "lng": 4.724839420107277
+        }
+      },
+      "formatted_address": "MP5G+7GJ, Oshogbo - Ilesha Rd, 233103, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.658202999999999,4.726272799999999",
+      "google_place_id": "ChIJuWHwsAkjOBARXLZQvZy7UI4"
+    }
+  },
+  {
+    "id": "350656",
+    "name": "ORO AJIMOKO PRY. SCHOOL II",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "29/18/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.623541,
+      "longitude": 4.7309059,
+      "viewport": {
+        "northeast": {
+          "lat": 7.624893979892723,
+          "lng": 4.732267029892721
+        },
+        "southwest": {
+          "lat": 7.622194320107279,
+          "lng": 4.729567370107278
+        }
+      },
+      "formatted_address": "JPFJ+C96, Oke Ese Street, 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.623541,4.7309059",
+      "google_place_id": "ChIJLywe0X4YOBARFMDwGthlgJw"
+    }
+  },
+  {
+    "id": "350657",
+    "name": "UNITED ANGLICAN PRY. SCHOOL I",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "29/18/10/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.565417,
+      "longitude": 4.8948269,
+      "viewport": {
+        "northeast": {
+          "lat": 7.566750229892721,
+          "lng": 4.896202929892721
+        },
+        "southwest": {
+          "lat": 7.564050570107277,
+          "lng": 4.893503270107277
+        }
+      },
+      "formatted_address": "HV8V+5WG, Unnamed Road, 233118, Erin Ijesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.565417,4.8948269",
+      "google_place_id": "ChIJxWiDIl8POBARz1GBw8yCtoo"
+    }
+  },
+  {
+    "id": "350658",
+    "name": "UNITED ANGLICAN PRY. SCHOOL II",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "29/18/10/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.565417,
+      "longitude": 4.8948269,
+      "viewport": {
+        "northeast": {
+          "lat": 7.566750229892721,
+          "lng": 4.896202929892721
+        },
+        "southwest": {
+          "lat": 7.564050570107277,
+          "lng": 4.893503270107277
+        }
+      },
+      "formatted_address": "HV8V+5WG, Unnamed Road, 233118, Erin Ijesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.565417,4.8948269",
+      "google_place_id": "ChIJxWiDIl8POBARz1GBw8yCtoo"
+    }
+  },
+  {
+    "id": "350659",
+    "name": "ST. THERESA PRY. SCHOOL I",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "29/18/10/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.784481,
+      "longitude": 5.5047237,
+      "viewport": {
+        "northeast": {
+          "lat": 7.78578222989272,
+          "lng": 5.506165429892723
+        },
+        "southwest": {
+          "lat": 7.783082570107276,
+          "lng": 5.503465770107278
+        }
+      },
+      "formatted_address": "QGM3+QVX, 370105, Ikole, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.784481,5.5047237",
+      "google_place_id": "ChIJDbCVCfx3SBARKRPNb1f9640"
+    }
+  },
+  {
+    "id": "350660",
+    "name": "ST. THERESA PRY. SCHOOL II",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "29/18/10/011",
+    "remark": "EXISTING PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.1458648,
+      "longitude": 5.1042348,
+      "viewport": {
+        "northeast": {
+          "lat": 7.147260429892722,
+          "lng": 5.105450279892722
+        },
+        "southwest": {
+          "lat": 7.144560770107277,
+          "lng": 5.102750620107278
+        }
+      },
+      "formatted_address": "44W3+8MX, 351105, Alade, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1458648,5.1042348",
+      "google_place_id": "ChIJr2Zv0yuBRxARSKWAjHwUToU"
+    }
+  },
+  {
+    "id": "350661",
+    "name": "OLOMILAGBALA AREA",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "29/18/10/012",
+    "remark": "EXISTING PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5911749,
+      "longitude": 4.7329268,
+      "viewport": {
+        "northeast": {
+          "lat": 7.6237483,
+          "lng": 4.7503929
+        },
+        "southwest": {
+          "lat": 7.5587991,
+          "lng": 4.708736099999999
+        }
+      },
+      "formatted_address": "Bolorunduro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5911749,4.7329268",
+      "google_place_id": "ChIJEWPbMgcYOBARq9-sZdJwiAM"
+    }
+  },
+  {
+    "id": "350662",
+    "name": "HOPE GRAMMAR SCHOOL",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "29/18/10/013",
+    "remark": "EXISTING PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.591636399999999,
+      "longitude": 4.743568,
+      "viewport": {
+        "northeast": {
+          "lat": 7.593062579892721,
+          "lng": 4.744920679892722
+        },
+        "southwest": {
+          "lat": 7.590362920107277,
+          "lng": 4.742221020107278
+        }
+      },
+      "formatted_address": "HPRV+J9X, Bolorunduro Road, 233111, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.591636399999999,4.743568",
+      "google_place_id": "ChIJk_riVhkYOBARuo8JwrO51sw"
+    }
+  },
+  {
+    "id": "350663",
+    "name": "OPEN SPACE INFRONT OF PRIMARY HEALTH CENTRE, OKE IRO STREET, ILESA",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "29/18/10/014",
+    "remark": "NEW PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6263911,
+      "longitude": 4.7650818,
+      "viewport": {
+        "northeast": {
+          "lat": 7.627893129892723,
+          "lng": 4.766366779892722
+        },
+        "southwest": {
+          "lat": 7.625193470107278,
+          "lng": 4.763667120107278
+        }
+      },
+      "formatted_address": "233111, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6263911,4.7650818",
+      "google_place_id": "ChIJj2phmWkZOBARvPw8MWHCwbU"
+    }
+  },
+  {
+    "id": "350664",
+    "name": "OPEN SPACE OPP. CCC OROGBA, ILESA",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "29/18/10/015",
+    "remark": "NEW PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.617945199999999,
+      "longitude": 4.7395355,
+      "viewport": {
+        "northeast": {
+          "lat": 7.619295029892721,
+          "lng": 4.740885329892721
+        },
+        "southwest": {
+          "lat": 7.616595370107277,
+          "lng": 4.738185670107277
+        }
+      },
+      "formatted_address": "Orogba Lane, 233285, Ilerin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.617945199999999,4.7395355",
+      "google_place_id": "ChIJqWg0nG8YOBARXtzWNwCgje0"
+    }
+  },
+  {
+    "id": "350665",
+    "name": "OPEN SPACE BESIDE NEW GENERATION MINISTRY, BOLORUNDURO ILESA",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "29/18/10/016",
+    "remark": "NEW PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.618863200000001,
+      "longitude": 4.7297113,
+      "viewport": {
+        "northeast": {
+          "lat": 7.620214079892721,
+          "lng": 4.731045329892722
+        },
+        "southwest": {
+          "lat": 7.617514420107277,
+          "lng": 4.728345670107278
+        }
+      },
+      "formatted_address": "JP9H+GRW, 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.618863200000001,4.7297113",
+      "google_place_id": "ChIJV_v2L3gYOBARwqYUyPRmCsE"
+    }
+  },
+  {
+    "id": "350666",
+    "name": "METHODIST PRY SCHOOL, IYEMOGUN",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "29/18/10/017",
+    "remark": "NEW PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.613372000000001,
+      "longitude": 4.736954799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.614728829892723,
+          "lng": 4.738519029892721
+        },
+        "southwest": {
+          "lat": 7.612029170107279,
+          "lng": 4.735819370107277
+        }
+      },
+      "formatted_address": "JP7P+8QW, 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.613372000000001,4.736954799999999",
+      "google_place_id": "ChIJXxaJ8nEYOBARbX6yz2t3mdw"
+    }
+  },
+  {
+    "id": "350667",
+    "name": "OPEN SPACE OPP. SAK FILLING STATION, BOLORUNDURO",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "29/18/10/018",
+    "remark": "NEW PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6173284,
+      "longitude": 4.7123145,
+      "viewport": {
+        "northeast": {
+          "lat": 7.618572379892721,
+          "lng": 4.713608579892722
+        },
+        "southwest": {
+          "lat": 7.615872720107277,
+          "lng": 4.710908920107278
+        }
+      },
+      "formatted_address": "JP86+WWP, 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6173284,4.7123145",
+      "google_place_id": "ChIJs9y79ZEiOBARB1gP3V1XaX8"
+    }
+  },
+  {
+    "id": "350668",
+    "name": "OPEN SPACE BESIDE APOSTOLIC CHURCH ATABUTU",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "29/18/10/019",
+    "remark": "NEW PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "350669",
+    "name": "OPEN SPACE AMUTA JUNCTION BUS STOP OLOMILAGBALA",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "29/18/10/020",
+    "remark": "NEW PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.596616,
+      "longitude": 4.743837699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.597960529892721,
+          "lng": 4.745186529892722
+        },
+        "southwest": {
+          "lat": 7.595260870107277,
+          "lng": 4.742486870107278
+        }
+      },
+      "formatted_address": "Amuta Lane Olomilagbala Bolounduro, Annexx Osun, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.596616,4.743837699999999",
+      "google_place_id": "ChIJiU7iOtsZOBARQWUxbVvBmmo"
+    }
+  },
+  {
+    "id": "350670",
+    "name": "FRONTAGE OSUN COLLEGE OF HEALTH TECHNOLOGY",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "29/18/10/021",
+    "remark": "NEW PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5916298,
+      "longitude": 4.7418137,
+      "viewport": {
+        "northeast": {
+          "lat": 7.593088229892722,
+          "lng": 4.743067679892722
+        },
+        "southwest": {
+          "lat": 7.590388570107278,
+          "lng": 4.740368020107279
+        }
+      },
+      "formatted_address": "HPRR+MP4, Oshogbo - Ilesha Rd, 233111, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5916298,4.7418137",
+      "google_place_id": "ChIJIbT2jBsYOBARNQNm8yEbLGs"
+    }
+  },
+  {
+    "id": "350671",
+    "name": "OPEN SPACE OKE AANU GUEST HOUSE JUNCTION",
+    "registration_area_id": "17891",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "29/18/10/022",
+    "remark": "NEW PU",
+    "ward_id": "17891",
+    "ward_name": "BOLORUNDURO",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "id": "27415",
+    "name": "YUHE - TSE - YUHE COMP.",
+    "registration_area_id": "1479",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "07/08/12/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1479",
+    "ward_name": "SENGEV",
+    "local_government_id": "126",
+    "local_government_name": "GWER WEST",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "27416",
+    "name": "SHIA - TSE - SHIA COMP",
+    "registration_area_id": "1479",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "07/08/12/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1479",
+    "ward_name": "SENGEV",
+    "local_government_id": "126",
+    "local_government_name": "GWER WEST",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.815085499999999,
+      "longitude": 8.1557066,
+      "viewport": {
+        "northeast": {
+          "lat": 7.8761868,
+          "lng": 8.253287199999999
+        },
+        "southwest": {
+          "lat": 7.747996799999999,
+          "lng": 8.0782747
+        }
+      },
+      "formatted_address": "Sengev, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.815085499999999,8.1557066",
+      "google_place_id": "ChIJSQcKnW1zUBARwQX4ohy444E"
+    }
+  },
+  {
+    "id": "27417",
+    "name": "ABIAN - ABIAN MARKET SQUARE",
+    "registration_area_id": "1479",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "07/08/12/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1479",
+    "ward_name": "SENGEV",
+    "local_government_id": "126",
+    "local_government_name": "GWER WEST",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.686232,
+      "longitude": 8.197330299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.687589479892722,
+          "lng": 8.198764429892721
+        },
+        "southwest": {
+          "lat": 7.684889820107278,
+          "lng": 8.196064770107277
+        }
+      },
+      "formatted_address": "M5PW+GW3, 971102, Naka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.686232,8.197330299999999",
+      "google_place_id": "ChIJFa-atuifWhAR0AirdCnx83c"
+    }
+  },
+  {
+    "id": "27418",
+    "name": "MBACHWA - LGEA SCHOOL, MBACHWA",
+    "registration_area_id": "1479",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "07/08/12/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1479",
+    "ward_name": "SENGEV",
+    "local_government_id": "126",
+    "local_government_name": "GWER WEST",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.776861,
+      "longitude": 8.166956,
+      "viewport": {
+        "northeast": {
+          "lat": 7.778431179892721,
+          "lng": 8.168017729892721
+        },
+        "southwest": {
+          "lat": 7.775731520107277,
+          "lng": 8.165318070107277
+        }
+      },
+      "formatted_address": "6FVCQ5G8+PQW, Mbachwa, 971102, Odeji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.776861,8.166956",
+      "google_place_id": "ChIJDYpOHyV1UBARNcP2tzQbtro"
+    }
+  },
+  {
+    "id": "27419",
+    "name": "IKYERKYAA - RCM SCHOOL, IKYERKYAA",
+    "registration_area_id": "1479",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "07/08/12/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1479",
+    "ward_name": "SENGEV",
+    "local_government_id": "126",
+    "local_government_name": "GWER WEST",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7321863,
+      "longitude": 8.5391496,
+      "viewport": {
+        "northeast": {
+          "lat": 7.733545379892721,
+          "lng": 8.540447079892722
+        },
+        "southwest": {
+          "lat": 7.730845720107277,
+          "lng": 8.537747420107278
+        }
+      },
+      "formatted_address": "PGJQ+VMC, fiidi,opposite Airport, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7321863,8.5391496",
+      "google_place_id": "ChIJAQAAALCBUBARSVJc3gzfuuA"
+    }
+  },
+  {
+    "id": "27420",
+    "name": "ABIAN II - ABIAN MARKET SQUARE",
+    "registration_area_id": "1479",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "07/08/12/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1479",
+    "ward_name": "SENGEV",
+    "local_government_id": "126",
+    "local_government_name": "GWER WEST",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "27421",
+    "name": "KPAR-RCM SCHOOL KPAR",
+    "registration_area_id": "1479",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "07/08/12/007",
+    "remark": "NEW PU",
+    "ward_id": "1479",
+    "ward_name": "SENGEV",
+    "local_government_id": "126",
+    "local_government_name": "GWER WEST",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.819743999999999,
+      "longitude": 8.128751,
+      "viewport": {
+        "northeast": {
+          "lat": 7.821104179892721,
+          "lng": 8.13056802989272
+        },
+        "southwest": {
+          "lat": 7.818404520107277,
+          "lng": 8.127868370107276
+        }
+      },
+      "formatted_address": "6FVCR49H+VGR Chile Sengev, Benue, 972108, Odeji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.819743999999999,8.128751",
+      "google_place_id": "ChIJw5_2pG0NUBARfNHrqInntbM"
+    }
+  },
+  {
+    "id": "27422",
+    "name": "MBADUR-JIKA MARKET SQUARE",
+    "registration_area_id": "1479",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "07/08/12/008",
+    "remark": "NEW PU",
+    "ward_id": "1479",
+    "ward_name": "SENGEV",
+    "local_government_id": "126",
+    "local_government_name": "GWER WEST",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.686232,
+      "longitude": 8.197330299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.687589479892722,
+          "lng": 8.198764429892721
+        },
+        "southwest": {
+          "lat": 7.684889820107278,
+          "lng": 8.196064770107277
+        }
+      },
+      "formatted_address": "M5PW+GW3, 971102, Naka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.686232,8.197330299999999",
+      "google_place_id": "ChIJFa-atuifWhAR0AirdCnx83c"
+    }
+  },
+  {
+    "id": "27423",
+    "name": "IORSHASE-LGEA SCHOOL",
+    "registration_area_id": "1479",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "07/08/12/009",
+    "remark": "NEW PU",
+    "ward_id": "1479",
+    "ward_name": "SENGEV",
+    "local_government_id": "126",
+    "local_government_name": "GWER WEST",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.700188000000001,
+      "longitude": 8.623811,
+      "viewport": {
+        "northeast": {
+          "lat": 7.701580279892721,
+          "lng": 8.625127979892724
+        },
+        "southwest": {
+          "lat": 7.698880620107277,
+          "lng": 8.62242832010728
+        }
+      },
+      "formatted_address": "6FVCPJ2F+3GF Nigerian Air Force Base, FIIDI 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.700188000000001,8.623811",
+      "google_place_id": "ChIJoUr5BbCDUBARR_THMooTicA"
+    }
+  }
+]

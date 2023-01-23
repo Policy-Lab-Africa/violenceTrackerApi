@@ -1,0 +1,895 @@
+[
+  {
+    "id": "88943",
+    "name": "DAN'AGUNDI S.P.S I (DAN'AGUNDI I)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/21/02/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9829515,
+      "longitude": 8.5239669,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98432602989272,
+          "lng": 8.525350479892722
+        },
+        "southwest": {
+          "lat": 11.98162637010728,
+          "lng": 8.522650820107279
+        }
+      },
+      "formatted_address": "XGMF+5HP, Kofar, Street, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9829515,8.5239669",
+      "google_place_id": "ChIJ6Zlki9SBrhERzyTvDCz8nCI"
+    }
+  },
+  {
+    "id": "88944",
+    "name": "DAN'AGUNDI S.P.S II (DAN'AGUNDI II)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/21/02/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9881229,
+      "longitude": 8.520639899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98946467989272,
+          "lng": 8.521953329892723
+        },
+        "southwest": {
+          "lat": 11.98676502010728,
+          "lng": 8.519253670107279
+        }
+      },
+      "formatted_address": "No.273.Emir Place Road Dan Agundi KMC, Agundi Road, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9881229,8.520639899999999",
+      "google_place_id": "ChIJ67ISuVOBrhERW-o_GXLZrnY"
+    }
+  },
+  {
+    "id": "88945",
+    "name": "DAN'AGUNDI S.P.S III (DAN'AGUNDI III)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/21/02/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9829515,
+      "longitude": 8.5239669,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98432602989272,
+          "lng": 8.525350479892722
+        },
+        "southwest": {
+          "lat": 11.98162637010728,
+          "lng": 8.522650820107279
+        }
+      },
+      "formatted_address": "XGMF+5HP, Kofar, Street, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9829515,8.5239669",
+      "google_place_id": "ChIJ6Zlki9SBrhERzyTvDCz8nCI"
+    }
+  },
+  {
+    "id": "88946",
+    "name": "DAN'AGUNDI S.P.S IV (DAN'AGUNDI IV)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/21/02/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9829515,
+      "longitude": 8.5239669,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98432602989272,
+          "lng": 8.525350479892722
+        },
+        "southwest": {
+          "lat": 11.98162637010728,
+          "lng": 8.522650820107279
+        }
+      },
+      "formatted_address": "XGMF+5HP, Kofar, Street, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9829515,8.5239669",
+      "google_place_id": "ChIJ6Zlki9SBrhERzyTvDCz8nCI"
+    }
+  },
+  {
+    "id": "88947",
+    "name": "DAN'AGUNDI S.P.S V (DAN'AGUNDI V)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/21/02/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "88948",
+    "name": "DAN'AGUNDI S.P.S VI (DAN'AGUNDI VI)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/21/02/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9829515,
+      "longitude": 8.5239669,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98432602989272,
+          "lng": 8.525350479892722
+        },
+        "southwest": {
+          "lat": 11.98162637010728,
+          "lng": 8.522650820107279
+        }
+      },
+      "formatted_address": "XGMF+5HP, Kofar, Street, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9829515,8.5239669",
+      "google_place_id": "ChIJ6Zlki9SBrhERzyTvDCz8nCI"
+    }
+  },
+  {
+    "id": "88949",
+    "name": "DAN'AGUNDI S.P.S VII (DAN'AGUNDI VII)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/21/02/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9829515,
+      "longitude": 8.5239669,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98432602989272,
+          "lng": 8.525350479892722
+        },
+        "southwest": {
+          "lat": 11.98162637010728,
+          "lng": 8.522650820107279
+        }
+      },
+      "formatted_address": "XGMF+5HP, Kofar, Street, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9829515,8.5239669",
+      "google_place_id": "ChIJ6Zlki9SBrhERzyTvDCz8nCI"
+    }
+  },
+  {
+    "id": "88950",
+    "name": "DAN'AGUNDI S.P.S VIII (DAN'AGUNDI VIII)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/21/02/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9829515,
+      "longitude": 8.5239669,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98432602989272,
+          "lng": 8.525350479892722
+        },
+        "southwest": {
+          "lat": 11.98162637010728,
+          "lng": 8.522650820107279
+        }
+      },
+      "formatted_address": "XGMF+5HP, Kofar, Street, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9829515,8.5239669",
+      "google_place_id": "ChIJ6Zlki9SBrhERzyTvDCz8nCI"
+    }
+  },
+  {
+    "id": "88951",
+    "name": "DAN'AGUNDI S.P.S IX (DAN'AGUNDI IX)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/21/02/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9829515,
+      "longitude": 8.5239669,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98432602989272,
+          "lng": 8.525350479892722
+        },
+        "southwest": {
+          "lat": 11.98162637010728,
+          "lng": 8.522650820107279
+        }
+      },
+      "formatted_address": "XGMF+5HP, Kofar, Street, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9829515,8.5239669",
+      "google_place_id": "ChIJ6Zlki9SBrhERzyTvDCz8nCI"
+    }
+  },
+  {
+    "id": "88952",
+    "name": "ADO BAYERO ISLAMIYYA I (INDABAWA I)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "19/21/02/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9855131,
+      "longitude": 8.5198748,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98683872989272,
+          "lng": 8.521190229892722
+        },
+        "southwest": {
+          "lat": 11.98413907010728,
+          "lng": 8.518490570107279
+        }
+      },
+      "formatted_address": "Gwangwazo, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9855131,8.5198748",
+      "google_place_id": "ChIJ2SBMrVeArhERZKys3zqeMJk"
+    }
+  },
+  {
+    "id": "88953",
+    "name": "ADO BAYERO ISLAMIYYA II (INDABAWA II)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "19/21/02/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9767312,
+      "longitude": 8.535387799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97810467989272,
+          "lng": 8.536760029892722
+        },
+        "southwest": {
+          "lat": 11.97540502010728,
+          "lng": 8.534060370107278
+        }
+      },
+      "formatted_address": "XGGP+M5R, Ado Bayero Mall, Zoo Rd, Albasa, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9767312,8.535387799999999",
+      "google_place_id": "ChIJedCMeHmBrhERjyNYLrml8ZY"
+    }
+  },
+  {
+    "id": "88954",
+    "name": "ADO BAYERO ISLAMIYYA III (INDABAWA III)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "19/21/02/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9767312,
+      "longitude": 8.535387799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97810467989272,
+          "lng": 8.536760029892722
+        },
+        "southwest": {
+          "lat": 11.97540502010728,
+          "lng": 8.534060370107278
+        }
+      },
+      "formatted_address": "XGGP+M5R, Ado Bayero Mall, Zoo Rd, Albasa, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9767312,8.535387799999999",
+      "google_place_id": "ChIJedCMeHmBrhERjyNYLrml8ZY"
+    }
+  },
+  {
+    "id": "88955",
+    "name": "ADO BAYERO ISLAMIYYA IV (INDABAWA IV)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "19/21/02/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0001427,
+      "longitude": 8.5295341,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00158522989272,
+          "lng": 8.53109247989272
+        },
+        "southwest": {
+          "lat": 11.99888557010728,
+          "lng": 8.528392820107277
+        }
+      },
+      "formatted_address": "NO 489 KOFAR MATA, MUNICIPAL 700212, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0001427,8.5295341",
+      "google_place_id": "ChIJJ7aSOWiBrhERCptVo0SY3Zo"
+    }
+  },
+  {
+    "id": "88956",
+    "name": "ADO BAYERO ISLAMIYYA V (INDABAWA V)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "19/21/02/014",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9767312,
+      "longitude": 8.535387799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97810467989272,
+          "lng": 8.536760029892722
+        },
+        "southwest": {
+          "lat": 11.97540502010728,
+          "lng": 8.534060370107278
+        }
+      },
+      "formatted_address": "XGGP+M5R, Ado Bayero Mall, Zoo Rd, Albasa, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9767312,8.535387799999999",
+      "google_place_id": "ChIJedCMeHmBrhERjyNYLrml8ZY"
+    }
+  },
+  {
+    "id": "88957",
+    "name": "ADO BAYERO ISLAMIYYA VI (INDABAWA VI)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "19/21/02/015",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9767312,
+      "longitude": 8.535387799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97810467989272,
+          "lng": 8.536760029892722
+        },
+        "southwest": {
+          "lat": 11.97540502010728,
+          "lng": 8.534060370107278
+        }
+      },
+      "formatted_address": "XGGP+M5R, Ado Bayero Mall, Zoo Rd, Albasa, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9767312,8.535387799999999",
+      "google_place_id": "ChIJedCMeHmBrhERjyNYLrml8ZY"
+    }
+  },
+  {
+    "id": "88958",
+    "name": "ADO BAYERO ISLAMIYYA VII (INDABAWA VII)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "19/21/02/016",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9767312,
+      "longitude": 8.535387799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97810467989272,
+          "lng": 8.536760029892722
+        },
+        "southwest": {
+          "lat": 11.97540502010728,
+          "lng": 8.534060370107278
+        }
+      },
+      "formatted_address": "XGGP+M5R, Ado Bayero Mall, Zoo Rd, Albasa, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9767312,8.535387799999999",
+      "google_place_id": "ChIJedCMeHmBrhERjyNYLrml8ZY"
+    }
+  },
+  {
+    "id": "88959",
+    "name": "ADO BAYERO ISLAMIYYA VIII (INDABAWA VIII)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "19/21/02/017",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9767312,
+      "longitude": 8.535387799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97810467989272,
+          "lng": 8.536760029892722
+        },
+        "southwest": {
+          "lat": 11.97540502010728,
+          "lng": 8.534060370107278
+        }
+      },
+      "formatted_address": "XGGP+M5R, Ado Bayero Mall, Zoo Rd, Albasa, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9767312,8.535387799999999",
+      "google_place_id": "ChIJedCMeHmBrhERjyNYLrml8ZY"
+    }
+  },
+  {
+    "id": "88960",
+    "name": "WASILA ISLAIMIYYA I (KURMAWA I)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "19/21/02/018",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.98837,
+      "longitude": 8.519669,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98980162989272,
+          "lng": 8.521005479892722
+        },
+        "southwest": {
+          "lat": 11.98710197010728,
+          "lng": 8.518305820107278
+        }
+      },
+      "formatted_address": "XGQ9+8VF, Kofar Dan Agudi 700103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.98837,8.519669",
+      "google_place_id": "ChIJdbxAKlaArhER7_15Ci9q37M"
+    }
+  },
+  {
+    "id": "88961",
+    "name": "WASILA ISLAIMIYYA II (KURMAWA II)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "19/21/02/019",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "88962",
+    "name": "WASILA ISLAIMIYYA III (KURMAWA III)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "19/21/02/020",
+    "remark": "NEW PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "88963",
+    "name": "WASILA ISLAIMIYYA IV (KURMAWA IV)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "19/21/02/021",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9723412,
+      "longitude": 8.5479331,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97371372989272,
+          "lng": 8.549304879892722
+        },
+        "southwest": {
+          "lat": 11.97101407010728,
+          "lng": 8.546605220107278
+        }
+      },
+      "formatted_address": "GSM Market, No. 98 Jemys Plaza, Farm Centre Road, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9723412,8.5479331",
+      "google_place_id": "ChIJe7str72BrhERZ_7ix1q4_zA"
+    }
+  },
+  {
+    "id": "88964",
+    "name": "WASILA ISLAIMIYYA V (KURMAWA V)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "19/21/02/022",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9997827,
+      "longitude": 8.5459818,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00122337989272,
+          "lng": 8.547416529892722
+        },
+        "southwest": {
+          "lat": 11.99852372010728,
+          "lng": 8.544716870107278
+        }
+      },
+      "formatted_address": "Hospital Rd, GRA 700213, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9997827,8.5459818",
+      "google_place_id": "ChIJRf2cPxKBrhERWFAY8RzU17M"
+    }
+  },
+  {
+    "id": "88965",
+    "name": "WASILA ISLAIMIYYA VI (KURMAWA VI)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "19/21/02/023",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9723412,
+      "longitude": 8.5479331,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97371372989272,
+          "lng": 8.549304879892722
+        },
+        "southwest": {
+          "lat": 11.97101407010728,
+          "lng": 8.546605220107278
+        }
+      },
+      "formatted_address": "GSM Market, No. 98 Jemys Plaza, Farm Centre Road, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9723412,8.5479331",
+      "google_place_id": "ChIJe7str72BrhERZ_7ix1q4_zA"
+    }
+  },
+  {
+    "id": "88966",
+    "name": "WASILA ISLAIMIYYA VII (KURMAWA VII)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "19/21/02/024",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9723412,
+      "longitude": 8.5479331,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97371372989272,
+          "lng": 8.549304879892722
+        },
+        "southwest": {
+          "lat": 11.97101407010728,
+          "lng": 8.546605220107278
+        }
+      },
+      "formatted_address": "GSM Market, No. 98 Jemys Plaza, Farm Centre Road, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9723412,8.5479331",
+      "google_place_id": "ChIJe7str72BrhERZ_7ix1q4_zA"
+    }
+  },
+  {
+    "id": "88967",
+    "name": "KURMAWA VIII/WASILA ISLAIMIYYA (KURMAWA VIII)",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "19/21/02/025",
+    "remark": "EXISTING PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.997067,
+      "longitude": 8.5202817,
+      "viewport": {
+        "northeast": {
+          "lat": 11.99841682989272,
+          "lng": 8.521631529892721
+        },
+        "southwest": {
+          "lat": 11.99571717010728,
+          "lng": 8.518931870107277
+        }
+      },
+      "formatted_address": "Kufar Mata Rd, Kano City 700224, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.997067,8.5202817",
+      "google_place_id": "ChIJYwTN2eSArhERWDyn8UawaHY"
+    }
+  },
+  {
+    "id": "88968",
+    "name": "DAN AGUNDI S.P.S",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "19/21/02/026",
+    "remark": "NEW PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9829515,
+      "longitude": 8.5239669,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98432602989272,
+          "lng": 8.525350479892722
+        },
+        "southwest": {
+          "lat": 11.98162637010728,
+          "lng": 8.522650820107279
+        }
+      },
+      "formatted_address": "XGMF+5HP, Kofar, Street, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9829515,8.5239669",
+      "google_place_id": "ChIJ6Zlki9SBrhERzyTvDCz8nCI"
+    }
+  },
+  {
+    "id": "88969",
+    "name": "INDABAWA ADO BAYERO ISLAMIYYA",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "19/21/02/027",
+    "remark": "NEW PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "88970",
+    "name": "WAJILA ISLAMIYYA KURAMAWA",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "19/21/02/028",
+    "remark": "NEW PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9843033,
+      "longitude": 8.522293,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98565517989272,
+          "lng": 8.523646529892723
+        },
+        "southwest": {
+          "lat": 11.98295552010728,
+          "lng": 8.520946870107279
+        }
+      },
+      "formatted_address": "XGMC+PWQ, Kofar Dan Agudi 700103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9843033,8.522293",
+      "google_place_id": "ChIJjw-Ig1aArhER3xp6F3NhMNA"
+    }
+  },
+  {
+    "id": "88971",
+    "name": "WAJILA ISLAMIYYA KURAMAWA",
+    "registration_area_id": "4561",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "19/21/02/029",
+    "remark": "NEW PU",
+    "ward_id": "4561",
+    "ward_name": "DAN'AGUNDI",
+    "local_government_id": "390",
+    "local_government_name": "KANO MUNICIPAL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9843033,
+      "longitude": 8.522293,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98565517989272,
+          "lng": 8.523646529892723
+        },
+        "southwest": {
+          "lat": 11.98295552010728,
+          "lng": 8.520946870107279
+        }
+      },
+      "formatted_address": "XGMC+PWQ, Kofar Dan Agudi 700103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9843033,8.522293",
+      "google_place_id": "ChIJjw-Ig1aArhER3xp6F3NhMNA"
+    }
+  }
+]

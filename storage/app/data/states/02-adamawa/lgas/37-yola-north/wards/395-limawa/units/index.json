@@ -1,0 +1,700 @@
+[
+  {
+    "id": "7724",
+    "name": "ALH GARBA/ 50 ZANGO ST.",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "02/20/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7725",
+    "name": "BUBA MANDA/ 46 ZANGO ST.",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "02/20/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7726",
+    "name": "DASIN MAI RIGA",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "02/20/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.279003999999999,
+      "longitude": 12.4514839,
+      "viewport": {
+        "northeast": {
+          "lat": 9.280353829892722,
+          "lng": 12.45283372989272
+        },
+        "southwest": {
+          "lat": 9.277654170107278,
+          "lng": 12.45013407010728
+        }
+      },
+      "formatted_address": "7FH2+JH5, Mubi Road, Jimeta 640101, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.279003999999999,12.4514839",
+      "google_place_id": "ChIJW3eOQjRr_BARNIFYHsJGvYc"
+    }
+  },
+  {
+    "id": "7727",
+    "name": "ISA ISAWA/ 31 S/WUTA ST.",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "02/20/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7728",
+    "name": "JAURO HAIRU/ OFF M/BELWA ST.",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "02/20/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7729",
+    "name": "KOFAR ALH. ABDULRAHMAN/ OFF MAYANKA ST.",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "02/20/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.279003999999999,
+      "longitude": 12.4514839,
+      "viewport": {
+        "northeast": {
+          "lat": 9.280353829892722,
+          "lng": 12.45283372989272
+        },
+        "southwest": {
+          "lat": 9.277654170107278,
+          "lng": 12.45013407010728
+        }
+      },
+      "formatted_address": "7FH2+JH5, Mubi Road, Jimeta 640101, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.279003999999999,12.4514839",
+      "google_place_id": "ChIJW3eOQjRr_BARNIFYHsJGvYc"
+    }
+  },
+  {
+    "id": "7730",
+    "name": "KOFAR AUDU MAIYADI/ OFF M/BELWA ST.",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "02/20/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.265938,
+      "longitude": 12.410822,
+      "viewport": {
+        "northeast": {
+          "lat": 9.26728897989272,
+          "lng": 12.41217227989272
+        },
+        "southwest": {
+          "lat": 9.264589320107277,
+          "lng": 12.40947262010728
+        }
+      },
+      "formatted_address": "Opposite Custom Office, Zone 3, Wuro Jabbe, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.265938,12.410822",
+      "google_place_id": "ChIJiZb53esU_BARWbgSRRkZ240"
+    }
+  },
+  {
+    "id": "7731",
+    "name": "PARIS HAMMANJODA/ 217 M/MUSTAPHA",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "02/20/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7732",
+    "name": "SABO B. DAKO/ 22 YELWA ST.",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "02/20/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7733",
+    "name": "SANI RABO/ 25 YELWA ST.",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "02/20/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7734",
+    "name": "SUNUNNU/ 1 MAYANKA ST.",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "02/20/07/011",
+    "remark": "EXISTING PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7735",
+    "name": "ZANGO RD/ 90 ZANGO RD",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "02/20/07/012",
+    "remark": "EXISTING PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.150274500000002,
+      "longitude": 12.5271979,
+      "viewport": {
+        "northeast": {
+          "lat": 9.151523329892722,
+          "lng": 12.52845047989272
+        },
+        "southwest": {
+          "lat": 9.148823670107278,
+          "lng": 12.52575082010728
+        }
+      },
+      "formatted_address": "5G2G+4V4, 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.150274500000002,12.5271979",
+      "google_place_id": "ChIJFf4V0BNt_BARPlaYNrdb5g8"
+    }
+  },
+  {
+    "id": "7736",
+    "name": "ZANGO RD/ 50 ZANGO RD I",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "02/20/07/013",
+    "remark": "EXISTING PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.150274500000002,
+      "longitude": 12.5271979,
+      "viewport": {
+        "northeast": {
+          "lat": 9.151523329892722,
+          "lng": 12.52845047989272
+        },
+        "southwest": {
+          "lat": 9.148823670107278,
+          "lng": 12.52575082010728
+        }
+      },
+      "formatted_address": "5G2G+4V4, 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.150274500000002,12.5271979",
+      "google_place_id": "ChIJFf4V0BNt_BARPlaYNrdb5g8"
+    }
+  },
+  {
+    "id": "7737",
+    "name": "ZANGO RD/ 50 ZANGO RD II",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "02/20/07/014",
+    "remark": "EXISTING PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.150274500000002,
+      "longitude": 12.5271979,
+      "viewport": {
+        "northeast": {
+          "lat": 9.151523329892722,
+          "lng": 12.52845047989272
+        },
+        "southwest": {
+          "lat": 9.148823670107278,
+          "lng": 12.52575082010728
+        }
+      },
+      "formatted_address": "5G2G+4V4, 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.150274500000002,12.5271979",
+      "google_place_id": "ChIJFf4V0BNt_BARPlaYNrdb5g8"
+    }
+  },
+  {
+    "id": "7738",
+    "name": "LIMAWA PRIMARY SCHOOL I",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "02/20/07/015",
+    "remark": "NEW PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 11.7203186,
+      "longitude": 9.350285,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72166187989272,
+          "lng": 9.351607879892722
+        },
+        "southwest": {
+          "lat": 11.71896222010728,
+          "lng": 9.348908220107278
+        }
+      },
+      "formatted_address": "720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7203186,9.350285",
+      "google_place_id": "ChIJ-3_DB2PxqxERfXZ1M7c_ENI"
+    }
+  },
+  {
+    "id": "7739",
+    "name": "LIMAWA PRIMARY SCHOOL II",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "02/20/07/016",
+    "remark": "NEW PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.210057899999999,
+      "longitude": 12.4892392,
+      "viewport": {
+        "northeast": {
+          "lat": 9.211395079892723,
+          "lng": 12.49059422989272
+        },
+        "southwest": {
+          "lat": 9.20869542010728,
+          "lng": 12.48789457010728
+        }
+      },
+      "formatted_address": "6F6Q+2MQ, Yola 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.210057899999999,12.4892392",
+      "google_place_id": "ChIJn1YWpF5s_BAR55LkAHwYe9I"
+    }
+  },
+  {
+    "id": "7740",
+    "name": "LIMAWA PRIMARY SCHOOL III",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "02/20/07/017",
+    "remark": "NEW PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.210057899999999,
+      "longitude": 12.4892392,
+      "viewport": {
+        "northeast": {
+          "lat": 9.211395079892723,
+          "lng": 12.49059422989272
+        },
+        "southwest": {
+          "lat": 9.20869542010728,
+          "lng": 12.48789457010728
+        }
+      },
+      "formatted_address": "6F6Q+2MQ, Yola 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.210057899999999,12.4892392",
+      "google_place_id": "ChIJn1YWpF5s_BAR55LkAHwYe9I"
+    }
+  },
+  {
+    "id": "7741",
+    "name": "LIMAWA PRIMARY SCHOOL IV",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "02/20/07/018",
+    "remark": "NEW PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.210057899999999,
+      "longitude": 12.4892392,
+      "viewport": {
+        "northeast": {
+          "lat": 9.211395079892723,
+          "lng": 12.49059422989272
+        },
+        "southwest": {
+          "lat": 9.20869542010728,
+          "lng": 12.48789457010728
+        }
+      },
+      "formatted_address": "6F6Q+2MQ, Yola 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.210057899999999,12.4892392",
+      "google_place_id": "ChIJn1YWpF5s_BAR55LkAHwYe9I"
+    }
+  },
+  {
+    "id": "7742",
+    "name": "ZANGO STREET III NEAR KOFAN MALAM BABA",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "02/20/07/019",
+    "remark": "NEW PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.150274500000002,
+      "longitude": 12.5271979,
+      "viewport": {
+        "northeast": {
+          "lat": 9.151523329892722,
+          "lng": 12.52845047989272
+        },
+        "southwest": {
+          "lat": 9.148823670107278,
+          "lng": 12.52575082010728
+        }
+      },
+      "formatted_address": "5G2G+4V4, 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.150274500000002,12.5271979",
+      "google_place_id": "ChIJFf4V0BNt_BARPlaYNrdb5g8"
+    }
+  },
+  {
+    "id": "7743",
+    "name": "ZANGO STREET IV",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "02/20/07/020",
+    "remark": "NEW PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.150274500000002,
+      "longitude": 12.5271979,
+      "viewport": {
+        "northeast": {
+          "lat": 9.151523329892722,
+          "lng": 12.52845047989272
+        },
+        "southwest": {
+          "lat": 9.148823670107278,
+          "lng": 12.52575082010728
+        }
+      },
+      "formatted_address": "5G2G+4V4, 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.150274500000002,12.5271979",
+      "google_place_id": "ChIJFf4V0BNt_BARPlaYNrdb5g8"
+    }
+  },
+  {
+    "id": "7744",
+    "name": "KOFAR MAMMAN INDIA JUNCTION",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "02/20/07/021",
+    "remark": "NEW PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.279003999999999,
+      "longitude": 12.4514839,
+      "viewport": {
+        "northeast": {
+          "lat": 9.280353829892722,
+          "lng": 12.45283372989272
+        },
+        "southwest": {
+          "lat": 9.277654170107278,
+          "lng": 12.45013407010728
+        }
+      },
+      "formatted_address": "7FH2+JH5, Mubi Road, Jimeta 640101, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.279003999999999,12.4514839",
+      "google_place_id": "ChIJW3eOQjRr_BARNIFYHsJGvYc"
+    }
+  },
+  {
+    "id": "7745",
+    "name": "OFF. ZANGO ROAD NEW MAST",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "02/20/07/022",
+    "remark": "NEW PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.150274500000002,
+      "longitude": 12.5271979,
+      "viewport": {
+        "northeast": {
+          "lat": 9.151523329892722,
+          "lng": 12.52845047989272
+        },
+        "southwest": {
+          "lat": 9.148823670107278,
+          "lng": 12.52575082010728
+        }
+      },
+      "formatted_address": "5G2G+4V4, 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.150274500000002,12.5271979",
+      "google_place_id": "ChIJFf4V0BNt_BARPlaYNrdb5g8"
+    }
+  },
+  {
+    "id": "7746",
+    "name": "1, OLD MAYANKA STREET",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "02/20/07/023",
+    "remark": "NEW PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7747",
+    "name": "MAYANKA STREET",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "02/20/07/024",
+    "remark": "NEW PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.285701999999999,
+      "longitude": 12.458122,
+      "viewport": {
+        "northeast": {
+          "lat": 9.287028379892723,
+          "lng": 12.45951887989272
+        },
+        "southwest": {
+          "lat": 9.284328720107279,
+          "lng": 12.45681922010728
+        }
+      },
+      "formatted_address": "mahmuda firstmornie agent, Mayanka Road, Jimeta 640102, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.285701999999999,12.458122",
+      "google_place_id": "ChIJWzUGMCRr_BARfnr75n_BCWQ"
+    }
+  },
+  {
+    "id": "7748",
+    "name": "OPPOSITE ZAITUNE CLINIC",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "02/20/07/025",
+    "remark": "NEW PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.150274500000002,
+      "longitude": 12.5271979,
+      "viewport": {
+        "northeast": {
+          "lat": 9.151523329892722,
+          "lng": 12.52845047989272
+        },
+        "southwest": {
+          "lat": 9.148823670107278,
+          "lng": 12.52575082010728
+        }
+      },
+      "formatted_address": "5G2G+4V4, 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.150274500000002,12.5271979",
+      "google_place_id": "ChIJFf4V0BNt_BARPlaYNrdb5g8"
+    }
+  },
+  {
+    "id": "7749",
+    "name": "NEAR 227, MUH'D MUSTAPHA WAY",
+    "registration_area_id": "395",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "02/20/07/026",
+    "remark": "NEW PU",
+    "ward_id": "395",
+    "ward_name": "LIMAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  }
+]

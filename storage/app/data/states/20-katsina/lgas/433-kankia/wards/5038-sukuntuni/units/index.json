@@ -1,0 +1,302 @@
+[
+  {
+    "id": "98962",
+    "name": "MAIDANKO I - K/G GALADIMA",
+    "registration_area_id": "5038",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/20/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5038",
+    "ward_name": "SUKUNTUNI",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98963",
+    "name": "MAIDANK0 II - K/G M/UNGUWA",
+    "registration_area_id": "5038",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/20/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5038",
+    "ward_name": "SUKUNTUNI",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98964",
+    "name": "UNG SABO K/G M/UNGUWA",
+    "registration_area_id": "5038",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/20/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5038",
+    "ward_name": "SUKUNTUNI",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98965",
+    "name": "HAYIN KORAMA - K/G M/UNG",
+    "registration_area_id": "5038",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/20/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5038",
+    "ward_name": "SUKUNTUNI",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98966",
+    "name": "HAYIN KWANTA - K/G M/UNGUWA",
+    "registration_area_id": "5038",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/20/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5038",
+    "ward_name": "SUKUNTUNI",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98967",
+    "name": "SUKUNTUNI I PRI.SCHOOL",
+    "registration_area_id": "5038",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/20/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5038",
+    "ward_name": "SUKUNTUNI",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.3133326,
+      "longitude": 7.787000399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.31478472989272,
+          "lng": 7.788319829892721
+        },
+        "southwest": {
+          "lat": 12.31208507010728,
+          "lng": 7.785620170107277
+        }
+      },
+      "formatted_address": "8Q7P+8RJ, 822101, Tudun Tuni, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3133326,7.787000399999999",
+      "google_place_id": "ChIJgQ8r7uIfrhERDgRrg5B29bE"
+    }
+  },
+  {
+    "id": "98968",
+    "name": "SUKUNTUNI II OPEN SPACE",
+    "registration_area_id": "5038",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/20/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5038",
+    "ward_name": "SUKUNTUNI",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.3133326,
+      "longitude": 7.787000399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.31478472989272,
+          "lng": 7.788319829892721
+        },
+        "southwest": {
+          "lat": 12.31208507010728,
+          "lng": 7.785620170107277
+        }
+      },
+      "formatted_address": "8Q7P+8RJ, 822101, Tudun Tuni, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3133326,7.787000399999999",
+      "google_place_id": "ChIJgQ8r7uIfrhERDgRrg5B29bE"
+    }
+  },
+  {
+    "id": "98969",
+    "name": "GIDAN GURU PRI.SCHOOL",
+    "registration_area_id": "5038",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/20/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5038",
+    "ward_name": "SUKUNTUNI",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.462174,
+      "longitude": 7.828637,
+      "viewport": {
+        "northeast": {
+          "lat": 12.46401315,
+          "lng": 7.829898479892721
+        },
+        "southwest": {
+          "lat": 12.45665655,
+          "lng": 7.827198820107277
+        }
+      },
+      "formatted_address": "FR6H+VF6, 822101, Machinjim, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.462174,7.828637",
+      "google_place_id": "ChIJA-sA9WYnrhERKFx0EG1iHy0"
+    }
+  },
+  {
+    "id": "98970",
+    "name": "TUDUN WULLI PRI.SCHOOL",
+    "registration_area_id": "5038",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/20/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5038",
+    "ward_name": "SUKUNTUNI",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.3189154,
+      "longitude": 7.7337985,
+      "viewport": {
+        "northeast": {
+          "lat": 12.32036137989272,
+          "lng": 7.734701879892723
+        },
+        "southwest": {
+          "lat": 12.31766172010728,
+          "lng": 7.732002220107279
+        }
+      },
+      "formatted_address": "8P9M+HG7, 822101, Karaduwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3189154,7.7337985",
+      "google_place_id": "ChIJH_bopoXgsRERkNurDXGugl8"
+    }
+  },
+  {
+    "id": "98971",
+    "name": "YANKARI OPEN SPACE",
+    "registration_area_id": "5038",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/20/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5038",
+    "ward_name": "SUKUNTUNI",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 9.756673300000001,
+      "longitude": 10.5094096,
+      "viewport": {
+        "northeast": {
+          "lat": 9.758036229892722,
+          "lng": 10.51080657989272
+        },
+        "southwest": {
+          "lat": 9.755336570107279,
+          "lng": 10.50810692010728
+        }
+      },
+      "formatted_address": "Yankari, 234077, Mainamaji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.756673300000001,10.5094096",
+      "google_place_id": "ChIJv4NhuDZ_VRARIRh6VTWbgyc"
+    }
+  },
+  {
+    "id": "98972",
+    "name": "GEMAWA OPEN SPACE",
+    "registration_area_id": "5038",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/20/07/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5038",
+    "ward_name": "SUKUNTUNI",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9515102,
+      "longitude": 7.634017499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.95295917989272,
+          "lng": 7.635551979892722
+        },
+        "southwest": {
+          "lat": 12.95025952010728,
+          "lng": 7.632852320107278
+        }
+      },
+      "formatted_address": "XJ2M+JJ2, Kano-Kankia-Katsina Rd, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9515102,7.634017499999999",
+      "google_place_id": "ChIJrT477JUksBER-QtANgGGmG8"
+    }
+  },
+  {
+    "id": "98973",
+    "name": "WALAWA OPEN SPACE",
+    "registration_area_id": "5038",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "20/20/07/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5038",
+    "ward_name": "SUKUNTUNI",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  }
+]

@@ -1,0 +1,1324 @@
+[
+  {
+    "id": "58151",
+    "name": "U.N.N. PRIMARY SCHOOL I",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "14/13/15/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": null
+  },
+  {
+    "id": "58152",
+    "name": "U.N.N. PRIMARY SCHOOL II",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "14/13/15/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.8600148,
+      "longitude": 7.4053461,
+      "viewport": {
+        "northeast": {
+          "lat": 6.861260379892722,
+          "lng": 7.406682479892722
+        },
+        "southwest": {
+          "lat": 6.858560720107278,
+          "lng": 7.403982820107278
+        }
+      },
+      "formatted_address": "VC64+245, Fulton Ave, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8600148,7.4053461",
+      "google_place_id": "ChIJww-QInfoRBAR_240i2We9_A"
+    }
+  },
+  {
+    "id": "58153",
+    "name": "ARTS THEATRE  U.N.N.",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "14/13/15/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.861667199999999,
+      "longitude": 7.4083793,
+      "viewport": {
+        "northeast": {
+          "lat": 6.863020529892722,
+          "lng": 7.409864679892721
+        },
+        "southwest": {
+          "lat": 6.860320870107278,
+          "lng": 7.407165020107277
+        }
+      },
+      "formatted_address": "VC65+M96, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.861667199999999,7.4083793",
+      "google_place_id": "ChIJgclTrXfoRBARGeN02Y0wKFE"
+    }
+  },
+  {
+    "id": "58154",
+    "name": "ONUIYI PRIMARY SCHOOL I",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "14/13/15/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.8666696,
+      "longitude": 7.3927786,
+      "viewport": {
+        "northeast": {
+          "lat": 6.868067779892722,
+          "lng": 7.394334229892721
+        },
+        "southwest": {
+          "lat": 6.865368120107278,
+          "lng": 7.391634570107278
+        }
+      },
+      "formatted_address": "Onuiyi Primary School, Junction 410114, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8666696,7.3927786",
+      "google_place_id": "ChIJbYuoWMfnRBAR9FUDbSMYXpo"
+    }
+  },
+  {
+    "id": "58155",
+    "name": "ONUIYI PRIMARY SCHOOL II",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "14/13/15/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.8666696,
+      "longitude": 7.3927786,
+      "viewport": {
+        "northeast": {
+          "lat": 6.868067779892722,
+          "lng": 7.394334229892721
+        },
+        "southwest": {
+          "lat": 6.865368120107278,
+          "lng": 7.391634570107278
+        }
+      },
+      "formatted_address": "Onuiyi Primary School, Junction 410114, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8666696,7.3927786",
+      "google_place_id": "ChIJbYuoWMfnRBAR9FUDbSMYXpo"
+    }
+  },
+  {
+    "id": "58156",
+    "name": "ONUIYI PRIMARY SCHOOL III",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "14/13/15/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.8666696,
+      "longitude": 7.3927786,
+      "viewport": {
+        "northeast": {
+          "lat": 6.868067779892722,
+          "lng": 7.394334229892721
+        },
+        "southwest": {
+          "lat": 6.865368120107278,
+          "lng": 7.391634570107278
+        }
+      },
+      "formatted_address": "Onuiyi Primary School, Junction 410114, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8666696,7.3927786",
+      "google_place_id": "ChIJbYuoWMfnRBAR9FUDbSMYXpo"
+    }
+  },
+  {
+    "id": "58157",
+    "name": "UMUNKANKA CIVIC HALL I",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "14/13/15/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.848955699999999,
+      "longitude": 7.4167361,
+      "viewport": {
+        "northeast": {
+          "lat": 6.850283929892721,
+          "lng": 7.418251979892722
+        },
+        "southwest": {
+          "lat": 6.847584270107277,
+          "lng": 7.415552320107278
+        }
+      },
+      "formatted_address": "RCX8+HMP, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.848955699999999,7.4167361",
+      "google_place_id": "ChIJ3-Hm0cPpRBART0jRfc_2-PU"
+    }
+  },
+  {
+    "id": "58158",
+    "name": "UMUNKANKA CIVIC HALL II",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "14/13/15/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.848955699999999,
+      "longitude": 7.4167361,
+      "viewport": {
+        "northeast": {
+          "lat": 6.850283929892721,
+          "lng": 7.418251979892722
+        },
+        "southwest": {
+          "lat": 6.847584270107277,
+          "lng": 7.415552320107278
+        }
+      },
+      "formatted_address": "RCX8+HMP, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.848955699999999,7.4167361",
+      "google_place_id": "ChIJ3-Hm0cPpRBART0jRfc_2-PU"
+    }
+  },
+  {
+    "id": "58159",
+    "name": "OTOBO UMUCHIME",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "14/13/15/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.848608599999999,
+      "longitude": 7.404662800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.849956729892721,
+          "lng": 7.40601362989272
+        },
+        "southwest": {
+          "lat": 6.847257070107277,
+          "lng": 7.403313970107276
+        }
+      },
+      "formatted_address": "RCX3+CVV, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.848608599999999,7.404662800000001",
+      "google_place_id": "ChIJMcDV6GXoRBARHeoLKDyGJk0"
+    }
+  },
+  {
+    "id": "58160",
+    "name": "OTOBO NKPURU IKWERE",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "14/13/15/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.864455299999999,
+      "longitude": 7.408288299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.865912379892722,
+          "lng": 7.40956247989272
+        },
+        "southwest": {
+          "lat": 6.863212720107278,
+          "lng": 7.406862820107276
+        }
+      },
+      "formatted_address": "Nsukka - Onitsha Rd, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.864455299999999,7.408288299999999",
+      "google_place_id": "ChIJJZf__t7nRBARfQ5mMIyiuP8"
+    }
+  },
+  {
+    "id": "58161",
+    "name": "OTOBO NDIAGU MBUKE",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "14/13/15/011",
+    "remark": "EXISTING PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.864455299999999,
+      "longitude": 7.408288299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.865912379892722,
+          "lng": 7.40956247989272
+        },
+        "southwest": {
+          "lat": 6.863212720107278,
+          "lng": 7.406862820107276
+        }
+      },
+      "formatted_address": "Nsukka - Onitsha Rd, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.864455299999999,7.408288299999999",
+      "google_place_id": "ChIJJZf__t7nRBARfQ5mMIyiuP8"
+    }
+  },
+  {
+    "id": "58162",
+    "name": "OTOBO UMUDIAKA",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "14/13/15/012",
+    "remark": "EXISTING PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.8484605,
+      "longitude": 7.414868900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.849796129892721,
+          "lng": 7.416201729892721
+        },
+        "southwest": {
+          "lat": 6.847096470107277,
+          "lng": 7.413502070107277
+        }
+      },
+      "formatted_address": "RCX7+9WQ, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8484605,7.414868900000001",
+      "google_place_id": "ChIJS8G5lmzoRBARIYriX5nZvWM"
+    }
+  },
+  {
+    "id": "58163",
+    "name": "OTOBO AMEGU",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "14/13/15/013",
+    "remark": "EXISTING PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.8498193,
+      "longitude": 7.4168926,
+      "viewport": {
+        "northeast": {
+          "lat": 6.851145929892722,
+          "lng": 7.41824612989272
+        },
+        "southwest": {
+          "lat": 6.848446270107278,
+          "lng": 7.415546470107277
+        }
+      },
+      "formatted_address": "RCX8+WQC, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8498193,7.4168926",
+      "google_place_id": "ChIJrzOXLhPoRBARBIvDTo5Iwws"
+    }
+  },
+  {
+    "id": "58164",
+    "name": "OTOBO UMUEZEBI",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "14/13/15/014",
+    "remark": "EXISTING PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.841670700000001,
+      "longitude": 7.41311,
+      "viewport": {
+        "northeast": {
+          "lat": 6.843014829892722,
+          "lng": 7.414467879892721
+        },
+        "southwest": {
+          "lat": 6.840315170107278,
+          "lng": 7.411768220107277
+        }
+      },
+      "formatted_address": "RCR7+M64, Nru Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.841670700000001,7.41311",
+      "google_place_id": "ChIJHy_UX2roRBAR3YMCYX4kvaY"
+    }
+  },
+  {
+    "id": "58165",
+    "name": "OTOBO AMAOGBO",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "14/13/15/015",
+    "remark": "EXISTING PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": null
+  },
+  {
+    "id": "58166",
+    "name": "OTOBO UMUNDINGWUOKE",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "14/13/15/016",
+    "remark": "EXISTING PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.848608599999999,
+      "longitude": 7.404662800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.849956729892721,
+          "lng": 7.40601362989272
+        },
+        "southwest": {
+          "lat": 6.847257070107277,
+          "lng": 7.403313970107276
+        }
+      },
+      "formatted_address": "RCX3+CVV, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.848608599999999,7.404662800000001",
+      "google_place_id": "ChIJMcDV6GXoRBARHeoLKDyGJk0"
+    }
+  },
+  {
+    "id": "58167",
+    "name": "OPEN SPACE ONUYI ROAD BEHIND ZIK'S FLAT",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "14/13/15/017",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.870934099999999,
+      "longitude": 7.397664000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.872302729892722,
+          "lng": 7.398998529892722
+        },
+        "southwest": {
+          "lat": 6.869603070107278,
+          "lng": 7.396298870107278
+        }
+      },
+      "formatted_address": "University of Nigeria Students Hostel, Catering Guest House Road, 410101, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.870934099999999,7.397664000000001",
+      "google_place_id": "ChIJD7bVCdPnRBARumjzMZJUAdg"
+    }
+  },
+  {
+    "id": "58168",
+    "name": "SHUTTLE PARK SHED ZIK'S  FLAT",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "14/13/15/018",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.870934099999999,
+      "longitude": 7.397664000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.872302729892722,
+          "lng": 7.398998529892722
+        },
+        "southwest": {
+          "lat": 6.869603070107278,
+          "lng": 7.396298870107278
+        }
+      },
+      "formatted_address": "University of Nigeria Students Hostel, Catering Guest House Road, 410101, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.870934099999999,7.397664000000001",
+      "google_place_id": "ChIJD7bVCdPnRBARumjzMZJUAdg"
+    }
+  },
+  {
+    "id": "58169",
+    "name": "UNN SEC. SCHOOL",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "14/13/15/019",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.8628459,
+      "longitude": 7.398598,
+      "viewport": {
+        "northeast": {
+          "lat": 6.864190679892722,
+          "lng": 7.399664879892724
+        },
+        "southwest": {
+          "lat": 6.861491020107279,
+          "lng": 7.396965220107281
+        }
+      },
+      "formatted_address": "V97X+4CQ, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8628459,7.398598",
+      "google_place_id": "ChIJiSH3aX_oRBARVz9vVGOA4sI"
+    }
+  },
+  {
+    "id": "58170",
+    "name": "OPEN SPACE INFRONT OF FRANCO REF UNN",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "14/13/15/020",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.868928899999999,
+      "longitude": 7.405414299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.870689879892722,
+          "lng": 7.40676272989272
+        },
+        "southwest": {
+          "lat": 6.867990220107278,
+          "lng": 7.404063070107275
+        }
+      },
+      "formatted_address": "VC94+H5F, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.868928899999999,7.405414299999999",
+      "google_place_id": "ChIJp2aOVNfnRBARQZOrrI4sKLA"
+    }
+  },
+  {
+    "id": "58171",
+    "name": "OPEN SPACE BESIDE ODENIGWE GATE",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "14/13/15/021",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.8492568,
+      "longitude": 7.3987633,
+      "viewport": {
+        "northeast": {
+          "lat": 6.850414929892721,
+          "lng": 7.40001437989272
+        },
+        "southwest": {
+          "lat": 6.847715270107277,
+          "lng": 7.397314720107277
+        }
+      },
+      "formatted_address": "Nsukka Main Market., Ihe Nsukka 410111, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8492568,7.3987633",
+      "google_place_id": "ChIJVVWFlWToRBARO5m9UYNT_2A"
+    }
+  },
+  {
+    "id": "58172",
+    "name": "OPEN-SPACE AT CARTHRIGHT STREET JUNCTION",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "14/13/15/022",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.8483622,
+      "longitude": 7.3998807,
+      "viewport": {
+        "northeast": {
+          "lat": 6.849649029892722,
+          "lng": 7.401172579892721
+        },
+        "southwest": {
+          "lat": 6.846949370107279,
+          "lng": 7.398472920107277
+        }
+      },
+      "formatted_address": "R9XX+8XR, Enugu Rd, Owere Nsukka 410111, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8483622,7.3998807",
+      "google_place_id": "ChIJg_dzCmToRBARVix16N-cxlY"
+    }
+  },
+  {
+    "id": "58173",
+    "name": "OPEN SPACE INFORNT OF POL. SCI BUILDING UNN",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "14/13/15/023",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.8605727,
+      "longitude": 7.408033299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.862123879892722,
+          "lng": 7.409390879892721
+        },
+        "southwest": {
+          "lat": 6.859424220107278,
+          "lng": 7.406691220107278
+        }
+      },
+      "formatted_address": "VC65+66F, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8605727,7.408033299999999",
+      "google_place_id": "ChIJ7zNCjzbpRBARmaViq1DVa48"
+    }
+  },
+  {
+    "id": "58174",
+    "name": "OPEN SPACE INFRONT OF ROAR NIG. HUB BUILDING UNN",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "14/13/15/024",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": null
+  },
+  {
+    "id": "58175",
+    "name": "OPEN SPACE BACK UNN STADUIM BUILDING",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "14/13/15/025",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.8668087,
+      "longitude": 7.404258599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.868340079892722,
+          "lng": 7.404958799999998
+        },
+        "southwest": {
+          "lat": 6.865640420107278,
+          "lng": 7.402158
+        }
+      },
+      "formatted_address": "VC83+PPC, Umunkaka Street, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8668087,7.404258599999999",
+      "google_place_id": "ChIJC4nEC9fnRBARVHTeA96EKFQ"
+    }
+  },
+  {
+    "id": "58176",
+    "name": "OPEN SPACE OF INFRONT DEPT OF BUSINESS EDUCATION GATE UNN",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "14/13/15/026",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.8631343,
+      "longitude": 7.406404299999998,
+      "viewport": {
+        "northeast": {
+          "lat": 6.864564079892721,
+          "lng": 7.407851529892722
+        },
+        "southwest": {
+          "lat": 6.861864420107278,
+          "lng": 7.405151870107278
+        }
+      },
+      "formatted_address": "Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8631343,7.406404299999998",
+      "google_place_id": "ChIJ-f8P6HfoRBARrUXdXjQvYpc"
+    }
+  },
+  {
+    "id": "58177",
+    "name": "OPEN SPACE AT ZIK'S FLAT UNN",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "14/13/15/027",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.870934099999999,
+      "longitude": 7.397664000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.872302729892722,
+          "lng": 7.398998529892722
+        },
+        "southwest": {
+          "lat": 6.869603070107278,
+          "lng": 7.396298870107278
+        }
+      },
+      "formatted_address": "University of Nigeria Students Hostel, Catering Guest House Road, 410101, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.870934099999999,7.397664000000001",
+      "google_place_id": "ChIJD7bVCdPnRBARumjzMZJUAdg"
+    }
+  },
+  {
+    "id": "58178",
+    "name": "PRINCESS ALEXANDRA HALL (PAA)",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "14/13/15/028",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.863137099999999,
+      "longitude": 7.4073601,
+      "viewport": {
+        "northeast": {
+          "lat": 6.864487779892722,
+          "lng": 7.408836729892722
+        },
+        "southwest": {
+          "lat": 6.861788120107279,
+          "lng": 7.406137070107278
+        }
+      },
+      "formatted_address": "VC74+7W5, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.863137099999999,7.4073601",
+      "google_place_id": "ChIJidWY3HfoRBARvjbBaGoZqDU"
+    }
+  },
+  {
+    "id": "58179",
+    "name": "UNCOMPLETED PG HALL",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "14/13/15/029",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.864455299999999,
+      "longitude": 7.408288299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.865912379892722,
+          "lng": 7.40956247989272
+        },
+        "southwest": {
+          "lat": 6.863212720107278,
+          "lng": 7.406862820107276
+        }
+      },
+      "formatted_address": "Nsukka - Onitsha Rd, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.864455299999999,7.408288299999999",
+      "google_place_id": "ChIJJZf__t7nRBARfQ5mMIyiuP8"
+    }
+  },
+  {
+    "id": "58180",
+    "name": "EKPO REF SEAT OUT",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "14/13/15/030",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": null
+  },
+  {
+    "id": "58181",
+    "name": "OPEN SPACE INFRONT OF GENERAL STUDIES BUILDING UNN",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "14/13/15/031",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.862647099999999,
+      "longitude": 7.405525399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.864045029892721,
+          "lng": 7.407089929892722
+        },
+        "southwest": {
+          "lat": 6.861345370107277,
+          "lng": 7.404390270107278
+        }
+      },
+      "formatted_address": "VC74+362, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.862647099999999,7.405525399999999",
+      "google_place_id": "ChIJEYRfHnjoRBAR6U2V7F46mQY"
+    }
+  },
+  {
+    "id": "58182",
+    "name": "UNDER THE DECKING MARLIMA BUILDING UNN",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "14/13/15/032",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.864455299999999,
+      "longitude": 7.408288299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.865912379892722,
+          "lng": 7.40956247989272
+        },
+        "southwest": {
+          "lat": 6.863212720107278,
+          "lng": 7.406862820107276
+        }
+      },
+      "formatted_address": "Nsukka - Onitsha Rd, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.864455299999999,7.408288299999999",
+      "google_place_id": "ChIJJZf__t7nRBARfQ5mMIyiuP8"
+    }
+  },
+  {
+    "id": "58183",
+    "name": "OBUAMA UMU UGWUOWO VILL/HALL",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "14/13/15/033",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.8429788,
+      "longitude": 7.409812400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.844351129892721,
+          "lng": 7.411162279892721
+        },
+        "southwest": {
+          "lat": 6.841651470107277,
+          "lng": 7.408462620107278
+        }
+      },
+      "formatted_address": "RCV5+5WV, Umuche Rd, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8429788,7.409812400000001",
+      "google_place_id": "ChIJj0R-qjPpRBARz3JEg0x9ckM"
+    }
+  },
+  {
+    "id": "58184",
+    "name": "OTOBO UMUNACHI VILLAGE HALL",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "14/13/15/034",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.841670700000001,
+      "longitude": 7.41311,
+      "viewport": {
+        "northeast": {
+          "lat": 6.843014829892722,
+          "lng": 7.414467879892721
+        },
+        "southwest": {
+          "lat": 6.840315170107278,
+          "lng": 7.411768220107277
+        }
+      },
+      "formatted_address": "RCR7+M64, Nru Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.841670700000001,7.41311",
+      "google_place_id": "ChIJHy_UX2roRBAR3YMCYX4kvaY"
+    }
+  },
+  {
+    "id": "58185",
+    "name": "OPEN SPACE AT LIBERTY STREET ISIUJA ONUIYI NSUKKA",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "14/13/15/035",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.8429788,
+      "longitude": 7.409812400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.844351129892721,
+          "lng": 7.411162279892721
+        },
+        "southwest": {
+          "lat": 6.841651470107277,
+          "lng": 7.408462620107278
+        }
+      },
+      "formatted_address": "RCV5+5WV, Umuche Rd, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8429788,7.409812400000001",
+      "google_place_id": "ChIJj0R-qjPpRBARz3JEg0x9ckM"
+    }
+  },
+  {
+    "id": "58186",
+    "name": "IHE HALL, ORIE NSUKKA",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "036",
+    "units": "036",
+    "delimitation": "14/13/15/036",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.8429788,
+      "longitude": 7.409812400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.844351129892721,
+          "lng": 7.411162279892721
+        },
+        "southwest": {
+          "lat": 6.841651470107277,
+          "lng": 7.408462620107278
+        }
+      },
+      "formatted_address": "RCV5+5WV, Umuche Rd, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8429788,7.409812400000001",
+      "google_place_id": "ChIJj0R-qjPpRBARz3JEg0x9ckM"
+    }
+  },
+  {
+    "id": "58187",
+    "name": "MBUKE HALL",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "037",
+    "units": "037",
+    "delimitation": "14/13/15/037",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.8529,
+      "longitude": 7.4035125,
+      "viewport": {
+        "northeast": {
+          "lat": 6.854273979892722,
+          "lng": 7.404829779892721
+        },
+        "southwest": {
+          "lat": 6.851574320107278,
+          "lng": 7.402130120107278
+        }
+      },
+      "formatted_address": "VC33+5C6, Mbuke Road, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8529,7.4035125",
+      "google_place_id": "ChIJ399pLGXoRBARH7XAf7GB6Vc"
+    }
+  },
+  {
+    "id": "58188",
+    "name": "OBU AMUKWA UMUORI HALL",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "038",
+    "units": "038",
+    "delimitation": "14/13/15/038",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.8429788,
+      "longitude": 7.409812400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.844351129892721,
+          "lng": 7.411162279892721
+        },
+        "southwest": {
+          "lat": 6.841651470107277,
+          "lng": 7.408462620107278
+        }
+      },
+      "formatted_address": "RCV5+5WV, Umuche Rd, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8429788,7.409812400000001",
+      "google_place_id": "ChIJj0R-qjPpRBARz3JEg0x9ckM"
+    }
+  },
+  {
+    "id": "58189",
+    "name": "UMUISE VILLAGE HALL",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "039",
+    "units": "039",
+    "delimitation": "14/13/15/039",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.848306999999999,
+      "longitude": 7.411795799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.84977132989272,
+          "lng": 7.413170629892721
+        },
+        "southwest": {
+          "lat": 6.847071670107276,
+          "lng": 7.410470970107277
+        }
+      },
+      "formatted_address": "RCX6+8PF, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.848306999999999,7.411795799999999",
+      "google_place_id": "ChIJkbPGdxfpRBARUe4OuvuqTFk"
+    }
+  },
+  {
+    "id": "58190",
+    "name": "UGWUOGWULE VILLAGE SQUARE",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "040",
+    "units": "040",
+    "delimitation": "14/13/15/040",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.8429788,
+      "longitude": 7.409812400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.844351129892721,
+          "lng": 7.411162279892721
+        },
+        "southwest": {
+          "lat": 6.841651470107277,
+          "lng": 7.408462620107278
+        }
+      },
+      "formatted_address": "RCV5+5WV, Umuche Rd, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8429788,7.409812400000001",
+      "google_place_id": "ChIJj0R-qjPpRBARz3JEg0x9ckM"
+    }
+  },
+  {
+    "id": "58191",
+    "name": "OPEN SPACE AMAOGBO AGU JUNCTION",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "041",
+    "units": "041",
+    "delimitation": "14/13/15/041",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.7959076,
+      "longitude": 7.330106100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.79729062989272,
+          "lng": 7.331434079892722
+        },
+        "southwest": {
+          "lat": 6.794590970107277,
+          "lng": 7.328734420107278
+        }
+      },
+      "formatted_address": "Q8WJ+929, 410102, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7959076,7.330106100000001",
+      "google_place_id": "ChIJX4rOAb7uRBARQE6ur-EYJ2A"
+    }
+  },
+  {
+    "id": "58192",
+    "name": "OPEN SPACE BESIDE HOLY TRINITY JUNCTION. HILL TOP",
+    "registration_area_id": "3163",
+    "precise_location": null,
+    "abbreviation": "042",
+    "units": "042",
+    "delimitation": "14/13/15/042",
+    "remark": "NEW PU",
+    "ward_id": "3163",
+    "ward_name": "IHE",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.8569932,
+      "longitude": 7.4136606,
+      "viewport": {
+        "northeast": {
+          "lat": 6.858253279892722,
+          "lng": 7.415126779892722
+        },
+        "southwest": {
+          "lat": 6.855553620107278,
+          "lng": 7.412427120107278
+        }
+      },
+      "formatted_address": "VC47+QFV, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8569932,7.4136606",
+      "google_place_id": "ChIJJQN-d4vpRBARUu6W6jR7oKw"
+    }
+  }
+]

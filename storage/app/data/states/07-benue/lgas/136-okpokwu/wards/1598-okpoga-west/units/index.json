@@ -1,0 +1,153 @@
+[
+  {
+    "id": "29751",
+    "name": "AI-EDUGWU IDIRI OPEN SPACE - A1-EDUGWU",
+    "registration_area_id": "1598",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "07/18/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1598",
+    "ward_name": "OKPOGA WEST",
+    "local_government_id": "136",
+    "local_government_name": "OKPOKWU",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "29752",
+    "name": "AI-UNWABA PLAY GROUND - AI-UNWABA",
+    "registration_area_id": "1598",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "07/18/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1598",
+    "ward_name": "OKPOGA WEST",
+    "local_government_id": "136",
+    "local_government_name": "OKPOKWU",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "29753",
+    "name": "EDE PRIMARY SCHOOL - EDE",
+    "registration_area_id": "1598",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "07/18/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1598",
+    "ward_name": "OKPOGA WEST",
+    "local_government_id": "136",
+    "local_government_name": "OKPOKWU",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "29754",
+    "name": "EDE MARKET SQUARE - EDE",
+    "registration_area_id": "1598",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "07/18/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1598",
+    "ward_name": "OKPOGA WEST",
+    "local_government_id": "136",
+    "local_government_name": "OKPOKWU",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.0266885,
+      "longitude": 7.7562362,
+      "viewport": {
+        "northeast": {
+          "lat": 7.028037429892722,
+          "lng": 7.75758772989272
+        },
+        "southwest": {
+          "lat": 7.025337770107278,
+          "lng": 7.754888070107277
+        }
+      },
+      "formatted_address": "6FV92QG4+MG2 Ede, Okpoga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0266885,7.7562362",
+      "google_place_id": "ChIJjT87smPVRBARfP1dgLU9Hjc"
+    }
+  },
+  {
+    "id": "29755",
+    "name": "IPOLE OKLENYI OPEN SPACE - IPOLE OKLENYI",
+    "registration_area_id": "1598",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "07/18/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1598",
+    "ward_name": "OKPOGA WEST",
+    "local_government_id": "136",
+    "local_government_name": "OKPOKWU",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "29756",
+    "name": "OGENE OPEN SPACE - OGENE",
+    "registration_area_id": "1598",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "07/18/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1598",
+    "ward_name": "OKPOGA WEST",
+    "local_government_id": "136",
+    "local_government_name": "OKPOKWU",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.000387,
+      "longitude": 7.757076000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.001743979892723,
+          "lng": 7.758433229892721
+        },
+        "southwest": {
+          "lat": 6.999044320107279,
+          "lng": 7.755733570107277
+        }
+      },
+      "formatted_address": "6FV92Q24+5R4, Ogene, 973105, Okpoga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.000387,7.757076000000001",
+      "google_place_id": "ChIJCcL9ZLfVRBARHF7BrkC2ur8"
+    }
+  },
+  {
+    "id": "29757",
+    "name": "OLAGBINO/OKADOGA PLAY GROUND - OLAGBINO-OKADOGA",
+    "registration_area_id": "1598",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "07/18/11/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1598",
+    "ward_name": "OKPOGA WEST",
+    "local_government_id": "136",
+    "local_government_name": "OKPOKWU",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  }
+]

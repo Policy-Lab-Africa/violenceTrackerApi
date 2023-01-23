@@ -1,0 +1,384 @@
+[
+  {
+    "id": "18175",
+    "name": "PROGRESS P/S I",
+    "registration_area_id": "1064",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "04/21/14/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1064",
+    "ward_name": "UMUNYA  I",
+    "local_government_id": "90",
+    "local_government_name": "OYI",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2028934,
+      "longitude": 6.918152,
+      "viewport": {
+        "northeast": {
+          "lat": 6.204246979892722,
+          "lng": 6.919535879892722
+        },
+        "southwest": {
+          "lat": 6.201547320107278,
+          "lng": 6.916836220107278
+        }
+      },
+      "formatted_address": "6W39+572, 433103, Umunya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2028934,6.918152",
+      "google_place_id": "ChIJm9_d1PmPQxARKKgu7zC3rss"
+    }
+  },
+  {
+    "id": "18176",
+    "name": "PROGRESS P/S II",
+    "registration_area_id": "1064",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "04/21/14/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1064",
+    "ward_name": "UMUNYA  I",
+    "local_government_id": "90",
+    "local_government_name": "OYI",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "18177",
+    "name": "CENTRAL SCHOOL",
+    "registration_area_id": "1064",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "04/21/14/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1064",
+    "ward_name": "UMUNYA  I",
+    "local_government_id": "90",
+    "local_government_name": "OYI",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2081238,
+      "longitude": 6.913143199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.209560629892723,
+          "lng": 6.914542129892721
+        },
+        "southwest": {
+          "lat": 6.206860970107279,
+          "lng": 6.911842470107278
+        }
+      },
+      "formatted_address": "opposite St James Anglican Church, Odumodu 433103, Umunya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2081238,6.913143199999999",
+      "google_place_id": "ChIJoecLEgmPQxARruG3FKXvc70"
+    }
+  },
+  {
+    "id": "18178",
+    "name": "GIRLS HIGH SCHOOL",
+    "registration_area_id": "1064",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "04/21/14/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1064",
+    "ward_name": "UMUNYA  I",
+    "local_government_id": "90",
+    "local_government_name": "OYI",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2206743,
+      "longitude": 6.9184155,
+      "viewport": {
+        "northeast": {
+          "lat": 6.221972129892722,
+          "lng": 6.919719029892723
+        },
+        "southwest": {
+          "lat": 6.219272470107279,
+          "lng": 6.917019370107279
+        }
+      },
+      "formatted_address": "6WC9+797, 433101, Umunya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2206743,6.9184155",
+      "google_place_id": "ChIJvd4Rk4mPQxAR4kg86Mwu5-Y"
+    }
+  },
+  {
+    "id": "18179",
+    "name": "AMA OBINETITI VILLAGE SQUARE",
+    "registration_area_id": "1064",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "04/21/14/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1064",
+    "ward_name": "UMUNYA  I",
+    "local_government_id": "90",
+    "local_government_name": "OYI",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2028934,
+      "longitude": 6.918152,
+      "viewport": {
+        "northeast": {
+          "lat": 6.204246979892722,
+          "lng": 6.919535879892722
+        },
+        "southwest": {
+          "lat": 6.201547320107278,
+          "lng": 6.916836220107278
+        }
+      },
+      "formatted_address": "6W39+572, 433103, Umunya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2028934,6.918152",
+      "google_place_id": "ChIJm9_d1PmPQxARKKgu7zC3rss"
+    }
+  },
+  {
+    "id": "18180",
+    "name": "AGUOCHA P/S",
+    "registration_area_id": "1064",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "04/21/14/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1064",
+    "ward_name": "UMUNYA  I",
+    "local_government_id": "90",
+    "local_government_name": "OYI",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2177536,
+      "longitude": 6.9072917,
+      "viewport": {
+        "northeast": {
+          "lat": 6.218976979892722,
+          "lng": 6.908575679892722
+        },
+        "southwest": {
+          "lat": 6.216277320107278,
+          "lng": 6.905876020107279
+        }
+      },
+      "formatted_address": "A232, 433103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2177536,6.9072917",
+      "google_place_id": "ChIJ4Yl6ypOPQxAR_L-l3Ytx1yE"
+    }
+  },
+  {
+    "id": "18181",
+    "name": "ILO OBA VILLAGE SQUARE I",
+    "registration_area_id": "1064",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "04/21/14/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1064",
+    "ward_name": "UMUNYA  I",
+    "local_government_id": "90",
+    "local_government_name": "OYI",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "18182",
+    "name": "ILO OBA VILLAGE SQUARE II",
+    "registration_area_id": "1064",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "04/21/14/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1064",
+    "ward_name": "UMUNYA  I",
+    "local_government_id": "90",
+    "local_government_name": "OYI",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "18183",
+    "name": "ODUMODU VILLAGE SQUARE I",
+    "registration_area_id": "1064",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "04/21/14/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1064",
+    "ward_name": "UMUNYA  I",
+    "local_government_id": "90",
+    "local_government_name": "OYI",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2262888,
+      "longitude": 6.906468299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.227617529892722,
+          "lng": 6.907816529892722
+        },
+        "southwest": {
+          "lat": 6.224917870107278,
+          "lng": 6.905116870107278
+        }
+      },
+      "formatted_address": "6WG4+GH8, 433102, Umunya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2262888,6.906468299999999",
+      "google_place_id": "ChIJ6-cDRpqPQxARtfUMHrj64zQ"
+    }
+  },
+  {
+    "id": "18184",
+    "name": "ODUMODU VILLAGE SQUARE II",
+    "registration_area_id": "1064",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "04/21/14/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1064",
+    "ward_name": "UMUNYA  I",
+    "local_government_id": "90",
+    "local_government_name": "OYI",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2262888,
+      "longitude": 6.906468299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.227617529892722,
+          "lng": 6.907816529892722
+        },
+        "southwest": {
+          "lat": 6.224917870107278,
+          "lng": 6.905116870107278
+        }
+      },
+      "formatted_address": "6WG4+GH8, 433102, Umunya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2262888,6.906468299999999",
+      "google_place_id": "ChIJ6-cDRpqPQxARtfUMHrj64zQ"
+    }
+  },
+  {
+    "id": "18185",
+    "name": "ODUMODU P/S",
+    "registration_area_id": "1064",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "04/21/14/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1064",
+    "ward_name": "UMUNYA  I",
+    "local_government_id": "90",
+    "local_government_name": "OYI",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2262888,
+      "longitude": 6.906468299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.227617529892722,
+          "lng": 6.907816529892722
+        },
+        "southwest": {
+          "lat": 6.224917870107278,
+          "lng": 6.905116870107278
+        }
+      },
+      "formatted_address": "6WG4+GH8, 433102, Umunya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2262888,6.906468299999999",
+      "google_place_id": "ChIJ6-cDRpqPQxARtfUMHrj64zQ"
+    }
+  },
+  {
+    "id": "18186",
+    "name": "CENTRAL SCHOOL",
+    "registration_area_id": "1064",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "04/21/14/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1064",
+    "ward_name": "UMUNYA  I",
+    "local_government_id": "90",
+    "local_government_name": "OYI",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2081238,
+      "longitude": 6.913143199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.209560629892723,
+          "lng": 6.914542129892721
+        },
+        "southwest": {
+          "lat": 6.206860970107279,
+          "lng": 6.911842470107278
+        }
+      },
+      "formatted_address": "opposite St James Anglican Church, Odumodu 433103, Umunya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2081238,6.913143199999999",
+      "google_place_id": "ChIJoecLEgmPQxARruG3FKXvc70"
+    }
+  },
+  {
+    "id": "18187",
+    "name": "ILO OJOBI TOWN HALL (OPEN SPACE UNDER CONSTRUCTION)",
+    "registration_area_id": "1064",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "04/21/14/013",
+    "remark": "NEW PU",
+    "ward_id": "1064",
+    "ward_name": "UMUNYA  I",
+    "local_government_id": "90",
+    "local_government_name": "OYI",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "18188",
+    "name": "ILO NDICHIE VILLAGE SQ (OPEN SPACE)",
+    "registration_area_id": "1064",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "04/21/14/014",
+    "remark": "NEW PU",
+    "ward_id": "1064",
+    "ward_name": "UMUNYA  I",
+    "local_government_id": "90",
+    "local_government_name": "OYI",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  }
+]

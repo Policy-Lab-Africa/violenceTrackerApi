@@ -1,0 +1,319 @@
+[
+  {
+    "id": "10905",
+    "name": "VILLAGE SQUARE, UWAK IKOT UBO",
+    "registration_area_id": "629",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "03/21/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "629",
+    "ward_name": "UBIUM SOUTH 1",
+    "local_government_id": "59",
+    "local_government_name": "NSIT UBIUM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "10906",
+    "name": "VILLAGE SQUARE NDAK UKANA, IKOT UBO I",
+    "registration_area_id": "629",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "03/21/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "629",
+    "ward_name": "UBIUM SOUTH 1",
+    "local_government_id": "59",
+    "local_government_name": "NSIT UBIUM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "10907",
+    "name": "NDAK UKANA, IKOT UBO II",
+    "registration_area_id": "629",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "03/21/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "629",
+    "ward_name": "UBIUM SOUTH 1",
+    "local_government_id": "59",
+    "local_government_name": "NSIT UBIUM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "10908",
+    "name": "SAL. ARMY PRY SCH , IKOT UBO",
+    "registration_area_id": "629",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "03/21/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "629",
+    "ward_name": "UBIUM SOUTH 1",
+    "local_government_id": "59",
+    "local_government_name": "NSIT UBIUM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7204185,
+      "longitude": 8.0261548,
+      "viewport": {
+        "northeast": {
+          "lat": 4.721770629892721,
+          "lng": 8.027473129892725
+        },
+        "southwest": {
+          "lat": 4.719070970107277,
+          "lng": 8.02477347010728
+        }
+      },
+      "formatted_address": "P2CG+5F6, 522109, Ikot Ubo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7204185,8.0261548",
+      "google_place_id": "ChIJsS0d9RbpZxARxLEPWGcSTuM"
+    }
+  },
+  {
+    "id": "10909",
+    "name": "VILLAGE SQUARE ESSIEN UKPRAK, IKOT UBO",
+    "registration_area_id": "629",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "03/21/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "629",
+    "ward_name": "UBIUM SOUTH 1",
+    "local_government_id": "59",
+    "local_government_name": "NSIT UBIUM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "10910",
+    "name": "CENTRAL SCH, IKOT UBO",
+    "registration_area_id": "629",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "03/21/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "629",
+    "ward_name": "UBIUM SOUTH 1",
+    "local_government_id": "59",
+    "local_government_name": "NSIT UBIUM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7355028,
+      "longitude": 8.027451100000002,
+      "viewport": {
+        "northeast": {
+          "lat": 4.736932379892723,
+          "lng": 8.028806529892723
+        },
+        "southwest": {
+          "lat": 4.734232720107279,
+          "lng": 8.026106870107279
+        }
+      },
+      "formatted_address": "P2PG+6X4, Junction 522109, Ikot Ntung, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7355028,8.027451100000002",
+      "google_place_id": "ChIJ51G8FgrpZxARb7yxvlbtq_U"
+    }
+  },
+  {
+    "id": "10911",
+    "name": "PRY SCH, IKOT UDO ITON",
+    "registration_area_id": "629",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "03/21/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "629",
+    "ward_name": "UBIUM SOUTH 1",
+    "local_government_id": "59",
+    "local_government_name": "NSIT UBIUM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7355028,
+      "longitude": 8.027451100000002,
+      "viewport": {
+        "northeast": {
+          "lat": 4.736932379892723,
+          "lng": 8.028806529892723
+        },
+        "southwest": {
+          "lat": 4.734232720107279,
+          "lng": 8.026106870107279
+        }
+      },
+      "formatted_address": "P2PG+6X4, Junction 522109, Ikot Ntung, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7355028,8.027451100000002",
+      "google_place_id": "ChIJ51G8FgrpZxARb7yxvlbtq_U"
+    }
+  },
+  {
+    "id": "10912",
+    "name": "PRY SCH, EKPENE UKIM",
+    "registration_area_id": "629",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "03/21/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "629",
+    "ward_name": "UBIUM SOUTH 1",
+    "local_government_id": "59",
+    "local_government_name": "NSIT UBIUM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.771357,
+      "longitude": 7.937010000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.772728679892722,
+          "lng": 7.938437529892722
+        },
+        "southwest": {
+          "lat": 4.770029020107278,
+          "lng": 7.935737870107278
+        }
+      },
+      "formatted_address": "QWCP+GRR, 522104, Ikot Eyd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.771357,7.937010000000001",
+      "google_place_id": "ChIJoWJIjN3lZxARapq77l1DNlQ"
+    }
+  },
+  {
+    "id": "10913",
+    "name": "TOWN HALL, UKAT",
+    "registration_area_id": "629",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "03/21/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "629",
+    "ward_name": "UBIUM SOUTH 1",
+    "local_government_id": "59",
+    "local_government_name": "NSIT UBIUM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "10914",
+    "name": "TOWN HALL, MBAK UNO",
+    "registration_area_id": "629",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "03/21/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "629",
+    "ward_name": "UBIUM SOUTH 1",
+    "local_government_id": "59",
+    "local_government_name": "NSIT UBIUM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "10915",
+    "name": "HEALTH CENTRE, IKOT UDO IME",
+    "registration_area_id": "629",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "03/21/08/011",
+    "remark": "EXISTING PU",
+    "ward_id": "629",
+    "ward_name": "UBIUM SOUTH 1",
+    "local_government_id": "59",
+    "local_government_name": "NSIT UBIUM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7625,
+      "longitude": 7.955299999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.763334200000001,
+          "lng": 7.956824729892722
+        },
+        "southwest": {
+          "lat": 4.7599974,
+          "lng": 7.954125070107279
+        }
+      },
+      "formatted_address": "QX74+243, 522108, Ikot Eyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7625,7.955299999999999",
+      "google_place_id": "ChIJix6_5wDmZxARU8cnIqWV49c"
+    }
+  },
+  {
+    "id": "10916",
+    "name": "PRY SCH, OBIO UBIUM",
+    "registration_area_id": "629",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "03/21/08/012",
+    "remark": "EXISTING PU",
+    "ward_id": "629",
+    "ward_name": "UBIUM SOUTH 1",
+    "local_government_id": "59",
+    "local_government_name": "NSIT UBIUM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7715773,
+      "longitude": 7.930492099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.772939829892723,
+          "lng": 7.932016079892723
+        },
+        "southwest": {
+          "lat": 4.770240170107279,
+          "lng": 7.929316420107279
+        }
+      },
+      "formatted_address": "QWCJ+J5Q, 522104, Ikot Eyd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7715773,7.930492099999999",
+      "google_place_id": "ChIJKR0uvNvlZxARWLGw-aIqLso"
+    }
+  },
+  {
+    "id": "10917",
+    "name": "VILLAGE SQUARE,OBIO AKPA IDU",
+    "registration_area_id": "629",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "03/21/08/013",
+    "remark": "EXISTING PU",
+    "ward_id": "629",
+    "ward_name": "UBIUM SOUTH 1",
+    "local_government_id": "59",
+    "local_government_name": "NSIT UBIUM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  }
+]

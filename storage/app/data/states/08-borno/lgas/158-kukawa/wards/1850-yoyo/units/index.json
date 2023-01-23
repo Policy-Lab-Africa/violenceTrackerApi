@@ -1,0 +1,69 @@
+[
+  {
+    "id": "34054",
+    "name": "YOYO  LAWANTI",
+    "registration_area_id": "1850",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/17/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1850",
+    "ward_name": "YOYO",
+    "local_government_id": "158",
+    "local_government_name": "KUKAWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "34055",
+    "name": "YOYO FATOMA",
+    "registration_area_id": "1850",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/17/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1850",
+    "ward_name": "YOYO",
+    "local_government_id": "158",
+    "local_government_name": "KUKAWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "34056",
+    "name": "AIDA KURARAM",
+    "registration_area_id": "1850",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/17/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1850",
+    "ward_name": "YOYO",
+    "local_government_id": "158",
+    "local_government_name": "KUKAWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7911715,
+      "longitude": 13.1175759,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79263822989272,
+          "lng": 13.11893672989272
+        },
+        "southwest": {
+          "lat": 11.78993857010728,
+          "lng": 13.11623707010728
+        }
+      },
+      "formatted_address": "Q4R9+F28, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7911715,13.1175759",
+      "google_place_id": "ChIJ9y92jEieBBERK-8m09vRLS0"
+    }
+  }
+]

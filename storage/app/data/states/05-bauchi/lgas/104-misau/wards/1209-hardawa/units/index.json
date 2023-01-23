@@ -1,0 +1,648 @@
+[
+  {
+    "id": "21812",
+    "name": "BAYI  I,   KOFAR FADA HARDAWA",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "05/14/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3086953,
+      "longitude": 10.4604331,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31004512989272,
+          "lng": 10.46178292989272
+        },
+        "southwest": {
+          "lat": 11.30734547010728,
+          "lng": 10.45908327010728
+        }
+      },
+      "formatted_address": "8F56+F5F, Kano Rd, 750101, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3086953,10.4604331",
+      "google_place_id": "ChIJrVUsBQB7qhERZSw2fkiyc3Q"
+    }
+  },
+  {
+    "id": "21813",
+    "name": "BAYI II, KOFAR SARKIN KASUWA",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "05/14/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21814",
+    "name": "GAWO CENTRAL, KOFAR DANJEBU",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "05/14/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3168704,
+      "longitude": 10.4688074,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31823307989272,
+          "lng": 10.47023212989272
+        },
+        "southwest": {
+          "lat": 11.31553342010728,
+          "lng": 10.46753247010728
+        }
+      },
+      "formatted_address": "8F89+PGV, 750101, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3168704,10.4688074",
+      "google_place_id": "ChIJ9zQgQpN6qhERpYhVPOt689I"
+    }
+  },
+  {
+    "id": "21815",
+    "name": "GAWO EAST,   KOFAR H/LADI",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "05/14/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3084716,
+      "longitude": 10.4743957,
+      "viewport": {
+        "northeast": {
+          "lat": 11.30983482989272,
+          "lng": 10.47574147989272
+        },
+        "southwest": {
+          "lat": 11.30713517010728,
+          "lng": 10.47304182010728
+        }
+      },
+      "formatted_address": "federal lowcost, 750101, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3084716,10.4743957",
+      "google_place_id": "ChIJw47bUQR7qhER29AkD7lS32c"
+    }
+  },
+  {
+    "id": "21816",
+    "name": "GANTSA KOFAR M. NUHU",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "05/14/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3163,
+      "longitude": 10.472,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31773372989272,
+          "lng": 10.47332487989272
+        },
+        "southwest": {
+          "lat": 11.31503407010728,
+          "lng": 10.47062522010728
+        }
+      },
+      "formatted_address": "8F8C+GR6, 750101, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3163,10.472",
+      "google_place_id": "ChIJydxwuJJ6qhERwWl2Aaq_z9g"
+    }
+  },
+  {
+    "id": "21817",
+    "name": "DUTSE,   HARDAWA PRIMARY SCHOOL",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "05/14/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3134127,
+      "longitude": 10.4685044,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31476342989272,
+          "lng": 10.46988317989272
+        },
+        "southwest": {
+          "lat": 11.31206377010728,
+          "lng": 10.46718352010728
+        }
+      },
+      "formatted_address": "8F79+998, 750101, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3134127,10.4685044",
+      "google_place_id": "ChIJgaxfhex6qhERzWuTqJQ-7Yo"
+    }
+  },
+  {
+    "id": "21818",
+    "name": "MARNA, KUSA DA GADA",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "05/14/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21819",
+    "name": "RIMI CENTRAL,  K/NASAYE",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "05/14/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3146801,
+      "longitude": 10.467102,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31602352989272,
+          "lng": 10.46841577989272
+        },
+        "southwest": {
+          "lat": 11.31332387010728,
+          "lng": 10.46571612010728
+        }
+      },
+      "formatted_address": "shop no. 12 Misau emir's drive line 1 misau local government, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3146801,10.467102",
+      "google_place_id": "ChIJNQzA-Fx7qhERDZ-yILJjABU"
+    }
+  },
+  {
+    "id": "21820",
+    "name": "RIMI,   HARDAWA C.P. SCHOOL",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "05/14/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.4216378,
+      "longitude": 10.4616891,
+      "viewport": {
+        "northeast": {
+          "lat": 11.42297432989272,
+          "lng": 10.46304162989272
+        },
+        "southwest": {
+          "lat": 11.42027467010728,
+          "lng": 10.46034197010728
+        }
+      },
+      "formatted_address": "CFC6+MM4, 750102, Hardawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4216378,10.4616891",
+      "google_place_id": "ChIJB8OSMuFxqhERg1Yt8BBBFh0"
+    }
+  },
+  {
+    "id": "21821",
+    "name": "BACHIN,   K/MAI UNG. AMALE",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "05/14/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3163,
+      "longitude": 10.472,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31773372989272,
+          "lng": 10.47332487989272
+        },
+        "southwest": {
+          "lat": 11.31503407010728,
+          "lng": 10.47062522010728
+        }
+      },
+      "formatted_address": "8F8C+GR6, 750101, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3163,10.472",
+      "google_place_id": "ChIJydxwuJJ6qhERwWl2Aaq_z9g"
+    }
+  },
+  {
+    "id": "21822",
+    "name": "RIGAR WAJE,   OLD BARRACK PRISON",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "05/14/07/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3201005,
+      "longitude": 10.4690458,
+      "viewport": {
+        "northeast": {
+          "lat": 11.32144887989272,
+          "lng": 10.47039742989272
+        },
+        "southwest": {
+          "lat": 11.31874922010728,
+          "lng": 10.46769777010728
+        }
+      },
+      "formatted_address": "8FC9+2JJ, 750101, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3201005,10.4690458",
+      "google_place_id": "ChIJ8SmlU-x7qhERUNAGEW-Z6Ak"
+    }
+  },
+  {
+    "id": "21823",
+    "name": "KURBAWA AREWA I,  K/MAI ANG. S. TIKE",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "05/14/07/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21824",
+    "name": "KURBAWA AREWA A,  K/MAI  ALEWA",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "05/14/07/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21825",
+    "name": "KURBAWA KUDU,   GUEST HOUSE",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "05/14/07/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3087604,
+      "longitude": 10.4603258,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31012422989272,
+          "lng": 10.46170882989272
+        },
+        "southwest": {
+          "lat": 11.30742457010728,
+          "lng": 10.45900917010728
+        }
+      },
+      "formatted_address": "8F56+G44, Adjacent First Bank, Kano-Kari Rd, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3087604,10.4603258",
+      "google_place_id": "ChIJIR0lR8J6qhER7zqfjRw70Fo"
+    }
+  },
+  {
+    "id": "21826",
+    "name": "G.G.S.S.,  G.G.S.S. HARDAWA",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "05/14/07/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3086953,
+      "longitude": 10.4604331,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31004512989272,
+          "lng": 10.46178292989272
+        },
+        "southwest": {
+          "lat": 11.30734547010728,
+          "lng": 10.45908327010728
+        }
+      },
+      "formatted_address": "8F56+F5F, Kano Rd, 750101, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3086953,10.4604331",
+      "google_place_id": "ChIJrVUsBQB7qhERZSw2fkiyc3Q"
+    }
+  },
+  {
+    "id": "21827",
+    "name": "FEDERAL LOWCOST,   K/ABDU GUDUGU",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "05/14/07/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3084716,
+      "longitude": 10.4743957,
+      "viewport": {
+        "northeast": {
+          "lat": 11.30983482989272,
+          "lng": 10.47574147989272
+        },
+        "southwest": {
+          "lat": 11.30713517010728,
+          "lng": 10.47304182010728
+        }
+      },
+      "formatted_address": "federal lowcost, 750101, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3084716,10.4743957",
+      "google_place_id": "ChIJw47bUQR7qhER29AkD7lS32c"
+    }
+  },
+  {
+    "id": "21828",
+    "name": "KAFIN YAMMA,  KOFAR JUJI TELA",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "05/14/07/017",
+    "remark": "EXISTING PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3201005,
+      "longitude": 10.4690458,
+      "viewport": {
+        "northeast": {
+          "lat": 11.32144887989272,
+          "lng": 10.47039742989272
+        },
+        "southwest": {
+          "lat": 11.31874922010728,
+          "lng": 10.46769777010728
+        }
+      },
+      "formatted_address": "8FC9+2JJ, 750101, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3201005,10.4690458",
+      "google_place_id": "ChIJ8SmlU-x7qhERUNAGEW-Z6Ak"
+    }
+  },
+  {
+    "id": "21829",
+    "name": "KAFIN GABAS,   MAKERAN KAILA",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "05/14/07/018",
+    "remark": "EXISTING PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21830",
+    "name": "UNG.  SAKKWATAWA,   K/ALHAJI ADAMU BALAI",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "05/14/07/019",
+    "remark": "EXISTING PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3201005,
+      "longitude": 10.4690458,
+      "viewport": {
+        "northeast": {
+          "lat": 11.32144887989272,
+          "lng": 10.47039742989272
+        },
+        "southwest": {
+          "lat": 11.31874922010728,
+          "lng": 10.46769777010728
+        }
+      },
+      "formatted_address": "8FC9+2JJ, 750101, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3201005,10.4690458",
+      "google_place_id": "ChIJ8SmlU-x7qhERUNAGEW-Z6Ak"
+    }
+  },
+  {
+    "id": "21831",
+    "name": "KURBAWA BAKIN KASUWA",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "05/14/07/020",
+    "remark": "NEW PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3992483,
+      "longitude": 12.0000843,
+      "viewport": {
+        "northeast": {
+          "lat": 10.404646,
+          "lng": 12.0121579
+        },
+        "southwest": {
+          "lat": 10.393535,
+          "lng": 11.995213
+        }
+      },
+      "formatted_address": "603103, Bakin Kasuwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3992483,12.0000843",
+      "google_place_id": "ChIJF9WuDiL-ARER8OR712ChcgI"
+    }
+  },
+  {
+    "id": "21832",
+    "name": "DEVELOPMENT AREA OFFICE HARDAWA",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "05/14/07/021",
+    "remark": "NEW PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3112439,
+      "longitude": 10.4626571,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31260927989272,
+          "lng": 10.46401602989272
+        },
+        "southwest": {
+          "lat": 11.30990962010728,
+          "lng": 10.46131637010728
+        }
+      },
+      "formatted_address": "8F67+G36, 750101, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3112439,10.4626571",
+      "google_place_id": "ChIJz40GxQt7qhER19zmgXbhSc8"
+    }
+  },
+  {
+    "id": "21833",
+    "name": "UNGUWAR AREWA",
+    "registration_area_id": "1209",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "05/14/07/022",
+    "remark": "NEW PU",
+    "ward_id": "1209",
+    "ward_name": "HARDAWA",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3112439,
+      "longitude": 10.4626571,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31260927989272,
+          "lng": 10.46401602989272
+        },
+        "southwest": {
+          "lat": 11.30990962010728,
+          "lng": 10.46131637010728
+        }
+      },
+      "formatted_address": "8F67+G36, 750101, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3112439,10.4626571",
+      "google_place_id": "ChIJz40GxQt7qhER19zmgXbhSc8"
+    }
+  }
+]

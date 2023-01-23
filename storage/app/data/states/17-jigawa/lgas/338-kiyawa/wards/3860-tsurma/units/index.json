@@ -1,0 +1,434 @@
+[
+  {
+    "id": "70232",
+    "name": "ALA'AR KAFAWA",
+    "registration_area_id": "3860",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "17/19/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3860",
+    "ward_name": "TSURMA",
+    "local_government_id": "338",
+    "local_government_name": "KIYAWA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "70233",
+    "name": "CHIROMAWA PRI. SCH.",
+    "registration_area_id": "3860",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "17/19/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3860",
+    "ward_name": "TSURMA",
+    "local_government_id": "338",
+    "local_government_name": "KIYAWA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.8561792,
+      "longitude": 9.475665099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85711977989272,
+          "lng": 9.477189629892722
+        },
+        "southwest": {
+          "lat": 11.85442012010728,
+          "lng": 9.474489970107278
+        }
+      },
+      "formatted_address": "VF4G+F7F, 720102, Chiromawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8561792,9.475665099999999",
+      "google_place_id": "ChIJF7IOiHLhqxERmos83rqgu90"
+    }
+  },
+  {
+    "id": "70234",
+    "name": "DAMAWA PRI. SCH.",
+    "registration_area_id": "3860",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "17/19/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3860",
+    "ward_name": "TSURMA",
+    "local_government_id": "338",
+    "local_government_name": "KIYAWA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5482232,
+      "longitude": 8.9300339,
+      "viewport": {
+        "northeast": {
+          "lat": 12.54950637989272,
+          "lng": 8.93123642989272
+        },
+        "southwest": {
+          "lat": 12.54680672010728,
+          "lng": 8.928536770107277
+        }
+      },
+      "formatted_address": "733101, Jigawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5482232,8.9300339",
+      "google_place_id": "ChIJLYJ5nBfbrhERra_NDIDliqE"
+    }
+  },
+  {
+    "id": "70235",
+    "name": "KOFAR FADA/FASHAURI",
+    "registration_area_id": "3860",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "17/19/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3860",
+    "ward_name": "TSURMA",
+    "local_government_id": "338",
+    "local_government_name": "KIYAWA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7887051,
+      "longitude": 9.6022746,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79032667989272,
+          "lng": 9.603207479892722
+        },
+        "southwest": {
+          "lat": 11.78762702010728,
+          "lng": 9.600507820107278
+        }
+      },
+      "formatted_address": "QJQ2+FWJ, Kiyawa-Majiri-Kafin Hausa Rd, 720102, Kiyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7887051,9.6022746",
+      "google_place_id": "ChIJWyiV8FTdqxERNG9InEz4YkQ"
+    }
+  },
+  {
+    "id": "70236",
+    "name": "GIDAN MAI JIMA/SARKIN BAKA",
+    "registration_area_id": "3860",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "17/19/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3860",
+    "ward_name": "TSURMA",
+    "local_government_id": "338",
+    "local_government_name": "KIYAWA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7784483,
+      "longitude": 9.5860048,
+      "viewport": {
+        "northeast": {
+          "lat": 11.77980642989272,
+          "lng": 9.58741207989272
+        },
+        "southwest": {
+          "lat": 11.77710677010728,
+          "lng": 9.584712420107277
+        }
+      },
+      "formatted_address": "Federal Government College, 720102, Kiyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7784483,9.5860048",
+      "google_place_id": "ChIJJeQF4ejdqxERr2-dfx4oMPc"
+    }
+  },
+  {
+    "id": "70237",
+    "name": "GUMELDE PRI. SCH.",
+    "registration_area_id": "3860",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "17/19/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3860",
+    "ward_name": "TSURMA",
+    "local_government_id": "338",
+    "local_government_name": "KIYAWA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7784483,
+      "longitude": 9.5860048,
+      "viewport": {
+        "northeast": {
+          "lat": 11.77980642989272,
+          "lng": 9.58741207989272
+        },
+        "southwest": {
+          "lat": 11.77710677010728,
+          "lng": 9.584712420107277
+        }
+      },
+      "formatted_address": "Federal Government College, 720102, Kiyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7784483,9.5860048",
+      "google_place_id": "ChIJJeQF4ejdqxERr2-dfx4oMPc"
+    }
+  },
+  {
+    "id": "70238",
+    "name": "GORUMO/AKUWA PRI. SCH.",
+    "registration_area_id": "3860",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "17/19/11/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3860",
+    "ward_name": "TSURMA",
+    "local_government_id": "338",
+    "local_government_name": "KIYAWA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7810099,
+      "longitude": 9.613106799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.78254807989272,
+          "lng": 9.614468479892723
+        },
+        "southwest": {
+          "lat": 11.77984842010728,
+          "lng": 9.61176882010728
+        }
+      },
+      "formatted_address": "QJJ7+C65, 720102, Kiyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7810099,9.613106799999999",
+      "google_place_id": "ChIJwzbzvWfcqxERC5oe49PCMFw"
+    }
+  },
+  {
+    "id": "70239",
+    "name": "KARKASHIN MAI DAWA",
+    "registration_area_id": "3860",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "17/19/11/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3860",
+    "ward_name": "TSURMA",
+    "local_government_id": "338",
+    "local_government_name": "KIYAWA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7887051,
+      "longitude": 9.6022746,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79032667989272,
+          "lng": 9.603207479892722
+        },
+        "southwest": {
+          "lat": 11.78762702010728,
+          "lng": 9.600507820107278
+        }
+      },
+      "formatted_address": "QJQ2+FWJ, Kiyawa-Majiri-Kafin Hausa Rd, 720102, Kiyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7887051,9.6022746",
+      "google_place_id": "ChIJWyiV8FTdqxERNG9InEz4YkQ"
+    }
+  },
+  {
+    "id": "70240",
+    "name": "KWANYOLE/J. DAWA",
+    "registration_area_id": "3860",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "17/19/11/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3860",
+    "ward_name": "TSURMA",
+    "local_government_id": "338",
+    "local_government_name": "KIYAWA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7887051,
+      "longitude": 9.6022746,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79032667989272,
+          "lng": 9.603207479892722
+        },
+        "southwest": {
+          "lat": 11.78762702010728,
+          "lng": 9.600507820107278
+        }
+      },
+      "formatted_address": "QJQ2+FWJ, Kiyawa-Majiri-Kafin Hausa Rd, 720102, Kiyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7887051,9.6022746",
+      "google_place_id": "ChIJWyiV8FTdqxERNG9InEz4YkQ"
+    }
+  },
+  {
+    "id": "70241",
+    "name": "MIYAWA/BARNAWA PRI. SCH.",
+    "registration_area_id": "3860",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "17/19/11/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3860",
+    "ward_name": "TSURMA",
+    "local_government_id": "338",
+    "local_government_name": "KIYAWA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7810099,
+      "longitude": 9.613106799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.78254807989272,
+          "lng": 9.614468479892723
+        },
+        "southwest": {
+          "lat": 11.77984842010728,
+          "lng": 9.61176882010728
+        }
+      },
+      "formatted_address": "QJJ7+C65, 720102, Kiyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7810099,9.613106799999999",
+      "google_place_id": "ChIJwzbzvWfcqxERC5oe49PCMFw"
+    }
+  },
+  {
+    "id": "70242",
+    "name": "RIGAR KOFAR/KANKARAWA/K. GARU",
+    "registration_area_id": "3860",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "17/19/11/011",
+    "remark": "EXISTING PU",
+    "ward_id": "3860",
+    "ward_name": "TSURMA",
+    "local_government_id": "338",
+    "local_government_name": "KIYAWA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7784483,
+      "longitude": 9.5860048,
+      "viewport": {
+        "northeast": {
+          "lat": 11.77980642989272,
+          "lng": 9.58741207989272
+        },
+        "southwest": {
+          "lat": 11.77710677010728,
+          "lng": 9.584712420107277
+        }
+      },
+      "formatted_address": "Federal Government College, 720102, Kiyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7784483,9.5860048",
+      "google_place_id": "ChIJJeQF4ejdqxERr2-dfx4oMPc"
+    }
+  },
+  {
+    "id": "70243",
+    "name": "SABON GARIN HANNARE",
+    "registration_area_id": "3860",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "17/19/11/012",
+    "remark": "EXISTING PU",
+    "ward_id": "3860",
+    "ward_name": "TSURMA",
+    "local_government_id": "338",
+    "local_government_name": "KIYAWA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "70244",
+    "name": "TSURMA WAJE/GIDA ADANA",
+    "registration_area_id": "3860",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "17/19/11/013",
+    "remark": "EXISTING PU",
+    "ward_id": "3860",
+    "ward_name": "TSURMA",
+    "local_government_id": "338",
+    "local_government_name": "KIYAWA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "70245",
+    "name": "TSURMA GIDA ADANA",
+    "registration_area_id": "3860",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "17/19/11/014",
+    "remark": "EXISTING PU",
+    "ward_id": "3860",
+    "ward_name": "TSURMA",
+    "local_government_id": "338",
+    "local_government_name": "KIYAWA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "70246",
+    "name": "ZAK WARO PRI. SCH.",
+    "registration_area_id": "3860",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "17/19/11/015",
+    "remark": "EXISTING PU",
+    "ward_id": "3860",
+    "ward_name": "TSURMA",
+    "local_government_id": "338",
+    "local_government_name": "KIYAWA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "70247",
+    "name": "GIDAN ADANA/ TAKANEBO OPEN SPACE",
+    "registration_area_id": "3860",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "17/19/11/016",
+    "remark": "NEW PU",
+    "ward_id": "3860",
+    "ward_name": "TSURMA",
+    "local_government_id": "338",
+    "local_government_name": "KIYAWA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  }
+]

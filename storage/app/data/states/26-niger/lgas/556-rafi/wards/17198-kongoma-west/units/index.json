@@ -1,0 +1,386 @@
+[
+  {
+    "id": "338414",
+    "name": "DISPENSARY MAIKUJERI",
+    "registration_area_id": "17198",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/20/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17198",
+    "ward_name": "KONGOMA WEST",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 43.4385525,
+      "longitude": -80.51176509999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.43986637989272,
+          "lng": -80.51037667010728
+        },
+        "southwest": {
+          "lat": 43.43716672010728,
+          "lng": -80.51307632989273
+        }
+      },
+      "formatted_address": "370 Highland Rd W, Kitchener, ON N2M 5J9, Canada",
+      "google_map_url": "https://maps.google.com?q=43.4385525,-80.51176509999999",
+      "google_place_id": "ChIJ8c-xZnb1K4gRQq1vCzwErTI"
+    }
+  },
+  {
+    "id": "338415",
+    "name": "DISPENSARY T/BAKO",
+    "registration_area_id": "17198",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/20/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17198",
+    "ward_name": "KONGOMA WEST",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 43.467299,
+      "longitude": -80.52329800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 43.46868722989272,
+          "lng": -80.52178887010727
+        },
+        "southwest": {
+          "lat": 43.46598757010727,
+          "lng": -80.52448852989272
+        }
+      },
+      "formatted_address": "71 King St N, Waterloo, ON N2J 2X2, Canada",
+      "google_map_url": "https://maps.google.com?q=43.467299,-80.52329800000001",
+      "google_place_id": "ChIJmd9ZziP1K4gRijXWDeYBaag"
+    }
+  },
+  {
+    "id": "338416",
+    "name": "GIDAN SARKIN USHIBA",
+    "registration_area_id": "17198",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/20/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17198",
+    "ward_name": "KONGOMA WEST",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338417",
+    "name": "MAIKUJERI KASUWA",
+    "registration_area_id": "17198",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/20/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17198",
+    "ward_name": "KONGOMA WEST",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.2905564,
+      "longitude": 6.2990016,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2914006,
+          "lng": 6.300201729892722
+        },
+        "southwest": {
+          "lat": 10.2880238,
+          "lng": 6.297502070107278
+        }
+      },
+      "formatted_address": "Along kaduna, road, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2905564,6.2990016",
+      "google_place_id": "ChIJ0fLO6B1bSxARcxLfj2w6-xQ"
+    }
+  },
+  {
+    "id": "338418",
+    "name": "MAIKUJERI PRIMARY SCHOOL",
+    "registration_area_id": "17198",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/20/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17198",
+    "ward_name": "KONGOMA WEST",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.2751846,
+      "longitude": 6.2934207,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27653912989272,
+          "lng": 6.294784479892721
+        },
+        "southwest": {
+          "lat": 10.27383947010728,
+          "lng": 6.292084820107277
+        }
+      },
+      "formatted_address": "7F2877GV+38W Maikujeri Primary School, 922103, Gidan Karauku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2751846,6.2934207",
+      "google_place_id": "ChIJlzKeaC1dSxARNxfH8zl7tpA"
+    }
+  },
+  {
+    "id": "338419",
+    "name": "TUNGAN MAKERI PRIMARY SCHOOL",
+    "registration_area_id": "17198",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/20/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17198",
+    "ward_name": "KONGOMA WEST",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.5810136,
+      "longitude": 6.499944999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.582343079892722,
+          "lng": 6.501318479892721
+        },
+        "southwest": {
+          "lat": 9.579643420107278,
+          "lng": 6.498618820107278
+        }
+      },
+      "formatted_address": "6FX8HFJX+CX4 Gidan Alura, Minna South, Baganakwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5810136,6.499944999999999",
+      "google_place_id": "ChIJbwEXcc9xTBARdYJVi0UmXWY"
+    }
+  },
+  {
+    "id": "338420",
+    "name": "TUGUWAMA GIDAN SARKI",
+    "registration_area_id": "17198",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/20/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17198",
+    "ward_name": "KONGOMA WEST",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338421",
+    "name": "USHIBA PRIMARY SCHOOL",
+    "registration_area_id": "17198",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/20/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17198",
+    "ward_name": "KONGOMA WEST",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338422",
+    "name": "UNG. WAKILI",
+    "registration_area_id": "17198",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "26/20/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17198",
+    "ward_name": "KONGOMA WEST",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338423",
+    "name": "MAI KUJERI JUNIOR SEC SCH",
+    "registration_area_id": "17198",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "26/20/04/010",
+    "remark": "NEW PU",
+    "ward_id": "17198",
+    "ward_name": "KONGOMA WEST",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.1720281,
+      "longitude": 7.1999472,
+      "viewport": {
+        "northeast": {
+          "lat": 9.173368829892722,
+          "lng": 7.201303679892724
+        },
+        "southwest": {
+          "lat": 9.170669170107278,
+          "lng": 7.19860402010728
+        }
+      },
+      "formatted_address": "Gwazunu Rd, 910103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1720281,7.1999472",
+      "google_place_id": "ChIJUSJmN43WTRARNrPCgsuxBi8"
+    }
+  },
+  {
+    "id": "338424",
+    "name": "KASHIN DANBU",
+    "registration_area_id": "17198",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "26/20/04/011",
+    "remark": "NEW PU",
+    "ward_id": "17198",
+    "ward_name": "KONGOMA WEST",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338425",
+    "name": "MARARRABAN TUNGA",
+    "registration_area_id": "17198",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "26/20/04/012",
+    "remark": "NEW PU",
+    "ward_id": "17198",
+    "ward_name": "KONGOMA WEST",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338426",
+    "name": "TUNGAN BAKO KASUWA",
+    "registration_area_id": "17198",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "26/20/04/013",
+    "remark": "NEW PU",
+    "ward_id": "17198",
+    "ward_name": "KONGOMA WEST",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338427",
+    "name": "KWANAN BALA",
+    "registration_area_id": "17198",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "26/20/04/014",
+    "remark": "NEW PU",
+    "ward_id": "17198",
+    "ward_name": "KONGOMA WEST",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338428",
+    "name": "KASUWAN TUNGAN MAKERI",
+    "registration_area_id": "17198",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "26/20/04/015",
+    "remark": "NEW PU",
+    "ward_id": "17198",
+    "ward_name": "KONGOMA WEST",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.457295799999999,
+      "longitude": 6.637142600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.458643879892723,
+          "lng": 6.638458879892722
+        },
+        "southwest": {
+          "lat": 9.455944220107279,
+          "lng": 6.635759220107278
+        }
+      },
+      "formatted_address": "FJ4P+WV6, Niger, Paiko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.457295799999999,6.637142600000001",
+      "google_place_id": "ChIJzSuOKhQTTBARt_BQvoikpPY"
+    }
+  },
+  {
+    "id": "338429",
+    "name": "DISPENSARY USHIBA",
+    "registration_area_id": "17198",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "26/20/04/016",
+    "remark": "NEW PU",
+    "ward_id": "17198",
+    "ward_name": "KONGOMA WEST",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  }
+]

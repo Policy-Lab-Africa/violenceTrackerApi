@@ -1,0 +1,217 @@
+[
+  {
+    "id": "111126",
+    "name": "AIYEKALE OLLA OPEN SPACE",
+    "registration_area_id": "5776",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "23/10/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5776",
+    "ward_name": "OLLA",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2338123,
+      "longitude": 5.018246,
+      "viewport": {
+        "northeast": {
+          "lat": 8.23516212989272,
+          "lng": 5.019595829892721
+        },
+        "southwest": {
+          "lat": 8.232462470107276,
+          "lng": 5.016896170107277
+        }
+      },
+      "formatted_address": "62M9+G7H, Idi-Isin, Oko-Olowo, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2338123,5.018246",
+      "google_place_id": "ChIJO7dzifzZNxARps1BpRbbG0Q"
+    }
+  },
+  {
+    "id": "111127",
+    "name": "OLLA MARKET CENTRE",
+    "registration_area_id": "5776",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "23/10/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5776",
+    "ward_name": "OLLA",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111128",
+    "name": "AGAMO OPEN SPACE",
+    "registration_area_id": "5776",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "23/10/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5776",
+    "ward_name": "OLLA",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.34032,
+      "longitude": 5.142196,
+      "viewport": {
+        "northeast": {
+          "lat": 8.341440729892723,
+          "lng": 5.144252500000001
+        },
+        "southwest": {
+          "lat": 8.338741070107279,
+          "lng": 5.141510499999999
+        }
+      },
+      "formatted_address": "84RR+4VG, 251105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.34032,5.142196",
+      "google_place_id": "ChIJozxzsP8pSBARw3b504904cM"
+    }
+  },
+  {
+    "id": "111129",
+    "name": "ECWA LGEA SCH OLLA",
+    "registration_area_id": "5776",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "23/10/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5776",
+    "ward_name": "OLLA",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.28214,
+      "longitude": 5.021717,
+      "viewport": {
+        "northeast": {
+          "lat": 8.282949479892721,
+          "lng": 5.023359979892722
+        },
+        "southwest": {
+          "lat": 8.280249820107278,
+          "lng": 5.020660320107278
+        }
+      },
+      "formatted_address": "Oke Onigbin-Odo Ore, 251105, OWU-ISIN, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.28214,5.021717",
+      "google_place_id": "ChIJ58KIZYHXNxARYeXYcr0yRnE"
+    }
+  },
+  {
+    "id": "111130",
+    "name": "COMM LGEA SCH OLLA",
+    "registration_area_id": "5776",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "23/10/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5776",
+    "ward_name": "OLLA",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.3087159,
+      "longitude": 4.9618038,
+      "viewport": {
+        "northeast": {
+          "lat": 8.310241079892723,
+          "lng": 4.962924079892722
+        },
+        "southwest": {
+          "lat": 8.30754142010728,
+          "lng": 4.960224420107278
+        }
+      },
+      "formatted_address": "Community Lgea School, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3087159,4.9618038",
+      "google_place_id": "ChIJ4XFztafRNxARkxKdF5pa_uc"
+    }
+  },
+  {
+    "id": "111131",
+    "name": "ODOFIN AREA OLLA OPEN SPACE",
+    "registration_area_id": "5776",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "23/10/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5776",
+    "ward_name": "OLLA",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.34032,
+      "longitude": 5.142196,
+      "viewport": {
+        "northeast": {
+          "lat": 8.341440729892723,
+          "lng": 5.144252500000001
+        },
+        "southwest": {
+          "lat": 8.338741070107279,
+          "lng": 5.141510499999999
+        }
+      },
+      "formatted_address": "84RR+4VG, 251105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.34032,5.142196",
+      "google_place_id": "ChIJozxzsP8pSBARw3b504904cM"
+    }
+  },
+  {
+    "id": "111132",
+    "name": "PRIMARY HEALTH CENTRE OLLA",
+    "registration_area_id": "5776",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "23/10/11/007",
+    "remark": "NEW PU",
+    "ward_id": "5776",
+    "ward_name": "OLLA",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2093659,
+      "longitude": 5.180002900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.211082629892722,
+          "lng": 5.182174750000001
+        },
+        "southwest": {
+          "lat": 8.208382970107278,
+          "lng": 5.17909935
+        }
+      },
+      "formatted_address": "655H+QW9, 251106, Olla, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2093659,5.180002900000001",
+      "google_place_id": "ChIJqdcJrWAkSBARJZaqiq5Nmbk"
+    }
+  }
+]

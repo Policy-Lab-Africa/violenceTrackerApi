@@ -1,0 +1,664 @@
+[
+  {
+    "id": "81933",
+    "name": "GIMI TASHA I/ PRI. SCH. GIMI TASHA",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "18/18/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.3312476,
+      "longitude": 7.918408,
+      "viewport": {
+        "northeast": {
+          "lat": 11.33260282989272,
+          "lng": 7.919895379892722
+        },
+        "southwest": {
+          "lat": 11.32990317010728,
+          "lng": 7.917195720107278
+        }
+      },
+      "formatted_address": "7F398WJ9+G95 Tasha, 812103, Gimi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3312476,7.918408",
+      "google_place_id": "ChIJqaWX1OWFrRER9oeD8kODBYg"
+    }
+  },
+  {
+    "id": "81934",
+    "name": "GIMI GARI II/ PRI. SCH. GIMI GARI",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "18/18/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.3292539,
+      "longitude": 7.9336363,
+      "viewport": {
+        "northeast": {
+          "lat": 11.33078917989272,
+          "lng": 7.935012379892723
+        },
+        "southwest": {
+          "lat": 11.32808952010728,
+          "lng": 7.932312720107279
+        }
+      },
+      "formatted_address": "7F398WHM+PF2, Gimi Gari 812103, Gimi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3292539,7.9336363",
+      "google_place_id": "ChIJCTnck0mFrRER10SbfIdluWY"
+    }
+  },
+  {
+    "id": "81935",
+    "name": "GIMI GARI III/ DISPENSARY",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "18/18/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "81936",
+    "name": "ANG. ZARTO/ K/M ZARTO",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "18/18/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.3566706,
+      "longitude": 7.890413799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.35806082989272,
+          "lng": 7.891963429892721
+        },
+        "southwest": {
+          "lat": 11.35536117010728,
+          "lng": 7.889263770107277
+        }
+      },
+      "formatted_address": "9V4R+M5J, 812103, Makarfi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3566706,7.890413799999999",
+      "google_place_id": "ChIJC7JbJzmErRERpE1a_NLmS2I"
+    }
+  },
+  {
+    "id": "81937",
+    "name": "ANG. SOKO I/ PRI. SCH. SOKO",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "18/18/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.3571426,
+      "longitude": 7.9674804,
+      "viewport": {
+        "northeast": {
+          "lat": 11.35839837989272,
+          "lng": 7.968627029892723
+        },
+        "southwest": {
+          "lat": 11.35569872010728,
+          "lng": 7.965927370107279
+        }
+      },
+      "formatted_address": "7F399X48+VX3, Soko, 812103, Dan Sambo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3571426,7.9674804",
+      "google_place_id": "ChIJPfjOivGbrRERDIjgOTDhf0Y"
+    }
+  },
+  {
+    "id": "81938",
+    "name": "ANG. SOKO II/ K/M SOKO",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "18/18/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "81939",
+    "name": "ANG. FADAMA/ K/M FADAMA",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "18/18/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 12.9596433,
+      "longitude": 7.592439000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96095387989272,
+          "lng": 7.593734879892721
+        },
+        "southwest": {
+          "lat": 12.95825422010728,
+          "lng": 7.591035220107277
+        }
+      },
+      "formatted_address": "Lamba 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9596433,7.592439000000001",
+      "google_place_id": "ChIJJe1Sj687sBER4iBG4A7R3LE"
+    }
+  },
+  {
+    "id": "81940",
+    "name": "ANG. BA'AWA/ K/M BA'AWA",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "18/18/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.0832948,
+      "longitude": 7.7247301,
+      "viewport": {
+        "northeast": {
+          "lat": 11.08468252989272,
+          "lng": 7.725989879892722
+        },
+        "southwest": {
+          "lat": 11.08198287010728,
+          "lng": 7.723290220107279
+        }
+      },
+      "formatted_address": "No.15 Bashar Road Kongo Campus, Zaria, 810222, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0832948,7.7247301",
+      "google_place_id": "ChIJdQntCMGDshERJAPhniidkGQ"
+    }
+  },
+  {
+    "id": "81941",
+    "name": "TASHAR YARI/ K/M TASHAR YARI",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "18/18/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5159153,
+      "longitude": 7.431948399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51730492989272,
+          "lng": 7.433296079892721
+        },
+        "southwest": {
+          "lat": 10.51460527010728,
+          "lng": 7.430596420107277
+        }
+      },
+      "formatted_address": "Tashar Yari, No.19 Old Kano Road Tashar Yari Makarfi Kaduna State Makarfi, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5159153,7.431948399999999",
+      "google_place_id": "ChIJISIGanI1TRARCgqUdPtlEw4"
+    }
+  },
+  {
+    "id": "81942",
+    "name": "GIMI GARI III/ K/M GIMI GARI",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "18/18/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.517548699999999,
+      "longitude": 8.513062699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.521590999999999,
+          "lng": 8.516324
+        },
+        "southwest": {
+          "lat": 9.513535,
+          "lng": 8.503546
+        }
+      },
+      "formatted_address": "801117, Gimi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.517548699999999,8.513062699999999",
+      "google_place_id": "ChIJmXpo6ZC0UxARmopGDq8NoPs"
+    }
+  },
+  {
+    "id": "81943",
+    "name": "RAHAMA GARI/ PRI. SCH. RAHAMA",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "18/18/05/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.3021373,
+      "longitude": 7.913010099999998,
+      "viewport": {
+        "northeast": {
+          "lat": 11.30350527989272,
+          "lng": 7.91443552989272
+        },
+        "southwest": {
+          "lat": 11.30080562010728,
+          "lng": 7.911735870107276
+        }
+      },
+      "formatted_address": "8W27+V62, 812103, Gimi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3021373,7.913010099999998",
+      "google_place_id": "ChIJ05YQfgSDrRER2TPU-uNuVTI"
+    }
+  },
+  {
+    "id": "81944",
+    "name": "ANG. CHAKUN/ K/M CHAKUN",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "18/18/05/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4715154,
+      "longitude": 7.423015,
+      "viewport": {
+        "northeast": {
+          "lat": 10.47284412989272,
+          "lng": 7.424432129892722
+        },
+        "southwest": {
+          "lat": 10.47014447010728,
+          "lng": 7.421732470107278
+        }
+      },
+      "formatted_address": "FCCF+J63, Stephen Shekari Avenue, Mekara 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4715154,7.423015",
+      "google_place_id": "ChIJ8fcaAnU1TRARCh2m7s9yPGY"
+    }
+  },
+  {
+    "id": "81945",
+    "name": "RAHAMA GARI II/ PRI. SCH. RAHAMA",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "18/18/05/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.6635722,
+      "longitude": 6.5373328,
+      "viewport": {
+        "northeast": {
+          "lat": 10.66493372989272,
+          "lng": 6.538684729892722
+        },
+        "southwest": {
+          "lat": 10.66223407010728,
+          "lng": 6.535985070107278
+        }
+      },
+      "formatted_address": "7F28MG7P+9WM Magajin Gari II Magajin Gari II Kaduna, Birnin Gwari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6635722,6.5373328",
+      "google_place_id": "ChIJIQL7gzxRsxERZ_madEx9J_E"
+    }
+  },
+  {
+    "id": "81946",
+    "name": "KAUYEN BAKI/ K/M BAKI",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "18/18/05/014",
+    "remark": "EXISTING PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5183615,
+      "longitude": 7.3845652,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51973637989272,
+          "lng": 7.385919429892721
+        },
+        "southwest": {
+          "lat": 10.51703672010728,
+          "lng": 7.383219770107277
+        }
+      },
+      "formatted_address": "No. 43 Abdullahi Makarfi Road Tudunwada, Zaria, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5183615,7.3845652",
+      "google_place_id": "ChIJpZlMvzU1TRAR-rSFD-1lvD4"
+    }
+  },
+  {
+    "id": "81947",
+    "name": "GIMI TASHA II/ PRI. SCH. GIMI TASHA",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "18/18/05/015",
+    "remark": "EXISTING PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.3312476,
+      "longitude": 7.918408,
+      "viewport": {
+        "northeast": {
+          "lat": 11.33260282989272,
+          "lng": 7.919895379892722
+        },
+        "southwest": {
+          "lat": 11.32990317010728,
+          "lng": 7.917195720107278
+        }
+      },
+      "formatted_address": "7F398WJ9+G95 Tasha, 812103, Gimi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3312476,7.918408",
+      "google_place_id": "ChIJqaWX1OWFrRER9oeD8kODBYg"
+    }
+  },
+  {
+    "id": "81948",
+    "name": "GIMI TASHA I/PRI SCH. 2",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "18/18/05/016",
+    "remark": "NEW PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.3312476,
+      "longitude": 7.918408,
+      "viewport": {
+        "northeast": {
+          "lat": 11.33260282989272,
+          "lng": 7.919895379892722
+        },
+        "southwest": {
+          "lat": 11.32990317010728,
+          "lng": 7.917195720107278
+        }
+      },
+      "formatted_address": "7F398WJ9+G95 Tasha, 812103, Gimi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3312476,7.918408",
+      "google_place_id": "ChIJqaWX1OWFrRER9oeD8kODBYg"
+    }
+  },
+  {
+    "id": "81949",
+    "name": "GIMI GARI II/PRI SCH. GIMI 2",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "18/18/05/017",
+    "remark": "NEW PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.3292539,
+      "longitude": 7.9336363,
+      "viewport": {
+        "northeast": {
+          "lat": 11.33078917989272,
+          "lng": 7.935012379892723
+        },
+        "southwest": {
+          "lat": 11.32808952010728,
+          "lng": 7.932312720107279
+        }
+      },
+      "formatted_address": "7F398WHM+PF2, Gimi Gari 812103, Gimi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3292539,7.9336363",
+      "google_place_id": "ChIJCTnck0mFrRER10SbfIdluWY"
+    }
+  },
+  {
+    "id": "81950",
+    "name": "GIMI GARI II/PRI SCH. GIMI 3",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "18/18/05/018",
+    "remark": "NEW PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.3292539,
+      "longitude": 7.9336363,
+      "viewport": {
+        "northeast": {
+          "lat": 11.33078917989272,
+          "lng": 7.935012379892723
+        },
+        "southwest": {
+          "lat": 11.32808952010728,
+          "lng": 7.932312720107279
+        }
+      },
+      "formatted_address": "7F398WHM+PF2, Gimi Gari 812103, Gimi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3292539,7.9336363",
+      "google_place_id": "ChIJCTnck0mFrRER10SbfIdluWY"
+    }
+  },
+  {
+    "id": "81951",
+    "name": "GIMI GARI III/ZAMFARAWA",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "18/18/05/019",
+    "remark": "NEW PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.3292539,
+      "longitude": 7.9336363,
+      "viewport": {
+        "northeast": {
+          "lat": 11.33078917989272,
+          "lng": 7.935012379892723
+        },
+        "southwest": {
+          "lat": 11.32808952010728,
+          "lng": 7.932312720107279
+        }
+      },
+      "formatted_address": "7F398WHM+PF2, Gimi Gari 812103, Gimi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3292539,7.9336363",
+      "google_place_id": "ChIJCTnck0mFrRER10SbfIdluWY"
+    }
+  },
+  {
+    "id": "81952",
+    "name": "UBE TASHAR YARI 2",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "18/18/05/020",
+    "remark": "NEW PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "81953",
+    "name": "HAUWA PRI SCH. TASHAR YARI",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "18/18/05/021",
+    "remark": "NEW PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5063987,
+      "longitude": 7.4089376,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50787782989272,
+          "lng": 7.410129229892722
+        },
+        "southwest": {
+          "lat": 10.50517817010728,
+          "lng": 7.407429570107278
+        }
+      },
+      "formatted_address": "GC45+HH4, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5063987,7.4089376",
+      "google_place_id": "ChIJLUxw3RY1TRARY24zoJvpRCQ"
+    }
+  },
+  {
+    "id": "81954",
+    "name": "GIMI GARI III/K.M GIMI GARI 2",
+    "registration_area_id": "4282",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "18/18/05/022",
+    "remark": "NEW PU",
+    "ward_id": "4282",
+    "ward_name": "GIMI",
+    "local_government_id": "364",
+    "local_government_name": "MAKARFI",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  }
+]

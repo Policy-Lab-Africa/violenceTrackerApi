@@ -1,0 +1,235 @@
+[
+  {
+    "id": "101269",
+    "name": "SAYAU I/KG BAWA WAKILI",
+    "registration_area_id": "5158",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/31/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5158",
+    "ward_name": "SAYAU",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "101270",
+    "name": "UNGUWAR NAKABA/KG.DANLAMI",
+    "registration_area_id": "5158",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/31/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5158",
+    "ward_name": "SAYAU",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "101271",
+    "name": "SAYAU II/KG MAMMAN GONA",
+    "registration_area_id": "5158",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/31/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5158",
+    "ward_name": "SAYAU",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "101272",
+    "name": "MAIKASUWA/KG MAI.UNGUWA ISIYAKA",
+    "registration_area_id": "5158",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/31/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5158",
+    "ward_name": "SAYAU",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "101273",
+    "name": "UNGUWAR SARKIN NOMA/KG.M.UNG.ABDU",
+    "registration_area_id": "5158",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/31/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5158",
+    "ward_name": "SAYAU",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9961215,
+      "longitude": 7.5880122,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99747187989272,
+          "lng": 7.589359979892722
+        },
+        "southwest": {
+          "lat": 12.99477222010728,
+          "lng": 7.586660320107279
+        }
+      },
+      "formatted_address": "Kofar Guga, Nagoggo Road, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9961215,7.5880122",
+      "google_place_id": "ChIJe4AD7uo8sBERF4w_dekSXCY"
+    }
+  },
+  {
+    "id": "101274",
+    "name": "UNGUWA IDI/KG MAI UNGUWA IDI",
+    "registration_area_id": "5158",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/31/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5158",
+    "ward_name": "SAYAU",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 10.5548984,
+      "longitude": 7.454824399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55624822989272,
+          "lng": 7.456174229892721
+        },
+        "southwest": {
+          "lat": 10.55354857010728,
+          "lng": 7.453474570107277
+        }
+      },
+      "formatted_address": "Nagogo Rd, Ungwan Sarki Muslimi 800283, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5548984,7.454824399999999",
+      "google_place_id": "ChIJ-zVuyQK1shERA2Wo91VqH8o"
+    }
+  },
+  {
+    "id": "101275",
+    "name": "SAYAU/PRI. SCHOOL",
+    "registration_area_id": "5158",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/31/10/007",
+    "remark": "NEW PU",
+    "ward_id": "5158",
+    "ward_name": "SAYAU",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.3468,
+      "longitude": 7.0371,
+      "viewport": {
+        "northeast": {
+          "lat": 11.34814982989272,
+          "lng": 7.038449829892722
+        },
+        "southwest": {
+          "lat": 11.34545017010728,
+          "lng": 7.035750170107278
+        }
+      },
+      "formatted_address": "82WP+PRH, 830104, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3468,7.0371",
+      "google_place_id": "ChIJBTWk8IirsxER-EQhBx7iFyo"
+    }
+  },
+  {
+    "id": "101276",
+    "name": "UNG DAN KURMI PRI SCH",
+    "registration_area_id": "5158",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/31/10/008",
+    "remark": "NEW PU",
+    "ward_id": "5158",
+    "ward_name": "SAYAU",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 43.1251801,
+      "longitude": -78.8046787,
+      "viewport": {
+        "northeast": {
+          "lat": 43.12630517989273,
+          "lng": -78.80316432010727
+        },
+        "southwest": {
+          "lat": 43.12360552010728,
+          "lng": -78.80586397989272
+        }
+      },
+      "formatted_address": "4363 Mapleton Rd, Lockport, NY 14094, United States",
+      "google_map_url": "https://maps.google.com?q=43.1251801,-78.8046787",
+      "google_place_id": "ChIJg_1yn-N604kRb1ArFuL5PCo"
+    }
+  },
+  {
+    "id": "101277",
+    "name": "UNG NAKABA DISPENSARY",
+    "registration_area_id": "5158",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/31/10/009",
+    "remark": "NEW PU",
+    "ward_id": "5158",
+    "ward_name": "SAYAU",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.1669087,
+      "longitude": 8.086849200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 13.16824212989272,
+          "lng": 8.08815522989272
+        },
+        "southwest": {
+          "lat": 13.16554247010728,
+          "lng": 8.085455570107277
+        }
+      },
+      "formatted_address": "538P+QPX, 823102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.1669087,8.086849200000001",
+      "google_place_id": "ChIJa4Nn0F7srxERmBnJJZI_Ji8"
+    }
+  }
+]

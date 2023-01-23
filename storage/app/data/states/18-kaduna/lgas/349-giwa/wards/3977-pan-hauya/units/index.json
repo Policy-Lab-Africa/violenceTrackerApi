@@ -1,0 +1,518 @@
+[
+  {
+    "id": "72469",
+    "name": "PAN HAUYA GARI I, II, III/ PAN HAUYA GARI",
+    "registration_area_id": "3977",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "18/03/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3977",
+    "ward_name": "PAN HAUYA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "72470",
+    "name": "U/Y/ SARKI I, II & U/SOYAKI I, II/ U/Y. SARKI",
+    "registration_area_id": "3977",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "18/03/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3977",
+    "ward_name": "PAN HAUYA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "72471",
+    "name": "U/GARUBA ALI & U/TATA, GANGARE I, II/ U/ GARUBA ALI",
+    "registration_area_id": "3977",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "18/03/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3977",
+    "ward_name": "PAN HAUYA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "72472",
+    "name": "BIYE GARI I & GUNGURFA/ BIYE GARI",
+    "registration_area_id": "3977",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "18/03/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3977",
+    "ward_name": "PAN HAUYA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.46737,
+      "longitude": 7.40585,
+      "viewport": {
+        "northeast": {
+          "lat": 10.46871107989272,
+          "lng": 7.407185679892722
+        },
+        "southwest": {
+          "lat": 10.46601142010728,
+          "lng": 7.404486020107278
+        }
+      },
+      "formatted_address": "98, Habibu Street, Samaru Sabo Gari Kadun, Sabon Gari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.46737,7.40585",
+      "google_place_id": "ChIJl4aeH7g1TRAR2FPw8rhdIeg"
+    }
+  },
+  {
+    "id": "72473",
+    "name": "BIJIMI I, II & RAFIN GORA/ BIJIMI",
+    "registration_area_id": "3977",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "18/03/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3977",
+    "ward_name": "PAN HAUYA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5585464,
+      "longitude": 8.800436999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55980137989272,
+          "lng": 8.8020464
+        },
+        "southwest": {
+          "lat": 10.55710172010728,
+          "lng": 8.798748
+        }
+      },
+      "formatted_address": "740117, Bijimi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5585464,8.800436999999999",
+      "google_place_id": "ChIJ2e1DBCnKrBERJhMk3jpDHMI"
+    }
+  },
+  {
+    "id": "72474",
+    "name": "RAFIN YASHI/ RAFIN YASHI",
+    "registration_area_id": "3977",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "18/03/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3977",
+    "ward_name": "PAN HAUYA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "72475",
+    "name": "TSAUNI GIDAN TANKO/ GIDAN TANKO SAUDE",
+    "registration_area_id": "3977",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "18/03/11/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3977",
+    "ward_name": "PAN HAUYA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "72476",
+    "name": "BIYE II/ BININ BAKO",
+    "registration_area_id": "3977",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "18/03/11/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3977",
+    "ward_name": "PAN HAUYA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5167269,
+      "longitude": 7.450519,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51808097989272,
+          "lng": 7.451867829892721
+        },
+        "southwest": {
+          "lat": 10.51538132010728,
+          "lng": 7.449168170107277
+        }
+      },
+      "formatted_address": "Tafawa Balewa Way, Kabala Coastain 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5167269,7.450519",
+      "google_place_id": "ChIJP2QwdLtKTRAR5loYDxJp5U0"
+    }
+  },
+  {
+    "id": "72477",
+    "name": "PAN HAUYA GARI II & III/ PAN HAUYA GARI",
+    "registration_area_id": "3977",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "18/03/11/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3977",
+    "ward_name": "PAN HAUYA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "72478",
+    "name": "UNGUWAN TUDUN MUNTSIRA",
+    "registration_area_id": "3977",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "18/03/11/010",
+    "remark": "NEW PU",
+    "ward_id": "3977",
+    "ward_name": "PAN HAUYA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.502592,
+      "longitude": 7.402505100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50388037989272,
+          "lng": 7.403865629892722
+        },
+        "southwest": {
+          "lat": 10.50118072010728,
+          "lng": 7.401165970107278
+        }
+      },
+      "formatted_address": "Unnamed Rd, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.502592,7.402505100000001",
+      "google_place_id": "ChIJDee9pVc1TRAR7IjyykG9mRc"
+    }
+  },
+  {
+    "id": "72479",
+    "name": "UNGUWAN MUGATA",
+    "registration_area_id": "3977",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "18/03/11/011",
+    "remark": "NEW PU",
+    "ward_id": "3977",
+    "ward_name": "PAN HAUYA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.502592,
+      "longitude": 7.402505100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50388037989272,
+          "lng": 7.403865629892722
+        },
+        "southwest": {
+          "lat": 10.50118072010728,
+          "lng": 7.401165970107278
+        }
+      },
+      "formatted_address": "Unnamed Rd, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.502592,7.402505100000001",
+      "google_place_id": "ChIJDee9pVc1TRAR7IjyykG9mRc"
+    }
+  },
+  {
+    "id": "72480",
+    "name": "LEA PRIMARY SCHOOL UNGUWAN GAGO SOYAKI",
+    "registration_area_id": "3977",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "18/03/11/012",
+    "remark": "NEW PU",
+    "ward_id": "3977",
+    "ward_name": "PAN HAUYA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2312721,
+      "longitude": 7.4115725,
+      "viewport": {
+        "northeast": {
+          "lat": 11.23276787989272,
+          "lng": 7.412874029892722
+        },
+        "southwest": {
+          "lat": 11.23006822010728,
+          "lng": 7.410174370107278
+        }
+      },
+      "formatted_address": "7F396CJ6+GJ4 Dokan Yalwa, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2312721,7.4115725",
+      "google_place_id": "ChIJC3dzgHb1shER7ONlTiWgAt4"
+    }
+  },
+  {
+    "id": "72481",
+    "name": "LEA PRIMARY SCHOOL SABON GIDA",
+    "registration_area_id": "3977",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "18/03/11/013",
+    "remark": "NEW PU",
+    "ward_id": "3977",
+    "ward_name": "PAN HAUYA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1225113,
+      "longitude": 7.7332556,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12371532989272,
+          "lng": 7.734649629892722
+        },
+        "southwest": {
+          "lat": 11.12101567010728,
+          "lng": 7.731949970107278
+        }
+      },
+      "formatted_address": "4PFM+27H, Sabon Gari 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1225113,7.7332556",
+      "google_place_id": "ChIJIfdy47CDshERni4p1Hv5mv8"
+    }
+  },
+  {
+    "id": "72482",
+    "name": "LEA PRIMARY SCHOOL UNGUWAN TATA",
+    "registration_area_id": "3977",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "18/03/11/014",
+    "remark": "NEW PU",
+    "ward_id": "3977",
+    "ward_name": "PAN HAUYA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1551761,
+      "longitude": 7.7515357,
+      "viewport": {
+        "northeast": {
+          "lat": 11.15637307989272,
+          "lng": 7.752824329892722
+        },
+        "southwest": {
+          "lat": 11.15367342010728,
+          "lng": 7.750124670107278
+        }
+      },
+      "formatted_address": "7F395Q42+3J8 Hayin Gada, 810107, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1551761,7.7515357",
+      "google_place_id": "ChIJP7Bs6beBshERP2eO0-g_FuE"
+    }
+  },
+  {
+    "id": "72483",
+    "name": "BIYE GARI MARKET",
+    "registration_area_id": "3977",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "18/03/11/015",
+    "remark": "NEW PU",
+    "ward_id": "3977",
+    "ward_name": "PAN HAUYA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "72484",
+    "name": "LEA PRIMARY SCHOOL RAFIN TUKURWA  BIYE",
+    "registration_area_id": "3977",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "18/03/11/016",
+    "remark": "NEW PU",
+    "ward_id": "3977",
+    "ward_name": "PAN HAUYA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2775171,
+      "longitude": 7.418045999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27885757989272,
+          "lng": 7.419405979892721
+        },
+        "southwest": {
+          "lat": 11.27615792010728,
+          "lng": 7.416706320107277
+        }
+      },
+      "formatted_address": "7F397CH9+276 Marabar Yakawada Gangara, Giwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2775171,7.418045999999999",
+      "google_place_id": "ChIJ1fJjh0JfshER2t-rqVzSzR8"
+    }
+  },
+  {
+    "id": "72485",
+    "name": "LEA PRIMARY SCHOOL RAFIN GORA",
+    "registration_area_id": "3977",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "18/03/11/017",
+    "remark": "NEW PU",
+    "ward_id": "3977",
+    "ward_name": "PAN HAUYA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4994824,
+      "longitude": 7.397102,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50084427989272,
+          "lng": 7.398318029892723
+        },
+        "southwest": {
+          "lat": 10.49814462010728,
+          "lng": 7.395618370107278
+        }
+      },
+      "formatted_address": "F9XW+QRX, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4994824,7.397102",
+      "google_place_id": "ChIJBaE9FJA1TRARKv1Uy4HIfiM"
+    }
+  },
+  {
+    "id": "72486",
+    "name": "LEA PRIMARY SCHOOL SAUYOYI",
+    "registration_area_id": "3977",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "18/03/11/018",
+    "remark": "NEW PU",
+    "ward_id": "3977",
+    "ward_name": "PAN HAUYA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5225362,
+      "longitude": 7.410212199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52386092989272,
+          "lng": 7.411508229892723
+        },
+        "southwest": {
+          "lat": 10.52116127010728,
+          "lng": 7.408808570107279
+        }
+      },
+      "formatted_address": "GCF6+238, Chawai Road, Tudun Wada, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5225362,7.410212199999999",
+      "google_place_id": "ChIJhepyNkU1TRARK6dEqflrOXA"
+    }
+  },
+  {
+    "id": "72487",
+    "name": "UNG. SARKI RAFIN YASHI I",
+    "registration_area_id": "3977",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "18/03/11/019",
+    "remark": "NEW PU",
+    "ward_id": "3977",
+    "ward_name": "PAN HAUYA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "72488",
+    "name": "LEA PRIMARY SCHOOL BIYE II SABON FEGI",
+    "registration_area_id": "3977",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "18/03/11/020",
+    "remark": "NEW PU",
+    "ward_id": "3977",
+    "ward_name": "PAN HAUYA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  }
+]

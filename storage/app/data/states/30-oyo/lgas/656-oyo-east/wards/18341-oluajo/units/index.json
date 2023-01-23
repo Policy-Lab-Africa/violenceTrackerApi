@@ -1,0 +1,332 @@
+[
+  {
+    "id": "358032",
+    "name": "OLUAJO O/S",
+    "registration_area_id": "18341",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "30/29/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "18341",
+    "ward_name": "OLUAJO",
+    "local_government_id": "656",
+    "local_government_name": "OYO EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.3780577,
+      "longitude": 3.8248241,
+      "viewport": {
+        "northeast": {
+          "lat": 8.379407529892724,
+          "lng": 3.826173929892721
+        },
+        "southwest": {
+          "lat": 8.37670787010728,
+          "lng": 3.823474270107277
+        }
+      },
+      "formatted_address": "9RHF+6WG, Bayo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3780577,3.8248241",
+      "google_place_id": "ChIJHRMn5hDbNhARDfScLv07_VU"
+    }
+  },
+  {
+    "id": "358033",
+    "name": "ILAKA O/S",
+    "registration_area_id": "18341",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "30/29/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "18341",
+    "ward_name": "OLUAJO",
+    "local_government_id": "656",
+    "local_government_name": "OYO EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.850980899999999,
+      "longitude": 3.9315875,
+      "viewport": {
+        "northeast": {
+          "lat": 7.85235977989272,
+          "lng": 3.932957579892722
+        },
+        "southwest": {
+          "lat": 7.849660120107276,
+          "lng": 3.930257920107278
+        }
+      },
+      "formatted_address": "Akesan Market, SHOP 2 AMULEGBOJA COMPOUND, Ilaka Rd, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.850980899999999,3.9315875",
+      "google_place_id": "ChIJbXAJhH9ZNxARgCBRG--LEYc"
+    }
+  },
+  {
+    "id": "358034",
+    "name": "OKOBIYA O/S",
+    "registration_area_id": "18341",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "30/29/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "18341",
+    "ward_name": "OLUAJO",
+    "local_government_id": "656",
+    "local_government_name": "OYO EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.837575200000001,
+      "longitude": 3.9402169,
+      "viewport": {
+        "northeast": {
+          "lat": 7.83895222989272,
+          "lng": 3.941614379892723
+        },
+        "southwest": {
+          "lat": 7.836252570107276,
+          "lng": 3.938914720107279
+        }
+      },
+      "formatted_address": "RWQR+23G, Along Oyo-Ogbomoso Road, Oyo Town, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.837575200000001,3.9402169",
+      "google_place_id": "ChIJYf19d3xZNxAROFyZpVAUE84"
+    }
+  },
+  {
+    "id": "358035",
+    "name": "OLOJULEMETA O/S",
+    "registration_area_id": "18341",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "30/29/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "18341",
+    "ward_name": "OLUAJO",
+    "local_government_id": "656",
+    "local_government_name": "OYO EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.411091700000001,
+      "longitude": 3.9088469,
+      "viewport": {
+        "northeast": {
+          "lat": 7.412383229892722,
+          "lng": 3.910163579892722
+        },
+        "southwest": {
+          "lat": 7.409683570107278,
+          "lng": 3.907463920107278
+        }
+      },
+      "formatted_address": "CW65+CGQ, Parliament Rd, Mokola Hill 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.411091700000001,3.9088469",
+      "google_place_id": "ChIJNSyUhqiSORARocEHS0WVesE"
+    }
+  },
+  {
+    "id": "358036",
+    "name": "ARA OYO O/S",
+    "registration_area_id": "18341",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "30/29/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "18341",
+    "ward_name": "OLUAJO",
+    "local_government_id": "656",
+    "local_government_name": "OYO EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.842957900000001,
+      "longitude": 3.9368439,
+      "viewport": {
+        "northeast": {
+          "lat": 7.908608000000001,
+          "lng": 3.98381
+        },
+        "southwest": {
+          "lat": 7.781012099999999,
+          "lng": 3.8680039
+        }
+      },
+      "formatted_address": "Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.842957900000001,3.9368439",
+      "google_place_id": "ChIJCZuwLpdZNxARaSKqaFWNQ9g"
+    }
+  },
+  {
+    "id": "358037",
+    "name": "ONA AKA OLOOLA VILLAGE",
+    "registration_area_id": "18341",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "30/29/09/006",
+    "remark": "EXISTING PU",
+    "ward_id": "18341",
+    "ward_name": "OLUAJO",
+    "local_government_id": "656",
+    "local_government_name": "OYO EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.7888867,
+      "longitude": 3.9200827,
+      "viewport": {
+        "northeast": {
+          "lat": 7.790371479892722,
+          "lng": 3.921346279892722
+        },
+        "southwest": {
+          "lat": 7.787671820107279,
+          "lng": 3.918646620107278
+        }
+      },
+      "formatted_address": "211172, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7888867,3.9200827",
+      "google_place_id": "ChIJAcjHmD5YNxARyH1Y8avV21g"
+    }
+  },
+  {
+    "id": "358038",
+    "name": "IGI-OGUN VILLAGE",
+    "registration_area_id": "18341",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "30/29/09/007",
+    "remark": "EXISTING PU",
+    "ward_id": "18341",
+    "ward_name": "OLUAJO",
+    "local_government_id": "656",
+    "local_government_name": "OYO EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.832566099999999,
+      "longitude": 3.9192967,
+      "viewport": {
+        "northeast": {
+          "lat": 7.83405702989272,
+          "lng": 3.920734079892721
+        },
+        "southwest": {
+          "lat": 7.831357370107276,
+          "lng": 3.918034420107277
+        }
+      },
+      "formatted_address": "RWM9+2P6, Owode 211172, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.832566099999999,3.9192967",
+      "google_place_id": "ChIJt230J_ZZNxARaTW0IemAb6A"
+    }
+  },
+  {
+    "id": "358039",
+    "name": "EMIABATA VILLAGE",
+    "registration_area_id": "18341",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "30/29/09/008",
+    "remark": "EXISTING PU",
+    "ward_id": "18341",
+    "ward_name": "OLUAJO",
+    "local_government_id": "656",
+    "local_government_name": "OYO EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.837575200000001,
+      "longitude": 3.9402169,
+      "viewport": {
+        "northeast": {
+          "lat": 7.83895222989272,
+          "lng": 3.941614379892723
+        },
+        "southwest": {
+          "lat": 7.836252570107276,
+          "lng": 3.938914720107279
+        }
+      },
+      "formatted_address": "RWQR+23G, Along Oyo-Ogbomoso Road, Oyo Town, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.837575200000001,3.9402169",
+      "google_place_id": "ChIJYf19d3xZNxAROFyZpVAUE84"
+    }
+  },
+  {
+    "id": "358040",
+    "name": "IDI IYA VILLAGE",
+    "registration_area_id": "18341",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "30/29/09/009",
+    "remark": "EXISTING PU",
+    "ward_id": "18341",
+    "ward_name": "OLUAJO",
+    "local_government_id": "656",
+    "local_government_name": "OYO EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.7710969,
+      "longitude": 3.933020999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.7750591,
+          "lng": 3.939792
+        },
+        "southwest": {
+          "lat": 7.767944099999999,
+          "lng": 3.9273389
+        }
+      },
+      "formatted_address": "211103, Iya Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7710969,3.933020999999999",
+      "google_place_id": "ChIJs0WUxHZYNxARY0bqPBMvPgc"
+    }
+  },
+  {
+    "id": "358041",
+    "name": "OPEN SPACE ORELOPE'S HOUSE",
+    "registration_area_id": "18341",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "30/29/09/010",
+    "remark": "NEW PU",
+    "ward_id": "18341",
+    "ward_name": "OLUAJO",
+    "local_government_id": "656",
+    "local_government_name": "OYO EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.8499912,
+      "longitude": 3.9329903,
+      "viewport": {
+        "northeast": {
+          "lat": 7.85139282989272,
+          "lng": 3.934404279892722
+        },
+        "southwest": {
+          "lat": 7.848693170107277,
+          "lng": 3.931704620107278
+        }
+      },
+      "formatted_address": "RWXM+X5X, Odo Aro, Durbar, Ilora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8499912,3.9329903",
+      "google_place_id": "ChIJr4gxa4lZNxARZ5QONCkaDl0"
+    }
+  }
+]

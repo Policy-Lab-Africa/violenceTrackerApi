@@ -1,0 +1,366 @@
+[
+  {
+    "id": "336325",
+    "name": "BURUM PRIMARY SCHOOL",
+    "registration_area_id": "17080",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/09/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17080",
+    "ward_name": "KWAKA",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336326",
+    "name": "FYAKUCHI VILLAGE",
+    "registration_area_id": "17080",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/09/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17080",
+    "ward_name": "KWAKA",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.314765999999999,
+      "longitude": 7.020080399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.316108779892723,
+          "lng": 7.021420979892722
+        },
+        "southwest": {
+          "lat": 9.313409120107279,
+          "lng": 7.018721320107278
+        }
+      },
+      "formatted_address": "Gawu-Kafin-Adunu-Beni Rd, 911101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.314765999999999,7.020080399999999",
+      "google_place_id": "ChIJkXTV9GMxTBARPCaJqsgpjGs"
+    }
+  },
+  {
+    "id": "336327",
+    "name": "GWACIPE PRIMARY SCHOOL",
+    "registration_area_id": "17080",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/09/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17080",
+    "ward_name": "KWAKA",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2654782,
+      "longitude": 7.0707643,
+      "viewport": {
+        "northeast": {
+          "lat": 9.266904279892723,
+          "lng": 7.072160679892721
+        },
+        "southwest": {
+          "lat": 9.264204620107279,
+          "lng": 7.069461020107277
+        }
+      },
+      "formatted_address": "738C+58R, 910102, Gwachife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2654782,7.0707643",
+      "google_place_id": "ChIJp43K5xctTBARKbtYiRthZF8"
+    }
+  },
+  {
+    "id": "336328",
+    "name": "KWAKA PRIMARY SCHOOL",
+    "registration_area_id": "17080",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/09/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17080",
+    "ward_name": "KWAKA",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.273755999999999,
+      "longitude": 7.1346757,
+      "viewport": {
+        "northeast": {
+          "lat": 9.27516137989272,
+          "lng": 7.136023079892722
+        },
+        "southwest": {
+          "lat": 9.272461720107277,
+          "lng": 7.133323420107278
+        }
+      },
+      "formatted_address": "Kwaka Primary School, A124, 910102, Kwaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.273755999999999,7.1346757",
+      "google_place_id": "ChIJE3pnSvXSTRAR65TTADQfx5I"
+    }
+  },
+  {
+    "id": "336329",
+    "name": "LAIBA VILLAGE",
+    "registration_area_id": "17080",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/09/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17080",
+    "ward_name": "KWAKA",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.314765999999999,
+      "longitude": 7.020080399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.316108779892723,
+          "lng": 7.021420979892722
+        },
+        "southwest": {
+          "lat": 9.313409120107279,
+          "lng": 7.018721320107278
+        }
+      },
+      "formatted_address": "Gawu-Kafin-Adunu-Beni Rd, 911101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.314765999999999,7.020080399999999",
+      "google_place_id": "ChIJkXTV9GMxTBARPCaJqsgpjGs"
+    }
+  },
+  {
+    "id": "336330",
+    "name": "LAHU PRIMARY SCHOOL",
+    "registration_area_id": "17080",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/09/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17080",
+    "ward_name": "KWAKA",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3586905,
+      "longitude": 7.193799100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.360042429892722,
+          "lng": 7.195169179892723
+        },
+        "southwest": {
+          "lat": 9.357342770107278,
+          "lng": 7.192469520107279
+        }
+      },
+      "formatted_address": "955V+FGC, 910102, Chimbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3586905,7.193799100000001",
+      "google_place_id": "ChIJN5OUXZbOTRARunUblsLU708"
+    }
+  },
+  {
+    "id": "336331",
+    "name": "TUCHI PRIMARY SCHOOL",
+    "registration_area_id": "17080",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/09/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17080",
+    "ward_name": "KWAKA",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3974645,
+      "longitude": 7.111491,
+      "viewport": {
+        "northeast": {
+          "lat": 9.398741679892721,
+          "lng": 7.112842279892722
+        },
+        "southwest": {
+          "lat": 9.396042020107277,
+          "lng": 7.110142620107278
+        }
+      },
+      "formatted_address": "94W6+XHQ, 910102, Chimbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3974645,7.111491",
+      "google_place_id": "ChIJJ34nHEPLTRARs7Wito7_uJw"
+    }
+  },
+  {
+    "id": "336332",
+    "name": "FYAJUCHI VILLAGE 2",
+    "registration_area_id": "17080",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/09/06/008",
+    "remark": "NEW PU",
+    "ward_id": "17080",
+    "ward_name": "KWAKA",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.314765999999999,
+      "longitude": 7.020080399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.316108779892723,
+          "lng": 7.021420979892722
+        },
+        "southwest": {
+          "lat": 9.313409120107279,
+          "lng": 7.018721320107278
+        }
+      },
+      "formatted_address": "Gawu-Kafin-Adunu-Beni Rd, 911101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.314765999999999,7.020080399999999",
+      "google_place_id": "ChIJkXTV9GMxTBARPCaJqsgpjGs"
+    }
+  },
+  {
+    "id": "336333",
+    "name": "ANG KADARA",
+    "registration_area_id": "17080",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "26/09/06/009",
+    "remark": "NEW PU",
+    "ward_id": "17080",
+    "ward_name": "KWAKA",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336334",
+    "name": "MALLAM KARO",
+    "registration_area_id": "17080",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "26/09/06/010",
+    "remark": "NEW PU",
+    "ward_id": "17080",
+    "ward_name": "KWAKA",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.272585399999999,
+      "longitude": 7.1372838,
+      "viewport": {
+        "northeast": {
+          "lat": 9.276869099999999,
+          "lng": 7.1421581
+        },
+        "southwest": {
+          "lat": 9.267701899999999,
+          "lng": 7.1313241
+        }
+      },
+      "formatted_address": "910102, Mallam Karo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.272585399999999,7.1372838",
+      "google_place_id": "ChIJrZ4vkl_STRARcpDSh_mIBcc"
+    }
+  },
+  {
+    "id": "336335",
+    "name": "FURUSHE PRIMARY SCHOOL",
+    "registration_area_id": "17080",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "26/09/06/011",
+    "remark": "NEW PU",
+    "ward_id": "17080",
+    "ward_name": "KWAKA",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.314765999999999,
+      "longitude": 7.020080399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.316108779892723,
+          "lng": 7.021420979892722
+        },
+        "southwest": {
+          "lat": 9.313409120107279,
+          "lng": 7.018721320107278
+        }
+      },
+      "formatted_address": "Gawu-Kafin-Adunu-Beni Rd, 911101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.314765999999999,7.020080399999999",
+      "google_place_id": "ChIJkXTV9GMxTBARPCaJqsgpjGs"
+    }
+  },
+  {
+    "id": "336336",
+    "name": "WAGU PRIMARY SCHOOL",
+    "registration_area_id": "17080",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "26/09/06/012",
+    "remark": "NEW PU",
+    "ward_id": "17080",
+    "ward_name": "KWAKA",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.644313799999999,
+      "longitude": 6.524368,
+      "viewport": {
+        "northeast": {
+          "lat": 9.645679829892721,
+          "lng": 6.525765079892722
+        },
+        "southwest": {
+          "lat": 9.642980170107277,
+          "lng": 6.523065420107278
+        }
+      },
+      "formatted_address": "London St, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.644313799999999,6.524368",
+      "google_place_id": "ChIJSeZIIZJwTBAR4CT9W2Ok-T0"
+    }
+  }
+]

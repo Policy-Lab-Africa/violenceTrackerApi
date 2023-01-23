@@ -1,0 +1,250 @@
+[
+  {
+    "id": "111118",
+    "name": "OKE ABA LGEA SCH",
+    "registration_area_id": "5775",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "23/10/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5775",
+    "ward_name": "OKE ABA",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.318064699999999,
+      "longitude": 5.0416551,
+      "viewport": {
+        "northeast": {
+          "lat": 8.3394903,
+          "lng": 5.060577299999999
+        },
+        "southwest": {
+          "lat": 8.3066237,
+          "lng": 5.0193787
+        }
+      },
+      "formatted_address": "251105, Oke Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.318064699999999,5.0416551",
+      "google_place_id": "ChIJQSdxcTXWNxAR8_XHPoxQICE"
+    }
+  },
+  {
+    "id": "111119",
+    "name": "ODO EKU LGEA SCH",
+    "registration_area_id": "5775",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "23/10/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5775",
+    "ward_name": "OKE ABA",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.3087793,
+      "longitude": 4.9617521,
+      "viewport": {
+        "northeast": {
+          "lat": 8.310272779892722,
+          "lng": 4.962904479892723
+        },
+        "southwest": {
+          "lat": 8.307573120107278,
+          "lng": 4.960204820107279
+        }
+      },
+      "formatted_address": "8X56+GP6, 251105, Odo-Eku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3087793,4.9617521",
+      "google_place_id": "ChIJ6zLwj8TQNxARydL1YyMB3WY"
+    }
+  },
+  {
+    "id": "111120",
+    "name": "BALE'S AREA ODO ORE",
+    "registration_area_id": "5775",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "23/10/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5775",
+    "ward_name": "OKE ABA",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.5072761,
+      "longitude": 4.545950599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.508537679892722,
+          "lng": 4.547189679892722
+        },
+        "southwest": {
+          "lat": 8.505838020107278,
+          "lng": 4.544490020107278
+        }
+      },
+      "formatted_address": "GG4W+W94, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5072761,4.545950599999999",
+      "google_place_id": "ChIJlZefpq1TNhAR1Z6hHSUSVA0"
+    }
+  },
+  {
+    "id": "111121",
+    "name": "MAGAJI OLOKIN OPEN SPACE",
+    "registration_area_id": "5775",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "23/10/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5775",
+    "ward_name": "OKE ABA",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111122",
+    "name": "OKE ABA TOWN HALL",
+    "registration_area_id": "5775",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "23/10/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5775",
+    "ward_name": "OKE ABA",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.318064699999999,
+      "longitude": 5.0416551,
+      "viewport": {
+        "northeast": {
+          "lat": 8.3394903,
+          "lng": 5.060577299999999
+        },
+        "southwest": {
+          "lat": 8.3066237,
+          "lng": 5.0193787
+        }
+      },
+      "formatted_address": "251105, Oke Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.318064699999999,5.0416551",
+      "google_place_id": "ChIJQSdxcTXWNxAR8_XHPoxQICE"
+    }
+  },
+  {
+    "id": "111123",
+    "name": "ODO-EKU MARKET CENTRE",
+    "registration_area_id": "5775",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "23/10/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5775",
+    "ward_name": "OKE ABA",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.3338172,
+      "longitude": 4.9793042,
+      "viewport": {
+        "northeast": {
+          "lat": 8.335134629892723,
+          "lng": 4.980680429892722
+        },
+        "southwest": {
+          "lat": 8.332434970107279,
+          "lng": 4.977980770107278
+        }
+      },
+      "formatted_address": "8XMH+HM4, 251105, Odo-Eku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3338172,4.9793042",
+      "google_place_id": "ChIJvdguX1vXNxARbRgYJCYBuss"
+    }
+  },
+  {
+    "id": "111124",
+    "name": "IDI AGBEDE OKE ABA",
+    "registration_area_id": "5775",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "23/10/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5775",
+    "ward_name": "OKE ABA",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.503897199999999,
+      "longitude": 4.6009003,
+      "viewport": {
+        "northeast": {
+          "lat": 8.505179779892721,
+          "lng": 4.602366829892722
+        },
+        "southwest": {
+          "lat": 8.502480120107277,
+          "lng": 4.599667170107279
+        }
+      },
+      "formatted_address": "Basin Gate, 6 Mustapha Idi Agbede St, 240102, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.503897199999999,4.6009003",
+      "google_place_id": "ChIJg2AkzUdNNhAR2TSmFPPF9jk"
+    }
+  },
+  {
+    "id": "111125",
+    "name": "OKE ABA MARKET CENTRE",
+    "registration_area_id": "5775",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "23/10/10/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5775",
+    "ward_name": "OKE ABA",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2755486,
+      "longitude": 5.015527,
+      "viewport": {
+        "northeast": {
+          "lat": 8.276834829892724,
+          "lng": 5.016980979892721
+        },
+        "southwest": {
+          "lat": 8.27413517010728,
+          "lng": 5.014281320107277
+        }
+      },
+      "formatted_address": "Oke Onigbin-Odo Ore, 251105, Owu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2755486,5.015527",
+      "google_place_id": "ChIJDyCtp9XZNxARZY0O46iHBus"
+    }
+  }
+]

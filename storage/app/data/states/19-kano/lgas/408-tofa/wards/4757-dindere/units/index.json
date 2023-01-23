@@ -1,0 +1,135 @@
+[
+  {
+    "id": "93749",
+    "name": "DINDERE PRIMARY SCHOOL",
+    "registration_area_id": "4757",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/39/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4757",
+    "ward_name": "DINDERE",
+    "local_government_id": "408",
+    "local_government_name": "TOFA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0908317,
+      "longitude": 8.263751599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.09201447989272,
+          "lng": 8.265181979892722
+        },
+        "southwest": {
+          "lat": 12.08931482010728,
+          "lng": 8.262482320107278
+        }
+      },
+      "formatted_address": "7F4C37R7+8FP School, 701103, Tofa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0908317,8.263751599999999",
+      "google_place_id": "ChIJs2EEnc5xrhERDR96xQq9RpM"
+    }
+  },
+  {
+    "id": "93750",
+    "name": "SIRE HEALTH POST",
+    "registration_area_id": "4757",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/39/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4757",
+    "ward_name": "DINDERE",
+    "local_government_id": "408",
+    "local_government_name": "TOFA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "93751",
+    "name": "YALWA HEALTH POST I",
+    "registration_area_id": "4757",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/39/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4757",
+    "ward_name": "DINDERE",
+    "local_government_id": "408",
+    "local_government_name": "TOFA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0024987,
+      "longitude": 8.500255899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00388002989272,
+          "lng": 8.501633129892719
+        },
+        "southwest": {
+          "lat": 12.00118037010728,
+          "lng": 8.498933470107275
+        }
+      },
+      "formatted_address": "2G22+X4R, Unnamed Road, Kano City 700251, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0024987,8.500255899999999",
+      "google_place_id": "ChIJ26X0H-mBrhER5etvVzqJLKs"
+    }
+  },
+  {
+    "id": "93752",
+    "name": "YALWA HEALTH POST II",
+    "registration_area_id": "4757",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/39/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4757",
+    "ward_name": "DINDERE",
+    "local_government_id": "408",
+    "local_government_name": "TOFA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "93753",
+    "name": "DINDERE PRI. SCH II",
+    "registration_area_id": "4757",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/39/01/005",
+    "remark": "NEW PU",
+    "ward_id": "4757",
+    "ward_name": "DINDERE",
+    "local_government_id": "408",
+    "local_government_name": "TOFA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0908317,
+      "longitude": 8.263751599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.09201447989272,
+          "lng": 8.265181979892722
+        },
+        "southwest": {
+          "lat": 12.08931482010728,
+          "lng": 8.262482320107278
+        }
+      },
+      "formatted_address": "7F4C37R7+8FP School, 701103, Tofa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0908317,8.263751599999999",
+      "google_place_id": "ChIJs2EEnc5xrhERDR96xQq9RpM"
+    }
+  }
+]

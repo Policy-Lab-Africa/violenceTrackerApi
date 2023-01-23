@@ -1,0 +1,499 @@
+[
+  {
+    "id": "9063",
+    "name": "PRY SCH AWA NTONG",
+    "registration_area_id": "479",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "03/07/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "479",
+    "ward_name": "SOUTHERN IMAN 1",
+    "local_government_id": "45",
+    "local_government_name": "ETINAN",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "9064",
+    "name": "PRY SCH , IKOT AKPAN OBIO",
+    "registration_area_id": "479",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "03/07/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "479",
+    "ward_name": "SOUTHERN IMAN 1",
+    "local_government_id": "45",
+    "local_government_name": "ETINAN",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7471301,
+      "longitude": 7.903114100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.748478829892722,
+          "lng": 7.904457979892721
+        },
+        "southwest": {
+          "lat": 4.745779170107278,
+          "lng": 7.901758320107278
+        }
+      },
+      "formatted_address": "PWW3+V65, Uyo Road, 522108, Eket, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7471301,7.903114100000001",
+      "google_place_id": "ChIJW0YH9pLmZxAR9-2Cw82ZMTA"
+    }
+  },
+  {
+    "id": "9065",
+    "name": "VILLAGE HALL, IKOT AFAHA URUA ESSIEN",
+    "registration_area_id": "479",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "03/07/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "479",
+    "ward_name": "SOUTHERN IMAN 1",
+    "local_government_id": "45",
+    "local_government_name": "ETINAN",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7527357,
+      "longitude": 7.853706499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.754061979892722,
+          "lng": 7.854959829892722
+        },
+        "southwest": {
+          "lat": 4.751362320107278,
+          "lng": 7.852260170107278
+        }
+      },
+      "formatted_address": "QV33+3GR, 522103, Oniong, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7527357,7.853706499999999",
+      "google_place_id": "ChIJS1YMqEPhZxARoJXM0bcQaIs"
+    }
+  },
+  {
+    "id": "9066",
+    "name": "GOVT SCH, ONIONG IMAN",
+    "registration_area_id": "479",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "03/07/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "479",
+    "ward_name": "SOUTHERN IMAN 1",
+    "local_government_id": "45",
+    "local_government_name": "ETINAN",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "9067",
+    "name": "COMM SEC SCH, IKOT ITINA",
+    "registration_area_id": "479",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "03/07/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "479",
+    "ward_name": "SOUTHERN IMAN 1",
+    "local_government_id": "45",
+    "local_government_name": "ETINAN",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8376986,
+      "longitude": 7.8390891,
+      "viewport": {
+        "northeast": {
+          "lat": 4.838721929892722,
+          "lng": 7.840870179892722
+        },
+        "southwest": {
+          "lat": 4.836022270107278,
+          "lng": 7.838170520107278
+        }
+      },
+      "formatted_address": "RRQQ+3JG, 522102, Etinan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8376986,7.8390891",
+      "google_place_id": "ChIJk9Q_ViXjZxARCCro95yQNZc"
+    }
+  },
+  {
+    "id": "9068",
+    "name": "VILLAGE HALL, IKOT ITINA",
+    "registration_area_id": "479",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "03/07/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "479",
+    "ward_name": "SOUTHERN IMAN 1",
+    "local_government_id": "45",
+    "local_government_name": "ETINAN",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7527357,
+      "longitude": 7.853706499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.754061979892722,
+          "lng": 7.854959829892722
+        },
+        "southwest": {
+          "lat": 4.751362320107278,
+          "lng": 7.852260170107278
+        }
+      },
+      "formatted_address": "QV33+3GR, 522103, Oniong, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7527357,7.853706499999999",
+      "google_place_id": "ChIJS1YMqEPhZxARoJXM0bcQaIs"
+    }
+  },
+  {
+    "id": "9069",
+    "name": "CIVIC CENTRE, IKOT OBONG IKOT INYANG",
+    "registration_area_id": "479",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "03/07/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "479",
+    "ward_name": "SOUTHERN IMAN 1",
+    "local_government_id": "45",
+    "local_government_name": "ETINAN",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.1920643,
+      "longitude": 7.688838499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.193292679892722,
+          "lng": 7.690191029892718
+        },
+        "southwest": {
+          "lat": 5.190593020107278,
+          "lng": 7.687491370107274
+        }
+      },
+      "formatted_address": "5MRQ+P9, 530102, Ibong Ikot Akan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1920643,7.688838499999999",
+      "google_place_id": "ChIJl1pY0oexQhARgK-8HMBJPNk"
+    }
+  },
+  {
+    "id": "9070",
+    "name": "PRY SCH, IKOT INYANG",
+    "registration_area_id": "479",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "03/07/06/008",
+    "remark": "EXISTING PU",
+    "ward_id": "479",
+    "ward_name": "SOUTHERN IMAN 1",
+    "local_government_id": "45",
+    "local_government_name": "ETINAN",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0218541,
+      "longitude": 7.922816,
+      "viewport": {
+        "northeast": {
+          "lat": 5.023170929892722,
+          "lng": 7.924210929892721
+        },
+        "southwest": {
+          "lat": 5.020471270107278,
+          "lng": 7.921511270107277
+        }
+      },
+      "formatted_address": "107 Aka Rd, 520241, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0218541,7.922816",
+      "google_place_id": "ChIJl4rHzzniZxARjHIJmHoSdiE"
+    }
+  },
+  {
+    "id": "9071",
+    "name": "PRY SCH, NKANA",
+    "registration_area_id": "479",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "03/07/06/009",
+    "remark": "EXISTING PU",
+    "ward_id": "479",
+    "ward_name": "SOUTHERN IMAN 1",
+    "local_government_id": "45",
+    "local_government_name": "ETINAN",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7650052,
+      "longitude": 7.807816600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.766355779892722,
+          "lng": 7.80920647989272
+        },
+        "southwest": {
+          "lat": 4.763656120107278,
+          "lng": 7.806506820107276
+        }
+      },
+      "formatted_address": "QR85+244, Nkana, Etinan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7650052,7.807816600000001",
+      "google_place_id": "ChIJ67zquIrhZxARBtOGs4u_iRI"
+    }
+  },
+  {
+    "id": "9072",
+    "name": "VILLAGE HALL, NKANA",
+    "registration_area_id": "479",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "03/07/06/010",
+    "remark": "EXISTING PU",
+    "ward_id": "479",
+    "ward_name": "SOUTHERN IMAN 1",
+    "local_government_id": "45",
+    "local_government_name": "ETINAN",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8733342,
+      "longitude": 7.8550975,
+      "viewport": {
+        "northeast": {
+          "lat": 4.874684079892722,
+          "lng": 7.856470129892722
+        },
+        "southwest": {
+          "lat": 4.871984420107278,
+          "lng": 7.853770470107278
+        }
+      },
+      "formatted_address": "VVF4+92G, 522103, Etinan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8733342,7.8550975",
+      "google_place_id": "ChIJB95mCJT8ZxAREcoxqEi_458"
+    }
+  },
+  {
+    "id": "9073",
+    "name": "VILLAGE HALL, IKOT AKPAN OBIO EKOT",
+    "registration_area_id": "479",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "03/07/06/011",
+    "remark": "EXISTING PU",
+    "ward_id": "479",
+    "ward_name": "SOUTHERN IMAN 1",
+    "local_government_id": "45",
+    "local_government_name": "ETINAN",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7527357,
+      "longitude": 7.853706499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.754061979892722,
+          "lng": 7.854959829892722
+        },
+        "southwest": {
+          "lat": 4.751362320107278,
+          "lng": 7.852260170107278
+        }
+      },
+      "formatted_address": "QV33+3GR, 522103, Oniong, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7527357,7.853706499999999",
+      "google_place_id": "ChIJS1YMqEPhZxARoJXM0bcQaIs"
+    }
+  },
+  {
+    "id": "9074",
+    "name": "VILLAGE HALL, ONIONG IMAN",
+    "registration_area_id": "479",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "03/07/06/012",
+    "remark": "NEW PU",
+    "ward_id": "479",
+    "ward_name": "SOUTHERN IMAN 1",
+    "local_government_id": "45",
+    "local_government_name": "ETINAN",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "9075",
+    "name": "MARKET SQUARE, ONIONG IMAN ETINAN",
+    "registration_area_id": "479",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "03/07/06/013",
+    "remark": "NEW PU",
+    "ward_id": "479",
+    "ward_name": "SOUTHERN IMAN 1",
+    "local_government_id": "45",
+    "local_government_name": "ETINAN",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "9076",
+    "name": "COMPREHENSIVE SEC. SCH NKANA,",
+    "registration_area_id": "479",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "03/07/06/014",
+    "remark": "NEW PU",
+    "ward_id": "479",
+    "ward_name": "SOUTHERN IMAN 1",
+    "local_government_id": "45",
+    "local_government_name": "ETINAN",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7650052,
+      "longitude": 7.807816600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.766355779892722,
+          "lng": 7.80920647989272
+        },
+        "southwest": {
+          "lat": 4.763656120107278,
+          "lng": 7.806506820107276
+        }
+      },
+      "formatted_address": "QR85+244, Nkana, Etinan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7650052,7.807816600000001",
+      "google_place_id": "ChIJ67zquIrhZxARBtOGs4u_iRI"
+    }
+  },
+  {
+    "id": "9077",
+    "name": "MARKET SQUARE, NKANA, ETINAN",
+    "registration_area_id": "479",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "03/07/06/015",
+    "remark": "NEW PU",
+    "ward_id": "479",
+    "ward_name": "SOUTHERN IMAN 1",
+    "local_government_id": "45",
+    "local_government_name": "ETINAN",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8348676,
+      "longitude": 7.8514094,
+      "viewport": {
+        "northeast": {
+          "lat": 4.836218029892722,
+          "lng": 7.852878179892723
+        },
+        "southwest": {
+          "lat": 4.833518370107278,
+          "lng": 7.850178520107279
+        }
+      },
+      "formatted_address": "RVM2+WHV, 522102, Etinan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8348676,7.8514094",
+      "google_place_id": "ChIJK9YpdEfjZxARjcgasrRquvs"
+    }
+  },
+  {
+    "id": "9078",
+    "name": "NKANA CIVIC CENTER, ETINAN",
+    "registration_area_id": "479",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "03/07/06/016",
+    "remark": "NEW PU",
+    "ward_id": "479",
+    "ward_name": "SOUTHERN IMAN 1",
+    "local_government_id": "45",
+    "local_government_name": "ETINAN",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7650052,
+      "longitude": 7.807816600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.766355779892722,
+          "lng": 7.80920647989272
+        },
+        "southwest": {
+          "lat": 4.763656120107278,
+          "lng": 7.806506820107276
+        }
+      },
+      "formatted_address": "QR85+244, Nkana, Etinan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7650052,7.807816600000001",
+      "google_place_id": "ChIJ67zquIrhZxARBtOGs4u_iRI"
+    }
+  },
+  {
+    "id": "9079",
+    "name": "PRIMARY HEALTH CENTER, NKANA",
+    "registration_area_id": "479",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "03/07/06/017",
+    "remark": "NEW PU",
+    "ward_id": "479",
+    "ward_name": "SOUTHERN IMAN 1",
+    "local_government_id": "45",
+    "local_government_name": "ETINAN",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.771199999999999,
+      "longitude": 7.8131,
+      "viewport": {
+        "northeast": {
+          "lat": 4.772642429892722,
+          "lng": 7.814389329892721
+        },
+        "southwest": {
+          "lat": 4.769942770107278,
+          "lng": 7.811689670107278
+        }
+      },
+      "formatted_address": "QRC7+F6H, 522103, Nkana, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.771199999999999,7.8131",
+      "google_place_id": "ChIJ6YWVpybiZxARMKmjQgIBtyc"
+    }
+  }
+]

@@ -1,0 +1,599 @@
+[
+  {
+    "id": "348492",
+    "name": "A.U.D PRY SCH, OLIYERE OLOKUNTOYE",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "28/18/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.202883900000001,
+      "longitude": 5.570753799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.204397029892723,
+          "lng": 5.572195729892721
+        },
+        "southwest": {
+          "lat": 7.201697370107279,
+          "lng": 5.569496070107277
+        }
+      },
+      "formatted_address": "6H3C+582, 341104, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.202883900000001,5.570753799999999",
+      "google_place_id": "ChIJ34hId3SvRxARB1zDTe0m1J0"
+    }
+  },
+  {
+    "id": "348493",
+    "name": "ADEYERI GRAM SCH, OKEBOLA STREET",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "28/18/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.205176400000001,
+      "longitude": 5.5977849,
+      "viewport": {
+        "northeast": {
+          "lat": 7.206457079892722,
+          "lng": 5.599099579892721
+        },
+        "southwest": {
+          "lat": 7.203757420107278,
+          "lng": 5.596399920107277
+        }
+      },
+      "formatted_address": "6H4X+34W, 341101, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.205176400000001,5.5977849",
+      "google_place_id": "ChIJ5X0li_2vRxARH2_GklXN7r4"
+    }
+  },
+  {
+    "id": "348494",
+    "name": "ANAYE MARKET, C.A.C/ADESIDA I",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "28/18/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "348495",
+    "name": "ANAYE MARKET, C.A.C/ADESIDA II",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "28/18/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.2135772,
+      "longitude": 5.599337999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.214905579892721,
+          "lng": 5.600667479892722
+        },
+        "southwest": {
+          "lat": 7.212205920107277,
+          "lng": 5.597967820107278
+        }
+      },
+      "formatted_address": "6H7X+CPP, Oba Road, 341101, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2135772,5.599337999999999",
+      "google_place_id": "ChIJYwttvcuvRxARRuT14z4qhf4"
+    }
+  },
+  {
+    "id": "348496",
+    "name": "NEAR MARKET STALL, UTELU CAMP",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "28/18/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.1086,
+      "longitude": 5.115725900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.109981729892722,
+          "lng": 5.117096079892722
+        },
+        "southwest": {
+          "lat": 7.107282070107278,
+          "lng": 5.114396420107278
+        }
+      },
+      "formatted_address": "4458+C7Q, Bolorunduro-Owo Road, 340108, Idanre, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1086,5.115725900000001",
+      "google_place_id": "ChIJ-bVGwgmBRxARAnJ1WhdbL-E"
+    }
+  },
+  {
+    "id": "348497",
+    "name": "NEAR CATHOLIC CHURCH ALAGUTAN, KOBBA UWESE I",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "28/18/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.194427500000001,
+      "longitude": 5.583679399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.195751079892721,
+          "lng": 5.585034279892721
+        },
+        "southwest": {
+          "lat": 7.193051420107277,
+          "lng": 5.582334620107277
+        }
+      },
+      "formatted_address": "5HVM+RF7, Owaluwa Street, 341105, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.194427500000001,5.583679399999999",
+      "google_place_id": "ChIJ0dfiKLqvRxARKo-Z44h9RSs"
+    }
+  },
+  {
+    "id": "348498",
+    "name": "NEAR CATHOLIC CHURCH ALAGUTAN, KOBBA UWESE II",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "28/18/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.194427500000001,
+      "longitude": 5.583679399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.195751079892721,
+          "lng": 5.585034279892721
+        },
+        "southwest": {
+          "lat": 7.193051420107277,
+          "lng": 5.582334620107277
+        }
+      },
+      "formatted_address": "5HVM+RF7, Owaluwa Street, 341105, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.194427500000001,5.583679399999999",
+      "google_place_id": "ChIJ0dfiKLqvRxARKo-Z44h9RSs"
+    }
+  },
+  {
+    "id": "348499",
+    "name": "NEAR CATHOLIC CHURCH, KOBBA UWESE ALAGUJUN",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "28/18/10/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.194427500000001,
+      "longitude": 5.583679399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.195751079892721,
+          "lng": 5.585034279892721
+        },
+        "southwest": {
+          "lat": 7.193051420107277,
+          "lng": 5.582334620107277
+        }
+      },
+      "formatted_address": "5HVM+RF7, Owaluwa Street, 341105, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.194427500000001,5.583679399999999",
+      "google_place_id": "ChIJ0dfiKLqvRxARKo-Z44h9RSs"
+    }
+  },
+  {
+    "id": "348500",
+    "name": "AT AJIYOKO CAMP, AJIYOKO",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "28/18/10/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.2288676,
+      "longitude": 5.553885,
+      "viewport": {
+        "northeast": {
+          "lat": 7.230566879892722,
+          "lng": 5.555298779892722
+        },
+        "southwest": {
+          "lat": 7.227867220107278,
+          "lng": 5.552599120107279
+        }
+      },
+      "formatted_address": "6HH3+GHR, 341104, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2288676,5.553885",
+      "google_place_id": "ChIJ_12O91OlRxARxhXAQE2iTCc"
+    }
+  },
+  {
+    "id": "348501",
+    "name": "IYERE",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "28/18/10/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.175804499999999,
+      "longitude": 5.612942,
+      "viewport": {
+        "northeast": {
+          "lat": 7.188409,
+          "lng": 5.627934
+        },
+        "southwest": {
+          "lat": 7.161752,
+          "lng": 5.604436
+        }
+      },
+      "formatted_address": "341102, Iyere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.175804499999999,5.612942",
+      "google_place_id": "ChIJsYlNpe-uRxARHbfDbhc8iDI"
+    }
+  },
+  {
+    "id": "348502",
+    "name": "NEAR AJEGUNMAS HOUSE/AJEGUNMA/APAN/AROBA/OGUNDELE COMPOUND I",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "28/18/10/011",
+    "remark": "EXISTING PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.214923600000001,
+      "longitude": 5.605099399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.216314479892723,
+          "lng": 5.606383779892723
+        },
+        "southwest": {
+          "lat": 7.213614820107279,
+          "lng": 5.603684120107279
+        }
+      },
+      "formatted_address": "6J74+X2G, Ajasin Road, Beside Complete Child School, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.214923600000001,5.605099399999999",
+      "google_place_id": "ChIJO1zWXzOuRxARvpIVLuDO-Fo"
+    }
+  },
+  {
+    "id": "348503",
+    "name": "NEAR AJEGUNMAS HOUSE, AJEGUNMA/APAN/AROBA/OGUNDELE COMPOUND II",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "28/18/10/012",
+    "remark": "EXISTING PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.183332999999998,
+      "longitude": 5.583333,
+      "viewport": {
+        "northeast": {
+          "lat": 7.184719479892721,
+          "lng": 5.584637129892721
+        },
+        "southwest": {
+          "lat": 7.182019820107277,
+          "lng": 5.581937470107277
+        }
+      },
+      "formatted_address": "147, Okedogbon Street, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.183332999999998,5.583333",
+      "google_place_id": "ChIJsR-OUAuvRxAR-hs5Pway5VE"
+    }
+  },
+  {
+    "id": "348504",
+    "name": "AT OKEDOGBO STREET, OKEDOGBO QTRS",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "28/18/10/013",
+    "remark": "EXISTING PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.196238699999999,
+      "longitude": 5.5901295,
+      "viewport": {
+        "northeast": {
+          "lat": 7.197573779892721,
+          "lng": 5.591503879892722
+        },
+        "southwest": {
+          "lat": 7.194874120107277,
+          "lng": 5.588804220107278
+        }
+      },
+      "formatted_address": "20, Idaniken Street, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.196238699999999,5.5901295",
+      "google_place_id": "ChIJGW6e-KSvRxARTKbm4GwyH44"
+    }
+  },
+  {
+    "id": "348505",
+    "name": "NEAR BAPTIST CHURCH, ELEGBA/OGUNBODEDE",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "28/18/10/014",
+    "remark": "EXISTING PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.2169117,
+      "longitude": 5.597835799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.218316479892723,
+          "lng": 5.599246879892722
+        },
+        "southwest": {
+          "lat": 7.215616820107279,
+          "lng": 5.596547220107278
+        }
+      },
+      "formatted_address": "6H8X+Q48, Opposite Federal Medical centre, Ikare, Junction, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2169117,5.597835799999999",
+      "google_place_id": "ChIJ7-s8UtivRxARja2CiUutMTM"
+    }
+  },
+  {
+    "id": "348506",
+    "name": "AT UPO VILLAGE, UPO I",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "28/18/10/015",
+    "remark": "EXISTING PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "348507",
+    "name": "AT UPO VILLAGE, UPO II",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "28/18/10/016",
+    "remark": "EXISTING PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "348508",
+    "name": "IGBE VILLAGE, IGBE I",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "28/18/10/017",
+    "remark": "EXISTING PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.066727999999999,
+      "longitude": 6.2666815,
+      "viewport": {
+        "northeast": {
+          "lat": 7.068033579892721,
+          "lng": 6.268040379892723
+        },
+        "southwest": {
+          "lat": 7.065333920107277,
+          "lng": 6.265340720107279
+        }
+      },
+      "formatted_address": "Igbe Village, 8 Abu, Inu Umoru St, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.066727999999999,6.2666815",
+      "google_place_id": "ChIJ3doANXZ9RhAR30uiOm_CsRc"
+    }
+  },
+  {
+    "id": "348509",
+    "name": "IGBE VILLAGE, IGBE II",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "28/18/10/018",
+    "remark": "EXISTING PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "348510",
+    "name": "OGUNBODEDE CAMP",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "28/18/10/019",
+    "remark": "EXISTING PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.2135772,
+      "longitude": 5.599337999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.214905579892721,
+          "lng": 5.600667479892722
+        },
+        "southwest": {
+          "lat": 7.212205920107277,
+          "lng": 5.597967820107278
+        }
+      },
+      "formatted_address": "6H7X+CPP, Oba Road, 341101, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2135772,5.599337999999999",
+      "google_place_id": "ChIJYwttvcuvRxARRuT14z4qhf4"
+    }
+  },
+  {
+    "id": "348511",
+    "name": "ST JOHN PRY SCHL IYERE",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "28/18/10/020",
+    "remark": "NEW PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "348512",
+    "name": "ALAWAYE HOUSE IYERE",
+    "registration_area_id": "17700",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "28/18/10/021",
+    "remark": "NEW PU",
+    "ward_id": "17700",
+    "ward_name": "IYARE",
+    "local_government_id": "599",
+    "local_government_name": "OWO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  }
+]

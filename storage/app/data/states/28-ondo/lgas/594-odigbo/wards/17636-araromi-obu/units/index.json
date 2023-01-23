@@ -1,0 +1,515 @@
+[
+  {
+    "id": "347157",
+    "name": "L.A PRY SCH AREA ARAROMI OBU, L.A PRY SCH AREA ARAROMI OBU NORTH",
+    "registration_area_id": "17636",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "28/13/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17636",
+    "ward_name": "ARAROMI OBU",
+    "local_government_id": "594",
+    "local_government_name": "ODIGBO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.608227599999999,
+      "longitude": 4.4805851,
+      "viewport": {
+        "northeast": {
+          "lat": 6.608948379892722,
+          "lng": 4.481950529892722
+        },
+        "southwest": {
+          "lat": 6.606248720107278,
+          "lng": 4.479250870107278
+        }
+      },
+      "formatted_address": "JF5J+76W, 350102, Araromi Obu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.608227599999999,4.4805851",
+      "google_place_id": "ChIJNX932GfbOBARv4j6X_Ht27M"
+    }
+  },
+  {
+    "id": "347158",
+    "name": "L.A PRY SCH AREA ARAROMI OBU, L.A PRY SCH AREA ARAROMI OBU SOUTH",
+    "registration_area_id": "17636",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "28/13/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17636",
+    "ward_name": "ARAROMI OBU",
+    "local_government_id": "594",
+    "local_government_name": "ODIGBO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.608227599999999,
+      "longitude": 4.4805851,
+      "viewport": {
+        "northeast": {
+          "lat": 6.608948379892722,
+          "lng": 4.481950529892722
+        },
+        "southwest": {
+          "lat": 6.606248720107278,
+          "lng": 4.479250870107278
+        }
+      },
+      "formatted_address": "JF5J+76W, 350102, Araromi Obu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.608227599999999,4.4805851",
+      "google_place_id": "ChIJNX932GfbOBARv4j6X_Ht27M"
+    }
+  },
+  {
+    "id": "347159",
+    "name": "COURT HALL AREA ARAROMI OBU, COURT HALL AREA ARAROMI OBU NORTH",
+    "registration_area_id": "17636",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "28/13/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17636",
+    "ward_name": "ARAROMI OBU",
+    "local_government_id": "594",
+    "local_government_name": "ODIGBO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.590982899999999,
+      "longitude": 4.4953649,
+      "viewport": {
+        "northeast": {
+          "lat": 6.591977579892721,
+          "lng": 4.50053045
+        },
+        "southwest": {
+          "lat": 6.589277920107278,
+          "lng": 4.49364305
+        }
+      },
+      "formatted_address": "1, College Road, Aloba, PMB No. 505, Araromi Obu, 350106, Araromi Obu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.590982899999999,4.4953649",
+      "google_place_id": "ChIJvSTBsjDaOBAR648KMhl81Nc"
+    }
+  },
+  {
+    "id": "347160",
+    "name": "COURT HALL AREA ARAROMI OBU, COURT HALL AREA ARAROMI OBU SOUTH",
+    "registration_area_id": "17636",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "28/13/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17636",
+    "ward_name": "ARAROMI OBU",
+    "local_government_id": "594",
+    "local_government_name": "ODIGBO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.590982899999999,
+      "longitude": 4.4953649,
+      "viewport": {
+        "northeast": {
+          "lat": 6.591977579892721,
+          "lng": 4.50053045
+        },
+        "southwest": {
+          "lat": 6.589277920107278,
+          "lng": 4.49364305
+        }
+      },
+      "formatted_address": "1, College Road, Aloba, PMB No. 505, Araromi Obu, 350106, Araromi Obu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.590982899999999,4.4953649",
+      "google_place_id": "ChIJvSTBsjDaOBAR648KMhl81Nc"
+    }
+  },
+  {
+    "id": "347161",
+    "name": "COMM HEALTH CENTRE ARAROMI OBU, COMM HEALTH CENTRE ARAROMI OBU NORTH",
+    "registration_area_id": "17636",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "28/13/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17636",
+    "ward_name": "ARAROMI OBU",
+    "local_government_id": "594",
+    "local_government_name": "ODIGBO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 43.5499868,
+      "longitude": -80.2722186,
+      "viewport": {
+        "northeast": {
+          "lat": 43.55149377989272,
+          "lng": -80.27065952010729
+        },
+        "southwest": {
+          "lat": 43.54879412010727,
+          "lng": -80.27335917989272
+        }
+      },
+      "formatted_address": "100 Westmount Rd, Guelph, ON N1H 5H8, Canada",
+      "google_map_url": "https://maps.google.com?q=43.5499868,-80.2722186",
+      "google_place_id": "ChIJRxQqz56aK4gRnm3Fj32BwUA"
+    }
+  },
+  {
+    "id": "347162",
+    "name": "COMM HEALTH CENTRE ARAROMI OBU, COMM HEALTH CENTRE ARAROMI OBU SOUTH",
+    "registration_area_id": "17636",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "28/13/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17636",
+    "ward_name": "ARAROMI OBU",
+    "local_government_id": "594",
+    "local_government_name": "ODIGBO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347163",
+    "name": "COMM HIGH SCH ARAROIMI OBU, COMM HIGH SCH ARAROIMI OBU",
+    "registration_area_id": "17636",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "28/13/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17636",
+    "ward_name": "ARAROMI OBU",
+    "local_government_id": "594",
+    "local_government_name": "ODIGBO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.608227599999999,
+      "longitude": 4.4805851,
+      "viewport": {
+        "northeast": {
+          "lat": 6.608948379892722,
+          "lng": 4.481950529892722
+        },
+        "southwest": {
+          "lat": 6.606248720107278,
+          "lng": 4.479250870107278
+        }
+      },
+      "formatted_address": "JF5J+76W, 350102, Araromi Obu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.608227599999999,4.4805851",
+      "google_place_id": "ChIJNX932GfbOBARv4j6X_Ht27M"
+    }
+  },
+  {
+    "id": "347164",
+    "name": "MATERNITY CENTRE 1 ARAROMI, MATERNITY CENTRE  ARAROMI",
+    "registration_area_id": "17636",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "28/13/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17636",
+    "ward_name": "ARAROMI OBU",
+    "local_government_id": "594",
+    "local_government_name": "ODIGBO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347165",
+    "name": "MATERNITY CENTRE 11 ARAROMI, MATERNITY CENTRE  ARAROMI",
+    "registration_area_id": "17636",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "28/13/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17636",
+    "ward_name": "ARAROMI OBU",
+    "local_government_id": "594",
+    "local_government_name": "ODIGBO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.599562,
+      "longitude": 4.489434,
+      "viewport": {
+        "northeast": {
+          "lat": 6.600913379892722,
+          "lng": 4.490822629892723
+        },
+        "southwest": {
+          "lat": 6.598213720107278,
+          "lng": 4.488122970107279
+        }
+      },
+      "formatted_address": "HFXQ+RQF, 350102, Araromi Obu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.599562,4.489434",
+      "google_place_id": "ChIJn9TQaS3aOBARmvwim8ZA7Gg"
+    }
+  },
+  {
+    "id": "347166",
+    "name": "COMM PRY SCH ARAROMI OBU, COMM PRY SCH ARAROMI OBU  NORTH",
+    "registration_area_id": "17636",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "28/13/04/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17636",
+    "ward_name": "ARAROMI OBU",
+    "local_government_id": "594",
+    "local_government_name": "ODIGBO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.608227599999999,
+      "longitude": 4.4805851,
+      "viewport": {
+        "northeast": {
+          "lat": 6.608948379892722,
+          "lng": 4.481950529892722
+        },
+        "southwest": {
+          "lat": 6.606248720107278,
+          "lng": 4.479250870107278
+        }
+      },
+      "formatted_address": "JF5J+76W, 350102, Araromi Obu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.608227599999999,4.4805851",
+      "google_place_id": "ChIJNX932GfbOBARv4j6X_Ht27M"
+    }
+  },
+  {
+    "id": "347167",
+    "name": "COMM PRY SCH ARAROMI OBU, COMM PRY SCH ARAROMI OBU  SOUTH",
+    "registration_area_id": "17636",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "28/13/04/011",
+    "remark": "EXISTING PU",
+    "ward_id": "17636",
+    "ward_name": "ARAROMI OBU",
+    "local_government_id": "594",
+    "local_government_name": "ODIGBO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.608227599999999,
+      "longitude": 4.4805851,
+      "viewport": {
+        "northeast": {
+          "lat": 6.608948379892722,
+          "lng": 4.481950529892722
+        },
+        "southwest": {
+          "lat": 6.606248720107278,
+          "lng": 4.479250870107278
+        }
+      },
+      "formatted_address": "JF5J+76W, 350102, Araromi Obu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.608227599999999,4.4805851",
+      "google_place_id": "ChIJNX932GfbOBARv4j6X_Ht27M"
+    }
+  },
+  {
+    "id": "347168",
+    "name": "ADAJA TEMIDIRE CAMP, CANTRE OF  ADAJA TEMIDIRE CAMP",
+    "registration_area_id": "17636",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "28/13/04/012",
+    "remark": "EXISTING PU",
+    "ward_id": "17636",
+    "ward_name": "ARAROMI OBU",
+    "local_government_id": "594",
+    "local_government_name": "ODIGBO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347169",
+    "name": "ENUJOWO/AGBALA JAMES CAMP, CENTRE OF ENUJOWO ARAROMI OBU",
+    "registration_area_id": "17636",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "28/13/04/013",
+    "remark": "EXISTING PU",
+    "ward_id": "17636",
+    "ward_name": "ARAROMI OBU",
+    "local_government_id": "594",
+    "local_government_name": "ODIGBO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.5214307,
+      "longitude": 5.7361246,
+      "viewport": {
+        "northeast": {
+          "lat": 7.522587479892722,
+          "lng": 5.737504079892722
+        },
+        "southwest": {
+          "lat": 7.519887820107278,
+          "lng": 5.734804420107278
+        }
+      },
+      "formatted_address": "GPCP+HCH, Okegbe,, Ikare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5214307,5.7361246",
+      "google_place_id": "ChIJKRA5bC4zRhARGJXaNUUS_Yc"
+    }
+  },
+  {
+    "id": "347170",
+    "name": "AGBOLIGI JAGIDI VILLAGE, CENTRE OF AGBOLIGI JAGIDI VILLAGE  NORTH",
+    "registration_area_id": "17636",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "28/13/04/014",
+    "remark": "EXISTING PU",
+    "ward_id": "17636",
+    "ward_name": "ARAROMI OBU",
+    "local_government_id": "594",
+    "local_government_name": "ODIGBO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.751830399999999,
+      "longitude": 4.8777903,
+      "viewport": {
+        "northeast": {
+          "lat": 6.753154879892722,
+          "lng": 4.879174179892721
+        },
+        "southwest": {
+          "lat": 6.750455220107278,
+          "lng": 4.876474520107277
+        }
+      },
+      "formatted_address": "350107, Ore, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.751830399999999,4.8777903",
+      "google_place_id": "ChIJAQAAAJSXOBARFcLOKAqn9f4"
+    }
+  },
+  {
+    "id": "347171",
+    "name": "AGBOLIGI JAGIDI VILLAGE, CENTRE OF AGBOLIGI JAGIDI VILLAGE  SOUTH",
+    "registration_area_id": "17636",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "28/13/04/015",
+    "remark": "EXISTING PU",
+    "ward_id": "17636",
+    "ward_name": "ARAROMI OBU",
+    "local_government_id": "594",
+    "local_government_name": "ODIGBO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.590999999999999,
+      "longitude": 4.4954,
+      "viewport": {
+        "northeast": {
+          "lat": 6.591986529892721,
+          "lng": 4.500513499999999
+        },
+        "southwest": {
+          "lat": 6.589286870107277,
+          "lng": 4.493695500000002
+        }
+      },
+      "formatted_address": "HFRW+95R, 350102, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.590999999999999,4.4954",
+      "google_place_id": "ChIJS_nOsjDaOBARyz5Jo2jkJvg"
+    }
+  },
+  {
+    "id": "347172",
+    "name": "OLOMI OTORO CAMP LIKEBE VILLAGE, CENTRE OF LIKEBE VILLAGE NORTH",
+    "registration_area_id": "17636",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "28/13/04/016",
+    "remark": "EXISTING PU",
+    "ward_id": "17636",
+    "ward_name": "ARAROMI OBU",
+    "local_government_id": "594",
+    "local_government_name": "ODIGBO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.751830399999999,
+      "longitude": 4.8777903,
+      "viewport": {
+        "northeast": {
+          "lat": 6.753154879892722,
+          "lng": 4.879174179892721
+        },
+        "southwest": {
+          "lat": 6.750455220107278,
+          "lng": 4.876474520107277
+        }
+      },
+      "formatted_address": "350107, Ore, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.751830399999999,4.8777903",
+      "google_place_id": "ChIJAQAAAJSXOBARFcLOKAqn9f4"
+    }
+  },
+  {
+    "id": "347173",
+    "name": "OLOMI OTORO CAMP LIKEBE VILLAGE, LOGHE/AYETUNMARA VILLAGE CENTRE",
+    "registration_area_id": "17636",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "28/13/04/017",
+    "remark": "EXISTING PU",
+    "ward_id": "17636",
+    "ward_name": "ARAROMI OBU",
+    "local_government_id": "594",
+    "local_government_name": "ODIGBO",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.590982899999999,
+      "longitude": 4.4953649,
+      "viewport": {
+        "northeast": {
+          "lat": 6.591977579892721,
+          "lng": 4.50053045
+        },
+        "southwest": {
+          "lat": 6.589277920107278,
+          "lng": 4.49364305
+        }
+      },
+      "formatted_address": "1, College Road, Aloba, PMB No. 505, Araromi Obu, 350106, Araromi Obu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.590982899999999,4.4953649",
+      "google_place_id": "ChIJvSTBsjDaOBAR648KMhl81Nc"
+    }
+  }
+]

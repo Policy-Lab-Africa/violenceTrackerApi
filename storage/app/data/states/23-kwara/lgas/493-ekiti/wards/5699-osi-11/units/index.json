@@ -1,0 +1,169 @@
+[
+  {
+    "id": "109572",
+    "name": "ST BRIDGETS SCH, OSI",
+    "registration_area_id": "5699",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "23/04/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5699",
+    "ward_name": "OSI 11",
+    "local_government_id": "493",
+    "local_government_name": "EKITI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109573",
+    "name": "AREA COURT, OSI",
+    "registration_area_id": "5699",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "23/04/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5699",
+    "ward_name": "OSI 11",
+    "local_government_id": "493",
+    "local_government_name": "EKITI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.0800062,
+      "longitude": 5.2253042,
+      "viewport": {
+        "northeast": {
+          "lat": 8.081388629892722,
+          "lng": 5.226687529892721
+        },
+        "southwest": {
+          "lat": 8.078688970107278,
+          "lng": 5.223987870107277
+        }
+      },
+      "formatted_address": "36HG+X5R, 252104, Osi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0800062,5.2253042",
+      "google_place_id": "ChIJaZo3lR8YSBAR8Dv-uhJHlYI"
+    }
+  },
+  {
+    "id": "109574",
+    "name": "OPEN SPACE ODORE-OKE, OSI",
+    "registration_area_id": "5699",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "23/04/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5699",
+    "ward_name": "OSI 11",
+    "local_government_id": "493",
+    "local_government_name": "EKITI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109575",
+    "name": "OLD POSTAL AGENCY",
+    "registration_area_id": "5699",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "23/04/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5699",
+    "ward_name": "OSI 11",
+    "local_government_id": "493",
+    "local_government_name": "EKITI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.0892061,
+      "longitude": 5.2579968,
+      "viewport": {
+        "northeast": {
+          "lat": 8.090555929892721,
+          "lng": 5.259346629892723
+        },
+        "southwest": {
+          "lat": 8.087856270107277,
+          "lng": 5.256646970107279
+        }
+      },
+      "formatted_address": "37Q5+M5Q, 252104, Osi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0892061,5.2579968",
+      "google_place_id": "ChIJ636A62wXSBAR6Rr3vIqM1io"
+    }
+  },
+  {
+    "id": "109576",
+    "name": "COMM LGEA SCH OSI",
+    "registration_area_id": "5699",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "23/04/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5699",
+    "ward_name": "OSI 11",
+    "local_government_id": "493",
+    "local_government_name": "EKITI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.0866885,
+      "longitude": 5.216638,
+      "viewport": {
+        "northeast": {
+          "lat": 8.088015879892723,
+          "lng": 5.217848179892722
+        },
+        "southwest": {
+          "lat": 8.085316220107279,
+          "lng": 5.215148520107278
+        }
+      },
+      "formatted_address": "36P8+MMC, 252104, Osi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0866885,5.216638",
+      "google_place_id": "ChIJsc90fBoYSBARk58MmAL8Lfo"
+    }
+  },
+  {
+    "id": "109577",
+    "name": "OPEN SPACE IGBO-OGO, OSI",
+    "registration_area_id": "5699",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "23/04/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5699",
+    "ward_name": "OSI 11",
+    "local_government_id": "493",
+    "local_government_name": "EKITI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109578",
+    "name": "OLD MARKET, OSI",
+    "registration_area_id": "5699",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "23/04/08/007",
+    "remark": "NEW PU",
+    "ward_id": "5699",
+    "ward_name": "OSI 11",
+    "local_government_id": "493",
+    "local_government_name": "EKITI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  }
+]

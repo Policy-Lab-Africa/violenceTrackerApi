@@ -1,0 +1,599 @@
+[
+  {
+    "id": "21573",
+    "name": "KIRFIN KASA EAST,    DISTRICT HEAD OFFICE",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "05/13/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.4051986,
+      "longitude": 10.4052873,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40656167989272,
+          "lng": 10.40665247989272
+        },
+        "southwest": {
+          "lat": 10.40386202010728,
+          "lng": 10.40395282010728
+        }
+      },
+      "formatted_address": "District Head Office, 743104, Cheledi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4051986,10.4052873",
+      "google_place_id": "ChIJWxex-gdNVRARWE9ACSW-PXs"
+    }
+  },
+  {
+    "id": "21574",
+    "name": "KIRFI CENTRAL,   PRIMARY SCHOOL",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "05/13/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.4022926,
+      "longitude": 10.408512,
+      "viewport": {
+        "northeast": {
+          "lat": 10.4084749,
+          "lng": 10.414989
+        },
+        "southwest": {
+          "lat": 10.391525,
+          "lng": 10.3963239
+        }
+      },
+      "formatted_address": "743104, Cheledi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4022926,10.408512",
+      "google_place_id": "ChIJjSx556FNVRARP6OwBi7fo8c"
+    }
+  },
+  {
+    "id": "21575",
+    "name": "KIRFI WEST,  KOFAR MAI UNG.",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "05/13/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3561675,
+      "longitude": 10.5296115,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6724354,
+          "lng": 10.8564842
+        },
+        "southwest": {
+          "lat": 10.1628236,
+          "lng": 10.2246959
+        }
+      },
+      "formatted_address": "Kirfi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3561675,10.5296115",
+      "google_place_id": "ChIJE0iY45lUVRARLc1_cxckjV0"
+    }
+  },
+  {
+    "id": "21576",
+    "name": "KIRFIN  SAMA,  PRIMARY SCHOOL",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "05/13/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3119802,
+      "longitude": 9.8275039,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31320332989272,
+          "lng": 9.828986579892723
+        },
+        "southwest": {
+          "lat": 10.31050367010728,
+          "lng": 9.826286920107279
+        }
+      },
+      "formatted_address": "740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3119802,9.8275039",
+      "google_place_id": "ChIJfTvLO5DXVBARqxnlvUW5FSY"
+    }
+  },
+  {
+    "id": "21577",
+    "name": "UNG. YERIMA,    KOFAR SARKI",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "05/13/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21578",
+    "name": "ZAMANI,  K/SARKI ZAMANI",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "05/13/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21579",
+    "name": "BULLOKKO,    KOFAR SARKI",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "05/13/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21580",
+    "name": "ZAGAINA,    KOFAR SARKI",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "05/13/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.4,
+      "longitude": 10.4166,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40342165,
+          "lng": 10.41749425
+        },
+        "southwest": {
+          "lat": 10.39885945,
+          "lng": 10.41391725
+        }
+      },
+      "formatted_address": "CC28+2J5, 743104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4,10.4166",
+      "google_place_id": "ChIJ1yeP56FNVRAR02UaXnMGvjw"
+    }
+  },
+  {
+    "id": "21581",
+    "name": "SHARIFURI   PRIMARY SCHOOL I",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "05/13/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21582",
+    "name": "SHARIFURI PRIMARY SCHOOL II",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "05/13/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3009666,
+      "longitude": 10.4944771,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30234697989272,
+          "lng": 10.49581907989272
+        },
+        "southwest": {
+          "lat": 10.29964732010728,
+          "lng": 10.49311942010728
+        }
+      },
+      "formatted_address": "Bauchi - Gombe Rd, 743104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3009666,10.4944771",
+      "google_place_id": "ChIJuaKSfRRRVRARL6Gg1vJIsyg"
+    }
+  },
+  {
+    "id": "21583",
+    "name": "KWAGAL,   PRIMARY SCHOOL",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "05/13/07/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3009666,
+      "longitude": 10.4944771,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30234697989272,
+          "lng": 10.49581907989272
+        },
+        "southwest": {
+          "lat": 10.29964732010728,
+          "lng": 10.49311942010728
+        }
+      },
+      "formatted_address": "Bauchi - Gombe Rd, 743104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3009666,10.4944771",
+      "google_place_id": "ChIJuaKSfRRRVRARL6Gg1vJIsyg"
+    }
+  },
+  {
+    "id": "21584",
+    "name": "UNG. ADA,   KOFAR SARKI- I",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "05/13/07/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8277948,
+      "longitude": 10.1637877,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82904532989272,
+          "lng": 10.16509072989272
+        },
+        "southwest": {
+          "lat": 11.82634567010728,
+          "lng": 10.16239107010728
+        }
+      },
+      "formatted_address": "751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277948,10.1637877",
+      "google_place_id": "ChIJE2_39c4mqhERIz-Dmwhwoco"
+    }
+  },
+  {
+    "id": "21585",
+    "name": "UNG. ADA,   KOFAR SARKI - II",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "05/13/07/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21586",
+    "name": "UNG. SARKIN ASKA,   KOFAR SARKIN ASKA",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "05/13/07/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2727798,
+      "longitude": 11.1708562,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27410687989272,
+          "lng": 11.17220742989272
+        },
+        "southwest": {
+          "lat": 10.27140722010728,
+          "lng": 11.16950777010728
+        }
+      },
+      "formatted_address": "75FC+489, 760251, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2727798,11.1708562",
+      "google_place_id": "ChIJlTadi1rR_xAROndSgXmAOyA"
+    }
+  },
+  {
+    "id": "21587",
+    "name": "JAGALWA,   KOFAR SARKIN JAGALWA",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "05/13/07/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.4,
+      "longitude": 10.4166,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40342165,
+          "lng": 10.41749425
+        },
+        "southwest": {
+          "lat": 10.39885945,
+          "lng": 10.41391725
+        }
+      },
+      "formatted_address": "CC28+2J5, 743104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4,10.4166",
+      "google_place_id": "ChIJ1yeP56FNVRAR02UaXnMGvjw"
+    }
+  },
+  {
+    "id": "21588",
+    "name": "KALOMA,   PRIMARY SCHOOL",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "05/13/07/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.309755,
+      "longitude": 9.8551238,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31114367989272,
+          "lng": 9.856471079892724
+        },
+        "southwest": {
+          "lat": 10.30844402010728,
+          "lng": 9.853771420107279
+        }
+      },
+      "formatted_address": "8V54+W25, Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.309755,9.8551238",
+      "google_place_id": "ChIJ714sdeDXVBAR4AxSO3q3rWQ"
+    }
+  },
+  {
+    "id": "21589",
+    "name": "BAGE,    KOFAR SARKI",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "05/13/07/017",
+    "remark": "EXISTING PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.4340837,
+      "longitude": 10.5183622,
+      "viewport": {
+        "northeast": {
+          "lat": 10.4944794,
+          "lng": 10.6041118
+        },
+        "southwest": {
+          "lat": 10.3554095,
+          "lng": 10.3943675
+        }
+      },
+      "formatted_address": "Kirfi, 743104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4340837,10.5183622",
+      "google_place_id": "ChIJwVdmmD1TVRARrm1XFr_7kpg"
+    }
+  },
+  {
+    "id": "21590",
+    "name": "WARRA,   KOFAR WAZIRI",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "05/13/07/018",
+    "remark": "EXISTING PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.4,
+      "longitude": 10.4166,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40342165,
+          "lng": 10.41749425
+        },
+        "southwest": {
+          "lat": 10.39885945,
+          "lng": 10.41391725
+        }
+      },
+      "formatted_address": "CC28+2J5, 743104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4,10.4166",
+      "google_place_id": "ChIJ1yeP56FNVRAR02UaXnMGvjw"
+    }
+  },
+  {
+    "id": "21591",
+    "name": "BOREHOLE KOFAR SARKIN TASHA",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "05/13/07/019",
+    "remark": "NEW PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21592",
+    "name": "OPEN SPACE NEAR KOFAR SARKI",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "05/13/07/020",
+    "remark": "NEW PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.4340837,
+      "longitude": 10.5183622,
+      "viewport": {
+        "northeast": {
+          "lat": 10.43543352989272,
+          "lng": 10.51971202989272
+        },
+        "southwest": {
+          "lat": 10.43273387010728,
+          "lng": 10.51701237010728
+        }
+      },
+      "formatted_address": "KIRFI TOWN, KIRFI LOCAL GOVT. AREA, Bauchi State 48, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4340837,10.5183622",
+      "google_place_id": "ChIJ6UngagJTVRAR9-jUTyxPE_s"
+    }
+  },
+  {
+    "id": "21593",
+    "name": "TUDUN WAS UPPER BASIC",
+    "registration_area_id": "1199",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "05/13/07/021",
+    "remark": "NEW PU",
+    "ward_id": "1199",
+    "ward_name": "KIRFI",
+    "local_government_id": "103",
+    "local_government_name": "KIRFI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.297529,
+      "longitude": 10.775977,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29887882989272,
+          "lng": 10.77732682989272
+        },
+        "southwest": {
+          "lat": 10.29617917010728,
+          "lng": 10.77462717010728
+        }
+      },
+      "formatted_address": "TUDUN WADA STREET SORO, BAUCHI STATE #, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.297529,10.775977",
+      "google_place_id": "ChIJQwWc3zT7_xAREKKC1ldf6nU"
+    }
+  }
+]

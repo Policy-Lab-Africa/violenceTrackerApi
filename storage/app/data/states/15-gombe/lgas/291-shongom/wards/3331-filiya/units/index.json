@@ -1,0 +1,484 @@
+[
+  {
+    "id": "61657",
+    "name": "YAKWANDI / FILIYA PRI. SCH.",
+    "registration_area_id": "3331",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "15/10/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3331",
+    "ward_name": "FILIYA",
+    "local_government_id": "291",
+    "local_government_name": "SHONGOM",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2925601,
+      "longitude": 11.1622411,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29371527989272,
+          "lng": 11.16355262989272
+        },
+        "southwest": {
+          "lat": 10.29101562010728,
+          "lng": 11.16085297010728
+        }
+      },
+      "formatted_address": "75V6+2VH, 760252, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2925601,11.1622411",
+      "google_place_id": "ChIJXdyxPoDQ_xAR2AnLD68m6Ks"
+    }
+  },
+  {
+    "id": "61658",
+    "name": "UNGUWA ROGO, KOFAR MAIUNG.",
+    "registration_area_id": "3331",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "15/10/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3331",
+    "ward_name": "FILIYA",
+    "local_government_id": "291",
+    "local_government_name": "SHONGOM",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "61659",
+    "name": "DODIMO / HAUSAWA, KOFAR J. /TUKUR",
+    "registration_area_id": "3331",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "15/10/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3331",
+    "ward_name": "FILIYA",
+    "local_government_id": "291",
+    "local_government_name": "SHONGOM",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.3211931,
+      "longitude": 11.481479,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32254292989272,
+          "lng": 11.48282882989272
+        },
+        "southwest": {
+          "lat": 10.31984327010728,
+          "lng": 11.48012917010728
+        }
+      },
+      "formatted_address": "8FCJ+FHH, 761121, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3211931,11.481479",
+      "google_place_id": "ChIJizCa3Sov_hARsDXXGp4Bwto"
+    }
+  },
+  {
+    "id": "61660",
+    "name": "DODIMO / HAUSAWA, KOFAR ALH. AUDU",
+    "registration_area_id": "3331",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "15/10/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3331",
+    "ward_name": "FILIYA",
+    "local_government_id": "291",
+    "local_government_name": "SHONGOM",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.3211931,
+      "longitude": 11.481479,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32254292989272,
+          "lng": 11.48282882989272
+        },
+        "southwest": {
+          "lat": 10.31984327010728,
+          "lng": 11.48012917010728
+        }
+      },
+      "formatted_address": "8FCJ+FHH, 761121, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3211931,11.481479",
+      "google_place_id": "ChIJizCa3Sov_hARsDXXGp4Bwto"
+    }
+  },
+  {
+    "id": "61661",
+    "name": "ANKONBO F. KASA, KOFAR J/ DANBIRAM",
+    "registration_area_id": "3331",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "15/10/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3331",
+    "ward_name": "FILIYA",
+    "local_government_id": "291",
+    "local_government_name": "SHONGOM",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "61662",
+    "name": "ANKONBO F. KASA, KOFAR J/ MATI",
+    "registration_area_id": "3331",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "15/10/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3331",
+    "ward_name": "FILIYA",
+    "local_government_id": "291",
+    "local_government_name": "SHONGOM",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "61663",
+    "name": "ANYAKUBI / CHOGE, KOFAR M. AGADI",
+    "registration_area_id": "3331",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "15/10/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3331",
+    "ward_name": "FILIYA",
+    "local_government_id": "291",
+    "local_government_name": "SHONGOM",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "61664",
+    "name": "ANYAKUBI / CHOGE,  PERO PRI. SCH.",
+    "registration_area_id": "3331",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "15/10/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3331",
+    "ward_name": "FILIYA",
+    "local_government_id": "291",
+    "local_government_name": "SHONGOM",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2925601,
+      "longitude": 11.1622411,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29371527989272,
+          "lng": 11.16355262989272
+        },
+        "southwest": {
+          "lat": 10.29101562010728,
+          "lng": 11.16085297010728
+        }
+      },
+      "formatted_address": "75V6+2VH, 760252, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2925601,11.1622411",
+      "google_place_id": "ChIJXdyxPoDQ_xAR2AnLD68m6Ks"
+    }
+  },
+  {
+    "id": "61665",
+    "name": "JAURO SAJO / LABABALE, JAURO SAJO  PRI. SCH.",
+    "registration_area_id": "3331",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "15/10/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3331",
+    "ward_name": "FILIYA",
+    "local_government_id": "291",
+    "local_government_name": "SHONGOM",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.3001756,
+      "longitude": 11.1702351,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30140642989272,
+          "lng": 11.17154482989272
+        },
+        "southwest": {
+          "lat": 10.29870677010728,
+          "lng": 11.16884517010728
+        }
+      },
+      "formatted_address": "852C+33H, 760253, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3001756,11.1702351",
+      "google_place_id": "ChIJ18K0AcbR_xARgtXx_FIyNWE"
+    }
+  },
+  {
+    "id": "61666",
+    "name": "DIGA / YAGANGA / YABANDI, KOFAR J/MAIKUDI",
+    "registration_area_id": "3331",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "15/10/04/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3331",
+    "ward_name": "FILIYA",
+    "local_government_id": "291",
+    "local_government_name": "SHONGOM",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.3211931,
+      "longitude": 11.481479,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32254292989272,
+          "lng": 11.48282882989272
+        },
+        "southwest": {
+          "lat": 10.31984327010728,
+          "lng": 11.48012917010728
+        }
+      },
+      "formatted_address": "8FCJ+FHH, 761121, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3211931,11.481479",
+      "google_place_id": "ChIJizCa3Sov_hARsDXXGp4Bwto"
+    }
+  },
+  {
+    "id": "61667",
+    "name": "YAPILO / YANGA / YELWA, KOFAR J/ADAMU  / DIGA",
+    "registration_area_id": "3331",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "15/10/04/011",
+    "remark": "EXISTING PU",
+    "ward_id": "3331",
+    "ward_name": "FILIYA",
+    "local_government_id": "291",
+    "local_government_name": "SHONGOM",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.6541667,
+      "longitude": 11.0849167,
+      "viewport": {
+        "northeast": {
+          "lat": 10.65551607989272,
+          "lng": 11.08626852989272
+        },
+        "southwest": {
+          "lat": 10.65281642010728,
+          "lng": 11.08356887010728
+        }
+      },
+      "formatted_address": "10°39.250'N, 11°05.095'E, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6541667,11.0849167",
+      "google_place_id": "ChIJZ12Sc5s7ABERlVAlztOWpUQ"
+    }
+  },
+  {
+    "id": "61668",
+    "name": "YARWANA, KOFAR J/ALHASSAN",
+    "registration_area_id": "3331",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "15/10/04/012",
+    "remark": "EXISTING PU",
+    "ward_id": "3331",
+    "ward_name": "FILIYA",
+    "local_government_id": "291",
+    "local_government_name": "SHONGOM",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "61669",
+    "name": "YAPANDI / CHEWEGE, KOFAR MIYA",
+    "registration_area_id": "3331",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "15/10/04/013",
+    "remark": "EXISTING PU",
+    "ward_id": "3331",
+    "ward_name": "FILIYA",
+    "local_government_id": "291",
+    "local_government_name": "SHONGOM",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 9.583333,
+      "longitude": 11.116667,
+      "viewport": {
+        "northeast": {
+          "lat": 9.584487079892723,
+          "lng": 11.11862102989272
+        },
+        "southwest": {
+          "lat": 9.581787420107279,
+          "lng": 11.11592137010728
+        }
+      },
+      "formatted_address": "H4M8+8MM, 770103, Filiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.583333,11.116667",
+      "google_place_id": "ChIJfcq8TasP_xARv54UPEZNNJk"
+    }
+  },
+  {
+    "id": "61670",
+    "name": "DODIMO/ HAUSAWA KOFAR ALH. AUDU",
+    "registration_area_id": "3331",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "15/10/04/014",
+    "remark": "NEW PU",
+    "ward_id": "3331",
+    "ward_name": "FILIYA",
+    "local_government_id": "291",
+    "local_government_name": "SHONGOM",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.3211931,
+      "longitude": 11.481479,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32254292989272,
+          "lng": 11.48282882989272
+        },
+        "southwest": {
+          "lat": 10.31984327010728,
+          "lng": 11.48012917010728
+        }
+      },
+      "formatted_address": "8FCJ+FHH, 761121, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3211931,11.481479",
+      "google_place_id": "ChIJizCa3Sov_hARsDXXGp4Bwto"
+    }
+  },
+  {
+    "id": "61671",
+    "name": "ANYAKUBI/ CHOGE PERO PRI. SCH. II",
+    "registration_area_id": "3331",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "15/10/04/015",
+    "remark": "NEW PU",
+    "ward_id": "3331",
+    "ward_name": "FILIYA",
+    "local_government_id": "291",
+    "local_government_name": "SHONGOM",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2925601,
+      "longitude": 11.1622411,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29371527989272,
+          "lng": 11.16355262989272
+        },
+        "southwest": {
+          "lat": 10.29101562010728,
+          "lng": 11.16085297010728
+        }
+      },
+      "formatted_address": "75V6+2VH, 760252, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2925601,11.1622411",
+      "google_place_id": "ChIJXdyxPoDQ_xAR2AnLD68m6Ks"
+    }
+  },
+  {
+    "id": "61672",
+    "name": "MATERNITY ANKOMBO F. KASSA K/J/MATI. II",
+    "registration_area_id": "3331",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "15/10/04/016",
+    "remark": "NEW PU",
+    "ward_id": "3331",
+    "ward_name": "FILIYA",
+    "local_government_id": "291",
+    "local_government_name": "SHONGOM",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "61673",
+    "name": "UNGUWA ROGO K/MAI UNGUWA",
+    "registration_area_id": "3331",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "15/10/04/017",
+    "remark": "NEW PU",
+    "ward_id": "3331",
+    "ward_name": "FILIYA",
+    "local_government_id": "291",
+    "local_government_name": "SHONGOM",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "61674",
+    "name": "LABABALE PRI. SCH",
+    "registration_area_id": "3331",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "15/10/04/018",
+    "remark": "NEW PU",
+    "ward_id": "3331",
+    "ward_name": "FILIYA",
+    "local_government_id": "291",
+    "local_government_name": "SHONGOM",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2760069,
+      "longitude": 11.175898,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27735682989272,
+          "lng": 11.17725462989272
+        },
+        "southwest": {
+          "lat": 10.27465717010728,
+          "lng": 11.17455497010728
+        }
+      },
+      "formatted_address": "75GG+C85, 760251, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2760069,11.175898",
+      "google_place_id": "ChIJ5RLyVW7Q_xARHjvWbyj0HwE"
+    }
+  }
+]

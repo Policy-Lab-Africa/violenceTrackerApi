@@ -1,0 +1,530 @@
+[
+  {
+    "id": "89789",
+    "name": "KIBIYA GENERAL HOSPITAL I",
+    "registration_area_id": "4588",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/23/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4588",
+    "ward_name": "KIBIYA  I",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5329508,
+      "longitude": 8.6608958,
+      "viewport": {
+        "northeast": {
+          "lat": 11.53405027989272,
+          "lng": 8.662325679892723
+        },
+        "southwest": {
+          "lat": 11.53135062010728,
+          "lng": 8.659626020107279
+        }
+      },
+      "formatted_address": "GMM6+59J, 710102, Kibiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5329508,8.6608958",
+      "google_place_id": "ChIJdx-CRNVHrBERg4IGj1TlQDs"
+    }
+  },
+  {
+    "id": "89790",
+    "name": "KIBIYA GENERAL HOSPITAL II",
+    "registration_area_id": "4588",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/23/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4588",
+    "ward_name": "KIBIYA  I",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5329508,
+      "longitude": 8.6608958,
+      "viewport": {
+        "northeast": {
+          "lat": 11.53405027989272,
+          "lng": 8.662325679892723
+        },
+        "southwest": {
+          "lat": 11.53135062010728,
+          "lng": 8.659626020107279
+        }
+      },
+      "formatted_address": "GMM6+59J, 710102, Kibiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5329508,8.6608958",
+      "google_place_id": "ChIJdx-CRNVHrBERg4IGj1TlQDs"
+    }
+  },
+  {
+    "id": "89791",
+    "name": "ZANGO ISLAMIYYA PRI. SCH. I (KIBIYA GENERAL HOSPITAL III)",
+    "registration_area_id": "4588",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/23/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4588",
+    "ward_name": "KIBIYA  I",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5273665,
+      "longitude": 8.662163399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.52873147989272,
+          "lng": 8.663506929892723
+        },
+        "southwest": {
+          "lat": 11.52603182010728,
+          "lng": 8.660807270107279
+        }
+      },
+      "formatted_address": "7F3CGMG6+WRP Kibiya Kibiya1 Kano, Kibiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5273665,8.662163399999999",
+      "google_place_id": "ChIJfX2IXvlHrBERhS4HTJ04a-E"
+    }
+  },
+  {
+    "id": "89792",
+    "name": "ZANGO ISLAMIYYA PRI. SCH. II (KIBIYA GENERAL HOSPITAL IV)",
+    "registration_area_id": "4588",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/23/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4588",
+    "ward_name": "KIBIYA  I",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5273665,
+      "longitude": 8.662163399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.52873147989272,
+          "lng": 8.663506929892723
+        },
+        "southwest": {
+          "lat": 11.52603182010728,
+          "lng": 8.660807270107279
+        }
+      },
+      "formatted_address": "7F3CGMG6+WRP Kibiya Kibiya1 Kano, Kibiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5273665,8.662163399999999",
+      "google_place_id": "ChIJfX2IXvlHrBERhS4HTJ04a-E"
+    }
+  },
+  {
+    "id": "89793",
+    "name": "KIBIYA CENTRAL PRIMARY SCHOOL I",
+    "registration_area_id": "4588",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/23/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4588",
+    "ward_name": "KIBIYA  I",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5273665,
+      "longitude": 8.662163399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.52873147989272,
+          "lng": 8.663506929892723
+        },
+        "southwest": {
+          "lat": 11.52603182010728,
+          "lng": 8.660807270107279
+        }
+      },
+      "formatted_address": "7F3CGMG6+WRP Kibiya Kibiya1 Kano, Kibiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5273665,8.662163399999999",
+      "google_place_id": "ChIJfX2IXvlHrBERhS4HTJ04a-E"
+    }
+  },
+  {
+    "id": "89794",
+    "name": "KIBIYA CENTRAL PRIMARY SCHOOL II",
+    "registration_area_id": "4588",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/23/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4588",
+    "ward_name": "KIBIYA  I",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5273665,
+      "longitude": 8.662163399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.52873147989272,
+          "lng": 8.663506929892723
+        },
+        "southwest": {
+          "lat": 11.52603182010728,
+          "lng": 8.660807270107279
+        }
+      },
+      "formatted_address": "7F3CGMG6+WRP Kibiya Kibiya1 Kano, Kibiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5273665,8.662163399999999",
+      "google_place_id": "ChIJfX2IXvlHrBERhS4HTJ04a-E"
+    }
+  },
+  {
+    "id": "89795",
+    "name": "KIBIYA CENTRAL PRIMARY SCHOOL III",
+    "registration_area_id": "4588",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/23/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4588",
+    "ward_name": "KIBIYA  I",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5323969,
+      "longitude": 8.6601406,
+      "viewport": {
+        "northeast": {
+          "lat": 11.53364672989272,
+          "lng": 8.661513479892722
+        },
+        "southwest": {
+          "lat": 11.53094707010728,
+          "lng": 8.658813820107278
+        }
+      },
+      "formatted_address": "7F3CGMJ6+X29, 710102, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5323969,8.6601406",
+      "google_place_id": "ChIJoSqyByJHrBERpYCQiZ4ZkOE"
+    }
+  },
+  {
+    "id": "89796",
+    "name": "KIBIYA UBE PRIMARY SCHOOL I (KIBIYA CENTRAL PRIMARY SCHOOL IV)",
+    "registration_area_id": "4588",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/23/06/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4588",
+    "ward_name": "KIBIYA  I",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.530713,
+      "longitude": 8.6655137,
+      "viewport": {
+        "northeast": {
+          "lat": 11.53206867989272,
+          "lng": 8.66685997989272
+        },
+        "southwest": {
+          "lat": 11.52936902010728,
+          "lng": 8.664160320107277
+        }
+      },
+      "formatted_address": "7F3CGMJ8+76J K/Arewa, Kibiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.530713,8.6655137",
+      "google_place_id": "ChIJJ1ev3gRHrBERmv6xeDE376w"
+    }
+  },
+  {
+    "id": "89797",
+    "name": "KIBIYA UBE PRIMARY SCHOOL II (KIBIYA CENTRAL PRIMARY SCHOOL V)",
+    "registration_area_id": "4588",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/23/06/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4588",
+    "ward_name": "KIBIYA  I",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5289658,
+      "longitude": 8.662135,
+      "viewport": {
+        "northeast": {
+          "lat": 11.53025462989272,
+          "lng": 8.663382379892722
+        },
+        "southwest": {
+          "lat": 11.52755497010728,
+          "lng": 8.660682720107278
+        }
+      },
+      "formatted_address": "7F3CGMH6+HVJ Kibiya Kibiya1 Kano, Kibiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5289658,8.662135",
+      "google_place_id": "ChIJJ7ie7OJHrBERd1KVtPMdo8w"
+    }
+  },
+  {
+    "id": "89798",
+    "name": "KIBIYA UBE PRIMARY SCHOOL III (KIBIYA CENTRAL PRIMARY SCHOOL VI)",
+    "registration_area_id": "4588",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "19/23/06/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4588",
+    "ward_name": "KIBIYA  I",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.530713,
+      "longitude": 8.6655137,
+      "viewport": {
+        "northeast": {
+          "lat": 11.53206867989272,
+          "lng": 8.66685997989272
+        },
+        "southwest": {
+          "lat": 11.52936902010728,
+          "lng": 8.664160320107277
+        }
+      },
+      "formatted_address": "7F3CGMJ8+76J K/Arewa, Kibiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.530713,8.6655137",
+      "google_place_id": "ChIJJ1ev3gRHrBERmv6xeDE376w"
+    }
+  },
+  {
+    "id": "89799",
+    "name": "KIBIYA UBE PRIMARY SCHOOL IV (KIBIYA CENTRAL PRIMARY SCHOOL VII)",
+    "registration_area_id": "4588",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "19/23/06/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4588",
+    "ward_name": "KIBIYA  I",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.530713,
+      "longitude": 8.6655137,
+      "viewport": {
+        "northeast": {
+          "lat": 11.53206867989272,
+          "lng": 8.66685997989272
+        },
+        "southwest": {
+          "lat": 11.52936902010728,
+          "lng": 8.664160320107277
+        }
+      },
+      "formatted_address": "7F3CGMJ8+76J K/Arewa, Kibiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.530713,8.6655137",
+      "google_place_id": "ChIJJ1ev3gRHrBERmv6xeDE376w"
+    }
+  },
+  {
+    "id": "89800",
+    "name": "KIBIYA II",
+    "registration_area_id": "4588",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "19/23/06/012",
+    "remark": "NEW PU",
+    "ward_id": "4588",
+    "ward_name": "KIBIYA  I",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5291917,
+      "longitude": 8.6573084,
+      "viewport": {
+        "northeast": {
+          "lat": 11.538972,
+          "lng": 8.667990999999999
+        },
+        "southwest": {
+          "lat": 11.518258,
+          "lng": 8.6516019
+        }
+      },
+      "formatted_address": "710102, Kibiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5291917,8.6573084",
+      "google_place_id": "ChIJJ8t7lShGrBER_IR7stOCldw"
+    }
+  },
+  {
+    "id": "89801",
+    "name": "ZANGO III",
+    "registration_area_id": "4588",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "19/23/06/013",
+    "remark": "NEW PU",
+    "ward_id": "4588",
+    "ward_name": "KIBIYA  I",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5291917,
+      "longitude": 8.6573084,
+      "viewport": {
+        "northeast": {
+          "lat": 11.53044577989272,
+          "lng": 8.65872347989272
+        },
+        "southwest": {
+          "lat": 11.52774612010728,
+          "lng": 8.656023820107276
+        }
+      },
+      "formatted_address": "GMH4+MWF, kibiya kofarfada, Kibiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5291917,8.6573084",
+      "google_place_id": "ChIJNxa0cy5JrBERCpQmthJDvAs"
+    }
+  },
+  {
+    "id": "89802",
+    "name": "KIBIYA CENTRAL III",
+    "registration_area_id": "4588",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "19/23/06/014",
+    "remark": "NEW PU",
+    "ward_id": "4588",
+    "ward_name": "KIBIYA  I",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5291917,
+      "longitude": 8.6573084,
+      "viewport": {
+        "northeast": {
+          "lat": 11.538972,
+          "lng": 8.667990999999999
+        },
+        "southwest": {
+          "lat": 11.518258,
+          "lng": 8.6516019
+        }
+      },
+      "formatted_address": "710102, Kibiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5291917,8.6573084",
+      "google_place_id": "ChIJJ8t7lShGrBER_IR7stOCldw"
+    }
+  },
+  {
+    "id": "89803",
+    "name": "KIBIYA CENTRAL IV",
+    "registration_area_id": "4588",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "19/23/06/015",
+    "remark": "NEW PU",
+    "ward_id": "4588",
+    "ward_name": "KIBIYA  I",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5291917,
+      "longitude": 8.6573084,
+      "viewport": {
+        "northeast": {
+          "lat": 11.538972,
+          "lng": 8.667990999999999
+        },
+        "southwest": {
+          "lat": 11.518258,
+          "lng": 8.6516019
+        }
+      },
+      "formatted_address": "710102, Kibiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5291917,8.6573084",
+      "google_place_id": "ChIJJ8t7lShGrBER_IR7stOCldw"
+    }
+  },
+  {
+    "id": "89804",
+    "name": "KIBIYA CENTRAL IV",
+    "registration_area_id": "4588",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "19/23/06/016",
+    "remark": "NEW PU",
+    "ward_id": "4588",
+    "ward_name": "KIBIYA  I",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5291917,
+      "longitude": 8.6573084,
+      "viewport": {
+        "northeast": {
+          "lat": 11.538972,
+          "lng": 8.667990999999999
+        },
+        "southwest": {
+          "lat": 11.518258,
+          "lng": 8.6516019
+        }
+      },
+      "formatted_address": "710102, Kibiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5291917,8.6573084",
+      "google_place_id": "ChIJJ8t7lShGrBER_IR7stOCldw"
+    }
+  }
+]

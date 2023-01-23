@@ -1,0 +1,252 @@
+[
+  {
+    "id": "13757",
+    "name": "UDEZU V SQUARE I",
+    "registration_area_id": "817",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "04/06/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "817",
+    "ward_name": "ACHALLA  I1I",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "13758",
+    "name": "UDEZU V SQUARE II",
+    "registration_area_id": "817",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "04/06/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "817",
+    "ward_name": "ACHALLA  I1I",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "13759",
+    "name": "UMUEZEDE V SQUARE I",
+    "registration_area_id": "817",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "04/06/03/003",
+    "remark": "EXISTING PU",
+    "ward_id": "817",
+    "ward_name": "ACHALLA  I1I",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.331978,
+      "longitude": 6.9893154,
+      "viewport": {
+        "northeast": {
+          "lat": 6.333340379892722,
+          "lng": 6.990633179892721
+        },
+        "southwest": {
+          "lat": 6.330640720107279,
+          "lng": 6.987933520107277
+        }
+      },
+      "formatted_address": "8XJQ+QPW, 420115, Achalla, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.331978,6.9893154",
+      "google_place_id": "ChIJCyLNYTyHQxARUMEsVexKIww"
+    }
+  },
+  {
+    "id": "13760",
+    "name": "UMUEZEDE V SQUARE II",
+    "registration_area_id": "817",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "04/06/03/004",
+    "remark": "EXISTING PU",
+    "ward_id": "817",
+    "ward_name": "ACHALLA  I1I",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.331978,
+      "longitude": 6.9893154,
+      "viewport": {
+        "northeast": {
+          "lat": 6.333340379892722,
+          "lng": 6.990633179892721
+        },
+        "southwest": {
+          "lat": 6.330640720107279,
+          "lng": 6.987933520107277
+        }
+      },
+      "formatted_address": "8XJQ+QPW, 420115, Achalla, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.331978,6.9893154",
+      "google_place_id": "ChIJCyLNYTyHQxARUMEsVexKIww"
+    }
+  },
+  {
+    "id": "13761",
+    "name": "AMADIM V SQUARE I",
+    "registration_area_id": "817",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "04/06/03/005",
+    "remark": "EXISTING PU",
+    "ward_id": "817",
+    "ward_name": "ACHALLA  I1I",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.329991,
+      "longitude": 6.9892641,
+      "viewport": {
+        "northeast": {
+          "lat": 6.331339729892721,
+          "lng": 6.990600329892723
+        },
+        "southwest": {
+          "lat": 6.328640070107277,
+          "lng": 6.987900670107279
+        }
+      },
+      "formatted_address": "8XHQ+XPR, 420115, Achalla, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.329991,6.9892641",
+      "google_place_id": "ChIJvaVbwDyHQxARNr0xDczOpH0"
+    }
+  },
+  {
+    "id": "13762",
+    "name": "AMADIM V SQUARE II",
+    "registration_area_id": "817",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "04/06/03/006",
+    "remark": "EXISTING PU",
+    "ward_id": "817",
+    "ward_name": "ACHALLA  I1I",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.329991,
+      "longitude": 6.9892641,
+      "viewport": {
+        "northeast": {
+          "lat": 6.331339729892721,
+          "lng": 6.990600329892723
+        },
+        "southwest": {
+          "lat": 6.328640070107277,
+          "lng": 6.987900670107279
+        }
+      },
+      "formatted_address": "8XHQ+XPR, 420115, Achalla, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.329991,6.9892641",
+      "google_place_id": "ChIJvaVbwDyHQxARNr0xDczOpH0"
+    }
+  },
+  {
+    "id": "13763",
+    "name": "EGEDE P/S I",
+    "registration_area_id": "817",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "04/06/03/007",
+    "remark": "EXISTING PU",
+    "ward_id": "817",
+    "ward_name": "ACHALLA  I1I",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "13764",
+    "name": "EGEDE  P/S II",
+    "registration_area_id": "817",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "04/06/03/008",
+    "remark": "EXISTING PU",
+    "ward_id": "817",
+    "ward_name": "ACHALLA  I1I",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.323504,
+      "longitude": 6.9907197,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3412449,
+          "lng": 7.019160899999999
+        },
+        "southwest": {
+          "lat": 6.2980402,
+          "lng": 6.9652977
+        }
+      },
+      "formatted_address": "Achalla I1i, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.323504,6.9907197",
+      "google_place_id": "ChIJzVsdFSeHQxARrYyz-XWVsfE"
+    }
+  },
+  {
+    "id": "13765",
+    "name": "UDEZU V SQUARE I",
+    "registration_area_id": "817",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "04/06/03/009",
+    "remark": "EXISTING PU",
+    "ward_id": "817",
+    "ward_name": "ACHALLA  I1I",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "13766",
+    "name": "UDEZU V SQUARE II",
+    "registration_area_id": "817",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "04/06/03/010",
+    "remark": "EXISTING PU",
+    "ward_id": "817",
+    "ward_name": "ACHALLA  I1I",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  }
+]

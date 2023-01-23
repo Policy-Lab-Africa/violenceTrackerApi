@@ -1,0 +1,253 @@
+[
+  {
+    "id": "96059",
+    "name": "BAURE GARI - BAURE PRI.SCH OOL",
+    "registration_area_id": "4880",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/05/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4880",
+    "ward_name": "BAURE",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "96060",
+    "name": "MAZANYA - MASHANYA",
+    "registration_area_id": "4880",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/05/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4880",
+    "ward_name": "BAURE",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "96061",
+    "name": "DAKWALE - K/G MAI UNGUWA",
+    "registration_area_id": "4880",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/05/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4880",
+    "ward_name": "BAURE",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "96062",
+    "name": "GABAN KARE - K/G ALH.HARU",
+    "registration_area_id": "4880",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/05/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4880",
+    "ward_name": "BAURE",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "96063",
+    "name": "BANGARAJI - K/G MAI UNGUWA",
+    "registration_area_id": "4880",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/05/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4880",
+    "ward_name": "BAURE",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "96064",
+    "name": "KANINKAU - BAKIN GARI",
+    "registration_area_id": "4880",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/05/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4880",
+    "ward_name": "BAURE",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7716885,
+      "longitude": 7.8819114,
+      "viewport": {
+        "northeast": {
+          "lat": 12.77315157989272,
+          "lng": 7.883234079892722
+        },
+        "southwest": {
+          "lat": 12.77045192010728,
+          "lng": 7.880534420107278
+        }
+      },
+      "formatted_address": "QVCJ+MQF, 822105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7716885,7.8819114",
+      "google_place_id": "ChIJ6ZIPI_vTrxER82Q-2pdwy1I"
+    }
+  },
+  {
+    "id": "96065",
+    "name": "MAZANYA II MASHANYA",
+    "registration_area_id": "4880",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/05/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4880",
+    "ward_name": "BAURE",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "96066",
+    "name": "BAURE DISPENSARY",
+    "registration_area_id": "4880",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/05/08/008",
+    "remark": "NEW PU",
+    "ward_id": "4880",
+    "ward_name": "BAURE",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7716885,
+      "longitude": 7.8819114,
+      "viewport": {
+        "northeast": {
+          "lat": 12.77315157989272,
+          "lng": 7.883234079892722
+        },
+        "southwest": {
+          "lat": 12.77045192010728,
+          "lng": 7.880534420107278
+        }
+      },
+      "formatted_address": "QVCJ+MQF, 822105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7716885,7.8819114",
+      "google_place_id": "ChIJ6ZIPI_vTrxER82Q-2pdwy1I"
+    }
+  },
+  {
+    "id": "96067",
+    "name": "BAURE ISLAMIYYA PRIMARY SCHOOL",
+    "registration_area_id": "4880",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/05/08/009",
+    "remark": "NEW PU",
+    "ward_id": "4880",
+    "ward_name": "BAURE",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "96068",
+    "name": "DAKWALE PRIMARY SCHOOL",
+    "registration_area_id": "4880",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/05/08/010",
+    "remark": "NEW PU",
+    "ward_id": "4880",
+    "ward_name": "BAURE",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7892214,
+      "longitude": 7.887285599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.79057462989272,
+          "lng": 7.888614679892722
+        },
+        "southwest": {
+          "lat": 12.78787497010728,
+          "lng": 7.885915020107278
+        }
+      },
+      "formatted_address": "QVQP+MW, 822105, Baure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7892214,7.887285599999999",
+      "google_place_id": "ChIJ7fiw3dnRrxERVHZowlBP8OQ"
+    }
+  },
+  {
+    "id": "96069",
+    "name": "DANRIMI GARI PRIMARY SCHOOL",
+    "registration_area_id": "4880",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/05/08/011",
+    "remark": "NEW PU",
+    "ward_id": "4880",
+    "ward_name": "BAURE",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9919807,
+      "longitude": 7.5984096,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99326747989272,
+          "lng": 7.599764229892722
+        },
+        "southwest": {
+          "lat": 12.99056782010728,
+          "lng": 7.597064570107278
+        }
+      },
+      "formatted_address": "820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9919807,7.5984096",
+      "google_place_id": "ChIJxXBXXLg8sBEREHcdu6AGHBw"
+    }
+  }
+]

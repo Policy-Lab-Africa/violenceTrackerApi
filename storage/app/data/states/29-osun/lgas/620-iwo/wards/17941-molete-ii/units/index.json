@@ -1,0 +1,366 @@
+[
+  {
+    "id": "351222",
+    "name": "OSOGBO JUNCTION OLD IWO-OSOGBO ROAD, IWO",
+    "registration_area_id": "17941",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "29/23/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17941",
+    "ward_name": "MOLETE  II",
+    "local_government_id": "620",
+    "local_government_name": "IWO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.637051499999998,
+      "longitude": 4.1840047,
+      "viewport": {
+        "northeast": {
+          "lat": 7.638386729892723,
+          "lng": 4.185358279892722
+        },
+        "southwest": {
+          "lat": 7.635687070107279,
+          "lng": 4.182658620107278
+        }
+      },
+      "formatted_address": "J5PM+RJC, Oshogbo Road, 232102, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.637051499999998,4.1840047",
+      "google_place_id": "ChIJh_n8WajbORARhBavZ4N_xS8"
+    }
+  },
+  {
+    "id": "351223",
+    "name": "AROWOREKI",
+    "registration_area_id": "17941",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "29/23/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17941",
+    "ward_name": "MOLETE  II",
+    "local_government_id": "620",
+    "local_government_name": "IWO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6578898,
+      "longitude": 4.1883269,
+      "viewport": {
+        "northeast": {
+          "lat": 7.659223129892723,
+          "lng": 4.189625029892722
+        },
+        "southwest": {
+          "lat": 7.656523470107279,
+          "lng": 4.186925370107278
+        }
+      },
+      "formatted_address": "Iwo - Oshogbo Rd, 232102, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6578898,4.1883269",
+      "google_place_id": "ChIJzYNcmLXbORARQfAOIzMVEeM"
+    }
+  },
+  {
+    "id": "351224",
+    "name": "ALADOORUN",
+    "registration_area_id": "17941",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "29/23/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17941",
+    "ward_name": "MOLETE  II",
+    "local_government_id": "620",
+    "local_government_name": "IWO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6578898,
+      "longitude": 4.1883269,
+      "viewport": {
+        "northeast": {
+          "lat": 7.659223129892723,
+          "lng": 4.189625029892722
+        },
+        "southwest": {
+          "lat": 7.656523470107279,
+          "lng": 4.186925370107278
+        }
+      },
+      "formatted_address": "Iwo - Oshogbo Rd, 232102, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6578898,4.1883269",
+      "google_place_id": "ChIJzYNcmLXbORARQfAOIzMVEeM"
+    }
+  },
+  {
+    "id": "351225",
+    "name": "AFIKU OLOWE",
+    "registration_area_id": "17941",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "29/23/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17941",
+    "ward_name": "MOLETE  II",
+    "local_government_id": "620",
+    "local_government_name": "IWO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.642231799999999,
+      "longitude": 4.1877702,
+      "viewport": {
+        "northeast": {
+          "lat": 7.643654229892721,
+          "lng": 4.188670279892722
+        },
+        "southwest": {
+          "lat": 7.640954570107277,
+          "lng": 4.185970620107279
+        }
+      },
+      "formatted_address": "J5RQ+V4R, Molete III, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.642231799999999,4.1877702",
+      "google_place_id": "ChIJleVKLqzbORAROK1swzQY3fo"
+    }
+  },
+  {
+    "id": "351226",
+    "name": "WATER WORKS ROAD, OLU YORI",
+    "registration_area_id": "17941",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "29/23/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17941",
+    "ward_name": "MOLETE  II",
+    "local_government_id": "620",
+    "local_government_name": "IWO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "351227",
+    "name": "OPPOSITE WATER WORKS, FIRST GATE",
+    "registration_area_id": "17941",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "29/23/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17941",
+    "ward_name": "MOLETE  II",
+    "local_government_id": "620",
+    "local_government_name": "IWO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "351228",
+    "name": "ELEWE",
+    "registration_area_id": "17941",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "29/23/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17941",
+    "ward_name": "MOLETE  II",
+    "local_government_id": "620",
+    "local_government_name": "IWO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6370399,
+      "longitude": 4.1815079,
+      "viewport": {
+        "northeast": {
+          "lat": 7.638364229892721,
+          "lng": 4.182873179892722
+        },
+        "southwest": {
+          "lat": 7.635664570107277,
+          "lng": 4.180173520107278
+        }
+      },
+      "formatted_address": "J5PJ+RJ6, Palace Road, 232102, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6370399,4.1815079",
+      "google_place_id": "ChIJ1S_20afbORARX8YKUMQ5918"
+    }
+  },
+  {
+    "id": "351229",
+    "name": "MOTOKESE",
+    "registration_area_id": "17941",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "29/23/06/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17941",
+    "ward_name": "MOLETE  II",
+    "local_government_id": "620",
+    "local_government_name": "IWO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.642231799999999,
+      "longitude": 4.1877702,
+      "viewport": {
+        "northeast": {
+          "lat": 7.643654229892721,
+          "lng": 4.188670279892722
+        },
+        "southwest": {
+          "lat": 7.640954570107277,
+          "lng": 4.185970620107279
+        }
+      },
+      "formatted_address": "J5RQ+V4R, Molete III, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.642231799999999,4.1877702",
+      "google_place_id": "ChIJleVKLqzbORAROK1swzQY3fo"
+    }
+  },
+  {
+    "id": "351230",
+    "name": "ORILEMIDEBIRE COMPOUND OPEN SPACE",
+    "registration_area_id": "17941",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "29/23/06/009",
+    "remark": "NEW PU",
+    "ward_id": "17941",
+    "ward_name": "MOLETE  II",
+    "local_government_id": "620",
+    "local_government_name": "IWO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.629208799999999,
+      "longitude": 4.1872178,
+      "viewport": {
+        "northeast": {
+          "lat": 7.629968479892721,
+          "lng": 4.188849029892722
+        },
+        "southwest": {
+          "lat": 7.627268820107277,
+          "lng": 4.186149370107279
+        }
+      },
+      "formatted_address": "J5HP+MVP, 232102, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.629208799999999,4.1872178",
+      "google_place_id": "ChIJQdnD0azbORAR1CVBgACn5rA"
+    }
+  },
+  {
+    "id": "351231",
+    "name": "OPEN SPACE TESTING GROUND",
+    "registration_area_id": "17941",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "29/23/06/010",
+    "remark": "NEW PU",
+    "ward_id": "17941",
+    "ward_name": "MOLETE  II",
+    "local_government_id": "620",
+    "local_government_name": "IWO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.647900000000001,
+      "longitude": 4.2088,
+      "viewport": {
+        "northeast": {
+          "lat": 7.649318079892721,
+          "lng": 4.210139279892721
+        },
+        "southwest": {
+          "lat": 7.646618420107277,
+          "lng": 4.207439620107277
+        }
+      },
+      "formatted_address": "J6X5+5G7, 232102, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.647900000000001,4.2088",
+      "google_place_id": "ChIJfRaKyZ7bORARKdKrjqA2uvE"
+    }
+  },
+  {
+    "id": "351232",
+    "name": "OKE FIA/ORI-ERU OPEN SPACE, OGBAGBA ROAD",
+    "registration_area_id": "17941",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "29/23/06/011",
+    "remark": "NEW PU",
+    "ward_id": "17941",
+    "ward_name": "MOLETE  II",
+    "local_government_id": "620",
+    "local_government_name": "IWO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6578898,
+      "longitude": 4.1883269,
+      "viewport": {
+        "northeast": {
+          "lat": 7.659223129892723,
+          "lng": 4.189625029892722
+        },
+        "southwest": {
+          "lat": 7.656523470107279,
+          "lng": 4.186925370107278
+        }
+      },
+      "formatted_address": "Iwo - Oshogbo Rd, 232102, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6578898,4.1883269",
+      "google_place_id": "ChIJzYNcmLXbORARQfAOIzMVEeM"
+    }
+  },
+  {
+    "id": "351233",
+    "name": "SANGAN/ERIN-OWON",
+    "registration_area_id": "17941",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "29/23/06/012",
+    "remark": "NEW PU",
+    "ward_id": "17941",
+    "ward_name": "MOLETE  II",
+    "local_government_id": "620",
+    "local_government_name": "IWO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6236297,
+      "longitude": 4.188966199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.62499782989272,
+          "lng": 4.190308029892721
+        },
+        "southwest": {
+          "lat": 7.622298170107277,
+          "lng": 4.187608370107277
+        }
+      },
+      "formatted_address": "232101, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6236297,4.188966199999999",
+      "google_place_id": "ChIJgUkrVUHbORARNcYsmX4qWe8"
+    }
+  }
+]

@@ -1,0 +1,788 @@
+[
+  {
+    "id": "60417",
+    "name": "UNG. WAKILI BAJOGA, DISTRICT OFFICE",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "15/05/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8593786,
+      "longitude": 11.4369934,
+      "viewport": {
+        "northeast": {
+          "lat": 10.86056897989272,
+          "lng": 11.43790582989272
+        },
+        "southwest": {
+          "lat": 10.85786932010728,
+          "lng": 11.43520617010728
+        }
+      },
+      "formatted_address": "VC5P+QR2, 762102, Bajoga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8593786,11.4369934",
+      "google_place_id": "ChIJnZhf_1SxARER_IxdyZqyeOM"
+    }
+  },
+  {
+    "id": "60418",
+    "name": "UNG. SARKIN YAKI, KOFAR SARKIN YAKI",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "15/05/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60419",
+    "name": "UNG. SARKIN YAKI, KOFAR ALI ADO",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "15/05/03/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60420",
+    "name": "UNG. SARKIN YAKI, PRISON YARD",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "15/05/03/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60421",
+    "name": "UNG. SARKIN YAKI, KOFAR ZONGO",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "15/05/03/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60422",
+    "name": "UNG. DANJAJO, CENTRAL PRI. SCH.",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "15/05/03/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.6594271,
+      "longitude": 11.291188,
+      "viewport": {
+        "northeast": {
+          "lat": 10.66078402989272,
+          "lng": 11.29256897989272
+        },
+        "southwest": {
+          "lat": 10.65808437010728,
+          "lng": 11.28986932010728
+        }
+      },
+      "formatted_address": "Mallam Sidi-Bajoga Road, 762101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6594271,11.291188",
+      "google_place_id": "ChIJXe-r-iAzABERI-oE8sLCOBw"
+    }
+  },
+  {
+    "id": "60423",
+    "name": "UNG. DANJAJO, KOFAR MUSA MAI YABE",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "15/05/03/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60424",
+    "name": "UNG. ISA, G. S. S. S. BAJOGA",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "15/05/03/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8346214,
+      "longitude": 11.4311254,
+      "viewport": {
+        "northeast": {
+          "lat": 10.83613317989272,
+          "lng": 11.43244497989272
+        },
+        "southwest": {
+          "lat": 10.83343352010728,
+          "lng": 11.42974532010728
+        }
+      },
+      "formatted_address": "762102, Bajoga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8346214,11.4311254",
+      "google_place_id": "ChIJ4Qto1qa1ARER6tSlBPS9RW8"
+    }
+  },
+  {
+    "id": "60425",
+    "name": "UNG. ISA, KOFAR ISA",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "15/05/03/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60426",
+    "name": "UNG. BARDE, KOFAR BARDE",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "15/05/03/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60427",
+    "name": "UNG. BARDE, WOMEN CENTRE",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "15/05/03/011",
+    "remark": "EXISTING PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60428",
+    "name": "UNG. MADAKI, DISPENSARY",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "15/05/03/012",
+    "remark": "EXISTING PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60429",
+    "name": "G.G.S.S., VETERNARY",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "15/05/03/013",
+    "remark": "EXISTING PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8346214,
+      "longitude": 11.4311254,
+      "viewport": {
+        "northeast": {
+          "lat": 10.83613317989272,
+          "lng": 11.43244497989272
+        },
+        "southwest": {
+          "lat": 10.83343352010728,
+          "lng": 11.42974532010728
+        }
+      },
+      "formatted_address": "762102, Bajoga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8346214,11.4311254",
+      "google_place_id": "ChIJ4Qto1qa1ARER6tSlBPS9RW8"
+    }
+  },
+  {
+    "id": "60430",
+    "name": "G. G. S. S. BAJOGA, G. G. S. S. BAJOGA",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "15/05/03/014",
+    "remark": "EXISTING PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8346214,
+      "longitude": 11.4311254,
+      "viewport": {
+        "northeast": {
+          "lat": 10.83613317989272,
+          "lng": 11.43244497989272
+        },
+        "southwest": {
+          "lat": 10.83343352010728,
+          "lng": 11.42974532010728
+        }
+      },
+      "formatted_address": "762102, Bajoga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8346214,11.4311254",
+      "google_place_id": "ChIJ4Qto1qa1ARER6tSlBPS9RW8"
+    }
+  },
+  {
+    "id": "60431",
+    "name": "UNG. MAIDUGURI, CENTRAL PRI. SCH.",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "15/05/03/015",
+    "remark": "EXISTING PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.6594271,
+      "longitude": 11.291188,
+      "viewport": {
+        "northeast": {
+          "lat": 10.66078402989272,
+          "lng": 11.29256897989272
+        },
+        "southwest": {
+          "lat": 10.65808437010728,
+          "lng": 11.28986932010728
+        }
+      },
+      "formatted_address": "Mallam Sidi-Bajoga Road, 762101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6594271,11.291188",
+      "google_place_id": "ChIJXe-r-iAzABERI-oE8sLCOBw"
+    }
+  },
+  {
+    "id": "60432",
+    "name": "SHARIFURI, KOFAR SARKI",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "15/05/03/016",
+    "remark": "EXISTING PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60433",
+    "name": "SHARIFURI, PRIMARY  SCHOOL",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "15/05/03/017",
+    "remark": "EXISTING PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2930228,
+      "longitude": 11.146374,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29439792989272,
+          "lng": 11.14772412989272
+        },
+        "southwest": {
+          "lat": 10.29169827010728,
+          "lng": 11.14502447010728
+        }
+      },
+      "formatted_address": "74VW+6G5 Goodluck, Ebele Jonathan Road, 760253, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2930228,11.146374",
+      "google_place_id": "ChIJZwFvRmLa_xARCP_ZZ6ypq8M"
+    }
+  },
+  {
+    "id": "60434",
+    "name": "BOGGA RABO, KOFAR JAURO",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "15/05/03/018",
+    "remark": "EXISTING PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60435",
+    "name": "ZADAWA, KOFAR JAURO",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "15/05/03/019",
+    "remark": "EXISTING PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60436",
+    "name": "ZAGAINA, KOFAR JAURO",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "15/05/03/020",
+    "remark": "EXISTING PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8513891,
+      "longitude": 11.4282369,
+      "viewport": {
+        "northeast": {
+          "lat": 10.863806,
+          "lng": 11.451767
+        },
+        "southwest": {
+          "lat": 10.838646,
+          "lng": 11.414852
+        }
+      },
+      "formatted_address": "762102, Bajoga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8513891,11.4282369",
+      "google_place_id": "ChIJ47U-XAK0ARERuIp5WeaslPQ"
+    }
+  },
+  {
+    "id": "60437",
+    "name": "UNG.  MAIGANA, GLO MAST SARKIN RUWA BOREHOLE",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "15/05/03/021",
+    "remark": "NEW PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.283864,
+      "longitude": 11.16764,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28521242989272,
+          "lng": 11.16892662989272
+        },
+        "southwest": {
+          "lat": 10.28251277010728,
+          "lng": 11.16622697010728
+        }
+      },
+      "formatted_address": "75M8+GXQ, opposite Bima Lodge, 760251, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.283864,11.16764",
+      "google_place_id": "ChIJKeFaYYzR_xAR7uDL148woJM"
+    }
+  },
+  {
+    "id": "60438",
+    "name": "UNG. SARKIN YAKI GASAWA LAMARANA",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "15/05/03/022",
+    "remark": "NEW PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60439",
+    "name": "BAJOGA SOUTH PRIMARY SCHOOL JAMAGU",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "15/05/03/023",
+    "remark": "NEW PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8579243,
+      "longitude": 11.428443,
+      "viewport": {
+        "northeast": {
+          "lat": 10.85922247989272,
+          "lng": 11.42980657989272
+        },
+        "southwest": {
+          "lat": 10.85652282010728,
+          "lng": 11.42710692010728
+        }
+      },
+      "formatted_address": "VC5H+9FM 762102, Primary School, 762102, Bajoga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8579243,11.428443",
+      "google_place_id": "ChIJDR4TaCCzARERcEMA3ayOEsc"
+    }
+  },
+  {
+    "id": "60440",
+    "name": "UNG. DANJIAJO LOCAL GOVT. GARAGE",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "15/05/03/024",
+    "remark": "NEW PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60441",
+    "name": "UNG. DANJIAJO MAIKANO MAI-KATIFA OPEN SPACE",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "15/05/03/025",
+    "remark": "NEW PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60442",
+    "name": "UNG. KELLUMI SARKIN DAKO OPEN SPACE",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "15/05/03/026",
+    "remark": "NEW PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60443",
+    "name": "UNG. KELLUMI , HAMMA HAMMA OPEN SPACE",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "15/05/03/027",
+    "remark": "NEW PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60444",
+    "name": "UNG. ISAH GIDAN ALKALI",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "15/05/03/028",
+    "remark": "NEW PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2841364,
+      "longitude": 11.1547611,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28555282989272,
+          "lng": 11.15606702989272
+        },
+        "southwest": {
+          "lat": 10.28285317010728,
+          "lng": 11.15336737010728
+        }
+      },
+      "formatted_address": "75M3+MW2, by waja petroleum, Bauchi - Gombe Rd, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2841364,11.1547611",
+      "google_place_id": "ChIJV5LvRR7b_xARn7RrM4oeudQ"
+    }
+  },
+  {
+    "id": "60445",
+    "name": "UNG. BARDE KOLO DAN FANNA",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "15/05/03/029",
+    "remark": "NEW PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60446",
+    "name": "UNG. BARDE ALFIJIRI MEDICAL CENTRE",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "15/05/03/030",
+    "remark": "NEW PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8473777,
+      "longitude": 11.4370406,
+      "viewport": {
+        "northeast": {
+          "lat": 10.84860307989272,
+          "lng": 11.43828212989272
+        },
+        "southwest": {
+          "lat": 10.84590342010728,
+          "lng": 11.43558247010728
+        }
+      },
+      "formatted_address": "Along Gombe, Potiskum Rd, Bajoga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8473777,11.4370406",
+      "google_place_id": "ChIJn8HOCcq3ARER3zs4RIHanDE"
+    }
+  },
+  {
+    "id": "60447",
+    "name": "UNG. MADAKI MAI UNG. DAN BABA BOREHOLE",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "15/05/03/031",
+    "remark": "NEW PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60448",
+    "name": "ALMAJIRI SCHOOL",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "15/05/03/032",
+    "remark": "NEW PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8509496,
+      "longitude": 11.423334,
+      "viewport": {
+        "northeast": {
+          "lat": 10.85230312989272,
+          "lng": 11.42468252989272
+        },
+        "southwest": {
+          "lat": 10.84960347010728,
+          "lng": 11.42198287010728
+        }
+      },
+      "formatted_address": "VC2F+89C, 762102, Bajoga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8509496,11.423334",
+      "google_place_id": "ChIJp7K87wW0ARERnMo9B71Ka7A"
+    }
+  },
+  {
+    "id": "60449",
+    "name": "VERTINARY UPPER AREA COURT",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "15/05/03/033",
+    "remark": "NEW PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60450",
+    "name": "UNG. MAIDUGURI SARKIN BAKA BOREHOLE",
+    "registration_area_id": "3279",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "15/05/03/034",
+    "remark": "NEW PU",
+    "ward_id": "3279",
+    "ward_name": "BAJOGA  WEST",
+    "local_government_id": "286",
+    "local_government_name": "FUNAKAYE",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  }
+]

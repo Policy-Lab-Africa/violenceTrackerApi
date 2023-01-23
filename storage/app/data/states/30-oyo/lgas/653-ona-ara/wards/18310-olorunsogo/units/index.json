@@ -1,0 +1,679 @@
+[
+  {
+    "id": "357610",
+    "name": "MOTOR PARK I",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "30/26/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4767033,
+      "longitude": 3.913798299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.478045379892722,
+          "lng": 3.915087479892722
+        },
+        "southwest": {
+          "lat": 7.475345720107278,
+          "lng": 3.912387820107278
+        }
+      },
+      "formatted_address": "FWG7+MGM, Old Oyo Road, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4767033,3.913798299999999",
+      "google_place_id": "ChIJf6gkJ6LtORARErUf6uPeOPA"
+    }
+  },
+  {
+    "id": "357611",
+    "name": "MOTOR PARK II",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "30/26/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3756907,
+      "longitude": 3.9741138,
+      "viewport": {
+        "northeast": {
+          "lat": 7.377025729892723,
+          "lng": 3.975380929892721
+        },
+        "southwest": {
+          "lat": 7.374326070107279,
+          "lng": 3.972681270107277
+        }
+      },
+      "formatted_address": "Ilesanmi Shopping Complex Oyo Egbeda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3756907,3.9741138",
+      "google_place_id": "ChIJ_1nymQeTORAR1XQDB_ELYUs"
+    }
+  },
+  {
+    "id": "357612",
+    "name": "REVENUE COLLECTION CENTRE I",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "30/26/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.221245300000001,
+      "longitude": 4.0261371,
+      "viewport": {
+        "northeast": {
+          "lat": 7.222577429892721,
+          "lng": 4.027398429892722
+        },
+        "southwest": {
+          "lat": 7.219877770107277,
+          "lng": 4.024698770107278
+        }
+      },
+      "formatted_address": "local goverment, Olorunsogo, 201104, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.221245300000001,4.0261371",
+      "google_place_id": "ChIJHYRkfbSZORARMAW6sX1AnCk"
+    }
+  },
+  {
+    "id": "357613",
+    "name": "REVENUE COLLECTION CENTRE II",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "30/26/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.221245300000001,
+      "longitude": 4.0261371,
+      "viewport": {
+        "northeast": {
+          "lat": 7.222577429892721,
+          "lng": 4.027398429892722
+        },
+        "southwest": {
+          "lat": 7.219877770107277,
+          "lng": 4.024698770107278
+        }
+      },
+      "formatted_address": "local goverment, Olorunsogo, 201104, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.221245300000001,4.0261371",
+      "google_place_id": "ChIJHYRkfbSZORARMAW6sX1AnCk"
+    }
+  },
+  {
+    "id": "357614",
+    "name": "SAWIA",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "30/26/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.221245300000001,
+      "longitude": 4.0261371,
+      "viewport": {
+        "northeast": {
+          "lat": 7.222577429892721,
+          "lng": 4.027398429892722
+        },
+        "southwest": {
+          "lat": 7.219877770107277,
+          "lng": 4.024698770107278
+        }
+      },
+      "formatted_address": "local goverment, Olorunsogo, 201104, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.221245300000001,4.0261371",
+      "google_place_id": "ChIJHYRkfbSZORARMAW6sX1AnCk"
+    }
+  },
+  {
+    "id": "357615",
+    "name": "IFELAJULO",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "30/26/09/006",
+    "remark": "EXISTING PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.221245300000001,
+      "longitude": 4.0261371,
+      "viewport": {
+        "northeast": {
+          "lat": 7.222577429892721,
+          "lng": 4.027398429892722
+        },
+        "southwest": {
+          "lat": 7.219877770107277,
+          "lng": 4.024698770107278
+        }
+      },
+      "formatted_address": "local goverment, Olorunsogo, 201104, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.221245300000001,4.0261371",
+      "google_place_id": "ChIJHYRkfbSZORARMAW6sX1AnCk"
+    }
+  },
+  {
+    "id": "357616",
+    "name": "MOKORE",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "30/26/09/007",
+    "remark": "EXISTING PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3695588,
+      "longitude": 3.9342953,
+      "viewport": {
+        "northeast": {
+          "lat": 7.375903899999999,
+          "lng": 3.9383381
+        },
+        "southwest": {
+          "lat": 7.354341100000001,
+          "lng": 3.9263627
+        }
+      },
+      "formatted_address": "Olorunsogo, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3695588,3.9342953",
+      "google_place_id": "ChIJr6YNmkSSORAR6qDMhJXy1Ww"
+    }
+  },
+  {
+    "id": "357617",
+    "name": "NEPA",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "30/26/09/008",
+    "remark": "EXISTING PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.221245300000001,
+      "longitude": 4.0261371,
+      "viewport": {
+        "northeast": {
+          "lat": 7.222577429892721,
+          "lng": 4.027398429892722
+        },
+        "southwest": {
+          "lat": 7.219877770107277,
+          "lng": 4.024698770107278
+        }
+      },
+      "formatted_address": "local goverment, Olorunsogo, 201104, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.221245300000001,4.0261371",
+      "google_place_id": "ChIJHYRkfbSZORARMAW6sX1AnCk"
+    }
+  },
+  {
+    "id": "357618",
+    "name": "OBALENDE",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "30/26/09/009",
+    "remark": "EXISTING PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.221245300000001,
+      "longitude": 4.0261371,
+      "viewport": {
+        "northeast": {
+          "lat": 7.222577429892721,
+          "lng": 4.027398429892722
+        },
+        "southwest": {
+          "lat": 7.219877770107277,
+          "lng": 4.024698770107278
+        }
+      },
+      "formatted_address": "local goverment, Olorunsogo, 201104, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.221245300000001,4.0261371",
+      "google_place_id": "ChIJHYRkfbSZORARMAW6sX1AnCk"
+    }
+  },
+  {
+    "id": "357619",
+    "name": "AYEKALE APRIMARY SCHOOL",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "30/26/09/010",
+    "remark": "EXISTING PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.370762000000001,
+      "longitude": 3.9315875,
+      "viewport": {
+        "northeast": {
+          "lat": 7.372128079892722,
+          "lng": 3.933175879892722
+        },
+        "southwest": {
+          "lat": 7.369428420107278,
+          "lng": 3.930476220107278
+        }
+      },
+      "formatted_address": "125 Olorunsogo Street, 200258, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.370762000000001,3.9315875",
+      "google_place_id": "ChIJW613dVySORAR-FzVoIQJ1RI"
+    }
+  },
+  {
+    "id": "357620",
+    "name": "DALEMO IDI OSE",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "30/26/09/011",
+    "remark": "EXISTING PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "357621",
+    "name": "OLOSUNDE",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "30/26/09/012",
+    "remark": "EXISTING PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.221245300000001,
+      "longitude": 4.0261371,
+      "viewport": {
+        "northeast": {
+          "lat": 7.222577429892721,
+          "lng": 4.027398429892722
+        },
+        "southwest": {
+          "lat": 7.219877770107277,
+          "lng": 4.024698770107278
+        }
+      },
+      "formatted_address": "local goverment, Olorunsogo, 201104, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.221245300000001,4.0261371",
+      "google_place_id": "ChIJHYRkfbSZORARMAW6sX1AnCk"
+    }
+  },
+  {
+    "id": "357622",
+    "name": "AWOTUNDE PRIMARY SCHOOL",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "30/26/09/013",
+    "remark": "EXISTING PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.221245300000001,
+      "longitude": 4.0261371,
+      "viewport": {
+        "northeast": {
+          "lat": 7.222577429892721,
+          "lng": 4.027398429892722
+        },
+        "southwest": {
+          "lat": 7.219877770107277,
+          "lng": 4.024698770107278
+        }
+      },
+      "formatted_address": "local goverment, Olorunsogo, 201104, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.221245300000001,4.0261371",
+      "google_place_id": "ChIJHYRkfbSZORARMAW6sX1AnCk"
+    }
+  },
+  {
+    "id": "357623",
+    "name": "AKINBODE SPACE",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "30/26/09/014",
+    "remark": "EXISTING PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.221245300000001,
+      "longitude": 4.0261371,
+      "viewport": {
+        "northeast": {
+          "lat": 7.222577429892721,
+          "lng": 4.027398429892722
+        },
+        "southwest": {
+          "lat": 7.219877770107277,
+          "lng": 4.024698770107278
+        }
+      },
+      "formatted_address": "local goverment, Olorunsogo, 201104, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.221245300000001,4.0261371",
+      "google_place_id": "ChIJHYRkfbSZORARMAW6sX1AnCk"
+    }
+  },
+  {
+    "id": "357624",
+    "name": "COMMUNITY PRIMARY SCHOOL SAWIA",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "30/26/09/015",
+    "remark": "NEW PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3553416,
+      "longitude": 3.9321885,
+      "viewport": {
+        "northeast": {
+          "lat": 7.356696179892722,
+          "lng": 3.933530429892721
+        },
+        "southwest": {
+          "lat": 7.353996520107278,
+          "lng": 3.930830770107277
+        }
+      },
+      "formatted_address": "6FV59W4J+4WV Olorunsogo garage ward 9 olorunsogo garage ona ara, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3553416,3.9321885",
+      "google_place_id": "ChIJZdWfsw2TORARyqE94Jz1RQ8"
+    }
+  },
+  {
+    "id": "357625",
+    "name": "COMMUNITY HIGH SCHOOL,SAWIA",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "30/26/09/016",
+    "remark": "NEW PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3518002,
+      "longitude": 3.9619568,
+      "viewport": {
+        "northeast": {
+          "lat": 7.353243929892721,
+          "lng": 3.963311679892722
+        },
+        "southwest": {
+          "lat": 7.350544270107277,
+          "lng": 3.960612020107278
+        }
+      },
+      "formatted_address": "9X26+PQG, Alapafon street , off para inu ewe road, Airport Road, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3518002,3.9619568",
+      "google_place_id": "ChIJ6c_7BK6TORAR-mqon3xcu1M"
+    }
+  },
+  {
+    "id": "357626",
+    "name": "OPEN SPACE IN FRONT OF TRANSFORMER IFELAJULO",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "30/26/09/017",
+    "remark": "NEW PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.221245300000001,
+      "longitude": 4.0261371,
+      "viewport": {
+        "northeast": {
+          "lat": 7.222577429892721,
+          "lng": 4.027398429892722
+        },
+        "southwest": {
+          "lat": 7.219877770107277,
+          "lng": 4.024698770107278
+        }
+      },
+      "formatted_address": "local goverment, Olorunsogo, 201104, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.221245300000001,4.0261371",
+      "google_place_id": "ChIJHYRkfbSZORARMAW6sX1AnCk"
+    }
+  },
+  {
+    "id": "357627",
+    "name": "OPEN SPACE, AJUNWON JUNCTION",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "30/26/09/018",
+    "remark": "NEW PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.221245300000001,
+      "longitude": 4.0261371,
+      "viewport": {
+        "northeast": {
+          "lat": 7.222577429892721,
+          "lng": 4.027398429892722
+        },
+        "southwest": {
+          "lat": 7.219877770107277,
+          "lng": 4.024698770107278
+        }
+      },
+      "formatted_address": "local goverment, Olorunsogo, 201104, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.221245300000001,4.0261371",
+      "google_place_id": "ChIJHYRkfbSZORARMAW6sX1AnCk"
+    }
+  },
+  {
+    "id": "357628",
+    "name": "OPEN SPACE SERIKI MARKET",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "30/26/09/019",
+    "remark": "NEW PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.221245300000001,
+      "longitude": 4.0261371,
+      "viewport": {
+        "northeast": {
+          "lat": 7.222577429892721,
+          "lng": 4.027398429892722
+        },
+        "southwest": {
+          "lat": 7.219877770107277,
+          "lng": 4.024698770107278
+        }
+      },
+      "formatted_address": "local goverment, Olorunsogo, 201104, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.221245300000001,4.0261371",
+      "google_place_id": "ChIJHYRkfbSZORARMAW6sX1AnCk"
+    }
+  },
+  {
+    "id": "357629",
+    "name": "COMMUNITY PRIMARY SCHOOL, AWOTUNDE",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "30/26/09/020",
+    "remark": "NEW PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3553416,
+      "longitude": 3.9321885,
+      "viewport": {
+        "northeast": {
+          "lat": 7.356696179892722,
+          "lng": 3.933530429892721
+        },
+        "southwest": {
+          "lat": 7.353996520107278,
+          "lng": 3.930830770107277
+        }
+      },
+      "formatted_address": "6FV59W4J+4WV Olorunsogo garage ward 9 olorunsogo garage ona ara, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3553416,3.9321885",
+      "google_place_id": "ChIJZdWfsw2TORARyqE94Jz1RQ8"
+    }
+  },
+  {
+    "id": "357630",
+    "name": "OPEN SPACE ADJACENT LORD OF HARVEST CHURCH",
+    "registration_area_id": "18310",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "30/26/09/021",
+    "remark": "NEW PU",
+    "ward_id": "18310",
+    "ward_name": "OLORUNSOGO",
+    "local_government_id": "653",
+    "local_government_name": "ONA-ARA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.358123699999999,
+      "longitude": 3.9325731,
+      "viewport": {
+        "northeast": {
+          "lat": 7.359458879892723,
+          "lng": 3.933925229892722
+        },
+        "southwest": {
+          "lat": 7.356759220107279,
+          "lng": 3.931225570107278
+        }
+      },
+      "formatted_address": "behind Friendly top filling station, sawia, 200258, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.358123699999999,3.9325731",
+      "google_place_id": "ChIJpS0aUNqTORAR9EY8n1jVWIU"
+    }
+  }
+]

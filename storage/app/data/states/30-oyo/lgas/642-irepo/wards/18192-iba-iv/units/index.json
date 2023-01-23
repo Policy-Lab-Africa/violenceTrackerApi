@@ -1,0 +1,333 @@
+[
+  {
+    "id": "355899",
+    "name": "OKE MAPO",
+    "registration_area_id": "18192",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "30/15/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "18192",
+    "ward_name": "IBA IV",
+    "local_government_id": "642",
+    "local_government_name": "IREPO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 9.091334999999999,
+      "longitude": 3.8475562,
+      "viewport": {
+        "northeast": {
+          "lat": 9.092690279892722,
+          "lng": 3.848901879892722
+        },
+        "southwest": {
+          "lat": 9.089990620107278,
+          "lng": 3.846202220107278
+        }
+      },
+      "formatted_address": "3RRX+H2G, 212101, Kishi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.091334999999999,3.8475562",
+      "google_place_id": "ChIJaYdunTepNhARcOV1Mz48Ds8"
+    }
+  },
+  {
+    "id": "355900",
+    "name": "OJU POPO",
+    "registration_area_id": "18192",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "30/15/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "18192",
+    "ward_name": "IBA IV",
+    "local_government_id": "642",
+    "local_government_name": "IREPO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355901",
+    "name": "ODE OGORIODO",
+    "registration_area_id": "18192",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "30/15/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "18192",
+    "ward_name": "IBA IV",
+    "local_government_id": "642",
+    "local_government_name": "IREPO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 9.0731782,
+      "longitude": 3.8473288,
+      "viewport": {
+        "northeast": {
+          "lat": 9.07446547989272,
+          "lng": 3.848294579892721
+        },
+        "southwest": {
+          "lat": 9.071765820107276,
+          "lng": 3.845594920107277
+        }
+      },
+      "formatted_address": "3RFW+7WG, 212101, Kishi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0731782,3.8473288",
+      "google_place_id": "ChIJ8wASrMmuNhARfXNZbX8_FX4"
+    }
+  },
+  {
+    "id": "355902",
+    "name": "ODE ARE",
+    "registration_area_id": "18192",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "30/15/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "18192",
+    "ward_name": "IBA IV",
+    "local_government_id": "642",
+    "local_government_name": "IREPO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 9.036844499999999,
+      "longitude": 3.8655303,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1885479,
+          "lng": 4.209678
+        },
+        "southwest": {
+          "lat": 8.875805999999999,
+          "lng": 3.6813894
+        }
+      },
+      "formatted_address": "Irepo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.036844499999999,3.8655303",
+      "google_place_id": "ChIJW6PJvgGlNhARnHQvv2z3e7I"
+    }
+  },
+  {
+    "id": "355903",
+    "name": "BUDO IGBOHO",
+    "registration_area_id": "18192",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "30/15/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "18192",
+    "ward_name": "IBA IV",
+    "local_government_id": "642",
+    "local_government_name": "IREPO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.837588799999999,
+      "longitude": 3.7636133,
+      "viewport": {
+        "northeast": {
+          "lat": 8.83882572989272,
+          "lng": 3.764930429892723
+        },
+        "southwest": {
+          "lat": 8.836126070107277,
+          "lng": 3.762230770107279
+        }
+      },
+      "formatted_address": "RQQ7+2CQ, Igbeti-Igboho Rd, 212104, Igboho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.837588799999999,3.7636133",
+      "google_place_id": "ChIJ7cFEJkC1NhARGdJB209D9mA"
+    }
+  },
+  {
+    "id": "355904",
+    "name": "ONIYEYE VILLAGE",
+    "registration_area_id": "18192",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "30/15/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "18192",
+    "ward_name": "IBA IV",
+    "local_government_id": "642",
+    "local_government_name": "IREPO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.8214835,
+      "longitude": 4.0531786,
+      "viewport": {
+        "northeast": {
+          "lat": 8.823101379892721,
+          "lng": 4.0565251
+        },
+        "southwest": {
+          "lat": 8.820401720107277,
+          "lng": 4.052138
+        }
+      },
+      "formatted_address": "210115, Oniyeye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8214835,4.0531786",
+      "google_place_id": "ChIJw-AlYvG_NhARM_5QC276U90"
+    }
+  },
+  {
+    "id": "355905",
+    "name": "COMM PRY SCH I, OKE MAPO",
+    "registration_area_id": "18192",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "30/15/07/007",
+    "remark": "NEW PU",
+    "ward_id": "18192",
+    "ward_name": "IBA IV",
+    "local_government_id": "642",
+    "local_government_name": "IREPO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 9.088213,
+      "longitude": 3.85668,
+      "viewport": {
+        "northeast": {
+          "lat": 9.089666529892723,
+          "lng": 3.857896229892722
+        },
+        "southwest": {
+          "lat": 9.086966870107279,
+          "lng": 3.855196570107278
+        }
+      },
+      "formatted_address": "6FX53VQ4+7MM, 6 Atipa, 212101, Kishi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.088213,3.85668",
+      "google_place_id": "ChIJQYtW8zOpNhAR8gB68RdJ8kk"
+    }
+  },
+  {
+    "id": "355906",
+    "name": "COMM PRY SCH II, OKE MAPO",
+    "registration_area_id": "18192",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "30/15/07/008",
+    "remark": "NEW PU",
+    "ward_id": "18192",
+    "ward_name": "IBA IV",
+    "local_government_id": "642",
+    "local_government_name": "IREPO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 9.088213,
+      "longitude": 3.85668,
+      "viewport": {
+        "northeast": {
+          "lat": 9.089666529892723,
+          "lng": 3.857896229892722
+        },
+        "southwest": {
+          "lat": 9.086966870107279,
+          "lng": 3.855196570107278
+        }
+      },
+      "formatted_address": "6FX53VQ4+7MM, 6 Atipa, 212101, Kishi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.088213,3.85668",
+      "google_place_id": "ChIJQYtW8zOpNhAR8gB68RdJ8kk"
+    }
+  },
+  {
+    "id": "355907",
+    "name": "BUDO PANU",
+    "registration_area_id": "18192",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "30/15/07/009",
+    "remark": "NEW PU",
+    "ward_id": "18192",
+    "ward_name": "IBA IV",
+    "local_government_id": "642",
+    "local_government_name": "IREPO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 9.0731782,
+      "longitude": 3.8473288,
+      "viewport": {
+        "northeast": {
+          "lat": 9.07446547989272,
+          "lng": 3.848294579892721
+        },
+        "southwest": {
+          "lat": 9.071765820107276,
+          "lng": 3.845594920107277
+        }
+      },
+      "formatted_address": "3RFW+7WG, 212101, Kishi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0731782,3.8473288",
+      "google_place_id": "ChIJ8wASrMmuNhARfXNZbX8_FX4"
+    }
+  },
+  {
+    "id": "355908",
+    "name": "OPEN SPACE IN FRONT OF BALOGUN SHUAIB",
+    "registration_area_id": "18192",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "30/15/07/010",
+    "remark": "NEW PU",
+    "ward_id": "18192",
+    "ward_name": "IBA IV",
+    "local_government_id": "642",
+    "local_government_name": "IREPO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355909",
+    "name": "OPEN SPACE FRONT OF ONISE- OYO",
+    "registration_area_id": "18192",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "30/15/07/011",
+    "remark": "NEW PU",
+    "ward_id": "18192",
+    "ward_name": "IBA IV",
+    "local_government_id": "642",
+    "local_government_name": "IREPO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 9.0731782,
+      "longitude": 3.8473288,
+      "viewport": {
+        "northeast": {
+          "lat": 9.07446547989272,
+          "lng": 3.848294579892721
+        },
+        "southwest": {
+          "lat": 9.071765820107276,
+          "lng": 3.845594920107277
+        }
+      },
+      "formatted_address": "3RFW+7WG, 212101, Kishi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0731782,3.8473288",
+      "google_place_id": "ChIJ8wASrMmuNhARfXNZbX8_FX4"
+    }
+  }
+]

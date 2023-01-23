@@ -1,0 +1,399 @@
+[
+  {
+    "id": "71176",
+    "name": "BALDI PRI. SCH. BALDI",
+    "registration_area_id": "3923",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "17/25/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3923",
+    "ward_name": "YANDAMO",
+    "local_government_id": "344",
+    "local_government_name": "SULE-TANKARKAR",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6980989,
+      "longitude": 9.090273,
+      "viewport": {
+        "northeast": {
+          "lat": 12.69950187989272,
+          "lng": 9.091605929892722
+        },
+        "southwest": {
+          "lat": 12.69680222010728,
+          "lng": 9.088906270107278
+        }
+      },
+      "formatted_address": "M3XR+64J, 732106, Kangiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6980989,9.090273",
+      "google_place_id": "ChIJlVgIgHcprxERQWYW5R6TFRA"
+    }
+  },
+  {
+    "id": "71177",
+    "name": "MAILEFE PRI. SCH. MAILEFE",
+    "registration_area_id": "3923",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "17/25/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3923",
+    "ward_name": "YANDAMO",
+    "local_government_id": "344",
+    "local_government_name": "SULE-TANKARKAR",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.680614,
+      "longitude": 9.037500999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.68201227989272,
+          "lng": 9.038842829892722
+        },
+        "southwest": {
+          "lat": 12.67931262010728,
+          "lng": 9.036143170107279
+        }
+      },
+      "formatted_address": "M2JQ+62R, 732106, Gurife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.680614,9.037500999999999",
+      "google_place_id": "ChIJWc_JLUIorxERG02HzaQoh8k"
+    }
+  },
+  {
+    "id": "71178",
+    "name": "CHAMIRI PRI. SCH. CHAMIRI",
+    "registration_area_id": "3923",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "17/25/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3923",
+    "ward_name": "YANDAMO",
+    "local_government_id": "344",
+    "local_government_name": "SULE-TANKARKAR",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6757669,
+      "longitude": 9.2641399,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67714202989272,
+          "lng": 9.265466179892721
+        },
+        "southwest": {
+          "lat": 12.67444237010728,
+          "lng": 9.262766520107277
+        }
+      },
+      "formatted_address": "M7G7+8J4, 732106, Sule Tankarka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6757669,9.2641399",
+      "google_place_id": "ChIJ7bPBr8XVqBERLLdpX46-6j0"
+    }
+  },
+  {
+    "id": "71179",
+    "name": "GARIN HARDO/HARDO UMARU",
+    "registration_area_id": "3923",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "17/25/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3923",
+    "ward_name": "YANDAMO",
+    "local_government_id": "344",
+    "local_government_name": "SULE-TANKARKAR",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "71180",
+    "name": "CHAKINDI-KALGO PRI. SCH. CHAKINDI/KALGO",
+    "registration_area_id": "3923",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "17/25/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3923",
+    "ward_name": "YANDAMO",
+    "local_government_id": "344",
+    "local_government_name": "SULE-TANKARKAR",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6757669,
+      "longitude": 9.2641399,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67714202989272,
+          "lng": 9.265466179892721
+        },
+        "southwest": {
+          "lat": 12.67444237010728,
+          "lng": 9.262766520107277
+        }
+      },
+      "formatted_address": "M7G7+8J4, 732106, Sule Tankarka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6757669,9.2641399",
+      "google_place_id": "ChIJ7bPBr8XVqBERLLdpX46-6j0"
+    }
+  },
+  {
+    "id": "71181",
+    "name": "YANDAMO PRI. SCH. YANDAMO I",
+    "registration_area_id": "3923",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "17/25/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3923",
+    "ward_name": "YANDAMO",
+    "local_government_id": "344",
+    "local_government_name": "SULE-TANKARKAR",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6757669,
+      "longitude": 9.2641399,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67714202989272,
+          "lng": 9.265466179892721
+        },
+        "southwest": {
+          "lat": 12.67444237010728,
+          "lng": 9.262766520107277
+        }
+      },
+      "formatted_address": "M7G7+8J4, 732106, Sule Tankarka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6757669,9.2641399",
+      "google_place_id": "ChIJ7bPBr8XVqBERLLdpX46-6j0"
+    }
+  },
+  {
+    "id": "71182",
+    "name": "YANDAMO PRI. SCH. YANDAMO II",
+    "registration_area_id": "3923",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "17/25/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3923",
+    "ward_name": "YANDAMO",
+    "local_government_id": "344",
+    "local_government_name": "SULE-TANKARKAR",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6757669,
+      "longitude": 9.2641399,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67714202989272,
+          "lng": 9.265466179892721
+        },
+        "southwest": {
+          "lat": 12.67444237010728,
+          "lng": 9.262766520107277
+        }
+      },
+      "formatted_address": "M7G7+8J4, 732106, Sule Tankarka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6757669,9.2641399",
+      "google_place_id": "ChIJ7bPBr8XVqBERLLdpX46-6j0"
+    }
+  },
+  {
+    "id": "71183",
+    "name": "HARDO BAWA/GIDAN HARDO",
+    "registration_area_id": "3923",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "17/25/10/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3923",
+    "ward_name": "YANDAMO",
+    "local_government_id": "344",
+    "local_government_name": "SULE-TANKARKAR",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "71184",
+    "name": "UNGUWAR LIMAN/UNGUWAR LIMAN",
+    "registration_area_id": "3923",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "17/25/10/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3923",
+    "ward_name": "YANDAMO",
+    "local_government_id": "344",
+    "local_government_name": "SULE-TANKARKAR",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.9976559,
+      "longitude": 8.48922,
+      "viewport": {
+        "northeast": {
+          "lat": 11.99933992989272,
+          "lng": 8.490556229892722
+        },
+        "southwest": {
+          "lat": 11.99664027010728,
+          "lng": 8.487856570107278
+        }
+      },
+      "formatted_address": "XFXQ+3M9, gwazaye unguwar liman gaya academy, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9976559,8.48922",
+      "google_place_id": "ChIJaRZK7JqBrhERiS9LAE291BU"
+    }
+  },
+  {
+    "id": "71185",
+    "name": "KAYA GARI PRI. SCH. KAYA GARI",
+    "registration_area_id": "3923",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "17/25/10/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3923",
+    "ward_name": "YANDAMO",
+    "local_government_id": "344",
+    "local_government_name": "SULE-TANKARKAR",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6757669,
+      "longitude": 9.2641399,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67714202989272,
+          "lng": 9.265466179892721
+        },
+        "southwest": {
+          "lat": 12.67444237010728,
+          "lng": 9.262766520107277
+        }
+      },
+      "formatted_address": "M7G7+8J4, 732106, Sule Tankarka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6757669,9.2641399",
+      "google_place_id": "ChIJ7bPBr8XVqBERLLdpX46-6j0"
+    }
+  },
+  {
+    "id": "71186",
+    "name": "GIZO DAUDA PRI. SCH. GIZO DAUDU I",
+    "registration_area_id": "3923",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "17/25/10/011",
+    "remark": "EXISTING PU",
+    "ward_id": "3923",
+    "ward_name": "YANDAMO",
+    "local_government_id": "344",
+    "local_government_name": "SULE-TANKARKAR",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6757669,
+      "longitude": 9.2641399,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67714202989272,
+          "lng": 9.265466179892721
+        },
+        "southwest": {
+          "lat": 12.67444237010728,
+          "lng": 9.262766520107277
+        }
+      },
+      "formatted_address": "M7G7+8J4, 732106, Sule Tankarka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6757669,9.2641399",
+      "google_place_id": "ChIJ7bPBr8XVqBERLLdpX46-6j0"
+    }
+  },
+  {
+    "id": "71187",
+    "name": "UNGUWAR LIMAN/UNGUWAR LIMAN II",
+    "registration_area_id": "3923",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "17/25/10/012",
+    "remark": "NEW PU",
+    "ward_id": "3923",
+    "ward_name": "YANDAMO",
+    "local_government_id": "344",
+    "local_government_name": "SULE-TANKARKAR",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.9976559,
+      "longitude": 8.48922,
+      "viewport": {
+        "northeast": {
+          "lat": 11.99933992989272,
+          "lng": 8.490556229892722
+        },
+        "southwest": {
+          "lat": 11.99664027010728,
+          "lng": 8.487856570107278
+        }
+      },
+      "formatted_address": "XFXQ+3M9, gwazaye unguwar liman gaya academy, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9976559,8.48922",
+      "google_place_id": "ChIJaRZK7JqBrhERiS9LAE291BU"
+    }
+  },
+  {
+    "id": "71188",
+    "name": "CHAKINDI-KALGO PRI. SCH. CHAKINDI/KALGO II",
+    "registration_area_id": "3923",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "17/25/10/025",
+    "remark": "NEW PU",
+    "ward_id": "3923",
+    "ward_name": "YANDAMO",
+    "local_government_id": "344",
+    "local_government_name": "SULE-TANKARKAR",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6757669,
+      "longitude": 9.2641399,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67714202989272,
+          "lng": 9.265466179892721
+        },
+        "southwest": {
+          "lat": 12.67444237010728,
+          "lng": 9.262766520107277
+        }
+      },
+      "formatted_address": "M7G7+8J4, 732106, Sule Tankarka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6757669,9.2641399",
+      "google_place_id": "ChIJ7bPBr8XVqBERLLdpX46-6j0"
+    }
+  }
+]

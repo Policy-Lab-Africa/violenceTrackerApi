@@ -1,0 +1,303 @@
+[
+  {
+    "id": "81206",
+    "name": "UNG. WAZIRI I/ K/G UNGUWAN",
+    "registration_area_id": "4256",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "18/15/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4256",
+    "ward_name": "ZABI",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "81207",
+    "name": "UNG. WAZIRI II/ K/G UNGUWA",
+    "registration_area_id": "4256",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "18/15/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4256",
+    "ward_name": "ZABI",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "81208",
+    "name": "UNG. SAKO/ K/G UNGUWA",
+    "registration_area_id": "4256",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "18/15/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4256",
+    "ward_name": "ZABI",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "81209",
+    "name": "MADABBA/ K/G UNGUWA",
+    "registration_area_id": "4256",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "18/15/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4256",
+    "ward_name": "ZABI",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "81210",
+    "name": "KOSO/ K/G UNGUWA",
+    "registration_area_id": "4256",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "18/15/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4256",
+    "ward_name": "ZABI",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "81211",
+    "name": "MAISIRDI/ K/G UNGUWA",
+    "registration_area_id": "4256",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "18/15/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4256",
+    "ward_name": "ZABI",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "81212",
+    "name": "UNG. DABO/ PRI. SCH.",
+    "registration_area_id": "4256",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "18/15/11/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4256",
+    "ward_name": "ZABI",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.8021686,
+      "longitude": 8.156051099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.80351337989272,
+          "lng": 8.157502329892722
+        },
+        "southwest": {
+          "lat": 10.80081372010728,
+          "lng": 8.154802670107278
+        }
+      },
+      "formatted_address": "R524+VC7, 811108, Unguwan Dabo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8021686,8.156051099999999",
+      "google_place_id": "ChIJQ6NeeRM_rRERErENDbpLEmY"
+    }
+  },
+  {
+    "id": "81213",
+    "name": "UNG. MAMUDA/ K/G UNGUWA",
+    "registration_area_id": "4256",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "18/15/11/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4256",
+    "ward_name": "ZABI",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "81214",
+    "name": "KAMFANIN MAUDE/ PRI. SCH.",
+    "registration_area_id": "4256",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "18/15/11/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4256",
+    "ward_name": "ZABI",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.8021686,
+      "longitude": 8.156051099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.80351337989272,
+          "lng": 8.157502329892722
+        },
+        "southwest": {
+          "lat": 10.80081372010728,
+          "lng": 8.154802670107278
+        }
+      },
+      "formatted_address": "R524+VC7, 811108, Unguwan Dabo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8021686,8.156051099999999",
+      "google_place_id": "ChIJQ6NeeRM_rRERErENDbpLEmY"
+    }
+  },
+  {
+    "id": "81215",
+    "name": "DANJAHOLI/ K/G UNGUWA",
+    "registration_area_id": "4256",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "18/15/11/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4256",
+    "ward_name": "ZABI",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "81216",
+    "name": "SHINKAFI/ PRI. SCH.",
+    "registration_area_id": "4256",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "18/15/11/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4256",
+    "ward_name": "ZABI",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.6875527,
+      "longitude": 8.1003898,
+      "viewport": {
+        "northeast": {
+          "lat": 10.68872887989272,
+          "lng": 8.101873929892722
+        },
+        "southwest": {
+          "lat": 10.68602922010728,
+          "lng": 8.099174270107278
+        }
+      },
+      "formatted_address": "Zabi Kaduna, 7F2CM4Q2+25C Shinkafi, Ungwan Shinkafa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6875527,8.1003898",
+      "google_place_id": "ChIJz8XFGDBJrRERxHo5RO83c5A"
+    }
+  },
+  {
+    "id": "81217",
+    "name": "ZABI/ PRI. SCH.",
+    "registration_area_id": "4256",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "18/15/11/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4256",
+    "ward_name": "ZABI",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.8021686,
+      "longitude": 8.156051099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.80351337989272,
+          "lng": 8.157502329892722
+        },
+        "southwest": {
+          "lat": 10.80081372010728,
+          "lng": 8.154802670107278
+        }
+      },
+      "formatted_address": "R524+VC7, 811108, Unguwan Dabo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8021686,8.156051099999999",
+      "google_place_id": "ChIJQ6NeeRM_rRERErENDbpLEmY"
+    }
+  },
+  {
+    "id": "81218",
+    "name": "KAMFANIN MANDE PRI. SCH.",
+    "registration_area_id": "4256",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "18/15/11/013",
+    "remark": "NEW PU",
+    "ward_id": "4256",
+    "ward_name": "ZABI",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.8021686,
+      "longitude": 8.156051099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.80351337989272,
+          "lng": 8.157502329892722
+        },
+        "southwest": {
+          "lat": 10.80081372010728,
+          "lng": 8.154802670107278
+        }
+      },
+      "formatted_address": "R524+VC7, 811108, Unguwan Dabo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8021686,8.156051099999999",
+      "google_place_id": "ChIJQ6NeeRM_rRERErENDbpLEmY"
+    }
+  }
+]

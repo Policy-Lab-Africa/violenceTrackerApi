@@ -1,0 +1,498 @@
+[
+  {
+    "id": "6966",
+    "name": "NGBABULANG/ KOFAR YAMATH",
+    "registration_area_id": "354",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "02/16/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "354",
+    "ward_name": "NUMAN II",
+    "local_government_id": "33",
+    "local_government_name": "NUMAN",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "6967",
+    "name": "NGBAKOUTO/ KOFAR JAURO SOMODE HOUSE",
+    "registration_area_id": "354",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "02/16/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "354",
+    "ward_name": "NUMAN II",
+    "local_government_id": "33",
+    "local_government_name": "NUMAN",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4522469,
+      "longitude": 12.0595418,
+      "viewport": {
+        "northeast": {
+          "lat": 9.453619179892723,
+          "lng": 12.06081082989272
+        },
+        "southwest": {
+          "lat": 9.450919520107279,
+          "lng": 12.05811117010728
+        }
+      },
+      "formatted_address": "F325+VR6, Road, Yola 642102, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4522469,12.0595418",
+      "google_place_id": "ChIJp7mS-ZGd_hAROSxtvKnRBxM"
+    }
+  },
+  {
+    "id": "6968",
+    "name": "NGBAURO/ NGBAURO",
+    "registration_area_id": "354",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "02/16/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "354",
+    "ward_name": "NUMAN II",
+    "local_government_id": "33",
+    "local_government_name": "NUMAN",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4535964,
+      "longitude": 12.0318456,
+      "viewport": {
+        "northeast": {
+          "lat": 9.474923900000002,
+          "lng": 12.0710461
+        },
+        "southwest": {
+          "lat": 9.4354181,
+          "lng": 12.012435
+        }
+      },
+      "formatted_address": "Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4535964,12.0318456",
+      "google_place_id": "ChIJJzFnalGc_hAReb0iqhZ7gkg"
+    }
+  },
+  {
+    "id": "6969",
+    "name": "NGBAYOFE/ KOFAR BABA SANU",
+    "registration_area_id": "354",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "02/16/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "354",
+    "ward_name": "NUMAN II",
+    "local_government_id": "33",
+    "local_government_name": "NUMAN",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4535964,
+      "longitude": 12.0318456,
+      "viewport": {
+        "northeast": {
+          "lat": 9.474923900000002,
+          "lng": 12.0710461
+        },
+        "southwest": {
+          "lat": 9.4354181,
+          "lng": 12.012435
+        }
+      },
+      "formatted_address": "Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4535964,12.0318456",
+      "google_place_id": "ChIJJzFnalGc_hAReb0iqhZ7gkg"
+    }
+  },
+  {
+    "id": "6970",
+    "name": "NOKOWON/ NOKOWON",
+    "registration_area_id": "354",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "02/16/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "354",
+    "ward_name": "NUMAN II",
+    "local_government_id": "33",
+    "local_government_name": "NUMAN",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4535964,
+      "longitude": 12.0318456,
+      "viewport": {
+        "northeast": {
+          "lat": 9.474923900000002,
+          "lng": 12.0710461
+        },
+        "southwest": {
+          "lat": 9.4354181,
+          "lng": 12.012435
+        }
+      },
+      "formatted_address": "Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4535964,12.0318456",
+      "google_place_id": "ChIJJzFnalGc_hAReb0iqhZ7gkg"
+    }
+  },
+  {
+    "id": "6971",
+    "name": "NUPAWA/ NEAR CHIEF OROBO'S HOUSE",
+    "registration_area_id": "354",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "02/16/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "354",
+    "ward_name": "NUMAN II",
+    "local_government_id": "33",
+    "local_government_name": "NUMAN",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4522469,
+      "longitude": 12.0595418,
+      "viewport": {
+        "northeast": {
+          "lat": 9.453619179892723,
+          "lng": 12.06081082989272
+        },
+        "southwest": {
+          "lat": 9.450919520107279,
+          "lng": 12.05811117010728
+        }
+      },
+      "formatted_address": "F325+VR6, Road, Yola 642102, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4522469,12.0595418",
+      "google_place_id": "ChIJp7mS-ZGd_hAROSxtvKnRBxM"
+    }
+  },
+  {
+    "id": "6972",
+    "name": "PARE CENTRE/ PARE PRI. SCH.",
+    "registration_area_id": "354",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "02/16/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "354",
+    "ward_name": "NUMAN II",
+    "local_government_id": "33",
+    "local_government_name": "NUMAN",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.462795,
+      "longitude": 12.031761,
+      "viewport": {
+        "northeast": {
+          "lat": 9.464160429892722,
+          "lng": 12.03310712989272
+        },
+        "southwest": {
+          "lat": 9.461460770107278,
+          "lng": 12.03040747010728
+        }
+      },
+      "formatted_address": "No1 Jalo St, 643107, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.462795,12.031761",
+      "google_place_id": "ChIJu41KJ6yd_hARF7ffY2bAFwk"
+    }
+  },
+  {
+    "id": "6973",
+    "name": "YOUTH CENTRE/ YOUTH CENTRE",
+    "registration_area_id": "354",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "02/16/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "354",
+    "ward_name": "NUMAN II",
+    "local_government_id": "33",
+    "local_government_name": "NUMAN",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4613093,
+      "longitude": 12.0248626,
+      "viewport": {
+        "northeast": {
+          "lat": 9.462574329892721,
+          "lng": 12.02617912989272
+        },
+        "southwest": {
+          "lat": 9.459874670107277,
+          "lng": 12.02347947010728
+        }
+      },
+      "formatted_address": "F26F+HW4, 643105, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4613093,12.0248626",
+      "google_place_id": "ChIJs4itwlKc_hARnnp2RkDu26I"
+    }
+  },
+  {
+    "id": "6974",
+    "name": "ZABARMA/ NEAR LIMAN'S  HOUSE",
+    "registration_area_id": "354",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "02/16/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "354",
+    "ward_name": "NUMAN II",
+    "local_government_id": "33",
+    "local_government_name": "NUMAN",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4558018,
+      "longitude": 12.0439513,
+      "viewport": {
+        "northeast": {
+          "lat": 9.457160779892721,
+          "lng": 12.04531302989272
+        },
+        "southwest": {
+          "lat": 9.454461120107277,
+          "lng": 12.04261337010728
+        }
+      },
+      "formatted_address": "F24V+8JG, 643108, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4558018,12.0439513",
+      "google_place_id": "ChIJv6jrYryd_hARPULZ86S9WuY"
+    }
+  },
+  {
+    "id": "6975",
+    "name": "YOUTH CENTER I",
+    "registration_area_id": "354",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "02/16/07/010",
+    "remark": "NEW PU",
+    "ward_id": "354",
+    "ward_name": "NUMAN II",
+    "local_government_id": "33",
+    "local_government_name": "NUMAN",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4613093,
+      "longitude": 12.0248626,
+      "viewport": {
+        "northeast": {
+          "lat": 9.462574329892721,
+          "lng": 12.02617912989272
+        },
+        "southwest": {
+          "lat": 9.459874670107277,
+          "lng": 12.02347947010728
+        }
+      },
+      "formatted_address": "F26F+HW4, 643105, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4613093,12.0248626",
+      "google_place_id": "ChIJs4itwlKc_hARnnp2RkDu26I"
+    }
+  },
+  {
+    "id": "6976",
+    "name": "PARE PRI.SCH I",
+    "registration_area_id": "354",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "02/16/07/011",
+    "remark": "NEW PU",
+    "ward_id": "354",
+    "ward_name": "NUMAN II",
+    "local_government_id": "33",
+    "local_government_name": "NUMAN",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4573742,
+      "longitude": 12.0260083,
+      "viewport": {
+        "northeast": {
+          "lat": 9.458644079892721,
+          "lng": 12.02749887989272
+        },
+        "southwest": {
+          "lat": 9.455944420107278,
+          "lng": 12.02479922010728
+        }
+      },
+      "formatted_address": "F24G+XG2, A4, 643106, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4573742,12.0260083",
+      "google_place_id": "ChIJ7yHjzLKd_hARlzHF3CrdyCY"
+    }
+  },
+  {
+    "id": "6977",
+    "name": "NGBABULANG I",
+    "registration_area_id": "354",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "02/16/07/012",
+    "remark": "NEW PU",
+    "ward_id": "354",
+    "ward_name": "NUMAN II",
+    "local_government_id": "33",
+    "local_government_name": "NUMAN",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "6978",
+    "name": "NOKOWON I",
+    "registration_area_id": "354",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "02/16/07/013",
+    "remark": "NEW PU",
+    "ward_id": "354",
+    "ward_name": "NUMAN II",
+    "local_government_id": "33",
+    "local_government_name": "NUMAN",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4535964,
+      "longitude": 12.0318456,
+      "viewport": {
+        "northeast": {
+          "lat": 9.474923900000002,
+          "lng": 12.0710461
+        },
+        "southwest": {
+          "lat": 9.4354181,
+          "lng": 12.012435
+        }
+      },
+      "formatted_address": "Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4535964,12.0318456",
+      "google_place_id": "ChIJJzFnalGc_hAReb0iqhZ7gkg"
+    }
+  },
+  {
+    "id": "6979",
+    "name": "NGBAYOFE I",
+    "registration_area_id": "354",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "02/16/07/014",
+    "remark": "NEW PU",
+    "ward_id": "354",
+    "ward_name": "NUMAN II",
+    "local_government_id": "33",
+    "local_government_name": "NUMAN",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4650663,
+      "longitude": 12.0268508,
+      "viewport": {
+        "northeast": {
+          "lat": 9.466390679892724,
+          "lng": 12.02816667989272
+        },
+        "southwest": {
+          "lat": 9.46369102010728,
+          "lng": 12.02546702010728
+        }
+      },
+      "formatted_address": "F28G+2PH, 643105, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4650663,12.0268508",
+      "google_place_id": "ChIJ8xkJWqud_hAR7cZYsQveAW8"
+    }
+  },
+  {
+    "id": "6980",
+    "name": "NGBAKOUTO I",
+    "registration_area_id": "354",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "02/16/07/015",
+    "remark": "NEW PU",
+    "ward_id": "354",
+    "ward_name": "NUMAN II",
+    "local_government_id": "33",
+    "local_government_name": "NUMAN",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4555019,
+      "longitude": 12.0161422,
+      "viewport": {
+        "northeast": {
+          "lat": 9.4637815,
+          "lng": 12.0392121
+        },
+        "southwest": {
+          "lat": 9.4485402,
+          "lng": 11.9926692
+        }
+      },
+      "formatted_address": "Numan I, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4555019,12.0161422",
+      "google_place_id": "ChIJs3mEbU-c_hARk6hBvPP8k6M"
+    }
+  },
+  {
+    "id": "6981",
+    "name": "JOHN HOLT PRI.SCH. ZABARMA",
+    "registration_area_id": "354",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "02/16/07/016",
+    "remark": "NEW PU",
+    "ward_id": "354",
+    "ward_name": "NUMAN II",
+    "local_government_id": "33",
+    "local_government_name": "NUMAN",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4686579,
+      "longitude": 12.0265508,
+      "viewport": {
+        "northeast": {
+          "lat": 9.469994979892721,
+          "lng": 12.02787292989272
+        },
+        "southwest": {
+          "lat": 9.467295320107278,
+          "lng": 12.02517327010728
+        }
+      },
+      "formatted_address": "F29G+FJ9, 643107, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4686579,12.0265508",
+      "google_place_id": "ChIJE-K6yaqd_hARM17CY-Pes6g"
+    }
+  }
+]

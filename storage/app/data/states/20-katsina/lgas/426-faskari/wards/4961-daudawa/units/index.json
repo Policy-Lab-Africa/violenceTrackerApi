@@ -1,0 +1,469 @@
+[
+  {
+    "id": "97353",
+    "name": "DAUDAWA GARI KOFAR ALARAMA",
+    "registration_area_id": "4961",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/13/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4961",
+    "ward_name": "DAUDAWA",
+    "local_government_id": "426",
+    "local_government_name": "FASKARI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "97354",
+    "name": "DAUDAWA GARI TELEVISION VIEWING CENTRE",
+    "registration_area_id": "4961",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/13/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4961",
+    "ward_name": "DAUDAWA",
+    "local_government_id": "426",
+    "local_government_name": "FASKARI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "97355",
+    "name": "UNG. KOSAU KOFAR GIDAN VILLAGE HEAD",
+    "registration_area_id": "4961",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/13/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4961",
+    "ward_name": "DAUDAWA",
+    "local_government_id": "426",
+    "local_government_name": "FASKARI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.7195385,
+      "longitude": 7.0314728,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72085952989272,
+          "lng": 7.032813579892722
+        },
+        "southwest": {
+          "lat": 11.71815987010728,
+          "lng": 7.030113920107278
+        }
+      },
+      "formatted_address": "P29J+RH9, 830102, Unguwar Galadima Wakaso, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7195385,7.0314728",
+      "google_place_id": "ChIJraZDVD3NsxERNkviIfUCPsI"
+    }
+  },
+  {
+    "id": "97356",
+    "name": "DAUDAWA UNGUWA SAMANJA",
+    "registration_area_id": "4961",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/13/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4961",
+    "ward_name": "DAUDAWA",
+    "local_government_id": "426",
+    "local_government_name": "FASKARI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.6315684,
+      "longitude": 7.1554587,
+      "viewport": {
+        "northeast": {
+          "lat": 11.6362819,
+          "lng": 7.1594279
+        },
+        "southwest": {
+          "lat": 11.6268019,
+          "lng": 7.1407871
+        }
+      },
+      "formatted_address": "830102, Daudawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6315684,7.1554587",
+      "google_place_id": "ChIJ9zRmGpE1shERqSDEXY6f-EI"
+    }
+  },
+  {
+    "id": "97357",
+    "name": "KANFANI A. KOFAR GIDAN DAN ALHAJI",
+    "registration_area_id": "4961",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/13/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4961",
+    "ward_name": "DAUDAWA",
+    "local_government_id": "426",
+    "local_government_name": "FASKARI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.7195385,
+      "longitude": 7.0314728,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72085952989272,
+          "lng": 7.032813579892722
+        },
+        "southwest": {
+          "lat": 11.71815987010728,
+          "lng": 7.030113920107278
+        }
+      },
+      "formatted_address": "P29J+RH9, 830102, Unguwar Galadima Wakaso, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7195385,7.0314728",
+      "google_place_id": "ChIJraZDVD3NsxERNkviIfUCPsI"
+    }
+  },
+  {
+    "id": "97358",
+    "name": "KAMFANBI K/G. SALE",
+    "registration_area_id": "4961",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/13/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4961",
+    "ward_name": "DAUDAWA",
+    "local_government_id": "426",
+    "local_government_name": "FASKARI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "97359",
+    "name": "UNGUWAR ALI KOFAR GIDAN VILLAGE HEAD",
+    "registration_area_id": "4961",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/13/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4961",
+    "ward_name": "DAUDAWA",
+    "local_government_id": "426",
+    "local_government_name": "FASKARI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.7195385,
+      "longitude": 7.0314728,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72085952989272,
+          "lng": 7.032813579892722
+        },
+        "southwest": {
+          "lat": 11.71815987010728,
+          "lng": 7.030113920107278
+        }
+      },
+      "formatted_address": "P29J+RH9, 830102, Unguwar Galadima Wakaso, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7195385,7.0314728",
+      "google_place_id": "ChIJraZDVD3NsxERNkviIfUCPsI"
+    }
+  },
+  {
+    "id": "97360",
+    "name": "KANON HAKI KOFAR GIDAN MAI UNGUWA",
+    "registration_area_id": "4961",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/13/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4961",
+    "ward_name": "DAUDAWA",
+    "local_government_id": "426",
+    "local_government_name": "FASKARI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "97361",
+    "name": "TUDUN MALAMAI YAR YARA",
+    "registration_area_id": "4961",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/13/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4961",
+    "ward_name": "DAUDAWA",
+    "local_government_id": "426",
+    "local_government_name": "FASKARI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.5244864,
+      "longitude": 7.3165055,
+      "viewport": {
+        "northeast": {
+          "lat": 11.52584382989272,
+          "lng": 7.317863229892724
+        },
+        "southwest": {
+          "lat": 11.52314417010728,
+          "lng": 7.315163570107281
+        }
+      },
+      "formatted_address": "G8F8+QJW, 830101, Funtua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5244864,7.3165055",
+      "google_place_id": "ChIJAyYoiIJGshERd5JwmD3mXGQ"
+    }
+  },
+  {
+    "id": "97362",
+    "name": "KWANKIRO VILLAGE HEAD YARD",
+    "registration_area_id": "4961",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/13/04/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4961",
+    "ward_name": "DAUDAWA",
+    "local_government_id": "426",
+    "local_government_name": "FASKARI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.7195385,
+      "longitude": 7.0314728,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72085952989272,
+          "lng": 7.032813579892722
+        },
+        "southwest": {
+          "lat": 11.71815987010728,
+          "lng": 7.030113920107278
+        }
+      },
+      "formatted_address": "P29J+RH9, 830102, Unguwar Galadima Wakaso, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7195385,7.0314728",
+      "google_place_id": "ChIJraZDVD3NsxERNkviIfUCPsI"
+    }
+  },
+  {
+    "id": "97363",
+    "name": "UNG. A.TANKO PRI.SCHOOL",
+    "registration_area_id": "4961",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/13/04/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4961",
+    "ward_name": "DAUDAWA",
+    "local_government_id": "426",
+    "local_government_name": "FASKARI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "97364",
+    "name": "HAYIN GADA KOFAR GIDAN ALH. BALA",
+    "registration_area_id": "4961",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "20/13/04/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4961",
+    "ward_name": "DAUDAWA",
+    "local_government_id": "426",
+    "local_government_name": "FASKARI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "97365",
+    "name": "K/G GARBA KAFINTA",
+    "registration_area_id": "4961",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "20/13/04/013",
+    "remark": "NEW PU",
+    "ward_id": "4961",
+    "ward_name": "DAUDAWA",
+    "local_government_id": "426",
+    "local_government_name": "FASKARI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "97366",
+    "name": "K/G ALH. MUNTARI USMAN",
+    "registration_area_id": "4961",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "20/13/04/014",
+    "remark": "NEW PU",
+    "ward_id": "4961",
+    "ward_name": "DAUDAWA",
+    "local_government_id": "426",
+    "local_government_name": "FASKARI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.7195385,
+      "longitude": 7.0314728,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72085952989272,
+          "lng": 7.032813579892722
+        },
+        "southwest": {
+          "lat": 11.71815987010728,
+          "lng": 7.030113920107278
+        }
+      },
+      "formatted_address": "P29J+RH9, 830102, Unguwar Galadima Wakaso, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7195385,7.0314728",
+      "google_place_id": "ChIJraZDVD3NsxERNkviIfUCPsI"
+    }
+  },
+  {
+    "id": "97367",
+    "name": "K/G MAIGARI GINDIN BEDI",
+    "registration_area_id": "4961",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "20/13/04/015",
+    "remark": "NEW PU",
+    "ward_id": "4961",
+    "ward_name": "DAUDAWA",
+    "local_government_id": "426",
+    "local_government_name": "FASKARI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "97368",
+    "name": "DAUDAWA PRI.SCHOOL",
+    "registration_area_id": "4961",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "20/13/04/016",
+    "remark": "NEW PU",
+    "ward_id": "4961",
+    "ward_name": "DAUDAWA",
+    "local_government_id": "426",
+    "local_government_name": "FASKARI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.7446737,
+      "longitude": 7.1203742,
+      "viewport": {
+        "northeast": {
+          "lat": 11.74616682989272,
+          "lng": 7.121868629892721
+        },
+        "southwest": {
+          "lat": 11.74346717010728,
+          "lng": 7.119168970107277
+        }
+      },
+      "formatted_address": "P4VC+V4H, 830102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7446737,7.1203742",
+      "google_place_id": "ChIJRZozGBozshERPa9OE-hWkOE"
+    }
+  },
+  {
+    "id": "97369",
+    "name": "K/G DAN LADI GIDAN BANGO",
+    "registration_area_id": "4961",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "20/13/04/017",
+    "remark": "NEW PU",
+    "ward_id": "4961",
+    "ward_name": "DAUDAWA",
+    "local_government_id": "426",
+    "local_government_name": "FASKARI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "97370",
+    "name": "KANON HAKI CLINIC",
+    "registration_area_id": "4961",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "20/13/04/018",
+    "remark": "NEW PU",
+    "ward_id": "4961",
+    "ward_name": "DAUDAWA",
+    "local_government_id": "426",
+    "local_government_name": "FASKARI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "97371",
+    "name": "K/G YUSUF IBRAHIM",
+    "registration_area_id": "4961",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "20/13/04/019",
+    "remark": "NEW PU",
+    "ward_id": "4961",
+    "ward_name": "DAUDAWA",
+    "local_government_id": "426",
+    "local_government_name": "FASKARI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.5576678,
+      "longitude": 7.424563,
+      "viewport": {
+        "northeast": {
+          "lat": 11.55909947989272,
+          "lng": 7.425883179892722
+        },
+        "southwest": {
+          "lat": 11.55639982010728,
+          "lng": 7.423183520107278
+        }
+      },
+      "formatted_address": "Bakori NORTH WEST, NO 8 SARKIN FADA ROAD BAKORI KATSINA STATE BAKORI, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5576678,7.424563",
+      "google_place_id": "ChIJgTsGI5BBshERe3bEB-gWGUQ"
+    }
+  }
+]

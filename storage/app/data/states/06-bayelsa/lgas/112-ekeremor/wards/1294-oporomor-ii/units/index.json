@@ -1,0 +1,729 @@
+[
+  {
+    "id": "23876",
+    "name": "BOLOU EGEDE PRIMARY SCHOOL",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "06/02/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9511791,
+      "longitude": 5.8142885,
+      "viewport": {
+        "northeast": {
+          "lat": 4.952528929892722,
+          "lng": 5.815638329892722
+        },
+        "southwest": {
+          "lat": 4.949829270107278,
+          "lng": 5.812938670107278
+        }
+      },
+      "formatted_address": "XR27+FPF, Bilabiri community in ekeremor local Govt area, Azagbene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9511791,5.8142885",
+      "google_place_id": "ChIJ_6IkZ29_ahAR6nA17t8Dcxw"
+    }
+  },
+  {
+    "id": "23877",
+    "name": "SAGBA EGEDE SEC. SCHOOL",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "06/02/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.0553675,
+      "longitude": 5.772890299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.056716929892722,
+          "lng": 5.774333329892722
+        },
+        "southwest": {
+          "lat": 5.054017270107278,
+          "lng": 5.771633670107278
+        }
+      },
+      "formatted_address": "3Q4F+45R, 561102, Obirigbene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0553675,5.772890299999999",
+      "google_place_id": "ChIJB5BqszPVQRAR5aJPXKnKNkw"
+    }
+  },
+  {
+    "id": "23878",
+    "name": "OFURU EGEDE SQUARE",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "06/02/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.921162100000001,
+      "longitude": 6.274773400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.922174829892723,
+          "lng": 6.275647500000001
+        },
+        "southwest": {
+          "lat": 4.919475170107279,
+          "lng": 6.272151099999999
+        }
+      },
+      "formatted_address": "W7CF+FW6, 569101, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.921162100000001,6.274773400000001",
+      "google_place_id": "ChIJK4MGSloFahARrV-Kk_Rm6J4"
+    }
+  },
+  {
+    "id": "23879",
+    "name": "CLARK-GBERE SQUARE",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "06/02/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.921162100000001,
+      "longitude": 6.274773400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.922174829892723,
+          "lng": 6.275647500000001
+        },
+        "southwest": {
+          "lat": 4.919475170107279,
+          "lng": 6.272151099999999
+        }
+      },
+      "formatted_address": "W7CF+FW6, 569101, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.921162100000001,6.274773400000001",
+      "google_place_id": "ChIJK4MGSloFahARrV-Kk_Rm6J4"
+    }
+  },
+  {
+    "id": "23880",
+    "name": "ABUKO EGEDE SQUARE",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "06/02/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": null
+  },
+  {
+    "id": "23881",
+    "name": "NURGBENA/APODOBIA",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "06/02/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9747023,
+      "longitude": 5.6402798,
+      "viewport": {
+        "northeast": {
+          "lat": 4.976027629892722,
+          "lng": 5.641656179892722
+        },
+        "southwest": {
+          "lat": 4.973327970107278,
+          "lng": 5.638956520107278
+        }
+      },
+      "formatted_address": "ekiere2 peretorugbene, ekeremor LGA, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9747023,5.6402798",
+      "google_place_id": "ChIJg1Qb-ouDahAR0uyQecHoZW8"
+    }
+  },
+  {
+    "id": "23882",
+    "name": "ENIEDEDUMU/TARAIZA PRI. SCH.",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "06/02/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9511791,
+      "longitude": 5.8142885,
+      "viewport": {
+        "northeast": {
+          "lat": 4.952528929892722,
+          "lng": 5.815638329892722
+        },
+        "southwest": {
+          "lat": 4.949829270107278,
+          "lng": 5.812938670107278
+        }
+      },
+      "formatted_address": "XR27+FPF, Bilabiri community in ekeremor local Govt area, Azagbene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9511791,5.8142885",
+      "google_place_id": "ChIJ_6IkZ29_ahAR6nA17t8Dcxw"
+    }
+  },
+  {
+    "id": "23883",
+    "name": "AZAGBENE SQUARE",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "06/02/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9511791,
+      "longitude": 5.8142885,
+      "viewport": {
+        "northeast": {
+          "lat": 5.1653113,
+          "lng": 5.992768499999999
+        },
+        "southwest": {
+          "lat": 4.7232711,
+          "lng": 5.3794774
+        }
+      },
+      "formatted_address": "Ekeremor, 561102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9511791,5.8142885",
+      "google_place_id": "ChIJh6S4s9eGahARTS_Oz2nqNyM"
+    }
+  },
+  {
+    "id": "23884",
+    "name": "DIBE/APEDE-EGBA EGEDE SQUARE",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "06/02/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": null
+  },
+  {
+    "id": "23885",
+    "name": "OMION-WARE SQ",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "06/02/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.921162100000001,
+      "longitude": 6.274773400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.922174829892723,
+          "lng": 6.275647500000001
+        },
+        "southwest": {
+          "lat": 4.919475170107279,
+          "lng": 6.272151099999999
+        }
+      },
+      "formatted_address": "W7CF+FW6, 569101, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.921162100000001,6.274773400000001",
+      "google_place_id": "ChIJK4MGSloFahARrV-Kk_Rm6J4"
+    }
+  },
+  {
+    "id": "23886",
+    "name": "OROGBENE SEC SCHOOL",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "06/02/07/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9833757,
+      "longitude": 5.7804614,
+      "viewport": {
+        "northeast": {
+          "lat": 4.984725529892721,
+          "lng": 5.781811229892722
+        },
+        "southwest": {
+          "lat": 4.982025870107277,
+          "lng": 5.779111570107278
+        }
+      },
+      "formatted_address": "XQMJ+954, Norgbene Community, Ekeremor LGA, Nogbene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9833757,5.7804614",
+      "google_place_id": "ChIJa-DW_wZ_ahARvLN9sHsjNtQ"
+    }
+  },
+  {
+    "id": "23887",
+    "name": "AZAGBOWARE SQUARE",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "06/02/07/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.0567741,
+      "longitude": 5.7852,
+      "viewport": {
+        "northeast": {
+          "lat": 5.058630479892722,
+          "lng": 5.786141779892723
+        },
+        "southwest": {
+          "lat": 5.055930820107278,
+          "lng": 5.783442120107279
+        }
+      },
+      "formatted_address": "3Q4P+P34, 561102, Obirigbene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0567741,5.7852",
+      "google_place_id": "ChIJzzBGCL3VQRAR9YLo1JyyqU4"
+    }
+  },
+  {
+    "id": "23888",
+    "name": "TARAIZA QTRS",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "06/02/07/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9747023,
+      "longitude": 5.6402798,
+      "viewport": {
+        "northeast": {
+          "lat": 4.976027629892722,
+          "lng": 5.641656179892722
+        },
+        "southwest": {
+          "lat": 4.973327970107278,
+          "lng": 5.638956520107278
+        }
+      },
+      "formatted_address": "ekiere2 peretorugbene, ekeremor LGA, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9747023,5.6402798",
+      "google_place_id": "ChIJg1Qb-ouDahAR0uyQecHoZW8"
+    }
+  },
+  {
+    "id": "23889",
+    "name": "BEAUTIFUL GATE SQUARE",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "06/02/07/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9747023,
+      "longitude": 5.6402798,
+      "viewport": {
+        "northeast": {
+          "lat": 4.976027629892722,
+          "lng": 5.641656179892722
+        },
+        "southwest": {
+          "lat": 4.973327970107278,
+          "lng": 5.638956520107278
+        }
+      },
+      "formatted_address": "ekiere2 peretorugbene, ekeremor LGA, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9747023,5.6402798",
+      "google_place_id": "ChIJg1Qb-ouDahAR0uyQecHoZW8"
+    }
+  },
+  {
+    "id": "23890",
+    "name": "PERETU EGEDE SQUARE",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "06/02/07/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.921162100000001,
+      "longitude": 6.274773400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.922174829892723,
+          "lng": 6.275647500000001
+        },
+        "southwest": {
+          "lat": 4.919475170107279,
+          "lng": 6.272151099999999
+        }
+      },
+      "formatted_address": "W7CF+FW6, 569101, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.921162100000001,6.274773400000001",
+      "google_place_id": "ChIJK4MGSloFahARrV-Kk_Rm6J4"
+    }
+  },
+  {
+    "id": "23891",
+    "name": "FEREMAMS TOWN HALL",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "06/02/07/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.921162100000001,
+      "longitude": 6.274773400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.922174829892723,
+          "lng": 6.275647500000001
+        },
+        "southwest": {
+          "lat": 4.919475170107279,
+          "lng": 6.272151099999999
+        }
+      },
+      "formatted_address": "W7CF+FW6, 569101, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.921162100000001,6.274773400000001",
+      "google_place_id": "ChIJK4MGSloFahARrV-Kk_Rm6J4"
+    }
+  },
+  {
+    "id": "23892",
+    "name": "OPEN SPACE AZAGBENE",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "06/02/07/017",
+    "remark": "NEW PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.0567741,
+      "longitude": 5.7852,
+      "viewport": {
+        "northeast": {
+          "lat": 5.058630479892722,
+          "lng": 5.786141779892723
+        },
+        "southwest": {
+          "lat": 5.055930820107278,
+          "lng": 5.783442120107279
+        }
+      },
+      "formatted_address": "3Q4P+P34, 561102, Obirigbene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0567741,5.7852",
+      "google_place_id": "ChIJzzBGCL3VQRAR9YLo1JyyqU4"
+    }
+  },
+  {
+    "id": "23893",
+    "name": "OFURUGEDE PLAY GROUND",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "06/02/07/018",
+    "remark": "NEW PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.0567741,
+      "longitude": 5.7852,
+      "viewport": {
+        "northeast": {
+          "lat": 5.058630479892722,
+          "lng": 5.786141779892723
+        },
+        "southwest": {
+          "lat": 5.055930820107278,
+          "lng": 5.783442120107279
+        }
+      },
+      "formatted_address": "3Q4P+P34, 561102, Obirigbene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0567741,5.7852",
+      "google_place_id": "ChIJzzBGCL3VQRAR9YLo1JyyqU4"
+    }
+  },
+  {
+    "id": "23894",
+    "name": "OPEN SPACE ABUKOEGEDE",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "06/02/07/019",
+    "remark": "NEW PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.0567741,
+      "longitude": 5.7852,
+      "viewport": {
+        "northeast": {
+          "lat": 5.058630479892722,
+          "lng": 5.786141779892723
+        },
+        "southwest": {
+          "lat": 5.055930820107278,
+          "lng": 5.783442120107279
+        }
+      },
+      "formatted_address": "3Q4P+P34, 561102, Obirigbene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0567741,5.7852",
+      "google_place_id": "ChIJzzBGCL3VQRAR9YLo1JyyqU4"
+    }
+  },
+  {
+    "id": "23895",
+    "name": "COMM. PRI. SCH. NORGBENE I",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "06/02/07/020",
+    "remark": "NEW PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9833757,
+      "longitude": 5.7804614,
+      "viewport": {
+        "northeast": {
+          "lat": 4.984725529892721,
+          "lng": 5.781811229892722
+        },
+        "southwest": {
+          "lat": 4.982025870107277,
+          "lng": 5.779111570107278
+        }
+      },
+      "formatted_address": "XQMJ+954, Norgbene Community, Ekeremor LGA, Nogbene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9833757,5.7804614",
+      "google_place_id": "ChIJa-DW_wZ_ahARvLN9sHsjNtQ"
+    }
+  },
+  {
+    "id": "23896",
+    "name": "COMM. PRI. SCH. NORGBENE II",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "06/02/07/021",
+    "remark": "NEW PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9833757,
+      "longitude": 5.7804614,
+      "viewport": {
+        "northeast": {
+          "lat": 4.984725529892721,
+          "lng": 5.781811229892722
+        },
+        "southwest": {
+          "lat": 4.982025870107277,
+          "lng": 5.779111570107278
+        }
+      },
+      "formatted_address": "XQMJ+954, Norgbene Community, Ekeremor LGA, Nogbene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9833757,5.7804614",
+      "google_place_id": "ChIJa-DW_wZ_ahARvLN9sHsjNtQ"
+    }
+  },
+  {
+    "id": "23897",
+    "name": "TOWN HALL NORGBENE (SEBEKE QTRS)",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "06/02/07/022",
+    "remark": "NEW PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.032679799999999,
+      "longitude": 6.310970600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.034027079892722,
+          "lng": 6.312302279892722
+        },
+        "southwest": {
+          "lat": 5.031327420107278,
+          "lng": 6.309602620107278
+        }
+      },
+      "formatted_address": "28M6+39H, Obunagha, Gbarain, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.032679799999999,6.310970600000001",
+      "google_place_id": "ChIJMwnAbff9QRAR83HvrBdMX4A"
+    }
+  },
+  {
+    "id": "23898",
+    "name": "MIGRANT FISHERMAN CHILDREN SCH. APODOBIA NORGBENE II",
+    "registration_area_id": "1294",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "06/02/07/023",
+    "remark": "NEW PU",
+    "ward_id": "1294",
+    "ward_name": "OPOROMOR II",
+    "local_government_id": "112",
+    "local_government_name": "EKEREMOR",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9511791,
+      "longitude": 5.8142885,
+      "viewport": {
+        "northeast": {
+          "lat": 4.952528929892722,
+          "lng": 5.815638329892722
+        },
+        "southwest": {
+          "lat": 4.949829270107278,
+          "lng": 5.812938670107278
+        }
+      },
+      "formatted_address": "XR27+FPF, Bilabiri community in ekeremor local Govt area, Azagbene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9511791,5.8142885",
+      "google_place_id": "ChIJ_6IkZ29_ahAR6nA17t8Dcxw"
+    }
+  }
+]

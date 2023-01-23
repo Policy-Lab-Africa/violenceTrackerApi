@@ -1,0 +1,879 @@
+[
+  {
+    "id": "24370",
+    "name": "IKENSI TOWN SQUARE",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "06/04/12/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.5338802,
+      "longitude": 6.3996423,
+      "viewport": {
+        "northeast": {
+          "lat": 4.535197479892721,
+          "lng": 6.400961729892723
+        },
+        "southwest": {
+          "lat": 4.532497820107277,
+          "lng": 6.398262070107279
+        }
+      },
+      "formatted_address": "G9MX+GVR, 562102, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5338802,6.3996423",
+      "google_place_id": "ChIJUaKhgQcoahARefTyllwB4zY"
+    }
+  },
+  {
+    "id": "24371",
+    "name": "KOROBOKIRI COMPOUND SQUARE",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "06/04/12/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.533754,
+      "longitude": 6.4001082,
+      "viewport": {
+        "northeast": {
+          "lat": 4.535121979892722,
+          "lng": 6.401462029892722
+        },
+        "southwest": {
+          "lat": 4.532422320107278,
+          "lng": 6.398762370107278
+        }
+      },
+      "formatted_address": "GCM2+F2P, opposite King Koko Square, 562102, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.533754,6.4001082",
+      "google_place_id": "ChIJVVVVVQAoahAR4hF88b-ClX0"
+    }
+  },
+  {
+    "id": "24372",
+    "name": "IWOKIRI IKENSI COMPOUND SQUARE",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "06/04/12/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.5338802,
+      "longitude": 6.3996423,
+      "viewport": {
+        "northeast": {
+          "lat": 4.535197479892721,
+          "lng": 6.400961729892723
+        },
+        "southwest": {
+          "lat": 4.532497820107277,
+          "lng": 6.398262070107279
+        }
+      },
+      "formatted_address": "G9MX+GVR, 562102, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5338802,6.3996423",
+      "google_place_id": "ChIJUaKhgQcoahARefTyllwB4zY"
+    }
+  },
+  {
+    "id": "24373",
+    "name": "SS IKENSI SCHOOL BUILDING",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "06/04/12/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.5384135,
+      "longitude": 6.3955235,
+      "viewport": {
+        "northeast": {
+          "lat": 4.539702329892721,
+          "lng": 6.396855529892722
+        },
+        "southwest": {
+          "lat": 4.537002670107277,
+          "lng": 6.394155870107278
+        }
+      },
+      "formatted_address": "G9QW+966, 562102, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5384135,6.3955235",
+      "google_place_id": "ChIJm8oUaeMnahAROLXHDqBI0og"
+    }
+  },
+  {
+    "id": "24374",
+    "name": "AMABITTEAMA TOWN HALL",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "06/04/12/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": null
+  },
+  {
+    "id": "24375",
+    "name": "AGADA  TOWN SQUARE",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "06/04/12/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": null
+  },
+  {
+    "id": "24376",
+    "name": "AGADA  SCHOOL COMPOUND",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "06/04/12/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.5384135,
+      "longitude": 6.3955235,
+      "viewport": {
+        "northeast": {
+          "lat": 4.539702329892721,
+          "lng": 6.396855529892722
+        },
+        "southwest": {
+          "lat": 4.537002670107277,
+          "lng": 6.394155870107278
+        }
+      },
+      "formatted_address": "G9QW+966, 562102, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5384135,6.3955235",
+      "google_place_id": "ChIJm8oUaeMnahAROLXHDqBI0og"
+    }
+  },
+  {
+    "id": "24377",
+    "name": "AGADA  COMPOUND SQUARE",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "06/04/12/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.5338802,
+      "longitude": 6.3996423,
+      "viewport": {
+        "northeast": {
+          "lat": 4.535197479892721,
+          "lng": 6.400961729892723
+        },
+        "southwest": {
+          "lat": 4.532497820107277,
+          "lng": 6.398262070107279
+        }
+      },
+      "formatted_address": "G9MX+GVR, 562102, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5338802,6.3996423",
+      "google_place_id": "ChIJUaKhgQcoahARefTyllwB4zY"
+    }
+  },
+  {
+    "id": "24378",
+    "name": "OBITA COMPOUND SQUARE",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "06/04/12/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.5320481,
+      "longitude": 6.4029042,
+      "viewport": {
+        "northeast": {
+          "lat": 4.533397179892722,
+          "lng": 6.404251579892722
+        },
+        "southwest": {
+          "lat": 4.530697520107278,
+          "lng": 6.401551920107278
+        }
+      },
+      "formatted_address": "AGBUTUBU COMPOUND NEMBE LOCAL GOVERNMENT, BAYELSA #STATE, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5320481,6.4029042",
+      "google_place_id": "ChIJAW9AbcMpahARCLiKIKfQl_A"
+    }
+  },
+  {
+    "id": "24379",
+    "name": "OBITA SCHOOL BUILDING",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "06/04/12/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.5391821,
+      "longitude": 6.3990764,
+      "viewport": {
+        "northeast": {
+          "lat": 4.540529479892721,
+          "lng": 6.400421679892723
+        },
+        "southwest": {
+          "lat": 4.537829820107278,
+          "lng": 6.397722020107279
+        }
+      },
+      "formatted_address": "G9QX+MMJ, 562102, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5391821,6.3990764",
+      "google_place_id": "ChIJVVVVlQAoahARhlcYTOzco6c"
+    }
+  },
+  {
+    "id": "24380",
+    "name": "OBITA  COMMUNITY HALL",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "06/04/12/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.5338802,
+      "longitude": 6.3996423,
+      "viewport": {
+        "northeast": {
+          "lat": 4.535197479892721,
+          "lng": 6.400961729892723
+        },
+        "southwest": {
+          "lat": 4.532497820107277,
+          "lng": 6.398262070107279
+        }
+      },
+      "formatted_address": "G9MX+GVR, 562102, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5338802,6.3996423",
+      "google_place_id": "ChIJUaKhgQcoahARefTyllwB4zY"
+    }
+  },
+  {
+    "id": "24381",
+    "name": "ATUBO SCHOOL BUILDING",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "06/04/12/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.5391821,
+      "longitude": 6.3990764,
+      "viewport": {
+        "northeast": {
+          "lat": 4.540529479892721,
+          "lng": 6.400421679892723
+        },
+        "southwest": {
+          "lat": 4.537829820107278,
+          "lng": 6.397722020107279
+        }
+      },
+      "formatted_address": "G9QX+MMJ, 562102, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5391821,6.3990764",
+      "google_place_id": "ChIJVVVVlQAoahARhlcYTOzco6c"
+    }
+  },
+  {
+    "id": "24382",
+    "name": "ATUBO TOWN HALL",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "06/04/12/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": null
+  },
+  {
+    "id": "24383",
+    "name": "ATUBO OPUPUGO",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "06/04/12/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.8055534,
+      "longitude": 6.2598328,
+      "viewport": {
+        "northeast": {
+          "lat": 4.8076369,
+          "lng": 6.2615203
+        },
+        "southwest": {
+          "lat": 4.803435299999999,
+          "lng": 6.2581731
+        }
+      },
+      "formatted_address": "562103, Onuebu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8055534,6.2598328",
+      "google_place_id": "ChIJZZWRzkEaahARi1YdbOyMjMg"
+    }
+  },
+  {
+    "id": "24384",
+    "name": "ATUBO TOWN HALL",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "06/04/12/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": null
+  },
+  {
+    "id": "24385",
+    "name": "SANGAPIRI  VILLAGE SQUARE",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "06/04/12/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.5338802,
+      "longitude": 6.3996423,
+      "viewport": {
+        "northeast": {
+          "lat": 4.535197479892721,
+          "lng": 6.400961729892723
+        },
+        "southwest": {
+          "lat": 4.532497820107277,
+          "lng": 6.398262070107279
+        }
+      },
+      "formatted_address": "G9MX+GVR, 562102, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5338802,6.3996423",
+      "google_place_id": "ChIJUaKhgQcoahARefTyllwB4zY"
+    }
+  },
+  {
+    "id": "24386",
+    "name": "BIOKPONGA TOWN HALL",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "06/04/12/017",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.977723,
+      "longitude": 6.3678404,
+      "viewport": {
+        "northeast": {
+          "lat": 4.979020979892722,
+          "lng": 6.369065629892722
+        },
+        "southwest": {
+          "lat": 4.976321320107278,
+          "lng": 6.366365970107278
+        }
+      },
+      "formatted_address": "X9H9+34G, 569101, Biogbolo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.977723,6.3678404",
+      "google_place_id": "ChIJeUL2h6gBahARS67tLxWyfiA"
+    }
+  },
+  {
+    "id": "24387",
+    "name": "BIOKPONGA SCHOOL BUILDING",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "06/04/12/018",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.531762,
+      "longitude": 6.405006999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.533322279892722,
+          "lng": 6.407095450000001
+        },
+        "southwest": {
+          "lat": 4.530622620107279,
+          "lng": 6.404310849999999
+        }
+      },
+      "formatted_address": "Opposite Baptist Groups of School, Nembe (Bassambiri), Yenagoa, Bayelsa, 100004, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.531762,6.405006999999999",
+      "google_place_id": "ChIJ8byw_78FahARcVyL4tkJmVo"
+    }
+  },
+  {
+    "id": "24388",
+    "name": "ISELEOGONO TOWN SQUARE",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "06/04/12/019",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.951446799999999,
+      "longitude": 6.3491975,
+      "viewport": {
+        "northeast": {
+          "lat": 5.010358,
+          "lng": 6.3935849
+        },
+        "southwest": {
+          "lat": 4.905732,
+          "lng": 6.258505
+        }
+      },
+      "formatted_address": "569101, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.951446799999999,6.3491975",
+      "google_place_id": "ChIJtZ7qc64FahARyUR8kd9oIAg"
+    }
+  },
+  {
+    "id": "24389",
+    "name": "ISELEOGONO SCHOOL BUILDING",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "06/04/12/020",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.5391821,
+      "longitude": 6.3990764,
+      "viewport": {
+        "northeast": {
+          "lat": 4.540529479892721,
+          "lng": 6.400421679892723
+        },
+        "southwest": {
+          "lat": 4.537829820107278,
+          "lng": 6.397722020107279
+        }
+      },
+      "formatted_address": "G9QX+MMJ, 562102, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5391821,6.3990764",
+      "google_place_id": "ChIJVVVVlQAoahARhlcYTOzco6c"
+    }
+  },
+  {
+    "id": "24390",
+    "name": "NDATIRI VILLAGE SQUARE",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "06/04/12/021",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.5338802,
+      "longitude": 6.3996423,
+      "viewport": {
+        "northeast": {
+          "lat": 4.535197479892721,
+          "lng": 6.400961729892723
+        },
+        "southwest": {
+          "lat": 4.532497820107277,
+          "lng": 6.398262070107279
+        }
+      },
+      "formatted_address": "G9MX+GVR, 562102, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5338802,6.3996423",
+      "google_place_id": "ChIJUaKhgQcoahARefTyllwB4zY"
+    }
+  },
+  {
+    "id": "24391",
+    "name": "SHELLKIRI SCHOOL COMPOUND",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "06/04/12/022",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.5384135,
+      "longitude": 6.3955235,
+      "viewport": {
+        "northeast": {
+          "lat": 4.539702329892721,
+          "lng": 6.396855529892722
+        },
+        "southwest": {
+          "lat": 4.537002670107277,
+          "lng": 6.394155870107278
+        }
+      },
+      "formatted_address": "G9QW+966, 562102, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5384135,6.3955235",
+      "google_place_id": "ChIJm8oUaeMnahAROLXHDqBI0og"
+    }
+  },
+  {
+    "id": "24392",
+    "name": "SANSAN VILLAGE SQUARE",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "06/04/12/023",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.5338802,
+      "longitude": 6.3996423,
+      "viewport": {
+        "northeast": {
+          "lat": 4.535197479892721,
+          "lng": 6.400961729892723
+        },
+        "southwest": {
+          "lat": 4.532497820107277,
+          "lng": 6.398262070107279
+        }
+      },
+      "formatted_address": "G9MX+GVR, 562102, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5338802,6.3996423",
+      "google_place_id": "ChIJUaKhgQcoahARefTyllwB4zY"
+    }
+  },
+  {
+    "id": "24393",
+    "name": "SONIKIRI VILLAGE SQUARE",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "06/04/12/024",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 11.6986214,
+      "longitude": 102.5311733,
+      "viewport": {
+        "northeast": {
+          "lat": 11.69982232989272,
+          "lng": 102.5326003298927
+        },
+        "southwest": {
+          "lat": 11.69712267010728,
+          "lng": 102.5299006701073
+        }
+      },
+      "formatted_address": "110, Tambon Ko Kut, Ko Kut District, Trat 23000, Thailand",
+      "google_map_url": "https://maps.google.com?q=11.6986214,102.5311733",
+      "google_place_id": "ChIJT2Xn3f2bBjERsQIyasm5SI4"
+    }
+  },
+  {
+    "id": "24394",
+    "name": "OMIELAKIRI VILLAGE SQUARE",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "06/04/12/025",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.5338802,
+      "longitude": 6.3996423,
+      "viewport": {
+        "northeast": {
+          "lat": 4.535197479892721,
+          "lng": 6.400961729892723
+        },
+        "southwest": {
+          "lat": 4.532497820107277,
+          "lng": 6.398262070107279
+        }
+      },
+      "formatted_address": "G9MX+GVR, 562102, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5338802,6.3996423",
+      "google_place_id": "ChIJUaKhgQcoahARefTyllwB4zY"
+    }
+  },
+  {
+    "id": "24395",
+    "name": "KAMPALA VILLAGE SQUARE",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "06/04/12/026",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": null
+  },
+  {
+    "id": "24396",
+    "name": "IKIRIKARI VILLAGE SQUARE",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "06/04/12/027",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.5338802,
+      "longitude": 6.3996423,
+      "viewport": {
+        "northeast": {
+          "lat": 4.535197479892721,
+          "lng": 6.400961729892723
+        },
+        "southwest": {
+          "lat": 4.532497820107277,
+          "lng": 6.398262070107279
+        }
+      },
+      "formatted_address": "G9MX+GVR, 562102, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5338802,6.3996423",
+      "google_place_id": "ChIJUaKhgQcoahARefTyllwB4zY"
+    }
+  },
+  {
+    "id": "24397",
+    "name": "TWENI TWENI SQUARE",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "06/04/12/028",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.533754,
+      "longitude": 6.4001082,
+      "viewport": {
+        "northeast": {
+          "lat": 4.535121979892722,
+          "lng": 6.401462029892722
+        },
+        "southwest": {
+          "lat": 4.532422320107278,
+          "lng": 6.398762370107278
+        }
+      },
+      "formatted_address": "GCM2+F2P, opposite King Koko Square, 562102, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.533754,6.4001082",
+      "google_place_id": "ChIJVVVVVQAoahAR4hF88b-ClX0"
+    }
+  },
+  {
+    "id": "24398",
+    "name": "PETER TOWN VILLAGE SQUARE",
+    "registration_area_id": "1322",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "06/04/12/029",
+    "remark": "EXISTING PU",
+    "ward_id": "1322",
+    "ward_name": "IKENSI",
+    "local_government_id": "114",
+    "local_government_name": "NEMBE",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.5338802,
+      "longitude": 6.3996423,
+      "viewport": {
+        "northeast": {
+          "lat": 4.535197479892721,
+          "lng": 6.400961729892723
+        },
+        "southwest": {
+          "lat": 4.532497820107277,
+          "lng": 6.398262070107279
+        }
+      },
+      "formatted_address": "G9MX+GVR, 562102, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5338802,6.3996423",
+      "google_place_id": "ChIJUaKhgQcoahARefTyllwB4zY"
+    }
+  }
+]

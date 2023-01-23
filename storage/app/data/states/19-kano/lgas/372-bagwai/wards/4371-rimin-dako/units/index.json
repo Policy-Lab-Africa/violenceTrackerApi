@@ -1,0 +1,384 @@
+[
+  {
+    "id": "84339",
+    "name": "BADODO PRI. SCH. I (BADODO C/GARI I)",
+    "registration_area_id": "4371",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/03/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4371",
+    "ward_name": "RIMIN DAKO",
+    "local_government_id": "372",
+    "local_government_name": "BAGWAI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "84340",
+    "name": "BADODO PRI. SCH. II (BADODO C/GARI II)",
+    "registration_area_id": "4371",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/03/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4371",
+    "ward_name": "RIMIN DAKO",
+    "local_government_id": "372",
+    "local_government_name": "BAGWAI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "84341",
+    "name": "BAUJE HEALTH CENTER (BAUJE)",
+    "registration_area_id": "4371",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/03/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4371",
+    "ward_name": "RIMIN DAKO",
+    "local_government_id": "372",
+    "local_government_name": "BAGWAI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0814783,
+      "longitude": 8.1897062,
+      "viewport": {
+        "northeast": {
+          "lat": 12.08281627989272,
+          "lng": 8.191016679892723
+        },
+        "southwest": {
+          "lat": 12.08011662010728,
+          "lng": 8.188317020107279
+        }
+      },
+      "formatted_address": "35JQ+HVW, 701104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0814783,8.1897062",
+      "google_place_id": "ChIJBbKH7LFzrhEREqEtTxqxqv8"
+    }
+  },
+  {
+    "id": "84342",
+    "name": "BAUJE PRI. SCH. (BAURE C/GARI I)",
+    "registration_area_id": "4371",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/03/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4371",
+    "ward_name": "RIMIN DAKO",
+    "local_government_id": "372",
+    "local_government_name": "BAGWAI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0465713,
+      "longitude": 8.569542499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.04786657989272,
+          "lng": 8.570625329892719
+        },
+        "southwest": {
+          "lat": 12.04516692010728,
+          "lng": 8.567925670107275
+        }
+      },
+      "formatted_address": "Rimin Kebe Rd, 700105, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0465713,8.569542499999999",
+      "google_place_id": "ChIJL6UIi3OHrhERLjhOlrguz1k"
+    }
+  },
+  {
+    "id": "84343",
+    "name": "BAURE C/GARI II",
+    "registration_area_id": "4371",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/03/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4371",
+    "ward_name": "RIMIN DAKO",
+    "local_government_id": "372",
+    "local_government_name": "BAGWAI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "84344",
+    "name": "BUDEL I",
+    "registration_area_id": "4371",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/03/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4371",
+    "ward_name": "RIMIN DAKO",
+    "local_government_id": "372",
+    "local_government_name": "BAGWAI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0877047,
+      "longitude": 8.210149800000002,
+      "viewport": {
+        "northeast": {
+          "lat": 12.08905897989272,
+          "lng": 8.21150192989272
+        },
+        "southwest": {
+          "lat": 12.08635932010728,
+          "lng": 8.208802270107276
+        }
+      },
+      "formatted_address": "7F4C36Q6+33C Budel Rimin Gado Kano Kiyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0877047,8.210149800000002",
+      "google_place_id": "ChIJtzh832ZzrhERM2gsV0kZIxU"
+    }
+  },
+  {
+    "id": "84345",
+    "name": "BUDEL II",
+    "registration_area_id": "4371",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/03/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4371",
+    "ward_name": "RIMIN DAKO",
+    "local_government_id": "372",
+    "local_government_name": "BAGWAI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0877047,
+      "longitude": 8.210149800000002,
+      "viewport": {
+        "northeast": {
+          "lat": 12.08905897989272,
+          "lng": 8.21150192989272
+        },
+        "southwest": {
+          "lat": 12.08635932010728,
+          "lng": 8.208802270107276
+        }
+      },
+      "formatted_address": "7F4C36Q6+33C Budel Rimin Gado Kano Kiyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0877047,8.210149800000002",
+      "google_place_id": "ChIJtzh832ZzrhERM2gsV0kZIxU"
+    }
+  },
+  {
+    "id": "84346",
+    "name": "GJSS RIMIN DAKO (RIMINDAKO C/GARI I)",
+    "registration_area_id": "4371",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/03/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4371",
+    "ward_name": "RIMIN DAKO",
+    "local_government_id": "372",
+    "local_government_name": "BAGWAI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9697554,
+      "longitude": 8.2459379,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97131192989272,
+          "lng": 8.247195929892722
+        },
+        "southwest": {
+          "lat": 11.96861227010728,
+          "lng": 8.244496270107279
+        }
+      },
+      "formatted_address": "X69W+W94, Kano - Gwarzo Rd, 701102, Rimin Gado, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9697554,8.2459379",
+      "google_place_id": "ChIJwaVXA3F3rhERyo8bhx0_Jd0"
+    }
+  },
+  {
+    "id": "84347",
+    "name": "RIMINDAKO C/GARI II",
+    "registration_area_id": "4371",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/03/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4371",
+    "ward_name": "RIMIN DAKO",
+    "local_government_id": "372",
+    "local_government_name": "BAGWAI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "84348",
+    "name": "R/DAKO PRI. SCH. II (RIMINDAKO C/GARI III)",
+    "registration_area_id": "4371",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "19/03/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4371",
+    "ward_name": "RIMIN DAKO",
+    "local_government_id": "372",
+    "local_government_name": "BAGWAI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9694738,
+      "longitude": 8.245275099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97097702989272,
+          "lng": 8.246529579892723
+        },
+        "southwest": {
+          "lat": 11.96827737010728,
+          "lng": 8.243829920107279
+        }
+      },
+      "formatted_address": "7F3CX69W+Q45, 701102, Rimin Gado, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9694738,8.245275099999999",
+      "google_place_id": "ChIJD1-4IFZ3rhERqzaBA0qFbQY"
+    }
+  },
+  {
+    "id": "84349",
+    "name": "UNG. TAGWAI",
+    "registration_area_id": "4371",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "19/03/07/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4371",
+    "ward_name": "RIMIN DAKO",
+    "local_government_id": "372",
+    "local_government_name": "BAGWAI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "84350",
+    "name": "ZANGO DINYA I",
+    "registration_area_id": "4371",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "19/03/07/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4371",
+    "ward_name": "RIMIN DAKO",
+    "local_government_id": "372",
+    "local_government_name": "BAGWAI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8647166,
+      "longitude": 8.2532775,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86604377989272,
+          "lng": 8.254595979892724
+        },
+        "southwest": {
+          "lat": 11.86334412010728,
+          "lng": 8.25189632010728
+        }
+      },
+      "formatted_address": "7F3CV773+V8J Unguwar zango, Massanawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8647166,8.2532775",
+      "google_place_id": "ChIJP0XFw5LZrRERuzxMaluaoHM"
+    }
+  },
+  {
+    "id": "84351",
+    "name": "ZANGO DINYA II",
+    "registration_area_id": "4371",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "19/03/07/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4371",
+    "ward_name": "RIMIN DAKO",
+    "local_government_id": "372",
+    "local_government_name": "BAGWAI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8647166,
+      "longitude": 8.2532775,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86604377989272,
+          "lng": 8.254595979892724
+        },
+        "southwest": {
+          "lat": 11.86334412010728,
+          "lng": 8.25189632010728
+        }
+      },
+      "formatted_address": "7F3CV773+V8J Unguwar zango, Massanawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8647166,8.2532775",
+      "google_place_id": "ChIJP0XFw5LZrRERuzxMaluaoHM"
+    }
+  },
+  {
+    "id": "84352",
+    "name": "GJSS RIMIN DAKO",
+    "registration_area_id": "4371",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "19/03/07/014",
+    "remark": "NEW PU",
+    "ward_id": "4371",
+    "ward_name": "RIMIN DAKO",
+    "local_government_id": "372",
+    "local_government_name": "BAGWAI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0063654,
+      "longitude": 8.4582093,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00771322989272,
+          "lng": 8.459560679892721
+        },
+        "southwest": {
+          "lat": 12.00501357010728,
+          "lng": 8.456861020107278
+        }
+      },
+      "formatted_address": "2F45+G7W, rimin auzinawa fegi, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0063654,8.4582093",
+      "google_place_id": "ChIJ1VXnqGB_rhERW4jj5rWz05E"
+    }
+  }
+]

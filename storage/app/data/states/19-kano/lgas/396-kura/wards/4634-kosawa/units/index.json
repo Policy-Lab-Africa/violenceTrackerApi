@@ -1,0 +1,597 @@
+[
+  {
+    "id": "90773",
+    "name": "AGOLAS",
+    "registration_area_id": "4634",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/27/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4634",
+    "ward_name": "KOSAWA",
+    "local_government_id": "396",
+    "local_government_name": "KURA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7962773,
+      "longitude": 8.457980899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79789067989272,
+          "lng": 8.45937057989272
+        },
+        "southwest": {
+          "lat": 11.79519102010728,
+          "lng": 8.456670920107277
+        }
+      },
+      "formatted_address": "7F3CQFW5+G59 Imawa Kosawa Kano, Kura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7962773,8.457980899999999",
+      "google_place_id": "ChIJhdJY81XTrRERfvgrFQGEeoA"
+    }
+  },
+  {
+    "id": "90774",
+    "name": "DAUNE",
+    "registration_area_id": "4634",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/27/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4634",
+    "ward_name": "KOSAWA",
+    "local_government_id": "396",
+    "local_government_name": "KURA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7425072,
+      "longitude": 8.475329499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7444641,
+          "lng": 8.486602000000001
+        },
+        "southwest": {
+          "lat": 11.7243689,
+          "lng": 8.471324
+        }
+      },
+      "formatted_address": "711101, Daune, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7425072,8.475329499999999",
+      "google_place_id": "ChIJR37w_jPNrRERwT_2XGbcWLg"
+    }
+  },
+  {
+    "id": "90775",
+    "name": "DOMAWA",
+    "registration_area_id": "4634",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/27/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4634",
+    "ward_name": "KOSAWA",
+    "local_government_id": "396",
+    "local_government_name": "KURA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7701438,
+      "longitude": 8.4239055,
+      "viewport": {
+        "northeast": {
+          "lat": 11.77143757989272,
+          "lng": 8.425269179892721
+        },
+        "southwest": {
+          "lat": 11.76873792010728,
+          "lng": 8.422569520107277
+        }
+      },
+      "formatted_address": "711101, Kura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7701438,8.4239055",
+      "google_place_id": "ChIJQRepaDXTrRERtYDJbOkLt2g"
+    }
+  },
+  {
+    "id": "90776",
+    "name": "FEGIN MALU",
+    "registration_area_id": "4634",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/27/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4634",
+    "ward_name": "KOSAWA",
+    "local_government_id": "396",
+    "local_government_name": "KURA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7701438,
+      "longitude": 8.4239055,
+      "viewport": {
+        "northeast": {
+          "lat": 11.77143757989272,
+          "lng": 8.425269179892721
+        },
+        "southwest": {
+          "lat": 11.76873792010728,
+          "lng": 8.422569520107277
+        }
+      },
+      "formatted_address": "711101, Kura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7701438,8.4239055",
+      "google_place_id": "ChIJQRepaDXTrRERtYDJbOkLt2g"
+    }
+  },
+  {
+    "id": "90777",
+    "name": "GAJIN GIRI I",
+    "registration_area_id": "4634",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/27/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4634",
+    "ward_name": "KOSAWA",
+    "local_government_id": "396",
+    "local_government_name": "KURA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7517418,
+      "longitude": 8.4732718,
+      "viewport": {
+        "northeast": {
+          "lat": 11.8104018,
+          "lng": 8.502660299999999
+        },
+        "southwest": {
+          "lat": 11.7151615,
+          "lng": 8.4228798
+        }
+      },
+      "formatted_address": "Kosawa, 711101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7517418,8.4732718",
+      "google_place_id": "ChIJU4cP-1_NrRERZG2g1jlyGHM"
+    }
+  },
+  {
+    "id": "90778",
+    "name": "GAJIN GIRI II",
+    "registration_area_id": "4634",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/27/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4634",
+    "ward_name": "KOSAWA",
+    "local_government_id": "396",
+    "local_government_name": "KURA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7517418,
+      "longitude": 8.4732718,
+      "viewport": {
+        "northeast": {
+          "lat": 11.8104018,
+          "lng": 8.502660299999999
+        },
+        "southwest": {
+          "lat": 11.7151615,
+          "lng": 8.4228798
+        }
+      },
+      "formatted_address": "Kosawa, 711101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7517418,8.4732718",
+      "google_place_id": "ChIJU4cP-1_NrRERZG2g1jlyGHM"
+    }
+  },
+  {
+    "id": "90779",
+    "name": "IMAWA AREWA",
+    "registration_area_id": "4634",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/27/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4634",
+    "ward_name": "KOSAWA",
+    "local_government_id": "396",
+    "local_government_name": "KURA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7761372,
+      "longitude": 8.483560599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7777019,
+          "lng": 8.487157999999999
+        },
+        "southwest": {
+          "lat": 11.767702,
+          "lng": 8.482157899999999
+        }
+      },
+      "formatted_address": "711101, Imawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7761372,8.483560599999999",
+      "google_place_id": "ChIJscBotlItrBERCVJNcPcIX2o"
+    }
+  },
+  {
+    "id": "90780",
+    "name": "IMAWA KUDU",
+    "registration_area_id": "4634",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/27/06/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4634",
+    "ward_name": "KOSAWA",
+    "local_government_id": "396",
+    "local_government_name": "KURA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7962773,
+      "longitude": 8.457980899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79789067989272,
+          "lng": 8.45937057989272
+        },
+        "southwest": {
+          "lat": 11.79519102010728,
+          "lng": 8.456670920107277
+        }
+      },
+      "formatted_address": "7F3CQFW5+G59 Imawa Kosawa Kano, Kura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7962773,8.457980899999999",
+      "google_place_id": "ChIJhdJY81XTrRERfvgrFQGEeoA"
+    }
+  },
+  {
+    "id": "90781",
+    "name": "KADAN I",
+    "registration_area_id": "4634",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/27/06/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4634",
+    "ward_name": "KOSAWA",
+    "local_government_id": "396",
+    "local_government_name": "KURA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7701438,
+      "longitude": 8.4239055,
+      "viewport": {
+        "northeast": {
+          "lat": 11.77143757989272,
+          "lng": 8.425269179892721
+        },
+        "southwest": {
+          "lat": 11.76873792010728,
+          "lng": 8.422569520107277
+        }
+      },
+      "formatted_address": "711101, Kura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7701438,8.4239055",
+      "google_place_id": "ChIJQRepaDXTrRERtYDJbOkLt2g"
+    }
+  },
+  {
+    "id": "90782",
+    "name": "KADANI II",
+    "registration_area_id": "4634",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "19/27/06/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4634",
+    "ward_name": "KOSAWA",
+    "local_government_id": "396",
+    "local_government_name": "KURA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7406068,
+      "longitude": 8.4917926,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7452019,
+          "lng": 8.502712899999999
+        },
+        "southwest": {
+          "lat": 11.7388129,
+          "lng": 8.489658
+        }
+      },
+      "formatted_address": "Kadani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7406068,8.4917926",
+      "google_place_id": "ChIJDYPDMLgyrBERQyqbQPItZiA"
+    }
+  },
+  {
+    "id": "90783",
+    "name": "KADANI SADAUKI I",
+    "registration_area_id": "4634",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "19/27/06/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4634",
+    "ward_name": "KOSAWA",
+    "local_government_id": "396",
+    "local_government_name": "KURA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0006033,
+      "longitude": 8.485408099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00185872989272,
+          "lng": 8.486975579892723
+        },
+        "southwest": {
+          "lat": 11.99915907010728,
+          "lng": 8.48427592010728
+        }
+      },
+      "formatted_address": "Kofar Kansakali 700282, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0006033,8.485408099999999",
+      "google_place_id": "ChIJYVv9SJ2ArhERvzK0oc7eZpY"
+    }
+  },
+  {
+    "id": "90784",
+    "name": "KADANI SADAUKI II",
+    "registration_area_id": "4634",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "19/27/06/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4634",
+    "ward_name": "KOSAWA",
+    "local_government_id": "396",
+    "local_government_name": "KURA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "90785",
+    "name": "KADANI CHIKI",
+    "registration_area_id": "4634",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "19/27/06/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4634",
+    "ward_name": "KOSAWA",
+    "local_government_id": "396",
+    "local_government_name": "KURA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7822274,
+      "longitude": 8.4349188,
+      "viewport": {
+        "northeast": {
+          "lat": 11.78385362989272,
+          "lng": 8.435808349999997
+        },
+        "southwest": {
+          "lat": 11.78115397010728,
+          "lng": 8.432238150000002
+        }
+      },
+      "formatted_address": "Zaria Kaduna Road Kura, 700001, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7822274,8.4349188",
+      "google_place_id": "ChIJp4WFeezTrRERRix9VUjHgoA"
+    }
+  },
+  {
+    "id": "90786",
+    "name": "KOSAWA",
+    "registration_area_id": "4634",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "19/27/06/014",
+    "remark": "EXISTING PU",
+    "ward_id": "4634",
+    "ward_name": "KOSAWA",
+    "local_government_id": "396",
+    "local_government_name": "KURA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7701438,
+      "longitude": 8.4239055,
+      "viewport": {
+        "northeast": {
+          "lat": 11.782702,
+          "lng": 8.43916
+        },
+        "southwest": {
+          "lat": 11.7615909,
+          "lng": 8.414935
+        }
+      },
+      "formatted_address": "711101, Kura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7701438,8.4239055",
+      "google_place_id": "ChIJnbXoN3jSrRER75qRM6Ts-VI"
+    }
+  },
+  {
+    "id": "90787",
+    "name": "KOSAWA BUGAU",
+    "registration_area_id": "4634",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "19/27/06/015",
+    "remark": "EXISTING PU",
+    "ward_id": "4634",
+    "ward_name": "KOSAWA",
+    "local_government_id": "396",
+    "local_government_name": "KURA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7419762,
+      "longitude": 8.4733182,
+      "viewport": {
+        "northeast": {
+          "lat": 11.74335217989272,
+          "lng": 8.474687329892722
+        },
+        "southwest": {
+          "lat": 11.74065252010728,
+          "lng": 8.471987670107278
+        }
+      },
+      "formatted_address": "7F3CPFRF+Q8Q Kosawa Kano, Bigau, 711101, Kura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7419762,8.4733182",
+      "google_place_id": "ChIJ4-ABbtHNrRER1P5HPeyaQUY"
+    }
+  },
+  {
+    "id": "90788",
+    "name": "SHINKAFI",
+    "registration_area_id": "4634",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "19/27/06/016",
+    "remark": "EXISTING PU",
+    "ward_id": "4634",
+    "ward_name": "KOSAWA",
+    "local_government_id": "396",
+    "local_government_name": "KURA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0006033,
+      "longitude": 8.485408099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00185872989272,
+          "lng": 8.486975579892723
+        },
+        "southwest": {
+          "lat": 11.99915907010728,
+          "lng": 8.48427592010728
+        }
+      },
+      "formatted_address": "Kofar Kansakali 700282, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0006033,8.485408099999999",
+      "google_place_id": "ChIJYVv9SJ2ArhERvzK0oc7eZpY"
+    }
+  },
+  {
+    "id": "90789",
+    "name": "UNGUWAR SARKI",
+    "registration_area_id": "4634",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "19/27/06/017",
+    "remark": "EXISTING PU",
+    "ward_id": "4634",
+    "ward_name": "KOSAWA",
+    "local_government_id": "396",
+    "local_government_name": "KURA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "90790",
+    "name": "IMAWA FEGI",
+    "registration_area_id": "4634",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "19/27/06/018",
+    "remark": "NEW PU",
+    "ward_id": "4634",
+    "ward_name": "KOSAWA",
+    "local_government_id": "396",
+    "local_government_name": "KURA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7962773,
+      "longitude": 8.457980899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79789067989272,
+          "lng": 8.45937057989272
+        },
+        "southwest": {
+          "lat": 11.79519102010728,
+          "lng": 8.456670920107277
+        }
+      },
+      "formatted_address": "7F3CQFW5+G59 Imawa Kosawa Kano, Kura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7962773,8.457980899999999",
+      "google_place_id": "ChIJhdJY81XTrRERfvgrFQGEeoA"
+    }
+  },
+  {
+    "id": "90791",
+    "name": "IMAWA KUDU II",
+    "registration_area_id": "4634",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "19/27/06/019",
+    "remark": "NEW PU",
+    "ward_id": "4634",
+    "ward_name": "KOSAWA",
+    "local_government_id": "396",
+    "local_government_name": "KURA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7962773,
+      "longitude": 8.457980899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79789067989272,
+          "lng": 8.45937057989272
+        },
+        "southwest": {
+          "lat": 11.79519102010728,
+          "lng": 8.456670920107277
+        }
+      },
+      "formatted_address": "7F3CQFW5+G59 Imawa Kosawa Kano, Kura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7962773,8.457980899999999",
+      "google_place_id": "ChIJhdJY81XTrRERfvgrFQGEeoA"
+    }
+  }
+]

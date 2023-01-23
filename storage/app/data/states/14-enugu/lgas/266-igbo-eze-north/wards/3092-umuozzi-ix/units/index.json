@@ -1,0 +1,398 @@
+[
+  {
+    "id": "57133",
+    "name": "ICHAMA",
+    "registration_area_id": "3092",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "14/08/19/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3092",
+    "ward_name": "UMUOZZI IX",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 7.0802061,
+      "longitude": 7.451742299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.081612979892721,
+          "lng": 7.453041479892723
+        },
+        "southwest": {
+          "lat": 7.078913320107278,
+          "lng": 7.450341820107279
+        }
+      },
+      "formatted_address": "Ichama Primary School, 413104, Ebiega Ette, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0802061,7.451742299999999",
+      "google_place_id": "ChIJkRmvSswhRRAR7aphJlxEp6c"
+    }
+  },
+  {
+    "id": "57134",
+    "name": "OGBO OKOROBO",
+    "registration_area_id": "3092",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "14/08/19/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3092",
+    "ward_name": "UMUOZZI IX",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 7.060050899999999,
+      "longitude": 7.465182799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.088732500000001,
+          "lng": 7.50314
+        },
+        "southwest": {
+          "lat": 7.0425808,
+          "lng": 7.4300066
+        }
+      },
+      "formatted_address": "Umuozzi IX, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.060050899999999,7.465182799999999",
+      "google_place_id": "ChIJPUOlYE8gRRAR6hFtAP-rI6U"
+    }
+  },
+  {
+    "id": "57135",
+    "name": "C.P.S. UMUOPU I",
+    "registration_area_id": "3092",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "14/08/19/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3092",
+    "ward_name": "UMUOZZI IX",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 7.0663081,
+      "longitude": 7.4475654,
+      "viewport": {
+        "northeast": {
+          "lat": 7.06780822989272,
+          "lng": 7.448949979892722
+        },
+        "southwest": {
+          "lat": 7.065108570107276,
+          "lng": 7.446250320107278
+        }
+      },
+      "formatted_address": "Nsuka, 413105, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0663081,7.4475654",
+      "google_place_id": "ChIJY_ZQjS8gRRARpcHVQcZkjhQ"
+    }
+  },
+  {
+    "id": "57136",
+    "name": "C.P.S. UMUOPU II",
+    "registration_area_id": "3092",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "14/08/19/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3092",
+    "ward_name": "UMUOZZI IX",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 7.0663081,
+      "longitude": 7.4475654,
+      "viewport": {
+        "northeast": {
+          "lat": 7.06780822989272,
+          "lng": 7.448949979892722
+        },
+        "southwest": {
+          "lat": 7.065108570107276,
+          "lng": 7.446250320107278
+        }
+      },
+      "formatted_address": "Nsuka, 413105, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0663081,7.4475654",
+      "google_place_id": "ChIJY_ZQjS8gRRARpcHVQcZkjhQ"
+    }
+  },
+  {
+    "id": "57137",
+    "name": "C.P.S. UMUOPU UMUEZE",
+    "registration_area_id": "3092",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "14/08/19/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3092",
+    "ward_name": "UMUOZZI IX",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 7.0663081,
+      "longitude": 7.4475654,
+      "viewport": {
+        "northeast": {
+          "lat": 7.06780822989272,
+          "lng": 7.448949979892722
+        },
+        "southwest": {
+          "lat": 7.065108570107276,
+          "lng": 7.446250320107278
+        }
+      },
+      "formatted_address": "Nsuka, 413105, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0663081,7.4475654",
+      "google_place_id": "ChIJY_ZQjS8gRRARpcHVQcZkjhQ"
+    }
+  },
+  {
+    "id": "57138",
+    "name": "C.P.S. AGUEGO UMUOPU",
+    "registration_area_id": "3092",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "14/08/19/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3092",
+    "ward_name": "UMUOZZI IX",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 7.0663081,
+      "longitude": 7.4475654,
+      "viewport": {
+        "northeast": {
+          "lat": 7.06780822989272,
+          "lng": 7.448949979892722
+        },
+        "southwest": {
+          "lat": 7.065108570107276,
+          "lng": 7.446250320107278
+        }
+      },
+      "formatted_address": "Nsuka, 413105, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0663081,7.4475654",
+      "google_place_id": "ChIJY_ZQjS8gRRARpcHVQcZkjhQ"
+    }
+  },
+  {
+    "id": "57139",
+    "name": "NKWO ODEJA",
+    "registration_area_id": "3092",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "14/08/19/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3092",
+    "ward_name": "UMUOZZI IX",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 7.0245107,
+      "longitude": 7.518902400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.025854229892722,
+          "lng": 7.520249429892721
+        },
+        "southwest": {
+          "lat": 7.023154570107279,
+          "lng": 7.517549770107277
+        }
+      },
+      "formatted_address": "2GF9+RH2, 413106, Enugu-ezike, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0245107,7.518902400000001",
+      "google_place_id": "ChIJ7d-geFHfRBAR17VisT621Tk"
+    }
+  },
+  {
+    "id": "57140",
+    "name": "UMU AZEGBA HALL",
+    "registration_area_id": "3092",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "14/08/19/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3092",
+    "ward_name": "UMUOZZI IX",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 7.0663081,
+      "longitude": 7.4475654,
+      "viewport": {
+        "northeast": {
+          "lat": 7.06780822989272,
+          "lng": 7.448949979892722
+        },
+        "southwest": {
+          "lat": 7.065108570107276,
+          "lng": 7.446250320107278
+        }
+      },
+      "formatted_address": "Nsuka, 413105, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0663081,7.4475654",
+      "google_place_id": "ChIJY_ZQjS8gRRARpcHVQcZkjhQ"
+    }
+  },
+  {
+    "id": "57141",
+    "name": "C.P.S. AGUEGO UMUOPU",
+    "registration_area_id": "3092",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "14/08/19/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3092",
+    "ward_name": "UMUOZZI IX",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 7.0663081,
+      "longitude": 7.4475654,
+      "viewport": {
+        "northeast": {
+          "lat": 7.06780822989272,
+          "lng": 7.448949979892722
+        },
+        "southwest": {
+          "lat": 7.065108570107276,
+          "lng": 7.446250320107278
+        }
+      },
+      "formatted_address": "Nsuka, 413105, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0663081,7.4475654",
+      "google_place_id": "ChIJY_ZQjS8gRRARpcHVQcZkjhQ"
+    }
+  },
+  {
+    "id": "57142",
+    "name": "C.S.S. UMUOPU",
+    "registration_area_id": "3092",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "14/08/19/010",
+    "remark": "NEW PU",
+    "ward_id": "3092",
+    "ward_name": "UMUOZZI IX",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 7.0663081,
+      "longitude": 7.4475654,
+      "viewport": {
+        "northeast": {
+          "lat": 7.06780822989272,
+          "lng": 7.448949979892722
+        },
+        "southwest": {
+          "lat": 7.065108570107276,
+          "lng": 7.446250320107278
+        }
+      },
+      "formatted_address": "Nsuka, 413105, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0663081,7.4475654",
+      "google_place_id": "ChIJY_ZQjS8gRRARpcHVQcZkjhQ"
+    }
+  },
+  {
+    "id": "57143",
+    "name": "UMUEZE HALL",
+    "registration_area_id": "3092",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "14/08/19/011",
+    "remark": "NEW PU",
+    "ward_id": "3092",
+    "ward_name": "UMUOZZI IX",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 7.0663081,
+      "longitude": 7.4475654,
+      "viewport": {
+        "northeast": {
+          "lat": 7.06780822989272,
+          "lng": 7.448949979892722
+        },
+        "southwest": {
+          "lat": 7.065108570107276,
+          "lng": 7.446250320107278
+        }
+      },
+      "formatted_address": "Nsuka, 413105, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0663081,7.4475654",
+      "google_place_id": "ChIJY_ZQjS8gRRARpcHVQcZkjhQ"
+    }
+  },
+  {
+    "id": "57144",
+    "name": "ULONCHE UZOEGO",
+    "registration_area_id": "3092",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "14/08/19/012",
+    "remark": "NEW PU",
+    "ward_id": "3092",
+    "ward_name": "UMUOZZI IX",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 7.0663081,
+      "longitude": 7.4475654,
+      "viewport": {
+        "northeast": {
+          "lat": 7.06780822989272,
+          "lng": 7.448949979892722
+        },
+        "southwest": {
+          "lat": 7.065108570107276,
+          "lng": 7.446250320107278
+        }
+      },
+      "formatted_address": "Nsuka, 413105, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0663081,7.4475654",
+      "google_place_id": "ChIJY_ZQjS8gRRARpcHVQcZkjhQ"
+    }
+  }
+]

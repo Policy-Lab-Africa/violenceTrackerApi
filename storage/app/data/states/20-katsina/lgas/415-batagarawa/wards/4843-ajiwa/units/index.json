@@ -1,0 +1,651 @@
+[
+  {
+    "id": "95391",
+    "name": "BARHIN SHAISKAWA - BARHIN SHAISKAWA",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/02/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95392",
+    "name": "BARHIN TUDU - BARHIN TUDU",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/02/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95393",
+    "name": "BARHIN B/GIDA - BARHIN B.GIDA",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/02/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9826117,
+      "longitude": 7.6153612,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98400407989272,
+          "lng": 7.616643929892724
+        },
+        "southwest": {
+          "lat": 12.98130442010728,
+          "lng": 7.61394427010728
+        }
+      },
+      "formatted_address": "Mani house, 820221, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9826117,7.6153612",
+      "google_place_id": "ChIJH3mkA_ojsBERKyDPZt0i6TI"
+    }
+  },
+  {
+    "id": "95394",
+    "name": "BARHIN MASAKAS- BARHIN MASAKA",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/02/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95395",
+    "name": "BANI IZA - BEHIND M/UNGUWA",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/02/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95396",
+    "name": "MAKERA - GIDAN TAKI",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/02/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95397",
+    "name": "MAJEN AUDU - MAJE",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/02/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9815608,
+      "longitude": 7.622266499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98290287989272,
+          "lng": 7.62356807989272
+        },
+        "southwest": {
+          "lat": 12.98020322010728,
+          "lng": 7.620868420107276
+        }
+      },
+      "formatted_address": "Tsohuwar unguwa, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9815608,7.622266499999999",
+      "google_place_id": "ChIJQYyq_0ojsBERNbTyLAPfzCc"
+    }
+  },
+  {
+    "id": "95398",
+    "name": "MAJEN AUDU GARI  MAJE GARI",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/02/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95399",
+    "name": "AJIWA U/BATURE U/BATURE",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/02/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9610597,
+      "longitude": 7.7454987,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96241437989272,
+          "lng": 7.746852029892721
+        },
+        "southwest": {
+          "lat": 12.95971472010728,
+          "lng": 7.744152370107277
+        }
+      },
+      "formatted_address": "XP6W+C5H, Unnamed Road, 820102, Ajiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9610597,7.7454987",
+      "google_place_id": "ChIJMyP_sMUnsBERzmvmtZs92fE"
+    }
+  },
+  {
+    "id": "95400",
+    "name": "UNG GARBAS- UNG GARBAS",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/02/04/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95401",
+    "name": "YAR RAKUMMA - YAR RAKUMMA",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/02/04/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8858107,
+      "longitude": 7.573478299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.88716052989272,
+          "lng": 7.574828129892721
+        },
+        "southwest": {
+          "lat": 12.88446087010728,
+          "lng": 7.572128470107277
+        }
+      },
+      "formatted_address": "VHXR+MHM, 820102, Batagarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8858107,7.573478299999999",
+      "google_place_id": "ChIJ7azaoYU6sBERvhyNTxP4GxQ"
+    }
+  },
+  {
+    "id": "95402",
+    "name": "SABON GARIN - NAIRA - SABON GARIN-NAIRA",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "20/02/04/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9746132,
+      "longitude": 7.6262974,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97599402989272,
+          "lng": 7.627769329892722
+        },
+        "southwest": {
+          "lat": 12.97329437010728,
+          "lng": 7.625069670107278
+        }
+      },
+      "formatted_address": "XJFG+RFQ, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9746132,7.6262974",
+      "google_place_id": "ChIJsXc8alkjsBERhb-9vV8SPmI"
+    }
+  },
+  {
+    "id": "95403",
+    "name": "AJIWA KURTUFA - AJIWA KURTUFA",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "20/02/04/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9467912,
+      "longitude": 7.679812499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.94811862989272,
+          "lng": 7.681163579892721
+        },
+        "southwest": {
+          "lat": 12.94541897010728,
+          "lng": 7.678463920107277
+        }
+      },
+      "formatted_address": "WMWH+PW7, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9467912,7.679812499999999",
+      "google_place_id": "ChIJq-64mRUksBERjoP5BbujtDE"
+    }
+  },
+  {
+    "id": "95404",
+    "name": "SHAGUMBA - SHAGUMBA",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "20/02/04/014",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9826117,
+      "longitude": 7.6153612,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98400407989272,
+          "lng": 7.616643929892724
+        },
+        "southwest": {
+          "lat": 12.98130442010728,
+          "lng": 7.61394427010728
+        }
+      },
+      "formatted_address": "Mani house, 820221, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9826117,7.6153612",
+      "google_place_id": "ChIJH3mkA_ojsBERKyDPZt0i6TI"
+    }
+  },
+  {
+    "id": "95405",
+    "name": "AJIWA SHAGUMBA - CIKIN GARI",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "20/02/04/015",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9610597,
+      "longitude": 7.7454987,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96241437989272,
+          "lng": 7.746852029892721
+        },
+        "southwest": {
+          "lat": 12.95971472010728,
+          "lng": 7.744152370107277
+        }
+      },
+      "formatted_address": "XP6W+C5H, Unnamed Road, 820102, Ajiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9610597,7.7454987",
+      "google_place_id": "ChIJMyP_sMUnsBERzmvmtZs92fE"
+    }
+  },
+  {
+    "id": "95406",
+    "name": "KURTUFA - G/MAI UNGUWA",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "20/02/04/016",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.941527,
+      "longitude": 7.604441,
+      "viewport": {
+        "northeast": {
+          "lat": 12.94287682989272,
+          "lng": 7.605790829892721
+        },
+        "southwest": {
+          "lat": 12.94017717010728,
+          "lng": 7.603091170107278
+        }
+      },
+      "formatted_address": "Amadi, Katsina-Kurfi Road, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.941527,7.604441",
+      "google_place_id": "ChIJFWGDZtA7sBERd6npPg730W0"
+    }
+  },
+  {
+    "id": "95407",
+    "name": "SHAIRI - SHAIRI",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "20/02/04/017",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95408",
+    "name": "SHANTALI- SHANTALI",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "20/02/04/018",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9605,
+      "longitude": 7.741,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96171142989273,
+          "lng": 7.742122429892722
+        },
+        "southwest": {
+          "lat": 12.95901177010728,
+          "lng": 7.739422770107278
+        }
+      },
+      "formatted_address": "XP6R+59X, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9605,7.741",
+      "google_place_id": "ChIJeaL3BdYmsBERXRT8P7YhpN4"
+    }
+  },
+  {
+    "id": "95409",
+    "name": "AJIWA GARI - AJIWA GARI",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "20/02/04/019",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9783587,
+      "longitude": 7.730807,
+      "viewport": {
+        "northeast": {
+          "lat": 13.007829,
+          "lng": 7.761687999999999
+        },
+        "southwest": {
+          "lat": 12.9370772,
+          "lng": 7.631730200000001
+        }
+      },
+      "formatted_address": "Ajiwa, 820102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9783587,7.730807",
+      "google_place_id": "ChIJVVwIa_4jsBER8H6qrseuMQ4"
+    }
+  },
+  {
+    "id": "95410",
+    "name": "AJIWA SHANTAU - UNG LIMAN",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "20/02/04/020",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95411",
+    "name": "BANI IZA GARI - B/IZA GARI",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "20/02/04/021",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95412",
+    "name": "MAKERA /  UNG. / LINGU MAKERA",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "20/02/04/022",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95413",
+    "name": "SHAGUMBA - SHAGUMBA O.S",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "20/02/04/023",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9826117,
+      "longitude": 7.6153612,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98400407989272,
+          "lng": 7.616643929892724
+        },
+        "southwest": {
+          "lat": 12.98130442010728,
+          "lng": 7.61394427010728
+        }
+      },
+      "formatted_address": "Mani house, 820221, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9826117,7.6153612",
+      "google_place_id": "ChIJH3mkA_ojsBERKyDPZt0i6TI"
+    }
+  },
+  {
+    "id": "95414",
+    "name": "AJIWA - AJIWA GARI O.S.",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "20/02/04/024",
+    "remark": "EXISTING PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9610597,
+      "longitude": 7.7454987,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96241437989272,
+          "lng": 7.746852029892721
+        },
+        "southwest": {
+          "lat": 12.95971472010728,
+          "lng": 7.744152370107277
+        }
+      },
+      "formatted_address": "XP6W+C5H, Unnamed Road, 820102, Ajiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9610597,7.7454987",
+      "google_place_id": "ChIJMyP_sMUnsBERzmvmtZs92fE"
+    }
+  },
+  {
+    "id": "95415",
+    "name": "BARHIM HOUSING ESTATE PRI. SCH.",
+    "registration_area_id": "4843",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "20/02/04/025",
+    "remark": "NEW PU",
+    "ward_id": "4843",
+    "ward_name": "AJIWA",
+    "local_government_id": "415",
+    "local_government_name": "BATAGARAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9665289,
+      "longitude": 7.646261000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96794927989272,
+          "lng": 7.647556479892723
+        },
+        "southwest": {
+          "lat": 12.96524962010728,
+          "lng": 7.644856820107279
+        }
+      },
+      "formatted_address": "XJ8W+HGJ, Mani Rd, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9665289,7.646261000000001",
+      "google_place_id": "ChIJHdoiAoMksBERTeR6b7SKMrI"
+    }
+  }
+]

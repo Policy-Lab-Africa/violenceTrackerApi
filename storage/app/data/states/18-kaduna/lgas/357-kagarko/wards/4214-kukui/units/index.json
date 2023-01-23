@@ -1,0 +1,285 @@
+[
+  {
+    "id": "80281",
+    "name": "KUKUI I/ PRI.SCH. KUKUI",
+    "registration_area_id": "4214",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "18/11/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4214",
+    "ward_name": "KUKUI",
+    "local_government_id": "357",
+    "local_government_name": "KAGARKO",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.475837,
+      "longitude": 7.457390399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.47719477989272,
+          "lng": 7.458722879892723
+        },
+        "southwest": {
+          "lat": 10.47449512010728,
+          "lng": 7.456023220107279
+        }
+      },
+      "formatted_address": "FFG4+8XM, Bayan Dutse, Narayi, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.475837,7.457390399999999",
+      "google_place_id": "ChIJ0TamuX5LTRARWiYzWEJrW8w"
+    }
+  },
+  {
+    "id": "80282",
+    "name": "KUSAM/ PRI.SCH. KUSAM",
+    "registration_area_id": "4214",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "18/11/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4214",
+    "ward_name": "KUKUI",
+    "local_government_id": "357",
+    "local_government_name": "KAGARKO",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.3592411,
+      "longitude": 7.783881399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.360590929892721,
+          "lng": 7.785231229892723
+        },
+        "southwest": {
+          "lat": 9.357891270107277,
+          "lng": 7.782531570107279
+        }
+      },
+      "formatted_address": "6FX99Q5M+PG4 kusam 3 Kukui, Koso, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3592411,7.783881399999999",
+      "google_place_id": "ChIJD6f2PDj3TRARxUYbWIDhHFU"
+    }
+  },
+  {
+    "id": "80283",
+    "name": "KUKOK/ K/M UNGUWA",
+    "registration_area_id": "4214",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "18/11/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4214",
+    "ward_name": "KUKUI",
+    "local_government_id": "357",
+    "local_government_name": "KAGARKO",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "80284",
+    "name": "KUBERE/ K/M UNGUWA",
+    "registration_area_id": "4214",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "18/11/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4214",
+    "ward_name": "KUKUI",
+    "local_government_id": "357",
+    "local_government_name": "KAGARKO",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "80285",
+    "name": "ICCE/BISA/ K/M UNGUWA",
+    "registration_area_id": "4214",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "18/11/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4214",
+    "ward_name": "KUKUI",
+    "local_government_id": "357",
+    "local_government_name": "KAGARKO",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "80286",
+    "name": "KUCH/KUSAM II/ K/M UNGUWA",
+    "registration_area_id": "4214",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "18/11/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4214",
+    "ward_name": "KUKUI",
+    "local_government_id": "357",
+    "local_government_name": "KAGARKO",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "80287",
+    "name": "KUKUI II/ K/M UNGUWA",
+    "registration_area_id": "4214",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "18/11/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4214",
+    "ward_name": "KUKUI",
+    "local_government_id": "357",
+    "local_government_name": "KAGARKO",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "80288",
+    "name": "CHIGWA/ K/M UNGUWA",
+    "registration_area_id": "4214",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "18/11/10/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4214",
+    "ward_name": "KUKUI",
+    "local_government_id": "357",
+    "local_government_name": "KAGARKO",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.491833999999999,
+      "longitude": 7.6902034,
+      "viewport": {
+        "northeast": {
+          "lat": 9.493382879892721,
+          "lng": 7.69198907989272
+        },
+        "southwest": {
+          "lat": 9.490683220107277,
+          "lng": 7.689289420107276
+        }
+      },
+      "formatted_address": "Kaduna state kagarko Loca government area Makama street, Kagarko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.491833999999999,7.6902034",
+      "google_place_id": "ChIJz9IyHZuMTRARdoRBUNhp2ww"
+    }
+  },
+  {
+    "id": "80289",
+    "name": "GSS KUKUI",
+    "registration_area_id": "4214",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "18/11/10/009",
+    "remark": "NEW PU",
+    "ward_id": "4214",
+    "ward_name": "KUKUI",
+    "local_government_id": "357",
+    "local_government_name": "KAGARKO",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.3824315,
+      "longitude": 7.8306931,
+      "viewport": {
+        "northeast": {
+          "lat": 9.38390622989272,
+          "lng": 7.832256729892722
+        },
+        "southwest": {
+          "lat": 9.381206570107276,
+          "lng": 7.829557070107279
+        }
+      },
+      "formatted_address": "6FX99RJJ+X7G kukui Kaduna, kukui, Koso 802103, Kukui, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3824315,7.8306931",
+      "google_place_id": "ChIJP8Rz5dALUhAR-hjuy_vbESM"
+    }
+  },
+  {
+    "id": "80290",
+    "name": "PRI. HEALTH CARE KUSAM",
+    "registration_area_id": "4214",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "18/11/10/010",
+    "remark": "NEW PU",
+    "ward_id": "4214",
+    "ward_name": "KUKUI",
+    "local_government_id": "357",
+    "local_government_name": "KAGARKO",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.4933404,
+      "longitude": 7.688468,
+      "viewport": {
+        "northeast": {
+          "lat": 9.494613329892722,
+          "lng": 7.689632729892723
+        },
+        "southwest": {
+          "lat": 9.491913670107278,
+          "lng": 7.686933070107279
+        }
+      },
+      "formatted_address": "FMVQ+89P, 802113, Kagarko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4933404,7.688468",
+      "google_place_id": "ChIJN-0_t5qMTRARYuVn42qElBs"
+    }
+  },
+  {
+    "id": "80291",
+    "name": "LEA PRI. SCH. ICHE KASSA",
+    "registration_area_id": "4214",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "18/11/10/011",
+    "remark": "NEW PU",
+    "ward_id": "4214",
+    "ward_name": "KUKUI",
+    "local_government_id": "357",
+    "local_government_name": "KAGARKO",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5104795,
+      "longitude": 7.416459199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51181647989272,
+          "lng": 7.417842829892722
+        },
+        "southwest": {
+          "lat": 10.50911682010728,
+          "lng": 7.415143170107278
+        }
+      },
+      "formatted_address": "19 Hausawa Rd, Kakuri 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5104795,7.416459199999999",
+      "google_place_id": "ChIJf-ahgB6IUhARzLD6HgKmIEE"
+    }
+  }
+]

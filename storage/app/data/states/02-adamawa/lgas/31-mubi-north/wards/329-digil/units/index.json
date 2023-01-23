@@ -1,0 +1,398 @@
+[
+  {
+    "id": "6486",
+    "name": "BATANDE/ BATANDE",
+    "registration_area_id": "329",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "02/14/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "329",
+    "ward_name": "DIGIL",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.3555471,
+      "longitude": 13.2362304,
+      "viewport": {
+        "northeast": {
+          "lat": 10.3588131,
+          "lng": 13.23753527989272
+        },
+        "southwest": {
+          "lat": 10.354646,
+          "lng": 13.23483562010728
+        }
+      },
+      "formatted_address": "650112, Batande, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3555471,13.2362304",
+      "google_place_id": "ChIJhQDSwpCgAhERSkHxA92t3mk"
+    }
+  },
+  {
+    "id": "6487",
+    "name": "DIDIF PRI. SCH./ DIDIF",
+    "registration_area_id": "329",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "02/14/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "329",
+    "ward_name": "DIGIL",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.3703081,
+      "longitude": 13.2300095,
+      "viewport": {
+        "northeast": {
+          "lat": 10.37157212989272,
+          "lng": 13.23141822989272
+        },
+        "southwest": {
+          "lat": 10.36887247010728,
+          "lng": 13.22871857010728
+        }
+      },
+      "formatted_address": "Didif Primary School, 650112, Dogulduma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3703081,13.2300095",
+      "google_place_id": "ChIJR4X9PvKgAhER3fze9o_HpTQ"
+    }
+  },
+  {
+    "id": "6488",
+    "name": "DIGIL PRI. SCH./ LESSWURO",
+    "registration_area_id": "329",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "02/14/03/003",
+    "remark": "EXISTING PU",
+    "ward_id": "329",
+    "ward_name": "DIGIL",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.3189836,
+      "longitude": 13.2635522,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32036462989272,
+          "lng": 13.26490022989272
+        },
+        "southwest": {
+          "lat": 10.31766497010728,
+          "lng": 13.26220057010728
+        }
+      },
+      "formatted_address": "Lesswuro Primary School, 650112, Digil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3189836,13.2635522",
+      "google_place_id": "ChIJwdNpCjVf_RAR4HT1kl_y664"
+    }
+  },
+  {
+    "id": "6489",
+    "name": "HURIDA PRI. SCH./ HURIDA",
+    "registration_area_id": "329",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "02/14/03/004",
+    "remark": "EXISTING PU",
+    "ward_id": "329",
+    "ward_name": "DIGIL",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2926729,
+      "longitude": 13.2639849,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29409477989272,
+          "lng": 13.26533022989272
+        },
+        "southwest": {
+          "lat": 10.29139512010728,
+          "lng": 13.26263057010728
+        }
+      },
+      "formatted_address": "77V7+3H9, 650112, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2926729,13.2639849",
+      "google_place_id": "ChIJ1SCpe9Ne_RARNZMeHFI5NeE"
+    }
+  },
+  {
+    "id": "6490",
+    "name": "KOFAR ARDO MARAFA/ DOUWURO",
+    "registration_area_id": "329",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "02/14/03/005",
+    "remark": "EXISTING PU",
+    "ward_id": "329",
+    "ward_name": "DIGIL",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
+  },
+  {
+    "id": "6491",
+    "name": "KOFAR JAURO YAZA/ YAZA",
+    "registration_area_id": "329",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "02/14/03/006",
+    "remark": "EXISTING PU",
+    "ward_id": "329",
+    "ward_name": "DIGIL",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
+  },
+  {
+    "id": "6492",
+    "name": "MUCHALLARE/ MUCHALLARE",
+    "registration_area_id": "329",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "02/14/03/007",
+    "remark": "EXISTING PU",
+    "ward_id": "329",
+    "ward_name": "DIGIL",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.3214553,
+      "longitude": 13.2432632,
+      "viewport": {
+        "northeast": {
+          "lat": 10.3875234,
+          "lng": 13.2878323
+        },
+        "southwest": {
+          "lat": 10.2855143,
+          "lng": 13.1642087
+        }
+      },
+      "formatted_address": "Digil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3214553,13.2432632",
+      "google_place_id": "ChIJWQLs13tf_RAR_GS1Vp05Yu4"
+    }
+  },
+  {
+    "id": "6493",
+    "name": "WURO BARKA/ WURO BARKA",
+    "registration_area_id": "329",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "02/14/03/008",
+    "remark": "EXISTING PU",
+    "ward_id": "329",
+    "ward_name": "DIGIL",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.3019253,
+      "longitude": 13.2487231,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30327327989272,
+          "lng": 13.24995517989272
+        },
+        "southwest": {
+          "lat": 10.30057362010728,
+          "lng": 13.24725552010728
+        }
+      },
+      "formatted_address": "862X+QFH, 650112, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3019253,13.2487231",
+      "google_place_id": "ChIJxdzC1SBf_RAR5CIli3XDojM"
+    }
+  },
+  {
+    "id": "6494",
+    "name": "WURO HARDE PRI. SCH./ WURO HARDE",
+    "registration_area_id": "329",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "02/14/03/009",
+    "remark": "EXISTING PU",
+    "ward_id": "329",
+    "ward_name": "DIGIL",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2926729,
+      "longitude": 13.2639849,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29409477989272,
+          "lng": 13.26533022989272
+        },
+        "southwest": {
+          "lat": 10.29139512010728,
+          "lng": 13.26263057010728
+        }
+      },
+      "formatted_address": "77V7+3H9, 650112, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2926729,13.2639849",
+      "google_place_id": "ChIJ1SCpe9Ne_RARNZMeHFI5NeE"
+    }
+  },
+  {
+    "id": "6495",
+    "name": "HURIDA PRI. SCH./ HURIDA I",
+    "registration_area_id": "329",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "02/14/03/010",
+    "remark": "NEW PU",
+    "ward_id": "329",
+    "ward_name": "DIGIL",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2926729,
+      "longitude": 13.2639849,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29409477989272,
+          "lng": 13.26533022989272
+        },
+        "southwest": {
+          "lat": 10.29139512010728,
+          "lng": 13.26263057010728
+        }
+      },
+      "formatted_address": "77V7+3H9, 650112, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2926729,13.2639849",
+      "google_place_id": "ChIJ1SCpe9Ne_RARNZMeHFI5NeE"
+    }
+  },
+  {
+    "id": "6496",
+    "name": "KASUWAN DIGIL OPEN SPACE",
+    "registration_area_id": "329",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "02/14/03/011",
+    "remark": "NEW PU",
+    "ward_id": "329",
+    "ward_name": "DIGIL",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
+  },
+  {
+    "id": "6497",
+    "name": "SABON GARI TRANSFORMER NEAR BORE HOLE",
+    "registration_area_id": "329",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "02/14/03/012",
+    "remark": "NEW PU",
+    "ward_id": "329",
+    "ward_name": "DIGIL",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2850855,
+      "longitude": 13.2717327,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28644442989272,
+          "lng": 13.27310967989272
+        },
+        "southwest": {
+          "lat": 10.28374477010728,
+          "lng": 13.27041002010728
+        }
+      },
+      "formatted_address": "Jambass road Mubi G. R. A, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2850855,13.2717327",
+      "google_place_id": "ChIJgQe1SdFZ_RARzQ8SjCnCu2c"
+    }
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "id": "351124",
+    "name": "PAPANLA",
+    "registration_area_id": "17931",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "29/22/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17931",
+    "ward_name": "ALAPOMU  II",
+    "local_government_id": "619",
+    "local_government_name": "ISOKAN",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.3484113,
+      "longitude": 4.1872178,
+      "viewport": {
+        "northeast": {
+          "lat": 7.349746429892721,
+          "lng": 4.188583529892721
+        },
+        "southwest": {
+          "lat": 7.347046770107277,
+          "lng": 4.185883870107277
+        }
+      },
+      "formatted_address": "85XP+9V8, Off Papa-nla along oke-oko village, Apomu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3484113,4.1872178",
+      "google_place_id": "ChIJHxlef-m5ORARS9SNeHEbW3I"
+    }
+  },
+  {
+    "id": "351125",
+    "name": "MOPA AAYEDUN",
+    "registration_area_id": "17931",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "29/22/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17931",
+    "ward_name": "ALAPOMU  II",
+    "local_government_id": "619",
+    "local_government_name": "ISOKAN",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "351126",
+    "name": "OMO OSU",
+    "registration_area_id": "17931",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "29/22/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17931",
+    "ward_name": "ALAPOMU  II",
+    "local_government_id": "619",
+    "local_government_name": "ISOKAN",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.3241893,
+      "longitude": 4.1846569,
+      "viewport": {
+        "northeast": {
+          "lat": 7.357286,
+          "lng": 4.1906877
+        },
+        "southwest": {
+          "lat": 7.3190035,
+          "lng": 4.1681529
+        }
+      },
+      "formatted_address": "Alapomu I (Odo-Osun), 221105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3241893,4.1846569",
+      "google_place_id": "ChIJsey5fWS5ORARU2SwJ2pj5x8"
+    }
+  },
+  {
+    "id": "351127",
+    "name": "OOSA FARU",
+    "registration_area_id": "17931",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "29/22/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17931",
+    "ward_name": "ALAPOMU  II",
+    "local_government_id": "619",
+    "local_government_name": "ISOKAN",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "351128",
+    "name": "OKE JAGO",
+    "registration_area_id": "17931",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "29/22/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17931",
+    "ward_name": "ALAPOMU  II",
+    "local_government_id": "619",
+    "local_government_name": "ISOKAN",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "351129",
+    "name": "OPEN SPACE OPPOSITE AGBAJE SUPERMARKET FARU",
+    "registration_area_id": "17931",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "29/22/07/006",
+    "remark": "NEW PU",
+    "ward_id": "17931",
+    "ward_name": "ALAPOMU  II",
+    "local_government_id": "619",
+    "local_government_name": "ISOKAN",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.3516428,
+      "longitude": 4.180454,
+      "viewport": {
+        "northeast": {
+          "lat": 7.35297622989272,
+          "lng": 4.181796229892721
+        },
+        "southwest": {
+          "lat": 7.350276570107276,
+          "lng": 4.179096570107277
+        }
+      },
+      "formatted_address": "952J+M54, 221105, Apomu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3516428,4.180454",
+      "google_place_id": "ChIJd8GWDm25ORARsEWbm5Q7k1A"
+    }
+  },
+  {
+    "id": "351130",
+    "name": "KAROUNWI OPEN SPACE  JAGO",
+    "registration_area_id": "17931",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "29/22/07/007",
+    "remark": "NEW PU",
+    "ward_id": "17931",
+    "ward_name": "ALAPOMU  II",
+    "local_government_id": "619",
+    "local_government_name": "ISOKAN",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  }
+]

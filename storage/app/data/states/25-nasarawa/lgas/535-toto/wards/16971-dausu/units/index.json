@@ -1,0 +1,300 @@
+[
+  {
+    "id": "334393",
+    "name": "UTTU",
+    "registration_area_id": "16971",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "25/12/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "16971",
+    "ward_name": "DAUSU",
+    "local_government_id": "535",
+    "local_government_name": "TOTO",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.1676,
+      "longitude": 7.098,
+      "viewport": {
+        "northeast": {
+          "lat": 8.168949829892723,
+          "lng": 7.099349829892722
+        },
+        "southwest": {
+          "lat": 8.16625017010728,
+          "lng": 7.096650170107278
+        }
+      },
+      "formatted_address": "539X+26J, 962105, Nasarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1676,7.098",
+      "google_place_id": "ChIJNWrzK1enTxAR-DU-SHTWQA0"
+    }
+  },
+  {
+    "id": "334394",
+    "name": "AHULLA",
+    "registration_area_id": "16971",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "25/12/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "16971",
+    "ward_name": "DAUSU",
+    "local_government_id": "535",
+    "local_government_name": "TOTO",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "334395",
+    "name": "GBEMIDA",
+    "registration_area_id": "16971",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "25/12/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "16971",
+    "ward_name": "DAUSU",
+    "local_government_id": "535",
+    "local_government_name": "TOTO",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.3884929,
+      "longitude": 7.0887676,
+      "viewport": {
+        "northeast": {
+          "lat": 8.389714929892722,
+          "lng": 7.089869579892722
+        },
+        "southwest": {
+          "lat": 8.387015270107279,
+          "lng": 7.087169920107278
+        }
+      },
+      "formatted_address": "93QQ+9GR, 962106, Toto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3884929,7.0887676",
+      "google_place_id": "ChIJPzgp0RsBTxARG_93waxW9DI"
+    }
+  },
+  {
+    "id": "334396",
+    "name": "DAUSU",
+    "registration_area_id": "16971",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "25/12/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "16971",
+    "ward_name": "DAUSU",
+    "local_government_id": "535",
+    "local_government_name": "TOTO",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.389202,
+      "longitude": 7.078081399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.401674,
+          "lng": 7.092435099999999
+        },
+        "southwest": {
+          "lat": 8.366242999999999,
+          "lng": 7.065493999999999
+        }
+      },
+      "formatted_address": "962106, Toto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.389202,7.078081399999999",
+      "google_place_id": "ChIJd6r7tIEATxARgnz6WjfFJjY"
+    }
+  },
+  {
+    "id": "334397",
+    "name": "YIMOWA",
+    "registration_area_id": "16971",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "25/12/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "16971",
+    "ward_name": "DAUSU",
+    "local_government_id": "535",
+    "local_government_name": "TOTO",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.3884929,
+      "longitude": 7.0887676,
+      "viewport": {
+        "northeast": {
+          "lat": 8.389714929892722,
+          "lng": 7.089869579892722
+        },
+        "southwest": {
+          "lat": 8.387015270107279,
+          "lng": 7.087169920107278
+        }
+      },
+      "formatted_address": "93QQ+9GR, 962106, Toto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3884929,7.0887676",
+      "google_place_id": "ChIJPzgp0RsBTxARG_93waxW9DI"
+    }
+  },
+  {
+    "id": "334398",
+    "name": "UDUA",
+    "registration_area_id": "16971",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "25/12/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "16971",
+    "ward_name": "DAUSU",
+    "local_government_id": "535",
+    "local_government_name": "TOTO",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.440085999999999,
+      "longitude": 7.200580599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.487439,
+          "lng": 7.2610062
+        },
+        "southwest": {
+          "lat": 8.3480701,
+          "lng": 7.1265185
+        }
+      },
+      "formatted_address": "Dausu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.440085999999999,7.200580599999999",
+      "google_place_id": "ChIJHdD0N7OsTxARG6D0JMOCNQk"
+    }
+  },
+  {
+    "id": "334399",
+    "name": "IGWA - PATI",
+    "registration_area_id": "16971",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "25/12/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "16971",
+    "ward_name": "DAUSU",
+    "local_government_id": "535",
+    "local_government_name": "TOTO",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.3884929,
+      "longitude": 7.0887676,
+      "viewport": {
+        "northeast": {
+          "lat": 8.389714929892722,
+          "lng": 7.089869579892722
+        },
+        "southwest": {
+          "lat": 8.387015270107279,
+          "lng": 7.087169920107278
+        }
+      },
+      "formatted_address": "93QQ+9GR, 962106, Toto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3884929,7.0887676",
+      "google_place_id": "ChIJPzgp0RsBTxARG_93waxW9DI"
+    }
+  },
+  {
+    "id": "334400",
+    "name": "GBERI",
+    "registration_area_id": "16971",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "25/12/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "16971",
+    "ward_name": "DAUSU",
+    "local_government_id": "535",
+    "local_government_name": "TOTO",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.3884929,
+      "longitude": 7.0887676,
+      "viewport": {
+        "northeast": {
+          "lat": 8.389714929892722,
+          "lng": 7.089869579892722
+        },
+        "southwest": {
+          "lat": 8.387015270107279,
+          "lng": 7.087169920107278
+        }
+      },
+      "formatted_address": "93QQ+9GR, 962106, Toto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3884929,7.0887676",
+      "google_place_id": "ChIJPzgp0RsBTxARG_93waxW9DI"
+    }
+  },
+  {
+    "id": "334401",
+    "name": "KAMGBO",
+    "registration_area_id": "16971",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "25/12/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "16971",
+    "ward_name": "DAUSU",
+    "local_government_id": "535",
+    "local_government_name": "TOTO",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "334402",
+    "name": "DAUSU EBEKI",
+    "registration_area_id": "16971",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "25/12/05/010",
+    "remark": "NEW PU",
+    "ward_id": "16971",
+    "ward_name": "DAUSU",
+    "local_government_id": "535",
+    "local_government_name": "TOTO",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.1676,
+      "longitude": 7.098,
+      "viewport": {
+        "northeast": {
+          "lat": 8.168949829892723,
+          "lng": 7.099349829892722
+        },
+        "southwest": {
+          "lat": 8.16625017010728,
+          "lng": 7.096650170107278
+        }
+      },
+      "formatted_address": "539X+26J, 962105, Nasarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1676,7.098",
+      "google_place_id": "ChIJNWrzK1enTxAR-DU-SHTWQA0"
+    }
+  }
+]

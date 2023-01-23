@@ -1,0 +1,285 @@
+[
+  {
+    "id": "336197",
+    "name": "YABATAGI",
+    "registration_area_id": "17072",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/08/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17072",
+    "ward_name": "LEMU",
+    "local_government_id": "544",
+    "local_government_name": "GBAKO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.317305,
+      "longitude": 6.0371498,
+      "viewport": {
+        "northeast": {
+          "lat": 9.319924,
+          "lng": 6.0385459
+        },
+        "southwest": {
+          "lat": 9.313535,
+          "lng": 6.033269
+        }
+      },
+      "formatted_address": "912103, Yabatagi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.317305,6.0371498",
+      "google_place_id": "ChIJq9s_qdLCSxARsmNLRGKQI84"
+    }
+  },
+  {
+    "id": "336198",
+    "name": "EWANKO",
+    "registration_area_id": "17072",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/08/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17072",
+    "ward_name": "LEMU",
+    "local_government_id": "544",
+    "local_government_name": "GBAKO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3751175,
+      "longitude": 6.0255508,
+      "viewport": {
+        "northeast": {
+          "lat": 9.376552329892721,
+          "lng": 6.02954065
+        },
+        "southwest": {
+          "lat": 9.373852670107278,
+          "lng": 6.024223650000001
+        }
+      },
+      "formatted_address": "6FX892GG+26H, Ewanko, 912103, Daniya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3751175,6.0255508",
+      "google_place_id": "ChIJcbjAAIPDSxARZuy6X0QzFMo"
+    }
+  },
+  {
+    "id": "336199",
+    "name": "JSS LEMU",
+    "registration_area_id": "17072",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/08/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17072",
+    "ward_name": "LEMU",
+    "local_government_id": "544",
+    "local_government_name": "GBAKO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.4167714,
+      "longitude": 6.0255785,
+      "viewport": {
+        "northeast": {
+          "lat": 9.41827527989272,
+          "lng": 6.02799575
+        },
+        "southwest": {
+          "lat": 9.415575620107276,
+          "lng": 6.02477275
+        }
+      },
+      "formatted_address": "C28G+P64, 912103, Daniya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4167714,6.0255785",
+      "google_place_id": "ChIJFz-AWJ3BSxARvomHrEGs4Us"
+    }
+  },
+  {
+    "id": "336200",
+    "name": "LEMU - TIFIKENCHI",
+    "registration_area_id": "17072",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/08/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17072",
+    "ward_name": "LEMU",
+    "local_government_id": "544",
+    "local_government_name": "GBAKO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336201",
+    "name": "DASA - MASALACHI",
+    "registration_area_id": "17072",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/08/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17072",
+    "ward_name": "LEMU",
+    "local_government_id": "544",
+    "local_government_name": "GBAKO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336202",
+    "name": "MAGI WORO",
+    "registration_area_id": "17072",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/08/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17072",
+    "ward_name": "LEMU",
+    "local_government_id": "544",
+    "local_government_name": "GBAKO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.4372403,
+      "longitude": 6.0279302,
+      "viewport": {
+        "northeast": {
+          "lat": 9.438619079892723,
+          "lng": 6.029257979892721
+        },
+        "southwest": {
+          "lat": 9.435919420107279,
+          "lng": 6.026558320107277
+        }
+      },
+      "formatted_address": "Magi Woro Primary School, 912103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4372403,6.0279302",
+      "google_place_id": "ChIJpc7-zafBSxARnBBdWtZMdMQ"
+    }
+  },
+  {
+    "id": "336203",
+    "name": "EMIWOROGI",
+    "registration_area_id": "17072",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/08/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17072",
+    "ward_name": "LEMU",
+    "local_government_id": "544",
+    "local_government_name": "GBAKO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3936139,
+      "longitude": 6.0361574,
+      "viewport": {
+        "northeast": {
+          "lat": 9.48223,
+          "lng": 6.071554099999999
+        },
+        "southwest": {
+          "lat": 9.2817958,
+          "lng": 5.9925555
+        }
+      },
+      "formatted_address": "Lemu, 912103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3936139,6.0361574",
+      "google_place_id": "ChIJDeHI50nCSxARRfCk494rpRQ"
+    }
+  },
+  {
+    "id": "336204",
+    "name": "TAKO DZUKO",
+    "registration_area_id": "17072",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/08/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17072",
+    "ward_name": "LEMU",
+    "local_government_id": "544",
+    "local_government_name": "GBAKO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336205",
+    "name": "MAJIN PRIMARY SCHOOL",
+    "registration_area_id": "17072",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "26/08/08/009",
+    "remark": "NEW PU",
+    "ward_id": "17072",
+    "ward_name": "LEMU",
+    "local_government_id": "544",
+    "local_government_name": "GBAKO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.400305999999999,
+      "longitude": 6.031816,
+      "viewport": {
+        "northeast": {
+          "lat": 9.40165287989272,
+          "lng": 6.033029279892721
+        },
+        "southwest": {
+          "lat": 9.398953220107277,
+          "lng": 6.030329620107278
+        }
+      },
+      "formatted_address": "6FX8C22J+4PG, 912103, Daniya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.400305999999999,6.031816",
+      "google_place_id": "ChIJB7B_9rrDSxARVwtDWRpHNjU"
+    }
+  },
+  {
+    "id": "336206",
+    "name": "MAMMATI",
+    "registration_area_id": "17072",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "26/08/08/010",
+    "remark": "NEW PU",
+    "ward_id": "17072",
+    "ward_name": "LEMU",
+    "local_government_id": "544",
+    "local_government_name": "GBAKO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336207",
+    "name": "SARKIN ALBASA",
+    "registration_area_id": "17072",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "26/08/08/011",
+    "remark": "NEW PU",
+    "ward_id": "17072",
+    "ward_name": "LEMU",
+    "local_government_id": "544",
+    "local_government_name": "GBAKO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  }
+]

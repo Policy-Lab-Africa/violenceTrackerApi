@@ -1,0 +1,416 @@
+[
+  {
+    "id": "345202",
+    "name": "AGO  AJAYI I, OPEN SPACE AT AGO -AJAYI",
+    "registration_area_id": "17546",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "28/04/14/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17546",
+    "ward_name": "OBA I",
+    "local_government_id": "585",
+    "local_government_name": "AKOKO SOUTH WEST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "345203",
+    "name": "AGO ELEYE I, SPACE AT AGO ELEYE FARM",
+    "registration_area_id": "17546",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "28/04/14/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17546",
+    "ward_name": "OBA I",
+    "local_government_id": "585",
+    "local_government_name": "AKOKO SOUTH WEST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "345204",
+    "name": "IBEWARE I, POST OFFICE PREMISES",
+    "registration_area_id": "17546",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "28/04/14/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17546",
+    "ward_name": "OBA I",
+    "local_government_id": "585",
+    "local_government_name": "AKOKO SOUTH WEST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.3741082,
+      "longitude": 5.7231052,
+      "viewport": {
+        "northeast": {
+          "lat": 7.375438629892722,
+          "lng": 5.724623079892722
+        },
+        "southwest": {
+          "lat": 7.372738970107278,
+          "lng": 5.721923420107278
+        }
+      },
+      "formatted_address": "9PFF+M69, 342106, Oba Akoko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3741082,5.7231052",
+      "google_place_id": "ChIJgzuTAk21RxARhsOy8-bnbJM"
+    }
+  },
+  {
+    "id": "345205",
+    "name": "ODEARIKANSIN I, COMMUNITY PRY SCHOOL",
+    "registration_area_id": "17546",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "28/04/14/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17546",
+    "ward_name": "OBA I",
+    "local_government_id": "585",
+    "local_government_name": "AKOKO SOUTH WEST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.374841699999999,
+      "longitude": 5.7342566,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376547879892721,
+          "lng": 5.735482929892722
+        },
+        "southwest": {
+          "lat": 7.373848220107277,
+          "lng": 5.732783270107278
+        }
+      },
+      "formatted_address": "Idoani-Ikun Oba Rd, 342106, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.374841699999999,5.7342566",
+      "google_place_id": "ChIJh_zP4ctLRhARRVBYgq8Ckyw"
+    }
+  },
+  {
+    "id": "345206",
+    "name": "ODEARIKANSIN II, ARIKANSIN COMPOUND OBA",
+    "registration_area_id": "17546",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "28/04/14/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17546",
+    "ward_name": "OBA I",
+    "local_government_id": "585",
+    "local_government_name": "AKOKO SOUTH WEST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.3754,
+      "longitude": 5.734999999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376986479892722,
+          "lng": 5.736247379892721
+        },
+        "southwest": {
+          "lat": 7.374286820107278,
+          "lng": 5.733547720107278
+        }
+      },
+      "formatted_address": "9PGP+522, 342106, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3754,5.734999999999999",
+      "google_place_id": "ChIJIVTn48tKRhARJtqI0F6-6b4"
+    }
+  },
+  {
+    "id": "345207",
+    "name": "ODEARIKANSIN III, Z-I PRY SCHOOL OBA",
+    "registration_area_id": "17546",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "28/04/14/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17546",
+    "ward_name": "OBA I",
+    "local_government_id": "585",
+    "local_government_name": "AKOKO SOUTH WEST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.369882800000001,
+      "longitude": 5.723046699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.371219529892723,
+          "lng": 5.724400979892722
+        },
+        "southwest": {
+          "lat": 7.368519870107279,
+          "lng": 5.721701320107277
+        }
+      },
+      "formatted_address": "9P9F+X63, Owo - Oba Rd, 342106, Oba Akoko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.369882800000001,5.723046699999999",
+      "google_place_id": "ChIJ-7yuxDG1RxARrxZI6WNpHJM"
+    }
+  },
+  {
+    "id": "345208",
+    "name": "ODEARIKANSIN III, Z-I PRY SCHOOL OBA",
+    "registration_area_id": "17546",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "28/04/14/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17546",
+    "ward_name": "OBA I",
+    "local_government_id": "585",
+    "local_government_name": "AKOKO SOUTH WEST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.369882800000001,
+      "longitude": 5.723046699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.371219529892723,
+          "lng": 5.724400979892722
+        },
+        "southwest": {
+          "lat": 7.368519870107279,
+          "lng": 5.721701320107277
+        }
+      },
+      "formatted_address": "9P9F+X63, Owo - Oba Rd, 342106, Oba Akoko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.369882800000001,5.723046699999999",
+      "google_place_id": "ChIJ-7yuxDG1RxARrxZI6WNpHJM"
+    }
+  },
+  {
+    "id": "345209",
+    "name": "IKUSI I, SAJOWA COMPOUND",
+    "registration_area_id": "17546",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "28/04/14/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17546",
+    "ward_name": "OBA I",
+    "local_government_id": "585",
+    "local_government_name": "AKOKO SOUTH WEST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.386110999999999,
+      "longitude": 5.917777999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.387227079892721,
+          "lng": 5.919234379892722
+        },
+        "southwest": {
+          "lat": 7.384527420107277,
+          "lng": 5.916534720107278
+        }
+      },
+      "formatted_address": "9WP9+C4R, 342117, Shosan Isale, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.386110999999999,5.917777999999999",
+      "google_place_id": "ChIJ-X-FEtJHRhARYaXNe0j1Nuo"
+    }
+  },
+  {
+    "id": "345210",
+    "name": "OKETERE I, OGBOYE COMPOUND",
+    "registration_area_id": "17546",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "28/04/14/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17546",
+    "ward_name": "OBA I",
+    "local_government_id": "585",
+    "local_government_name": "AKOKO SOUTH WEST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.3754,
+      "longitude": 5.734999999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376986479892722,
+          "lng": 5.736247379892721
+        },
+        "southwest": {
+          "lat": 7.374286820107278,
+          "lng": 5.733547720107278
+        }
+      },
+      "formatted_address": "9PGP+522, 342106, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3754,5.734999999999999",
+      "google_place_id": "ChIJIVTn48tKRhARJtqI0F6-6b4"
+    }
+  },
+  {
+    "id": "345211",
+    "name": "OKETERE II, ODOLUWA  COMPOUND",
+    "registration_area_id": "17546",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "28/04/14/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17546",
+    "ward_name": "OBA I",
+    "local_government_id": "585",
+    "local_government_name": "AKOKO SOUTH WEST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.3754,
+      "longitude": 5.734999999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376986479892722,
+          "lng": 5.736247379892721
+        },
+        "southwest": {
+          "lat": 7.374286820107278,
+          "lng": 5.733547720107278
+        }
+      },
+      "formatted_address": "9PGP+522, 342106, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3754,5.734999999999999",
+      "google_place_id": "ChIJIVTn48tKRhARJtqI0F6-6b4"
+    }
+  },
+  {
+    "id": "345212",
+    "name": "L. A. SCHOOL OSE-OBA",
+    "registration_area_id": "17546",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "28/04/14/011",
+    "remark": "EXISTING PU",
+    "ward_id": "17546",
+    "ward_name": "OBA I",
+    "local_government_id": "585",
+    "local_government_name": "AKOKO SOUTH WEST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.374841699999999,
+      "longitude": 5.7342566,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376547879892721,
+          "lng": 5.735482929892722
+        },
+        "southwest": {
+          "lat": 7.373848220107277,
+          "lng": 5.732783270107278
+        }
+      },
+      "formatted_address": "Idoani-Ikun Oba Rd, 342106, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.374841699999999,5.7342566",
+      "google_place_id": "ChIJh_zP4ctLRhARRVBYgq8Ckyw"
+    }
+  },
+  {
+    "id": "345213",
+    "name": "OSE II, NR OSE MOSQUE OSE",
+    "registration_area_id": "17546",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "28/04/14/012",
+    "remark": "EXISTING PU",
+    "ward_id": "17546",
+    "ward_name": "OBA I",
+    "local_government_id": "585",
+    "local_government_name": "AKOKO SOUTH WEST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.519419699999999,
+      "longitude": 5.734981599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.520763129892721,
+          "lng": 5.736330429892721
+        },
+        "southwest": {
+          "lat": 7.518063470107277,
+          "lng": 5.733630770107277
+        }
+      },
+      "formatted_address": "GP9P+Q2F, 342110, Ikare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.519419699999999,5.734981599999999",
+      "google_place_id": "ChIJ3xoTNIozRhARCrwUgIv_O34"
+    }
+  },
+  {
+    "id": "345214",
+    "name": "OSE III, HEALTH CENTRE, OSE",
+    "registration_area_id": "17546",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "28/04/14/013",
+    "remark": "EXISTING PU",
+    "ward_id": "17546",
+    "ward_name": "OBA I",
+    "local_government_id": "585",
+    "local_government_name": "AKOKO SOUTH WEST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.3754,
+      "longitude": 5.734999999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376986479892722,
+          "lng": 5.736247379892721
+        },
+        "southwest": {
+          "lat": 7.374286820107278,
+          "lng": 5.733547720107278
+        }
+      },
+      "formatted_address": "9PGP+522, 342106, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3754,5.734999999999999",
+      "google_place_id": "ChIJIVTn48tKRhARJtqI0F6-6b4"
+    }
+  },
+  {
+    "id": "345215",
+    "name": "IWOYE I, IWOYE FARM SETTLEMENT",
+    "registration_area_id": "17546",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "28/04/14/014",
+    "remark": "EXISTING PU",
+    "ward_id": "17546",
+    "ward_name": "OBA I",
+    "local_government_id": "585",
+    "local_government_name": "AKOKO SOUTH WEST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  }
+]

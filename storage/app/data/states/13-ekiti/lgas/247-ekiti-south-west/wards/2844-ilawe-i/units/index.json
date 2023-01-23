@@ -1,0 +1,350 @@
+[
+  {
+    "id": "53343",
+    "name": "ITAOSE / OYEGBATA ST. ANGELA'S SCH.",
+    "registration_area_id": "2844",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "13/05/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2844",
+    "ward_name": "ILAWE  I",
+    "local_government_id": "247",
+    "local_government_name": "EKITI SOUTH WEST",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.5938764,
+      "longitude": 5.1027388,
+      "viewport": {
+        "northeast": {
+          "lat": 7.595232829892723,
+          "lng": 5.104057579892721
+        },
+        "southwest": {
+          "lat": 7.592533170107279,
+          "lng": 5.101357920107278
+        }
+      },
+      "formatted_address": "polytechnic street, 361102, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5938764,5.1027388",
+      "google_place_id": "ChIJgYy4P835RxARJ-56u4PS_g8"
+    }
+  },
+  {
+    "id": "53344",
+    "name": "TEMIDIRE / CATHOLIC MISSION ST. ANGELA'S SCH",
+    "registration_area_id": "2844",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "13/05/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2844",
+    "ward_name": "ILAWE  I",
+    "local_government_id": "247",
+    "local_government_name": "EKITI SOUTH WEST",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": null
+  },
+  {
+    "id": "53345",
+    "name": "OWAILORO / MAT. CENTRE NEAR OWAILOPO",
+    "registration_area_id": "2844",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "13/05/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2844",
+    "ward_name": "ILAWE  I",
+    "local_government_id": "247",
+    "local_government_name": "EKITI SOUTH WEST",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.614038300000001,
+      "longitude": 5.129699899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.615400429892723,
+          "lng": 5.130980429892722
+        },
+        "southwest": {
+          "lat": 7.61270077010728,
+          "lng": 5.128280770107278
+        }
+      },
+      "formatted_address": "Local Government, Road, 360101, Igbara Odo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.614038300000001,5.129699899999999",
+      "google_place_id": "ChIJ-zV-eZr5RxARU5kqaxA7fJs"
+    }
+  },
+  {
+    "id": "53346",
+    "name": "IGBO AWO / CHIEF SARO NEAR IGBO AWO",
+    "registration_area_id": "2844",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "13/05/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2844",
+    "ward_name": "ILAWE  I",
+    "local_government_id": "247",
+    "local_government_name": "EKITI SOUTH WEST",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.7162248,
+      "longitude": 5.1484196,
+      "viewport": {
+        "northeast": {
+          "lat": 7.725961000000001,
+          "lng": 5.157207
+        },
+        "southwest": {
+          "lat": 7.704258099999999,
+          "lng": 5.142605
+        }
+      },
+      "formatted_address": "362103, Awo Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7162248,5.1484196",
+      "google_place_id": "ChIJ-59I89L9RxAREFJsjvLcqJI"
+    }
+  },
+  {
+    "id": "53347",
+    "name": "EMILA  , NEAR EMILA",
+    "registration_area_id": "2844",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "13/05/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2844",
+    "ward_name": "ILAWE  I",
+    "local_government_id": "247",
+    "local_government_name": "EKITI SOUTH WEST",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.614038300000001,
+      "longitude": 5.129699899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.615400429892723,
+          "lng": 5.130980429892722
+        },
+        "southwest": {
+          "lat": 7.61270077010728,
+          "lng": 5.128280770107278
+        }
+      },
+      "formatted_address": "Local Government, Road, 360101, Igbara Odo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.614038300000001,5.129699899999999",
+      "google_place_id": "ChIJ-zV-eZr5RxARU5kqaxA7fJs"
+    }
+  },
+  {
+    "id": "53348",
+    "name": "ELEJOFI / OJAOMO  / NEAR ELEJOFI",
+    "registration_area_id": "2844",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "13/05/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2844",
+    "ward_name": "ILAWE  I",
+    "local_government_id": "247",
+    "local_government_name": "EKITI SOUTH WEST",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.614038300000001,
+      "longitude": 5.129699899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.615400429892723,
+          "lng": 5.130980429892722
+        },
+        "southwest": {
+          "lat": 7.61270077010728,
+          "lng": 5.128280770107278
+        }
+      },
+      "formatted_address": "Local Government, Road, 360101, Igbara Odo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.614038300000001,5.129699899999999",
+      "google_place_id": "ChIJ-zV-eZr5RxARU5kqaxA7fJs"
+    }
+  },
+  {
+    "id": "53349",
+    "name": "ILUPEJU CENTRE / ILUPEJU PRY SCH",
+    "registration_area_id": "2844",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "13/05/01/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2844",
+    "ward_name": "ILAWE  I",
+    "local_government_id": "247",
+    "local_government_name": "EKITI SOUTH WEST",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.800265400000001,
+      "longitude": 5.3573429,
+      "viewport": {
+        "northeast": {
+          "lat": 7.801590179892722,
+          "lng": 5.358685179892722
+        },
+        "southwest": {
+          "lat": 7.798890520107278,
+          "lng": 5.355985520107278
+        }
+      },
+      "formatted_address": "R924+4W8, 370112, Ilupeju, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.800265400000001,5.3573429",
+      "google_place_id": "ChIJqeizqPsLSBAROkvtX1cQqww"
+    }
+  },
+  {
+    "id": "53350",
+    "name": "ERIN OMO FOOD CENTRE / NEAR ERIN OMO",
+    "registration_area_id": "2844",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "13/05/01/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2844",
+    "ward_name": "ILAWE  I",
+    "local_government_id": "247",
+    "local_government_name": "EKITI SOUTH WEST",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": null
+  },
+  {
+    "id": "53351",
+    "name": "OJA AAYE / EKU AAYE / NEAR OLOJA AAYE",
+    "registration_area_id": "2844",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "13/05/01/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2844",
+    "ward_name": "ILAWE  I",
+    "local_government_id": "247",
+    "local_government_name": "EKITI SOUTH WEST",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": null
+  },
+  {
+    "id": "53352",
+    "name": "SAPETU  / NEAR SAPETU",
+    "registration_area_id": "2844",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "13/05/01/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2844",
+    "ward_name": "ILAWE  I",
+    "local_government_id": "247",
+    "local_government_name": "EKITI SOUTH WEST",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.614038300000001,
+      "longitude": 5.129699899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.615400429892723,
+          "lng": 5.130980429892722
+        },
+        "southwest": {
+          "lat": 7.61270077010728,
+          "lng": 5.128280770107278
+        }
+      },
+      "formatted_address": "Local Government, Road, 360101, Igbara Odo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.614038300000001,5.129699899999999",
+      "google_place_id": "ChIJ-zV-eZr5RxARU5kqaxA7fJs"
+    }
+  },
+  {
+    "id": "53353",
+    "name": "OWAOSUN / TEDIO / OLORIAWO NEAR  OLORIAWO",
+    "registration_area_id": "2844",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "13/05/01/011",
+    "remark": "EXISTING PU",
+    "ward_id": "2844",
+    "ward_name": "ILAWE  I",
+    "local_government_id": "247",
+    "local_government_name": "EKITI SOUTH WEST",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.614038300000001,
+      "longitude": 5.129699899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.615400429892723,
+          "lng": 5.130980429892722
+        },
+        "southwest": {
+          "lat": 7.61270077010728,
+          "lng": 5.128280770107278
+        }
+      },
+      "formatted_address": "Local Government, Road, 360101, Igbara Odo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.614038300000001,5.129699899999999",
+      "google_place_id": "ChIJ-zV-eZr5RxARU5kqaxA7fJs"
+    }
+  },
+  {
+    "id": "53354",
+    "name": "OWAOSUN / TEDIO / OLORIAWO NEAR BOARD OF INTERNAL REVENUE",
+    "registration_area_id": "2844",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "13/05/01/012",
+    "remark": "EXISTING PU",
+    "ward_id": "2844",
+    "ward_name": "ILAWE  I",
+    "local_government_id": "247",
+    "local_government_name": "EKITI SOUTH WEST",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.614038300000001,
+      "longitude": 5.129699899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.615400429892723,
+          "lng": 5.130980429892722
+        },
+        "southwest": {
+          "lat": 7.61270077010728,
+          "lng": 5.128280770107278
+        }
+      },
+      "formatted_address": "Local Government, Road, 360101, Igbara Odo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.614038300000001,5.129699899999999",
+      "google_place_id": "ChIJ-zV-eZr5RxARU5kqaxA7fJs"
+    }
+  }
+]

@@ -1,0 +1,1000 @@
+[
+  {
+    "id": "353855",
+    "name": "ABIOYE'S COMPOUND",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "30/07/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353856",
+    "name": "ADELAGUN PRIMARY SCHOOL, GBELEKALE I",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "30/07/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.373399999999999,
+      "longitude": 3.9111,
+      "viewport": {
+        "northeast": {
+          "lat": 7.374775029892722,
+          "lng": 3.912424379892723
+        },
+        "southwest": {
+          "lat": 7.372075370107278,
+          "lng": 3.909724720107279
+        }
+      },
+      "formatted_address": "6FV59WF6+9C9 Ward 8 Oja-gbo, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.373399999999999,3.9111",
+      "google_place_id": "ChIJZSarnzmTORARFZ1aluuJJEk"
+    }
+  },
+  {
+    "id": "353857",
+    "name": "ADELAGUN PRIMARY SCHOOL, GBELEKALE II",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "30/07/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.360322999999998,
+      "longitude": 3.9138113,
+      "viewport": {
+        "northeast": {
+          "lat": 7.361656679892721,
+          "lng": 3.915179579892722
+        },
+        "southwest": {
+          "lat": 7.358957020107277,
+          "lng": 3.912479920107278
+        }
+      },
+      "formatted_address": "Ratibi Primary School, 200263, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.360322999999998,3.9138113",
+      "google_place_id": "ChIJR_OfynOSORARW9cMT44Y4yU"
+    }
+  },
+  {
+    "id": "353858",
+    "name": "AGBATIOLESE KOSODO, OJAGBO I",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "30/07/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353859",
+    "name": "AGBATIOLESE KOSODO, OJAGBO II",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "30/07/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353860",
+    "name": "OPEN SPACE BESIDE AGBONGUN",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "30/07/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353861",
+    "name": "OPEN SPACE AT AJEGUNLE'S COMPOUND",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "30/07/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353862",
+    "name": "SPACE NEAR AJEGUNLE OLOMOYOYO",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "30/07/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353863",
+    "name": "OPEN SPACE AT ALADORIN AREMO",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "30/07/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.402467199999999,
+      "longitude": 3.9049804,
+      "viewport": {
+        "northeast": {
+          "lat": 7.403820479892722,
+          "lng": 3.906318129892722
+        },
+        "southwest": {
+          "lat": 7.401120820107278,
+          "lng": 3.903618470107278
+        }
+      },
+      "formatted_address": "CW24+X26, Agodi 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.402467199999999,3.9049804",
+      "google_place_id": "ChIJye_KOw-NORAREIG7dPxinPY"
+    }
+  },
+  {
+    "id": "353864",
+    "name": "SPACE IN FRONT OF ASANI OBISESAN HOUSE, APERIN I",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "30/07/04/010",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4159139,
+      "longitude": 3.910427299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.417263729892722,
+          "lng": 3.911777129892722
+        },
+        "southwest": {
+          "lat": 7.414564070107278,
+          "lng": 3.909077470107278
+        }
+      },
+      "formatted_address": "Aperin St, Mokola Hill 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4159139,3.910427299999999",
+      "google_place_id": "ChIJlzwJ7KuSORARB0n09WNTOiE"
+    }
+  },
+  {
+    "id": "353865",
+    "name": "SPACE IN FRONT OF ASANI OBISESAN HOUSE, APERIN II",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "30/07/04/011",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353866",
+    "name": "BORIPE AREA I",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "30/07/04/012",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.369873999999999,
+      "longitude": 3.9233287,
+      "viewport": {
+        "northeast": {
+          "lat": 7.371223829892721,
+          "lng": 3.924678529892722
+        },
+        "southwest": {
+          "lat": 7.368524170107277,
+          "lng": 3.921978870107278
+        }
+      },
+      "formatted_address": "Boripe Street, 200258, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.369873999999999,3.9233287",
+      "google_place_id": "ChIJydgyhWaSORAR-rSHeiIsI_w"
+    }
+  },
+  {
+    "id": "353867",
+    "name": "BORIPE AREA II",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "30/07/04/013",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.369873999999999,
+      "longitude": 3.9233287,
+      "viewport": {
+        "northeast": {
+          "lat": 7.371223829892721,
+          "lng": 3.924678529892722
+        },
+        "southwest": {
+          "lat": 7.368524170107277,
+          "lng": 3.921978870107278
+        }
+      },
+      "formatted_address": "Boripe Street, 200258, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.369873999999999,3.9233287",
+      "google_place_id": "ChIJydgyhWaSORAR-rSHeiIsI_w"
+    }
+  },
+  {
+    "id": "353868",
+    "name": "ISLAMIC PRIMARY SCHOOL, GBELEKALE I",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "30/07/04/014",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.416712599999999,
+      "longitude": 3.8687967,
+      "viewport": {
+        "northeast": {
+          "lat": 7.418093679892724,
+          "lng": 3.870120779892722
+        },
+        "southwest": {
+          "lat": 7.41539402010728,
+          "lng": 3.867421120107278
+        }
+      },
+      "formatted_address": "CV89+MGM, Adeleke Street & Eleyele Road, Eleyele 200284, Ibadan, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.416712599999999,3.8687967",
+      "google_place_id": "ChIJjZI3xSuNORARhWSSjZibCAE"
+    }
+  },
+  {
+    "id": "353869",
+    "name": "ISLAMIC PRIMARY SCHOOL, GBELEKALE II",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "30/07/04/015",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.374816999999999,
+      "longitude": 3.911602299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376166829892721,
+          "lng": 3.912952129892721
+        },
+        "southwest": {
+          "lat": 7.373467170107277,
+          "lng": 3.910252470107277
+        }
+      },
+      "formatted_address": "Kosodo - Gbelekale Street, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.374816999999999,3.911602299999999",
+      "google_place_id": "ChIJ4yIaKXySORAR4yBtMzBLTro"
+    }
+  },
+  {
+    "id": "353870",
+    "name": "OPEN SPACE BESIDE GBELEKALE",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "30/07/04/016",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4064675,
+      "longitude": 3.9082314,
+      "viewport": {
+        "northeast": {
+          "lat": 7.40781112989272,
+          "lng": 3.909497929892721
+        },
+        "southwest": {
+          "lat": 7.405111470107276,
+          "lng": 3.906798270107277
+        }
+      },
+      "formatted_address": "CW45+H5H, Agodi 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4064675,3.9082314",
+      "google_place_id": "ChIJ7x0lF6eSORARahx8kEBQ00M"
+    }
+  },
+  {
+    "id": "353871",
+    "name": "IDI-OROGBO - ADEKILE",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "30/07/04/017",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3718968,
+      "longitude": 3.92152,
+      "viewport": {
+        "northeast": {
+          "lat": 7.373246629892722,
+          "lng": 3.922869829892722
+        },
+        "southwest": {
+          "lat": 7.370546970107278,
+          "lng": 3.920170170107279
+        }
+      },
+      "formatted_address": "Adekile Street & Idi Orogbo Street, 200258, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3718968,3.92152",
+      "google_place_id": "EjtBZGVraWxlIFN0cmVldCAmIElkaSBPcm9nYm8gU3RyZWV0LCAyMDAyNTgsIEliYWRhbiwgTmlnZXJpYSJmImQKFAoSCRvHaQJkkjkQESqC2b5z-_d8EhQKEgkbx2kCZJI5EBEqgtm-c_v3fBoUChIJCfaGp2aSORAR_vPz8znei-EaFAoSCasI4zhhkjkQEdqT-b2M7Z_MIgoNuNxkBBVgYFYC"
+    }
+  },
+  {
+    "id": "353872",
+    "name": "OPEN SPACE AT ILE ELEPO, AREMO",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "30/07/04/018",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353873",
+    "name": "OPEN SPACE NEAR ILE IYASANYIN, OJAGBO",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "30/07/04/019",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3809599,
+      "longitude": 3.9112947,
+      "viewport": {
+        "northeast": {
+          "lat": 7.382309729892722,
+          "lng": 3.912644529892723
+        },
+        "southwest": {
+          "lat": 7.379610070107278,
+          "lng": 3.909944870107279
+        }
+      },
+      "formatted_address": "Ojagbo Rd, 200258, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3809599,3.9112947",
+      "google_place_id": "ChIJ_bXV1IaSORARWYNBFIFcoOk"
+    }
+  },
+  {
+    "id": "353874",
+    "name": "ILUPEJU'S OPEN SPACE, ADEKILE",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "30/07/04/020",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.403799800000001,
+      "longitude": 3.9336435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.405090479892722,
+          "lng": 3.934962829892722
+        },
+        "southwest": {
+          "lat": 7.402390820107278,
+          "lng": 3.932263170107278
+        }
+      },
+      "formatted_address": "Best way road, 12 Joseph Owolabi Cl, Iwo Road, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.403799800000001,3.9336435",
+      "google_place_id": "ChIJjy4_h8OSORARTqZE0Hb23_g"
+    }
+  },
+  {
+    "id": "353875",
+    "name": "JEGEDE'S COMPOUND",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "30/07/04/021",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4064675,
+      "longitude": 3.9082314,
+      "viewport": {
+        "northeast": {
+          "lat": 7.40781112989272,
+          "lng": 3.909497929892721
+        },
+        "southwest": {
+          "lat": 7.405111470107276,
+          "lng": 3.906798270107277
+        }
+      },
+      "formatted_address": "CW45+H5H, Agodi 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4064675,3.9082314",
+      "google_place_id": "ChIJ7x0lF6eSORARahx8kEBQ00M"
+    }
+  },
+  {
+    "id": "353876",
+    "name": "LABOSINDE OMOWUMI AREA 8 I",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "30/07/04/022",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353877",
+    "name": "LABOSINDE OMOWUMI AREA 8 II",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "30/07/04/023",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353878",
+    "name": "LABOSINDE OMOWUMI AREA 8 III",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "30/07/04/024",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353879",
+    "name": "I.M.G. SCHOOL, LADUNNI",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "30/07/04/025",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.375959,
+      "longitude": 3.912059,
+      "viewport": {
+        "northeast": {
+          "lat": 7.37743312989272,
+          "lng": 3.913405679892722
+        },
+        "southwest": {
+          "lat": 7.374733470107277,
+          "lng": 3.910706020107278
+        }
+      },
+      "formatted_address": "6FV59WG6+9RM Ward 4 LADUNNI, Aremo Ojagbo Rd, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.375959,3.912059",
+      "google_place_id": "ChIJPf98hZ-TORARpBXJcrYbpJ4"
+    }
+  },
+  {
+    "id": "353880",
+    "name": "LAMIDI'S COMPOUND I",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "30/07/04/026",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353881",
+    "name": "LAMIDI'S COMPOUND II",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "30/07/04/027",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353882",
+    "name": "ORIADE BAKERY",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "30/07/04/028",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.416455600000001,
+      "longitude": 3.9113637,
+      "viewport": {
+        "northeast": {
+          "lat": 7.417776929892721,
+          "lng": 3.912551079892722
+        },
+        "southwest": {
+          "lat": 7.415077270107277,
+          "lng": 3.909851420107278
+        }
+      },
+      "formatted_address": "OYEKS Plaza, Purple Building, Beside Mobil Filling Station, Awolowo Junction, Bodija, 200285, Ibadan, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.416455600000001,3.9113637",
+      "google_place_id": "ChIJdcnS96uSORARI5UyjKdCr6A"
+    }
+  },
+  {
+    "id": "353883",
+    "name": "OGBORIEFON ORITA APERIN",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "30/07/04/029",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.374045399999999,
+      "longitude": 3.90205,
+      "viewport": {
+        "northeast": {
+          "lat": 7.375395229892721,
+          "lng": 3.903399829892721
+        },
+        "southwest": {
+          "lat": 7.372695570107277,
+          "lng": 3.900700170107277
+        }
+      },
+      "formatted_address": "Ogboriefon Rd & Orita Aperin-Beere Rd, 200258, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.374045399999999,3.90205",
+      "google_place_id": "Ej5PZ2JvcmllZm9uIFJkICYgT3JpdGEgQXBlcmluLUJlZXJlIFJkLCAyMDAyNTgsIEliYWRhbiwgTmlnZXJpYSJmImQKFAoSCSPRn2mBjTkQEbPyDv5ZXNd5EhQKEgkj0Z9pgY05EBGz8g7-WVzXeRoUChIJV9BSt4GNORAR1xb0hTbf9akaFAoSCecd0fF7kjkQEcffkSusTyR5IgoNpjBlBBXUZ1MC"
+    }
+  },
+  {
+    "id": "353884",
+    "name": "OLUBADAN HIGH SCHOOL, APERIN I",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "30/07/04/030",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.372024999999999,
+      "longitude": 3.91968,
+      "viewport": {
+        "northeast": {
+          "lat": 7.373514529892722,
+          "lng": 3.921118879892722
+        },
+        "southwest": {
+          "lat": 7.370814870107278,
+          "lng": 3.918419220107278
+        }
+      },
+      "formatted_address": "6FV59WC9+RV3 Adekile Area, Adekile Street, 200258, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.372024999999999,3.91968",
+      "google_place_id": "ChIJ_U0_Z_-TORAR_il1FnKs0-Y"
+    }
+  },
+  {
+    "id": "353885",
+    "name": "OLUBADAN HIGH SCHOOL, APERIN II",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "30/07/04/031",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353886",
+    "name": "SPACE IN FRONT OF OLUYOOLA HOUSE",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "30/07/04/032",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3510504,
+      "longitude": 3.8791072,
+      "viewport": {
+        "northeast": {
+          "lat": 7.352400229892722,
+          "lng": 3.880457029892721
+        },
+        "southwest": {
+          "lat": 7.349700570107277,
+          "lng": 3.877757370107278
+        }
+      },
+      "formatted_address": "Irepo Street, 200273, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3510504,3.8791072",
+      "google_place_id": "ChIJoeslIcSNORARF-JfoE8f7AU"
+    }
+  },
+  {
+    "id": "353887",
+    "name": "OPEN SPACE OGBORIEFON ADEKILE",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "30/07/04/033",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.397599700000001,
+      "longitude": 3.9186401,
+      "viewport": {
+        "northeast": {
+          "lat": 7.398938929892721,
+          "lng": 3.919970829892722
+        },
+        "southwest": {
+          "lat": 7.396239270107277,
+          "lng": 3.917271170107278
+        }
+      },
+      "formatted_address": "Gate, Local Government Secretariat Oyo, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.397599700000001,3.9186401",
+      "google_place_id": "ChIJafrLxOqSORARnIU4_sRBd2Y"
+    }
+  },
+  {
+    "id": "353888",
+    "name": "RATIBI PRIMARY SCHOOL",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "30/07/04/034",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.360322999999998,
+      "longitude": 3.9138113,
+      "viewport": {
+        "northeast": {
+          "lat": 7.361656679892721,
+          "lng": 3.915179579892722
+        },
+        "southwest": {
+          "lat": 7.358957020107277,
+          "lng": 3.912479920107278
+        }
+      },
+      "formatted_address": "Ratibi Primary School, 200263, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.360322999999998,3.9138113",
+      "google_place_id": "ChIJR_OfynOSORARW9cMT44Y4yU"
+    }
+  },
+  {
+    "id": "353889",
+    "name": "SPACE IN FRONT OF SHOP MERIN KOLOKO",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "30/07/04/035",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353890",
+    "name": "RATIBI PRIMARY SCHOOL I",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "036",
+    "units": "036",
+    "delimitation": "30/07/04/036",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.438660800000001,
+      "longitude": 3.910641199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.440079579892721,
+          "lng": 3.911993479892722
+        },
+        "southwest": {
+          "lat": 7.437379920107277,
+          "lng": 3.909293820107278
+        }
+      },
+      "formatted_address": "2 Adebayo Street, Agbowo, UI, 200132, Ibadan, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.438660800000001,3.910641199999999",
+      "google_place_id": "ChIJBVVVll7tORARQtugs2KA9ig"
+    }
+  },
+  {
+    "id": "353891",
+    "name": "RATIBI PRIMARY SCHOOL II",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "037",
+    "units": "037",
+    "delimitation": "30/07/04/037",
+    "remark": "EXISTING PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.392235,
+      "longitude": 3.918955,
+      "viewport": {
+        "northeast": {
+          "lat": 7.393627879892721,
+          "lng": 3.920319329892722
+        },
+        "southwest": {
+          "lat": 7.390928220107277,
+          "lng": 3.917619670107278
+        }
+      },
+      "formatted_address": "6FV59WR9+VHW Ward10, Oke Adu Road, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.392235,3.918955",
+      "google_place_id": "ChIJnaRnSsCTORARpTJDXU2FrDw"
+    }
+  },
+  {
+    "id": "353892",
+    "name": "OPEN SPACE BEHIND SHOP MERIN KOLOKO",
+    "registration_area_id": "18102",
+    "precise_location": null,
+    "abbreviation": "038",
+    "units": "038",
+    "delimitation": "30/07/04/038",
+    "remark": "NEW PU",
+    "ward_id": "18102",
+    "ward_name": "WARD IV  E4",
+    "local_government_id": "634",
+    "local_government_name": "IBADAN NORTH EAST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  }
+]

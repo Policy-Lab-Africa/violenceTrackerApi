@@ -1,0 +1,598 @@
+[
+  {
+    "id": "43589",
+    "name": "AKPERHE PRIMARY SCHOOL, AKPERHE I",
+    "registration_area_id": "2376",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "10/20/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2376",
+    "ward_name": "OLOMU  II",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "43590",
+    "name": "AKPERHE PRIMARY SCHOOL, AKPERHE II",
+    "registration_area_id": "2376",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "10/20/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2376",
+    "ward_name": "OLOMU  II",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "43591",
+    "name": "UMOLO PRIMARY SCHOOL, UMOLO I",
+    "registration_area_id": "2376",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "10/20/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2376",
+    "ward_name": "OLOMU  II",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "43592",
+    "name": "UMOLO PRIMARY SCHOOL, UMOLO II",
+    "registration_area_id": "2376",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "10/20/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2376",
+    "ward_name": "OLOMU  II",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.413403199999999,
+      "longitude": 5.903944900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.414751679892722,
+          "lng": 5.905300529892722
+        },
+        "southwest": {
+          "lat": 5.412052020107278,
+          "lng": 5.902600870107278
+        }
+      },
+      "formatted_address": "Town Hall, 333112, Umolo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.413403199999999,5.903944900000001",
+      "google_place_id": "ChIJcfpNs9a5QRARzFRcm7g9COc"
+    }
+  },
+  {
+    "id": "43593",
+    "name": "UMOLO TOWN HALL, UMOLO",
+    "registration_area_id": "2376",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "10/20/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2376",
+    "ward_name": "OLOMU  II",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.413403199999999,
+      "longitude": 5.903944900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.414751679892722,
+          "lng": 5.905300529892722
+        },
+        "southwest": {
+          "lat": 5.412052020107278,
+          "lng": 5.902600870107278
+        }
+      },
+      "formatted_address": "Town Hall, 333112, Umolo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.413403199999999,5.903944900000001",
+      "google_place_id": "ChIJcfpNs9a5QRARzFRcm7g9COc"
+    }
+  },
+  {
+    "id": "43594",
+    "name": "OVWUDOKPOKPO PRIMARY SCHOOL, OVWUDOKPOKPO I",
+    "registration_area_id": "2376",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "10/20/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2376",
+    "ward_name": "OLOMU  II",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "43595",
+    "name": "OVWUDOKPOKPO PRIMARY SCHOOL, OVWUDOKPOKPO II",
+    "registration_area_id": "2376",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "10/20/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2376",
+    "ward_name": "OLOMU  II",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.413403199999999,
+      "longitude": 5.903944900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.414751679892722,
+          "lng": 5.905300529892722
+        },
+        "southwest": {
+          "lat": 5.412052020107278,
+          "lng": 5.902600870107278
+        }
+      },
+      "formatted_address": "Town Hall, 333112, Umolo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.413403199999999,5.903944900000001",
+      "google_place_id": "ChIJcfpNs9a5QRARzFRcm7g9COc"
+    }
+  },
+  {
+    "id": "43596",
+    "name": "OVWUDOKPOKPO PRIMARY SCHOOL, OVWUDOKPOKPO III",
+    "registration_area_id": "2376",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "10/20/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2376",
+    "ward_name": "OLOMU  II",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.413403199999999,
+      "longitude": 5.903944900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.414751679892722,
+          "lng": 5.905300529892722
+        },
+        "southwest": {
+          "lat": 5.412052020107278,
+          "lng": 5.902600870107278
+        }
+      },
+      "formatted_address": "Town Hall, 333112, Umolo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.413403199999999,5.903944900000001",
+      "google_place_id": "ChIJcfpNs9a5QRARzFRcm7g9COc"
+    }
+  },
+  {
+    "id": "43597",
+    "name": "OVIARIEN PRIMARY SCHOOL, OVIRI-OLOMU I",
+    "registration_area_id": "2376",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "10/20/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2376",
+    "ward_name": "OLOMU  II",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.3692772,
+      "longitude": 5.918518199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.3756461,
+          "lng": 5.929018900000001
+        },
+        "southwest": {
+          "lat": 5.3576139,
+          "lng": 5.909915
+        }
+      },
+      "formatted_address": "333114, Oviri Olomu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3692772,5.918518199999999",
+      "google_place_id": "ChIJMcKFZwq4QRARfiQmaDt8S_8"
+    }
+  },
+  {
+    "id": "43598",
+    "name": "OVIARIEN PRIMARY SCHOOL, OVIRI-OLOMU II",
+    "registration_area_id": "2376",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "10/20/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2376",
+    "ward_name": "OLOMU  II",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.3692772,
+      "longitude": 5.918518199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.3756461,
+          "lng": 5.929018900000001
+        },
+        "southwest": {
+          "lat": 5.3576139,
+          "lng": 5.909915
+        }
+      },
+      "formatted_address": "333114, Oviri Olomu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3692772,5.918518199999999",
+      "google_place_id": "ChIJMcKFZwq4QRARfiQmaDt8S_8"
+    }
+  },
+  {
+    "id": "43599",
+    "name": "OVIARIEN PRIMARY SCHOOL, OVIRI-OLOMU III",
+    "registration_area_id": "2376",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "10/20/05/011",
+    "remark": "EXISTING PU",
+    "ward_id": "2376",
+    "ward_name": "OLOMU  II",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.3692772,
+      "longitude": 5.918518199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.3756461,
+          "lng": 5.929018900000001
+        },
+        "southwest": {
+          "lat": 5.3576139,
+          "lng": 5.909915
+        }
+      },
+      "formatted_address": "333114, Oviri Olomu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3692772,5.918518199999999",
+      "google_place_id": "ChIJMcKFZwq4QRARfiQmaDt8S_8"
+    }
+  },
+  {
+    "id": "43600",
+    "name": "INIOVO HALL, OVIRI OLOMU",
+    "registration_area_id": "2376",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "10/20/05/012",
+    "remark": "EXISTING PU",
+    "ward_id": "2376",
+    "ward_name": "OLOMU  II",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.3692772,
+      "longitude": 5.918518199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.3756461,
+          "lng": 5.929018900000001
+        },
+        "southwest": {
+          "lat": 5.3576139,
+          "lng": 5.909915
+        }
+      },
+      "formatted_address": "333114, Oviri Olomu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3692772,5.918518199999999",
+      "google_place_id": "ChIJMcKFZwq4QRARfiQmaDt8S_8"
+    }
+  },
+  {
+    "id": "43601",
+    "name": "IKROSE HALL, OVIRI -OLOMU",
+    "registration_area_id": "2376",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "10/20/05/013",
+    "remark": "EXISTING PU",
+    "ward_id": "2376",
+    "ward_name": "OLOMU  II",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.3692772,
+      "longitude": 5.918518199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.3756461,
+          "lng": 5.929018900000001
+        },
+        "southwest": {
+          "lat": 5.3576139,
+          "lng": 5.909915
+        }
+      },
+      "formatted_address": "333114, Oviri Olomu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3692772,5.918518199999999",
+      "google_place_id": "ChIJMcKFZwq4QRARfiQmaDt8S_8"
+    }
+  },
+  {
+    "id": "43602",
+    "name": "ALOBA TOWN HALL, ALOBA",
+    "registration_area_id": "2376",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "10/20/05/014",
+    "remark": "EXISTING PU",
+    "ward_id": "2376",
+    "ward_name": "OLOMU  II",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.413403199999999,
+      "longitude": 5.903944900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.414751679892722,
+          "lng": 5.905300529892722
+        },
+        "southwest": {
+          "lat": 5.412052020107278,
+          "lng": 5.902600870107278
+        }
+      },
+      "formatted_address": "Town Hall, 333112, Umolo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.413403199999999,5.903944900000001",
+      "google_place_id": "ChIJcfpNs9a5QRARzFRcm7g9COc"
+    }
+  },
+  {
+    "id": "43603",
+    "name": "AKPERHE SECONDARY SCHOOL, AKPERHE",
+    "registration_area_id": "2376",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "10/20/05/015",
+    "remark": "NEW PU",
+    "ward_id": "2376",
+    "ward_name": "OLOMU  II",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.489360599999999,
+      "longitude": 6.0008244,
+      "viewport": {
+        "northeast": {
+          "lat": 5.490719029892722,
+          "lng": 6.002169379892721
+        },
+        "southwest": {
+          "lat": 5.488019370107279,
+          "lng": 5.999469720107277
+        }
+      },
+      "formatted_address": "333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.489360599999999,6.0008244",
+      "google_place_id": "ChIJh_Cj-Ei9QRARZ-MuErQr5wE"
+    }
+  },
+  {
+    "id": "43604",
+    "name": "ODJE HALL, AKPERHE-OLOMU",
+    "registration_area_id": "2376",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "10/20/05/016",
+    "remark": "NEW PU",
+    "ward_id": "2376",
+    "ward_name": "OLOMU  II",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.413403199999999,
+      "longitude": 5.903944900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.414751679892722,
+          "lng": 5.905300529892722
+        },
+        "southwest": {
+          "lat": 5.412052020107278,
+          "lng": 5.902600870107278
+        }
+      },
+      "formatted_address": "Town Hall, 333112, Umolo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.413403199999999,5.903944900000001",
+      "google_place_id": "ChIJcfpNs9a5QRARzFRcm7g9COc"
+    }
+  },
+  {
+    "id": "43605",
+    "name": "ISUEVWIAN HALL, OVWUDOKPOKPOR",
+    "registration_area_id": "2376",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "10/20/05/017",
+    "remark": "NEW PU",
+    "ward_id": "2376",
+    "ward_name": "OLOMU  II",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.413403199999999,
+      "longitude": 5.903944900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.414751679892722,
+          "lng": 5.905300529892722
+        },
+        "southwest": {
+          "lat": 5.412052020107278,
+          "lng": 5.902600870107278
+        }
+      },
+      "formatted_address": "Town Hall, 333112, Umolo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.413403199999999,5.903944900000001",
+      "google_place_id": "ChIJcfpNs9a5QRARzFRcm7g9COc"
+    }
+  },
+  {
+    "id": "43606",
+    "name": "OVIRI-OLOMU SECONDARY SCHOOL, OVIRI-OLOMU",
+    "registration_area_id": "2376",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "10/20/05/018",
+    "remark": "NEW PU",
+    "ward_id": "2376",
+    "ward_name": "OLOMU  II",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.3692772,
+      "longitude": 5.918518199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.3756461,
+          "lng": 5.929018900000001
+        },
+        "southwest": {
+          "lat": 5.3576139,
+          "lng": 5.909915
+        }
+      },
+      "formatted_address": "333114, Oviri Olomu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3692772,5.918518199999999",
+      "google_place_id": "ChIJMcKFZwq4QRARfiQmaDt8S_8"
+    }
+  },
+  {
+    "id": "43607",
+    "name": "UDUGBEVWEN HALL, OVIRI-OLOMU",
+    "registration_area_id": "2376",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "10/20/05/019",
+    "remark": "NEW PU",
+    "ward_id": "2376",
+    "ward_name": "OLOMU  II",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.3692772,
+      "longitude": 5.918518199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.3756461,
+          "lng": 5.929018900000001
+        },
+        "southwest": {
+          "lat": 5.3576139,
+          "lng": 5.909915
+        }
+      },
+      "formatted_address": "333114, Oviri Olomu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3692772,5.918518199999999",
+      "google_place_id": "ChIJMcKFZwq4QRARfiQmaDt8S_8"
+    }
+  },
+  {
+    "id": "43608",
+    "name": "OVIRI-OLOMU HEALTH CENTRE, OVIRI-OLOMU",
+    "registration_area_id": "2376",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "10/20/05/020",
+    "remark": "NEW PU",
+    "ward_id": "2376",
+    "ward_name": "OLOMU  II",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.3692772,
+      "longitude": 5.918518199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.3756461,
+          "lng": 5.929018900000001
+        },
+        "southwest": {
+          "lat": 5.3576139,
+          "lng": 5.909915
+        }
+      },
+      "formatted_address": "333114, Oviri Olomu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3692772,5.918518199999999",
+      "google_place_id": "ChIJMcKFZwq4QRARfiQmaDt8S_8"
+    }
+  }
+]

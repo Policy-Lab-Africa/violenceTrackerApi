@@ -1,0 +1,185 @@
+[
+  {
+    "id": "334793",
+    "name": "ADEHE PRIMARY SCHOOL  I",
+    "registration_area_id": "17000",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/02/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17000",
+    "ward_name": "ADEHE",
+    "local_government_id": "538",
+    "local_government_name": "AGWARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.7851717,
+      "longitude": 4.4501729,
+      "viewport": {
+        "northeast": {
+          "lat": 10.78650027989272,
+          "lng": 4.451531879892722
+        },
+        "southwest": {
+          "lat": 10.78380062010728,
+          "lng": 4.448832220107279
+        }
+      },
+      "formatted_address": "7F26QFP2+324 ADAHE ADAHE, Makeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7851717,4.4501729",
+      "google_place_id": "ChIJgVUK89zZyhERjuzbuF6_LyA"
+    }
+  },
+  {
+    "id": "334794",
+    "name": "ADEHE PRIMARY SCHOOL  II",
+    "registration_area_id": "17000",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/02/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17000",
+    "ward_name": "ADEHE",
+    "local_government_id": "538",
+    "local_government_name": "AGWARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.7851717,
+      "longitude": 4.4501729,
+      "viewport": {
+        "northeast": {
+          "lat": 10.78650027989272,
+          "lng": 4.451531879892722
+        },
+        "southwest": {
+          "lat": 10.78380062010728,
+          "lng": 4.448832220107279
+        }
+      },
+      "formatted_address": "7F26QFP2+324 ADAHE ADAHE, Makeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7851717,4.4501729",
+      "google_place_id": "ChIJgVUK89zZyhERjuzbuF6_LyA"
+    }
+  },
+  {
+    "id": "334795",
+    "name": "PAPIRI GAJERE",
+    "registration_area_id": "17000",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/02/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17000",
+    "ward_name": "ADEHE",
+    "local_government_id": "538",
+    "local_government_name": "AGWARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.8377351,
+      "longitude": 4.4946239,
+      "viewport": {
+        "northeast": {
+          "lat": 10.846035,
+          "lng": 4.495099379892721
+        },
+        "southwest": {
+          "lat": 10.835758,
+          "lng": 4.492399720107278
+        }
+      },
+      "formatted_address": "923107, Papiri Gajere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8377351,4.4946239",
+      "google_place_id": "ChIJn56LzO7byhER3qVMoCIjwc8"
+    }
+  },
+  {
+    "id": "334796",
+    "name": "KATANDA",
+    "registration_area_id": "17000",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/02/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17000",
+    "ward_name": "ADEHE",
+    "local_government_id": "538",
+    "local_government_name": "AGWARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "334797",
+    "name": "ANG. KIRYA",
+    "registration_area_id": "17000",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/02/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17000",
+    "ward_name": "ADEHE",
+    "local_government_id": "538",
+    "local_government_name": "AGWARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "334798",
+    "name": "ANG. MAKERI MASANI",
+    "registration_area_id": "17000",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/02/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17000",
+    "ward_name": "ADEHE",
+    "local_government_id": "538",
+    "local_government_name": "AGWARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "334799",
+    "name": "ADEHE HEALTH CLINIC",
+    "registration_area_id": "17000",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/02/01/007",
+    "remark": "NEW PU",
+    "ward_id": "17000",
+    "ward_name": "ADEHE",
+    "local_government_id": "538",
+    "local_government_name": "AGWARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.7851717,
+      "longitude": 4.4501729,
+      "viewport": {
+        "northeast": {
+          "lat": 10.78650027989272,
+          "lng": 4.451531879892722
+        },
+        "southwest": {
+          "lat": 10.78380062010728,
+          "lng": 4.448832220107279
+        }
+      },
+      "formatted_address": "7F26QFP2+324 ADAHE ADAHE, Makeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7851717,4.4501729",
+      "google_place_id": "ChIJgVUK89zZyhERjuzbuF6_LyA"
+    }
+  }
+]

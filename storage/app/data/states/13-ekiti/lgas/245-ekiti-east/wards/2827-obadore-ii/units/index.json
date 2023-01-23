@@ -1,0 +1,217 @@
+[
+  {
+    "id": "53097",
+    "name": "MATERNITY CENTRE - ALAGE",
+    "registration_area_id": "2827",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "13/03/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2827",
+    "ward_name": "OBADORE  II",
+    "local_government_id": "245",
+    "local_government_name": "EKITI EAST",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6122884,
+      "longitude": 5.2219744,
+      "viewport": {
+        "northeast": {
+          "lat": 7.61364397989272,
+          "lng": 5.223310879892722
+        },
+        "southwest": {
+          "lat": 7.610944320107277,
+          "lng": 5.220611220107278
+        }
+      },
+      "formatted_address": "55 Okebola Street, 360101, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6122884,5.2219744",
+      "google_place_id": "ChIJQdTw-c36RxARlBwWQCHxZK0"
+    }
+  },
+  {
+    "id": "53098",
+    "name": "ITA BALOGUN / AYAGBOLU",
+    "registration_area_id": "2827",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "13/03/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2827",
+    "ward_name": "OBADORE  II",
+    "local_government_id": "245",
+    "local_government_name": "EKITI EAST",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.599161100000001,
+      "longitude": 5.1048057,
+      "viewport": {
+        "northeast": {
+          "lat": 7.600548229892722,
+          "lng": 5.106134179892722
+        },
+        "southwest": {
+          "lat": 7.597848570107279,
+          "lng": 5.103434520107278
+        }
+      },
+      "formatted_address": "Ado Ekiti-Ilawe-Igbara Odo Road, 361102, Ilawe Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.599161100000001,5.1048057",
+      "google_place_id": "ChIJZwTZFif5RxARcVCVpc3Gkts"
+    }
+  },
+  {
+    "id": "53099",
+    "name": "OKE - GBALA ST. / ALUTA / OKE GBALA",
+    "registration_area_id": "2827",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "13/03/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2827",
+    "ward_name": "OBADORE  II",
+    "local_government_id": "245",
+    "local_government_name": "EKITI EAST",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": null
+  },
+  {
+    "id": "53100",
+    "name": "TOWN HALL IWORO / AYAOSUN  I",
+    "registration_area_id": "2827",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "13/03/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2827",
+    "ward_name": "OBADORE  II",
+    "local_government_id": "245",
+    "local_government_name": "EKITI EAST",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.812597899999999,
+      "longitude": 5.0701109,
+      "viewport": {
+        "northeast": {
+          "lat": 7.81396662989272,
+          "lng": 5.071478579892722
+        },
+        "southwest": {
+          "lat": 7.811266970107276,
+          "lng": 5.068778920107278
+        }
+      },
+      "formatted_address": "R37C+329, 372101, Ijero, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.812597899999999,5.0701109",
+      "google_place_id": "ChIJgeaGMtsBSBARQ29pb0cXsQg"
+    }
+  },
+  {
+    "id": "53101",
+    "name": "TOWN HALL IWORO / AYAOSUN II",
+    "registration_area_id": "2827",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "13/03/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2827",
+    "ward_name": "OBADORE  II",
+    "local_government_id": "245",
+    "local_government_name": "EKITI EAST",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.812597899999999,
+      "longitude": 5.0701109,
+      "viewport": {
+        "northeast": {
+          "lat": 7.81396662989272,
+          "lng": 5.071478579892722
+        },
+        "southwest": {
+          "lat": 7.811266970107276,
+          "lng": 5.068778920107278
+        }
+      },
+      "formatted_address": "R37C+329, 372101, Ijero, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.812597899999999,5.0701109",
+      "google_place_id": "ChIJgeaGMtsBSBARQ29pb0cXsQg"
+    }
+  },
+  {
+    "id": "53102",
+    "name": "AYAUMA ST. / AYAUMA",
+    "registration_area_id": "2827",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "13/03/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2827",
+    "ward_name": "OBADORE  II",
+    "local_government_id": "245",
+    "local_government_name": "EKITI EAST",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.736124500000001,
+      "longitude": 5.7213905,
+      "viewport": {
+        "northeast": {
+          "lat": 7.73754857989272,
+          "lng": 5.722656779892722
+        },
+        "southwest": {
+          "lat": 7.734848920107276,
+          "lng": 5.719957120107278
+        }
+      },
+      "formatted_address": "PPPC+CHR, 362221, Omuo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.736124500000001,5.7213905",
+      "google_place_id": "ChIJBRbbJ1DVRxARLy-j33pIjUE"
+    }
+  },
+  {
+    "id": "53103",
+    "name": "ARO ST. / ARO",
+    "registration_area_id": "2827",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "13/03/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2827",
+    "ward_name": "OBADORE  II",
+    "local_government_id": "245",
+    "local_government_name": "EKITI EAST",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.7300233,
+      "longitude": 5.7261757,
+      "viewport": {
+        "northeast": {
+          "lat": 7.731361579892722,
+          "lng": 5.727532529892721
+        },
+        "southwest": {
+          "lat": 7.728661920107278,
+          "lng": 5.724832870107277
+        }
+      },
+      "formatted_address": "Isinbode juncture No 22,Aro street ,Iworo quaretr,Omuo Ekit, Omuo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7300233,5.7261757",
+      "google_place_id": "ChIJWfS8ChHVRxARTfN-0WBLagI"
+    }
+  }
+]

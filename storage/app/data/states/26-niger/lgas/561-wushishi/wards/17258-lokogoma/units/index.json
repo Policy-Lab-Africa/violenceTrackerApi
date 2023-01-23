@@ -1,0 +1,233 @@
+[
+  {
+    "id": "339512",
+    "name": "LOKOGOMA PRIMARY SCHOOL",
+    "registration_area_id": "17258",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/25/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17258",
+    "ward_name": "LOKOGOMA",
+    "local_government_id": "561",
+    "local_government_name": "WUSHISHI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.5706516,
+      "longitude": 6.041716699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.572337679892723,
+          "lng": 6.043275029892722
+        },
+        "southwest": {
+          "lat": 9.569638020107279,
+          "lng": 6.040575370107278
+        }
+      },
+      "formatted_address": "6FX8H2CR+7PF, 922107, Dabiri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5706516,6.041716699999999",
+      "google_place_id": "ChIJMZTV26i_SxARwnamiMSz124"
+    }
+  },
+  {
+    "id": "339513",
+    "name": "CHADOZHIKO",
+    "registration_area_id": "17258",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/25/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17258",
+    "ward_name": "LOKOGOMA",
+    "local_government_id": "561",
+    "local_government_name": "WUSHISHI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.567818299999999,
+      "longitude": 6.047326600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.56937517989272,
+          "lng": 6.048815679892723
+        },
+        "southwest": {
+          "lat": 9.566675520107276,
+          "lng": 6.046116020107279
+        }
+      },
+      "formatted_address": "F215, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.567818299999999,6.047326600000001",
+      "google_place_id": "ChIJfw_K7eK_SxARcA_-eoMQ5_A"
+    }
+  },
+  {
+    "id": "339514",
+    "name": "TANGWAGI",
+    "registration_area_id": "17258",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/25/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17258",
+    "ward_name": "LOKOGOMA",
+    "local_government_id": "561",
+    "local_government_name": "WUSHISHI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.5683654,
+      "longitude": 6.0474046,
+      "viewport": {
+        "northeast": {
+          "lat": 9.5704801,
+          "lng": 6.053546
+        },
+        "southwest": {
+          "lat": 9.561312899999999,
+          "lng": 6.044335999999999
+        }
+      },
+      "formatted_address": "922107, New Tangwagi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5683654,6.0474046",
+      "google_place_id": "ChIJfWZjcRO-SxARMcREsVUSgb8"
+    }
+  },
+  {
+    "id": "339515",
+    "name": "DUKUNSAKUN",
+    "registration_area_id": "17258",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/25/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17258",
+    "ward_name": "LOKOGOMA",
+    "local_government_id": "561",
+    "local_government_name": "WUSHISHI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.579127999999999,
+      "longitude": 6.02774,
+      "viewport": {
+        "northeast": {
+          "lat": 9.58064102989272,
+          "lng": 6.029225679892721
+        },
+        "southwest": {
+          "lat": 9.577941370107276,
+          "lng": 6.026526020107277
+        }
+      },
+      "formatted_address": "6FX8H2HH+M35, Dukun sakun, 922107, Dabiri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.579127999999999,6.02774",
+      "google_place_id": "ChIJnZz75Q2_SxARP30IOOkr74M"
+    }
+  },
+  {
+    "id": "339516",
+    "name": "NDACE MAMMAN",
+    "registration_area_id": "17258",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/25/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17258",
+    "ward_name": "LOKOGOMA",
+    "local_government_id": "561",
+    "local_government_name": "WUSHISHI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.567818299999999,
+      "longitude": 6.047326600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.56937517989272,
+          "lng": 6.048815679892723
+        },
+        "southwest": {
+          "lat": 9.566675520107276,
+          "lng": 6.046116020107279
+        }
+      },
+      "formatted_address": "F215, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.567818299999999,6.047326600000001",
+      "google_place_id": "ChIJfw_K7eK_SxARcA_-eoMQ5_A"
+    }
+  },
+  {
+    "id": "339517",
+    "name": "NAGENU",
+    "registration_area_id": "17258",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/25/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17258",
+    "ward_name": "LOKOGOMA",
+    "local_government_id": "561",
+    "local_government_name": "WUSHISHI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.5974928,
+      "longitude": 6.054392099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.598825529892721,
+          "lng": 6.05580057989272
+        },
+        "southwest": {
+          "lat": 9.596125870107278,
+          "lng": 6.053100920107276
+        }
+      },
+      "formatted_address": "6FX8H3W3+XRV, Nagenu, 922107, Dabiri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5974928,6.054392099999999",
+      "google_place_id": "ChIJp23xaOy9SxAR_ATeU95T2Ao"
+    }
+  },
+  {
+    "id": "339518",
+    "name": "BUTU",
+    "registration_area_id": "17258",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/25/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17258",
+    "ward_name": "LOKOGOMA",
+    "local_government_id": "561",
+    "local_government_name": "WUSHISHI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9665587,
+      "longitude": 7.4718243,
+      "viewport": {
+        "northeast": {
+          "lat": 8.967901479892722,
+          "lng": 7.473167729892721
+        },
+        "southwest": {
+          "lat": 8.965201820107279,
+          "lng": 7.470468070107277
+        }
+      },
+      "formatted_address": "Basic Estate, Lokogoma 234500, Abuja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9665587,7.4718243",
+      "google_place_id": "ChIJR2yuyQANThAR0_ZNMnheL3U"
+    }
+  }
+]

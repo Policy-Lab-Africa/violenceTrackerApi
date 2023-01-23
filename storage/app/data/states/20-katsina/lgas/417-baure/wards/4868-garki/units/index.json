@@ -1,0 +1,534 @@
+[
+  {
+    "id": "95848",
+    "name": "GARKI ADO 1 - PRIMARY SCHOOL",
+    "registration_area_id": "4868",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/04/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4868",
+    "ward_name": "GARKI",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8393093,
+      "longitude": 8.794766400000002,
+      "viewport": {
+        "northeast": {
+          "lat": 12.84066657989272,
+          "lng": 8.796012729892722
+        },
+        "southwest": {
+          "lat": 12.83796692010728,
+          "lng": 8.793313070107278
+        }
+      },
+      "formatted_address": "Garki Ado Primary School, 824105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8393093,8.794766400000002",
+      "google_place_id": "ChIJ-xOK_ioYrxERay8NddRt7zE"
+    }
+  },
+  {
+    "id": "95849",
+    "name": "GARKI ADO II KOFAR GIDAN ALH. ISAH",
+    "registration_area_id": "4868",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/04/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4868",
+    "ward_name": "GARKI",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8393093,
+      "longitude": 8.794766400000002,
+      "viewport": {
+        "northeast": {
+          "lat": 12.84066657989272,
+          "lng": 8.796012729892722
+        },
+        "southwest": {
+          "lat": 12.83796692010728,
+          "lng": 8.793313070107278
+        }
+      },
+      "formatted_address": "Garki Ado Primary School, 824105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8393093,8.794766400000002",
+      "google_place_id": "ChIJ-xOK_ioYrxERay8NddRt7zE"
+    }
+  },
+  {
+    "id": "95850",
+    "name": "GARKI MUTARI GABAS - GARKI MUTARI",
+    "registration_area_id": "4868",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/04/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4868",
+    "ward_name": "GARKI",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95851",
+    "name": "KUNTARU BABBA I - PRIMARY SCHOOL",
+    "registration_area_id": "4868",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/04/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4868",
+    "ward_name": "GARKI",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8027863,
+      "longitude": 8.7822835,
+      "viewport": {
+        "northeast": {
+          "lat": 12.80405192989272,
+          "lng": 8.783639779892722
+        },
+        "southwest": {
+          "lat": 12.80135227010728,
+          "lng": 8.780940120107278
+        }
+      },
+      "formatted_address": "Kuntaru Babba Primary School, 824105, Kuntaru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8027863,8.7822835",
+      "google_place_id": "ChIJNWqgS68ZrxERAOPZp11IUWo"
+    }
+  },
+  {
+    "id": "95852",
+    "name": "KUNTARU BABBA II - KOFAR MAIGARI",
+    "registration_area_id": "4868",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/04/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4868",
+    "ward_name": "GARKI",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8027863,
+      "longitude": 8.7822835,
+      "viewport": {
+        "northeast": {
+          "lat": 12.80405192989272,
+          "lng": 8.783639779892722
+        },
+        "southwest": {
+          "lat": 12.80135227010728,
+          "lng": 8.780940120107278
+        }
+      },
+      "formatted_address": "Kuntaru Babba Primary School, 824105, Kuntaru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8027863,8.7822835",
+      "google_place_id": "ChIJNWqgS68ZrxERAOPZp11IUWo"
+    }
+  },
+  {
+    "id": "95853",
+    "name": "BAKANJI - PRIMARY SCHOOL",
+    "registration_area_id": "4868",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/04/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4868",
+    "ward_name": "GARKI",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8049353,
+      "longitude": 8.8191352,
+      "viewport": {
+        "northeast": {
+          "lat": 12.80624627989272,
+          "lng": 8.820533529892723
+        },
+        "southwest": {
+          "lat": 12.80354662010728,
+          "lng": 8.817833870107279
+        }
+      },
+      "formatted_address": "Bakanji Primary School, 824105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8049353,8.8191352",
+      "google_place_id": "ChIJNRNlcGYYrxERRIwwSxBKdPA"
+    }
+  },
+  {
+    "id": "95854",
+    "name": "GOZAWA - PRIMARY SCHOOL",
+    "registration_area_id": "4868",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/04/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4868",
+    "ward_name": "GARKI",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8158632,
+      "longitude": 8.8369216,
+      "viewport": {
+        "northeast": {
+          "lat": 12.81719457989272,
+          "lng": 8.838249529892723
+        },
+        "southwest": {
+          "lat": 12.81449492010728,
+          "lng": 8.835549870107279
+        }
+      },
+      "formatted_address": "Gozawa Primary School, 824105, Gozawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8158632,8.8369216",
+      "google_place_id": "ChIJ7fcj258irxERWMr_XwwOOYg"
+    }
+  },
+  {
+    "id": "95855",
+    "name": "GARKI YANTUBA - YANTUBA",
+    "registration_area_id": "4868",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/04/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4868",
+    "ward_name": "GARKI",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9655905,
+      "longitude": 7.6256508,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96676362989272,
+          "lng": 7.626807779892721
+        },
+        "southwest": {
+          "lat": 12.96406397010728,
+          "lng": 7.624108120107277
+        }
+      },
+      "formatted_address": "XJ8G+67J, Luna, IBB Way, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9655905,7.6256508",
+      "google_place_id": "ChIJn0l8jaYksBERooHoNKdD87c"
+    }
+  },
+  {
+    "id": "95856",
+    "name": "KUNTARU GABAS - KUNTARU GABAS",
+    "registration_area_id": "4868",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/04/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4868",
+    "ward_name": "GARKI",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7757947,
+      "longitude": 9.0207832,
+      "viewport": {
+        "northeast": {
+          "lat": 12.77722102989272,
+          "lng": 9.021929329892721
+        },
+        "southwest": {
+          "lat": 12.77452137010728,
+          "lng": 9.019229670107277
+        }
+      },
+      "formatted_address": "Q2GC+887, 732104, Babura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7757947,9.0207832",
+      "google_place_id": "ChIJ5ax96vwvrxERdI8y3xTIBCE"
+    }
+  },
+  {
+    "id": "95857",
+    "name": "TUMFUSHI - PRIMARY SHCOOL",
+    "registration_area_id": "4868",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/04/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4868",
+    "ward_name": "GARKI",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8364134,
+      "longitude": 8.8570384,
+      "viewport": {
+        "northeast": {
+          "lat": 12.83767482989272,
+          "lng": 8.858333929892721
+        },
+        "southwest": {
+          "lat": 12.83497517010728,
+          "lng": 8.855634270107277
+        }
+      },
+      "formatted_address": "Tumfushi Primary School, 824105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8364134,8.8570384",
+      "google_place_id": "ChIJxYD4l7UirxERP3GI1ca0oJU"
+    }
+  },
+  {
+    "id": "95858",
+    "name": "UNGUWAR JUBO PRIM. SCHOOL",
+    "registration_area_id": "4868",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/04/08/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4868",
+    "ward_name": "GARKI",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95859",
+    "name": "KAWALIYA - KAWALIYA FULANI",
+    "registration_area_id": "4868",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "20/04/08/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4868",
+    "ward_name": "GARKI",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95860",
+    "name": "UNG. S/FAWA - KOFAR MAIGARI",
+    "registration_area_id": "4868",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "20/04/08/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4868",
+    "ward_name": "GARKI",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95861",
+    "name": "UNG DAUDU - KOFAR MAIGARI",
+    "registration_area_id": "4868",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "20/04/08/014",
+    "remark": "EXISTING PU",
+    "ward_id": "4868",
+    "ward_name": "GARKI",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95862",
+    "name": "UNG MAZA - CIKIN GARI",
+    "registration_area_id": "4868",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "20/04/08/015",
+    "remark": "EXISTING PU",
+    "ward_id": "4868",
+    "ward_name": "GARKI",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7693686,
+      "longitude": 9.0103706,
+      "viewport": {
+        "northeast": {
+          "lat": 12.77071137989272,
+          "lng": 9.011611529892724
+        },
+        "southwest": {
+          "lat": 12.76801172010728,
+          "lng": 9.00891187010728
+        }
+      },
+      "formatted_address": "Q296+P4X, opposite INEC office, 732104, Babura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7693686,9.0103706",
+      "google_place_id": "ChIJFapDq-AlrxERvEwmxWz5ow4"
+    }
+  },
+  {
+    "id": "95863",
+    "name": "UNG INGA - KOFAR MAIGARI",
+    "registration_area_id": "4868",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "20/04/08/016",
+    "remark": "EXISTING PU",
+    "ward_id": "4868",
+    "ward_name": "GARKI",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95864",
+    "name": "GARKI ADO 1 B",
+    "registration_area_id": "4868",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "20/04/08/017",
+    "remark": "NEW PU",
+    "ward_id": "4868",
+    "ward_name": "GARKI",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8393093,
+      "longitude": 8.794766400000002,
+      "viewport": {
+        "northeast": {
+          "lat": 12.84066657989272,
+          "lng": 8.796012729892722
+        },
+        "southwest": {
+          "lat": 12.83796692010728,
+          "lng": 8.793313070107278
+        }
+      },
+      "formatted_address": "Garki Ado Primary School, 824105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8393093,8.794766400000002",
+      "google_place_id": "ChIJ-xOK_ioYrxERay8NddRt7zE"
+    }
+  },
+  {
+    "id": "95865",
+    "name": "GARKI ADO 11B",
+    "registration_area_id": "4868",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "20/04/08/018",
+    "remark": "NEW PU",
+    "ward_id": "4868",
+    "ward_name": "GARKI",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8393093,
+      "longitude": 8.794766400000002,
+      "viewport": {
+        "northeast": {
+          "lat": 12.84066657989272,
+          "lng": 8.796012729892722
+        },
+        "southwest": {
+          "lat": 12.83796692010728,
+          "lng": 8.793313070107278
+        }
+      },
+      "formatted_address": "Garki Ado Primary School, 824105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8393093,8.794766400000002",
+      "google_place_id": "ChIJ-xOK_ioYrxERay8NddRt7zE"
+    }
+  },
+  {
+    "id": "95866",
+    "name": "GARKI MUTARI B",
+    "registration_area_id": "4868",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "20/04/08/019",
+    "remark": "NEW PU",
+    "ward_id": "4868",
+    "ward_name": "GARKI",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95867",
+    "name": "GOZAWA FULANI",
+    "registration_area_id": "4868",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "20/04/08/020",
+    "remark": "NEW PU",
+    "ward_id": "4868",
+    "ward_name": "GARKI",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  }
+]

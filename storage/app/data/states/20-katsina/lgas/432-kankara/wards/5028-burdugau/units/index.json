@@ -1,0 +1,615 @@
+[
+  {
+    "id": "98783",
+    "name": "BURDUGAU I - PRI.SCHOOL",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/19/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9919807,
+      "longitude": 7.5984096,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99326747989272,
+          "lng": 7.599764229892722
+        },
+        "southwest": {
+          "lat": 12.99056782010728,
+          "lng": 7.597064570107278
+        }
+      },
+      "formatted_address": "820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9919807,7.5984096",
+      "google_place_id": "ChIJxXBXXLg8sBEREHcdu6AGHBw"
+    }
+  },
+  {
+    "id": "98784",
+    "name": "BURGUGAU II - PRI.SCHOOL",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/19/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.93303,
+      "longitude": 7.3967338,
+      "viewport": {
+        "northeast": {
+          "lat": 11.93411272989272,
+          "lng": 7.398113979892723
+        },
+        "southwest": {
+          "lat": 11.93141307010728,
+          "lng": 7.395414320107279
+        }
+      },
+      "formatted_address": "W9MW+6M9 Dan Sabo, Chafe Road, 832102, Kankara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.93303,7.3967338",
+      "google_place_id": "ChIJHey-emIhshER5G2JsSHlDxw"
+    }
+  },
+  {
+    "id": "98785",
+    "name": "DAN LAWAL A&B PROJECT",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/19/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.2146379,
+      "longitude": 8.1794989,
+      "viewport": {
+        "northeast": {
+          "lat": 11.2152599,
+          "lng": 8.1874369
+        },
+        "southwest": {
+          "lat": 11.2073839,
+          "lng": 8.176625099999999
+        }
+      },
+      "formatted_address": "801127, Dan Lawal, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2146379,8.1794989",
+      "google_place_id": "ChIJ7UDXgGQKrRERwfXo6mYRe5c"
+    }
+  },
+  {
+    "id": "98786",
+    "name": "DORAWA I TASHAR DORAWA NATIBA",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/19/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98787",
+    "name": "DORAWA II -K/G SANI SARKI",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/19/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.1911,
+      "longitude": 7.7689,
+      "viewport": {
+        "northeast": {
+          "lat": 13.19245117989272,
+          "lng": 7.770262879892721
+        },
+        "southwest": {
+          "lat": 13.18975152010728,
+          "lng": 7.767563220107277
+        }
+      },
+      "formatted_address": "5QR9+CHR, 820103, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.1911,7.7689",
+      "google_place_id": "ChIJUQISKJwdsBERlcewjJE164U"
+    }
+  },
+  {
+    "id": "98788",
+    "name": "DAN KAKURU - K/G MAI UNG",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/19/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98789",
+    "name": "AGANGARO - AGANGARO",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/19/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.798553,
+      "longitude": 7.5111339,
+      "viewport": {
+        "northeast": {
+          "lat": 11.804091,
+          "lng": 7.513546
+        },
+        "southwest": {
+          "lat": 11.7857579,
+          "lng": 7.504657899999999
+        }
+      },
+      "formatted_address": "Agangaro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.798553,7.5111339",
+      "google_place_id": "ChIJt67IYfoZshERBOa3eqvrtFI"
+    }
+  },
+  {
+    "id": "98790",
+    "name": "SHARADA I K/G MAIUNG",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/19/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.93303,
+      "longitude": 7.3967338,
+      "viewport": {
+        "northeast": {
+          "lat": 11.93411272989272,
+          "lng": 7.398113979892723
+        },
+        "southwest": {
+          "lat": 11.93141307010728,
+          "lng": 7.395414320107279
+        }
+      },
+      "formatted_address": "W9MW+6M9 Dan Sabo, Chafe Road, 832102, Kankara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.93303,7.3967338",
+      "google_place_id": "ChIJHey-emIhshER5G2JsSHlDxw"
+    }
+  },
+  {
+    "id": "98791",
+    "name": "SHARADA II K/G AG SALLAU",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/19/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98792",
+    "name": "MAI SABULU -K/G MAIUNG",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/19/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98793",
+    "name": "DANKALGO A&B K/G MAIUNG",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/19/08/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.8697,
+      "longitude": 7.524800000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.87105392989272,
+          "lng": 7.526115779892723
+        },
+        "southwest": {
+          "lat": 11.86835427010728,
+          "lng": 7.523416120107279
+        }
+      },
+      "formatted_address": "VG9F+VWF, 832102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8697,7.524800000000001",
+      "google_place_id": "ChIJSSQVWP0bshERq8YFDDJg1B8"
+    }
+  },
+  {
+    "id": "98794",
+    "name": "DAN BARMO PRI.SCHOOL",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "20/19/08/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98795",
+    "name": "SANTAR KAKU PRI.SCHOOL",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "20/19/08/013",
+    "remark": "EXISTING PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.93303,
+      "longitude": 7.3967338,
+      "viewport": {
+        "northeast": {
+          "lat": 11.93411272989272,
+          "lng": 7.398113979892723
+        },
+        "southwest": {
+          "lat": 11.93141307010728,
+          "lng": 7.395414320107279
+        }
+      },
+      "formatted_address": "W9MW+6M9 Dan Sabo, Chafe Road, 832102, Kankara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.93303,7.3967338",
+      "google_place_id": "ChIJHey-emIhshER5G2JsSHlDxw"
+    }
+  },
+  {
+    "id": "98796",
+    "name": "GOBIRAWA  K/G MAI UNGUWA",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "20/19/08/014",
+    "remark": "EXISTING PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.8471223,
+      "longitude": 7.4922407,
+      "viewport": {
+        "northeast": {
+          "lat": 11.9626471,
+          "lng": 7.5416516
+        },
+        "southwest": {
+          "lat": 11.792002,
+          "lng": 7.461000899999999
+        }
+      },
+      "formatted_address": "Burdugau, 832102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8471223,7.4922407",
+      "google_place_id": "ChIJ1e2ypDUZshERykjwQN-p-9w"
+    }
+  },
+  {
+    "id": "98797",
+    "name": "GOBIRARAWA  K/GIDAN MAI UNGUWA",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "20/19/08/015",
+    "remark": "EXISTING PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9815608,
+      "longitude": 7.622266499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98290287989272,
+          "lng": 7.62356807989272
+        },
+        "southwest": {
+          "lat": 12.98020322010728,
+          "lng": 7.620868420107276
+        }
+      },
+      "formatted_address": "Kadarko Estate, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9815608,7.622266499999999",
+      "google_place_id": "ChIJ_byQJtgjsBERaJBmztEZDLc"
+    }
+  },
+  {
+    "id": "98798",
+    "name": "MAI KAWO PRI.SCHOOL I",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "20/19/08/016",
+    "remark": "EXISTING PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.968384,
+      "longitude": 7.590720499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96973807989272,
+          "lng": 7.592134479892722
+        },
+        "southwest": {
+          "lat": 12.96703842010728,
+          "lng": 7.589434820107278
+        }
+      },
+      "formatted_address": "XH9R+975, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.968384,7.590720499999999",
+      "google_place_id": "ChIJoxV_y187sBERpTxx_4U06RM"
+    }
+  },
+  {
+    "id": "98799",
+    "name": "KURBA I PRI.SCHOOL",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "20/19/08/017",
+    "remark": "EXISTING PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.93303,
+      "longitude": 7.3967338,
+      "viewport": {
+        "northeast": {
+          "lat": 11.93411272989272,
+          "lng": 7.398113979892723
+        },
+        "southwest": {
+          "lat": 11.93141307010728,
+          "lng": 7.395414320107279
+        }
+      },
+      "formatted_address": "W9MW+6M9 Dan Sabo, Chafe Road, 832102, Kankara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.93303,7.3967338",
+      "google_place_id": "ChIJHey-emIhshER5G2JsSHlDxw"
+    }
+  },
+  {
+    "id": "98800",
+    "name": "KURBA II K/G MAI UNG",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "20/19/08/018",
+    "remark": "EXISTING PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.8471223,
+      "longitude": 7.4922407,
+      "viewport": {
+        "northeast": {
+          "lat": 11.9626471,
+          "lng": 7.5416516
+        },
+        "southwest": {
+          "lat": 11.792002,
+          "lng": 7.461000899999999
+        }
+      },
+      "formatted_address": "Burdugau, 832102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8471223,7.4922407",
+      "google_place_id": "ChIJ1e2ypDUZshERykjwQN-p-9w"
+    }
+  },
+  {
+    "id": "98801",
+    "name": "GIDAN JATAU",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "20/19/08/019",
+    "remark": "NEW PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.9256288,
+      "longitude": 7.4156789,
+      "viewport": {
+        "northeast": {
+          "lat": 11.92680957989272,
+          "lng": 7.416803379892722
+        },
+        "southwest": {
+          "lat": 11.92410992010728,
+          "lng": 7.414103720107278
+        }
+      },
+      "formatted_address": "WCG8+773, 832102, Kankara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9256288,7.4156789",
+      "google_place_id": "ChIJAzlzFL4hshERDqQGQJBjQOM"
+    }
+  },
+  {
+    "id": "98802",
+    "name": "UNG. MAI SUNKWI B",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "20/19/08/020",
+    "remark": "NEW PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.93303,
+      "longitude": 7.3967338,
+      "viewport": {
+        "northeast": {
+          "lat": 11.93411272989272,
+          "lng": 7.398113979892723
+        },
+        "southwest": {
+          "lat": 11.93141307010728,
+          "lng": 7.395414320107279
+        }
+      },
+      "formatted_address": "W9MW+6M9 Dan Sabo, Chafe Road, 832102, Kankara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.93303,7.3967338",
+      "google_place_id": "ChIJHey-emIhshER5G2JsSHlDxw"
+    }
+  },
+  {
+    "id": "98803",
+    "name": "MAI KANO DISPENSARY",
+    "registration_area_id": "5028",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "20/19/08/021",
+    "remark": "NEW PU",
+    "ward_id": "5028",
+    "ward_name": "BURDUGAU",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 43.6764472,
+      "longitude": -79.74638809999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.67770747989272,
+          "lng": -79.74512842010728
+        },
+        "southwest": {
+          "lat": 43.67500782010728,
+          "lng": -79.74782807989273
+        }
+      },
+      "formatted_address": "186 Main St S, Brampton, ON L6W 2E2, Canada",
+      "google_map_url": "https://maps.google.com?q=43.6764472,-79.74638809999999",
+      "google_place_id": "ChIJcb3KNugVK4gR0Ms1NvZstiE"
+    }
+  }
+]

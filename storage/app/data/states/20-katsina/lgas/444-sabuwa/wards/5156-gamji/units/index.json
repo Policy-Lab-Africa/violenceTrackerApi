@@ -1,0 +1,366 @@
+[
+  {
+    "id": "101249",
+    "name": "GAMJI/PRI.SCHOOL",
+    "registration_area_id": "5156",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/31/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5156",
+    "ward_name": "GAMJI",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "101250",
+    "name": "GOBIRAWA/KG ALH.NAGWAGGO",
+    "registration_area_id": "5156",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/31/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5156",
+    "ward_name": "GAMJI",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.3366418,
+      "longitude": 7.1251699,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4286412,
+          "lng": 7.1615771
+        },
+        "southwest": {
+          "lat": 11.3024268,
+          "lng": 7.0690034
+        }
+      },
+      "formatted_address": "Gamji, 830104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3366418,7.1251699",
+      "google_place_id": "ChIJqVu7G2pTshERnQX-Km0ap_I"
+    }
+  },
+  {
+    "id": "101251",
+    "name": "UNGUWAR MAI GAYYA",
+    "registration_area_id": "5156",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/31/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5156",
+    "ward_name": "GAMJI",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.3366418,
+      "longitude": 7.1251699,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4286412,
+          "lng": 7.1615771
+        },
+        "southwest": {
+          "lat": 11.3024268,
+          "lng": 7.0690034
+        }
+      },
+      "formatted_address": "Gamji, 830104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3366418,7.1251699",
+      "google_place_id": "ChIJqVu7G2pTshERnQX-Km0ap_I"
+    }
+  },
+  {
+    "id": "101252",
+    "name": "UNGUWAR SARKIN DAWA/K/G.MAIUNG.ABDU",
+    "registration_area_id": "5156",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/31/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5156",
+    "ward_name": "GAMJI",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "101253",
+    "name": "ALBASU/PRI.SCHOOL",
+    "registration_area_id": "5156",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/31/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5156",
+    "ward_name": "GAMJI",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9815608,
+      "longitude": 7.622266499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98290287989272,
+          "lng": 7.62356807989272
+        },
+        "southwest": {
+          "lat": 12.98020322010728,
+          "lng": 7.620868420107276
+        }
+      },
+      "formatted_address": "XJJC+JWC, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9815608,7.622266499999999",
+      "google_place_id": "ChIJyyfYRtMjsBER5uM2_vL0rSI"
+    }
+  },
+  {
+    "id": "101254",
+    "name": "GAMJI/VIEWING CENTRE",
+    "registration_area_id": "5156",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/31/08/006",
+    "remark": "NEW PU",
+    "ward_id": "5156",
+    "ward_name": "GAMJI",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.3366418,
+      "longitude": 7.1251699,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4286412,
+          "lng": 7.1615771
+        },
+        "southwest": {
+          "lat": 11.3024268,
+          "lng": 7.0690034
+        }
+      },
+      "formatted_address": "Gamji, 830104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3366418,7.1251699",
+      "google_place_id": "ChIJqVu7G2pTshERnQX-Km0ap_I"
+    }
+  },
+  {
+    "id": "101255",
+    "name": "GAMJI/PHC CENTRE",
+    "registration_area_id": "5156",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/31/08/007",
+    "remark": "NEW PU",
+    "ward_id": "5156",
+    "ward_name": "GAMJI",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.3275,
+      "longitude": 7.1426,
+      "viewport": {
+        "northeast": {
+          "lat": 11.32878782989272,
+          "lng": 7.143689229892721
+        },
+        "southwest": {
+          "lat": 11.32608817010728,
+          "lng": 7.140989570107277
+        }
+      },
+      "formatted_address": "84HV+225, 830104, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3275,7.1426",
+      "google_place_id": "ChIJzXLqIWdUshERR6472Yk0Zh4"
+    }
+  },
+  {
+    "id": "101256",
+    "name": "GAMJI/ISLAMIYYA SCHOOL",
+    "registration_area_id": "5156",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/31/08/008",
+    "remark": "NEW PU",
+    "ward_id": "5156",
+    "ward_name": "GAMJI",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.3366418,
+      "longitude": 7.1251699,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4286412,
+          "lng": 7.1615771
+        },
+        "southwest": {
+          "lat": 11.3024268,
+          "lng": 7.0690034
+        }
+      },
+      "formatted_address": "Gamji, 830104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3366418,7.1251699",
+      "google_place_id": "ChIJqVu7G2pTshERnQX-Km0ap_I"
+    }
+  },
+  {
+    "id": "101257",
+    "name": "NASARAWAR DAJI/PRI. SCHOOL",
+    "registration_area_id": "5156",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/31/08/009",
+    "remark": "NEW PU",
+    "ward_id": "5156",
+    "ward_name": "GAMJI",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.2828429,
+      "longitude": 10.3445702,
+      "viewport": {
+        "northeast": {
+          "lat": 12.28419502989272,
+          "lng": 10.34592037989272
+        },
+        "southwest": {
+          "lat": 12.28149537010728,
+          "lng": 10.34322072010728
+        }
+      },
+      "formatted_address": "78MV+4VR, Unguwar Nasarawa, LGA, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2828429,10.3445702",
+      "google_place_id": "ChIJU4ScdR7BqRERgaW2Wi3EfOw"
+    }
+  },
+  {
+    "id": "101258",
+    "name": "UNG. MAIGAYYA/KG GARBA DANTAMBAYA",
+    "registration_area_id": "5156",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/31/08/010",
+    "remark": "NEW PU",
+    "ward_id": "5156",
+    "ward_name": "GAMJI",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9980032,
+      "longitude": 7.5955385,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99935827989272,
+          "lng": 7.596646279892721
+        },
+        "southwest": {
+          "lat": 12.99665862010728,
+          "lng": 7.593946620107277
+        }
+      },
+      "formatted_address": "XHXW+663, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9980032,7.5955385",
+      "google_place_id": "ChIJwf3xycY8sBERuSOehDaBVsE"
+    }
+  },
+  {
+    "id": "101259",
+    "name": "UNG. SARKIN DAWA/PRI. SCHOOL",
+    "registration_area_id": "5156",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/31/08/011",
+    "remark": "NEW PU",
+    "ward_id": "5156",
+    "ward_name": "GAMJI",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.2988746,
+      "longitude": 7.0652573,
+      "viewport": {
+        "northeast": {
+          "lat": 11.30022442989272,
+          "lng": 7.066607129892723
+        },
+        "southwest": {
+          "lat": 11.29752477010728,
+          "lng": 7.063907470107279
+        }
+      },
+      "formatted_address": "73X8+G4R, 830104, Banbawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2988746,7.0652573",
+      "google_place_id": "ChIJ4wNcEIersxERpGG2u6X3BoU"
+    }
+  },
+  {
+    "id": "101260",
+    "name": "ALBASU DISPENSARY",
+    "registration_area_id": "5156",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "20/31/08/012",
+    "remark": "NEW PU",
+    "ward_id": "5156",
+    "ward_name": "GAMJI",
+    "local_government_id": "444",
+    "local_government_name": "SABUWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.5312472,
+      "longitude": 7.3126643,
+      "viewport": {
+        "northeast": {
+          "lat": 11.53259632989272,
+          "lng": 7.314014179892722
+        },
+        "southwest": {
+          "lat": 11.52989667010728,
+          "lng": 7.311314520107278
+        }
+      },
+      "formatted_address": "No. 12 Shehu Minister Road, Sabon - Layi, Funtua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5312472,7.3126643",
+      "google_place_id": "ChIJSePvWWFHshER6s-9TRSJPcs"
+    }
+  }
+]

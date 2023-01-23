@@ -1,0 +1,101 @@
+[
+  {
+    "id": "9172",
+    "name": "PRY SCH, IWUOKPOM OPOLOM",
+    "registration_area_id": "488",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "03/08/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "488",
+    "ward_name": "IBENO 1V",
+    "local_government_id": "46",
+    "local_government_name": "IBENO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.5726176,
+      "longitude": 7.982854799999998,
+      "viewport": {
+        "northeast": {
+          "lat": 4.574054579892722,
+          "lng": 7.983973979892721
+        },
+        "southwest": {
+          "lat": 4.571354920107278,
+          "lng": 7.981274320107277
+        }
+      },
+      "formatted_address": "HXFM+24X, 524110, Upenekang, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5726176,7.982854799999998",
+      "google_place_id": "ChIJ55LDsOnEZxARGFnnA5pnVU0"
+    }
+  },
+  {
+    "id": "9173",
+    "name": "TOWN HALL, IWUOKPOM OPOLOM",
+    "registration_area_id": "488",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "03/08/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "488",
+    "ward_name": "IBENO 1V",
+    "local_government_id": "46",
+    "local_government_name": "IBENO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.5448845,
+      "longitude": 7.8993756,
+      "viewport": {
+        "northeast": {
+          "lat": 4.5580694,
+          "lng": 7.928656500000001
+        },
+        "southwest": {
+          "lat": 4.5298279,
+          "lng": 7.8554957
+        }
+      },
+      "formatted_address": "Ibeno 1v, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5448845,7.8993756",
+      "google_place_id": "ChIJtcJjPD_aZxARGUGfvOb_TaA"
+    }
+  },
+  {
+    "id": "9174",
+    "name": "VILLAGE HALL, AKATA",
+    "registration_area_id": "488",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "03/08/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "488",
+    "ward_name": "IBENO 1V",
+    "local_government_id": "46",
+    "local_government_name": "IBENO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.1163827,
+      "longitude": 7.3293668,
+      "viewport": {
+        "northeast": {
+          "lat": 5.117734879892721,
+          "lng": 7.330694979892722
+        },
+        "southwest": {
+          "lat": 5.115035220107277,
+          "lng": 7.327995320107277
+        }
+      },
+      "formatted_address": "1 Alozie St, Ariaria 450102, Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1163827,7.3293668",
+      "google_place_id": "ChIJLdFp4F6WQhARAK2hlu17HWw"
+    }
+  }
+]

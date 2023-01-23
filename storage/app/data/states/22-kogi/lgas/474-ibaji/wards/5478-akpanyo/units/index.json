@@ -1,0 +1,419 @@
+[
+  {
+    "id": "106653",
+    "name": "ODOLU I - ODOLU TOWN HALL",
+    "registration_area_id": "5478",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "22/06/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5478",
+    "ward_name": "AKPANYO",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.0825382,
+      "longitude": 7.0498442,
+      "viewport": {
+        "northeast": {
+          "lat": 7.290047400000001,
+          "lng": 7.3679294
+        },
+        "southwest": {
+          "lat": 6.783509899999999,
+          "lng": 6.7026911
+        }
+      },
+      "formatted_address": "Igalamela-Odolu, 271101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0825382,7.0498442",
+      "google_place_id": "ChIJsVSTXMxURBAROpTCyK5r5lE"
+    }
+  },
+  {
+    "id": "106654",
+    "name": "ODOLU  II- PUBLIC SQUARE",
+    "registration_area_id": "5478",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "22/06/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5478",
+    "ward_name": "AKPANYO",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106655",
+    "name": "OTI ENWALI - OPEN SPACE OTI",
+    "registration_area_id": "5478",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "22/06/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5478",
+    "ward_name": "AKPANYO",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106656",
+    "name": "IGBENWE/ODOGWU - OPEN SPACE IGBENWE",
+    "registration_area_id": "5478",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "22/06/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5478",
+    "ward_name": "AKPANYO",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106657",
+    "name": "IJIFU ENWELI - OPEN SPACE IJIFU",
+    "registration_area_id": "5478",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "22/06/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5478",
+    "ward_name": "AKPANYO",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 6.883769399999999,
+      "longitude": 6.6758408,
+      "viewport": {
+        "northeast": {
+          "lat": 6.884955079892721,
+          "lng": 6.677104979892722
+        },
+        "southwest": {
+          "lat": 6.882255420107277,
+          "lng": 6.674405320107278
+        }
+      },
+      "formatted_address": "opposite local government headquarters, 271105, Onyedega, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.883769399999999,6.6758408",
+      "google_place_id": "ChIJWwRJXxA3RBARp6Q7hbiCTuk"
+    }
+  },
+  {
+    "id": "106658",
+    "name": "AMAJA I - TOWN HALL AMAJA",
+    "registration_area_id": "5478",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "22/06/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5478",
+    "ward_name": "AKPANYO",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106659",
+    "name": "AMAJA II - OPEN SPACE",
+    "registration_area_id": "5478",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "22/06/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5478",
+    "ward_name": "AKPANYO",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106660",
+    "name": "AMAJA III - OPEN SPACE",
+    "registration_area_id": "5478",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "22/06/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5478",
+    "ward_name": "AKPANYO",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106661",
+    "name": "IYALO I & II OPEN SPACE",
+    "registration_area_id": "5478",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "22/06/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5478",
+    "ward_name": "AKPANYO",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 42.97853,
+      "longitude": -78.6715631,
+      "viewport": {
+        "northeast": {
+          "lat": 42.97966597989272,
+          "lng": -78.67021672010728
+        },
+        "southwest": {
+          "lat": 42.97696632010727,
+          "lng": -78.67291637989273
+        }
+      },
+      "formatted_address": "8600 Sheridan Dr, Williamsville, NY 14221, United States",
+      "google_map_url": "https://maps.google.com?q=42.97853,-78.6715631",
+      "google_place_id": "ChIJZxiMLpN104kR4-eAueSlWTk"
+    }
+  },
+  {
+    "id": "106662",
+    "name": "AJAMAJA - OPEN SPACE",
+    "registration_area_id": "5478",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "22/06/04/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5478",
+    "ward_name": "AKPANYO",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106663",
+    "name": "OFOKO - OPEN SPACE",
+    "registration_area_id": "5478",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "22/06/04/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5478",
+    "ward_name": "AKPANYO",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "106664",
+    "name": "ONWUNYO - OPEN SPACE",
+    "registration_area_id": "5478",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "22/06/04/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5478",
+    "ward_name": "AKPANYO",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "106665",
+    "name": "OGBODO - OPEN SPACE",
+    "registration_area_id": "5478",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "22/06/04/013",
+    "remark": "EXISTING PU",
+    "ward_id": "5478",
+    "ward_name": "AKPANYO",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106666",
+    "name": "AYEKE NEW SITE - OPEN SPACE",
+    "registration_area_id": "5478",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "22/06/04/014",
+    "remark": "EXISTING PU",
+    "ward_id": "5478",
+    "ward_name": "AKPANYO",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106667",
+    "name": "ENWELI NEW SITE OPEN SPACE",
+    "registration_area_id": "5478",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "22/06/04/015",
+    "remark": "NEW PU",
+    "ward_id": "5478",
+    "ward_name": "AKPANYO",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 6.826620600000001,
+      "longitude": 6.7684205,
+      "viewport": {
+        "northeast": {
+          "lat": 6.827801429892722,
+          "lng": 6.769498979892722
+        },
+        "southwest": {
+          "lat": 6.825101770107278,
+          "lng": 6.766799320107278
+        }
+      },
+      "formatted_address": "RQG9+J9V, Along ayeke express road, Aliko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.826620600000001,6.7684205",
+      "google_place_id": "ChIJGaTH_-FHRBARMnXIt8w2_hU"
+    }
+  },
+  {
+    "id": "106668",
+    "name": "ICCSS ENWELI",
+    "registration_area_id": "5478",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "22/06/04/016",
+    "remark": "NEW PU",
+    "ward_id": "5478",
+    "ward_name": "AKPANYO",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 6.826620600000001,
+      "longitude": 6.7684205,
+      "viewport": {
+        "northeast": {
+          "lat": 6.827801429892722,
+          "lng": 6.769498979892722
+        },
+        "southwest": {
+          "lat": 6.825101770107278,
+          "lng": 6.766799320107278
+        }
+      },
+      "formatted_address": "RQG9+J9V, Along ayeke express road, Aliko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.826620600000001,6.7684205",
+      "google_place_id": "ChIJGaTH_-FHRBARMnXIt8w2_hU"
+    }
+  },
+  {
+    "id": "106669",
+    "name": "ODEJELE OPEN SPACE AYEKE",
+    "registration_area_id": "5478",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "22/06/04/017",
+    "remark": "NEW PU",
+    "ward_id": "5478",
+    "ward_name": "AKPANYO",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.485843699999999,
+      "longitude": 7.187395599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.487135729892722,
+          "lng": 7.188881829892721
+        },
+        "southwest": {
+          "lat": 7.484436070107278,
+          "lng": 7.186182170107277
+        }
+      },
+      "formatted_address": "University, Anyigba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.485843699999999,7.187395599999999",
+      "google_place_id": "ChIJ8Sc_5nsLThARDZHeroLI0Bc"
+    }
+  }
+]

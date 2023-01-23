@@ -1,0 +1,153 @@
+[
+  {
+    "id": "35500",
+    "name": "ALIRI",
+    "registration_area_id": "1923",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/23/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1923",
+    "ward_name": "ZARI",
+    "local_government_id": "164",
+    "local_government_name": "MOBBAR",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35501",
+    "name": "GABCHIYARI",
+    "registration_area_id": "1923",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/23/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1923",
+    "ward_name": "ZARI",
+    "local_government_id": "164",
+    "local_government_name": "MOBBAR",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35502",
+    "name": "KACHALLA KENNARI",
+    "registration_area_id": "1923",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/23/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1923",
+    "ward_name": "ZARI",
+    "local_government_id": "164",
+    "local_government_name": "MOBBAR",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35503",
+    "name": "KAIRI",
+    "registration_area_id": "1923",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/23/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1923",
+    "ward_name": "ZARI",
+    "local_government_id": "164",
+    "local_government_name": "MOBBAR",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35504",
+    "name": "KWAILO",
+    "registration_area_id": "1923",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/23/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1923",
+    "ward_name": "ZARI",
+    "local_government_id": "164",
+    "local_government_name": "MOBBAR",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35505",
+    "name": "ZARI LAWANTI",
+    "registration_area_id": "1923",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/23/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1923",
+    "ward_name": "ZARI",
+    "local_government_id": "164",
+    "local_government_name": "MOBBAR",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 13.0892761,
+      "longitude": 12.7393695,
+      "viewport": {
+        "northeast": {
+          "lat": 13.091838,
+          "lng": 12.7406919
+        },
+        "southwest": {
+          "lat": 13.088316,
+          "lng": 12.73548
+        }
+      },
+      "formatted_address": "602101, Zari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0892761,12.7393695",
+      "google_place_id": "ChIJ_Vgg922DBRERsjvxqc0UH4s"
+    }
+  },
+  {
+    "id": "35506",
+    "name": "ZARI PRI. SCH.",
+    "registration_area_id": "1923",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/23/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1923",
+    "ward_name": "ZARI",
+    "local_government_id": "164",
+    "local_government_name": "MOBBAR",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8691722,
+      "longitude": 13.1251339,
+      "viewport": {
+        "northeast": {
+          "lat": 11.87049267989272,
+          "lng": 13.12644337989272
+        },
+        "southwest": {
+          "lat": 11.86779302010728,
+          "lng": 13.12374372010728
+        }
+      },
+      "formatted_address": "600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8691722,13.1251339",
+      "google_place_id": "ChIJy1H2AieZBBERcsU3Pb6d5Q8"
+    }
+  }
+]

@@ -1,0 +1,993 @@
+[
+  {
+    "id": "49742",
+    "name": "UDIANEGBE - OLD POST OFFICE",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "12/09/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.0731493,
+      "longitude": 6.262864,
+      "viewport": {
+        "northeast": {
+          "lat": 7.074507329892723,
+          "lng": 6.264053279892722
+        },
+        "southwest": {
+          "lat": 7.071807670107279,
+          "lng": 6.261353620107278
+        }
+      },
+      "formatted_address": "37F7+745, 312101, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0731493,6.262864",
+      "google_place_id": "ChIJez4AwRR9RhARSX5cs5Rgnig"
+    }
+  },
+  {
+    "id": "49743",
+    "name": "OKOTO UGUYI AND IDANE UGUYI - OLELE ST. BOOTH",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "12/09/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": null
+  },
+  {
+    "id": "49744",
+    "name": "I.C.. E ROAD AREA - I.C.E.",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "12/09/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.0735239,
+      "longitude": 6.2682658,
+      "viewport": {
+        "northeast": {
+          "lat": 7.074839579892722,
+          "lng": 6.269625029892722
+        },
+        "southwest": {
+          "lat": 7.072139920107278,
+          "lng": 6.266925370107278
+        }
+      },
+      "formatted_address": "37F9+C82, SECRETARIAT ROAD, 312101, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0735239,6.2682658",
+      "google_place_id": "ChIJp1GwvxJ9RhAR6iaEXxI99X0"
+    }
+  },
+  {
+    "id": "49745",
+    "name": "IYOFA/OKPOKWILI - NEAR IYOFA MOSQUE",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "12/09/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.0737084,
+      "longitude": 6.269799,
+      "viewport": {
+        "northeast": {
+          "lat": 7.075054029892722,
+          "lng": 6.271130179892721
+        },
+        "southwest": {
+          "lat": 7.072354370107278,
+          "lng": 6.268430520107278
+        }
+      },
+      "formatted_address": "37F9+FWQ, Auchi - Ekpesa Rd, 312101, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0737084,6.269799",
+      "google_place_id": "ChIJH-VCZw19RhARFBpP_rbLDx0"
+    }
+  },
+  {
+    "id": "49746",
+    "name": "AFOBOME - AFOBOME BOOTH",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "12/09/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.066830599999999,
+      "longitude": 6.274780199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.068173579892721,
+          "lng": 6.276158379892722
+        },
+        "southwest": {
+          "lat": 7.065473920107277,
+          "lng": 6.273458720107278
+        }
+      },
+      "formatted_address": "13, local Government area, Auchi Polytechnic, Along Benin – Okene Road, P.M.B, 312101, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.066830599999999,6.274780199999999",
+      "google_place_id": "ChIJq6qqqnZ9RhARatMkk7K0EoI"
+    }
+  },
+  {
+    "id": "49747",
+    "name": "OUR LADY OF FATIMA AREAS - OUR LADY OF FATIMA COLLEGE",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "12/09/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.078605199999999,
+      "longitude": 6.2811648,
+      "viewport": {
+        "northeast": {
+          "lat": 7.080029529892721,
+          "lng": 6.282397479892722
+        },
+        "southwest": {
+          "lat": 7.077329870107278,
+          "lng": 6.279697820107279
+        }
+      },
+      "formatted_address": "Jattu - Atte Rd, 312101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.078605199999999,6.2811648",
+      "google_place_id": "ChIJe7DXQ6d9RhARkTstH8cF_2A"
+    }
+  },
+  {
+    "id": "49748",
+    "name": "AFEAGBOKHAIKHUME. AIBOTSE - AIBOTSE/ IGBE P/S",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "12/09/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.066830599999999,
+      "longitude": 6.274780199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.068173579892721,
+          "lng": 6.276158379892722
+        },
+        "southwest": {
+          "lat": 7.065473920107277,
+          "lng": 6.273458720107278
+        }
+      },
+      "formatted_address": "378F+PWJ, Back of Mr Biggs, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.066830599999999,6.274780199999999",
+      "google_place_id": "ChIJq6qqqnZ9RhARnWBNKAyeS2o"
+    }
+  },
+  {
+    "id": "49749",
+    "name": "AFEAGBOKHAIKHUME - AIBOTSE P/S",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "12/09/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.066830599999999,
+      "longitude": 6.274780199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.068173579892721,
+          "lng": 6.276158379892722
+        },
+        "southwest": {
+          "lat": 7.065473920107277,
+          "lng": 6.273458720107278
+        }
+      },
+      "formatted_address": "378F+PWJ, Back of Mr Biggs, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.066830599999999,6.274780199999999",
+      "google_place_id": "ChIJq6qqqnZ9RhARnWBNKAyeS2o"
+    }
+  },
+  {
+    "id": "49750",
+    "name": "SCH. OF EME IGBIRA CAMP - IGBIRA CAMP BOOTH",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "12/09/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.087306099999999,
+      "longitude": 6.2379793,
+      "viewport": {
+        "northeast": {
+          "lat": 7.088294129892722,
+          "lng": 6.239038379892722
+        },
+        "southwest": {
+          "lat": 7.085594470107278,
+          "lng": 6.236338720107279
+        }
+      },
+      "formatted_address": "36PQ+W5H, 312102, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.087306099999999,6.2379793",
+      "google_place_id": "ChIJ4Xyeqet9RhARnO7KbVd2M1U"
+    }
+  },
+  {
+    "id": "49751",
+    "name": "NICOHO BARRACKS - MAIMI MKT. BOOTH",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "12/09/04/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.073254599999999,
+      "longitude": 6.2690757,
+      "viewport": {
+        "northeast": {
+          "lat": 7.074626179892723,
+          "lng": 6.270622579892722
+        },
+        "southwest": {
+          "lat": 7.071926520107279,
+          "lng": 6.267922920107278
+        }
+      },
+      "formatted_address": "37F9+8J4, 312101, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.073254599999999,6.2690757",
+      "google_place_id": "ChIJ0Y-mvxJ9RhARaak9moLZ7Pg"
+    }
+  },
+  {
+    "id": "49752",
+    "name": "OPEN SPACE PICK UP GARAGE",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "12/09/04/011",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.0735239,
+      "longitude": 6.2682658,
+      "viewport": {
+        "northeast": {
+          "lat": 7.074839579892722,
+          "lng": 6.269625029892722
+        },
+        "southwest": {
+          "lat": 7.072139920107278,
+          "lng": 6.266925370107278
+        }
+      },
+      "formatted_address": "37F9+C82, SECRETARIAT ROAD, 312101, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0735239,6.2682658",
+      "google_place_id": "ChIJp1GwvxJ9RhAR6iaEXxI99X0"
+    }
+  },
+  {
+    "id": "49753",
+    "name": "OPEN SPACE BY ALHAJI IGUELAZOR UGIANAGBE",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "12/09/04/012",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.073254599999999,
+      "longitude": 6.2690757,
+      "viewport": {
+        "northeast": {
+          "lat": 7.074626179892723,
+          "lng": 6.270622579892722
+        },
+        "southwest": {
+          "lat": 7.071926520107279,
+          "lng": 6.267922920107278
+        }
+      },
+      "formatted_address": "37F9+8J4, 312101, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.073254599999999,6.2690757",
+      "google_place_id": "ChIJ0Y-mvxJ9RhARaak9moLZ7Pg"
+    }
+  },
+  {
+    "id": "49754",
+    "name": "I.C.E  ROAD AREA - ICE",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "12/09/04/013",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.068336299999999,
+      "longitude": 6.2625686,
+      "viewport": {
+        "northeast": {
+          "lat": 7.069688579892721,
+          "lng": 6.263892129892722
+        },
+        "southwest": {
+          "lat": 7.066988920107277,
+          "lng": 6.261192470107278
+        }
+      },
+      "formatted_address": "3797+82H, Otaru Rd, 312101, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.068336299999999,6.2625686",
+      "google_place_id": "ChIJGc2RwGt9RhARo-OpsphegNw"
+    }
+  },
+  {
+    "id": "49755",
+    "name": "OPEN SPACE BY UGHUYE PALACE AKPEKPE",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "12/09/04/014",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.0676568,
+      "longitude": 6.26249,
+      "viewport": {
+        "northeast": {
+          "lat": 7.069007879892722,
+          "lng": 6.263773429892722
+        },
+        "southwest": {
+          "lat": 7.066308220107278,
+          "lng": 6.261073770107278
+        }
+      },
+      "formatted_address": "3796+3X7, behind Nepa Office, 312101, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0676568,6.26249",
+      "google_place_id": "ChIJj_cl22t9RhAR-caKG0GeSOQ"
+    }
+  },
+  {
+    "id": "49756",
+    "name": "OPEN SPACE NEAR RISING STAR BAKARY UGHUYE AKPEKPE",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "12/09/04/015",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.071268,
+      "longitude": 6.261665199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.072576129892722,
+          "lng": 6.263113229892721
+        },
+        "southwest": {
+          "lat": 7.069876470107278,
+          "lng": 6.260413570107278
+        }
+      },
+      "formatted_address": "37C6+GQ2, 312101, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.071268,6.261665199999999",
+      "google_place_id": "ChIJKZ5VPGt9RhARDDLEnVpO9T0"
+    }
+  },
+  {
+    "id": "49757",
+    "name": "OPEN SPACE OKPOKWILI SQUARE AKPEKPE",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "12/09/04/016",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.066830599999999,
+      "longitude": 6.274780199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.068173579892721,
+          "lng": 6.276158379892722
+        },
+        "southwest": {
+          "lat": 7.065473920107277,
+          "lng": 6.273458720107278
+        }
+      },
+      "formatted_address": "Akpekpe secondery school, School, 312101, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.066830599999999,6.274780199999999",
+      "google_place_id": "ChIJAUvc0Nt9RhAR97UrGueQvmA"
+    }
+  },
+  {
+    "id": "49758",
+    "name": "ETSAKO PRIMARY SCHOOL AKPEKPE",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "12/09/04/017",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.068162,
+      "longitude": 6.2701544,
+      "viewport": {
+        "northeast": {
+          "lat": 7.069504579892722,
+          "lng": 6.271537329892721
+        },
+        "southwest": {
+          "lat": 7.066804920107278,
+          "lng": 6.268837670107277
+        }
+      },
+      "formatted_address": "379C+739, Igbe Road, 312101, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.068162,6.2701544",
+      "google_place_id": "ChIJ-zClWH99RhARt4h6DcK_LIY"
+    }
+  },
+  {
+    "id": "49759",
+    "name": "OPEN SPACE BY DARISU ALIU, AFOBOME",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "12/09/04/018",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.066830599999999,
+      "longitude": 6.274780199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.068173579892721,
+          "lng": 6.276158379892722
+        },
+        "southwest": {
+          "lat": 7.065473920107277,
+          "lng": 6.273458720107278
+        }
+      },
+      "formatted_address": "MR ABDUL AMHED HOUSE, 312101, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.066830599999999,6.274780199999999",
+      "google_place_id": "ChIJrd2BAwB9RhARI-HRJ6koSy4"
+    }
+  },
+  {
+    "id": "49760",
+    "name": "OPEN SPACE BY LATE ALHAJI SALAWE BEHIND UBA BANK, SALAWE.",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "12/09/04/019",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.0708435,
+      "longitude": 6.267494,
+      "viewport": {
+        "northeast": {
+          "lat": 7.072035729892722,
+          "lng": 6.268883379892721
+        },
+        "southwest": {
+          "lat": 7.069336070107278,
+          "lng": 6.266183720107278
+        }
+      },
+      "formatted_address": "37C8+8XQ, 312101, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0708435,6.267494",
+      "google_place_id": "ChIJi49dFW19RhARU4XOOaD-coI"
+    }
+  },
+  {
+    "id": "49761",
+    "name": "OPEN SPACE GIMBA PALACE AFOBOME",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "12/09/04/020",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": null
+  },
+  {
+    "id": "49762",
+    "name": "NEPA OFFICE AIBOTSE",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "12/09/04/021",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.075866,
+      "longitude": 6.256789599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.077165229892723,
+          "lng": 6.258112779892722
+        },
+        "southwest": {
+          "lat": 7.074465570107279,
+          "lng": 6.255413120107278
+        }
+      },
+      "formatted_address": "37G4+8PV, Igarra Road, 312101, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.075866,6.256789599999999",
+      "google_place_id": "ChIJPWS5Wj59RhARSBQT7AQMBzM"
+    }
+  },
+  {
+    "id": "49763",
+    "name": "AIBOTSE SECONDARY SCHOOL I",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "12/09/04/022",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.066830599999999,
+      "longitude": 6.274780199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.068173579892721,
+          "lng": 6.276158379892722
+        },
+        "southwest": {
+          "lat": 7.065473920107277,
+          "lng": 6.273458720107278
+        }
+      },
+      "formatted_address": "378F+PWJ, Back of Mr Biggs, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.066830599999999,6.274780199999999",
+      "google_place_id": "ChIJq6qqqnZ9RhARnWBNKAyeS2o"
+    }
+  },
+  {
+    "id": "49764",
+    "name": "AIBOTSE SECONDARY SCHOOL II",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "12/09/04/023",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.066830599999999,
+      "longitude": 6.274780199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.068173579892721,
+          "lng": 6.276158379892722
+        },
+        "southwest": {
+          "lat": 7.065473920107277,
+          "lng": 6.273458720107278
+        }
+      },
+      "formatted_address": "378F+PWJ, Back of Mr Biggs, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.066830599999999,6.274780199999999",
+      "google_place_id": "ChIJq6qqqnZ9RhARnWBNKAyeS2o"
+    }
+  },
+  {
+    "id": "49765",
+    "name": "AIBOTSE TOWN HALL I",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "12/09/04/024",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.073254599999999,
+      "longitude": 6.2690757,
+      "viewport": {
+        "northeast": {
+          "lat": 7.074626179892723,
+          "lng": 6.270622579892722
+        },
+        "southwest": {
+          "lat": 7.071926520107279,
+          "lng": 6.267922920107278
+        }
+      },
+      "formatted_address": "37F9+8J4, 312101, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.073254599999999,6.2690757",
+      "google_place_id": "ChIJ0Y-mvxJ9RhARaak9moLZ7Pg"
+    }
+  },
+  {
+    "id": "49766",
+    "name": "AIBOTSE YOUTH PRIMARY SCHOOL",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "12/09/04/025",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.066830599999999,
+      "longitude": 6.274780199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.068173579892721,
+          "lng": 6.276158379892722
+        },
+        "southwest": {
+          "lat": 7.065473920107277,
+          "lng": 6.273458720107278
+        }
+      },
+      "formatted_address": "378F+PWJ, Back of Mr Biggs, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.066830599999999,6.274780199999999",
+      "google_place_id": "ChIJq6qqqnZ9RhARnWBNKAyeS2o"
+    }
+  },
+  {
+    "id": "49767",
+    "name": "AIBOTSE SECONDARY SCHOOL II",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "12/09/04/026",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.066830599999999,
+      "longitude": 6.274780199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.068173579892721,
+          "lng": 6.276158379892722
+        },
+        "southwest": {
+          "lat": 7.065473920107277,
+          "lng": 6.273458720107278
+        }
+      },
+      "formatted_address": "378F+PWJ, Back of Mr Biggs, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.066830599999999,6.274780199999999",
+      "google_place_id": "ChIJq6qqqnZ9RhARnWBNKAyeS2o"
+    }
+  },
+  {
+    "id": "49768",
+    "name": "AIBOTSE TOWN HALL II",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "12/09/04/027",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.073254599999999,
+      "longitude": 6.2690757,
+      "viewport": {
+        "northeast": {
+          "lat": 7.074626179892723,
+          "lng": 6.270622579892722
+        },
+        "southwest": {
+          "lat": 7.071926520107279,
+          "lng": 6.267922920107278
+        }
+      },
+      "formatted_address": "37F9+8J4, 312101, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.073254599999999,6.2690757",
+      "google_place_id": "ChIJ0Y-mvxJ9RhARaak9moLZ7Pg"
+    }
+  },
+  {
+    "id": "49769",
+    "name": "AIBOTSE YOUTH PRIMARY SCHOOL I",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "12/09/04/028",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.066830599999999,
+      "longitude": 6.274780199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.068173579892721,
+          "lng": 6.276158379892722
+        },
+        "southwest": {
+          "lat": 7.065473920107277,
+          "lng": 6.273458720107278
+        }
+      },
+      "formatted_address": "378F+PWJ, Back of Mr Biggs, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.066830599999999,6.274780199999999",
+      "google_place_id": "ChIJq6qqqnZ9RhARnWBNKAyeS2o"
+    }
+  },
+  {
+    "id": "49770",
+    "name": "OPEN SPACE BRAIMAH PETRO STATION IGBIRA CAMP",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "12/09/04/029",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.066667,
+      "longitude": 6.266667,
+      "viewport": {
+        "northeast": {
+          "lat": 7.068014879892721,
+          "lng": 6.268017229892721
+        },
+        "southwest": {
+          "lat": 7.065315220107277,
+          "lng": 6.265317570107277
+        }
+      },
+      "formatted_address": "Auchi Market Road, Close To AP Station, 312101, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.066667,6.266667",
+      "google_place_id": "ChIJLxDRgG59RhARiPzXtsU8tTQ"
+    }
+  },
+  {
+    "id": "49771",
+    "name": "OTARU PRIMARY ANNEX IGBIRA CAMP",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "12/09/04/030",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.070717699999999,
+      "longitude": 6.2536508,
+      "viewport": {
+        "northeast": {
+          "lat": 7.071911679892723,
+          "lng": 6.255210379892722
+        },
+        "southwest": {
+          "lat": 7.069212020107279,
+          "lng": 6.252510720107278
+        }
+      },
+      "formatted_address": "37C3+7FJ, 312101, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.070717699999999,6.2536508",
+      "google_place_id": "ChIJCeHxzEB9RhARPsAuG_Y-P3I"
+    }
+  },
+  {
+    "id": "49772",
+    "name": "HEALTH CENTRE IGBIRA CAMP",
+    "registration_area_id": "2690",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "12/09/04/031",
+    "remark": "NEW PU",
+    "ward_id": "2690",
+    "ward_name": "AUCHI  III",
+    "local_government_id": "233",
+    "local_government_name": "ETSAKO  WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.054752199999999,
+      "longitude": 6.2797138,
+      "viewport": {
+        "northeast": {
+          "lat": 7.056062879892722,
+          "lng": 6.281134429892721
+        },
+        "southwest": {
+          "lat": 7.053363220107278,
+          "lng": 6.278434770107277
+        }
+      },
+      "formatted_address": "373H+WV4, 312103, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.054752199999999,6.2797138",
+      "google_place_id": "ChIJl4hXZ399RhARDgbwyIl3MoM"
+    }
+  }
+]

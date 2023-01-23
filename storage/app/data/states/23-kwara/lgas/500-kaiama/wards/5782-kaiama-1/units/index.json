@@ -1,0 +1,169 @@
+[
+  {
+    "id": "111209",
+    "name": "CENTRAL PRY SCH, KAIAMA",
+    "registration_area_id": "5782",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "23/11/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5782",
+    "ward_name": "KAIAMA 1",
+    "local_government_id": "500",
+    "local_government_name": "KAIAMA",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.6095591,
+      "longitude": 3.9379861,
+      "viewport": {
+        "northeast": {
+          "lat": 9.610856029892723,
+          "lng": 3.939323529892722
+        },
+        "southwest": {
+          "lat": 9.60815637010728,
+          "lng": 3.936623870107278
+        }
+      },
+      "formatted_address": "JW5Q+R5H, 242101, Kaiama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6095591,3.9379861",
+      "google_place_id": "ChIJr_TeQC5tNBAR9B65yrMo3R0"
+    }
+  },
+  {
+    "id": "111210",
+    "name": "NRC SECRETARIAT, KAIAMA I",
+    "registration_area_id": "5782",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "23/11/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5782",
+    "ward_name": "KAIAMA 1",
+    "local_government_id": "500",
+    "local_government_name": "KAIAMA",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.6061824,
+      "longitude": 3.9419851,
+      "viewport": {
+        "northeast": {
+          "lat": 9.607460479892723,
+          "lng": 3.943267979892722
+        },
+        "southwest": {
+          "lat": 9.604760820107279,
+          "lng": 3.940568320107278
+        }
+      },
+      "formatted_address": "JW4R+FQQ, Along, gbenagiziri road, 319617, Kaiama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6061824,3.9419851",
+      "google_place_id": "ChIJizzU_extNBARl-gQSovSNeU"
+    }
+  },
+  {
+    "id": "111211",
+    "name": "NRC SECRETARIAT, KAIAMA II",
+    "registration_area_id": "5782",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "23/11/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5782",
+    "ward_name": "KAIAMA 1",
+    "local_government_id": "500",
+    "local_government_name": "KAIAMA",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111212",
+    "name": "KPAKPEN OPEN SPACE",
+    "registration_area_id": "5782",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "23/11/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5782",
+    "ward_name": "KAIAMA 1",
+    "local_government_id": "500",
+    "local_government_name": "KAIAMA",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111213",
+    "name": "GBABASAWA OPEN SPACE",
+    "registration_area_id": "5782",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "23/11/06/005",
+    "remark": "NEW PU",
+    "ward_id": "5782",
+    "ward_name": "KAIAMA 1",
+    "local_government_id": "500",
+    "local_government_name": "KAIAMA",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111214",
+    "name": "MORA TASUDE SEC SCH",
+    "registration_area_id": "5782",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "23/11/06/006",
+    "remark": "NEW PU",
+    "ward_id": "5782",
+    "ward_name": "KAIAMA 1",
+    "local_government_id": "500",
+    "local_government_name": "KAIAMA",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.6597673,
+      "longitude": 3.962275099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.66112437989272,
+          "lng": 3.963608679892721
+        },
+        "southwest": {
+          "lat": 9.658424720107277,
+          "lng": 3.960909020107278
+        }
+      },
+      "formatted_address": "Road, 242101, Tenebo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6597673,3.962275099999999",
+      "google_place_id": "ChIJeVCAhqJvNBARgXMIocDz2dE"
+    }
+  },
+  {
+    "id": "111215",
+    "name": "SERIKIN NOMA OPEN SPACE",
+    "registration_area_id": "5782",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "23/11/06/007",
+    "remark": "NEW PU",
+    "ward_id": "5782",
+    "ward_name": "KAIAMA 1",
+    "local_government_id": "500",
+    "local_government_name": "KAIAMA",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  }
+]

@@ -1,0 +1,251 @@
+[
+  {
+    "id": "99770",
+    "name": "GIDAN MUTUM DAYA",
+    "registration_area_id": "5073",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/23/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5073",
+    "ward_name": "YASHE 'B'",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.3562946,
+      "longitude": 7.9007367,
+      "viewport": {
+        "northeast": {
+          "lat": 12.36048,
+          "lng": 7.9043801
+        },
+        "southwest": {
+          "lat": 12.35298,
+          "lng": 7.897333
+        }
+      },
+      "formatted_address": "822102, Gidan Mutum Daya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3562946,7.9007367",
+      "google_place_id": "ChIJSVXfkP8irhERfKXo28sUh5A"
+    }
+  },
+  {
+    "id": "99771",
+    "name": "JERI PRIMARY SCHOOL",
+    "registration_area_id": "5073",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/23/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5073",
+    "ward_name": "YASHE 'B'",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.4639727,
+      "longitude": 7.9810792,
+      "viewport": {
+        "northeast": {
+          "lat": 12.46527257989272,
+          "lng": 7.98243007989272
+        },
+        "southwest": {
+          "lat": 12.46257292010728,
+          "lng": 7.979730420107276
+        }
+      },
+      "formatted_address": "FX7J+HCP, 822102, Kusada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4639727,7.9810792",
+      "google_place_id": "ChIJA2h4-N06rhER3EuDERwqtMM"
+    }
+  },
+  {
+    "id": "99772",
+    "name": "MAZOJI - OPEN SPACE",
+    "registration_area_id": "5073",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/23/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5073",
+    "ward_name": "YASHE 'B'",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "99773",
+    "name": "SABARAWA - OPEN SPACE",
+    "registration_area_id": "5073",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/23/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5073",
+    "ward_name": "YASHE 'B'",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.3455417,
+      "longitude": 7.8479512,
+      "viewport": {
+        "northeast": {
+          "lat": 12.34687502989272,
+          "lng": 7.849294979892721
+        },
+        "southwest": {
+          "lat": 12.34417537010728,
+          "lng": 7.846595320107277
+        }
+      },
+      "formatted_address": "Sabarawa Primary School, 822102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3455417,7.8479512",
+      "google_place_id": "ChIJeercVsAhrhER_i4AA2gvOV4"
+    }
+  },
+  {
+    "id": "99774",
+    "name": "MAIJIGIRA - OPEN SPACE",
+    "registration_area_id": "5073",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/23/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5073",
+    "ward_name": "YASHE 'B'",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "99775",
+    "name": "MAGAMA - OPEN SPACE",
+    "registration_area_id": "5073",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/23/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5073",
+    "ward_name": "YASHE 'B'",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.976592,
+      "longitude": 7.6083303,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97789992989272,
+          "lng": 7.609598979892723
+        },
+        "southwest": {
+          "lat": 12.97520027010728,
+          "lng": 7.606899320107279
+        }
+      },
+      "formatted_address": "Yahaya Madaki Way, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.976592,7.6083303",
+      "google_place_id": "ChIJCWZtJFMjsBERJibFrkXUvgE"
+    }
+  },
+  {
+    "id": "99776",
+    "name": "SARANMALAM - OPEN SPACE",
+    "registration_area_id": "5073",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/23/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5073",
+    "ward_name": "YASHE 'B'",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "99777",
+    "name": "GIDAN MUTUM DAYA II",
+    "registration_area_id": "5073",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/23/10/008",
+    "remark": "NEW PU",
+    "ward_id": "5073",
+    "ward_name": "YASHE 'B'",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.3562946,
+      "longitude": 7.9007367,
+      "viewport": {
+        "northeast": {
+          "lat": 12.36048,
+          "lng": 7.9043801
+        },
+        "southwest": {
+          "lat": 12.35298,
+          "lng": 7.897333
+        }
+      },
+      "formatted_address": "822102, Gidan Mutum Daya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3562946,7.9007367",
+      "google_place_id": "ChIJSVXfkP8irhERfKXo28sUh5A"
+    }
+  },
+  {
+    "id": "99778",
+    "name": "GIDAN MUTUM  DAYA III",
+    "registration_area_id": "5073",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/23/10/009",
+    "remark": "NEW PU",
+    "ward_id": "5073",
+    "ward_name": "YASHE 'B'",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.3562946,
+      "longitude": 7.9007367,
+      "viewport": {
+        "northeast": {
+          "lat": 12.36048,
+          "lng": 7.9043801
+        },
+        "southwest": {
+          "lat": 12.35298,
+          "lng": 7.897333
+        }
+      },
+      "formatted_address": "822102, Gidan Mutum Daya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3562946,7.9007367",
+      "google_place_id": "ChIJSVXfkP8irhERfKXo28sUh5A"
+    }
+  }
+]

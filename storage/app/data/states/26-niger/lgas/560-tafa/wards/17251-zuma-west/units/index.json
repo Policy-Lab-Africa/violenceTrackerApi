@@ -1,0 +1,878 @@
+[
+  {
+    "id": "339423",
+    "name": "CHACHI PRIMARY SCHOOL",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/24/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.141993,
+      "longitude": 7.232216,
+      "viewport": {
+        "northeast": {
+          "lat": 9.143315879892722,
+          "lng": 7.233603429892722
+        },
+        "southwest": {
+          "lat": 9.140616220107278,
+          "lng": 7.230903770107278
+        }
+      },
+      "formatted_address": "6FX946RJ+QVW Chachi Zuma East tafa, Kwamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.141993,7.232216",
+      "google_place_id": "ChIJvxCULcjXTRARiuhGJAEcNxw"
+    }
+  },
+  {
+    "id": "339424",
+    "name": "SABONSHARE",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/24/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.244743999999999,
+      "longitude": 7.2883179,
+      "viewport": {
+        "northeast": {
+          "lat": 9.24610142989272,
+          "lng": 7.289671229892722
+        },
+        "southwest": {
+          "lat": 9.243401770107276,
+          "lng": 7.286971570107278
+        }
+      },
+      "formatted_address": "Kad Express Road BY Sabon Wuse, Suleja, Tafa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.244743999999999,7.2883179",
+      "google_place_id": "ChIJSWP-MnfbTRARtC6zI-yhHnA"
+    }
+  },
+  {
+    "id": "339425",
+    "name": "DAUPE VILLAGE",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/24/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.1446726,
+      "longitude": 7.227498300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.14595097989272,
+          "lng": 7.228797229892722
+        },
+        "southwest": {
+          "lat": 9.143251320107277,
+          "lng": 7.226097570107278
+        }
+      },
+      "formatted_address": "Zuma Rock, KM 6 Abuja - Kaduna - Zaria Express Way, 910103, Tafa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1446726,7.227498300000001",
+      "google_place_id": "ChIJIVhUjK7XTRAR2tF8BowQhPA"
+    }
+  },
+  {
+    "id": "339426",
+    "name": "K/GIDAN GARKUWA GAURAKA  I",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/24/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.173576899999999,
+      "longitude": 7.2134674,
+      "viewport": {
+        "northeast": {
+          "lat": 9.17499172989272,
+          "lng": 7.215065229892723
+        },
+        "southwest": {
+          "lat": 9.172292070107277,
+          "lng": 7.212365570107279
+        }
+      },
+      "formatted_address": "Along Abuja-Kaduna Expressway, Gauraka, beside Aluminum Village Market, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.173576899999999,7.2134674",
+      "google_place_id": "ChIJSZhKtYbXTRAR0WXn7SPFyZE"
+    }
+  },
+  {
+    "id": "339427",
+    "name": "K/GIDAN GARKUWA GAURAKA  II",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/24/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.173576899999999,
+      "longitude": 7.2134674,
+      "viewport": {
+        "northeast": {
+          "lat": 9.17499172989272,
+          "lng": 7.215065229892723
+        },
+        "southwest": {
+          "lat": 9.172292070107277,
+          "lng": 7.212365570107279
+        }
+      },
+      "formatted_address": "Along Abuja-Kaduna Expressway, Gauraka, beside Aluminum Village Market, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.173576899999999,7.2134674",
+      "google_place_id": "ChIJSZhKtYbXTRAR0WXn7SPFyZE"
+    }
+  },
+  {
+    "id": "339428",
+    "name": "ANG UWAN TIV  I",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/24/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "339429",
+    "name": "K/GIDAN GWAMNA GAURAKA  I",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/24/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.173576899999999,
+      "longitude": 7.2134674,
+      "viewport": {
+        "northeast": {
+          "lat": 9.17499172989272,
+          "lng": 7.215065229892723
+        },
+        "southwest": {
+          "lat": 9.172292070107277,
+          "lng": 7.212365570107279
+        }
+      },
+      "formatted_address": "Along Abuja-Kaduna Expressway, Gauraka, beside Aluminum Village Market, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.173576899999999,7.2134674",
+      "google_place_id": "ChIJSZhKtYbXTRAR0WXn7SPFyZE"
+    }
+  },
+  {
+    "id": "339430",
+    "name": "ZUMAMINING",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/24/10/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.156383199999999,
+      "longitude": 7.238317800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1856279,
+          "lng": 7.2557155
+        },
+        "southwest": {
+          "lat": 9.133501899999999,
+          "lng": 7.210516999999999
+        }
+      },
+      "formatted_address": "Zuma West, 910103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.156383199999999,7.238317800000001",
+      "google_place_id": "ChIJS2Ep1KfXTRARdHwdXQxoaYk"
+    }
+  },
+  {
+    "id": "339431",
+    "name": "K/GIDAN GWAMNA  I",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "26/24/10/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "339432",
+    "name": "K/GIDAN ISUWA GAURAKA",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "26/24/10/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.180881,
+      "longitude": 7.2128899,
+      "viewport": {
+        "northeast": {
+          "lat": 9.18214842989272,
+          "lng": 7.213952929892721
+        },
+        "southwest": {
+          "lat": 9.179448770107276,
+          "lng": 7.211253270107277
+        }
+      },
+      "formatted_address": "Abuja - Kaduna - Zaria Express Way SULEJA-KADUNA ROAD, NEAR GAURAKA JUNCTION, Tafa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.180881,7.2128899",
+      "google_place_id": "ChIJz1zSzLvXTRARFmR45PbYVi4"
+    }
+  },
+  {
+    "id": "339433",
+    "name": "GOVT DAY SEC. SCHOOL CHACHI",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "26/24/10/011",
+    "remark": "NEW PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.179267,
+      "longitude": 7.218467999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.180387229892721,
+          "lng": 7.219740829892721
+        },
+        "southwest": {
+          "lat": 9.177687570107278,
+          "lng": 7.217041170107277
+        }
+      },
+      "formatted_address": "6FX956H9+P94 GAURAKA ZUMA EAST, Kwamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.179267,7.218467999999999",
+      "google_place_id": "ChIJlWO3MuXXTRARzV3Sb0h_WPA"
+    }
+  },
+  {
+    "id": "339434",
+    "name": "SABON SHARE II",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "26/24/10/012",
+    "remark": "NEW PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.244743999999999,
+      "longitude": 7.2883179,
+      "viewport": {
+        "northeast": {
+          "lat": 9.24610142989272,
+          "lng": 7.289671229892722
+        },
+        "southwest": {
+          "lat": 9.243401770107276,
+          "lng": 7.286971570107278
+        }
+      },
+      "formatted_address": "Kad Express Road BY Sabon Wuse, Suleja, Tafa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.244743999999999,7.2883179",
+      "google_place_id": "ChIJSWP-MnfbTRARtC6zI-yhHnA"
+    }
+  },
+  {
+    "id": "339435",
+    "name": "SABON SHARE III",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "26/24/10/013",
+    "remark": "NEW PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.244743999999999,
+      "longitude": 7.2883179,
+      "viewport": {
+        "northeast": {
+          "lat": 9.24610142989272,
+          "lng": 7.289671229892722
+        },
+        "southwest": {
+          "lat": 9.243401770107276,
+          "lng": 7.286971570107278
+        }
+      },
+      "formatted_address": "Kad Express Road BY Sabon Wuse, Suleja, Tafa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.244743999999999,7.2883179",
+      "google_place_id": "ChIJSWP-MnfbTRARtC6zI-yhHnA"
+    }
+  },
+  {
+    "id": "339436",
+    "name": "GOVT. PRY SCH. JIBI",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "26/24/10/014",
+    "remark": "NEW PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.1315077,
+      "longitude": 7.209155399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.132857029892723,
+          "lng": 7.210499129892722
+        },
+        "southwest": {
+          "lat": 9.130157370107279,
+          "lng": 7.207799470107278
+        }
+      },
+      "formatted_address": "6FX946J5+JJ9 Kwankwashe Iku, Kwamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1315077,7.209155399999999",
+      "google_place_id": "ChIJ_82zU_nXTRAR0q0XnFsdp4M"
+    }
+  },
+  {
+    "id": "339437",
+    "name": "GAURAKA III",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "26/24/10/015",
+    "remark": "NEW PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.193965,
+      "longitude": 7.215402999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.19528247989272,
+          "lng": 7.216747479892721
+        },
+        "southwest": {
+          "lat": 9.192582820107276,
+          "lng": 7.214047820107276
+        }
+      },
+      "formatted_address": "24,Gauraka Road, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.193965,7.215402999999999",
+      "google_place_id": "ChIJ1yqEH3fXTRARrJIO6ic93wU"
+    }
+  },
+  {
+    "id": "339438",
+    "name": "GAURAKA IV",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "26/24/10/016",
+    "remark": "NEW PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.1446726,
+      "longitude": 7.227498300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.14595097989272,
+          "lng": 7.228797229892722
+        },
+        "southwest": {
+          "lat": 9.143251320107277,
+          "lng": 7.226097570107278
+        }
+      },
+      "formatted_address": "Zuma Rock, KM 6 Abuja - Kaduna - Zaria Express Way, 910103, Tafa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1446726,7.227498300000001",
+      "google_place_id": "ChIJIVhUjK7XTRAR2tF8BowQhPA"
+    }
+  },
+  {
+    "id": "339439",
+    "name": "GARKUWA A",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "26/24/10/017",
+    "remark": "NEW PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6509971,
+      "longitude": 6.530345899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.652324829892722,
+          "lng": 6.531674929892722
+        },
+        "southwest": {
+          "lat": 9.649625170107278,
+          "lng": 6.528975270107278
+        }
+      },
+      "formatted_address": "MG2J+94R, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6509971,6.530345899999999",
+      "google_place_id": "ChIJtxtU61hxTBARA0-nZ8zlcKQ"
+    }
+  },
+  {
+    "id": "339440",
+    "name": "GARKUWA B",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "26/24/10/018",
+    "remark": "NEW PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.244748399999999,
+      "longitude": 7.2883171,
+      "viewport": {
+        "northeast": {
+          "lat": 9.246105879892722,
+          "lng": 7.289670829892721
+        },
+        "southwest": {
+          "lat": 9.243406220107278,
+          "lng": 7.286971170107277
+        }
+      },
+      "formatted_address": "behind ZUMA BARRACK #KARFE, 910103, Tafa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.244748399999999,7.2883171",
+      "google_place_id": "ChIJVTiqpzjbTRAR1qPta9XTx4M"
+    }
+  },
+  {
+    "id": "339441",
+    "name": "ANGUWAN TIV A",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "26/24/10/019",
+    "remark": "NEW PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.1119924,
+      "longitude": 7.240500699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.113411079892721,
+          "lng": 7.241906229892723
+        },
+        "southwest": {
+          "lat": 9.110711420107277,
+          "lng": 7.239206570107279
+        }
+      },
+      "formatted_address": "6FX9466R+Q4X Dakwa Zuma west tafa Niger, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1119924,7.240500699999999",
+      "google_place_id": "ChIJ2TtAZXN5ThARCyFEBlLjf5U"
+    }
+  },
+  {
+    "id": "339442",
+    "name": "ANGUWAN TIV B",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "26/24/10/020",
+    "remark": "NEW PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.1119924,
+      "longitude": 7.240500699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.113411079892721,
+          "lng": 7.241906229892723
+        },
+        "southwest": {
+          "lat": 9.110711420107277,
+          "lng": 7.239206570107279
+        }
+      },
+      "formatted_address": "6FX9466R+Q4X Dakwa Zuma west tafa Niger, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1119924,7.240500699999999",
+      "google_place_id": "ChIJ2TtAZXN5ThARCyFEBlLjf5U"
+    }
+  },
+  {
+    "id": "339443",
+    "name": "GWAMNA GAURAKA A",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "26/24/10/021",
+    "remark": "NEW PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.173576899999999,
+      "longitude": 7.2134674,
+      "viewport": {
+        "northeast": {
+          "lat": 9.17499172989272,
+          "lng": 7.215065229892723
+        },
+        "southwest": {
+          "lat": 9.172292070107277,
+          "lng": 7.212365570107279
+        }
+      },
+      "formatted_address": "Along Abuja-Kaduna Expressway, Gauraka, beside Aluminum Village Market, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.173576899999999,7.2134674",
+      "google_place_id": "ChIJSZhKtYbXTRAR0WXn7SPFyZE"
+    }
+  },
+  {
+    "id": "339444",
+    "name": "GWAMNA GAURAKA B",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "26/24/10/022",
+    "remark": "NEW PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.1446726,
+      "longitude": 7.227498300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.14595097989272,
+          "lng": 7.228797229892722
+        },
+        "southwest": {
+          "lat": 9.143251320107277,
+          "lng": 7.226097570107278
+        }
+      },
+      "formatted_address": "Zuma Rock, KM 6 Abuja - Kaduna - Zaria Express Way, 910103, Tafa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1446726,7.227498300000001",
+      "google_place_id": "ChIJIVhUjK7XTRAR2tF8BowQhPA"
+    }
+  },
+  {
+    "id": "339445",
+    "name": "PRY HEALTH CARE DAKWA",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "26/24/10/023",
+    "remark": "NEW PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.098899399999999,
+      "longitude": 7.243716499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.10029227989272,
+          "lng": 7.245141829892722
+        },
+        "southwest": {
+          "lat": 9.097592620107276,
+          "lng": 7.242442170107278
+        }
+      },
+      "formatted_address": "36XV+HF4, 900106, Abuja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.098899399999999,7.243716499999999",
+      "google_place_id": "ChIJ4Yvj_4J5ThAR4MLSI1kvkV0"
+    }
+  },
+  {
+    "id": "339446",
+    "name": "DAKACHI PRY SCH DAKWA I",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "26/24/10/024",
+    "remark": "NEW PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.1119924,
+      "longitude": 7.240500699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.113411079892721,
+          "lng": 7.241906229892723
+        },
+        "southwest": {
+          "lat": 9.110711420107277,
+          "lng": 7.239206570107279
+        }
+      },
+      "formatted_address": "6FX9466R+Q4X Dakwa Zuma west tafa Niger, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1119924,7.240500699999999",
+      "google_place_id": "ChIJ2TtAZXN5ThARCyFEBlLjf5U"
+    }
+  },
+  {
+    "id": "339447",
+    "name": "DAKACHI PRY SCH DAKWA II",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "26/24/10/025",
+    "remark": "NEW PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.1136536,
+      "longitude": 7.2372402,
+      "viewport": {
+        "northeast": {
+          "lat": 9.115017579892722,
+          "lng": 7.23862862989272
+        },
+        "southwest": {
+          "lat": 9.112317920107278,
+          "lng": 7.235928970107277
+        }
+      },
+      "formatted_address": "467P+FWG, Old Madalla road, Near Gbagyi Mosque, Dakwa, LG, Tafa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1136536,7.2372402",
+      "google_place_id": "ChIJNZ1evHZ4ThARhDVhqlpUtbo"
+    }
+  },
+  {
+    "id": "339448",
+    "name": "K/GIDAN GWAMNA A",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "26/24/10/026",
+    "remark": "NEW PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "339449",
+    "name": "UBE PRY SCH GAURAKA I",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "26/24/10/027",
+    "remark": "NEW PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.179267,
+      "longitude": 7.218467999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.180387229892721,
+          "lng": 7.219740829892721
+        },
+        "southwest": {
+          "lat": 9.177687570107278,
+          "lng": 7.217041170107277
+        }
+      },
+      "formatted_address": "6FX956H9+P94 GAURAKA ZUMA EAST, Kwamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.179267,7.218467999999999",
+      "google_place_id": "ChIJlWO3MuXXTRARzV3Sb0h_WPA"
+    }
+  },
+  {
+    "id": "339450",
+    "name": "UBE PRY SCH GAURAKA II",
+    "registration_area_id": "17251",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "26/24/10/028",
+    "remark": "NEW PU",
+    "ward_id": "17251",
+    "ward_name": "ZUMA WEST",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.179267,
+      "longitude": 7.218467999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.180387229892721,
+          "lng": 7.219740829892721
+        },
+        "southwest": {
+          "lat": 9.177687570107278,
+          "lng": 7.217041170107277
+        }
+      },
+      "formatted_address": "6FX956H9+P94 GAURAKA ZUMA EAST, Kwamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.179267,7.218467999999999",
+      "google_place_id": "ChIJlWO3MuXXTRARzV3Sb0h_WPA"
+    }
+  }
+]

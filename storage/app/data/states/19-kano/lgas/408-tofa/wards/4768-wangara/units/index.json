@@ -1,0 +1,170 @@
+[
+  {
+    "id": "93863",
+    "name": "FAKO, FAKO OPEN SPACE",
+    "registration_area_id": "4768",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/39/12/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4768",
+    "ward_name": "WANGARA",
+    "local_government_id": "408",
+    "local_government_name": "TOFA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "93864",
+    "name": "TABABNI, K. MAI UNGUWA",
+    "registration_area_id": "4768",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/39/12/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4768",
+    "ward_name": "WANGARA",
+    "local_government_id": "408",
+    "local_government_name": "TOFA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "93865",
+    "name": "WANGARA C/GAR, PRIMARY SCHOOL I",
+    "registration_area_id": "4768",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/39/12/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4768",
+    "ward_name": "WANGARA",
+    "local_government_id": "408",
+    "local_government_name": "TOFA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "93866",
+    "name": "WANGARA C/GAR, PRIMARY SCHOOL II",
+    "registration_area_id": "4768",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/39/12/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4768",
+    "ward_name": "WANGARA",
+    "local_government_id": "408",
+    "local_government_name": "TOFA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "93867",
+    "name": "WANGARA C/GAR, PRIMARY SCHOOL III",
+    "registration_area_id": "4768",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/39/12/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4768",
+    "ward_name": "WANGARA",
+    "local_government_id": "408",
+    "local_government_name": "TOFA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "93868",
+    "name": "YANDADI- YANKUNI",
+    "registration_area_id": "4768",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/39/12/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4768",
+    "ward_name": "WANGARA",
+    "local_government_id": "408",
+    "local_government_name": "TOFA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9892409,
+      "longitude": 8.4783528,
+      "viewport": {
+        "northeast": {
+          "lat": 11.99066037989272,
+          "lng": 8.479723329892725
+        },
+        "southwest": {
+          "lat": 11.98796072010728,
+          "lng": 8.47702367010728
+        }
+      },
+      "formatted_address": "XFQH+M8X Tundun, Yola Road, Kofar Kabuga 700282, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9892409,8.4783528",
+      "google_place_id": "ChIJS2MTrCx-rhER7gldeFGdXeM"
+    }
+  },
+  {
+    "id": "93869",
+    "name": "ZANGON - KAMFA ZANGO",
+    "registration_area_id": "4768",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/39/12/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4768",
+    "ward_name": "WANGARA",
+    "local_government_id": "408",
+    "local_government_name": "TOFA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "93870",
+    "name": "ISLAMIYYA PRI. SCH. WANGARA",
+    "registration_area_id": "4768",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/39/12/008",
+    "remark": "NEW PU",
+    "ward_id": "4768",
+    "ward_name": "WANGARA",
+    "local_government_id": "408",
+    "local_government_name": "TOFA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.024917,
+      "longitude": 8.478269599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.02633917989272,
+          "lng": 8.479550529892723
+        },
+        "southwest": {
+          "lat": 12.02363952010728,
+          "lng": 8.47685087010728
+        }
+      },
+      "formatted_address": "7F4C2FFH+X86 Community Gobirawa Ward, 700252, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.024917,8.478269599999999",
+      "google_place_id": "ChIJOzvimgR-rhERCaAdLWT5zOQ"
+    }
+  }
+]

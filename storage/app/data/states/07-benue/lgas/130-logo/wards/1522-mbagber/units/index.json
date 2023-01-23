@@ -1,0 +1,647 @@
+[
+  {
+    "id": "28346",
+    "name": "RCM PRI. SCHOOL AKOMBO",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "07/12/02/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.787402299999999,
+      "longitude": 9.243219,
+      "viewport": {
+        "northeast": {
+          "lat": 7.788530429892721,
+          "lng": 9.244667829892721
+        },
+        "southwest": {
+          "lat": 7.785830770107277,
+          "lng": 9.241968170107278
+        }
+      },
+      "formatted_address": "6FVFQ6PV+X86, Mbainiamge, 980102, Akwana, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.787402299999999,9.243219",
+      "google_place_id": "ChIJo0CuV7JTVxAReHotXlOUzjc"
+    }
+  },
+  {
+    "id": "28347",
+    "name": "NKST PRI. SCHOOL, ANYIIN",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "07/12/02/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7321863,
+      "longitude": 8.5391496,
+      "viewport": {
+        "northeast": {
+          "lat": 7.733545379892721,
+          "lng": 8.540447079892722
+        },
+        "southwest": {
+          "lat": 7.730845720107277,
+          "lng": 8.537747420107278
+        }
+      },
+      "formatted_address": "6 Saawuan Kpagh Street, Makurdi 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7321863,8.5391496",
+      "google_place_id": "ChIJ1UBVm22vUBARvInUaIC2Oo8"
+    }
+  },
+  {
+    "id": "28348",
+    "name": "RCM PRI. SCHOOL ANYIIN",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "07/12/02/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.297276600000001,
+      "longitude": 8.477910099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.298706429892721,
+          "lng": 8.479304029892722
+        },
+        "southwest": {
+          "lat": 7.296006770107277,
+          "lng": 8.476604370107278
+        }
+      },
+      "formatted_address": "6FVC7FWH+W53 MOI IGBO, Benue, Aliade, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.297276600000001,8.477910099999999",
+      "google_place_id": "ChIJS3czPgT1WhARi4FfrinzFhs"
+    }
+  },
+  {
+    "id": "28349",
+    "name": "LGEA PRI. SCHOOL, ANYIIN",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "07/12/02/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.8204893,
+      "longitude": 9.237471099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.821839079892722,
+          "lng": 9.238956529892722
+        },
+        "southwest": {
+          "lat": 7.819139420107278,
+          "lng": 9.236256870107278
+        }
+      },
+      "formatted_address": "6FVFR6CQ+634 Anyiin, 670107, Arafu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8204893,9.237471099999999",
+      "google_place_id": "ChIJLz9N-rtTVxARCLdhES16KSI"
+    }
+  },
+  {
+    "id": "28350",
+    "name": "JINGA MARKET SQUARE",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "07/12/02/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.745076200000001,
+      "longitude": 8.5125654,
+      "viewport": {
+        "northeast": {
+          "lat": 7.746422029892723,
+          "lng": 8.513893929892722
+        },
+        "southwest": {
+          "lat": 7.743722370107279,
+          "lng": 8.511194270107278
+        }
+      },
+      "formatted_address": "6 Port Harcourt Street, behind Mc Carthy Stadium, 970211, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.745076200000001,8.5125654",
+      "google_place_id": "ChIJZyQybPaAUBAR_zpiOZJnJXg"
+    }
+  },
+  {
+    "id": "28351",
+    "name": "IMADE NORTH (ANYIIN MARKET SQUARE)",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "07/12/02/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7151777,
+      "longitude": 8.5032863,
+      "viewport": {
+        "northeast": {
+          "lat": 7.716579629892723,
+          "lng": 8.504661129892721
+        },
+        "southwest": {
+          "lat": 7.713879970107279,
+          "lng": 8.501961470107277
+        }
+      },
+      "formatted_address": "Margaret Ichen Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7151777,8.5032863",
+      "google_place_id": "ChIJob-ofrKBUBAReRno3Ox3FT0"
+    }
+  },
+  {
+    "id": "28352",
+    "name": "ANYIIN (MARKET SQUARE)",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "07/12/02/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.493597599999999,
+      "longitude": 9.609449,
+      "viewport": {
+        "northeast": {
+          "lat": 7.494914679892722,
+          "lng": 9.610800079892723
+        },
+        "southwest": {
+          "lat": 7.492215020107278,
+          "lng": 9.608100420107279
+        }
+      },
+      "formatted_address": "980109, Zaki Biam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.493597599999999,9.609449",
+      "google_place_id": "ChIJiejU1trDWRARwN9M0_ePkv8"
+    }
+  },
+  {
+    "id": "28353",
+    "name": "LGEA PRI. SCHOOL, MCHIA",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "07/12/02/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.747535099999999,
+      "longitude": 8.8959692,
+      "viewport": {
+        "northeast": {
+          "lat": 7.748897079892721,
+          "lng": 8.897239629892724
+        },
+        "southwest": {
+          "lat": 7.746197420107277,
+          "lng": 8.89453997010728
+        }
+      },
+      "formatted_address": "6FVCPVWW+X9P, Mbabun, 970102, Gbajimba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.747535099999999,8.8959692",
+      "google_place_id": "ChIJV766EFKhUBARETPHqIzKoBc"
+    }
+  },
+  {
+    "id": "28354",
+    "name": "RCM PRI. SCHOOL, TYOBAN",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "07/12/02/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.667567699999998,
+      "longitude": 8.958435999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.66917042989272,
+          "lng": 8.959403079892722
+        },
+        "southwest": {
+          "lat": 7.666470770107276,
+          "lng": 8.956703420107278
+        }
+      },
+      "formatted_address": "6FVCMX95+29F Manger Mbgeryerbev tarka Benue, 981112, Wanzum Amagwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.667567699999998,8.958435999999999",
+      "google_place_id": "ChIJM_syIAQJWhARnavit7PUzFk"
+    }
+  },
+  {
+    "id": "28355",
+    "name": "NKST PRI. SCHOOL, KWAGH (KWAGH)",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "07/12/02/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.643529000000001,
+      "longitude": 9.528861,
+      "viewport": {
+        "northeast": {
+          "lat": 7.644887329892723,
+          "lng": 9.530229229892722
+        },
+        "southwest": {
+          "lat": 7.642187670107279,
+          "lng": 9.527529570107278
+        }
+      },
+      "formatted_address": "6FVFJGVH+CG9, Gbagir, 980109, Zaki Biam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.643529000000001,9.528861",
+      "google_place_id": "ChIJ9Z8gXwnhWRAR4PAE_4XtljA"
+    }
+  },
+  {
+    "id": "28356",
+    "name": "LGEA SCHOOL, UIWEV",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "07/12/02/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.641656900000001,
+      "longitude": 9.3637625,
+      "viewport": {
+        "northeast": {
+          "lat": 7.643033429892721,
+          "lng": 9.365140029892721
+        },
+        "southwest": {
+          "lat": 7.640333770107278,
+          "lng": 9.362440370107278
+        }
+      },
+      "formatted_address": "6FVFJ9R7+MGR Mbamar, Ugba Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.641656900000001,9.3637625",
+      "google_place_id": "ChIJm3uVH_T9WRARRj49TwgtL_U"
+    }
+  },
+  {
+    "id": "28357",
+    "name": "ASEMA (VILLAGE SQUARE)",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "07/12/02/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.798294299999999,
+      "longitude": 8.5008845,
+      "viewport": {
+        "northeast": {
+          "lat": 6.799661979892721,
+          "lng": 8.502247429892721
+        },
+        "southwest": {
+          "lat": 6.796962320107277,
+          "lng": 8.499547770107277
+        }
+      },
+      "formatted_address": "QGX2+896, OHUHU OJU LGA, Benue,, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.798294299999999,8.5008845",
+      "google_place_id": "ChIJV0mtA3SnWxAR38CeOuLW4Ew"
+    }
+  },
+  {
+    "id": "28358",
+    "name": "TSE - IORBO (VILLAGE SQUARE)",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "07/12/02/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "28359",
+    "name": "M.O.W CAMP",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "07/12/02/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.588516199999999,
+      "longitude": 8.8772129,
+      "viewport": {
+        "northeast": {
+          "lat": 7.589790029892723,
+          "lng": 8.878386629892724
+        },
+        "southwest": {
+          "lat": 7.587090370107279,
+          "lng": 8.87568697010728
+        }
+      },
+      "formatted_address": "Kilometer 35 Makurdi, along Gboko Road, Local, Government Area 981113, Wannune, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.588516199999999,8.8772129",
+      "google_place_id": "ChIJZzlhEe4ZWhAReMKLR6m52Pg"
+    }
+  },
+  {
+    "id": "28360",
+    "name": "NEAR ASHI POLY OPEN SPACE",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "07/12/02/015",
+    "remark": "NEW PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.813399899999999,
+      "longitude": 9.2474967,
+      "viewport": {
+        "northeast": {
+          "lat": 7.814625779892721,
+          "lng": 9.24888622989272
+        },
+        "southwest": {
+          "lat": 7.811926120107278,
+          "lng": 9.246186570107277
+        }
+      },
+      "formatted_address": "R67W+9X5, 980102, Arafu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.813399899999999,9.2474967",
+      "google_place_id": "ChIJZ0WFDJ5TVxAR2EIwiF_07Hk"
+    }
+  },
+  {
+    "id": "28361",
+    "name": "SUSWAM TINGIR VILLAGE SQUARE",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "07/12/02/016",
+    "remark": "NEW PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "28362",
+    "name": "AMO HAMBE OPEN SPACE",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "07/12/02/017",
+    "remark": "NEW PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 38.887988,
+      "longitude": -77.02551299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 38.88912772989272,
+          "lng": -77.02303489999998
+        },
+        "southwest": {
+          "lat": 38.88642807010728,
+          "lng": -77.02721930000001
+        }
+      },
+      "formatted_address": "950 Independence Ave SW, Washington, DC 20560, United States",
+      "google_map_url": "https://maps.google.com?q=38.887988,-77.02551299999999",
+      "google_place_id": "ChIJE6vLRJy3t4kRjODhzzjXxZc"
+    }
+  },
+  {
+    "id": "28363",
+    "name": "DIAKA VILLAGE SQUARE",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "07/12/02/018",
+    "remark": "NEW PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.7823828,
+      "longitude": 7.4428375,
+      "viewport": {
+        "northeast": {
+          "lat": 6.783726479892722,
+          "lng": 7.444185129892723
+        },
+        "southwest": {
+          "lat": 6.781026820107278,
+          "lng": 7.441485470107279
+        }
+      },
+      "formatted_address": "No 10 Ayigbo Lane, Amaogbodu, Ogbozalla 410106, Opi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7823828,7.4428375",
+      "google_place_id": "ChIJoZcjOq_DRBARY57_UcX7rWM"
+    }
+  },
+  {
+    "id": "28364",
+    "name": "MCHIA MARKET SQUARE",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "07/12/02/019",
+    "remark": "NEW PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.5932808,
+      "longitude": 8.6347507,
+      "viewport": {
+        "northeast": {
+          "lat": 7.594624329892722,
+          "lng": 8.636111279892722
+        },
+        "southwest": {
+          "lat": 7.591924670107278,
+          "lng": 8.633411620107278
+        }
+      },
+      "formatted_address": "Makurdi, Old Otukpo Road, Ikpayongo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5932808,8.6347507",
+      "google_place_id": "ChIJJ5AdDhB7WhARZN9U7lPvHQw"
+    }
+  },
+  {
+    "id": "28365",
+    "name": "BURBWA VILLAGE SQUARE",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "07/12/02/020",
+    "remark": "NEW PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.798294299999999,
+      "longitude": 8.5008845,
+      "viewport": {
+        "northeast": {
+          "lat": 6.799661979892721,
+          "lng": 8.502247429892721
+        },
+        "southwest": {
+          "lat": 6.796962320107277,
+          "lng": 8.499547770107277
+        }
+      },
+      "formatted_address": "QGX2+896, OHUHU OJU LGA, Benue,, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.798294299999999,8.5008845",
+      "google_place_id": "ChIJV0mtA3SnWxAR38CeOuLW4Ew"
+    }
+  },
+  {
+    "id": "28366",
+    "name": "INJUUL VILLAGE SQUARE",
+    "registration_area_id": "1522",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "07/12/02/021",
+    "remark": "NEW PU",
+    "ward_id": "1522",
+    "ward_name": "MBAGBER",
+    "local_government_id": "130",
+    "local_government_name": "LOGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  }
+]

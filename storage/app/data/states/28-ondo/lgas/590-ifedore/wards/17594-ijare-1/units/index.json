@@ -1,0 +1,337 @@
+[
+  {
+    "id": "346333",
+    "name": "ODO ESI; MOTOR PARK, IJARE I",
+    "registration_area_id": "17594",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "28/09/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17594",
+    "ward_name": "IJARE 1",
+    "local_government_id": "590",
+    "local_government_name": "IFEDORE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.3576347,
+      "longitude": 5.1679226,
+      "viewport": {
+        "northeast": {
+          "lat": 7.358966979892722,
+          "lng": 5.169331529892721
+        },
+        "southwest": {
+          "lat": 7.356267320107278,
+          "lng": 5.166631870107278
+        }
+      },
+      "formatted_address": "9559+353, 340111, Ijare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3576347,5.1679226",
+      "google_place_id": "ChIJ3_OWQlyMRxARn1Ge19tm7uo"
+    }
+  },
+  {
+    "id": "346334",
+    "name": "ODO ESI; MOTOR PARK IJARE II",
+    "registration_area_id": "17594",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "28/09/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17594",
+    "ward_name": "IJARE 1",
+    "local_government_id": "590",
+    "local_government_name": "IFEDORE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "346335",
+    "name": "OLD DISPENSARY/ODO MOGUN: OLD DISPENSARY, IJARE",
+    "registration_area_id": "17594",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "28/09/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17594",
+    "ward_name": "IJARE 1",
+    "local_government_id": "590",
+    "local_government_name": "IFEDORE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "346336",
+    "name": "ENOCK SALORO: OPEN SPACE SALORO COMP. JUNCTION",
+    "registration_area_id": "17594",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "28/09/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17594",
+    "ward_name": "IJARE 1",
+    "local_government_id": "590",
+    "local_government_name": "IFEDORE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "346337",
+    "name": "OJA OBA, OPEN SPACE OBANLA COMP JUNCTION",
+    "registration_area_id": "17594",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "28/09/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17594",
+    "ward_name": "IJARE 1",
+    "local_government_id": "590",
+    "local_government_name": "IFEDORE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "346338",
+    "name": "AYETORO/OGBONTITUN, ST MARYS PRY IJARE I",
+    "registration_area_id": "17594",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "28/09/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17594",
+    "ward_name": "IJARE 1",
+    "local_government_id": "590",
+    "local_government_name": "IFEDORE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "346339",
+    "name": "AYETORO/OGBONTITUN, ST MARYS PRY IJARE II",
+    "registration_area_id": "17594",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "28/09/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17594",
+    "ward_name": "IJARE 1",
+    "local_government_id": "590",
+    "local_government_name": "IFEDORE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "346340",
+    "name": "ADEJUWONS COMP, ST DAVID PRY, IJARE",
+    "registration_area_id": "17594",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "28/09/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17594",
+    "ward_name": "IJARE 1",
+    "local_government_id": "590",
+    "local_government_name": "IFEDORE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "346341",
+    "name": "POST OFFICE, POST OFFICE, IJARE I",
+    "registration_area_id": "17594",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "28/09/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17594",
+    "ward_name": "IJARE 1",
+    "local_government_id": "590",
+    "local_government_name": "IFEDORE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.3609754,
+      "longitude": 5.1686551,
+      "viewport": {
+        "northeast": {
+          "lat": 7.362343979892721,
+          "lng": 5.169997879892722
+        },
+        "southwest": {
+          "lat": 7.359644320107277,
+          "lng": 5.167298220107278
+        }
+      },
+      "formatted_address": "9569+9FM, 340111, Ijare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3609754,5.1686551",
+      "google_place_id": "ChIJAZH4uV6MRxAREj2oiRnyDDs"
+    }
+  },
+  {
+    "id": "346342",
+    "name": "POST OFFICE, POST OFFICE, IJARE II",
+    "registration_area_id": "17594",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "28/09/04/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17594",
+    "ward_name": "IJARE 1",
+    "local_government_id": "590",
+    "local_government_name": "IFEDORE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.3609754,
+      "longitude": 5.1686551,
+      "viewport": {
+        "northeast": {
+          "lat": 7.362343979892721,
+          "lng": 5.169997879892722
+        },
+        "southwest": {
+          "lat": 7.359644320107277,
+          "lng": 5.167298220107278
+        }
+      },
+      "formatted_address": "9569+9FM, 340111, Ijare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3609754,5.1686551",
+      "google_place_id": "ChIJAZH4uV6MRxAREj2oiRnyDDs"
+    }
+  },
+  {
+    "id": "346343",
+    "name": "OLORIAWO COMP, OPEN SPACE OLORIAWO, COMP 11",
+    "registration_area_id": "17594",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "28/09/04/011",
+    "remark": "EXISTING PU",
+    "ward_id": "17594",
+    "ward_name": "IJARE 1",
+    "local_government_id": "590",
+    "local_government_name": "IFEDORE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "346344",
+    "name": "YOUTH CENTRE, YOUTH CENTRE IJARE",
+    "registration_area_id": "17594",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "28/09/04/012",
+    "remark": "EXISTING PU",
+    "ward_id": "17594",
+    "ward_name": "IJARE 1",
+    "local_government_id": "590",
+    "local_government_name": "IFEDORE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.287744099999999,
+      "longitude": 5.1567756,
+      "viewport": {
+        "northeast": {
+          "lat": 7.289088729892721,
+          "lng": 5.158093279892721
+        },
+        "southwest": {
+          "lat": 7.286389070107277,
+          "lng": 5.155393620107278
+        }
+      },
+      "formatted_address": "34 Lydia Ayodele Street after Benny Rose Hotel, Futa Campus Main Rd, off South Gate road, Akure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.287744099999999,5.1567756",
+      "google_place_id": "ChIJQRTJZ6OPRxAR-kqvN63_Hzw"
+    }
+  },
+  {
+    "id": "346345",
+    "name": "ANG. GRAM SCH/UGODA, ANG GRAM SCH, IJARE",
+    "registration_area_id": "17594",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "28/09/04/013",
+    "remark": "EXISTING PU",
+    "ward_id": "17594",
+    "ward_name": "IJARE 1",
+    "local_government_id": "590",
+    "local_government_name": "IFEDORE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.362665499999999,
+      "longitude": 5.1677462,
+      "viewport": {
+        "northeast": {
+          "lat": 7.363966079892722,
+          "lng": 5.169051079892721
+        },
+        "southwest": {
+          "lat": 7.361266420107278,
+          "lng": 5.166351420107278
+        }
+      },
+      "formatted_address": "9579+339, 340111, Ijare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.362665499999999,5.1677462",
+      "google_place_id": "ChIJ-z8_GV-MRxARG1Bk6V-h4O0"
+    }
+  },
+  {
+    "id": "346346",
+    "name": "UYE,,NEW MATERNITY IJARE",
+    "registration_area_id": "17594",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "28/09/04/014",
+    "remark": "EXISTING PU",
+    "ward_id": "17594",
+    "ward_name": "IJARE 1",
+    "local_government_id": "590",
+    "local_government_name": "IFEDORE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "346347",
+    "name": "ATARO GBODO JUNCTION",
+    "registration_area_id": "17594",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "28/09/04/015",
+    "remark": "NEW PU",
+    "ward_id": "17594",
+    "ward_name": "IJARE 1",
+    "local_government_id": "590",
+    "local_government_name": "IFEDORE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  }
+]

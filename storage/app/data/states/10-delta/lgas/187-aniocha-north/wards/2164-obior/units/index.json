@@ -1,0 +1,432 @@
+[
+  {
+    "id": "39263",
+    "name": "KANIDILIMA P/S - ISHIEKPE QUARTERS",
+    "registration_area_id": "2164",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "10/01/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2164",
+    "ward_name": "OBIOR",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.326628299999999,
+      "longitude": 6.4689554,
+      "viewport": {
+        "northeast": {
+          "lat": 6.327971579892722,
+          "lng": 6.470347329892721
+        },
+        "southwest": {
+          "lat": 6.325271920107278,
+          "lng": 6.467647670107278
+        }
+      },
+      "formatted_address": "8FG9+MH4, Issele-Uku Rd, 320111, Issele-Uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.326628299999999,6.4689554",
+      "google_place_id": "ChIJseXl8sH-QxARC6wDZHcLMcc"
+    }
+  },
+  {
+    "id": "39264",
+    "name": "KANIDILIMA P/S - OGBE AKWU",
+    "registration_area_id": "2164",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "10/01/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2164",
+    "ward_name": "OBIOR",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.239476,
+      "longitude": 6.442044,
+      "viewport": {
+        "northeast": {
+          "lat": 6.240843479892722,
+          "lng": 6.443359579892722
+        },
+        "southwest": {
+          "lat": 6.238143820107278,
+          "lng": 6.440659920107279
+        }
+      },
+      "formatted_address": "6CQR+QRV, 321113, Ubulu-uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.239476,6.442044",
+      "google_place_id": "ChIJH-VNnwf9QxARCX4InfljXDI"
+    }
+  },
+  {
+    "id": "39265",
+    "name": "KANIDILIMA P/S - OGBE ISSE",
+    "registration_area_id": "2164",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "10/01/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2164",
+    "ward_name": "OBIOR",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.239476,
+      "longitude": 6.442044,
+      "viewport": {
+        "northeast": {
+          "lat": 6.240843479892722,
+          "lng": 6.443359579892722
+        },
+        "southwest": {
+          "lat": 6.238143820107278,
+          "lng": 6.440659920107279
+        }
+      },
+      "formatted_address": "6CQR+QRV, 321113, Ubulu-uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.239476,6.442044",
+      "google_place_id": "ChIJH-VNnwf9QxARCX4InfljXDI"
+    }
+  },
+  {
+    "id": "39266",
+    "name": "UKPALI P/S - OGBE UTU QUARTERS I",
+    "registration_area_id": "2164",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "10/01/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2164",
+    "ward_name": "OBIOR",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "39267",
+    "name": "UKPALI P/S - OGBE UTU QUARTERS II",
+    "registration_area_id": "2164",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "10/01/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2164",
+    "ward_name": "OBIOR",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.239476,
+      "longitude": 6.442044,
+      "viewport": {
+        "northeast": {
+          "lat": 6.240843479892722,
+          "lng": 6.443359579892722
+        },
+        "southwest": {
+          "lat": 6.238143820107278,
+          "lng": 6.440659920107279
+        }
+      },
+      "formatted_address": "6CQR+QRV, 321113, Ubulu-uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.239476,6.442044",
+      "google_place_id": "ChIJH-VNnwf9QxARCX4InfljXDI"
+    }
+  },
+  {
+    "id": "39268",
+    "name": "UKPALI P/S - IDUMU OZEI I",
+    "registration_area_id": "2164",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "10/01/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2164",
+    "ward_name": "OBIOR",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.3655586,
+      "longitude": 6.401444199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.366731479892721,
+          "lng": 6.402603929892722
+        },
+        "southwest": {
+          "lat": 6.364031820107277,
+          "lng": 6.399904270107278
+        }
+      },
+      "formatted_address": "9C82+6HG, Obi's Palace, Ogbe-Obi Quarters, Aniocha North LGA, Idumuje Ugboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3655586,6.401444199999999",
+      "google_place_id": "ChIJAwNzdlNVQRARwrE2QdFKJf4"
+    }
+  },
+  {
+    "id": "39269",
+    "name": "UKPALI P/S - IDUMU OZEI II",
+    "registration_area_id": "2164",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "10/01/01/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2164",
+    "ward_name": "OBIOR",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.3655586,
+      "longitude": 6.401444199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.366731479892721,
+          "lng": 6.402603929892722
+        },
+        "southwest": {
+          "lat": 6.364031820107277,
+          "lng": 6.399904270107278
+        }
+      },
+      "formatted_address": "9C82+6HG, Obi's Palace, Ogbe-Obi Quarters, Aniocha North LGA, Idumuje Ugboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3655586,6.401444199999999",
+      "google_place_id": "ChIJAwNzdlNVQRARwrE2QdFKJf4"
+    }
+  },
+  {
+    "id": "39270",
+    "name": "OFUOKWU P/S - OGBE AGIDI I",
+    "registration_area_id": "2164",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "10/01/01/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2164",
+    "ward_name": "OBIOR",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.3655586,
+      "longitude": 6.401444199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.366731479892721,
+          "lng": 6.402603929892722
+        },
+        "southwest": {
+          "lat": 6.364031820107277,
+          "lng": 6.399904270107278
+        }
+      },
+      "formatted_address": "9C82+6HG, Obi's Palace, Ogbe-Obi Quarters, Aniocha North LGA, Idumuje Ugboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3655586,6.401444199999999",
+      "google_place_id": "ChIJAwNzdlNVQRARwrE2QdFKJf4"
+    }
+  },
+  {
+    "id": "39271",
+    "name": "OFUOKWU P/S - OGBE AGIDI II",
+    "registration_area_id": "2164",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "10/01/01/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2164",
+    "ward_name": "OBIOR",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "39272",
+    "name": "OPEN SPACE UNDER MANGO TREE  BYIYASE PALACE",
+    "registration_area_id": "2164",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "10/01/01/010",
+    "remark": "NEW PU",
+    "ward_id": "2164",
+    "ward_name": "OBIOR",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.3655586,
+      "longitude": 6.401444199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.366731479892721,
+          "lng": 6.402603929892722
+        },
+        "southwest": {
+          "lat": 6.364031820107277,
+          "lng": 6.399904270107278
+        }
+      },
+      "formatted_address": "9C82+6HG, Obi's Palace, Ogbe-Obi Quarters, Aniocha North LGA, Idumuje Ugboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3655586,6.401444199999999",
+      "google_place_id": "ChIJAwNzdlNVQRARwrE2QdFKJf4"
+    }
+  },
+  {
+    "id": "39273",
+    "name": "PRY HEALTH CARE ISHIEKPE QTRS",
+    "registration_area_id": "2164",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "10/01/01/011",
+    "remark": "NEW PU",
+    "ward_id": "2164",
+    "ward_name": "OBIOR",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.210569,
+      "longitude": 6.688877300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.211914329892721,
+          "lng": 6.690112129892722
+        },
+        "southwest": {
+          "lat": 6.209214670107277,
+          "lng": 6.687412470107278
+        }
+      },
+      "formatted_address": "Delta State Contributory Health Commission, Governor, s, 10 DBS Rd, Central Area 320108, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.210569,6.688877300000001",
+      "google_place_id": "ChIJz146anLyQxARz_fa_UQuoBc"
+    }
+  },
+  {
+    "id": "39274",
+    "name": "COMPREHENSIVE SEC SCH OGBE ISSE",
+    "registration_area_id": "2164",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "10/01/01/012",
+    "remark": "NEW PU",
+    "ward_id": "2164",
+    "ward_name": "OBIOR",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.2469865,
+      "longitude": 6.641608199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.248384279892722,
+          "lng": 6.642889779892721
+        },
+        "southwest": {
+          "lat": 6.245684620107278,
+          "lng": 6.640190120107277
+        }
+      },
+      "formatted_address": "6JWR+QJX, Unnamed road, Amachai 320108, Okpanam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2469865,6.641608199999999",
+      "google_place_id": "ChIJ4wSI9VTxQxARGQfpqJA2t0Y"
+    }
+  },
+  {
+    "id": "39275",
+    "name": "UKPALI PRY SCH OGBE UTU QTRS III",
+    "registration_area_id": "2164",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "10/01/01/013",
+    "remark": "NEW PU",
+    "ward_id": "2164",
+    "ward_name": "OBIOR",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.239476,
+      "longitude": 6.442044,
+      "viewport": {
+        "northeast": {
+          "lat": 6.240843479892722,
+          "lng": 6.443359579892722
+        },
+        "southwest": {
+          "lat": 6.238143820107278,
+          "lng": 6.440659920107279
+        }
+      },
+      "formatted_address": "6CQR+QRV, 321113, Ubulu-uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.239476,6.442044",
+      "google_place_id": "ChIJH-VNnwf9QxARCX4InfljXDI"
+    }
+  },
+  {
+    "id": "39276",
+    "name": "UKPALI PRY SCH IDUMU OZEI III",
+    "registration_area_id": "2164",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "10/01/01/014",
+    "remark": "NEW PU",
+    "ward_id": "2164",
+    "ward_name": "OBIOR",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.239476,
+      "longitude": 6.442044,
+      "viewport": {
+        "northeast": {
+          "lat": 6.240843479892722,
+          "lng": 6.443359579892722
+        },
+        "southwest": {
+          "lat": 6.238143820107278,
+          "lng": 6.440659920107279
+        }
+      },
+      "formatted_address": "6CQR+QRV, 321113, Ubulu-uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.239476,6.442044",
+      "google_place_id": "ChIJH-VNnwf9QxARCX4InfljXDI"
+    }
+  }
+]

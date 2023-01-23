@@ -1,0 +1,418 @@
+[
+  {
+    "id": "91032",
+    "name": "RIKADAWA KALO I",
+    "registration_area_id": "4649",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/28/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4649",
+    "ward_name": "RIKADAWA",
+    "local_government_id": "397",
+    "local_government_name": "MADOBI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7330082,
+      "longitude": 8.309691899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.73431922989272,
+          "lng": 8.31105537989272
+        },
+        "southwest": {
+          "lat": 11.73161957010728,
+          "lng": 8.308355720107276
+        }
+      },
+      "formatted_address": "7F3CP8M5+6V4, KALO 711102, Rikadawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7330082,8.309691899999999",
+      "google_place_id": "ChIJw2lBgFLPrRERJX1fejci_uU"
+    }
+  },
+  {
+    "id": "91033",
+    "name": "RIKADAWA KALO II",
+    "registration_area_id": "4649",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/28/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4649",
+    "ward_name": "RIKADAWA",
+    "local_government_id": "397",
+    "local_government_name": "MADOBI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7330082,
+      "longitude": 8.309691899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.73431922989272,
+          "lng": 8.31105537989272
+        },
+        "southwest": {
+          "lat": 11.73161957010728,
+          "lng": 8.308355720107276
+        }
+      },
+      "formatted_address": "7F3CP8M5+6V4, KALO 711102, Rikadawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7330082,8.309691899999999",
+      "google_place_id": "ChIJw2lBgFLPrRERJX1fejci_uU"
+    }
+  },
+  {
+    "id": "91034",
+    "name": "RIKADAWA SAKO I",
+    "registration_area_id": "4649",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/28/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4649",
+    "ward_name": "RIKADAWA",
+    "local_government_id": "397",
+    "local_government_name": "MADOBI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "91035",
+    "name": "RIKADAWA SAKO II",
+    "registration_area_id": "4649",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/28/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4649",
+    "ward_name": "RIKADAWA",
+    "local_government_id": "397",
+    "local_government_name": "MADOBI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "91036",
+    "name": "UNGUWAR DAWA/BODE",
+    "registration_area_id": "4649",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/28/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4649",
+    "ward_name": "RIKADAWA",
+    "local_government_id": "397",
+    "local_government_name": "MADOBI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "91037",
+    "name": "JEDAWA/CIKAWA TUDU",
+    "registration_area_id": "4649",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/28/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4649",
+    "ward_name": "RIKADAWA",
+    "local_government_id": "397",
+    "local_government_name": "MADOBI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7379813,
+      "longitude": 8.3285,
+      "viewport": {
+        "northeast": {
+          "lat": 11.73932732989272,
+          "lng": 8.329832729892722
+        },
+        "southwest": {
+          "lat": 11.73662767010728,
+          "lng": 8.327133070107278
+        }
+      },
+      "formatted_address": "7F3CP8QH+5CC CHIKAWA. TUDU, 711102, Rikadawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7379813,8.3285",
+      "google_place_id": "ChIJGdH6mGbPrRERtiBFR-N3idc"
+    }
+  },
+  {
+    "id": "91038",
+    "name": "JEDAWA/CIKAWA KWARI I",
+    "registration_area_id": "4649",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/28/11/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4649",
+    "ward_name": "RIKADAWA",
+    "local_government_id": "397",
+    "local_government_name": "MADOBI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "91039",
+    "name": "JEDAWA/CIKAWA KWARI II",
+    "registration_area_id": "4649",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/28/11/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4649",
+    "ward_name": "RIKADAWA",
+    "local_government_id": "397",
+    "local_government_name": "MADOBI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "91040",
+    "name": "JIRGWAI I",
+    "registration_area_id": "4649",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/28/11/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4649",
+    "ward_name": "RIKADAWA",
+    "local_government_id": "397",
+    "local_government_name": "MADOBI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7391775,
+      "longitude": 8.3543231,
+      "viewport": {
+        "northeast": {
+          "lat": 11.74049237989272,
+          "lng": 8.355697079892723
+        },
+        "southwest": {
+          "lat": 11.73779272010728,
+          "lng": 8.352997420107279
+        }
+      },
+      "formatted_address": "P9Q3+MPG, 711102, Rikadawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7391775,8.3543231",
+      "google_place_id": "ChIJdbU_uyDPrRERaP6EPoZK3kw"
+    }
+  },
+  {
+    "id": "91041",
+    "name": "JIRGWAI II",
+    "registration_area_id": "4649",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "19/28/11/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4649",
+    "ward_name": "RIKADAWA",
+    "local_government_id": "397",
+    "local_government_name": "MADOBI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7391775,
+      "longitude": 8.3543231,
+      "viewport": {
+        "northeast": {
+          "lat": 11.74049237989272,
+          "lng": 8.355697079892723
+        },
+        "southwest": {
+          "lat": 11.73779272010728,
+          "lng": 8.352997420107279
+        }
+      },
+      "formatted_address": "P9Q3+MPG, 711102, Rikadawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7391775,8.3543231",
+      "google_place_id": "ChIJdbU_uyDPrRERaP6EPoZK3kw"
+    }
+  },
+  {
+    "id": "91042",
+    "name": "JIRGWAI III",
+    "registration_area_id": "4649",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "19/28/11/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4649",
+    "ward_name": "RIKADAWA",
+    "local_government_id": "397",
+    "local_government_name": "MADOBI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7391775,
+      "longitude": 8.3543231,
+      "viewport": {
+        "northeast": {
+          "lat": 11.74049237989272,
+          "lng": 8.355697079892723
+        },
+        "southwest": {
+          "lat": 11.73779272010728,
+          "lng": 8.352997420107279
+        }
+      },
+      "formatted_address": "P9Q3+MPG, 711102, Rikadawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7391775,8.3543231",
+      "google_place_id": "ChIJdbU_uyDPrRERaP6EPoZK3kw"
+    }
+  },
+  {
+    "id": "91043",
+    "name": "JIRGWAI IV",
+    "registration_area_id": "4649",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "19/28/11/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4649",
+    "ward_name": "RIKADAWA",
+    "local_government_id": "397",
+    "local_government_name": "MADOBI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8942454,
+      "longitude": 8.3951467,
+      "viewport": {
+        "northeast": {
+          "lat": 11.89549882989272,
+          "lng": 8.39656307989272
+        },
+        "southwest": {
+          "lat": 11.89279917010728,
+          "lng": 8.393863420107277
+        }
+      },
+      "formatted_address": "V9VW+M3R, 711102, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8942454,8.3951467",
+      "google_place_id": "ChIJA2UbPoLWrRERxorcGLPpmnk"
+    }
+  },
+  {
+    "id": "91044",
+    "name": "RIKADAAWA KALO",
+    "registration_area_id": "4649",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "19/28/11/013",
+    "remark": "NEW PU",
+    "ward_id": "4649",
+    "ward_name": "RIKADAWA",
+    "local_government_id": "397",
+    "local_government_name": "MADOBI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7330082,
+      "longitude": 8.309691899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.73431922989272,
+          "lng": 8.31105537989272
+        },
+        "southwest": {
+          "lat": 11.73161957010728,
+          "lng": 8.308355720107276
+        }
+      },
+      "formatted_address": "7F3CP8M5+6V4, KALO 711102, Rikadawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7330082,8.309691899999999",
+      "google_place_id": "ChIJw2lBgFLPrRERJX1fejci_uU"
+    }
+  },
+  {
+    "id": "91045",
+    "name": "RIKADAWA SAKO",
+    "registration_area_id": "4649",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "19/28/11/014",
+    "remark": "NEW PU",
+    "ward_id": "4649",
+    "ward_name": "RIKADAWA",
+    "local_government_id": "397",
+    "local_government_name": "MADOBI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "91046",
+    "name": "RIKADAWA SAKO",
+    "registration_area_id": "4649",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "19/28/11/015",
+    "remark": "NEW PU",
+    "ward_id": "4649",
+    "ward_name": "RIKADAWA",
+    "local_government_id": "397",
+    "local_government_name": "MADOBI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "91047",
+    "name": "JEDAWA/CIKAWA TUDU",
+    "registration_area_id": "4649",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "19/28/11/016",
+    "remark": "NEW PU",
+    "ward_id": "4649",
+    "ward_name": "RIKADAWA",
+    "local_government_id": "397",
+    "local_government_name": "MADOBI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7379813,
+      "longitude": 8.3285,
+      "viewport": {
+        "northeast": {
+          "lat": 11.73932732989272,
+          "lng": 8.329832729892722
+        },
+        "southwest": {
+          "lat": 11.73662767010728,
+          "lng": 8.327133070107278
+        }
+      },
+      "formatted_address": "7F3CP8QH+5CC CHIKAWA. TUDU, 711102, Rikadawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7379813,8.3285",
+      "google_place_id": "ChIJGdH6mGbPrRERtiBFR-N3idc"
+    }
+  }
+]

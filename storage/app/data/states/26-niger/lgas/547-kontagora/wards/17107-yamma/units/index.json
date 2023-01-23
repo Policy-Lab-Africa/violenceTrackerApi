@@ -1,0 +1,816 @@
+[
+  {
+    "id": "336759",
+    "name": "YAN DILLALAI  I",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/11/13/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4020469,
+      "longitude": 5.4574861,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40342147989272,
+          "lng": 5.458964979892722
+        },
+        "southwest": {
+          "lat": 10.40072182010728,
+          "lng": 5.456265320107278
+        }
+      },
+      "formatted_address": "CF24+RX9, 923101, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4020469,5.4574861",
+      "google_place_id": "ChIJHdaV_CTJShARew18bEMf7Y0"
+    }
+  },
+  {
+    "id": "336760",
+    "name": "YAN DILLALAI  II",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/11/13/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336761",
+    "name": "BISO KAROFI",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/11/13/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4020469,
+      "longitude": 5.4574861,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40342147989272,
+          "lng": 5.458964979892722
+        },
+        "southwest": {
+          "lat": 10.40072182010728,
+          "lng": 5.456265320107278
+        }
+      },
+      "formatted_address": "CF24+RX9, 923101, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4020469,5.4574861",
+      "google_place_id": "ChIJHdaV_CTJShARew18bEMf7Y0"
+    }
+  },
+  {
+    "id": "336762",
+    "name": "SARKIN KASUWA",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/11/13/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336763",
+    "name": "SARKIN PAWA",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/11/13/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336764",
+    "name": "ALH. GWADABE  I",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/11/13/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4030161,
+      "longitude": 5.4729499,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40436502989272,
+          "lng": 5.474303479892722
+        },
+        "southwest": {
+          "lat": 10.40166537010728,
+          "lng": 5.471603820107278
+        }
+      },
+      "formatted_address": "CF3F+654, BCGA, behind Niger Supermarket, 923101, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4030161,5.4729499",
+      "google_place_id": "ChIJZUoM563IShARlvv61maiad4"
+    }
+  },
+  {
+    "id": "336765",
+    "name": "ALH. GWADABE  II",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/11/13/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336766",
+    "name": "K/USMAN DATTI  I",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/11/13/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4119744,
+      "longitude": 5.495229699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.41333762989272,
+          "lng": 5.496488679892722
+        },
+        "southwest": {
+          "lat": 10.41063797010728,
+          "lng": 5.493789020107278
+        }
+      },
+      "formatted_address": "P.M.B 30, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4119744,5.495229699999999",
+      "google_place_id": "ChIJVfJRF73PShARbPyZivWCGYw"
+    }
+  },
+  {
+    "id": "336767",
+    "name": "K/USMAN DATTI  II",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "26/11/13/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336768",
+    "name": "KOFAR ARA  I",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "26/11/13/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4030161,
+      "longitude": 5.4729499,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40436502989272,
+          "lng": 5.474303479892722
+        },
+        "southwest": {
+          "lat": 10.40166537010728,
+          "lng": 5.471603820107278
+        }
+      },
+      "formatted_address": "CF3F+654, BCGA, behind Niger Supermarket, 923101, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4030161,5.4729499",
+      "google_place_id": "ChIJZUoM563IShARlvv61maiad4"
+    }
+  },
+  {
+    "id": "336769",
+    "name": "KOFAR ARA  II",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "26/11/13/011",
+    "remark": "EXISTING PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336770",
+    "name": "MATAWALE",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "26/11/13/012",
+    "remark": "EXISTING PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.3704993,
+      "longitude": 5.4656582,
+      "viewport": {
+        "northeast": {
+          "lat": 10.37192402989272,
+          "lng": 5.467025979892722
+        },
+        "southwest": {
+          "lat": 10.36922437010728,
+          "lng": 5.464326320107278
+        }
+      },
+      "formatted_address": "Kontagora, Niger State, Mokwa-Bokani-Kotangora Rd, 923101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3704993,5.4656582",
+      "google_place_id": "ChIJ-6paM23GShARezJBa4yZZKs"
+    }
+  },
+  {
+    "id": "336771",
+    "name": "ATTALOLI",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "26/11/13/013",
+    "remark": "EXISTING PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4020469,
+      "longitude": 5.4574861,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40342147989272,
+          "lng": 5.458964979892722
+        },
+        "southwest": {
+          "lat": 10.40072182010728,
+          "lng": 5.456265320107278
+        }
+      },
+      "formatted_address": "CF24+RX9, 923101, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4020469,5.4574861",
+      "google_place_id": "ChIJHdaV_CTJShARew18bEMf7Y0"
+    }
+  },
+  {
+    "id": "336772",
+    "name": "YAN SANDA 'B' DIVISION",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "26/11/13/014",
+    "remark": "EXISTING PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336773",
+    "name": "UNG. TANKO KARA OPEN SPACE",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "26/11/13/015",
+    "remark": "NEW PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336774",
+    "name": "OPEN SPACE UNG. USMAN KUTTU",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "26/11/13/016",
+    "remark": "NEW PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.407146,
+      "longitude": 5.4699173,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40849872989272,
+          "lng": 5.471368429892721
+        },
+        "southwest": {
+          "lat": 10.40579907010728,
+          "lng": 5.468668770107278
+        }
+      },
+      "formatted_address": "Klm3, Zuru Road, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.407146,5.4699173",
+      "google_place_id": "ChIJAQAAALHIShAR8ejKktWx3KM"
+    }
+  },
+  {
+    "id": "336775",
+    "name": "OLD MKT JUNCTION BETTER LIFE",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "26/11/13/017",
+    "remark": "NEW PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4059294,
+      "longitude": 5.470917399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40728862989272,
+          "lng": 5.472262179892722
+        },
+        "southwest": {
+          "lat": 10.40458897010728,
+          "lng": 5.469562520107278
+        }
+      },
+      "formatted_address": "CF4C+99G, 923101, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4059294,5.470917399999999",
+      "google_place_id": "ChIJfU3XvrHIShARcvoEf_G8Kxg"
+    }
+  },
+  {
+    "id": "336776",
+    "name": "UNG. SALEH EDUCATION",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "26/11/13/018",
+    "remark": "NEW PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4030153,
+      "longitude": 5.4729497,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40436422989272,
+          "lng": 5.474303279892721
+        },
+        "southwest": {
+          "lat": 10.40166457010728,
+          "lng": 5.471603620107278
+        }
+      },
+      "formatted_address": "Federal college of education, 923101, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4030153,5.4729497",
+      "google_place_id": "ChIJYX74jmnJShARJiaiKejahTc"
+    }
+  },
+  {
+    "id": "336777",
+    "name": "UNG. MAI-UNGUWAN BARAJE",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "26/11/13/019",
+    "remark": "NEW PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336778",
+    "name": "UNG. BABAN TAYAU",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "26/11/13/020",
+    "remark": "NEW PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4020469,
+      "longitude": 5.4574861,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40342147989272,
+          "lng": 5.458964979892722
+        },
+        "southwest": {
+          "lat": 10.40072182010728,
+          "lng": 5.456265320107278
+        }
+      },
+      "formatted_address": "CF24+RX9, 923101, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4020469,5.4574861",
+      "google_place_id": "ChIJHdaV_CTJShARew18bEMf7Y0"
+    }
+  },
+  {
+    "id": "336779",
+    "name": "KOFAR SARKIN NOMA",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "26/11/13/021",
+    "remark": "NEW PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 12.9961215,
+      "longitude": 7.5880122,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99747187989272,
+          "lng": 7.589359979892722
+        },
+        "southwest": {
+          "lat": 12.99477222010728,
+          "lng": 7.586660320107279
+        }
+      },
+      "formatted_address": "Kofar Guga, Nagoggo Road, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9961215,7.5880122",
+      "google_place_id": "ChIJe4AD7uo8sBERF4w_dekSXCY"
+    }
+  },
+  {
+    "id": "336780",
+    "name": "UNG. TANIMU MAI KILISHI",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "26/11/13/022",
+    "remark": "NEW PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.3704993,
+      "longitude": 5.4656582,
+      "viewport": {
+        "northeast": {
+          "lat": 10.37192402989272,
+          "lng": 5.467025979892722
+        },
+        "southwest": {
+          "lat": 10.36922437010728,
+          "lng": 5.464326320107278
+        }
+      },
+      "formatted_address": "Kontagora, Niger State, Mokwa-Bokani-Kotangora Rd, 923101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3704993,5.4656582",
+      "google_place_id": "ChIJ-6paM23GShARezJBa4yZZKs"
+    }
+  },
+  {
+    "id": "336781",
+    "name": "DAY SEC SCH. SABON KASUWA I",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "26/11/13/023",
+    "remark": "NEW PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4058,
+      "longitude": 5.464587,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40734427989272,
+          "lng": 5.465955779892721
+        },
+        "southwest": {
+          "lat": 10.40464462010728,
+          "lng": 5.463256120107277
+        }
+      },
+      "formatted_address": "7F27CF47+8R8 Unguwan Yamma Yamma, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4058,5.464587",
+      "google_place_id": "ChIJL7j5Fm_JShARC6Tct9xiVvY"
+    }
+  },
+  {
+    "id": "336782",
+    "name": "DAY SECONDARY SCHOOL KASUWA II",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "26/11/13/024",
+    "remark": "NEW PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4058,
+      "longitude": 5.464587,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40734427989272,
+          "lng": 5.465955779892721
+        },
+        "southwest": {
+          "lat": 10.40464462010728,
+          "lng": 5.463256120107277
+        }
+      },
+      "formatted_address": "7F27CF47+8R8 Unguwan Yamma Yamma, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4058,5.464587",
+      "google_place_id": "ChIJL7j5Fm_JShARC6Tct9xiVvY"
+    }
+  },
+  {
+    "id": "336783",
+    "name": "KOFAR ALH. AUDU MAIKAJI",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "26/11/13/025",
+    "remark": "NEW PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4030161,
+      "longitude": 5.4729499,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40436502989272,
+          "lng": 5.474303479892722
+        },
+        "southwest": {
+          "lat": 10.40166537010728,
+          "lng": 5.471603820107278
+        }
+      },
+      "formatted_address": "CF3F+654, BCGA, behind Niger Supermarket, 923101, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4030161,5.4729499",
+      "google_place_id": "ChIJZUoM563IShARlvv61maiad4"
+    }
+  },
+  {
+    "id": "336784",
+    "name": "HAYIN NAMASKA",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "26/11/13/026",
+    "remark": "NEW PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.368429,
+      "longitude": 5.4664846,
+      "viewport": {
+        "northeast": {
+          "lat": 10.36980482989272,
+          "lng": 5.467592079892722
+        },
+        "southwest": {
+          "lat": 10.36710517010728,
+          "lng": 5.464892420107279
+        }
+      },
+      "formatted_address": "9F98+9HG, 923101, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.368429,5.4664846",
+      "google_place_id": "ChIJx1Xhf0PHShARFaTPJNDTz5A"
+    }
+  },
+  {
+    "id": "336785",
+    "name": "ABATTOIR (MAYANKA)",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "26/11/13/027",
+    "remark": "NEW PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336786",
+    "name": "FED. LOW COST(OVERHEAD TANK)",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "26/11/13/028",
+    "remark": "NEW PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336787",
+    "name": "FED. LOW COST(ALBARKA BREAD)",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "26/11/13/029",
+    "remark": "NEW PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4071374,
+      "longitude": 5.4699567,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40848902989272,
+          "lng": 5.471368679892722
+        },
+        "southwest": {
+          "lat": 10.40578937010728,
+          "lng": 5.468669020107278
+        }
+      },
+      "formatted_address": "R11 Maidubu Rd, 923101, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4071374,5.4699567",
+      "google_place_id": "ChIJtWjQ9NbJShARmdqzukOSNvk"
+    }
+  },
+  {
+    "id": "336788",
+    "name": "ARGUNGU ROAD K/GORA RICE MILL",
+    "registration_area_id": "17107",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "26/11/13/030",
+    "remark": "NEW PU",
+    "ward_id": "17107",
+    "ward_name": "YAMMA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 12.7549279,
+      "longitude": 4.5414989,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75628397989272,
+          "lng": 4.542860629892722
+        },
+        "southwest": {
+          "lat": 12.75358432010728,
+          "lng": 4.540160970107278
+        }
+      },
+      "formatted_address": "Km 4 Argungu Sokoto Road, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7549279,4.5414989",
+      "google_place_id": "ChIJaUfu_ZStyRERNgqDANzkgzg"
+    }
+  }
+]

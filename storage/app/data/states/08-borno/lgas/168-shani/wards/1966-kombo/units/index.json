@@ -1,0 +1,170 @@
+[
+  {
+    "id": "35920",
+    "name": "KOMBO PRI. SCH. , KOMBO   I",
+    "registration_area_id": "1966",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/27/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1966",
+    "ward_name": "KOMBO",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.079485,
+      "longitude": 11.8321561,
+      "viewport": {
+        "northeast": {
+          "lat": 10.1165558,
+          "lng": 11.8840952
+        },
+        "southwest": {
+          "lat": 10.0442047,
+          "lng": 11.7801797
+        }
+      },
+      "formatted_address": "Kombo, 603107, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.079485,11.8321561",
+      "google_place_id": "ChIJ98Qo9g8T_hAR9-GiOsbDGNY"
+    }
+  },
+  {
+    "id": "35921",
+    "name": "KOMBO PRI. SCH. , KOMBO   II",
+    "registration_area_id": "1966",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/27/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1966",
+    "ward_name": "KOMBO",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.079485,
+      "longitude": 11.8321561,
+      "viewport": {
+        "northeast": {
+          "lat": 10.1165558,
+          "lng": 11.8840952
+        },
+        "southwest": {
+          "lat": 10.0442047,
+          "lng": 11.7801797
+        }
+      },
+      "formatted_address": "Kombo, 603107, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.079485,11.8321561",
+      "google_place_id": "ChIJ98Qo9g8T_hAR9-GiOsbDGNY"
+    }
+  },
+  {
+    "id": "35922",
+    "name": "PILAK PRI. SCH. , PILAK",
+    "registration_area_id": "1966",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/27/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1966",
+    "ward_name": "KOMBO",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35923",
+    "name": "KOFAR J. SHAMYA , TUDUN WADA",
+    "registration_area_id": "1966",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/27/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1966",
+    "ward_name": "KOMBO",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35924",
+    "name": "KAREJI PRI. SCH. , KAREJI  I",
+    "registration_area_id": "1966",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/27/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1966",
+    "ward_name": "KOMBO",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35925",
+    "name": "KAREJI PRI. SCH. , KAREJI  II",
+    "registration_area_id": "1966",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/27/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1966",
+    "ward_name": "KOMBO",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35926",
+    "name": "KOFAR BULAMA , KURKUDE",
+    "registration_area_id": "1966",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/27/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1966",
+    "ward_name": "KOMBO",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35927",
+    "name": "OLD DISPENSARY KUMBO",
+    "registration_area_id": "1966",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "08/27/07/008",
+    "remark": "NEW PU",
+    "ward_id": "1966",
+    "ward_name": "KOMBO",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  }
+]

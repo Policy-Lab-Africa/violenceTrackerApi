@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "110017",
+    "name": "ALALUBOSA N.MARABA GARAGE I",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "23/06/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "110018",
+    "name": "ALALUBOSA N.MARABA GARAGE II",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "23/06/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "110019",
+    "name": "ST JOHN'S L.G.E.A I",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "23/06/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4930965,
+      "longitude": 4.5689982,
+      "viewport": {
+        "northeast": {
+          "lat": 8.494614329892721,
+          "lng": 4.570160329892722
+        },
+        "southwest": {
+          "lat": 8.491914670107278,
+          "lng": 4.567460670107279
+        }
+      },
+      "formatted_address": "FHV9+CJJ LGEA Primary School, Murtala Mohammed Rd, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4930965,4.5689982",
+      "google_place_id": "ChIJUXbkCntNNhARVa8OyMTrWpI"
+    }
+  },
+  {
+    "id": "110020",
+    "name": "ST JOHN'S L.G.E.A II",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "23/06/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4930965,
+      "longitude": 4.5689982,
+      "viewport": {
+        "northeast": {
+          "lat": 8.494614329892721,
+          "lng": 4.570160329892722
+        },
+        "southwest": {
+          "lat": 8.491914670107278,
+          "lng": 4.567460670107279
+        }
+      },
+      "formatted_address": "FHV9+CJJ LGEA Primary School, Murtala Mohammed Rd, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4930965,4.5689982",
+      "google_place_id": "ChIJUXbkCntNNhARVa8OyMTrWpI"
+    }
+  },
+  {
+    "id": "110021",
+    "name": "ST JOHN'S L.G.E.A III",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "23/06/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4930965,
+      "longitude": 4.5689982,
+      "viewport": {
+        "northeast": {
+          "lat": 8.494614329892721,
+          "lng": 4.570160329892722
+        },
+        "southwest": {
+          "lat": 8.491914670107278,
+          "lng": 4.567460670107279
+        }
+      },
+      "formatted_address": "FHV9+CJJ LGEA Primary School, Murtala Mohammed Rd, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4930965,4.5689982",
+      "google_place_id": "ChIJUXbkCntNNhARVa8OyMTrWpI"
+    }
+  },
+  {
+    "id": "110022",
+    "name": "ST. JOHN'S L.G.E.A. IV",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "23/06/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "110023",
+    "name": "GOVT SEC SCH ILORIN I",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "23/06/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4956923,
+      "longitude": 4.5767377,
+      "viewport": {
+        "northeast": {
+          "lat": 8.497303829892722,
+          "lng": 4.578119979892723
+        },
+        "southwest": {
+          "lat": 8.494604170107278,
+          "lng": 4.575420320107279
+        }
+      },
+      "formatted_address": "FHWG+7MM, 240102, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4956923,4.5767377",
+      "google_place_id": "ChIJUUqGSnFNNhARomzcRESqUh0"
+    }
+  },
+  {
+    "id": "110024",
+    "name": "GOVT SEC SCH ILORIN II",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "23/06/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4956923,
+      "longitude": 4.5767377,
+      "viewport": {
+        "northeast": {
+          "lat": 8.497303829892722,
+          "lng": 4.578119979892723
+        },
+        "southwest": {
+          "lat": 8.494604170107278,
+          "lng": 4.575420320107279
+        }
+      },
+      "formatted_address": "FHWG+7MM, 240102, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4956923,4.5767377",
+      "google_place_id": "ChIJUUqGSnFNNhARomzcRESqUh0"
+    }
+  },
+  {
+    "id": "110025",
+    "name": "GOVT SEC SCH ILORIN III",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "23/06/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4956923,
+      "longitude": 4.5767377,
+      "viewport": {
+        "northeast": {
+          "lat": 8.497303829892722,
+          "lng": 4.578119979892723
+        },
+        "southwest": {
+          "lat": 8.494604170107278,
+          "lng": 4.575420320107279
+        }
+      },
+      "formatted_address": "FHWG+7MM, 240102, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4956923,4.5767377",
+      "google_place_id": "ChIJUUqGSnFNNhARomzcRESqUh0"
+    }
+  },
+  {
+    "id": "110026",
+    "name": "OPP COMM OF POLICE",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "23/06/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4764099,
+      "longitude": 4.574337,
+      "viewport": {
+        "northeast": {
+          "lat": 8.477754779892724,
+          "lng": 4.575715879892722
+        },
+        "southwest": {
+          "lat": 8.47505512010728,
+          "lng": 4.573016220107278
+        }
+      },
+      "formatted_address": "FHGF+HP8, Alimi Road, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4764099,4.574337",
+      "google_place_id": "ChIJ6QicRyBNNhARIE_wvWWTHPM"
+    }
+  },
+  {
+    "id": "110027",
+    "name": "INFRONT OF KWARA HOTEL I",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "23/06/08/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4822091,
+      "longitude": 4.5751214,
+      "viewport": {
+        "northeast": {
+          "lat": 8.483527079892722,
+          "lng": 4.576497979892721
+        },
+        "southwest": {
+          "lat": 8.480827420107278,
+          "lng": 4.573798320107278
+        }
+      },
+      "formatted_address": "9a Ahmadu Bello Way, GRA 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4822091,4.5751214",
+      "google_place_id": "ChIJSY8pD2lNNhARN2smKBQ-yc4"
+    }
+  },
+  {
+    "id": "110028",
+    "name": "INFRONT OF KWARA HOTEL II",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "23/06/08/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4822091,
+      "longitude": 4.5751214,
+      "viewport": {
+        "northeast": {
+          "lat": 8.483527079892722,
+          "lng": 4.576497979892721
+        },
+        "southwest": {
+          "lat": 8.480827420107278,
+          "lng": 4.573798320107278
+        }
+      },
+      "formatted_address": "9a Ahmadu Bello Way, GRA 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4822091,4.5751214",
+      "google_place_id": "ChIJSY8pD2lNNhARN2smKBQ-yc4"
+    }
+  },
+  {
+    "id": "110029",
+    "name": "INFRONT OF KWARA HOTEL III",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "23/06/08/013",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4822091,
+      "longitude": 4.5751214,
+      "viewport": {
+        "northeast": {
+          "lat": 8.483527079892722,
+          "lng": 4.576497979892721
+        },
+        "southwest": {
+          "lat": 8.480827420107278,
+          "lng": 4.573798320107278
+        }
+      },
+      "formatted_address": "9a Ahmadu Bello Way, GRA 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4822091,4.5751214",
+      "google_place_id": "ChIJSY8pD2lNNhARN2smKBQ-yc4"
+    }
+  },
+  {
+    "id": "110030",
+    "name": "INFRONT OF POLICE 'A' DIVISION I",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "23/06/08/014",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4795192,
+      "longitude": 4.563181399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.480889929892722,
+          "lng": 4.564376079892721
+        },
+        "southwest": {
+          "lat": 8.478190270107278,
+          "lng": 4.561676420107277
+        }
+      },
+      "formatted_address": "240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4795192,4.563181399999999",
+      "google_place_id": "ChIJOw6HyQhNNhARN-Mhxyzl0pM"
+    }
+  },
+  {
+    "id": "110031",
+    "name": "INFRONT OF POLICE 'A' DIVISION II",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "23/06/08/015",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4795192,
+      "longitude": 4.563181399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.480889929892722,
+          "lng": 4.564376079892721
+        },
+        "southwest": {
+          "lat": 8.478190270107278,
+          "lng": 4.561676420107277
+        }
+      },
+      "formatted_address": "240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4795192,4.563181399999999",
+      "google_place_id": "ChIJOw6HyQhNNhARN-Mhxyzl0pM"
+    }
+  },
+  {
+    "id": "110032",
+    "name": "OPPOSITE GOVT HOUSE ILORIN I",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "23/06/08/016",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.480494799999999,
+      "longitude": 4.581048099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.482008779892722,
+          "lng": 4.582421179892721
+        },
+        "southwest": {
+          "lat": 8.479309120107278,
+          "lng": 4.579721520107277
+        }
+      },
+      "formatted_address": "FHJJ+6C7, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.480494799999999,4.581048099999999",
+      "google_place_id": "ChIJBX5o8_1NNhARAbq8YTgJAzk"
+    }
+  },
+  {
+    "id": "110033",
+    "name": "OPPOSITE GOVT HOUSE ILORIN II",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "23/06/08/017",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.480494799999999,
+      "longitude": 4.581048099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.482008779892722,
+          "lng": 4.582421179892721
+        },
+        "southwest": {
+          "lat": 8.479309120107278,
+          "lng": 4.579721520107277
+        }
+      },
+      "formatted_address": "FHJJ+6C7, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.480494799999999,4.581048099999999",
+      "google_place_id": "ChIJBX5o8_1NNhARAbq8YTgJAzk"
+    }
+  },
+  {
+    "id": "110034",
+    "name": "OPPOSITE GOVT HOUSE ILORIN III",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "23/06/08/018",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.480494799999999,
+      "longitude": 4.581048099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.482008779892722,
+          "lng": 4.582421179892721
+        },
+        "southwest": {
+          "lat": 8.479309120107278,
+          "lng": 4.579721520107277
+        }
+      },
+      "formatted_address": "FHJJ+6C7, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.480494799999999,4.581048099999999",
+      "google_place_id": "ChIJBX5o8_1NNhARAbq8YTgJAzk"
+    }
+  },
+  {
+    "id": "110035",
+    "name": "OPPOSITE GOVT HOUSE ILORIN IV",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "23/06/08/019",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "110036",
+    "name": "ST BARNABAS L.G.E.A SCH I",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "23/06/08/020",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.489496599999999,
+      "longitude": 4.5689446,
+      "viewport": {
+        "northeast": {
+          "lat": 8.49073562989272,
+          "lng": 4.570175429892722
+        },
+        "southwest": {
+          "lat": 8.488035970107276,
+          "lng": 4.567475770107278
+        }
+      },
+      "formatted_address": "FHQ9+QHW, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.489496599999999,4.5689446",
+      "google_place_id": "ChIJrURMx2RNNhARkcDscqFPASk"
+    }
+  },
+  {
+    "id": "110037",
+    "name": "ST BARNABAS L.G.E.A SCH II",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "23/06/08/021",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4800187,
+      "longitude": 4.5610742,
+      "viewport": {
+        "northeast": {
+          "lat": 8.481588279892723,
+          "lng": 4.562434829892721
+        },
+        "southwest": {
+          "lat": 8.478888620107279,
+          "lng": 4.559735170107277
+        }
+      },
+      "formatted_address": "5 Unity Rd, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4800187,4.5610742",
+      "google_place_id": "ChIJ6yU3-cHcNxARFGDhNegl1TY"
+    }
+  },
+  {
+    "id": "110038",
+    "name": "ST BARNABAS L.G.E.A SCH III",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "23/06/08/022",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4800187,
+      "longitude": 4.5610742,
+      "viewport": {
+        "northeast": {
+          "lat": 8.481588279892723,
+          "lng": 4.562434829892721
+        },
+        "southwest": {
+          "lat": 8.478888620107279,
+          "lng": 4.559735170107277
+        }
+      },
+      "formatted_address": "5 Unity Rd, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4800187,4.5610742",
+      "google_place_id": "ChIJ6yU3-cHcNxARFGDhNegl1TY"
+    }
+  },
+  {
+    "id": "110039",
+    "name": "ST BARNABAS L.G.E.A SCH IV",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "23/06/08/023",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.489496599999999,
+      "longitude": 4.5689446,
+      "viewport": {
+        "northeast": {
+          "lat": 8.49073562989272,
+          "lng": 4.570175429892722
+        },
+        "southwest": {
+          "lat": 8.488035970107276,
+          "lng": 4.567475770107278
+        }
+      },
+      "formatted_address": "FHQ9+QHW, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.489496599999999,4.5689446",
+      "google_place_id": "ChIJrURMx2RNNhARkcDscqFPASk"
+    }
+  },
+  {
+    "id": "110040",
+    "name": "ST BARNABAS L.G.E.A SCH V",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "23/06/08/024",
+    "remark": "EXISTING PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.489496599999999,
+      "longitude": 4.5689446,
+      "viewport": {
+        "northeast": {
+          "lat": 8.49073562989272,
+          "lng": 4.570175429892722
+        },
+        "southwest": {
+          "lat": 8.488035970107276,
+          "lng": 4.567475770107278
+        }
+      },
+      "formatted_address": "FHQ9+QHW, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.489496599999999,4.5689446",
+      "google_place_id": "ChIJrURMx2RNNhARkcDscqFPASk"
+    }
+  },
+  {
+    "id": "110041",
+    "name": "OPEN SPACE BESIDE SABO-OKE MEDICAL CENTRE ALALUBOSA",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "23/06/08/025",
+    "remark": "NEW PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "110042",
+    "name": "ALALUBOSA L.G.E.A SCHOOL",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "23/06/08/026",
+    "remark": "NEW PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.535458499999999,
+      "longitude": 4.6169458,
+      "viewport": {
+        "northeast": {
+          "lat": 8.536815929892724,
+          "lng": 4.618311429892722
+        },
+        "southwest": {
+          "lat": 8.534116270107278,
+          "lng": 4.615611770107278
+        }
+      },
+      "formatted_address": "GJP8+5QM, Share-Oja Oba Road, 241102, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.535458499999999,4.6169458",
+      "google_place_id": "ChIJbdkwUSxNNhARtOGw9S4tT5o"
+    }
+  },
+  {
+    "id": "110043",
+    "name": "OPEN SPACE MUBO PHASE  I",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "23/06/08/027",
+    "remark": "NEW PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4963055,
+      "longitude": 4.5693965,
+      "viewport": {
+        "northeast": {
+          "lat": 8.497655329892723,
+          "lng": 4.570746329892721
+        },
+        "southwest": {
+          "lat": 8.494955670107279,
+          "lng": 4.568046670107277
+        }
+      },
+      "formatted_address": "Mubo street, 240101, Oko Erin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4963055,4.5693965",
+      "google_place_id": "ChIJmYz86HtNNhARB0Ke3Da64LQ"
+    }
+  },
+  {
+    "id": "110044",
+    "name": "ORISUNMIBARE COMMUNITY JUNCTION MUBO PHASE 2",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "23/06/08/028",
+    "remark": "NEW PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "110045",
+    "name": "G.S.S SECOND GATE FATE ROAD",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "23/06/08/029",
+    "remark": "NEW PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4956923,
+      "longitude": 4.5767377,
+      "viewport": {
+        "northeast": {
+          "lat": 8.497303829892722,
+          "lng": 4.578119979892723
+        },
+        "southwest": {
+          "lat": 8.494604170107278,
+          "lng": 4.575420320107279
+        }
+      },
+      "formatted_address": "FHWG+7MM, 240102, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4956923,4.5767377",
+      "google_place_id": "ChIJUUqGSnFNNhARomzcRESqUh0"
+    }
+  },
+  {
+    "id": "110046",
+    "name": "OPEN SPACE OPPOSITE FEDERAL SECRETARIAT FATE ROAD",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "23/06/08/030",
+    "remark": "NEW PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4968342,
+      "longitude": 4.5910725,
+      "viewport": {
+        "northeast": {
+          "lat": 8.498008179892723,
+          "lng": 4.592353079892722
+        },
+        "southwest": {
+          "lat": 8.49530852010728,
+          "lng": 4.589653420107278
+        }
+      },
+      "formatted_address": "FHWR+PCP, Fate Rd, 240102, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4968342,4.5910725",
+      "google_place_id": "ChIJfSuj3ghNNhARtI73CnkJMns"
+    }
+  },
+  {
+    "id": "110047",
+    "name": "BODUNDE STREET JUNCTION OFF ADELODUN ROAD FLOWER GARDEN GRA",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "23/06/08/031",
+    "remark": "NEW PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "110048",
+    "name": "OPEN SPACE INFRONT OF VETERINARY TEACHING HOSPITAL  I  SABO-OKE",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "23/06/08/032",
+    "remark": "NEW PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4891873,
+      "longitude": 4.574021,
+      "viewport": {
+        "northeast": {
+          "lat": 8.490616579892722,
+          "lng": 4.575391979892721
+        },
+        "southwest": {
+          "lat": 8.487916920107278,
+          "lng": 4.572692320107278
+        }
+      },
+      "formatted_address": "FHQF+MJC, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4891873,4.574021",
+      "google_place_id": "ChIJoZcXlm9NNhARyWieyng8m7U"
+    }
+  },
+  {
+    "id": "110049",
+    "name": "OPEN SPACE INFRONT OF VETERINBARY TEACHING HOSPITAL  II",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "23/06/08/033",
+    "remark": "NEW PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4891873,
+      "longitude": 4.574021,
+      "viewport": {
+        "northeast": {
+          "lat": 8.490616579892722,
+          "lng": 4.575391979892721
+        },
+        "southwest": {
+          "lat": 8.487916920107278,
+          "lng": 4.572692320107278
+        }
+      },
+      "formatted_address": "FHQF+MJC, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4891873,4.574021",
+      "google_place_id": "ChIJoZcXlm9NNhARyWieyng8m7U"
+    }
+  },
+  {
+    "id": "110050",
+    "name": "LAJORIN JUNCTION BESIDE TOWN PLANNING OFFICE",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "23/06/08/034",
+    "remark": "NEW PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4869454,
+      "longitude": 4.5687403,
+      "viewport": {
+        "northeast": {
+          "lat": 8.48826117989272,
+          "lng": 4.570210579892723
+        },
+        "southwest": {
+          "lat": 8.485561520107277,
+          "lng": 4.567510920107278
+        }
+      },
+      "formatted_address": "FHP9+QFH, Lajorin Road, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4869454,4.5687403",
+      "google_place_id": "ChIJO-AcT2hNNhARAPJ_xx0tCGU"
+    }
+  },
+  {
+    "id": "110051",
+    "name": "OPEN SPACE INFRONT OF WATER CORPORATION AGBA DAM",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "23/06/08/035",
+    "remark": "NEW PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4709848,
+      "longitude": 4.5751727,
+      "viewport": {
+        "northeast": {
+          "lat": 8.472334629892723,
+          "lng": 4.576522529892721
+        },
+        "southwest": {
+          "lat": 8.469634970107279,
+          "lng": 4.573822870107278
+        }
+      },
+      "formatted_address": "Agba-Dam Rd, 240101, Oko Erin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4709848,4.5751727",
+      "google_place_id": "ChIJATWi3UVNNhARYR1gDNCclKU"
+    }
+  },
+  {
+    "id": "110052",
+    "name": "INFRONT OF RADIO KWARA MIDLAND F.M",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "036",
+    "units": "036",
+    "delimitation": "23/06/08/036",
+    "remark": "NEW PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4752961,
+      "longitude": 4.5661159,
+      "viewport": {
+        "northeast": {
+          "lat": 8.47665307989272,
+          "lng": 4.567421929892722
+        },
+        "southwest": {
+          "lat": 8.473953420107277,
+          "lng": 4.564722270107278
+        }
+      },
+      "formatted_address": "Police Rd, GRA 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4752961,4.5661159",
+      "google_place_id": "ChIJS4p7j2BNNhARqBsi-CvecAI"
+    }
+  },
+  {
+    "id": "110053",
+    "name": "KWARA STATE ENVIRONMENTAL PROTECTION AGENCY",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "037",
+    "units": "037",
+    "delimitation": "23/06/08/037",
+    "remark": "NEW PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4860297,
+      "longitude": 4.5801757,
+      "viewport": {
+        "northeast": {
+          "lat": 8.48737282989272,
+          "lng": 4.581578279892721
+        },
+        "southwest": {
+          "lat": 8.484673170107277,
+          "lng": 4.578878620107277
+        }
+      },
+      "formatted_address": "FHPJ+C37, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4860297,4.5801757",
+      "google_place_id": "ChIJbYqxUoNNNhARLV-yH-DfBAo"
+    }
+  },
+  {
+    "id": "110054",
+    "name": "SIMEON OKIDE STREET BEHIND ADISA HOUSE GRA",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "038",
+    "units": "038",
+    "delimitation": "23/06/08/038",
+    "remark": "NEW PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "110055",
+    "name": "MINISTRY OF WORK ROUND ABOUT I",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "039",
+    "units": "039",
+    "delimitation": "23/06/08/039",
+    "remark": "NEW PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4827868,
+      "longitude": 4.5668853,
+      "viewport": {
+        "northeast": {
+          "lat": 8.484165229892723,
+          "lng": 4.568246379892722
+        },
+        "southwest": {
+          "lat": 8.481465570107279,
+          "lng": 4.565546720107278
+        }
+      },
+      "formatted_address": "FHM8+4Q2, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4827868,4.5668853",
+      "google_place_id": "ChIJdcMdJltNNhARkNmB6DJNIuM"
+    }
+  },
+  {
+    "id": "110056",
+    "name": "MINISTRY OF WORK ROUND ABOUT II",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "040",
+    "units": "040",
+    "delimitation": "23/06/08/040",
+    "remark": "NEW PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4827868,
+      "longitude": 4.5668853,
+      "viewport": {
+        "northeast": {
+          "lat": 8.484165229892723,
+          "lng": 4.568246379892722
+        },
+        "southwest": {
+          "lat": 8.481465570107279,
+          "lng": 4.565546720107278
+        }
+      },
+      "formatted_address": "FHM8+4Q2, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4827868,4.5668853",
+      "google_place_id": "ChIJdcMdJltNNhARkNmB6DJNIuM"
+    }
+  },
+  {
+    "id": "110057",
+    "name": "OPEN SPACE ILE ISANA BESIDE SULU GAMBARI JUMMAT MOSQUE",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "041",
+    "units": "041",
+    "delimitation": "23/06/08/041",
+    "remark": "NEW PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "110058",
+    "name": "OFF MURITALA WAY ST. BARNABAS STREET",
+    "registration_area_id": "5727",
+    "precise_location": null,
+    "abbreviation": "042",
+    "units": "042",
+    "delimitation": "23/06/08/042",
+    "remark": "NEW PU",
+    "ward_id": "5727",
+    "ward_name": "MAGAJI ARE 11",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4999744,
+      "longitude": 4.5746864,
+      "viewport": {
+        "northeast": {
+          "lat": 8.515483350000046,
+          "lng": 4.5920026
+        },
+        "southwest": {
+          "lat": 8.481993549999949,
+          "lng": 4.556447000000001
+        }
+      },
+      "formatted_address": "Murtala Mohammed Rd, Oko Erin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4999744,4.5746864",
+      "google_place_id": "EiZNdXJ0YWxhIE1vaGFtbWVkIFJkLCBPa28gRXJpbiwgTmlnZXJpYSIuKiwKFAoSCbcdaDlbTTYQEXsgcTuXXf0gEhQKEgm12CcGc002EBErTz88i2x6KA"
+    }
+  }
+]

@@ -1,0 +1,681 @@
+[
+  {
+    "id": "106026",
+    "name": "UKEGE, ERANE NEAR EDE MARKET",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "22/03/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106027",
+    "name": "UKEGE, OPEN SPACE",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "22/03/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.375557299999999,
+      "longitude": 7.6287901,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376889479892721,
+          "lng": 7.63028397989272
+        },
+        "southwest": {
+          "lat": 7.374189820107278,
+          "lng": 7.627584320107276
+        }
+      },
+      "formatted_address": "9JGH+6GF, Otukpa Road, 270101, Ankpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.375557299999999,7.6287901",
+      "google_place_id": "ChIJf5d0YR5IRRARb21GOcJEOn8"
+    }
+  },
+  {
+    "id": "106028",
+    "name": "ALIBOKO, OPEN SPACE",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "22/03/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5609803,
+      "longitude": 7.6276895,
+      "viewport": {
+        "northeast": {
+          "lat": 7.562282479892722,
+          "lng": 7.629013079892723
+        },
+        "southwest": {
+          "lat": 7.559582820107278,
+          "lng": 7.626313420107279
+        }
+      },
+      "formatted_address": "HJ6H+93W, 270103, Ofugu-Inye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5609803,7.6276895",
+      "google_place_id": "ChIJtWMVX01RRRARZxOyjZV50x8"
+    }
+  },
+  {
+    "id": "106029",
+    "name": "OGANE INYE, NEAR WATER TANK",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "22/03/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106030",
+    "name": "OGANE INYE, OPEN SPACE",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "22/03/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.375557299999999,
+      "longitude": 7.6287901,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376889479892721,
+          "lng": 7.63028397989272
+        },
+        "southwest": {
+          "lat": 7.374189820107278,
+          "lng": 7.627584320107276
+        }
+      },
+      "formatted_address": "9JGH+6GF, Otukpa Road, 270101, Ankpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.375557299999999,7.6287901",
+      "google_place_id": "ChIJf5d0YR5IRRARb21GOcJEOn8"
+    }
+  },
+  {
+    "id": "106031",
+    "name": "ATE OJUNO, BOB ALFA PRIMARY SCHOOL",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "22/03/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.563298800000001,
+      "longitude": 7.619889499999998,
+      "viewport": {
+        "northeast": {
+          "lat": 7.564567279892722,
+          "lng": 7.621209629892721
+        },
+        "southwest": {
+          "lat": 7.561867620107278,
+          "lng": 7.618509970107278
+        }
+      },
+      "formatted_address": "HJ79+8X6, 270103, Ofugu-Inye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.563298800000001,7.619889499999998",
+      "google_place_id": "ChIJ-UjVrQ1QRRARDS-ESz5FkcA"
+    }
+  },
+  {
+    "id": "106032",
+    "name": "ETUTU, OPEN SPACE",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "22/03/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.375557299999999,
+      "longitude": 7.6287901,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376889479892721,
+          "lng": 7.63028397989272
+        },
+        "southwest": {
+          "lat": 7.374189820107278,
+          "lng": 7.627584320107276
+        }
+      },
+      "formatted_address": "9JGH+6GF, Otukpa Road, 270101, Ankpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.375557299999999,7.6287901",
+      "google_place_id": "ChIJf5d0YR5IRRARb21GOcJEOn8"
+    }
+  },
+  {
+    "id": "106033",
+    "name": "OJUNAKA, OPEN SPACE",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "22/03/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.375557299999999,
+      "longitude": 7.6287901,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376889479892721,
+          "lng": 7.63028397989272
+        },
+        "southwest": {
+          "lat": 7.374189820107278,
+          "lng": 7.627584320107276
+        }
+      },
+      "formatted_address": "9JGH+6GF, Otukpa Road, 270101, Ankpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.375557299999999,7.6287901",
+      "google_place_id": "ChIJf5d0YR5IRRARb21GOcJEOn8"
+    }
+  },
+  {
+    "id": "106034",
+    "name": "EFACHA, OPEN SPACE",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "22/03/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.564778500000001,
+      "longitude": 7.6350644,
+      "viewport": {
+        "northeast": {
+          "lat": 7.566152629892722,
+          "lng": 7.636533729892722
+        },
+        "southwest": {
+          "lat": 7.563452970107278,
+          "lng": 7.633834070107278
+        }
+      },
+      "formatted_address": "HJ7P+W27, 270103, Ofugu-Inye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.564778500000001,7.6350644",
+      "google_place_id": "ChIJK9mSYX1RRRAROShci0UzW3U"
+    }
+  },
+  {
+    "id": "106035",
+    "name": "AGBENEBA, OPEN SPACE",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "22/03/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.375557299999999,
+      "longitude": 7.6287901,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376889479892721,
+          "lng": 7.63028397989272
+        },
+        "southwest": {
+          "lat": 7.374189820107278,
+          "lng": 7.627584320107276
+        }
+      },
+      "formatted_address": "9JGH+6GF, Otukpa Road, 270101, Ankpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.375557299999999,7.6287901",
+      "google_place_id": "ChIJf5d0YR5IRRARb21GOcJEOn8"
+    }
+  },
+  {
+    "id": "106036",
+    "name": "OJAKPALA, OPEN SPACE",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "22/03/08/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.375557299999999,
+      "longitude": 7.6287901,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376889479892721,
+          "lng": 7.63028397989272
+        },
+        "southwest": {
+          "lat": 7.374189820107278,
+          "lng": 7.627584320107276
+        }
+      },
+      "formatted_address": "9JGH+6GF, Otukpa Road, 270101, Ankpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.375557299999999,7.6287901",
+      "google_place_id": "ChIJf5d0YR5IRRARb21GOcJEOn8"
+    }
+  },
+  {
+    "id": "106037",
+    "name": "INYE, BY INYE MOTOR PARK",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "22/03/08/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.442367699999999,
+      "longitude": 7.627157899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.50312405000005,
+          "lng": 7.637630049999999
+        },
+        "southwest": {
+          "lat": 7.380377449999947,
+          "lng": 7.619446249999998
+        }
+      },
+      "formatted_address": "Enjema Road, Ankpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.442367699999999,7.627157899999999",
+      "google_place_id": "EhtFbmplbWEgUm9hZCwgQW5rcGEsIE5pZ2VyaWEiLiosChQKEgkDovQLYkhFEBGayf_YnkDycBIUChIJhcfUx-M3RRAR81XRkYAj8HA"
+    }
+  },
+  {
+    "id": "106038",
+    "name": "INYE, OPEN SPACE",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "22/03/08/013",
+    "remark": "EXISTING PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106039",
+    "name": "FRONT OF PASTOR ADEHI HOUSE O/S",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "22/03/08/014",
+    "remark": "NEW PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106040",
+    "name": "ATE OJUWO II BY TIMBER SHADE",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "22/03/08/015",
+    "remark": "NEW PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106041",
+    "name": "OFOLI BOLOKO O/S",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "22/03/08/016",
+    "remark": "NEW PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.375557299999999,
+      "longitude": 7.6287901,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376889479892721,
+          "lng": 7.63028397989272
+        },
+        "southwest": {
+          "lat": 7.374189820107278,
+          "lng": 7.627584320107276
+        }
+      },
+      "formatted_address": "9JGH+6GF, Otukpa Road, 270101, Ankpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.375557299999999,7.6287901",
+      "google_place_id": "ChIJf5d0YR5IRRARb21GOcJEOn8"
+    }
+  },
+  {
+    "id": "106042",
+    "name": "UKEGE EFOFE O/S",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "22/03/08/017",
+    "remark": "NEW PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.375557299999999,
+      "longitude": 7.6287901,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376889479892721,
+          "lng": 7.63028397989272
+        },
+        "southwest": {
+          "lat": 7.374189820107278,
+          "lng": 7.627584320107276
+        }
+      },
+      "formatted_address": "9JGH+6GF, Otukpa Road, 270101, Ankpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.375557299999999,7.6287901",
+      "google_place_id": "ChIJf5d0YR5IRRARb21GOcJEOn8"
+    }
+  },
+  {
+    "id": "106043",
+    "name": "ETUTU II ODIDI O/S",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "22/03/08/018",
+    "remark": "NEW PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.375557299999999,
+      "longitude": 7.6287901,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376889479892721,
+          "lng": 7.63028397989272
+        },
+        "southwest": {
+          "lat": 7.374189820107278,
+          "lng": 7.627584320107276
+        }
+      },
+      "formatted_address": "9JGH+6GF, Otukpa Road, 270101, Ankpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.375557299999999,7.6287901",
+      "google_place_id": "ChIJf5d0YR5IRRARb21GOcJEOn8"
+    }
+  },
+  {
+    "id": "106044",
+    "name": "AL-HAFFAAZH ACADEMY, OPEN SPACE",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "22/03/08/019",
+    "remark": "NEW PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.375557299999999,
+      "longitude": 7.6287901,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376889479892721,
+          "lng": 7.63028397989272
+        },
+        "southwest": {
+          "lat": 7.374189820107278,
+          "lng": 7.627584320107276
+        }
+      },
+      "formatted_address": "9JGH+6GF, Otukpa Road, 270101, Ankpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.375557299999999,7.6287901",
+      "google_place_id": "ChIJf5d0YR5IRRARb21GOcJEOn8"
+    }
+  },
+  {
+    "id": "106045",
+    "name": "EFACHA II O/S",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "22/03/08/020",
+    "remark": "NEW PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.375557299999999,
+      "longitude": 7.6287901,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376889479892721,
+          "lng": 7.63028397989272
+        },
+        "southwest": {
+          "lat": 7.374189820107278,
+          "lng": 7.627584320107276
+        }
+      },
+      "formatted_address": "9JGH+6GF, Otukpa Road, 270101, Ankpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.375557299999999,7.6287901",
+      "google_place_id": "ChIJf5d0YR5IRRARb21GOcJEOn8"
+    }
+  },
+  {
+    "id": "106046",
+    "name": "OJUNAKA II BY LATE ALHAJI IDOKO O/S",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "22/03/08/021",
+    "remark": "NEW PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "106047",
+    "name": "GOV. SEC. SCH. INYE",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "22/03/08/022",
+    "remark": "NEW PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.375557299999999,
+      "longitude": 7.6287901,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376889479892721,
+          "lng": 7.63028397989272
+        },
+        "southwest": {
+          "lat": 7.374189820107278,
+          "lng": 7.627584320107276
+        }
+      },
+      "formatted_address": "9JGH+6GF, Otukpa Road, 270101, Ankpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.375557299999999,7.6287901",
+      "google_place_id": "ChIJf5d0YR5IRRARb21GOcJEOn8"
+    }
+  },
+  {
+    "id": "106048",
+    "name": "UKEGE II OPP. EDE MARKET",
+    "registration_area_id": "5447",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "22/03/08/023",
+    "remark": "NEW PU",
+    "ward_id": "5447",
+    "ward_name": "ENJEMA  III",
+    "local_government_id": "471",
+    "local_government_name": "ANKPA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.4039451,
+      "longitude": 7.6320283,
+      "viewport": {
+        "northeast": {
+          "lat": 7.40525717989272,
+          "lng": 7.633225929892721
+        },
+        "southwest": {
+          "lat": 7.402557520107276,
+          "lng": 7.630526270107278
+        }
+      },
+      "formatted_address": "CJ3J+HRC, Enjema Enjema anedu Ate Regular Kogi state, Anedu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4039451,7.6320283",
+      "google_place_id": "ChIJqWRXbGhIRRARuthxuyMLcvQ"
+    }
+  }
+]

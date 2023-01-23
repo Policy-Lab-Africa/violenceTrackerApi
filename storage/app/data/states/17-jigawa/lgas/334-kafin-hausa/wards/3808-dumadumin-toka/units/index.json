@@ -1,0 +1,383 @@
+[
+  {
+    "id": "69398",
+    "name": "PRI. SCH. AUNO IBRAHIM",
+    "registration_area_id": "3808",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "17/15/02/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3808",
+    "ward_name": "DUMADUMIN TOKA",
+    "local_government_id": "334",
+    "local_government_name": "KAFIN HAUSA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.1617117,
+      "longitude": 7.945127500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.16308912989272,
+          "lng": 7.946541729892722
+        },
+        "southwest": {
+          "lat": 12.16038947010728,
+          "lng": 7.943842070107278
+        }
+      },
+      "formatted_address": "7F495W6W+M3V Farin Ruwa, 704102, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1617117,7.945127500000001",
+      "google_place_id": "ChIJYV56Vb4brhERSySKdFgarIY"
+    }
+  },
+  {
+    "id": "69399",
+    "name": "VILLAGE CENTRE/AUNO MAKERA",
+    "registration_area_id": "3808",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "17/15/02/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3808",
+    "ward_name": "DUMADUMIN TOKA",
+    "local_government_id": "334",
+    "local_government_name": "KAFIN HAUSA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.241259,
+      "longitude": 9.9073986,
+      "viewport": {
+        "northeast": {
+          "lat": 12.24270507989272,
+          "lng": 9.908726729892722
+        },
+        "southwest": {
+          "lat": 12.24000542010728,
+          "lng": 9.906027070107278
+        }
+      },
+      "formatted_address": "13 GAMBAWA QUARTERS, 741103, Keffin Hausa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.241259,9.9073986",
+      "google_place_id": "ChIJnf2aePSfqRER318BOyLC1ts"
+    }
+  },
+  {
+    "id": "69400",
+    "name": "AUNO MASARAUTA PRI. SCH.",
+    "registration_area_id": "3808",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "17/15/02/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3808",
+    "ward_name": "DUMADUMIN TOKA",
+    "local_government_id": "334",
+    "local_government_name": "KAFIN HAUSA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.2377721,
+      "longitude": 9.904377,
+      "viewport": {
+        "northeast": {
+          "lat": 12.23905582989272,
+          "lng": 9.905953429892719
+        },
+        "southwest": {
+          "lat": 12.23635617010728,
+          "lng": 9.903253770107275
+        }
+      },
+      "formatted_address": "6WQ3+4Q2, 741103, Keffin Hausa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2377721,9.904377",
+      "google_place_id": "ChIJE3tyhgCfqRERUOVmJ5t3zmk"
+    }
+  },
+  {
+    "id": "69401",
+    "name": "DUMADUMIN TOKA PRI. SCH.",
+    "registration_area_id": "3808",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "17/15/02/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3808",
+    "ward_name": "DUMADUMIN TOKA",
+    "local_government_id": "334",
+    "local_government_name": "KAFIN HAUSA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0558608,
+      "longitude": 9.8794744,
+      "viewport": {
+        "northeast": {
+          "lat": 12.1377108,
+          "lng": 9.9343024
+        },
+        "southwest": {
+          "lat": 12.0273444,
+          "lng": 9.8257409
+        }
+      },
+      "formatted_address": "Dumadumi Toka, 741103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0558608,9.8794744",
+      "google_place_id": "ChIJb3FOyPR3qRERnrPf8FKk_6Q"
+    }
+  },
+  {
+    "id": "69402",
+    "name": "VILLAGE CENTRE/DUNDAYE",
+    "registration_area_id": "3808",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "17/15/02/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3808",
+    "ward_name": "DUMADUMIN TOKA",
+    "local_government_id": "334",
+    "local_government_name": "KAFIN HAUSA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "69403",
+    "name": "VILLAGE CENTRE/GIDAN CHEDIYA",
+    "registration_area_id": "3808",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "17/15/02/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3808",
+    "ward_name": "DUMADUMIN TOKA",
+    "local_government_id": "334",
+    "local_government_name": "KAFIN HAUSA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "69404",
+    "name": "GIDAN KARGO PRI. SCH.",
+    "registration_area_id": "3808",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "17/15/02/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3808",
+    "ward_name": "DUMADUMIN TOKA",
+    "local_government_id": "334",
+    "local_government_name": "KAFIN HAUSA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.2377721,
+      "longitude": 9.904377,
+      "viewport": {
+        "northeast": {
+          "lat": 12.23905582989272,
+          "lng": 9.905953429892719
+        },
+        "southwest": {
+          "lat": 12.23635617010728,
+          "lng": 9.903253770107275
+        }
+      },
+      "formatted_address": "6WQ3+4Q2, 741103, Keffin Hausa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2377721,9.904377",
+      "google_place_id": "ChIJE3tyhgCfqRERUOVmJ5t3zmk"
+    }
+  },
+  {
+    "id": "69405",
+    "name": "HANIYAL PRI. SCH.",
+    "registration_area_id": "3808",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "17/15/02/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3808",
+    "ward_name": "DUMADUMIN TOKA",
+    "local_government_id": "334",
+    "local_government_name": "KAFIN HAUSA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.2377721,
+      "longitude": 9.904377,
+      "viewport": {
+        "northeast": {
+          "lat": 12.23905582989272,
+          "lng": 9.905953429892719
+        },
+        "southwest": {
+          "lat": 12.23635617010728,
+          "lng": 9.903253770107275
+        }
+      },
+      "formatted_address": "6WQ3+4Q2, 741103, Keffin Hausa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2377721,9.904377",
+      "google_place_id": "ChIJE3tyhgCfqRERUOVmJ5t3zmk"
+    }
+  },
+  {
+    "id": "69406",
+    "name": "LUFUDA PRI. SCH.",
+    "registration_area_id": "3808",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "17/15/02/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3808",
+    "ward_name": "DUMADUMIN TOKA",
+    "local_government_id": "334",
+    "local_government_name": "KAFIN HAUSA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.2377721,
+      "longitude": 9.904377,
+      "viewport": {
+        "northeast": {
+          "lat": 12.23905582989272,
+          "lng": 9.905953429892719
+        },
+        "southwest": {
+          "lat": 12.23635617010728,
+          "lng": 9.903253770107275
+        }
+      },
+      "formatted_address": "6WQ3+4Q2, 741103, Keffin Hausa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2377721,9.904377",
+      "google_place_id": "ChIJE3tyhgCfqRERUOVmJ5t3zmk"
+    }
+  },
+  {
+    "id": "69407",
+    "name": "VILLAGE CENTRE/MAJERIN MASARAUTA",
+    "registration_area_id": "3808",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "17/15/02/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3808",
+    "ward_name": "DUMADUMIN TOKA",
+    "local_government_id": "334",
+    "local_government_name": "KAFIN HAUSA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.241259,
+      "longitude": 9.9073986,
+      "viewport": {
+        "northeast": {
+          "lat": 12.24270507989272,
+          "lng": 9.908726729892722
+        },
+        "southwest": {
+          "lat": 12.24000542010728,
+          "lng": 9.906027070107278
+        }
+      },
+      "formatted_address": "13 GAMBAWA QUARTERS, 741103, Keffin Hausa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.241259,9.9073986",
+      "google_place_id": "ChIJnf2aePSfqRER318BOyLC1ts"
+    }
+  },
+  {
+    "id": "69408",
+    "name": "MAJERIN ZANGOMA PRI. SCH",
+    "registration_area_id": "3808",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "17/15/02/011",
+    "remark": "EXISTING PU",
+    "ward_id": "3808",
+    "ward_name": "DUMADUMIN TOKA",
+    "local_government_id": "334",
+    "local_government_name": "KAFIN HAUSA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.2377721,
+      "longitude": 9.904377,
+      "viewport": {
+        "northeast": {
+          "lat": 12.23905582989272,
+          "lng": 9.905953429892719
+        },
+        "southwest": {
+          "lat": 12.23635617010728,
+          "lng": 9.903253770107275
+        }
+      },
+      "formatted_address": "6WQ3+4Q2, 741103, Keffin Hausa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2377721,9.904377",
+      "google_place_id": "ChIJE3tyhgCfqRERUOVmJ5t3zmk"
+    }
+  },
+  {
+    "id": "69409",
+    "name": "VILLAGE CENTRE/WALUWA",
+    "registration_area_id": "3808",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "17/15/02/012",
+    "remark": "EXISTING PU",
+    "ward_id": "3808",
+    "ward_name": "DUMADUMIN TOKA",
+    "local_government_id": "334",
+    "local_government_name": "KAFIN HAUSA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "69410",
+    "name": "DUMADUMIN-TOKA PS II",
+    "registration_area_id": "3808",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "17/15/02/013",
+    "remark": "NEW PU",
+    "ward_id": "3808",
+    "ward_name": "DUMADUMIN TOKA",
+    "local_government_id": "334",
+    "local_government_name": "KAFIN HAUSA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0558608,
+      "longitude": 9.8794744,
+      "viewport": {
+        "northeast": {
+          "lat": 12.1377108,
+          "lng": 9.9343024
+        },
+        "southwest": {
+          "lat": 12.0273444,
+          "lng": 9.8257409
+        }
+      },
+      "formatted_address": "Dumadumi Toka, 741103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0558608,9.8794744",
+      "google_place_id": "ChIJb3FOyPR3qRERnrPf8FKk_6Q"
+    }
+  }
+]

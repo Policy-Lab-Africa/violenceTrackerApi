@@ -1,0 +1,317 @@
+[
+  {
+    "id": "80310",
+    "name": "KYAMARA I/ KOFAR GIDAN M/ANG.",
+    "registration_area_id": "4217",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "18/12/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4217",
+    "ward_name": "BUDA",
+    "local_government_id": "358",
+    "local_government_name": "KAJURU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "80311",
+    "name": "KYAMARA II/ LGEA PRI. KYAMARA",
+    "registration_area_id": "4217",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "18/12/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4217",
+    "ward_name": "BUDA",
+    "local_government_id": "358",
+    "local_government_name": "KAJURU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.3097586,
+      "longitude": 7.6776915,
+      "viewport": {
+        "northeast": {
+          "lat": 10.3125147,
+          "lng": 7.678396579892722
+        },
+        "southwest": {
+          "lat": 10.3088399,
+          "lng": 7.675696920107278
+        }
+      },
+      "formatted_address": "8M5H+W34, 802123, Kajuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3097586,7.6776915",
+      "google_place_id": "ChIJUxTSCTdaTRARHoTIJ3RoYVQ"
+    }
+  },
+  {
+    "id": "80312",
+    "name": "BUDA GARI/ LGEA PRI. BUDA",
+    "registration_area_id": "4217",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "18/12/03/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4217",
+    "ward_name": "BUDA",
+    "local_government_id": "358",
+    "local_government_name": "KAJURU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.3527988,
+      "longitude": 7.649820399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.35415882989272,
+          "lng": 7.651184079892722
+        },
+        "southwest": {
+          "lat": 10.35145917010728,
+          "lng": 7.648484420107278
+        }
+      },
+      "formatted_address": "7F299J3X+4WH, 811102, Kajuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3527988,7.649820399999999",
+      "google_place_id": "ChIJ2e8naxRRTRARLUsI9cZn8n0"
+    }
+  },
+  {
+    "id": "80313",
+    "name": "BUDA HAYI/ K/G M/ANGUWAN",
+    "registration_area_id": "4217",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "18/12/03/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4217",
+    "ward_name": "BUDA",
+    "local_government_id": "358",
+    "local_government_name": "KAJURU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.3097586,
+      "longitude": 7.6776915,
+      "viewport": {
+        "northeast": {
+          "lat": 10.3125147,
+          "lng": 7.678396579892722
+        },
+        "southwest": {
+          "lat": 10.3088399,
+          "lng": 7.675696920107278
+        }
+      },
+      "formatted_address": "8M5H+W34, 802123, Kajuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3097586,7.6776915",
+      "google_place_id": "ChIJUxTSCTdaTRARHoTIJ3RoYVQ"
+    }
+  },
+  {
+    "id": "80314",
+    "name": "JANWURIYA/ LGEA PRI. JANWURIYA",
+    "registration_area_id": "4217",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "18/12/03/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4217",
+    "ward_name": "BUDA",
+    "local_government_id": "358",
+    "local_government_name": "KAJURU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.3801077,
+      "longitude": 7.626309300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.38153302989272,
+          "lng": 7.627466529892721
+        },
+        "southwest": {
+          "lat": 10.37883337010728,
+          "lng": 7.624766870107276
+        }
+      },
+      "formatted_address": "7F299JJG+3H6, JANWURIYA BUDA, 811102, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3801077,7.626309300000001",
+      "google_place_id": "ChIJI2aUCCFRTRAR3FMvByAyydE"
+    }
+  },
+  {
+    "id": "80315",
+    "name": "BAKIN ROMI/ K/G K/G/M/SARKI ROMI",
+    "registration_area_id": "4217",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "18/12/03/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4217",
+    "ward_name": "BUDA",
+    "local_government_id": "358",
+    "local_government_name": "KAJURU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.3527988,
+      "longitude": 7.649820399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.35415882989272,
+          "lng": 7.651184079892722
+        },
+        "southwest": {
+          "lat": 10.35145917010728,
+          "lng": 7.648484420107278
+        }
+      },
+      "formatted_address": "7F299J3X+4WH, 811102, Kajuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3527988,7.649820399999999",
+      "google_place_id": "ChIJ2e8naxRRTRARLUsI9cZn8n0"
+    }
+  },
+  {
+    "id": "80316",
+    "name": "UNG. ASILIK0/ K/G K/G/M//ASILIKO",
+    "registration_area_id": "4217",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "18/12/03/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4217",
+    "ward_name": "BUDA",
+    "local_government_id": "358",
+    "local_government_name": "KAJURU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "80317",
+    "name": "BUDA GARI II/ L.G.E.A. BUDA",
+    "registration_area_id": "4217",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "18/12/03/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4217",
+    "ward_name": "BUDA",
+    "local_government_id": "358",
+    "local_government_name": "KAJURU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.3527988,
+      "longitude": 7.649820399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.35415882989272,
+          "lng": 7.651184079892722
+        },
+        "southwest": {
+          "lat": 10.35145917010728,
+          "lng": 7.648484420107278
+        }
+      },
+      "formatted_address": "7F299J3X+4WH, 811102, Kajuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3527988,7.649820399999999",
+      "google_place_id": "ChIJ2e8naxRRTRARLUsI9cZn8n0"
+    }
+  },
+  {
+    "id": "80318",
+    "name": "JANWURIYA II/ L.G.E.A. JANWURIYA",
+    "registration_area_id": "4217",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "18/12/03/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4217",
+    "ward_name": "BUDA",
+    "local_government_id": "358",
+    "local_government_name": "KAJURU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.3801077,
+      "longitude": 7.626309300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.38153302989272,
+          "lng": 7.627466529892721
+        },
+        "southwest": {
+          "lat": 10.37883337010728,
+          "lng": 7.624766870107276
+        }
+      },
+      "formatted_address": "7F299JJG+3H6, JANWURIYA BUDA, 811102, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3801077,7.626309300000001",
+      "google_place_id": "ChIJI2aUCCFRTRAR3FMvByAyydE"
+    }
+  },
+  {
+    "id": "80319",
+    "name": "P.H.C BUDA GARI",
+    "registration_area_id": "4217",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "18/12/03/010",
+    "remark": "NEW PU",
+    "ward_id": "4217",
+    "ward_name": "BUDA",
+    "local_government_id": "358",
+    "local_government_name": "KAJURU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "80320",
+    "name": "NOMADIC PRIMARY SCHOOL, UNGWAN BUGAI",
+    "registration_area_id": "4217",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "18/12/03/011",
+    "remark": "NEW PU",
+    "ward_id": "4217",
+    "ward_name": "BUDA",
+    "local_government_id": "358",
+    "local_government_name": "KAJURU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.353127,
+      "longitude": 7.629804799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.35447682989272,
+          "lng": 7.631154629892721
+        },
+        "southwest": {
+          "lat": 10.35177717010728,
+          "lng": 7.628454970107277
+        }
+      },
+      "formatted_address": "7F299J3H+7V5 BUGAI BUDA BUDA Kaduna, Kajuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.353127,7.629804799999999",
+      "google_place_id": "ChIJde4TAktRTRARHHeVk6mzAuA"
+    }
+  }
+]

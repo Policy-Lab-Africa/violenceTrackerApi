@@ -1,0 +1,135 @@
+[
+  {
+    "id": "70595",
+    "name": "KOYA PRI. SCH. KOYA - C/GARI  I",
+    "registration_area_id": "3886",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "17/22/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3886",
+    "ward_name": "KOYA",
+    "local_government_id": "341",
+    "local_government_name": "MIGA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.264673,
+      "longitude": 8.6174439,
+      "viewport": {
+        "northeast": {
+          "lat": 12.26610077989272,
+          "lng": 8.618904779892722
+        },
+        "southwest": {
+          "lat": 12.26340112010728,
+          "lng": 8.616205120107278
+        }
+      },
+      "formatted_address": "7F4C7J78+VX8 Koya, 702104, Gasgainu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.264673,8.6174439",
+      "google_place_id": "ChIJDRp66wCNrhERU8CgmT9QYno"
+    }
+  },
+  {
+    "id": "70596",
+    "name": "KOYA PRI. SCH. KOYA - C/GARI II",
+    "registration_area_id": "3886",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "17/22/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3886",
+    "ward_name": "KOYA",
+    "local_government_id": "341",
+    "local_government_name": "MIGA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.264673,
+      "longitude": 8.6174439,
+      "viewport": {
+        "northeast": {
+          "lat": 12.26610077989272,
+          "lng": 8.618904779892722
+        },
+        "southwest": {
+          "lat": 12.26340112010728,
+          "lng": 8.616205120107278
+        }
+      },
+      "formatted_address": "7F4C7J78+VX8 Koya, 702104, Gasgainu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.264673,8.6174439",
+      "google_place_id": "ChIJDRp66wCNrhERU8CgmT9QYno"
+    }
+  },
+  {
+    "id": "70597",
+    "name": "GALADIMAWA",
+    "registration_area_id": "3886",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "17/22/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3886",
+    "ward_name": "KOYA",
+    "local_government_id": "341",
+    "local_government_name": "MIGA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "70598",
+    "name": "NAFADAWA/NAFADAWA",
+    "registration_area_id": "3886",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "17/22/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3886",
+    "ward_name": "KOYA",
+    "local_government_id": "341",
+    "local_government_name": "MIGA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "70599",
+    "name": "KOYA HEALTH CLINIC",
+    "registration_area_id": "3886",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "17/22/04/005",
+    "remark": "NEW PU",
+    "ward_id": "3886",
+    "ward_name": "KOYA",
+    "local_government_id": "341",
+    "local_government_name": "MIGA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7129915,
+      "longitude": 9.3512996,
+      "viewport": {
+        "northeast": {
+          "lat": 11.71467127989272,
+          "lng": 9.352797779892722
+        },
+        "southwest": {
+          "lat": 11.71197162010728,
+          "lng": 9.350098120107278
+        }
+      },
+      "formatted_address": "P972+5FX, Azare-Dutse Rd, 720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7129915,9.3512996",
+      "google_place_id": "ChIJUfffYffxqxERajbz5aiNFLs"
+    }
+  }
+]

@@ -1,0 +1,499 @@
+[
+  {
+    "id": "21661",
+    "name": "BETI/GALDIMAWO,   BETI PRIMARY SCHOOL",
+    "registration_area_id": "1204",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "05/14/02/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1204",
+    "ward_name": "BETI",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.2901229,
+      "longitude": 10.4178833,
+      "viewport": {
+        "northeast": {
+          "lat": 11.2922421,
+          "lng": 10.4200816
+        },
+        "southwest": {
+          "lat": 11.2873917,
+          "lng": 10.4164123
+        }
+      },
+      "formatted_address": "750101, Beti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2901229,10.4178833",
+      "google_place_id": "ChIJcVEcDN5kqhER1XZj1b_BZnI"
+    }
+  },
+  {
+    "id": "21662",
+    "name": "WURO FULBE, KOFAR JAURO, WURO FULBE",
+    "registration_area_id": "1204",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "05/14/02/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1204",
+    "ward_name": "BETI",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21663",
+    "name": "ALHAJIYO,   KOFAR ALHAJIYO",
+    "registration_area_id": "1204",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "05/14/02/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1204",
+    "ward_name": "BETI",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3201005,
+      "longitude": 10.4690458,
+      "viewport": {
+        "northeast": {
+          "lat": 11.32144887989272,
+          "lng": 10.47039742989272
+        },
+        "southwest": {
+          "lat": 11.31874922010728,
+          "lng": 10.46769777010728
+        }
+      },
+      "formatted_address": "8FC9+2JJ, 750101, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3201005,10.4690458",
+      "google_place_id": "ChIJ8SmlU-x7qhERUNAGEW-Z6Ak"
+    }
+  },
+  {
+    "id": "21664",
+    "name": "LAMAIJI,    LAMAIJI",
+    "registration_area_id": "1204",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "05/14/02/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1204",
+    "ward_name": "BETI",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3201005,
+      "longitude": 10.4690458,
+      "viewport": {
+        "northeast": {
+          "lat": 11.32144887989272,
+          "lng": 10.47039742989272
+        },
+        "southwest": {
+          "lat": 11.31874922010728,
+          "lng": 10.46769777010728
+        }
+      },
+      "formatted_address": "8FC9+2JJ, 750101, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3201005,10.4690458",
+      "google_place_id": "ChIJ8SmlU-x7qhERUNAGEW-Z6Ak"
+    }
+  },
+  {
+    "id": "21665",
+    "name": "ABBAYAYAWO,  KOFAR  ABBAYAYAWO",
+    "registration_area_id": "1204",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "05/14/02/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1204",
+    "ward_name": "BETI",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2937576,
+      "longitude": 9.8466119,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29510652989272,
+          "lng": 9.847960179892722
+        },
+        "southwest": {
+          "lat": 10.29240687010728,
+          "lng": 9.845260520107278
+        }
+      },
+      "formatted_address": "7RVW+GJ5, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2937576,9.8466119",
+      "google_place_id": "ChIJGS28sHzXVBARTCnbD0cOqP8"
+    }
+  },
+  {
+    "id": "21666",
+    "name": "NYALBEJAM,   NYALBEJAM PRIMARY SCHOOL",
+    "registration_area_id": "1204",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "05/14/02/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1204",
+    "ward_name": "BETI",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3168704,
+      "longitude": 10.4688074,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31823307989272,
+          "lng": 10.47023212989272
+        },
+        "southwest": {
+          "lat": 11.31553342010728,
+          "lng": 10.46753247010728
+        }
+      },
+      "formatted_address": "8F89+PGV, 750101, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3168704,10.4688074",
+      "google_place_id": "ChIJ9zQgQpN6qhERpYhVPOt689I"
+    }
+  },
+  {
+    "id": "21667",
+    "name": "GARIN GALADIMA,   KOFAR JAURON GARIN GALADIMA",
+    "registration_area_id": "1204",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "05/14/02/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1204",
+    "ward_name": "BETI",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21668",
+    "name": "JARMARI, JARMARI PRIMARY SCHOOL I",
+    "registration_area_id": "1204",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "05/14/02/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1204",
+    "ward_name": "BETI",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3181683,
+      "longitude": 10.462504,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31940182989272,
+          "lng": 10.46390127989272
+        },
+        "southwest": {
+          "lat": 11.31670217010728,
+          "lng": 10.46120162010728
+        }
+      },
+      "formatted_address": "8F97+726, 750101, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3181683,10.462504",
+      "google_place_id": "ChIJfdT1e5V6qhERDg17xzOBOPE"
+    }
+  },
+  {
+    "id": "21669",
+    "name": "JARMARI, JARMARI PRIMARY SCHOOL II",
+    "registration_area_id": "1204",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "05/14/02/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1204",
+    "ward_name": "BETI",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3181683,
+      "longitude": 10.462504,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31940182989272,
+          "lng": 10.46390127989272
+        },
+        "southwest": {
+          "lat": 11.31670217010728,
+          "lng": 10.46120162010728
+        }
+      },
+      "formatted_address": "8F97+726, 750101, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3181683,10.462504",
+      "google_place_id": "ChIJfdT1e5V6qhERDg17xzOBOPE"
+    }
+  },
+  {
+    "id": "21670",
+    "name": "GUBDORI,  GUBDORI VILLAGE",
+    "registration_area_id": "1204",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "05/14/02/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1204",
+    "ward_name": "BETI",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21671",
+    "name": "KOP  TARA,   KOPTARA PRIMARY SCHOOL",
+    "registration_area_id": "1204",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "05/14/02/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1204",
+    "ward_name": "BETI",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3181683,
+      "longitude": 10.462504,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31940182989272,
+          "lng": 10.46390127989272
+        },
+        "southwest": {
+          "lat": 11.31670217010728,
+          "lng": 10.46120162010728
+        }
+      },
+      "formatted_address": "8F97+726, 750101, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3181683,10.462504",
+      "google_place_id": "ChIJfdT1e5V6qhERDg17xzOBOPE"
+    }
+  },
+  {
+    "id": "21672",
+    "name": "MADAKIRI,    MADAKIRI PRIMARY SCHOOL",
+    "registration_area_id": "1204",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "05/14/02/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1204",
+    "ward_name": "BETI",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3201005,
+      "longitude": 10.4690458,
+      "viewport": {
+        "northeast": {
+          "lat": 11.32144887989272,
+          "lng": 10.47039742989272
+        },
+        "southwest": {
+          "lat": 11.31874922010728,
+          "lng": 10.46769777010728
+        }
+      },
+      "formatted_address": "8FC9+2JJ, 750101, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3201005,10.4690458",
+      "google_place_id": "ChIJ8SmlU-x7qhERUNAGEW-Z6Ak"
+    }
+  },
+  {
+    "id": "21673",
+    "name": "AROBANA/KACHAWUN,   KOFAR JAURON AROBANA",
+    "registration_area_id": "1204",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "05/14/02/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1204",
+    "ward_name": "BETI",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21674",
+    "name": "ZANGO,    ZANGO PRIMARY SCHOOL",
+    "registration_area_id": "1204",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "05/14/02/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1204",
+    "ward_name": "BETI",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3181683,
+      "longitude": 10.462504,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31940182989272,
+          "lng": 10.46390127989272
+        },
+        "southwest": {
+          "lat": 11.31670217010728,
+          "lng": 10.46120162010728
+        }
+      },
+      "formatted_address": "8F97+726, 750101, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3181683,10.462504",
+      "google_place_id": "ChIJfdT1e5V6qhERDg17xzOBOPE"
+    }
+  },
+  {
+    "id": "21675",
+    "name": "KAFIN SULE,   KAFIN SULE PRIMARY SCHOOL",
+    "registration_area_id": "1204",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "05/14/02/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1204",
+    "ward_name": "BETI",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.4819307,
+      "longitude": 9.917168199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.48322947989272,
+          "lng": 9.918527329892722
+        },
+        "southwest": {
+          "lat": 11.48052982010728,
+          "lng": 9.915827670107278
+        }
+      },
+      "formatted_address": "Disina, District, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4819307,9.917168199999999",
+      "google_place_id": "ChIJuzxN0kNLqhERm8MjlKrDr_4"
+    }
+  },
+  {
+    "id": "21676",
+    "name": "KAWADA,  KOFAR JAURO KAWADA",
+    "registration_area_id": "1204",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "05/14/02/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1204",
+    "ward_name": "BETI",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3165019,
+      "longitude": 9.8552565,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31792862989272,
+          "lng": 9.856626829892722
+        },
+        "southwest": {
+          "lat": 10.31522897010728,
+          "lng": 9.853927170107278
+        }
+      },
+      "formatted_address": "8V84+J42 Kofar Wambai, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3165019,9.8552565",
+      "google_place_id": "ChIJu-rniAnXVBARR29FtacIxkc"
+    }
+  },
+  {
+    "id": "21677",
+    "name": "GALDIMAWO",
+    "registration_area_id": "1204",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "05/14/02/017",
+    "remark": "NEW PU",
+    "ward_id": "1204",
+    "ward_name": "BETI",
+    "local_government_id": "104",
+    "local_government_name": "MISAU",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8277948,
+      "longitude": 10.1637877,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82904532989272,
+          "lng": 10.16509072989272
+        },
+        "southwest": {
+          "lat": 11.82634567010728,
+          "lng": 10.16239107010728
+        }
+      },
+      "formatted_address": "751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277948,10.1637877",
+      "google_place_id": "ChIJE2_39c4mqhERIz-Dmwhwoco"
+    }
+  }
+]

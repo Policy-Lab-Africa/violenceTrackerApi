@@ -1,0 +1,514 @@
+[
+  {
+    "id": "12997",
+    "name": "EZI PRIMARY SCH I (EZI UMUMBO I)",
+    "registration_area_id": "770",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "04/02/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "770",
+    "ward_name": "UMUMBO",
+    "local_government_id": "71",
+    "local_government_name": "AYAMELUM",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.540085500000001,
+      "longitude": 7.0175879,
+      "viewport": {
+        "northeast": {
+          "lat": 6.542061329892723,
+          "lng": 7.019404249999999
+        },
+        "southwest": {
+          "lat": 6.539361670107279,
+          "lng": 7.012138850000002
+        }
+      },
+      "formatted_address": "G2R9+22P, 411118, Umuabu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.540085500000001,7.0175879",
+      "google_place_id": "ChIJw6c51SFjRBARyprfPRQ_5j0"
+    }
+  },
+  {
+    "id": "12998",
+    "name": "EZI PRIMARY SCH II (EZI UMUMBO II)",
+    "registration_area_id": "770",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "04/02/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "770",
+    "ward_name": "UMUMBO",
+    "local_government_id": "71",
+    "local_government_name": "AYAMELUM",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.540085500000001,
+      "longitude": 7.0175879,
+      "viewport": {
+        "northeast": {
+          "lat": 6.542061329892723,
+          "lng": 7.019404249999999
+        },
+        "southwest": {
+          "lat": 6.539361670107279,
+          "lng": 7.012138850000002
+        }
+      },
+      "formatted_address": "G2R9+22P, 411118, Umuabu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.540085500000001,7.0175879",
+      "google_place_id": "ChIJw6c51SFjRBARyprfPRQ_5j0"
+    }
+  },
+  {
+    "id": "12999",
+    "name": "IGWEBUIKE PRIMARY SCHOOL I (IFITEORA I)",
+    "registration_area_id": "770",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "04/02/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "770",
+    "ward_name": "UMUMBO",
+    "local_government_id": "71",
+    "local_government_name": "AYAMELUM",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.540085500000001,
+      "longitude": 7.0175879,
+      "viewport": {
+        "northeast": {
+          "lat": 6.542061329892723,
+          "lng": 7.019404249999999
+        },
+        "southwest": {
+          "lat": 6.539361670107279,
+          "lng": 7.012138850000002
+        }
+      },
+      "formatted_address": "G2R9+22P, 411118, Umuabu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.540085500000001,7.0175879",
+      "google_place_id": "ChIJw6c51SFjRBARyprfPRQ_5j0"
+    }
+  },
+  {
+    "id": "13000",
+    "name": "IGWEBUIKE PRIMARY SCHOOL II (IFITEORA II)",
+    "registration_area_id": "770",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "04/02/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "770",
+    "ward_name": "UMUMBO",
+    "local_government_id": "71",
+    "local_government_name": "AYAMELUM",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "13001",
+    "name": "OKPUNO MIGRANT SCH. (IFITEORA III)",
+    "registration_area_id": "770",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "04/02/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "770",
+    "ward_name": "UMUMBO",
+    "local_government_id": "71",
+    "local_government_name": "AYAMELUM",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.4655928,
+      "longitude": 6.9340548,
+      "viewport": {
+        "northeast": {
+          "lat": 6.466915529892722,
+          "lng": 6.935396879892722
+        },
+        "southwest": {
+          "lat": 6.464215870107278,
+          "lng": 6.932697220107278
+        }
+      },
+      "formatted_address": "FW8M+6JM, 433108, Anaku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4655928,6.9340548",
+      "google_place_id": "ChIJgz_Z4BJ6RBARPGVvc8j-Itk"
+    }
+  },
+  {
+    "id": "13002",
+    "name": "OBUNERI CIVIC CENTRE I (OBUNE SQUARE I)",
+    "registration_area_id": "770",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "04/02/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "770",
+    "ward_name": "UMUMBO",
+    "local_government_id": "71",
+    "local_government_name": "AYAMELUM",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.4655928,
+      "longitude": 6.9340548,
+      "viewport": {
+        "northeast": {
+          "lat": 6.466915529892722,
+          "lng": 6.935396879892722
+        },
+        "southwest": {
+          "lat": 6.464215870107278,
+          "lng": 6.932697220107278
+        }
+      },
+      "formatted_address": "FW8M+6JM, 433108, Anaku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4655928,6.9340548",
+      "google_place_id": "ChIJgz_Z4BJ6RBARPGVvc8j-Itk"
+    }
+  },
+  {
+    "id": "13003",
+    "name": "NTIOKWA MIGRANT SCH (OBUNE SQUARE II)",
+    "registration_area_id": "770",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "04/02/11/007",
+    "remark": "EXISTING PU",
+    "ward_id": "770",
+    "ward_name": "UMUMBO",
+    "local_government_id": "71",
+    "local_government_name": "AYAMELUM",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.4655928,
+      "longitude": 6.9340548,
+      "viewport": {
+        "northeast": {
+          "lat": 6.466915529892722,
+          "lng": 6.935396879892722
+        },
+        "southwest": {
+          "lat": 6.464215870107278,
+          "lng": 6.932697220107278
+        }
+      },
+      "formatted_address": "FW8M+6JM, 433108, Anaku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4655928,6.9340548",
+      "google_place_id": "ChIJgz_Z4BJ6RBARPGVvc8j-Itk"
+    }
+  },
+  {
+    "id": "13004",
+    "name": "OBUNERI CIVIC CENTRE II (OBUNE SQUARE III)",
+    "registration_area_id": "770",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "04/02/11/008",
+    "remark": "EXISTING PU",
+    "ward_id": "770",
+    "ward_name": "UMUMBO",
+    "local_government_id": "71",
+    "local_government_name": "AYAMELUM",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.4655928,
+      "longitude": 6.9340548,
+      "viewport": {
+        "northeast": {
+          "lat": 6.466915529892722,
+          "lng": 6.935396879892722
+        },
+        "southwest": {
+          "lat": 6.464215870107278,
+          "lng": 6.932697220107278
+        }
+      },
+      "formatted_address": "FW8M+6JM, 433108, Anaku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4655928,6.9340548",
+      "google_place_id": "ChIJgz_Z4BJ6RBARPGVvc8j-Itk"
+    }
+  },
+  {
+    "id": "13005",
+    "name": "NJIKOKA PRIMARY SCHOOL (IBOJI SQUARE I)",
+    "registration_area_id": "770",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "04/02/11/009",
+    "remark": "EXISTING PU",
+    "ward_id": "770",
+    "ward_name": "UMUMBO",
+    "local_government_id": "71",
+    "local_government_name": "AYAMELUM",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.540085500000001,
+      "longitude": 7.0175879,
+      "viewport": {
+        "northeast": {
+          "lat": 6.542061329892723,
+          "lng": 7.019404249999999
+        },
+        "southwest": {
+          "lat": 6.539361670107279,
+          "lng": 7.012138850000002
+        }
+      },
+      "formatted_address": "G2R9+22P, 411118, Umuabu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.540085500000001,7.0175879",
+      "google_place_id": "ChIJw6c51SFjRBARyprfPRQ_5j0"
+    }
+  },
+  {
+    "id": "13006",
+    "name": "UNION P/S (IBOJI SQUARE II)",
+    "registration_area_id": "770",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "04/02/11/010",
+    "remark": "EXISTING PU",
+    "ward_id": "770",
+    "ward_name": "UMUMBO",
+    "local_government_id": "71",
+    "local_government_name": "AYAMELUM",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.4655928,
+      "longitude": 6.9340548,
+      "viewport": {
+        "northeast": {
+          "lat": 6.466915529892722,
+          "lng": 6.935396879892722
+        },
+        "southwest": {
+          "lat": 6.464215870107278,
+          "lng": 6.932697220107278
+        }
+      },
+      "formatted_address": "FW8M+6JM, 433108, Anaku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4655928,6.9340548",
+      "google_place_id": "ChIJgz_Z4BJ6RBARPGVvc8j-Itk"
+    }
+  },
+  {
+    "id": "13007",
+    "name": "UGA CIVIC CENTRE I (UGA SQUARE I)",
+    "registration_area_id": "770",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "04/02/11/011",
+    "remark": "EXISTING PU",
+    "ward_id": "770",
+    "ward_name": "UMUMBO",
+    "local_government_id": "71",
+    "local_government_name": "AYAMELUM",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.4655928,
+      "longitude": 6.9340548,
+      "viewport": {
+        "northeast": {
+          "lat": 6.466915529892722,
+          "lng": 6.935396879892722
+        },
+        "southwest": {
+          "lat": 6.464215870107278,
+          "lng": 6.932697220107278
+        }
+      },
+      "formatted_address": "FW8M+6JM, 433108, Anaku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4655928,6.9340548",
+      "google_place_id": "ChIJgz_Z4BJ6RBARPGVvc8j-Itk"
+    }
+  },
+  {
+    "id": "13008",
+    "name": "UGA CIVIC CENTRE II (UGA SQUARE II)",
+    "registration_area_id": "770",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "04/02/11/012",
+    "remark": "EXISTING PU",
+    "ward_id": "770",
+    "ward_name": "UMUMBO",
+    "local_government_id": "71",
+    "local_government_name": "AYAMELUM",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.4655928,
+      "longitude": 6.9340548,
+      "viewport": {
+        "northeast": {
+          "lat": 6.466915529892722,
+          "lng": 6.935396879892722
+        },
+        "southwest": {
+          "lat": 6.464215870107278,
+          "lng": 6.932697220107278
+        }
+      },
+      "formatted_address": "FW8M+6JM, 433108, Anaku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4655928,6.9340548",
+      "google_place_id": "ChIJgz_Z4BJ6RBARPGVvc8j-Itk"
+    }
+  },
+  {
+    "id": "13009",
+    "name": "OKPUNO MIGRANT SCHOOL (IFITEORA IV)",
+    "registration_area_id": "770",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "04/02/11/013",
+    "remark": "NEW PU",
+    "ward_id": "770",
+    "ward_name": "UMUMBO",
+    "local_government_id": "71",
+    "local_government_name": "AYAMELUM",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.221257899999999,
+      "longitude": 7.0826679,
+      "viewport": {
+        "northeast": {
+          "lat": 6.222611779892722,
+          "lng": 7.084024479892722
+        },
+        "southwest": {
+          "lat": 6.219912120107278,
+          "lng": 7.081324820107278
+        }
+      },
+      "formatted_address": "331 Zik Avenue, 420110, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.221257899999999,7.0826679",
+      "google_place_id": "ChIJW40TzVd-QxARoFkYRBnBCF0"
+    }
+  },
+  {
+    "id": "13010",
+    "name": "AMA ISAMOYI HALL",
+    "registration_area_id": "770",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "04/02/11/014",
+    "remark": "NEW PU",
+    "ward_id": "770",
+    "ward_name": "UMUMBO",
+    "local_government_id": "71",
+    "local_government_name": "AYAMELUM",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.4655928,
+      "longitude": 6.9340548,
+      "viewport": {
+        "northeast": {
+          "lat": 6.466915529892722,
+          "lng": 6.935396879892722
+        },
+        "southwest": {
+          "lat": 6.464215870107278,
+          "lng": 6.932697220107278
+        }
+      },
+      "formatted_address": "FW8M+6JM, 433108, Anaku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4655928,6.9340548",
+      "google_place_id": "ChIJgz_Z4BJ6RBARPGVvc8j-Itk"
+    }
+  },
+  {
+    "id": "13011",
+    "name": "PIONEER PRIMARY SCHOOL",
+    "registration_area_id": "770",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "04/02/11/015",
+    "remark": "NEW PU",
+    "ward_id": "770",
+    "ward_name": "UMUMBO",
+    "local_government_id": "71",
+    "local_government_name": "AYAMELUM",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.540085500000001,
+      "longitude": 7.0175879,
+      "viewport": {
+        "northeast": {
+          "lat": 6.542061329892723,
+          "lng": 7.019404249999999
+        },
+        "southwest": {
+          "lat": 6.539361670107279,
+          "lng": 7.012138850000002
+        }
+      },
+      "formatted_address": "G2R9+22P, 411118, Umuabu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.540085500000001,7.0175879",
+      "google_place_id": "ChIJw6c51SFjRBARyprfPRQ_5j0"
+    }
+  },
+  {
+    "id": "13012",
+    "name": "UGA-ACHI UNITY HALL",
+    "registration_area_id": "770",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "04/02/11/016",
+    "remark": "NEW PU",
+    "ward_id": "770",
+    "ward_name": "UMUMBO",
+    "local_government_id": "71",
+    "local_government_name": "AYAMELUM",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.4655928,
+      "longitude": 6.9340548,
+      "viewport": {
+        "northeast": {
+          "lat": 6.466915529892722,
+          "lng": 6.935396879892722
+        },
+        "southwest": {
+          "lat": 6.464215870107278,
+          "lng": 6.932697220107278
+        }
+      },
+      "formatted_address": "FW8M+6JM, 433108, Anaku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4655928,6.9340548",
+      "google_place_id": "ChIJgz_Z4BJ6RBARPGVvc8j-Itk"
+    }
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "82704",
+    "name": "BAKIN KASUWA/ L.E.A. GIMBA",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "18/21/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.0696092,
+      "longitude": 7.955199899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.07095307989272,
+          "lng": 7.956578829892722
+        },
+        "southwest": {
+          "lat": 11.06825342010728,
+          "lng": 7.953879170107278
+        }
+      },
+      "formatted_address": "NO. GIMBA SOBA LOCAL GOVERNMENT, KADUNA STATE, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0696092,7.955199899999999",
+      "google_place_id": "ChIJCYnhR7x7rRERyVXfk0EFWFg"
+    }
+  },
+  {
+    "id": "82705",
+    "name": "UNG. KANAWA/ TSAMIYA",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "18/21/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "82706",
+    "name": "UNG. LIMAN, UNG. LIMAN",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "18/21/03/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "82707",
+    "name": "UNG. HAYIN ALLAHUWA/ HAYIN ALLAHUWA",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "18/21/03/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.9854966,
+      "longitude": 8.0581566,
+      "viewport": {
+        "northeast": {
+          "lat": 10.98676547989272,
+          "lng": 8.059520179892722
+        },
+        "southwest": {
+          "lat": 10.98406582010728,
+          "lng": 8.056820520107278
+        }
+      },
+      "formatted_address": "5 Turawa Street, opp. Bilkisu bread, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.9854966,8.0581566",
+      "google_place_id": "ChIJXfyie7ptrRERRxcSgUBd_vQ"
+    }
+  },
+  {
+    "id": "82708",
+    "name": "UNG. S/LAWUR, UNG. S/LAWUR,",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "18/21/03/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "82709",
+    "name": "UNG. B. TANKO, UNG. B. TANKO",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "18/21/03/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "82710",
+    "name": "UNG. GORA, UNG. GORA",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "18/21/03/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "82711",
+    "name": "UNG. MAHAUTA, UNG. MAHAUTA",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "18/21/03/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "82712",
+    "name": "UNG. LALLI, UNG. LALLI",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "18/21/03/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "82713",
+    "name": "UNG. MAFERA, UNG. MAFERA",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "18/21/03/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4367251,
+      "longitude": 7.4652334,
+      "viewport": {
+        "northeast": {
+          "lat": 10.43810872989272,
+          "lng": 7.466576929892722
+        },
+        "southwest": {
+          "lat": 10.43540907010728,
+          "lng": 7.463877270107278
+        }
+      },
+      "formatted_address": "Ecwa gospel church,ungwar gimbiya,sabon tasha Kachia, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4367251,7.4652334",
+      "google_place_id": "ChIJxUM7xldJTRARudld2O0NQmk"
+    }
+  },
+  {
+    "id": "82714",
+    "name": "UNG. S/MAGADA/ UNG. SARKI",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "18/21/03/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "82715",
+    "name": "UNG. LIMAN, UNG. LIMAN",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "18/21/03/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "82716",
+    "name": "UNG. HASKE, UNG. HASKE",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "18/21/03/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4367251,
+      "longitude": 7.4652334,
+      "viewport": {
+        "northeast": {
+          "lat": 10.43810872989272,
+          "lng": 7.466576929892722
+        },
+        "southwest": {
+          "lat": 10.43540907010728,
+          "lng": 7.463877270107278
+        }
+      },
+      "formatted_address": "Ecwa gospel church,ungwar gimbiya,sabon tasha Kachia, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4367251,7.4652334",
+      "google_place_id": "ChIJxUM7xldJTRARudld2O0NQmk"
+    }
+  },
+  {
+    "id": "82717",
+    "name": "UNG. G/KWANO AWAI, UNG. G/KWANO AWAI",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "18/21/03/014",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "82718",
+    "name": "L.E.A. WANKA",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "18/21/03/015",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.9854966,
+      "longitude": 8.0581566,
+      "viewport": {
+        "northeast": {
+          "lat": 10.98676547989272,
+          "lng": 8.059520179892722
+        },
+        "southwest": {
+          "lat": 10.98406582010728,
+          "lng": 8.056820520107278
+        }
+      },
+      "formatted_address": "5 Turawa Street, opp. Bilkisu bread, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.9854966,8.0581566",
+      "google_place_id": "ChIJXfyie7ptrRERRxcSgUBd_vQ"
+    }
+  },
+  {
+    "id": "82719",
+    "name": "SABON LAYI/ UNG. AWAI",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "18/21/03/016",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4367251,
+      "longitude": 7.4652334,
+      "viewport": {
+        "northeast": {
+          "lat": 10.43810872989272,
+          "lng": 7.466576929892722
+        },
+        "southwest": {
+          "lat": 10.43540907010728,
+          "lng": 7.463877270107278
+        }
+      },
+      "formatted_address": "Ecwa gospel church,ungwar gimbiya,sabon tasha Kachia, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4367251,7.4652334",
+      "google_place_id": "ChIJxUM7xldJTRARudld2O0NQmk"
+    }
+  },
+  {
+    "id": "82720",
+    "name": "UNG. ZUMAILA, UNG. ZUMAILA",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "18/21/03/017",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "82721",
+    "name": "UNG. BAGALDI/ L.E.A. BAGALDI",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "18/21/03/018",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.9854966,
+      "longitude": 8.0581566,
+      "viewport": {
+        "northeast": {
+          "lat": 10.98676547989272,
+          "lng": 8.059520179892722
+        },
+        "southwest": {
+          "lat": 10.98406582010728,
+          "lng": 8.056820520107278
+        }
+      },
+      "formatted_address": "5 Turawa Street, opp. Bilkisu bread, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.9854966,8.0581566",
+      "google_place_id": "ChIJXfyie7ptrRERRxcSgUBd_vQ"
+    }
+  },
+  {
+    "id": "82722",
+    "name": "UNG. TSAMIYA, UNG. TSAMIYA",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "18/21/03/019",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "82723",
+    "name": "UNG. SAKARU/ SAKARU",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "18/21/03/020",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5167269,
+      "longitude": 7.450519,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51808097989272,
+          "lng": 7.451867829892721
+        },
+        "southwest": {
+          "lat": 10.51538132010728,
+          "lng": 7.449168170107277
+        }
+      },
+      "formatted_address": "Tafawa Balewa Way, Kabala Coastain 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5167269,7.450519",
+      "google_place_id": "ChIJP2QwdLtKTRAR5loYDxJp5U0"
+    }
+  },
+  {
+    "id": "82724",
+    "name": "UNG. LIMAN WANKA/ UNG. LIMAN",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "18/21/03/021",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "82725",
+    "name": "UNG. SARKIN AWAI, UNG. SARKIN AWAI",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "18/21/03/022",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "82726",
+    "name": "UNG. SARKIN GIMBA, UNG. SARKIN GIMBA",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "18/21/03/023",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "82727",
+    "name": "UNG. ALEWA/ L.E.A. ALEWA",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "18/21/03/024",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.9854966,
+      "longitude": 8.0581566,
+      "viewport": {
+        "northeast": {
+          "lat": 10.98676547989272,
+          "lng": 8.059520179892722
+        },
+        "southwest": {
+          "lat": 10.98406582010728,
+          "lng": 8.056820520107278
+        }
+      },
+      "formatted_address": "5 Turawa Street, opp. Bilkisu bread, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.9854966,8.0581566",
+      "google_place_id": "ChIJXfyie7ptrRERRxcSgUBd_vQ"
+    }
+  },
+  {
+    "id": "82728",
+    "name": "UNG. KURMIN BAKANO/ K.G. MAIANGUWA",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "18/21/03/025",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "82729",
+    "name": "UNG. KANAWA II/ K.G. MAIANGUWA",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "18/21/03/026",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "82730",
+    "name": "UNG. MAHAUTA II/ K.G. MAIANGUWA",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "18/21/03/027",
+    "remark": "EXISTING PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "82731",
+    "name": "TASHAR K/GIMBA",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "18/21/03/028",
+    "remark": "NEW PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4367251,
+      "longitude": 7.4652334,
+      "viewport": {
+        "northeast": {
+          "lat": 10.43810872989272,
+          "lng": 7.466576929892722
+        },
+        "southwest": {
+          "lat": 10.43540907010728,
+          "lng": 7.463877270107278
+        }
+      },
+      "formatted_address": "Ecwa gospel church,ungwar gimbiya,sabon tasha Kachia, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4367251,7.4652334",
+      "google_place_id": "ChIJxUM7xldJTRARudld2O0NQmk"
+    }
+  },
+  {
+    "id": "82732",
+    "name": "NEAR TRANSFORMER, TSAMIYA",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "18/21/03/029",
+    "remark": "NEW PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.0696092,
+      "longitude": 7.955199899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.07095307989272,
+          "lng": 7.956578829892722
+        },
+        "southwest": {
+          "lat": 11.06825342010728,
+          "lng": 7.953879170107278
+        }
+      },
+      "formatted_address": "NO. GIMBA SOBA LOCAL GOVERNMENT, KADUNA STATE, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0696092,7.955199899999999",
+      "google_place_id": "ChIJCYnhR7x7rRERyVXfk0EFWFg"
+    }
+  },
+  {
+    "id": "82733",
+    "name": "SENIOR SECONDARY SCH. GIMBA",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "18/21/03/030",
+    "remark": "NEW PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.0686243,
+      "longitude": 7.951049299999998,
+      "viewport": {
+        "northeast": {
+          "lat": 11.06989037989272,
+          "lng": 7.952426979892723
+        },
+        "southwest": {
+          "lat": 11.06719072010728,
+          "lng": 7.94972732010728
+        }
+      },
+      "formatted_address": "7F393X92+99R, 802133, Gimba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0686243,7.951049299999998",
+      "google_place_id": "ChIJ7TFg0T17rRERckbGc9-S_HI"
+    }
+  },
+  {
+    "id": "82734",
+    "name": "LEA PRIMARY SCH. ALLAHUWA",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "18/21/03/031",
+    "remark": "NEW PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.6030392,
+      "longitude": 7.4582341,
+      "viewport": {
+        "northeast": {
+          "lat": 10.60315582989272,
+          "lng": 7.461047429892721
+        },
+        "southwest": {
+          "lat": 10.60045617010728,
+          "lng": 7.458347770107277
+        }
+      },
+      "formatted_address": "JF25+PVG, Malali 800102, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6030392,7.4582341",
+      "google_place_id": "ChIJS43pgeq1shERwOqrVr1MHW4"
+    }
+  },
+  {
+    "id": "82735",
+    "name": "SENIOR SECONDARY SCH. GIMBA",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "18/21/03/032",
+    "remark": "NEW PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.0686243,
+      "longitude": 7.951049299999998,
+      "viewport": {
+        "northeast": {
+          "lat": 11.06989037989272,
+          "lng": 7.952426979892723
+        },
+        "southwest": {
+          "lat": 11.06719072010728,
+          "lng": 7.94972732010728
+        }
+      },
+      "formatted_address": "7F393X92+99R, 802133, Gimba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0686243,7.951049299999998",
+      "google_place_id": "ChIJ7TFg0T17rRERckbGc9-S_HI"
+    }
+  },
+  {
+    "id": "82736",
+    "name": "LEA PRIMARY SCH.YAN BANGA",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "18/21/03/033",
+    "remark": "NEW PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5063017,
+      "longitude": 7.4096935,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50769477989272,
+          "lng": 7.41118497989272
+        },
+        "southwest": {
+          "lat": 10.50499512010728,
+          "lng": 7.408485320107276
+        }
+      },
+      "formatted_address": "GC45+HR9, Shika ii St, Tudun Nupawa 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5063017,7.4096935",
+      "google_place_id": "ChIJrcQhfig1TRARUgCtlnuF1GM"
+    }
+  },
+  {
+    "id": "82737",
+    "name": "GOVT.ARABIC SCHOOL AWAI",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "18/21/03/034",
+    "remark": "NEW PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.0718811,
+      "longitude": 7.903905999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.07307002989272,
+          "lng": 7.905389629892722
+        },
+        "southwest": {
+          "lat": 11.07037037010728,
+          "lng": 7.902689970107278
+        }
+      },
+      "formatted_address": "7F393WC3+PHH Gimba Kaduna, 802133, Awai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0718811,7.903905999999999",
+      "google_place_id": "ChIJW8D0qGB7rRERedATUGkqSgc"
+    }
+  },
+  {
+    "id": "82738",
+    "name": "PRIMARY HEALTH CENTER AWAI",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "18/21/03/035",
+    "remark": "NEW PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.0724123,
+      "longitude": 7.9546967,
+      "viewport": {
+        "northeast": {
+          "lat": 11.07372602989272,
+          "lng": 7.956063379892722
+        },
+        "southwest": {
+          "lat": 11.07102637010728,
+          "lng": 7.953363720107278
+        }
+      },
+      "formatted_address": "3XC3+XV8, 802133, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0724123,7.9546967",
+      "google_place_id": "ChIJsVgslqZ6rRERtK3izrLHpUY"
+    }
+  },
+  {
+    "id": "82739",
+    "name": "UBE PRI SCH. KANYA UKU",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "036",
+    "units": "036",
+    "delimitation": "18/21/03/036",
+    "remark": "NEW PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "82740",
+    "name": "VIEWING CENTRE BAGALDI",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "037",
+    "units": "037",
+    "delimitation": "18/21/03/037",
+    "remark": "NEW PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.066232,
+      "longitude": 7.9022097,
+      "viewport": {
+        "northeast": {
+          "lat": 11.06756907989272,
+          "lng": 7.903541029892722
+        },
+        "southwest": {
+          "lat": 11.06486942010728,
+          "lng": 7.900841370107278
+        }
+      },
+      "formatted_address": "Rabiu Comm No 3 Awai Road,Awwai, Soba Street, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.066232,7.9022097",
+      "google_place_id": "ChIJlxlt49p7rRERbHdZtZ41Du8"
+    }
+  },
+  {
+    "id": "82741",
+    "name": "IDEAL NURSING HOME SAKARU",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "038",
+    "units": "038",
+    "delimitation": "18/21/03/038",
+    "remark": "NEW PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5255832,
+      "longitude": 7.4421762,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52696077989272,
+          "lng": 7.443646779892721
+        },
+        "southwest": {
+          "lat": 10.52426112010728,
+          "lng": 7.440947120107277
+        }
+      },
+      "formatted_address": "Lafia Road, City Centre 802125, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5255832,7.4421762",
+      "google_place_id": "ChIJ19xl-msPWBARbFA2R-FQIAk"
+    }
+  },
+  {
+    "id": "82742",
+    "name": "MAKARANTAN MALLAM HAMZA,AWAI",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "039",
+    "units": "039",
+    "delimitation": "18/21/03/039",
+    "remark": "NEW PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "82743",
+    "name": "TANKING RUWA AWAI",
+    "registration_area_id": "4312",
+    "precise_location": null,
+    "abbreviation": "040",
+    "units": "040",
+    "delimitation": "18/21/03/040",
+    "remark": "NEW PU",
+    "ward_id": "4312",
+    "ward_name": "GIMBA",
+    "local_government_id": "367",
+    "local_government_name": "SOBA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4367251,
+      "longitude": 7.4652334,
+      "viewport": {
+        "northeast": {
+          "lat": 10.43810872989272,
+          "lng": 7.466576929892722
+        },
+        "southwest": {
+          "lat": 10.43540907010728,
+          "lng": 7.463877270107278
+        }
+      },
+      "formatted_address": "Ecwa gospel church,ungwar gimbiya,sabon tasha Kachia, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4367251,7.4652334",
+      "google_place_id": "ChIJxUM7xldJTRARudld2O0NQmk"
+    }
+  }
+]

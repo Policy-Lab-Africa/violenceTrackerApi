@@ -1,0 +1,120 @@
+[
+  {
+    "id": "348661",
+    "name": "TOWN HALL, ITAGUNMODI  I",
+    "registration_area_id": "17717",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "29/02/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17717",
+    "ward_name": "ITAGUNMODI",
+    "local_government_id": "601",
+    "local_government_name": "ATAKUMOSA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "348662",
+    "name": "TOWN HALL, ITAGUNMODI II",
+    "registration_area_id": "17717",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "29/02/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17717",
+    "ward_name": "ITAGUNMODI",
+    "local_government_id": "601",
+    "local_government_name": "ATAKUMOSA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "348663",
+    "name": "ALABA/OWENA VILLAGE (OPEN SPACE)",
+    "registration_area_id": "17717",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "29/02/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17717",
+    "ward_name": "ITAGUNMODI",
+    "local_government_id": "601",
+    "local_government_name": "ATAKUMOSA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "348664",
+    "name": "ARAROMI VILLAGE",
+    "registration_area_id": "17717",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "29/02/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17717",
+    "ward_name": "ITAGUNMODI",
+    "local_government_id": "601",
+    "local_government_name": "ATAKUMOSA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6168571,
+      "longitude": 4.3939398,
+      "viewport": {
+        "northeast": {
+          "lat": 7.618201,
+          "lng": 4.394824779892722
+        },
+        "southwest": {
+          "lat": 7.614032000000001,
+          "lng": 4.392125120107278
+        }
+      },
+      "formatted_address": "232101, Araromi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6168571,4.3939398",
+      "google_place_id": "ChIJZ2gh9MvSORAREQ03RlomKZQ"
+    }
+  },
+  {
+    "id": "348665",
+    "name": "OKE IPA VILLAGE (OPEN SPACE)",
+    "registration_area_id": "17717",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "29/02/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17717",
+    "ward_name": "ITAGUNMODI",
+    "local_government_id": "601",
+    "local_government_name": "ATAKUMOSA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "348666",
+    "name": "ARIGBABU VILLAGE (OPEN SPACE)",
+    "registration_area_id": "17717",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "29/02/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17717",
+    "ward_name": "ITAGUNMODI",
+    "local_government_id": "601",
+    "local_government_name": "ATAKUMOSA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  }
+]

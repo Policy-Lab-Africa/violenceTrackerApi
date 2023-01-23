@@ -1,0 +1,829 @@
+[
+  {
+    "id": "341237",
+    "name": "COMM. PRY. SCHOOL - AGIDO",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "27/04/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.913462999999999,
+      "longitude": 2.837063,
+      "viewport": {
+        "northeast": {
+          "lat": 6.914807979892723,
+          "lng": 2.838423829892723
+        },
+        "southwest": {
+          "lat": 6.912108320107279,
+          "lng": 2.835724170107278
+        }
+      },
+      "formatted_address": "6FR4WR7P+9RP Ebute, Papa Olosun 111108, Oja Odan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.913462999999999,2.837063",
+      "google_place_id": "ChIJD_WdgdEZOxAR5h0jD7I_uWo"
+    }
+  },
+  {
+    "id": "341238",
+    "name": "BAPT. DAY SCHOOL IGBOGILA",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "27/04/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.0554982,
+      "longitude": 2.9751738,
+      "viewport": {
+        "northeast": {
+          "lat": 7.056731529892723,
+          "lng": 2.976533579892722
+        },
+        "southwest": {
+          "lat": 7.054031870107279,
+          "lng": 2.973833920107277
+        }
+      },
+      "formatted_address": "6FV43X4G+63R Oke Oyinbo, Quarters, Igbogila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0554982,2.9751738",
+      "google_place_id": "ChIJD0WGRJMDOxARj2lXIDnWIr0"
+    }
+  },
+  {
+    "id": "341239",
+    "name": "ITA OLADOKE",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "27/04/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": null
+  },
+  {
+    "id": "341240",
+    "name": "NEAR CENTRAL MOSQUE, OJA ALE IGBOGILA",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "27/04/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.0534545,
+      "longitude": 2.9802151,
+      "viewport": {
+        "northeast": {
+          "lat": 7.054803229892721,
+          "lng": 2.981512579892722
+        },
+        "southwest": {
+          "lat": 7.052103570107278,
+          "lng": 2.978812920107277
+        }
+      },
+      "formatted_address": "3X3J+94C, 110123, Igbogila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0534545,2.9802151",
+      "google_place_id": "ChIJtUv1rFkCOxARxGPQAC3x6po"
+    }
+  },
+  {
+    "id": "341241",
+    "name": "ITA OLADEHIN",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "27/04/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.804663,
+      "longitude": 3.0129344,
+      "viewport": {
+        "northeast": {
+          "lat": 6.806124329892722,
+          "lng": 3.014367079892722
+        },
+        "southwest": {
+          "lat": 6.803424670107278,
+          "lng": 3.011667420107278
+        }
+      },
+      "formatted_address": "R237+V57, Ago-Iwoye - Ilisan road, Ago-Iwoye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.804663,3.0129344",
+      "google_place_id": "ChIJz-s8OxINOxAR7t1tfcIRzlE"
+    }
+  },
+  {
+    "id": "341242",
+    "name": "ITA DOPEMU",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "27/04/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.952825199999999,
+      "longitude": 3.0388429,
+      "viewport": {
+        "northeast": {
+          "lat": 6.9682057,
+          "lng": 3.0500787
+        },
+        "southwest": {
+          "lat": 6.9383735,
+          "lng": 3.0319969
+        }
+      },
+      "formatted_address": "Ibese, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.952825199999999,3.0388429",
+      "google_place_id": "ChIJvd4RHWcGOxAR4JIjYol2xrA"
+    }
+  },
+  {
+    "id": "341243",
+    "name": "WATER WORKS",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "27/04/11/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.0033247,
+      "longitude": 3.0475012,
+      "viewport": {
+        "northeast": {
+          "lat": 7.004706479892723,
+          "lng": 3.048887129892722
+        },
+        "southwest": {
+          "lat": 7.002006820107279,
+          "lng": 3.046187470107278
+        }
+      },
+      "formatted_address": "223X+83F, 110106, Ibese, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0033247,3.0475012",
+      "google_place_id": "ChIJ8VPDsS8BOxARaieAToS55Ig"
+    }
+  },
+  {
+    "id": "341244",
+    "name": "ITA KUMOLU",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "27/04/11/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.5889456,
+      "longitude": 3.2248942,
+      "viewport": {
+        "northeast": {
+          "lat": 6.590272629892722,
+          "lng": 3.226239479892723
+        },
+        "southwest": {
+          "lat": 6.587572970107278,
+          "lng": 3.223539820107278
+        }
+      },
+      "formatted_address": "Koloba bada, 17 Unity Rd, Ayobo 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5889456,3.2248942",
+      "google_place_id": "ChIJ4yhDsq2bOxARY4FGqRGV3aU"
+    }
+  },
+  {
+    "id": "341245",
+    "name": "ITA OMOLEGBE",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "27/04/11/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.952825199999999,
+      "longitude": 3.0388429,
+      "viewport": {
+        "northeast": {
+          "lat": 6.9682057,
+          "lng": 3.0500787
+        },
+        "southwest": {
+          "lat": 6.9383735,
+          "lng": 3.0319969
+        }
+      },
+      "formatted_address": "Ibese, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.952825199999999,3.0388429",
+      "google_place_id": "ChIJvd4RHWcGOxAR4JIjYol2xrA"
+    }
+  },
+  {
+    "id": "341246",
+    "name": "U.N.A. SCHOOL BALOGUN",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "27/04/11/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.018966499999999,
+      "longitude": 3.0252844,
+      "viewport": {
+        "northeast": {
+          "lat": 7.020225779892722,
+          "lng": 3.026768429892722
+        },
+        "southwest": {
+          "lat": 7.017526120107278,
+          "lng": 3.024068770107277
+        }
+      },
+      "formatted_address": "229G+H4M, 110123, Balagun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.018966499999999,3.0252844",
+      "google_place_id": "ChIJe1NigWcBOxAR2xnEsVdAoiA"
+    }
+  },
+  {
+    "id": "341247",
+    "name": "ST. JOHN ANG. SCHOOL WASIMI IMASAI",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "27/04/11/011",
+    "remark": "EXISTING PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.058469,
+      "longitude": 3.108643,
+      "viewport": {
+        "northeast": {
+          "lat": 7.059625229892723,
+          "lng": 3.109836179892722
+        },
+        "southwest": {
+          "lat": 7.056925570107278,
+          "lng": 3.107136520107277
+        }
+      },
+      "formatted_address": "6FV53455+9FJ JAKO-ORILE, Iboro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.058469,3.108643",
+      "google_place_id": "ChIJdZ2EZ5OrOxARf4V9v2xq3Ec"
+    }
+  },
+  {
+    "id": "341248",
+    "name": "ANG. SCHOOL ABULE OKE",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "27/04/11/012",
+    "remark": "EXISTING PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.021921000000001,
+      "longitude": 3.042006,
+      "viewport": {
+        "northeast": {
+          "lat": 7.023374529892721,
+          "lng": 3.043318629892722
+        },
+        "southwest": {
+          "lat": 7.020674870107277,
+          "lng": 3.040618970107277
+        }
+      },
+      "formatted_address": "6FV522CR+QR6, ABULE-OKE 110123, Balagun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.021921000000001,3.042006",
+      "google_place_id": "ChIJCx1sWtUBOxAR6494rq0XBFc"
+    }
+  },
+  {
+    "id": "341249",
+    "name": "U.A.M.C. SCHOOL IBESE",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "27/04/11/013",
+    "remark": "EXISTING PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.9625515,
+      "longitude": 3.0355974,
+      "viewport": {
+        "northeast": {
+          "lat": 6.963901079892722,
+          "lng": 3.036941929892722
+        },
+        "southwest": {
+          "lat": 6.961201420107278,
+          "lng": 3.034242270107278
+        }
+      },
+      "formatted_address": "6FR5X27P+26H, 110123, Ibese, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9625515,3.0355974",
+      "google_place_id": "ChIJjYwrHsAHOxARFlboPQkrXu0"
+    }
+  },
+  {
+    "id": "341250",
+    "name": "Y.N.L.G. SCHOOL ORITA",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "27/04/11/014",
+    "remark": "EXISTING PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.915409,
+      "longitude": 2.831105,
+      "viewport": {
+        "northeast": {
+          "lat": 6.916902379892722,
+          "lng": 2.832451229892722
+        },
+        "southwest": {
+          "lat": 6.914202720107278,
+          "lng": 2.829751570107277
+        }
+      },
+      "formatted_address": "6FR4WR8J+5C9 Ebute, 111108, Oja Odan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.915409,2.831105",
+      "google_place_id": "ChIJkVC7hYwZOxARtI21pBQ0McU"
+    }
+  },
+  {
+    "id": "341251",
+    "name": "Y.N.L.G. SCHOOL - KOMI OBA",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "27/04/11/015",
+    "remark": "EXISTING PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.9601649,
+      "longitude": 2.9538494,
+      "viewport": {
+        "northeast": {
+          "lat": 6.961602979892723,
+          "lng": 2.955171829892722
+        },
+        "southwest": {
+          "lat": 6.958903320107279,
+          "lng": 2.952472170107277
+        }
+      },
+      "formatted_address": "XX63+3G9, 110125, Igbogila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9601649,2.9538494",
+      "google_place_id": "ChIJuUgjINwEOxARdRbpuWHr930"
+    }
+  },
+  {
+    "id": "341252",
+    "name": "LIBRARY PREMISES IBESE",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "27/04/11/016",
+    "remark": "EXISTING PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.0033247,
+      "longitude": 3.0475012,
+      "viewport": {
+        "northeast": {
+          "lat": 7.004706479892723,
+          "lng": 3.048887129892722
+        },
+        "southwest": {
+          "lat": 7.002006820107279,
+          "lng": 3.046187470107278
+        }
+      },
+      "formatted_address": "223X+83F, 110106, Ibese, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0033247,3.0475012",
+      "google_place_id": "ChIJ8VPDsS8BOxARaieAToS55Ig"
+    }
+  },
+  {
+    "id": "341253",
+    "name": "ITA BAALE ILEWO ARAROMI",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "27/04/11/017",
+    "remark": "EXISTING PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.4633436,
+      "longitude": 3.3540056,
+      "viewport": {
+        "northeast": {
+          "lat": 7.520915,
+          "lng": 3.400228
+        },
+        "southwest": {
+          "lat": 7.416024,
+          "lng": 3.2859535
+        }
+      },
+      "formatted_address": "Iberekodo/Agbooro/Ita Baale, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4633436,3.3540056",
+      "google_place_id": "ChIJlYebTitqOhARUtOZ0mVqyhA"
+    }
+  },
+  {
+    "id": "341254",
+    "name": "OJA OSAN IGBOGILA",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "27/04/11/018",
+    "remark": "EXISTING PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.053766,
+      "longitude": 2.9738188,
+      "viewport": {
+        "northeast": {
+          "lat": 7.055099379892721,
+          "lng": 2.975163379892722
+        },
+        "southwest": {
+          "lat": 7.052399720107277,
+          "lng": 2.972463720107277
+        }
+      },
+      "formatted_address": "3X3F+GG4, 110123, Igbogila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.053766,2.9738188",
+      "google_place_id": "ChIJD2WJH_cCOxARaqcAJF45FJ0"
+    }
+  },
+  {
+    "id": "341255",
+    "name": "ITA BADA IGBOGILA",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "27/04/11/019",
+    "remark": "EXISTING PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.0538652,
+      "longitude": 2.975056,
+      "viewport": {
+        "northeast": {
+          "lat": 7.0718869,
+          "lng": 2.9889669
+        },
+        "southwest": {
+          "lat": 7.0387781,
+          "lng": 2.9508679
+        }
+      },
+      "formatted_address": "110123, Igbogila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0538652,2.975056",
+      "google_place_id": "ChIJdw2B6fsCOxARiie9NsQTnzs"
+    }
+  },
+  {
+    "id": "341256",
+    "name": "OMILENDE VILLAGE SQUARE",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "27/04/11/020",
+    "remark": "EXISTING PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": null
+  },
+  {
+    "id": "341257",
+    "name": "OPEN SPACE ISALE IJU JUNCTION, LAFENWA",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "27/04/11/021",
+    "remark": "NEW PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": null
+  },
+  {
+    "id": "341258",
+    "name": "MATERNITY CENTRE, IGBOGILA",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "27/04/11/022",
+    "remark": "NEW PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1624149,
+      "longitude": 3.3503741,
+      "viewport": {
+        "northeast": {
+          "lat": 7.16376277989272,
+          "lng": 3.351732279892722
+        },
+        "southwest": {
+          "lat": 7.161063120107277,
+          "lng": 3.349032620107278
+        }
+      },
+      "formatted_address": "5962+X49, Ijemo, Erunwon 111101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1624149,3.3503741",
+      "google_place_id": "ChIJ4x2haeNLOhAR9wSOaVS8pcQ"
+    }
+  },
+  {
+    "id": "341259",
+    "name": "F.A.M.C, OKE ODO, IGBOGILA",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "27/04/11/023",
+    "remark": "NEW PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.053828999999999,
+      "longitude": 2.968068,
+      "viewport": {
+        "northeast": {
+          "lat": 7.055370879892721,
+          "lng": 2.969365179892722
+        },
+        "southwest": {
+          "lat": 7.052671220107277,
+          "lng": 2.966665520107278
+        }
+      },
+      "formatted_address": "6FV43X39+G6P, 110123, Igbogila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.053828999999999,2.968068",
+      "google_place_id": "ChIJN6YecgMDOxAR-MPawS-Ycr0"
+    }
+  },
+  {
+    "id": "341260",
+    "name": "NEAR JEHOVAH WITNESS, ORITA ROAD, IGBOGILA",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "27/04/11/024",
+    "remark": "NEW PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.5288134,
+      "longitude": 3.1542763,
+      "viewport": {
+        "northeast": {
+          "lat": 6.530163629892722,
+          "lng": 3.155626529892723
+        },
+        "southwest": {
+          "lat": 6.527463970107278,
+          "lng": 3.152926870107278
+        }
+      },
+      "formatted_address": "G5H3+GPC, Itekun-Igbesa Road, Itekun, Igbesa, Ado-odo Ota, Ogun, State NigeriaItekun, Road, Itekun, Igbesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5288134,3.1542763",
+      "google_place_id": "ChIJyXM9d0GDOxARn9afYZd_sg8"
+    }
+  },
+  {
+    "id": "341261",
+    "name": "IBESE MATERNITY CENTER, IBESE",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "27/04/11/025",
+    "remark": "NEW PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.962151,
+      "longitude": 3.0363783,
+      "viewport": {
+        "northeast": {
+          "lat": 6.963470829892722,
+          "lng": 3.037732379892722
+        },
+        "southwest": {
+          "lat": 6.960771170107278,
+          "lng": 3.035032720107277
+        }
+      },
+      "formatted_address": "X26P+VH6, Unnamed Road, 110123, Ibese, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.962151,3.0363783",
+      "google_place_id": "ChIJwfO2-P4HOxARxXF_t-r6_ZA"
+    }
+  },
+  {
+    "id": "341262",
+    "name": "NEAR ANOMO WATER, OKE OKO IYA",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "27/04/11/026",
+    "remark": "NEW PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": null
+  },
+  {
+    "id": "341263",
+    "name": "AYEDARADE JUNCTION, OKO OPE, IGBOGILA",
+    "registration_area_id": "17320",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "27/04/11/027",
+    "remark": "NEW PU",
+    "ward_id": "17320",
+    "ward_name": "IBESE",
+    "local_government_id": "565",
+    "local_government_name": "EGBADO NORTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.0536844,
+      "longitude": 2.9747229,
+      "viewport": {
+        "northeast": {
+          "lat": 7.054949929892721,
+          "lng": 2.976066529892722
+        },
+        "southwest": {
+          "lat": 7.052250270107277,
+          "lng": 2.973366870107278
+        }
+      },
+      "formatted_address": "Oke Oyinbo Quater Ogun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0536844,2.9747229",
+      "google_place_id": "ChIJqZC2k5YDOxAR6vhShHPYnwo"
+    }
+  }
+]

@@ -1,0 +1,435 @@
+[
+  {
+    "id": "33641",
+    "name": "RANN  PRI.SCHOOL I",
+    "registration_area_id": "1826",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/15/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1826",
+    "ward_name": "RANN  'A'",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.3040364,
+      "longitude": 14.4024704,
+      "viewport": {
+        "northeast": {
+          "lat": 12.3627198,
+          "lng": 14.4879652
+        },
+        "southwest": {
+          "lat": 12.2720416,
+          "lng": 14.3527897
+        }
+      },
+      "formatted_address": "Rann \"A\", Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3040364,14.4024704",
+      "google_place_id": "ChIJ69EfhIauGxERTzipg0aFcx4"
+    }
+  },
+  {
+    "id": "33642",
+    "name": "RANN  PRI.SCHOOL II",
+    "registration_area_id": "1826",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/15/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1826",
+    "ward_name": "RANN  'A'",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.3040364,
+      "longitude": 14.4024704,
+      "viewport": {
+        "northeast": {
+          "lat": 12.3627198,
+          "lng": 14.4879652
+        },
+        "southwest": {
+          "lat": 12.2720416,
+          "lng": 14.3527897
+        }
+      },
+      "formatted_address": "Rann \"A\", Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3040364,14.4024704",
+      "google_place_id": "ChIJ69EfhIauGxERTzipg0aFcx4"
+    }
+  },
+  {
+    "id": "33643",
+    "name": "WUMBI MAIRI I",
+    "registration_area_id": "1826",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/15/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1826",
+    "ward_name": "RANN  'A'",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33644",
+    "name": "WUMBI MAIRI II",
+    "registration_area_id": "1826",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/15/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1826",
+    "ward_name": "RANN  'A'",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.799398,
+      "longitude": 13.1566061,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80086337989272,
+          "lng": 13.15803527989272
+        },
+        "southwest": {
+          "lat": 11.79816372010728,
+          "lng": 13.15533562010728
+        }
+      },
+      "formatted_address": "39 Kabba Road, MMC 600225, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.799398,13.1566061",
+      "google_place_id": "ChIJ_Zifhi6fBBERGI6REX4KK4Y"
+    }
+  },
+  {
+    "id": "33645",
+    "name": "ABARI I",
+    "registration_area_id": "1826",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/15/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1826",
+    "ward_name": "RANN  'A'",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8518136,
+      "longitude": 14.0814392,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85321827989272,
+          "lng": 14.08281337989272
+        },
+        "southwest": {
+          "lat": 11.85051862010728,
+          "lng": 14.08011372010728
+        }
+      },
+      "formatted_address": "611101, Abari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8518136,14.0814392",
+      "google_place_id": "ChIJI4QbQ99kGxERj2vO51Sw9GU"
+    }
+  },
+  {
+    "id": "33646",
+    "name": "AMSUBURU I",
+    "registration_area_id": "1826",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/15/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1826",
+    "ward_name": "RANN  'A'",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33647",
+    "name": "AMSUBURU II",
+    "registration_area_id": "1826",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/15/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1826",
+    "ward_name": "RANN  'A'",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33648",
+    "name": "DURBANI",
+    "registration_area_id": "1826",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "08/15/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1826",
+    "ward_name": "RANN  'A'",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.2693098,
+      "longitude": 14.4650098,
+      "viewport": {
+        "northeast": {
+          "lat": 12.27071097989272,
+          "lng": 14.46639432989272
+        },
+        "southwest": {
+          "lat": 12.26801132010728,
+          "lng": 14.46369467010728
+        }
+      },
+      "formatted_address": "7F97+PXG, Unnamed Road, 611103, Rann, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2693098,14.4650098",
+      "google_place_id": "ChIJc2-N2jGvGxEREKTW32uHHsY"
+    }
+  },
+  {
+    "id": "33649",
+    "name": "TILAM",
+    "registration_area_id": "1826",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "08/15/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1826",
+    "ward_name": "RANN  'A'",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.3028898,
+      "longitude": 14.4173856,
+      "viewport": {
+        "northeast": {
+          "lat": 12.304369,
+          "lng": 14.426324
+        },
+        "southwest": {
+          "lat": 12.298519,
+          "lng": 14.415491
+        }
+      },
+      "formatted_address": "611103, Tilam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3028898,14.4173856",
+      "google_place_id": "ChIJc47xlvSuGxERB0nFPBMq2ZE"
+    }
+  },
+  {
+    "id": "33650",
+    "name": "WUMBI DISPENSARY I",
+    "registration_area_id": "1826",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "08/15/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1826",
+    "ward_name": "RANN  'A'",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33651",
+    "name": "WUMBI DISPENSARY II",
+    "registration_area_id": "1826",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "08/15/07/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1826",
+    "ward_name": "RANN  'A'",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33652",
+    "name": "ISARI",
+    "registration_area_id": "1826",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "08/15/07/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1826",
+    "ward_name": "RANN  'A'",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33653",
+    "name": "RANN DISPENSARY",
+    "registration_area_id": "1826",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "08/15/07/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1826",
+    "ward_name": "RANN  'A'",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.2829,
+      "longitude": 14.4724,
+      "viewport": {
+        "northeast": {
+          "lat": 12.28424982989272,
+          "lng": 14.47374982989272
+        },
+        "southwest": {
+          "lat": 12.28155017010728,
+          "lng": 14.47105017010728
+        }
+      },
+      "formatted_address": "7FMC+5X2, 611103, Rann, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2829,14.4724",
+      "google_place_id": "ChIJaVYX-NWxGxERnpUmzyC_fsc"
+    }
+  },
+  {
+    "id": "33654",
+    "name": "WUMBI PRIMARY SCHOOL",
+    "registration_area_id": "1826",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "08/15/07/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1826",
+    "ward_name": "RANN  'A'",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33655",
+    "name": "RANN AJARI",
+    "registration_area_id": "1826",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "08/15/07/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1826",
+    "ward_name": "RANN  'A'",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.3040364,
+      "longitude": 14.4024704,
+      "viewport": {
+        "northeast": {
+          "lat": 12.3627198,
+          "lng": 14.4879652
+        },
+        "southwest": {
+          "lat": 12.2720416,
+          "lng": 14.3527897
+        }
+      },
+      "formatted_address": "Rann \"A\", Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3040364,14.4024704",
+      "google_place_id": "ChIJ69EfhIauGxERTzipg0aFcx4"
+    }
+  },
+  {
+    "id": "33656",
+    "name": "ABARI II",
+    "registration_area_id": "1826",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "08/15/07/016",
+    "remark": "NEW PU",
+    "ward_id": "1826",
+    "ward_name": "RANN  'A'",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8518136,
+      "longitude": 14.0814392,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85321827989272,
+          "lng": 14.08281337989272
+        },
+        "southwest": {
+          "lat": 11.85051862010728,
+          "lng": 14.08011372010728
+        }
+      },
+      "formatted_address": "611101, Abari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8518136,14.0814392",
+      "google_place_id": "ChIJI4QbQ99kGxERj2vO51Sw9GU"
+    }
+  },
+  {
+    "id": "33657",
+    "name": "RANN BOARDING PRIMARY SCHOOL",
+    "registration_area_id": "1826",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "08/15/07/017",
+    "remark": "NEW PU",
+    "ward_id": "1826",
+    "ward_name": "RANN  'A'",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  }
+]

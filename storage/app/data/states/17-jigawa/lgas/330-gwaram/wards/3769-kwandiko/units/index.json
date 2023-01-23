@@ -1,0 +1,516 @@
+[
+  {
+    "id": "68766",
+    "name": "KWANDIKO PRI. SCH. KWANDIKO GARI",
+    "registration_area_id": "3769",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "17/11/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3769",
+    "ward_name": "KWANDIKO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6343501,
+      "longitude": 9.3883109,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6357853,
+          "lng": 9.390042729892723
+        },
+        "southwest": {
+          "lat": 12.6328465,
+          "lng": 9.38734307010728
+        }
+      },
+      "formatted_address": "Gagarawa-Gumel-Maigatari Road, 732102, Gumel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6343501,9.3883109",
+      "google_place_id": "ChIJtXeqo_QnqRERyR2ljz2muT4"
+    }
+  },
+  {
+    "id": "68767",
+    "name": "KOFAR FADA CAKARA/CAKARA YELWA",
+    "registration_area_id": "3769",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "17/11/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3769",
+    "ward_name": "KWANDIKO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68768",
+    "name": "KOFAR MAIUNGUWA/LAFIYA",
+    "registration_area_id": "3769",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "17/11/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3769",
+    "ward_name": "KWANDIKO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68769",
+    "name": "KOFAR FADA/SIMIYAU",
+    "registration_area_id": "3769",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "17/11/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3769",
+    "ward_name": "KWANDIKO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.2777838,
+      "longitude": 9.8836895,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27912932989272,
+          "lng": 9.88504052989272
+        },
+        "southwest": {
+          "lat": 11.27642967010728,
+          "lng": 9.882340870107276
+        }
+      },
+      "formatted_address": "1 maiduguri road gwaram sabowa gwaram sabowa, Gwaram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2777838,9.8836895",
+      "google_place_id": "ChIJs79Ai4KtqxERFVnPZWFGWEM"
+    }
+  },
+  {
+    "id": "68770",
+    "name": "KOFAR FADA/GYALAMAN",
+    "registration_area_id": "3769",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "17/11/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3769",
+    "ward_name": "KWANDIKO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.2777838,
+      "longitude": 9.8836895,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27912932989272,
+          "lng": 9.88504052989272
+        },
+        "southwest": {
+          "lat": 11.27642967010728,
+          "lng": 9.882340870107276
+        }
+      },
+      "formatted_address": "1 maiduguri road gwaram sabowa gwaram sabowa, Gwaram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2777838,9.8836895",
+      "google_place_id": "ChIJs79Ai4KtqxERFVnPZWFGWEM"
+    }
+  },
+  {
+    "id": "68771",
+    "name": "KOFAR FADA/YAR YANTA  I",
+    "registration_area_id": "3769",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "17/11/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3769",
+    "ward_name": "KWANDIKO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.2777838,
+      "longitude": 9.8836895,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27912932989272,
+          "lng": 9.88504052989272
+        },
+        "southwest": {
+          "lat": 11.27642967010728,
+          "lng": 9.882340870107276
+        }
+      },
+      "formatted_address": "1 maiduguri road gwaram sabowa gwaram sabowa, Gwaram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2777838,9.8836895",
+      "google_place_id": "ChIJs79Ai4KtqxERFVnPZWFGWEM"
+    }
+  },
+  {
+    "id": "68772",
+    "name": "KOFAR FADA/JAR YANTA  II",
+    "registration_area_id": "3769",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "17/11/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3769",
+    "ward_name": "KWANDIKO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.2777838,
+      "longitude": 9.8836895,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27912932989272,
+          "lng": 9.88504052989272
+        },
+        "southwest": {
+          "lat": 11.27642967010728,
+          "lng": 9.882340870107276
+        }
+      },
+      "formatted_address": "1 maiduguri road gwaram sabowa gwaram sabowa, Gwaram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2777838,9.8836895",
+      "google_place_id": "ChIJs79Ai4KtqxERFVnPZWFGWEM"
+    }
+  },
+  {
+    "id": "68773",
+    "name": "GADAMA PRI. SCH.  GADAMA KUDU",
+    "registration_area_id": "3769",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "17/11/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3769",
+    "ward_name": "KWANDIKO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.2775042,
+      "longitude": 9.8847077,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27882747989272,
+          "lng": 9.886045879892722
+        },
+        "southwest": {
+          "lat": 11.27612782010728,
+          "lng": 9.883346220107278
+        }
+      },
+      "formatted_address": "7VHM+2V4, Fada Gwaram central, Gwaram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2775042,9.8847077",
+      "google_place_id": "ChIJxayIntmtqxERFenupKsFa6o"
+    }
+  },
+  {
+    "id": "68774",
+    "name": "KOFAR FADA/FIRIN",
+    "registration_area_id": "3769",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "17/11/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3769",
+    "ward_name": "KWANDIKO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.257141,
+      "longitude": 9.4004694,
+      "viewport": {
+        "northeast": {
+          "lat": 12.26254415,
+          "lng": 9.402685200000002
+        },
+        "southwest": {
+          "lat": 12.25533995,
+          "lng": 9.3997308
+        }
+      },
+      "formatted_address": "7C42+V55, Unnamed Road, 733103, Kwalan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.257141,9.4004694",
+      "google_place_id": "ChIJA-cd4NVHqRERpFK1cwk2yKU"
+    }
+  },
+  {
+    "id": "68775",
+    "name": "KOFAR FADA/JINGINO FADA",
+    "registration_area_id": "3769",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "17/11/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3769",
+    "ward_name": "KWANDIKO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.257141,
+      "longitude": 9.4004694,
+      "viewport": {
+        "northeast": {
+          "lat": 12.26254415,
+          "lng": 9.402685200000002
+        },
+        "southwest": {
+          "lat": 12.25533995,
+          "lng": 9.3997308
+        }
+      },
+      "formatted_address": "7C42+V55, Unnamed Road, 733103, Kwalan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.257141,9.4004694",
+      "google_place_id": "ChIJA-cd4NVHqRERpFK1cwk2yKU"
+    }
+  },
+  {
+    "id": "68776",
+    "name": "GADAMA PRI. SCH. GADAMA FADA",
+    "registration_area_id": "3769",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "17/11/07/011",
+    "remark": "EXISTING PU",
+    "ward_id": "3769",
+    "ward_name": "KWANDIKO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7203186,
+      "longitude": 9.350285,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72166212989272,
+          "lng": 9.35160972989272
+        },
+        "southwest": {
+          "lat": 11.71896247010728,
+          "lng": 9.348910070107276
+        }
+      },
+      "formatted_address": "P9C2+44F, 720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7203186,9.350285",
+      "google_place_id": "ChIJd_7nEerxqxERefOv3vVp5aQ"
+    }
+  },
+  {
+    "id": "68777",
+    "name": "KOFAR FADA/MARTABA",
+    "registration_area_id": "3769",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "17/11/07/012",
+    "remark": "EXISTING PU",
+    "ward_id": "3769",
+    "ward_name": "KWANDIKO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68778",
+    "name": "UNGUWAR RIMI/UNGUWAR RIMI",
+    "registration_area_id": "3769",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "17/11/07/013",
+    "remark": "EXISTING PU",
+    "ward_id": "3769",
+    "ward_name": "KWANDIKO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 10.5265153,
+      "longitude": 7.468549500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52786187989272,
+          "lng": 7.469940129892723
+        },
+        "southwest": {
+          "lat": 10.52516222010728,
+          "lng": 7.46724047010728
+        }
+      },
+      "formatted_address": "GFG9+JC3, Ramat Rd, Ungwan Rimi 802125, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5265153,7.468549500000001",
+      "google_place_id": "ChIJg8zxHJBLTRAR8FiEfBUPxgc"
+    }
+  },
+  {
+    "id": "68779",
+    "name": "GUSAU/GUSAU",
+    "registration_area_id": "3769",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "17/11/07/014",
+    "remark": "EXISTING PU",
+    "ward_id": "3769",
+    "ward_name": "KWANDIKO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6194785,
+      "longitude": 9.392286799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6287198,
+          "lng": 9.4096835
+        },
+        "southwest": {
+          "lat": 12.6111607,
+          "lng": 9.3794906
+        }
+      },
+      "formatted_address": "Gusau, 732102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6194785,9.392286799999999",
+      "google_place_id": "ChIJdSkdL5QnqRERxD0LdzQkXu0"
+    }
+  },
+  {
+    "id": "68780",
+    "name": "KOFAR MAIUNGUWA/DALAI",
+    "registration_area_id": "3769",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "17/11/07/015",
+    "remark": "EXISTING PU",
+    "ward_id": "3769",
+    "ward_name": "KWANDIKO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68781",
+    "name": "KOFAR MAIUNGUWA/KAHO",
+    "registration_area_id": "3769",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "17/11/07/016",
+    "remark": "EXISTING PU",
+    "ward_id": "3769",
+    "ward_name": "KWANDIKO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.2777838,
+      "longitude": 9.8836895,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27912932989272,
+          "lng": 9.88504052989272
+        },
+        "southwest": {
+          "lat": 11.27642967010728,
+          "lng": 9.882340870107276
+        }
+      },
+      "formatted_address": "1 maiduguri road gwaram sabowa gwaram sabowa, Gwaram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2777838,9.8836895",
+      "google_place_id": "ChIJs79Ai4KtqxERFVnPZWFGWEM"
+    }
+  },
+  {
+    "id": "68782",
+    "name": "KWANDIKO PRIMARY SCHOOL II",
+    "registration_area_id": "3769",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "17/11/07/017",
+    "remark": "NEW PU",
+    "ward_id": "3769",
+    "ward_name": "KWANDIKO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.2775042,
+      "longitude": 9.8847077,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27882747989272,
+          "lng": 9.886045879892722
+        },
+        "southwest": {
+          "lat": 11.27612782010728,
+          "lng": 9.883346220107278
+        }
+      },
+      "formatted_address": "7VHM+2V4, Fada Gwaram central, Gwaram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2775042,9.8847077",
+      "google_place_id": "ChIJxayIntmtqxERFenupKsFa6o"
+    }
+  },
+  {
+    "id": "68783",
+    "name": "UNGUWAR RIMI KIRYA ASIBITI",
+    "registration_area_id": "3769",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "17/11/07/018",
+    "remark": "NEW PU",
+    "ward_id": "3769",
+    "ward_name": "KWANDIKO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  }
+]

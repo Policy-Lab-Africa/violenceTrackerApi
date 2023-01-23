@@ -1,0 +1,629 @@
+[
+  {
+    "id": "48012",
+    "name": "NGAMGBO UKAWU P/GROUND",
+    "registration_area_id": "2603",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "11/13/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2603",
+    "ward_name": "OKUZU-UKAWU",
+    "local_government_id": "224",
+    "local_government_name": "ONICHA",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.0418517,
+      "longitude": 7.9266015,
+      "viewport": {
+        "northeast": {
+          "lat": 6.086011399999999,
+          "lng": 8.0085813
+        },
+        "southwest": {
+          "lat": 6.0101746,
+          "lng": 7.8780891
+        }
+      },
+      "formatted_address": "Okuzu-Ukawu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0418517,7.9266015",
+      "google_place_id": "ChIJ_1i4GJy3XBARQrunCM7g-44"
+    }
+  },
+  {
+    "id": "48013",
+    "name": "NWANKWO MARKET SQUARE",
+    "registration_area_id": "2603",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "11/13/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2603",
+    "ward_name": "OKUZU-UKAWU",
+    "local_government_id": "224",
+    "local_government_name": "ONICHA",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.0211133,
+      "longitude": 7.905726,
+      "viewport": {
+        "northeast": {
+          "lat": 6.022465879892722,
+          "lng": 7.907111379892723
+        },
+        "southwest": {
+          "lat": 6.019766220107278,
+          "lng": 7.904411720107279
+        }
+      },
+      "formatted_address": "2WC4+C7X, 491108, Okposi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0211133,7.905726",
+      "google_place_id": "ChIJXfhu4i-2XBAR4FDJ7o9bj8c"
+    }
+  },
+  {
+    "id": "48014",
+    "name": "NDIAGU VILLAGE SQUARE I",
+    "registration_area_id": "2603",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "11/13/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2603",
+    "ward_name": "OKUZU-UKAWU",
+    "local_government_id": "224",
+    "local_government_name": "ONICHA",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.351433,
+      "longitude": 7.6492336,
+      "viewport": {
+        "northeast": {
+          "lat": 6.35433265,
+          "lng": 7.65026622989272
+        },
+        "southwest": {
+          "lat": 6.350466450000002,
+          "lng": 7.647566570107276
+        }
+      },
+      "formatted_address": "Ndiagu Obodo-Uvuru, 402115, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.351433,7.6492336",
+      "google_place_id": "ChIJE9qB2gapRBARbRFBYumOAV4"
+    }
+  },
+  {
+    "id": "48015",
+    "name": "OKALERU CENTRAL SCHOOL",
+    "registration_area_id": "2603",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "11/13/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2603",
+    "ward_name": "OKUZU-UKAWU",
+    "local_government_id": "224",
+    "local_government_name": "ONICHA",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.0418517,
+      "longitude": 7.9266015,
+      "viewport": {
+        "northeast": {
+          "lat": 6.042745079892723,
+          "lng": 7.92997095
+        },
+        "southwest": {
+          "lat": 6.040045420107279,
+          "lng": 7.925478350000003
+        }
+      },
+      "formatted_address": "2WRG+PJX, 491108, Okposi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0418517,7.9266015",
+      "google_place_id": "ChIJ_____6-3XBARzsaqoQvYmxw"
+    }
+  },
+  {
+    "id": "48016",
+    "name": "OCHEGE CENTRAL SCHOOL AMAMKPUMA",
+    "registration_area_id": "2603",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "11/13/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2603",
+    "ward_name": "OKUZU-UKAWU",
+    "local_government_id": "224",
+    "local_government_name": "ONICHA",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.0607304,
+      "longitude": 7.921229599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.062079429892723,
+          "lng": 7.922483929892721
+        },
+        "southwest": {
+          "lat": 6.059379770107279,
+          "lng": 7.919784270107277
+        }
+      },
+      "formatted_address": "3W6C+7FX, 491108, Okposi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0607304,7.921229599999999",
+      "google_place_id": "ChIJ69JrggS3XBARF0HThh3ytR0"
+    }
+  },
+  {
+    "id": "48017",
+    "name": "NWORIE MARKET SQUARE",
+    "registration_area_id": "2603",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "11/13/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2603",
+    "ward_name": "OKUZU-UKAWU",
+    "local_government_id": "224",
+    "local_government_name": "ONICHA",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.0211133,
+      "longitude": 7.905726,
+      "viewport": {
+        "northeast": {
+          "lat": 6.022465879892722,
+          "lng": 7.907111379892723
+        },
+        "southwest": {
+          "lat": 6.019766220107278,
+          "lng": 7.904411720107279
+        }
+      },
+      "formatted_address": "2WC4+C7X, 491108, Okposi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0211133,7.905726",
+      "google_place_id": "ChIJXfhu4i-2XBAR4FDJ7o9bj8c"
+    }
+  },
+  {
+    "id": "48018",
+    "name": "OKUZU VILLAGE SQUARE",
+    "registration_area_id": "2603",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "11/13/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2603",
+    "ward_name": "OKUZU-UKAWU",
+    "local_government_id": "224",
+    "local_government_name": "ONICHA",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.0211133,
+      "longitude": 7.905726,
+      "viewport": {
+        "northeast": {
+          "lat": 6.022465879892722,
+          "lng": 7.907111379892723
+        },
+        "southwest": {
+          "lat": 6.019766220107278,
+          "lng": 7.904411720107279
+        }
+      },
+      "formatted_address": "2WC4+C7X, 491108, Okposi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0211133,7.905726",
+      "google_place_id": "ChIJXfhu4i-2XBAR4FDJ7o9bj8c"
+    }
+  },
+  {
+    "id": "48019",
+    "name": "ISHIEKE PLAY GROUND",
+    "registration_area_id": "2603",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "11/13/10/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2603",
+    "ward_name": "OKUZU-UKAWU",
+    "local_government_id": "224",
+    "local_government_name": "ONICHA",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.379141300000001,
+      "longitude": 8.0367102,
+      "viewport": {
+        "northeast": {
+          "lat": 6.380654429892721,
+          "lng": 8.038182879892721
+        },
+        "southwest": {
+          "lat": 6.377954770107277,
+          "lng": 8.035483220107277
+        }
+      },
+      "formatted_address": "92HP+MM4, Unnamed Road, 482118, Ishieke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.379141300000001,8.0367102",
+      "google_place_id": "ChIJq7j4NuxZWxARkzzEYeATzBI"
+    }
+  },
+  {
+    "id": "48020",
+    "name": "EBIAJI PLAY GROUND",
+    "registration_area_id": "2603",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "11/13/10/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2603",
+    "ward_name": "OKUZU-UKAWU",
+    "local_government_id": "224",
+    "local_government_name": "ONICHA",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.0726106,
+      "longitude": 7.997489,
+      "viewport": {
+        "northeast": {
+          "lat": 6.073912379892722,
+          "lng": 7.998860629892723
+        },
+        "southwest": {
+          "lat": 6.071212720107278,
+          "lng": 7.996160970107279
+        }
+      },
+      "formatted_address": "3XFW+2XX, 491109, Okposi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0726106,7.997489",
+      "google_place_id": "ChIJuc6lVJ-5XBARvO_KKJofS44"
+    }
+  },
+  {
+    "id": "48021",
+    "name": "AZU OBOSI VILLAGE SQUARE",
+    "registration_area_id": "2603",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "11/13/10/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2603",
+    "ward_name": "OKUZU-UKAWU",
+    "local_government_id": "224",
+    "local_government_name": "ONICHA",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.0211133,
+      "longitude": 7.905726,
+      "viewport": {
+        "northeast": {
+          "lat": 6.022465879892722,
+          "lng": 7.907111379892723
+        },
+        "southwest": {
+          "lat": 6.019766220107278,
+          "lng": 7.904411720107279
+        }
+      },
+      "formatted_address": "2WC4+C7X, 491108, Okposi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0211133,7.905726",
+      "google_place_id": "ChIJXfhu4i-2XBAR4FDJ7o9bj8c"
+    }
+  },
+  {
+    "id": "48022",
+    "name": "OKUZU UKAWU C/S AMANKPUMA",
+    "registration_area_id": "2603",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "11/13/10/011",
+    "remark": "EXISTING PU",
+    "ward_id": "2603",
+    "ward_name": "OKUZU-UKAWU",
+    "local_government_id": "224",
+    "local_government_name": "ONICHA",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.0418517,
+      "longitude": 7.9266015,
+      "viewport": {
+        "northeast": {
+          "lat": 6.086011399999999,
+          "lng": 8.0085813
+        },
+        "southwest": {
+          "lat": 6.0101746,
+          "lng": 7.8780891
+        }
+      },
+      "formatted_address": "Okuzu-Ukawu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0418517,7.9266015",
+      "google_place_id": "ChIJ_1i4GJy3XBARQrunCM7g-44"
+    }
+  },
+  {
+    "id": "48023",
+    "name": "NWANKWO MARKET SQUARE II",
+    "registration_area_id": "2603",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "11/13/10/012",
+    "remark": "NEW PU",
+    "ward_id": "2603",
+    "ward_name": "OKUZU-UKAWU",
+    "local_government_id": "224",
+    "local_government_name": "ONICHA",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.0211133,
+      "longitude": 7.905726,
+      "viewport": {
+        "northeast": {
+          "lat": 6.022465879892722,
+          "lng": 7.907111379892723
+        },
+        "southwest": {
+          "lat": 6.019766220107278,
+          "lng": 7.904411720107279
+        }
+      },
+      "formatted_address": "2WC4+C7X, 491108, Okposi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0211133,7.905726",
+      "google_place_id": "ChIJXfhu4i-2XBAR4FDJ7o9bj8c"
+    }
+  },
+  {
+    "id": "48024",
+    "name": "OKUZU EGUENYI TOWN HALL",
+    "registration_area_id": "2603",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "11/13/10/013",
+    "remark": "NEW PU",
+    "ward_id": "2603",
+    "ward_name": "OKUZU-UKAWU",
+    "local_government_id": "224",
+    "local_government_name": "ONICHA",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.0418517,
+      "longitude": 7.9266015,
+      "viewport": {
+        "northeast": {
+          "lat": 6.086011399999999,
+          "lng": 8.0085813
+        },
+        "southwest": {
+          "lat": 6.0101746,
+          "lng": 7.8780891
+        }
+      },
+      "formatted_address": "Okuzu-Ukawu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0418517,7.9266015",
+      "google_place_id": "ChIJ_1i4GJy3XBARQrunCM7g-44"
+    }
+  },
+  {
+    "id": "48025",
+    "name": "NWAFOR NDIAGU OKUZU MARKET SQR.",
+    "registration_area_id": "2603",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "11/13/10/014",
+    "remark": "NEW PU",
+    "ward_id": "2603",
+    "ward_name": "OKUZU-UKAWU",
+    "local_government_id": "224",
+    "local_government_name": "ONICHA",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.0211133,
+      "longitude": 7.905726,
+      "viewport": {
+        "northeast": {
+          "lat": 6.022465879892722,
+          "lng": 7.907111379892723
+        },
+        "southwest": {
+          "lat": 6.019766220107278,
+          "lng": 7.904411720107279
+        }
+      },
+      "formatted_address": "2WC4+C7X, 491108, Okposi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0211133,7.905726",
+      "google_place_id": "ChIJXfhu4i-2XBAR4FDJ7o9bj8c"
+    }
+  },
+  {
+    "id": "48026",
+    "name": "NGAMGBO OBUCHIE PLAY GROUND",
+    "registration_area_id": "2603",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "11/13/10/015",
+    "remark": "NEW PU",
+    "ward_id": "2603",
+    "ward_name": "OKUZU-UKAWU",
+    "local_government_id": "224",
+    "local_government_name": "ONICHA",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.1102,
+      "longitude": 7.833934999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.111553879892723,
+          "lng": 7.835268329892721
+        },
+        "southwest": {
+          "lat": 6.108854220107279,
+          "lng": 7.832568670107277
+        }
+      },
+      "formatted_address": "4R6M+3HM, 491108, Onicha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1102,7.833934999999999",
+      "google_place_id": "ChIJba3cCpyzXBARwVprhBWg60c"
+    }
+  },
+  {
+    "id": "48027",
+    "name": "ALIBE PLAY GROUND",
+    "registration_area_id": "2603",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "11/13/10/016",
+    "remark": "NEW PU",
+    "ward_id": "2603",
+    "ward_name": "OKUZU-UKAWU",
+    "local_government_id": "224",
+    "local_government_name": "ONICHA",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.1102,
+      "longitude": 7.833934999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.111553879892723,
+          "lng": 7.835268329892721
+        },
+        "southwest": {
+          "lat": 6.108854220107279,
+          "lng": 7.832568670107277
+        }
+      },
+      "formatted_address": "4R6M+3HM, 491108, Onicha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1102,7.833934999999999",
+      "google_place_id": "ChIJba3cCpyzXBARwVprhBWg60c"
+    }
+  },
+  {
+    "id": "48028",
+    "name": "AZU EBONYI EZUBE PRIMARY SCHOOL",
+    "registration_area_id": "2603",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "11/13/10/017",
+    "remark": "NEW PU",
+    "ward_id": "2603",
+    "ward_name": "OKUZU-UKAWU",
+    "local_government_id": "224",
+    "local_government_name": "ONICHA",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.0418517,
+      "longitude": 7.9266015,
+      "viewport": {
+        "northeast": {
+          "lat": 6.042745079892723,
+          "lng": 7.92997095
+        },
+        "southwest": {
+          "lat": 6.040045420107279,
+          "lng": 7.925478350000003
+        }
+      },
+      "formatted_address": "2WRG+PJX, 491108, Okposi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0418517,7.9266015",
+      "google_place_id": "ChIJ_____6-3XBARzsaqoQvYmxw"
+    }
+  },
+  {
+    "id": "48029",
+    "name": "NWAFOR EZUBE MARKET SQUARE",
+    "registration_area_id": "2603",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "11/13/10/018",
+    "remark": "NEW PU",
+    "ward_id": "2603",
+    "ward_name": "OKUZU-UKAWU",
+    "local_government_id": "224",
+    "local_government_name": "ONICHA",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.0211133,
+      "longitude": 7.905726,
+      "viewport": {
+        "northeast": {
+          "lat": 6.022465879892722,
+          "lng": 7.907111379892723
+        },
+        "southwest": {
+          "lat": 6.019766220107278,
+          "lng": 7.904411720107279
+        }
+      },
+      "formatted_address": "2WC4+C7X, 491108, Okposi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0211133,7.905726",
+      "google_place_id": "ChIJXfhu4i-2XBAR4FDJ7o9bj8c"
+    }
+  },
+  {
+    "id": "48030",
+    "name": "NGAMGBO IMEGU TOWN HALL",
+    "registration_area_id": "2603",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "11/13/10/019",
+    "remark": "NEW PU",
+    "ward_id": "2603",
+    "ward_name": "OKUZU-UKAWU",
+    "local_government_id": "224",
+    "local_government_name": "ONICHA",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.0418517,
+      "longitude": 7.9266015,
+      "viewport": {
+        "northeast": {
+          "lat": 6.086011399999999,
+          "lng": 8.0085813
+        },
+        "southwest": {
+          "lat": 6.0101746,
+          "lng": 7.8780891
+        }
+      },
+      "formatted_address": "Okuzu-Ukawu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0418517,7.9266015",
+      "google_place_id": "ChIJ_1i4GJy3XBARQrunCM7g-44"
+    }
+  }
+]

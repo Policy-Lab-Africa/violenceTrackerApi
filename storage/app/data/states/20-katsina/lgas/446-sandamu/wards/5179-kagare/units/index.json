@@ -1,0 +1,285 @@
+[
+  {
+    "id": "101580",
+    "name": "KAWARI/MAHADAR HANYA",
+    "registration_area_id": "5179",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/33/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5179",
+    "ward_name": "KAGARE",
+    "local_government_id": "446",
+    "local_government_name": "SANDAMU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "101581",
+    "name": "DINAU I/K/SARKIN FADA",
+    "registration_area_id": "5179",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/33/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5179",
+    "ward_name": "KAGARE",
+    "local_government_id": "446",
+    "local_government_name": "SANDAMU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0315418,
+      "longitude": 8.3225993,
+      "viewport": {
+        "northeast": {
+          "lat": 13.03285312989272,
+          "lng": 8.32395637989272
+        },
+        "southwest": {
+          "lat": 13.03015347010728,
+          "lng": 8.321256720107277
+        }
+      },
+      "formatted_address": "NO 285, MOHD BASHAR ROAD, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0315418,8.3225993",
+      "google_place_id": "ChIJv_6afZGjrxER6J3pv8H3abw"
+    }
+  },
+  {
+    "id": "101582",
+    "name": "DINAU II/K/SARKIN FADA",
+    "registration_area_id": "5179",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/33/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5179",
+    "ward_name": "KAGARE",
+    "local_government_id": "446",
+    "local_government_name": "SANDAMU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0315418,
+      "longitude": 8.3225993,
+      "viewport": {
+        "northeast": {
+          "lat": 13.03285312989272,
+          "lng": 8.32395637989272
+        },
+        "southwest": {
+          "lat": 13.03015347010728,
+          "lng": 8.321256720107277
+        }
+      },
+      "formatted_address": "NO 285, MOHD BASHAR ROAD, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0315418,8.3225993",
+      "google_place_id": "ChIJv_6afZGjrxER6J3pv8H3abw"
+    }
+  },
+  {
+    "id": "101583",
+    "name": "KAGARE FULANI K/G/ S.FULANI",
+    "registration_area_id": "5179",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/33/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5179",
+    "ward_name": "KAGARE",
+    "local_government_id": "446",
+    "local_government_name": "SANDAMU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "101584",
+    "name": "KAGARE FULANI II/K/G. M./UNG",
+    "registration_area_id": "5179",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/33/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5179",
+    "ward_name": "KAGARE",
+    "local_government_id": "446",
+    "local_government_name": "SANDAMU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "101585",
+    "name": "KAGARE FULANI III/K/G/ SA'IDU",
+    "registration_area_id": "5179",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/33/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5179",
+    "ward_name": "KAGARE",
+    "local_government_id": "446",
+    "local_government_name": "SANDAMU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "101586",
+    "name": "KAGARE HABE I/PRI.SCHOOL",
+    "registration_area_id": "5179",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/33/11/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5179",
+    "ward_name": "KAGARE",
+    "local_government_id": "446",
+    "local_government_name": "SANDAMU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9619467,
+      "longitude": 8.405529999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96328952989272,
+          "lng": 8.40685647989272
+        },
+        "southwest": {
+          "lat": 12.96058987010728,
+          "lng": 8.404156820107277
+        }
+      },
+      "formatted_address": "Kagare Habe I Primary School, 824101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9619467,8.405529999999999",
+      "google_place_id": "ChIJ_WSjbVuhrxER94Zm_L_Q5Iw"
+    }
+  },
+  {
+    "id": "101587",
+    "name": "KAGARE HABE II/ KOFAR SARKIN GABAS",
+    "registration_area_id": "5179",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/33/11/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5179",
+    "ward_name": "KAGARE",
+    "local_government_id": "446",
+    "local_government_name": "SANDAMU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0043279,
+      "longitude": 7.575140099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 13.00571002989272,
+          "lng": 7.576345179892721
+        },
+        "southwest": {
+          "lat": 13.00301037010728,
+          "lng": 7.573645520107277
+        }
+      },
+      "formatted_address": "2H3G+P3J, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0043279,7.575140099999999",
+      "google_place_id": "ChIJ7W6EdeI9sBER-RI1xadMan4"
+    }
+  },
+  {
+    "id": "101588",
+    "name": "KAWARI/MAHADAR HANYA PRI. SCH.",
+    "registration_area_id": "5179",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/33/11/009",
+    "remark": "NEW PU",
+    "ward_id": "5179",
+    "ward_name": "KAGARE",
+    "local_government_id": "446",
+    "local_government_name": "SANDAMU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0248508,
+      "longitude": 7.6914509,
+      "viewport": {
+        "northeast": {
+          "lat": 13.02610777989272,
+          "lng": 7.692875979892721
+        },
+        "southwest": {
+          "lat": 13.02340812010728,
+          "lng": 7.690176320107277
+        }
+      },
+      "formatted_address": "2MFR+WHJ, 820103, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0248508,7.6914509",
+      "google_place_id": "ChIJU6o_Zy8isBERkZ5B3TxrbzM"
+    }
+  },
+  {
+    "id": "101589",
+    "name": "KAGARE FULANI/ PRI. SCH.",
+    "registration_area_id": "5179",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/33/11/010",
+    "remark": "NEW PU",
+    "ward_id": "5179",
+    "ward_name": "KAGARE",
+    "local_government_id": "446",
+    "local_government_name": "SANDAMU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "101590",
+    "name": "KAGARE HABE I/ OPEN SPACE",
+    "registration_area_id": "5179",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/33/11/011",
+    "remark": "NEW PU",
+    "ward_id": "5179",
+    "ward_name": "KAGARE",
+    "local_government_id": "446",
+    "local_government_name": "SANDAMU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9619467,
+      "longitude": 8.405529999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96328952989272,
+          "lng": 8.40685647989272
+        },
+        "southwest": {
+          "lat": 12.96058987010728,
+          "lng": 8.404156820107277
+        }
+      },
+      "formatted_address": "Kagare Habe I Primary School, 824101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9619467,8.405529999999999",
+      "google_place_id": "ChIJ_WSjbVuhrxER94Zm_L_Q5Iw"
+    }
+  }
+]

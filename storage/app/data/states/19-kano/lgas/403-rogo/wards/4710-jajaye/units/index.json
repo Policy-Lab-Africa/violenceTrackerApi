@@ -1,0 +1,448 @@
+[
+  {
+    "id": "92563",
+    "name": "AREWAWA",
+    "registration_area_id": "4710",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/34/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4710",
+    "ward_name": "JAJAYE",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5802985,
+      "longitude": 7.9564834,
+      "viewport": {
+        "northeast": {
+          "lat": 11.58153657989272,
+          "lng": 7.957464279892721
+        },
+        "southwest": {
+          "lat": 11.57883692010728,
+          "lng": 7.954764620107277
+        }
+      },
+      "formatted_address": "7F39HXJ4+4H9 Falatan Kano, Arewawa, 704105, Gidan Jajaye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5802985,7.9564834",
+      "google_place_id": "ChIJnwOMhrmNrRERj45wARWkSjQ"
+    }
+  },
+  {
+    "id": "92564",
+    "name": "BAKARI",
+    "registration_area_id": "4710",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/34/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4710",
+    "ward_name": "JAJAYE",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4996963,
+      "longitude": 8.0091934,
+      "viewport": {
+        "northeast": {
+          "lat": 11.50099637989272,
+          "lng": 8.01059082989272
+        },
+        "southwest": {
+          "lat": 11.49829672010728,
+          "lng": 8.007891170107277
+        }
+      },
+      "formatted_address": "704105, Bakari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4996963,8.0091934",
+      "google_place_id": "ChIJFerv9nuRrRERJ9Mipp2RiC0"
+    }
+  },
+  {
+    "id": "92565",
+    "name": "BARBAJI",
+    "registration_area_id": "4710",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/34/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4710",
+    "ward_name": "JAJAYE",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5254032,
+      "longitude": 7.9776781,
+      "viewport": {
+        "northeast": {
+          "lat": 11.5288831,
+          "lng": 7.979657899999999
+        },
+        "southwest": {
+          "lat": 11.521166,
+          "lng": 7.9747521
+        }
+      },
+      "formatted_address": "704105, Barbaji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5254032,7.9776781",
+      "google_place_id": "ChIJVb56QRSSrRERvzZxiBwzuJg"
+    }
+  },
+  {
+    "id": "92566",
+    "name": "JAJAYE CIKIN GARI I",
+    "registration_area_id": "4710",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/34/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4710",
+    "ward_name": "JAJAYE",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "92567",
+    "name": "JAJAYE CIKIN GARI II",
+    "registration_area_id": "4710",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/34/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4710",
+    "ward_name": "JAJAYE",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5403181,
+      "longitude": 7.8261112,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54172492989272,
+          "lng": 7.827333079892721
+        },
+        "southwest": {
+          "lat": 11.53902527010728,
+          "lng": 7.824633420107277
+        }
+      },
+      "formatted_address": "GRRG+4CH, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5403181,7.8261112",
+      "google_place_id": "ChIJ_VukZK2LrRERGKBz1FM0W48"
+    }
+  },
+  {
+    "id": "92568",
+    "name": "MADATAI",
+    "registration_area_id": "4710",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/34/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4710",
+    "ward_name": "JAJAYE",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5852873,
+      "longitude": 7.985683399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.58798,
+          "lng": 7.998071999999999
+        },
+        "southwest": {
+          "lat": 11.5666629,
+          "lng": 7.981122000000001
+        }
+      },
+      "formatted_address": "711105, Madatai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5852873,7.985683399999999",
+      "google_place_id": "ChIJqd60CMOSrRERB2xYTSALwts"
+    }
+  },
+  {
+    "id": "92569",
+    "name": "SAGWANDARE",
+    "registration_area_id": "4710",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/34/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4710",
+    "ward_name": "JAJAYE",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5403181,
+      "longitude": 7.8261112,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54172492989272,
+          "lng": 7.827333079892721
+        },
+        "southwest": {
+          "lat": 11.53902527010728,
+          "lng": 7.824633420107277
+        }
+      },
+      "formatted_address": "GRRG+4CH, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5403181,7.8261112",
+      "google_place_id": "ChIJ_VukZK2LrRERGKBz1FM0W48"
+    }
+  },
+  {
+    "id": "92570",
+    "name": "TASAWA",
+    "registration_area_id": "4710",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/34/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4710",
+    "ward_name": "JAJAYE",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5403181,
+      "longitude": 7.8261112,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54172492989272,
+          "lng": 7.827333079892721
+        },
+        "southwest": {
+          "lat": 11.53902527010728,
+          "lng": 7.824633420107277
+        }
+      },
+      "formatted_address": "GRRG+4CH, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5403181,7.8261112",
+      "google_place_id": "ChIJ_VukZK2LrRERGKBz1FM0W48"
+    }
+  },
+  {
+    "id": "92571",
+    "name": "ISLM. BAKARI",
+    "registration_area_id": "4710",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/34/05/009",
+    "remark": "NEW PU",
+    "ward_id": "4710",
+    "ward_name": "JAJAYE",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5403181,
+      "longitude": 7.8261112,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54172492989272,
+          "lng": 7.827333079892721
+        },
+        "southwest": {
+          "lat": 11.53902527010728,
+          "lng": 7.824633420107277
+        }
+      },
+      "formatted_address": "GRRG+4CH, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5403181,7.8261112",
+      "google_place_id": "ChIJ_VukZK2LrRERGKBz1FM0W48"
+    }
+  },
+  {
+    "id": "92572",
+    "name": "G.J.S.S BARBAJI",
+    "registration_area_id": "4710",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "19/34/05/010",
+    "remark": "NEW PU",
+    "ward_id": "4710",
+    "ward_name": "JAJAYE",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5404116,
+      "longitude": 7.9701846,
+      "viewport": {
+        "northeast": {
+          "lat": 11.6424035,
+          "lng": 8.0358301
+        },
+        "southwest": {
+          "lat": 11.464332,
+          "lng": 7.9181797
+        }
+      },
+      "formatted_address": "Jajaye, 704105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5404116,7.9701846",
+      "google_place_id": "ChIJ069hR4qSrRERz0zZgqvrtCE"
+    }
+  },
+  {
+    "id": "92573",
+    "name": "K/FADA",
+    "registration_area_id": "4710",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "19/34/05/011",
+    "remark": "NEW PU",
+    "ward_id": "4710",
+    "ward_name": "JAJAYE",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5403181,
+      "longitude": 7.8261112,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54172492989272,
+          "lng": 7.827333079892721
+        },
+        "southwest": {
+          "lat": 11.53902527010728,
+          "lng": 7.824633420107277
+        }
+      },
+      "formatted_address": "GRRG+4CH, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5403181,7.8261112",
+      "google_place_id": "ChIJ_VukZK2LrRERGKBz1FM0W48"
+    }
+  },
+  {
+    "id": "92574",
+    "name": "K/KUDU",
+    "registration_area_id": "4710",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "19/34/05/012",
+    "remark": "NEW PU",
+    "ward_id": "4710",
+    "ward_name": "JAJAYE",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5403181,
+      "longitude": 7.8261112,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54172492989272,
+          "lng": 7.827333079892721
+        },
+        "southwest": {
+          "lat": 11.53902527010728,
+          "lng": 7.824633420107277
+        }
+      },
+      "formatted_address": "GRRG+4CH, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5403181,7.8261112",
+      "google_place_id": "ChIJ_VukZK2LrRERGKBz1FM0W48"
+    }
+  },
+  {
+    "id": "92575",
+    "name": "ISLAMIYYA",
+    "registration_area_id": "4710",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "19/34/05/013",
+    "remark": "NEW PU",
+    "ward_id": "4710",
+    "ward_name": "JAJAYE",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.56072,
+      "longitude": 7.938064100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56209127989272,
+          "lng": 7.939407229892722
+        },
+        "southwest": {
+          "lat": 11.55939162010728,
+          "lng": 7.936707570107278
+        }
+      },
+      "formatted_address": "7F39HW6Q+76W, 704105, Gidan Jajaye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.56072,7.938064100000001",
+      "google_place_id": "ChIJLfOCm76NrREROIfU1_t2MQ8"
+    }
+  },
+  {
+    "id": "92576",
+    "name": "PRI. SCH.",
+    "registration_area_id": "4710",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "19/34/05/014",
+    "remark": "NEW PU",
+    "ward_id": "4710",
+    "ward_name": "JAJAYE",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.56072,
+      "longitude": 7.938064100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56209127989272,
+          "lng": 7.939407229892722
+        },
+        "southwest": {
+          "lat": 11.55939162010728,
+          "lng": 7.936707570107278
+        }
+      },
+      "formatted_address": "7F39HW6Q+76W, 704105, Gidan Jajaye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.56072,7.938064100000001",
+      "google_place_id": "ChIJLfOCm76NrREROIfU1_t2MQ8"
+    }
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "id": "334858",
+    "name": "SUTEKU PRIMARY SCHOOL",
+    "registration_area_id": "17009",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/02/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17009",
+    "ward_name": "SUTEKU",
+    "local_government_id": "538",
+    "local_government_name": "AGWARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "334859",
+    "name": "MAHUTA PRI. SCH",
+    "registration_area_id": "17009",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/02/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17009",
+    "ward_name": "SUTEKU",
+    "local_government_id": "538",
+    "local_government_name": "AGWARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.6174655,
+      "longitude": 4.647801299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.61878967989272,
+          "lng": 4.649076729892721
+        },
+        "southwest": {
+          "lat": 10.61609002010728,
+          "lng": 4.646377070107278
+        }
+      },
+      "formatted_address": "7F26JJ8X+X46 MAHUTA, Bayan Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6174655,4.647801299999999",
+      "google_place_id": "ChIJJ7xWHRnLyhER6jEUtyBsNcA"
+    }
+  },
+  {
+    "id": "334860",
+    "name": "BAYAN DUTSE",
+    "registration_area_id": "17009",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/02/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17009",
+    "ward_name": "SUTEKU",
+    "local_government_id": "538",
+    "local_government_name": "AGWARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.6193105,
+      "longitude": 4.6461803,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6226543,
+          "lng": 4.6541215
+        },
+        "southwest": {
+          "lat": 10.6163694,
+          "lng": 4.6436206
+        }
+      },
+      "formatted_address": "Bayan Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6193105,4.6461803",
+      "google_place_id": "ChIJMQNo4GLMyhER6D62VrQxKDM"
+    }
+  },
+  {
+    "id": "334861",
+    "name": "TUNGAN KADAI",
+    "registration_area_id": "17009",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/02/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17009",
+    "ward_name": "SUTEKU",
+    "local_government_id": "538",
+    "local_government_name": "AGWARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "334862",
+    "name": "MAHUTA HEALTH CLINIC",
+    "registration_area_id": "17009",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/02/10/005",
+    "remark": "NEW PU",
+    "ward_id": "17009",
+    "ward_name": "SUTEKU",
+    "local_government_id": "538",
+    "local_government_name": "AGWARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.6679,
+      "longitude": 4.6205,
+      "viewport": {
+        "northeast": {
+          "lat": 10.66924982989272,
+          "lng": 4.621849829892722
+        },
+        "southwest": {
+          "lat": 10.66655017010728,
+          "lng": 4.619150170107278
+        }
+      },
+      "formatted_address": "MJ9C+559, 923107, Balamasa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6679,4.6205",
+      "google_place_id": "ChIJwVp_mCPMyhERNYyKeXy0Xs8"
+    }
+  }
+]

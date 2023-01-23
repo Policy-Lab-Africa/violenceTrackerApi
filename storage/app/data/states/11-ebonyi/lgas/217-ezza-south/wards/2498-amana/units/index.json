@@ -1,0 +1,415 @@
+[
+  {
+    "id": "46245",
+    "name": "NGAMGBO ODANARA VILLAGE SQUARE",
+    "registration_area_id": "2498",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "11/06/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2498",
+    "ward_name": "AMANA",
+    "local_government_id": "217",
+    "local_government_name": "EZZA SOUTH",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": null
+  },
+  {
+    "id": "46246",
+    "name": "NWAGODO MARKET SQUARE",
+    "registration_area_id": "2498",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "11/06/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2498",
+    "ward_name": "AMANA",
+    "local_government_id": "217",
+    "local_government_name": "EZZA SOUTH",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.170489,
+      "longitude": 8.0292996,
+      "viewport": {
+        "northeast": {
+          "lat": 6.171737479892721,
+          "lng": 8.030833379892721
+        },
+        "southwest": {
+          "lat": 6.169037820107278,
+          "lng": 8.028133720107277
+        }
+      },
+      "formatted_address": "52CH+4MP, 491109, Amuzu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.170489,8.0292996",
+      "google_place_id": "ChIJHfdBJkm7XBARMwsn7-wOZjM"
+    }
+  },
+  {
+    "id": "46247",
+    "name": "CENTRAL SCHOOL NDIAGU AMANA I",
+    "registration_area_id": "2498",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "11/06/03/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2498",
+    "ward_name": "AMANA",
+    "local_government_id": "217",
+    "local_government_name": "EZZA SOUTH",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.1587665,
+      "longitude": 8.0228801,
+      "viewport": {
+        "northeast": {
+          "lat": 6.160267229892722,
+          "lng": 8.024081829892722
+        },
+        "southwest": {
+          "lat": 6.157567570107278,
+          "lng": 8.021382170107278
+        }
+      },
+      "formatted_address": "525F+G52, 491109, Amuzu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1587665,8.0228801",
+      "google_place_id": "ChIJ-S6Qqra7XBAR43WYdcal14s"
+    }
+  },
+  {
+    "id": "46248",
+    "name": "CENTRAL SCHOOL NDIAGU AMANA  II",
+    "registration_area_id": "2498",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "11/06/03/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2498",
+    "ward_name": "AMANA",
+    "local_government_id": "217",
+    "local_government_name": "EZZA SOUTH",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.1587665,
+      "longitude": 8.0228801,
+      "viewport": {
+        "northeast": {
+          "lat": 6.160267229892722,
+          "lng": 8.024081829892722
+        },
+        "southwest": {
+          "lat": 6.157567570107278,
+          "lng": 8.021382170107278
+        }
+      },
+      "formatted_address": "525F+G52, 491109, Amuzu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1587665,8.0228801",
+      "google_place_id": "ChIJ-S6Qqra7XBAR43WYdcal14s"
+    }
+  },
+  {
+    "id": "46249",
+    "name": "NGAMGBO UTARA VILLAGE SQUARE",
+    "registration_area_id": "2498",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "11/06/03/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2498",
+    "ward_name": "AMANA",
+    "local_government_id": "217",
+    "local_government_name": "EZZA SOUTH",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.165257,
+      "longitude": 8.0437812,
+      "viewport": {
+        "northeast": {
+          "lat": 6.167468299999999,
+          "lng": 8.045549279892722
+        },
+        "southwest": {
+          "lat": 6.164519899999998,
+          "lng": 8.042849620107278
+        }
+      },
+      "formatted_address": "528V+4G2, 491109, Amuzu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.165257,8.0437812",
+      "google_place_id": "ChIJv3SzzFm7XBAR83AMghe83gI"
+    }
+  },
+  {
+    "id": "46250",
+    "name": "EGUAZUHU PLAY GROUND",
+    "registration_area_id": "2498",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "11/06/03/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2498",
+    "ward_name": "AMANA",
+    "local_government_id": "217",
+    "local_government_name": "EZZA SOUTH",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.348073899999999,
+      "longitude": 8.0548082,
+      "viewport": {
+        "northeast": {
+          "lat": 6.349356179892722,
+          "lng": 8.056341629892719
+        },
+        "southwest": {
+          "lat": 6.346656520107278,
+          "lng": 8.053641970107275
+        }
+      },
+      "formatted_address": "83X3+6WF, okpoku village, Agalaga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.348073899999999,8.0548082",
+      "google_place_id": "ChIJ61ilA1dfWxAR7QZwjfiDg48"
+    }
+  },
+  {
+    "id": "46251",
+    "name": "NGAMGBO ONUZONWOGWU",
+    "registration_area_id": "2498",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "11/06/03/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2498",
+    "ward_name": "AMANA",
+    "local_government_id": "217",
+    "local_government_name": "EZZA SOUTH",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.3008326,
+      "longitude": 8.1168014,
+      "viewport": {
+        "northeast": {
+          "lat": 6.301951229892722,
+          "lng": 8.118151229892723
+        },
+        "southwest": {
+          "lat": 6.299251570107278,
+          "lng": 8.115451570107279
+        }
+      },
+      "formatted_address": "8428+8PM, Unnamed Road, 480101, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3008326,8.1168014",
+      "google_place_id": "ChIJgzWcUOShXBARW2fTsl4kSrc"
+    }
+  },
+  {
+    "id": "46252",
+    "name": "CENTRAL SCHOOL AMANA",
+    "registration_area_id": "2498",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "11/06/03/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2498",
+    "ward_name": "AMANA",
+    "local_government_id": "217",
+    "local_government_name": "EZZA SOUTH",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.165257,
+      "longitude": 8.0437812,
+      "viewport": {
+        "northeast": {
+          "lat": 6.167468299999999,
+          "lng": 8.045549279892722
+        },
+        "southwest": {
+          "lat": 6.164519899999998,
+          "lng": 8.042849620107278
+        }
+      },
+      "formatted_address": "528V+4G2, 491109, Amuzu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.165257,8.0437812",
+      "google_place_id": "ChIJv3SzzFm7XBAR83AMghe83gI"
+    }
+  },
+  {
+    "id": "46253",
+    "name": "NWORIE NDIAGUAZU MARKET SQUARE",
+    "registration_area_id": "2498",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "11/06/03/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2498",
+    "ward_name": "AMANA",
+    "local_government_id": "217",
+    "local_government_name": "EZZA SOUTH",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.170489,
+      "longitude": 8.0292996,
+      "viewport": {
+        "northeast": {
+          "lat": 6.171737479892721,
+          "lng": 8.030833379892721
+        },
+        "southwest": {
+          "lat": 6.169037820107278,
+          "lng": 8.028133720107277
+        }
+      },
+      "formatted_address": "52CH+4MP, 491109, Amuzu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.170489,8.0292996",
+      "google_place_id": "ChIJHfdBJkm7XBARMwsn7-wOZjM"
+    }
+  },
+  {
+    "id": "46254",
+    "name": "EZEKUNA PLAY GROUND",
+    "registration_area_id": "2498",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "11/06/03/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2498",
+    "ward_name": "AMANA",
+    "local_government_id": "217",
+    "local_government_name": "EZZA SOUTH",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.1535708,
+      "longitude": 8.0387342,
+      "viewport": {
+        "northeast": {
+          "lat": 6.154947829892722,
+          "lng": 8.04011692989272
+        },
+        "southwest": {
+          "lat": 6.152248170107278,
+          "lng": 8.037417270107277
+        }
+      },
+      "formatted_address": "523Q+CFH, 491109, Amuzu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1535708,8.0387342",
+      "google_place_id": "ChIJ_3U6BGe7XBARXelHHwmBkg8"
+    }
+  },
+  {
+    "id": "46255",
+    "name": "NGAMGBO ODANARA II",
+    "registration_area_id": "2498",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "11/06/03/011",
+    "remark": "NEW PU",
+    "ward_id": "2498",
+    "ward_name": "AMANA",
+    "local_government_id": "217",
+    "local_government_name": "EZZA SOUTH",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.083701899999999,
+      "longitude": 8.013060399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.085029879892722,
+          "lng": 8.014407079892722
+        },
+        "southwest": {
+          "lat": 6.082330220107278,
+          "lng": 8.011707420107278
+        }
+      },
+      "formatted_address": "32M7+F6M, 491109, Iibichiri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.083701899999999,8.013060399999999",
+      "google_place_id": "ChIJtRWxuXq5XBAR1C8BCYb3RpA"
+    }
+  },
+  {
+    "id": "46256",
+    "name": "NWOGODO MARKET SQUARE II",
+    "registration_area_id": "2498",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "11/06/03/012",
+    "remark": "NEW PU",
+    "ward_id": "2498",
+    "ward_name": "AMANA",
+    "local_government_id": "217",
+    "local_government_name": "EZZA SOUTH",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.170489,
+      "longitude": 8.0292996,
+      "viewport": {
+        "northeast": {
+          "lat": 6.171737479892721,
+          "lng": 8.030833379892721
+        },
+        "southwest": {
+          "lat": 6.169037820107278,
+          "lng": 8.028133720107277
+        }
+      },
+      "formatted_address": "52CH+4MP, 491109, Amuzu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.170489,8.0292996",
+      "google_place_id": "ChIJHfdBJkm7XBARMwsn7-wOZjM"
+    }
+  },
+  {
+    "id": "46257",
+    "name": "EZEKUNA PLAY GROUND II",
+    "registration_area_id": "2498",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "11/06/03/013",
+    "remark": "NEW PU",
+    "ward_id": "2498",
+    "ward_name": "AMANA",
+    "local_government_id": "217",
+    "local_government_name": "EZZA SOUTH",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.1535708,
+      "longitude": 8.0387342,
+      "viewport": {
+        "northeast": {
+          "lat": 6.154947829892722,
+          "lng": 8.04011692989272
+        },
+        "southwest": {
+          "lat": 6.152248170107278,
+          "lng": 8.037417270107277
+        }
+      },
+      "formatted_address": "523Q+CFH, 491109, Amuzu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1535708,8.0387342",
+      "google_place_id": "ChIJ_3U6BGe7XBARXelHHwmBkg8"
+    }
+  }
+]

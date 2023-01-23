@@ -1,0 +1,619 @@
+[
+  {
+    "id": "98842",
+    "name": "GURETA - GIDAN MAI UNGUWA",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/19/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9815608,
+      "longitude": 7.622266499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98290287989272,
+          "lng": 7.62356807989272
+        },
+        "southwest": {
+          "lat": 12.98020322010728,
+          "lng": 7.620868420107276
+        }
+      },
+      "formatted_address": "Kadarko Estate, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9815608,7.622266499999999",
+      "google_place_id": "ChIJ_byQJtgjsBERaJBmztEZDLc"
+    }
+  },
+  {
+    "id": "98843",
+    "name": "KWANKWALWA GIDAN MAI UNGUWA",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/19/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98844",
+    "name": "SABON GIDAN - GIDI BEDI",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/19/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98845",
+    "name": "DANMARKE I PRI.SCHOOL",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/19/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.9294418,
+      "longitude": 7.412383500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.93079147989272,
+          "lng": 7.413732979892722
+        },
+        "southwest": {
+          "lat": 11.92809182010728,
+          "lng": 7.411033320107278
+        }
+      },
+      "formatted_address": "Nuhu Primary School, 832102, Kankara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9294418,7.412383500000001",
+      "google_place_id": "ChIJfauFBrshshER53r3rSmaQo4"
+    }
+  },
+  {
+    "id": "98846",
+    "name": "DAN MARKE IIA DISPENSARY",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/19/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 43.6764041,
+      "longitude": -79.4491954,
+      "viewport": {
+        "northeast": {
+          "lat": 43.67780402989272,
+          "lng": -79.44786592010728
+        },
+        "southwest": {
+          "lat": 43.67510437010728,
+          "lng": -79.45056557989271
+        }
+      },
+      "formatted_address": "1331 St Clair Ave W, Toronto, ON M6E 1C2, Canada",
+      "google_map_url": "https://maps.google.com?q=43.6764041,-79.4491954",
+      "google_place_id": "ChIJ21Nv_Ok1K4gR_jHTqsuasNc"
+    }
+  },
+  {
+    "id": "98847",
+    "name": "DAN MARKE IIB  DISPENSARY",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/19/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98848",
+    "name": "DAN MARKE IIA TSAMIYA",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/19/11/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98849",
+    "name": "DAN MARKE (YALWA) I.V YALWA",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/19/11/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98850",
+    "name": "DAN MARKE IIB ISLAMAIYA",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/19/11/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98851",
+    "name": "KATSINAWA - MASALLACHI",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/19/11/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9771627,
+      "longitude": 7.638197799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97805492989272,
+          "lng": 7.63987762989272
+        },
+        "southwest": {
+          "lat": 12.97535527010728,
+          "lng": 7.637177970107277
+        }
+      },
+      "formatted_address": "XJGQ+V78, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9771627,7.638197799999999",
+      "google_place_id": "ChIJEcs1mGYjsBERLlylGjIVr-M"
+    }
+  },
+  {
+    "id": "98852",
+    "name": "TSAUNIN GODA GIDAN MAI UNG",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/19/11/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.9256288,
+      "longitude": 7.4156789,
+      "viewport": {
+        "northeast": {
+          "lat": 11.92680957989272,
+          "lng": 7.416803379892722
+        },
+        "southwest": {
+          "lat": 11.92410992010728,
+          "lng": 7.414103720107278
+        }
+      },
+      "formatted_address": "WCG8+773, 832102, Kankara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9256288,7.4156789",
+      "google_place_id": "ChIJAzlzFL4hshERDqQGQJBjQOM"
+    }
+  },
+  {
+    "id": "98853",
+    "name": "GIDAN DAUDU - GIDAN DAUDU",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "20/19/11/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98854",
+    "name": "YARGOJE I A PRI.SCHOOL",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "20/19/11/013",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.93303,
+      "longitude": 7.3967338,
+      "viewport": {
+        "northeast": {
+          "lat": 11.93411272989272,
+          "lng": 7.398113979892723
+        },
+        "southwest": {
+          "lat": 11.93141307010728,
+          "lng": 7.395414320107279
+        }
+      },
+      "formatted_address": "W9MW+6M9 Dan Sabo, Chafe Road, 832102, Kankara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.93303,7.3967338",
+      "google_place_id": "ChIJHey-emIhshER5G2JsSHlDxw"
+    }
+  },
+  {
+    "id": "98855",
+    "name": "YARGOJE II DISPENSARY",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "20/19/11/014",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98856",
+    "name": "YARGOJE III - CLINIC",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "20/19/11/015",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0000953,
+      "longitude": 7.602090199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 13.00155752989272,
+          "lng": 7.603462279892724
+        },
+        "southwest": {
+          "lat": 12.99885787010728,
+          "lng": 7.60076262010728
+        }
+      },
+      "formatted_address": "2J22+2RP, M Dikko Rd, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0000953,7.602090199999999",
+      "google_place_id": "ChIJ8apzhC4jsBERcJm-VrO3ChI"
+    }
+  },
+  {
+    "id": "98857",
+    "name": "YAR GOJE IV   KOFAR FADA",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "20/19/11/016",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.9256288,
+      "longitude": 7.4156789,
+      "viewport": {
+        "northeast": {
+          "lat": 11.92680957989272,
+          "lng": 7.416803379892722
+        },
+        "southwest": {
+          "lat": 11.92410992010728,
+          "lng": 7.414103720107278
+        }
+      },
+      "formatted_address": "WCG8+773, 832102, Kankara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9256288,7.4156789",
+      "google_place_id": "ChIJAzlzFL4hshERDqQGQJBjQOM"
+    }
+  },
+  {
+    "id": "98858",
+    "name": "ZINARI / PRY. SCH.",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "20/19/11/017",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98859",
+    "name": "GIDAN BOKA - GIDAN BOKA",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "20/19/11/018",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98860",
+    "name": "RUWAN TUKURWA I PRI.SCHOOL",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "20/19/11/019",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.9444727,
+      "longitude": 7.415627400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.94570352989272,
+          "lng": 7.417159429892722
+        },
+        "southwest": {
+          "lat": 11.94300387010728,
+          "lng": 7.414459770107278
+        }
+      },
+      "formatted_address": "WCV8+Q6W, 832102, Kankara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9444727,7.415627400000001",
+      "google_place_id": "ChIJsyXjArAhshERhwYuFaLNVoM"
+    }
+  },
+  {
+    "id": "98861",
+    "name": "RUWAN TUKURWA II K/G RANAU (INGI",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "20/19/11/020",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98862",
+    "name": "UNG TOFA K/G UNG MAIUNG",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "20/19/11/021",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.9256288,
+      "longitude": 7.4156789,
+      "viewport": {
+        "northeast": {
+          "lat": 11.92680957989272,
+          "lng": 7.416803379892722
+        },
+        "southwest": {
+          "lat": 11.92410992010728,
+          "lng": 7.414103720107278
+        }
+      },
+      "formatted_address": "WCG8+773, 832102, Kankara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9256288,7.4156789",
+      "google_place_id": "ChIJAzlzFL4hshERDqQGQJBjQOM"
+    }
+  },
+  {
+    "id": "98863",
+    "name": "UNG KWARI - UNG KWARI",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "20/19/11/022",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98864",
+    "name": "YAR GOJE II    DISPENSARY",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "20/19/11/023",
+    "remark": "EXISTING PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98865",
+    "name": "GIDAN DAUDU II PRI. SCH.",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "20/19/11/024",
+    "remark": "NEW PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.9294418,
+      "longitude": 7.412383500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.93079147989272,
+          "lng": 7.413732979892722
+        },
+        "southwest": {
+          "lat": 11.92809182010728,
+          "lng": 7.411033320107278
+        }
+      },
+      "formatted_address": "Nuhu Primary School, 832102, Kankara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9294418,7.412383500000001",
+      "google_place_id": "ChIJfauFBrshshER53r3rSmaQo4"
+    }
+  },
+  {
+    "id": "98866",
+    "name": "YARGOJE V BAKIN KASUWA",
+    "registration_area_id": "5031",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "20/19/11/025",
+    "remark": "NEW PU",
+    "ward_id": "5031",
+    "ward_name": "DAN'MAIDAKI",
+    "local_government_id": "432",
+    "local_government_name": "KANKARA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.9256288,
+      "longitude": 7.4156789,
+      "viewport": {
+        "northeast": {
+          "lat": 11.92680957989272,
+          "lng": 7.416803379892722
+        },
+        "southwest": {
+          "lat": 11.92410992010728,
+          "lng": 7.414103720107278
+        }
+      },
+      "formatted_address": "WCG8+773, 832102, Kankara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9256288,7.4156789",
+      "google_place_id": "ChIJAzlzFL4hshERDqQGQJBjQOM"
+    }
+  }
+]

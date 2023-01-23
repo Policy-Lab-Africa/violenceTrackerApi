@@ -1,0 +1,468 @@
+[
+  {
+    "id": "336541",
+    "name": "SARKIN KANWA",
+    "registration_area_id": "17095",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/11/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17095",
+    "ward_name": "AREWA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336542",
+    "name": "LIMAN HABIBU",
+    "registration_area_id": "17095",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/11/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17095",
+    "ward_name": "AREWA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336543",
+    "name": "UNG. WAZIRI",
+    "registration_area_id": "17095",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/11/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17095",
+    "ward_name": "AREWA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336544",
+    "name": "TUKURA  I",
+    "registration_area_id": "17095",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/11/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17095",
+    "ward_name": "AREWA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4104748,
+      "longitude": 5.470399500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.41184057989272,
+          "lng": 5.471750179892721
+        },
+        "southwest": {
+          "lat": 10.40914092010728,
+          "lng": 5.469050520107277
+        }
+      },
+      "formatted_address": "CF6C+55J, 923101, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4104748,5.470399500000001",
+      "google_place_id": "ChIJvTb40LbIShARy9-ZiNFbvBo"
+    }
+  },
+  {
+    "id": "336545",
+    "name": "TUKURA  II",
+    "registration_area_id": "17095",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/11/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17095",
+    "ward_name": "AREWA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4104748,
+      "longitude": 5.470399500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.41184057989272,
+          "lng": 5.471750179892721
+        },
+        "southwest": {
+          "lat": 10.40914092010728,
+          "lng": 5.469050520107277
+        }
+      },
+      "formatted_address": "CF6C+55J, 923101, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4104748,5.470399500000001",
+      "google_place_id": "ChIJvTb40LbIShARy9-ZiNFbvBo"
+    }
+  },
+  {
+    "id": "336546",
+    "name": "TUKURA  III",
+    "registration_area_id": "17095",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/11/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17095",
+    "ward_name": "AREWA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4104748,
+      "longitude": 5.470399500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.41184057989272,
+          "lng": 5.471750179892721
+        },
+        "southwest": {
+          "lat": 10.40914092010728,
+          "lng": 5.469050520107277
+        }
+      },
+      "formatted_address": "CF6C+55J, 923101, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4104748,5.470399500000001",
+      "google_place_id": "ChIJvTb40LbIShARy9-ZiNFbvBo"
+    }
+  },
+  {
+    "id": "336547",
+    "name": "MAGAYAKI  I",
+    "registration_area_id": "17095",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/11/01/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17095",
+    "ward_name": "AREWA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4071374,
+      "longitude": 5.4699567,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40848902989272,
+          "lng": 5.471368679892722
+        },
+        "southwest": {
+          "lat": 10.40578937010728,
+          "lng": 5.468669020107278
+        }
+      },
+      "formatted_address": "L148, Off Angwan Bunun, 923101, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4071374,5.4699567",
+      "google_place_id": "ChIJPXQHVFnJShARO4BgQmTSaJg"
+    }
+  },
+  {
+    "id": "336548",
+    "name": "MAGAYAKI  II",
+    "registration_area_id": "17095",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/11/01/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17095",
+    "ward_name": "AREWA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.407146,
+      "longitude": 5.4699173,
+      "viewport": {
+        "northeast": {
+          "lat": 10.4288601,
+          "lng": 5.514251
+        },
+        "southwest": {
+          "lat": 10.3771241,
+          "lng": 5.423244
+        }
+      },
+      "formatted_address": "923101, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.407146,5.4699173",
+      "google_place_id": "ChIJ9Ynr-K7IShAR0tUJer-1dV0"
+    }
+  },
+  {
+    "id": "336549",
+    "name": "TURAKI  I",
+    "registration_area_id": "17095",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "26/11/01/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17095",
+    "ward_name": "AREWA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4071374,
+      "longitude": 5.4699567,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40848902989272,
+          "lng": 5.471368679892722
+        },
+        "southwest": {
+          "lat": 10.40578937010728,
+          "lng": 5.468669020107278
+        }
+      },
+      "formatted_address": "R23, Kuna Amala Rd. K/Gora, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4071374,5.4699567",
+      "google_place_id": "ChIJmQ50eVnJShARKplFvN5yn5w"
+    }
+  },
+  {
+    "id": "336550",
+    "name": "TURAKI  II",
+    "registration_area_id": "17095",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "26/11/01/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17095",
+    "ward_name": "AREWA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4071374,
+      "longitude": 5.4699567,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40848902989272,
+          "lng": 5.471368679892722
+        },
+        "southwest": {
+          "lat": 10.40578937010728,
+          "lng": 5.468669020107278
+        }
+      },
+      "formatted_address": "R23, Kuna Amala Rd. K/Gora, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4071374,5.4699567",
+      "google_place_id": "ChIJmQ50eVnJShARKplFvN5yn5w"
+    }
+  },
+  {
+    "id": "336551",
+    "name": "OPEN SPACE UNDER TREE BEHIND CENTRAL MOSQUE",
+    "registration_area_id": "17095",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "26/11/01/011",
+    "remark": "NEW PU",
+    "ward_id": "17095",
+    "ward_name": "AREWA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6207599,
+      "longitude": 6.5466457,
+      "viewport": {
+        "northeast": {
+          "lat": 9.621958879892722,
+          "lng": 6.548074029892721
+        },
+        "southwest": {
+          "lat": 9.619259220107278,
+          "lng": 6.545374370107277
+        }
+      },
+      "formatted_address": "JGCW+5P4, Zungeru Road, Minna 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6207599,6.5466457",
+      "google_place_id": "ChIJGyE8jk1wTBARqaT0OmKhMt0"
+    }
+  },
+  {
+    "id": "336552",
+    "name": "OPEN SPACE UNDER TREE UNGUWAN SAI",
+    "registration_area_id": "17095",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "26/11/01/012",
+    "remark": "NEW PU",
+    "ward_id": "17095",
+    "ward_name": "AREWA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336553",
+    "name": "OPEN SPACE UNGUWAN AYAWA UNDER TREE",
+    "registration_area_id": "17095",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "26/11/01/013",
+    "remark": "NEW PU",
+    "ward_id": "17095",
+    "ward_name": "AREWA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336554",
+    "name": "GOVERNMENT DAY SECONDARY SCHOOL GOMBAWA",
+    "registration_area_id": "17095",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "26/11/01/014",
+    "remark": "NEW PU",
+    "ward_id": "17095",
+    "ward_name": "AREWA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.3959272,
+      "longitude": 5.443813599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.39721532989272,
+          "lng": 5.444965829892721
+        },
+        "southwest": {
+          "lat": 10.39451567010728,
+          "lng": 5.442266170107277
+        }
+      },
+      "formatted_address": "9CWV+9GG, 923101, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3959272,5.443813599999999",
+      "google_place_id": "ChIJAUmj-ILIShARBWVmFhFE1Tw"
+    }
+  },
+  {
+    "id": "336555",
+    "name": "TUKURA PRIMARY SCHOOL GOMBAWA",
+    "registration_area_id": "17095",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "26/11/01/015",
+    "remark": "NEW PU",
+    "ward_id": "17095",
+    "ward_name": "AREWA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.40903,
+      "longitude": 5.475129,
+      "viewport": {
+        "northeast": {
+          "lat": 10.41040787989272,
+          "lng": 5.476272979892721
+        },
+        "southwest": {
+          "lat": 10.40770822010728,
+          "lng": 5.473573320107278
+        }
+      },
+      "formatted_address": "7F27CF5G+J36 Ubandoma, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.40903,5.475129",
+      "google_place_id": "ChIJbQ8mcbPIShARnLkw7jW2lig"
+    }
+  },
+  {
+    "id": "336556",
+    "name": "OPEN SPACE UNDER TREE UNGUWAN KANAWA",
+    "registration_area_id": "17095",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "26/11/01/016",
+    "remark": "NEW PU",
+    "ward_id": "17095",
+    "ward_name": "AREWA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336557",
+    "name": "OPEN SPACE UNDER TREE UNG. MAIGISHIRI",
+    "registration_area_id": "17095",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "26/11/01/017",
+    "remark": "NEW PU",
+    "ward_id": "17095",
+    "ward_name": "AREWA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336558",
+    "name": "TUKURA PRIMARY HEALTH CARE",
+    "registration_area_id": "17095",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "26/11/01/018",
+    "remark": "NEW PU",
+    "ward_id": "17095",
+    "ward_name": "AREWA",
+    "local_government_id": "547",
+    "local_government_name": "KONTAGORA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  }
+]

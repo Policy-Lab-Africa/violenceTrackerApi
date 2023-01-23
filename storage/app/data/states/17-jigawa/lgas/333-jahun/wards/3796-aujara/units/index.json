@@ -1,0 +1,781 @@
+[
+  {
+    "id": "69139",
+    "name": "GARKA/CHIROMAWA/GARKA/CHIROMAWA",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "17/14/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "69140",
+    "name": "ALKALAWA/ALKALAWA",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "17/14/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0498475,
+      "longitude": 9.4263646,
+      "viewport": {
+        "northeast": {
+          "lat": 12.05118412989272,
+          "lng": 9.42761982989272
+        },
+        "southwest": {
+          "lat": 12.04848447010728,
+          "lng": 9.424920170107276
+        }
+      },
+      "formatted_address": "Alkalawa quaters, Aujara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0498475,9.4263646",
+      "google_place_id": "ChIJDV48gUZbqRERP14czy9QWfs"
+    }
+  },
+  {
+    "id": "69141",
+    "name": "KADIRAWA/KADIRAWA  I",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "17/14/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0518795,
+      "longitude": 9.425666399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.05323132989272,
+          "lng": 9.42705412989272
+        },
+        "southwest": {
+          "lat": 12.05053167010728,
+          "lng": 9.424354470107277
+        }
+      },
+      "formatted_address": "Kadirawa street, 720104, Aujara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0518795,9.425666399999999",
+      "google_place_id": "ChIJZU71pl1bqRERYRxWs9Z25Q8"
+    }
+  },
+  {
+    "id": "69142",
+    "name": "FATUMAWA/FATUMAWA",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "17/14/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0468063,
+      "longitude": 9.430582200000002,
+      "viewport": {
+        "northeast": {
+          "lat": 12.04792922989272,
+          "lng": 9.431773279892722
+        },
+        "southwest": {
+          "lat": 12.04522957010728,
+          "lng": 9.429073620107278
+        }
+      },
+      "formatted_address": "Fatumawa, Aujara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0468063,9.430582200000002",
+      "google_place_id": "ChIJU7wtGO9bqRERrhyRZMMF20Q"
+    }
+  },
+  {
+    "id": "69143",
+    "name": "MAKERA/MAHAUTA/MAKERA/MAHAUTA",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "17/14/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "69144",
+    "name": "MAHAUTA/MAHAUTA",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "17/14/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7422242,
+      "longitude": 8.856262899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.746869,
+          "lng": 8.862158
+        },
+        "southwest": {
+          "lat": 11.735758,
+          "lng": 8.848545999999999
+        }
+      },
+      "formatted_address": "713101, Unguwar Mahauta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7422242,8.856262899999999",
+      "google_place_id": "ChIJe7cRYfIXrBERTAG9EgV0-MY"
+    }
+  },
+  {
+    "id": "69145",
+    "name": "MAKERA/MAKERA  I",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "17/14/01/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0518625,
+      "longitude": 9.4256031,
+      "viewport": {
+        "northeast": {
+          "lat": 12.05321567989272,
+          "lng": 9.427030529892724
+        },
+        "southwest": {
+          "lat": 12.05051602010728,
+          "lng": 9.42433087010728
+        }
+      },
+      "formatted_address": "720104, Aujara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0518625,9.4256031",
+      "google_place_id": "ChIJ82TFiZ9bqRERzKBiRenzWMc"
+    }
+  },
+  {
+    "id": "69146",
+    "name": "MAKERA/MAKERA  II",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "17/14/01/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0518795,
+      "longitude": 9.425666399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.05323132989272,
+          "lng": 9.42705412989272
+        },
+        "southwest": {
+          "lat": 12.05053167010728,
+          "lng": 9.424354470107277
+        }
+      },
+      "formatted_address": "Makera quaters, Aujara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0518795,9.425666399999999",
+      "google_place_id": "ChIJfXWPaYVbqRERcVTwEJLsbD4"
+    }
+  },
+  {
+    "id": "69147",
+    "name": "DOGON JEJI/DOGON JEJI",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "17/14/01/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7429868,
+      "longitude": 9.9632741,
+      "viewport": {
+        "northeast": {
+          "lat": 11.751452,
+          "lng": 9.9800323
+        },
+        "southwest": {
+          "lat": 11.7291607,
+          "lng": 9.9404843
+        }
+      },
+      "formatted_address": "Dogon Jeji A, 751107, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7429868,9.9632741",
+      "google_place_id": "ChIJee0l_rwtqhER1g7bwy9-yb4"
+    }
+  },
+  {
+    "id": "69148",
+    "name": "KADIRAWA/KADIRAWA",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "17/14/01/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0518795,
+      "longitude": 9.425666399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.05323132989272,
+          "lng": 9.42705412989272
+        },
+        "southwest": {
+          "lat": 12.05053167010728,
+          "lng": 9.424354470107277
+        }
+      },
+      "formatted_address": "Kadirawa 720104, Aujara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0518795,9.425666399999999",
+      "google_place_id": "ChIJnfowk8BbqRER_o2kXxFLnKo"
+    }
+  },
+  {
+    "id": "69149",
+    "name": "GABARI/C. GARI /GABARI C/GARI",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "17/14/01/011",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "69150",
+    "name": "GADEWA",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "17/14/01/012",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0434316,
+      "longitude": 9.5896043,
+      "viewport": {
+        "northeast": {
+          "lat": 12.217687,
+          "lng": 9.8237995
+        },
+        "southwest": {
+          "lat": 11.9256928,
+          "lng": 9.313575199999999
+        }
+      },
+      "formatted_address": "Jahun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0434316,9.5896043",
+      "google_place_id": "ChIJXZCn8sFnqRERjzUpahANYZw"
+    }
+  },
+  {
+    "id": "69151",
+    "name": "GIDAN BANGWARO",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "17/14/01/013",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0434316,
+      "longitude": 9.5896043,
+      "viewport": {
+        "northeast": {
+          "lat": 12.217687,
+          "lng": 9.8237995
+        },
+        "southwest": {
+          "lat": 11.9256928,
+          "lng": 9.313575199999999
+        }
+      },
+      "formatted_address": "Jahun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0434316,9.5896043",
+      "google_place_id": "ChIJXZCn8sFnqRERjzUpahANYZw"
+    }
+  },
+  {
+    "id": "69152",
+    "name": "KADAU KUKAKWANCE",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "17/14/01/014",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "69153",
+    "name": "TUKUYAWA C/GARI",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "17/14/01/015",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0434316,
+      "longitude": 9.5896043,
+      "viewport": {
+        "northeast": {
+          "lat": 12.217687,
+          "lng": 9.8237995
+        },
+        "southwest": {
+          "lat": 11.9256928,
+          "lng": 9.313575199999999
+        }
+      },
+      "formatted_address": "Jahun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0434316,9.5896043",
+      "google_place_id": "ChIJXZCn8sFnqRERjzUpahANYZw"
+    }
+  },
+  {
+    "id": "69154",
+    "name": "GURJIN MADAKI",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "17/14/01/016",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0434316,
+      "longitude": 9.5896043,
+      "viewport": {
+        "northeast": {
+          "lat": 12.217687,
+          "lng": 9.8237995
+        },
+        "southwest": {
+          "lat": 11.9256928,
+          "lng": 9.313575199999999
+        }
+      },
+      "formatted_address": "Jahun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0434316,9.5896043",
+      "google_place_id": "ChIJXZCn8sFnqRERjzUpahANYZw"
+    }
+  },
+  {
+    "id": "69155",
+    "name": "BAGAMARU",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "17/14/01/017",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0785544,
+      "longitude": 9.626927300000002,
+      "viewport": {
+        "northeast": {
+          "lat": 12.07981657989272,
+          "lng": 9.627965679892723
+        },
+        "southwest": {
+          "lat": 12.07711692010728,
+          "lng": 9.62526602010728
+        }
+      },
+      "formatted_address": "3JHG+CQF, 720103, Bagamaru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0785544,9.626927300000002",
+      "google_place_id": "ChIJB-SOPNtnqRERUToCvjIwxWA"
+    }
+  },
+  {
+    "id": "69156",
+    "name": "DANBARAMA",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "17/14/01/018",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0519061,
+      "longitude": 9.428381199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.05322557989272,
+          "lng": 9.42974417989272
+        },
+        "southwest": {
+          "lat": 12.05052592010728,
+          "lng": 9.427044520107277
+        }
+      },
+      "formatted_address": "720104, Aujara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0519061,9.428381199999999",
+      "google_place_id": "ChIJ-QLE3eZbqRERXXi3THhnghE"
+    }
+  },
+  {
+    "id": "69157",
+    "name": "KWADAGE",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "17/14/01/019",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0434316,
+      "longitude": 9.5896043,
+      "viewport": {
+        "northeast": {
+          "lat": 12.217687,
+          "lng": 9.8237995
+        },
+        "southwest": {
+          "lat": 11.9256928,
+          "lng": 9.313575199999999
+        }
+      },
+      "formatted_address": "Jahun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0434316,9.5896043",
+      "google_place_id": "ChIJXZCn8sFnqRERjzUpahANYZw"
+    }
+  },
+  {
+    "id": "69158",
+    "name": "GARAN UNGUWAR YAMMA",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "17/14/01/020",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.9934345,
+      "longitude": 9.7544509,
+      "viewport": {
+        "northeast": {
+          "lat": 11.99474982989272,
+          "lng": 9.755828829892723
+        },
+        "southwest": {
+          "lat": 11.99205017010728,
+          "lng": 9.753129170107279
+        }
+      },
+      "formatted_address": "720103, Jigawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9934345,9.7544509",
+      "google_place_id": "ChIJTx6vj2J7qRERFwUf7V_CGSo"
+    }
+  },
+  {
+    "id": "69159",
+    "name": "DUNGUN GARAN",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "17/14/01/021",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.097487,
+      "longitude": 9.6277819,
+      "viewport": {
+        "northeast": {
+          "lat": 12.09883137989272,
+          "lng": 9.629316499999998
+        },
+        "southwest": {
+          "lat": 12.09613172010728,
+          "lng": 9.623177700000001
+        }
+      },
+      "formatted_address": "3JWH+X4V, 720103, Jahun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.097487,9.6277819",
+      "google_place_id": "ChIJ9ygzEq5oqRERm0aSfR4U1lo"
+    }
+  },
+  {
+    "id": "69160",
+    "name": "KOYA YAMMACI",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "17/14/01/022",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.097487,
+      "longitude": 9.6277819,
+      "viewport": {
+        "northeast": {
+          "lat": 12.09883137989272,
+          "lng": 9.629316499999998
+        },
+        "southwest": {
+          "lat": 12.09613172010728,
+          "lng": 9.623177700000001
+        }
+      },
+      "formatted_address": "3JWH+X4V, 720103, Jahun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.097487,9.6277819",
+      "google_place_id": "ChIJ9ygzEq5oqRERm0aSfR4U1lo"
+    }
+  },
+  {
+    "id": "69161",
+    "name": "DAMATUWA",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "17/14/01/023",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0434316,
+      "longitude": 9.5896043,
+      "viewport": {
+        "northeast": {
+          "lat": 12.217687,
+          "lng": 9.8237995
+        },
+        "southwest": {
+          "lat": 11.9256928,
+          "lng": 9.313575199999999
+        }
+      },
+      "formatted_address": "Jahun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0434316,9.5896043",
+      "google_place_id": "ChIJXZCn8sFnqRERjzUpahANYZw"
+    }
+  },
+  {
+    "id": "69162",
+    "name": "GABASHI/KAWARI",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "17/14/01/024",
+    "remark": "EXISTING PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "69163",
+    "name": "AUJARA SPECIAL P.S",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "17/14/01/025",
+    "remark": "NEW PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "69164",
+    "name": "AUJARA SPECIAL P.S",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "17/14/01/026",
+    "remark": "NEW PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "69165",
+    "name": "MODEL PRI SCH AUJARA",
+    "registration_area_id": "3796",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "17/14/01/027",
+    "remark": "NEW PU",
+    "ward_id": "3796",
+    "ward_name": "AUJARA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7895174,
+      "longitude": 9.606910899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79084672989272,
+          "lng": 9.608156979892723
+        },
+        "southwest": {
+          "lat": 11.78814707010728,
+          "lng": 9.605457320107279
+        }
+      },
+      "formatted_address": "QJQ4+RQ3, 720102, Kiyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7895174,9.606910899999999",
+      "google_place_id": "ChIJF_Q8RUHcqxEREge3GfXNid8"
+    }
+  }
+]

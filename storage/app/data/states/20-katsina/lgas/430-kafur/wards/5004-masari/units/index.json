@@ -1,0 +1,963 @@
+[
+  {
+    "id": "98276",
+    "name": "MASARI I ADULT EDUC. CLASS",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/17/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.6353997,
+      "longitude": 7.687009299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.63689902989272,
+          "lng": 7.688395829892722
+        },
+        "southwest": {
+          "lat": 11.63419937010728,
+          "lng": 7.685696170107279
+        }
+      },
+      "formatted_address": "JMPP+5R2, 832103, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6353997,7.687009299999999",
+      "google_place_id": "ChIJkdcuh5AMshERudgXV7jFjEQ"
+    }
+  },
+  {
+    "id": "98277",
+    "name": "MASARI II ADULT EDUC. CLASS",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/17/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.6353997,
+      "longitude": 7.687009299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.63689902989272,
+          "lng": 7.688395829892722
+        },
+        "southwest": {
+          "lat": 11.63419937010728,
+          "lng": 7.685696170107279
+        }
+      },
+      "formatted_address": "JMPP+5R2, 832103, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6353997,7.687009299999999",
+      "google_place_id": "ChIJkdcuh5AMshERudgXV7jFjEQ"
+    }
+  },
+  {
+    "id": "98278",
+    "name": "MASARI III PRI SCHOOL",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/17/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.6453248,
+      "longitude": 7.691523699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.64676832989272,
+          "lng": 7.692856479892722
+        },
+        "southwest": {
+          "lat": 11.64406867010728,
+          "lng": 7.690156820107278
+        }
+      },
+      "formatted_address": "JMWR+4JJ, Abdullahi Road, 832103, Masari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6453248,7.691523699999999",
+      "google_place_id": "ChIJy9uPdEkNshERjLvBpyEpE5E"
+    }
+  },
+  {
+    "id": "98279",
+    "name": "KURAKU PRI.SCHOOL",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/17/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98280",
+    "name": "FAMMARAYA PRI.SCHOOL",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/17/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98281",
+    "name": "GIDAN BANJE OPEN SPACE",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/17/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98282",
+    "name": "UNGUWAR ILIYA OPEN SPACE",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/17/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9768217,
+      "longitude": 7.607883399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97814232989272,
+          "lng": 7.609258129892722
+        },
+        "southwest": {
+          "lat": 12.97544267010728,
+          "lng": 7.606558470107278
+        }
+      },
+      "formatted_address": "S/unguwa guidance nayalli, 634806, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9768217,7.607883399999999",
+      "google_place_id": "ChIJw7cO6uw9sBERYbbmQHeANtI"
+    }
+  },
+  {
+    "id": "98283",
+    "name": "UNGUWAR BALA PRI.SCHOOL",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/17/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9686723,
+      "longitude": 7.628180199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97003862989272,
+          "lng": 7.629634579892722
+        },
+        "southwest": {
+          "lat": 12.96733897010728,
+          "lng": 7.626934920107278
+        }
+      },
+      "formatted_address": "XJ9H+F69, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9686723,7.628180199999999",
+      "google_place_id": "ChIJgc6qgjYlsBERxyw1-8S4Jgg"
+    }
+  },
+  {
+    "id": "98284",
+    "name": "UNGUWAR SAMAI PRI.SCHOOL",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/17/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.967111,
+      "longitude": 7.650070099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96848242989272,
+          "lng": 7.651439629892723
+        },
+        "southwest": {
+          "lat": 12.96578277010728,
+          "lng": 7.648739970107279
+        }
+      },
+      "formatted_address": "behind NYSC Camp, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.967111,7.650070099999999",
+      "google_place_id": "ChIJa7VRDyMlsBER0UFiENvlRvg"
+    }
+  },
+  {
+    "id": "98285",
+    "name": "LAYIN MAKERA KOFAR GIDAN MAIUNGUWA",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/17/04/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9541905,
+      "longitude": 7.623452699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.95614592989272,
+          "lng": 7.624606679892722
+        },
+        "southwest": {
+          "lat": 12.95344627010728,
+          "lng": 7.621907020107278
+        }
+      },
+      "formatted_address": "Danja street k/kaura layout, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9541905,7.623452699999999",
+      "google_place_id": "ChIJDeGZPCUlsBERQuzkWbKNyas"
+    }
+  },
+  {
+    "id": "98286",
+    "name": "GADA GADA PRI. SCHOOL",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/17/04/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.312861,
+      "longitude": 7.3958899,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31443182989272,
+          "lng": 7.39712382989272
+        },
+        "southwest": {
+          "lat": 11.31173217010728,
+          "lng": 7.394424170107277
+        }
+      },
+      "formatted_address": "7F39897W+48W Parar Gada, Gangara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.312861,7.3958899",
+      "google_place_id": "ChIJNY0Xot9fshERTvoZTiJ58jQ"
+    }
+  },
+  {
+    "id": "98287",
+    "name": "BAGUDU OPEN SPACE",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "20/17/04/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98288",
+    "name": "UNGUWAR KYALLO KOFAR GIDAN MAIUNGUWA",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "20/17/04/013",
+    "remark": "EXISTING PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.539648,
+      "longitude": 7.3005616,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54095462989272,
+          "lng": 7.30195222989272
+        },
+        "southwest": {
+          "lat": 11.53825497010728,
+          "lng": 7.299252570107276
+        }
+      },
+      "formatted_address": "adjacent to makera juma'a masjid, 830101, Galadima, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.539648,7.3005616",
+      "google_place_id": "ChIJ979_XmFHshER7nMWgmXVEMQ"
+    }
+  },
+  {
+    "id": "98289",
+    "name": "RURA KOFAR GIDAN MAIUNGUWA",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "20/17/04/014",
+    "remark": "EXISTING PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98290",
+    "name": "MASARI  ADULT EDUC. CLASS",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "20/17/04/015",
+    "remark": "NEW PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.6453248,
+      "longitude": 7.691523699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.64676832989272,
+          "lng": 7.692856479892722
+        },
+        "southwest": {
+          "lat": 11.64406867010728,
+          "lng": 7.690156820107278
+        }
+      },
+      "formatted_address": "JMWR+4JJ, Abdullahi Road, 832103, Masari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6453248,7.691523699999999",
+      "google_place_id": "ChIJy9uPdEkNshERjLvBpyEpE5E"
+    }
+  },
+  {
+    "id": "98291",
+    "name": "MASARI II ADULT EDUC. CLASS",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "20/17/04/016",
+    "remark": "NEW PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.6353997,
+      "longitude": 7.687009299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.63689902989272,
+          "lng": 7.688395829892722
+        },
+        "southwest": {
+          "lat": 11.63419937010728,
+          "lng": 7.685696170107279
+        }
+      },
+      "formatted_address": "JMPP+5R2, 832103, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6353997,7.687009299999999",
+      "google_place_id": "ChIJkdcuh5AMshERudgXV7jFjEQ"
+    }
+  },
+  {
+    "id": "98292",
+    "name": "MASARI IIA  ADULT EDUC. CLASS",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "20/17/04/017",
+    "remark": "NEW PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0036587,
+      "longitude": 7.602531,
+      "viewport": {
+        "northeast": {
+          "lat": 13.00497867989272,
+          "lng": 7.603937479892724
+        },
+        "southwest": {
+          "lat": 13.00227902010728,
+          "lng": 7.60123782010728
+        }
+      },
+      "formatted_address": "2J33+F26, M Dikko Rd, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0036587,7.602531",
+      "google_place_id": "ChIJRSPrx888sBERzOtfhvYZt90"
+    }
+  },
+  {
+    "id": "98293",
+    "name": "MASARI IIB  PRI. SCHOOL",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "20/17/04/018",
+    "remark": "NEW PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0036587,
+      "longitude": 7.602531,
+      "viewport": {
+        "northeast": {
+          "lat": 13.00497867989272,
+          "lng": 7.603937479892724
+        },
+        "southwest": {
+          "lat": 13.00227902010728,
+          "lng": 7.60123782010728
+        }
+      },
+      "formatted_address": "2J33+F26, M Dikko Rd, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0036587,7.602531",
+      "google_place_id": "ChIJRSPrx888sBERzOtfhvYZt90"
+    }
+  },
+  {
+    "id": "98294",
+    "name": "MASARI IIIA. PRI. SCHOOL",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "20/17/04/019",
+    "remark": "NEW PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0036587,
+      "longitude": 7.602531,
+      "viewport": {
+        "northeast": {
+          "lat": 13.00497867989272,
+          "lng": 7.603937479892724
+        },
+        "southwest": {
+          "lat": 13.00227902010728,
+          "lng": 7.60123782010728
+        }
+      },
+      "formatted_address": "2J33+F26, M Dikko Rd, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0036587,7.602531",
+      "google_place_id": "ChIJRSPrx888sBERzOtfhvYZt90"
+    }
+  },
+  {
+    "id": "98295",
+    "name": "MASARI IIIB.  PRI. SCHOOL I",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "20/17/04/020",
+    "remark": "NEW PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0036587,
+      "longitude": 7.602531,
+      "viewport": {
+        "northeast": {
+          "lat": 13.00497867989272,
+          "lng": 7.603937479892724
+        },
+        "southwest": {
+          "lat": 13.00227902010728,
+          "lng": 7.60123782010728
+        }
+      },
+      "formatted_address": "2J33+F26, M Dikko Rd, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0036587,7.602531",
+      "google_place_id": "ChIJRSPrx888sBERzOtfhvYZt90"
+    }
+  },
+  {
+    "id": "98296",
+    "name": "KURAKU I  PRI. SCHOOL",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "20/17/04/021",
+    "remark": "NEW PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.1686462,
+      "longitude": 7.9178806,
+      "viewport": {
+        "northeast": {
+          "lat": 12.16979137989272,
+          "lng": 7.91950532989272
+        },
+        "southwest": {
+          "lat": 12.16709172010728,
+          "lng": 7.916805670107276
+        }
+      },
+      "formatted_address": "7F495W99+F52 Goran Duste Kano, Kuraku, 704102, Farin Ruwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1686462,7.9178806",
+      "google_place_id": "ChIJx5kvgYEbrhERwBM5G3wPA9I"
+    }
+  },
+  {
+    "id": "98297",
+    "name": "FAMMARAYA I  PRI. SCHOOL",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "20/17/04/022",
+    "remark": "NEW PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.6359481,
+      "longitude": 7.688303999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.63735682989272,
+          "lng": 7.689603129892721
+        },
+        "southwest": {
+          "lat": 11.63465717010728,
+          "lng": 7.686903470107278
+        }
+      },
+      "formatted_address": "Kafur-Sabon Layi Baja Road, 832103, Masari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6359481,7.688303999999999",
+      "google_place_id": "ChIJB4KF9jANshEROCMfK8mQD08"
+    }
+  },
+  {
+    "id": "98298",
+    "name": "GIDAN BANJE OPEN SPACE",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "20/17/04/023",
+    "remark": "NEW PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98299",
+    "name": "UNGUWAR ILIYA PRI. SCH.",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "20/17/04/024",
+    "remark": "NEW PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9823052,
+      "longitude": 7.607147299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98363282989272,
+          "lng": 7.608503029892722
+        },
+        "southwest": {
+          "lat": 12.98093317010728,
+          "lng": 7.605803370107278
+        }
+      },
+      "formatted_address": "XJJ4+WVC, Unnamed Road, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9823052,7.607147299999999",
+      "google_place_id": "ChIJ53uiC7I8sBERu9jKnBQ4Zcs"
+    }
+  },
+  {
+    "id": "98300",
+    "name": "UNGUWAR ILIYA PRI. SCHOOL I",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "20/17/04/025",
+    "remark": "NEW PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.6359481,
+      "longitude": 7.688303999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.63735682989272,
+          "lng": 7.689603129892721
+        },
+        "southwest": {
+          "lat": 11.63465717010728,
+          "lng": 7.686903470107278
+        }
+      },
+      "formatted_address": "Kafur-Sabon Layi Baja Road, 832103, Masari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6359481,7.688303999999999",
+      "google_place_id": "ChIJB4KF9jANshEROCMfK8mQD08"
+    }
+  },
+  {
+    "id": "98301",
+    "name": "UNGUWAR BALA PRI. SCHOOL I",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "20/17/04/026",
+    "remark": "NEW PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9686723,
+      "longitude": 7.628180199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97003862989272,
+          "lng": 7.629634579892722
+        },
+        "southwest": {
+          "lat": 12.96733897010728,
+          "lng": 7.626934920107278
+        }
+      },
+      "formatted_address": "XJ9H+F69, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9686723,7.628180199999999",
+      "google_place_id": "ChIJgc6qgjYlsBERxyw1-8S4Jgg"
+    }
+  },
+  {
+    "id": "98302",
+    "name": "UNGUWAR SAMAI PRI. SCHOOL I",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "20/17/04/027",
+    "remark": "NEW PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.967111,
+      "longitude": 7.650070099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96848242989272,
+          "lng": 7.651439629892723
+        },
+        "southwest": {
+          "lat": 12.96578277010728,
+          "lng": 7.648739970107279
+        }
+      },
+      "formatted_address": "behind NYSC Camp, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.967111,7.650070099999999",
+      "google_place_id": "ChIJa7VRDyMlsBER0UFiENvlRvg"
+    }
+  },
+  {
+    "id": "98303",
+    "name": "UNGUWAR SAMAI PRI. SCHOOL II",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "20/17/04/028",
+    "remark": "NEW PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98304",
+    "name": "GADA GADA PRI. SCHOOL I",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "20/17/04/029",
+    "remark": "NEW PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.6359481,
+      "longitude": 7.688303999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.63735682989272,
+          "lng": 7.689603129892721
+        },
+        "southwest": {
+          "lat": 11.63465717010728,
+          "lng": 7.686903470107278
+        }
+      },
+      "formatted_address": "Kafur-Sabon Layi Baja Road, 832103, Masari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6359481,7.688303999999999",
+      "google_place_id": "ChIJB4KF9jANshEROCMfK8mQD08"
+    }
+  },
+  {
+    "id": "98305",
+    "name": "BAGUDU PRI. SCHOOL",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "20/17/04/030",
+    "remark": "NEW PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9686723,
+      "longitude": 7.628180199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97003862989272,
+          "lng": 7.629634579892722
+        },
+        "southwest": {
+          "lat": 12.96733897010728,
+          "lng": 7.626934920107278
+        }
+      },
+      "formatted_address": "XJ9H+F69, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9686723,7.628180199999999",
+      "google_place_id": "ChIJgc6qgjYlsBERxyw1-8S4Jgg"
+    }
+  },
+  {
+    "id": "98306",
+    "name": "BAGUDU PRI. SCHOOL I",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "20/17/04/031",
+    "remark": "NEW PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.6359481,
+      "longitude": 7.688303999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.63735682989272,
+          "lng": 7.689603129892721
+        },
+        "southwest": {
+          "lat": 11.63465717010728,
+          "lng": 7.686903470107278
+        }
+      },
+      "formatted_address": "Kafur-Sabon Layi Baja Road, 832103, Masari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6359481,7.688303999999999",
+      "google_place_id": "ChIJB4KF9jANshEROCMfK8mQD08"
+    }
+  },
+  {
+    "id": "98307",
+    "name": "UNGUWAR KYALLO PRI. SCHOOL",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "20/17/04/032",
+    "remark": "NEW PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9823052,
+      "longitude": 7.607147299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98363282989272,
+          "lng": 7.608503029892722
+        },
+        "southwest": {
+          "lat": 12.98093317010728,
+          "lng": 7.605803370107278
+        }
+      },
+      "formatted_address": "XJJ4+WVC, Unnamed Road, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9823052,7.607147299999999",
+      "google_place_id": "ChIJ53uiC7I8sBERu9jKnBQ4Zcs"
+    }
+  },
+  {
+    "id": "98308",
+    "name": "RURA OPEN SPACE",
+    "registration_area_id": "5004",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "20/17/04/033",
+    "remark": "NEW PU",
+    "ward_id": "5004",
+    "ward_name": "MASARI",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "id": "38703",
+    "name": "PRIMARY SCHOOL, NKIM I",
+    "registration_area_id": "2132",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "09/16/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2132",
+    "ward_name": "MBUBE EAST I",
+    "local_government_id": "184",
+    "local_government_name": "OGOJA",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "38704",
+    "name": "PRIMARY SCHOOL, NKIM II",
+    "registration_area_id": "2132",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "09/16/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2132",
+    "ward_name": "MBUBE EAST I",
+    "local_government_id": "184",
+    "local_government_name": "OGOJA",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.593820999999999,
+      "longitude": 8.957657099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.6431288,
+          "lng": 8.9981708
+        },
+        "southwest": {
+          "lat": 6.5266844,
+          "lng": 8.9234201
+        }
+      },
+      "formatted_address": "Mbube East I, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.593820999999999,8.957657099999999",
+      "google_place_id": "ChIJX_UO5CzpWxARWFJz0iiVaUw"
+    }
+  },
+  {
+    "id": "38705",
+    "name": "PLAY GROUND, NKIM",
+    "registration_area_id": "2132",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "09/16/03/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2132",
+    "ward_name": "MBUBE EAST I",
+    "local_government_id": "184",
+    "local_government_name": "OGOJA",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.654803599999999,
+      "longitude": 9.1713524,
+      "viewport": {
+        "northeast": {
+          "lat": 6.656124329892722,
+          "lng": 9.17266827989272
+        },
+        "southwest": {
+          "lat": 6.653424670107278,
+          "lng": 9.169968620107277
+        }
+      },
+      "formatted_address": "M53C+WGH, 552109, Obudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.654803599999999,9.1713524",
+      "google_place_id": "ChIJT90CvQ3gWxARHDD-0jGBqJw"
+    }
+  },
+  {
+    "id": "38706",
+    "name": "PLAYGROUND, OGBERIA OGANG",
+    "registration_area_id": "2132",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "09/16/03/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2132",
+    "ward_name": "MBUBE EAST I",
+    "local_government_id": "184",
+    "local_government_name": "OGOJA",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "38707",
+    "name": "PLAY GROUND, MPANG OGBERIA-OCHORO",
+    "registration_area_id": "2132",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "09/16/03/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2132",
+    "ward_name": "MBUBE EAST I",
+    "local_government_id": "184",
+    "local_government_name": "OGOJA",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "38708",
+    "name": "ST. PETER'S PRIMARY SCHOOL, OJERIM I",
+    "registration_area_id": "2132",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "09/16/03/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2132",
+    "ward_name": "MBUBE EAST I",
+    "local_government_id": "184",
+    "local_government_name": "OGOJA",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.593820999999999,
+      "longitude": 8.957657099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.6431288,
+          "lng": 8.9981708
+        },
+        "southwest": {
+          "lat": 6.5266844,
+          "lng": 8.9234201
+        }
+      },
+      "formatted_address": "Mbube East I, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.593820999999999,8.957657099999999",
+      "google_place_id": "ChIJX_UO5CzpWxARWFJz0iiVaUw"
+    }
+  },
+  {
+    "id": "38709",
+    "name": "ST. PETER'S PRIMARY SCHOOL, OJERIM II",
+    "registration_area_id": "2132",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "09/16/03/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2132",
+    "ward_name": "MBUBE EAST I",
+    "local_government_id": "184",
+    "local_government_name": "OGOJA",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.593820999999999,
+      "longitude": 8.957657099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.6431288,
+          "lng": 8.9981708
+        },
+        "southwest": {
+          "lat": 6.5266844,
+          "lng": 8.9234201
+        }
+      },
+      "formatted_address": "Mbube East I, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.593820999999999,8.957657099999999",
+      "google_place_id": "ChIJX_UO5CzpWxARWFJz0iiVaUw"
+    }
+  },
+  {
+    "id": "38710",
+    "name": "PLAYGROUND, OJERIM EREH",
+    "registration_area_id": "2132",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "09/16/03/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2132",
+    "ward_name": "MBUBE EAST I",
+    "local_government_id": "184",
+    "local_government_name": "OGOJA",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "38711",
+    "name": "ST. FRANCIS PRIMARY SCHOOL, OGANG-OGBERIA",
+    "registration_area_id": "2132",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "09/16/03/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2132",
+    "ward_name": "MBUBE EAST I",
+    "local_government_id": "184",
+    "local_government_name": "OGOJA",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "38712",
+    "name": "PLAY GROUND, IGUNG-OJERIM",
+    "registration_area_id": "2132",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "09/16/03/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2132",
+    "ward_name": "MBUBE EAST I",
+    "local_government_id": "184",
+    "local_government_name": "OGOJA",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "38713",
+    "name": "ST LEONARD, P/S OGBERIA OGANG",
+    "registration_area_id": "2132",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "09/16/03/011",
+    "remark": "NEW PU",
+    "ward_id": "2132",
+    "ward_name": "MBUBE EAST I",
+    "local_government_id": "184",
+    "local_government_name": "OGOJA",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "38714",
+    "name": "OGBERIA-OCHORO P/G ABUEKPO",
+    "registration_area_id": "2132",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "09/16/03/012",
+    "remark": "NEW PU",
+    "ward_id": "2132",
+    "ward_name": "MBUBE EAST I",
+    "local_government_id": "184",
+    "local_government_name": "OGOJA",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "38715",
+    "name": "FOUR CORNER OJERIM",
+    "registration_area_id": "2132",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "09/16/03/013",
+    "remark": "NEW PU",
+    "ward_id": "2132",
+    "ward_name": "MBUBE EAST I",
+    "local_government_id": "184",
+    "local_government_name": "OGOJA",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.9611816,
+      "longitude": 8.7088909,
+      "viewport": {
+        "northeast": {
+          "lat": 5.965763,
+          "lng": 8.714963100000002
+        },
+        "southwest": {
+          "lat": 5.954089,
+          "lng": 8.705010999999999
+        }
+      },
+      "formatted_address": "562261, Four Corners, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9611816,8.7088909",
+      "google_place_id": "ChIJGdNGj1NCXBAR4EGsNienjv4"
+    }
+  }
+]

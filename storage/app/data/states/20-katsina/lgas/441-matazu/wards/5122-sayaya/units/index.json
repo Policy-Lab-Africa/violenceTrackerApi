@@ -1,0 +1,600 @@
+[
+  {
+    "id": "100739",
+    "name": "SAYAYA GARI - S. PRI.SCHOOL",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/28/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9686723,
+      "longitude": 7.628180199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97003862989272,
+          "lng": 7.629634579892722
+        },
+        "southwest": {
+          "lat": 12.96733897010728,
+          "lng": 7.626934920107278
+        }
+      },
+      "formatted_address": "XJ9H+F69, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9686723,7.628180199999999",
+      "google_place_id": "ChIJgc6qgjYlsBERxyw1-8S4Jgg"
+    }
+  },
+  {
+    "id": "100740",
+    "name": "SAURA - NEAR M.UNG",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/28/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100741",
+    "name": "RADDAWA - RADDAWA PRI.SCHOOL",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/28/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.3376804,
+      "longitude": 7.584125599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.33901662989272,
+          "lng": 7.585395529892723
+        },
+        "southwest": {
+          "lat": 12.33631697010728,
+          "lng": 7.582695870107279
+        }
+      },
+      "formatted_address": "8HQM+3MF, 833102, Zango, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3376804,7.584125599999999",
+      "google_place_id": "ChIJr7rDApzCsRER__WqJVOhMKc"
+    }
+  },
+  {
+    "id": "100742",
+    "name": "KOGON MAIDAWA - PRI.SCHOOL",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/28/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.3093962,
+      "longitude": 7.667935599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.31071457989272,
+          "lng": 7.669342229892722
+        },
+        "southwest": {
+          "lat": 12.30801492010728,
+          "lng": 7.666642570107278
+        }
+      },
+      "formatted_address": "8M59+Q63, 833102, Karaduwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3093962,7.667935599999999",
+      "google_place_id": "ChIJveXzG23nsRERLmN41gKHoGI"
+    }
+  },
+  {
+    "id": "100743",
+    "name": "SHEBAU - M/UNG HOUSE",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/28/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100744",
+    "name": "KARACHI - M/UNG HOUSE",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/28/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100745",
+    "name": "RIMIGARI - M/UNG HOUSE",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/28/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100746",
+    "name": "BAKANE - BAKANE PRI.SCHOOL",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/28/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.1998907,
+      "longitude": 7.6597298,
+      "viewport": {
+        "northeast": {
+          "lat": 12.20122122989272,
+          "lng": 7.661094829892721
+        },
+        "southwest": {
+          "lat": 12.19852157010728,
+          "lng": 7.658395170107277
+        }
+      },
+      "formatted_address": "5MX5+WV8, 833102, Disi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1998907,7.6597298",
+      "google_place_id": "ChIJIz-cB1TksRERKFirlDwyK0E"
+    }
+  },
+  {
+    "id": "100747",
+    "name": "ZAKIN BAURE - M/UNG HOUSE",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/28/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100748",
+    "name": "BAURAJI 'A' - WARD HEAD HOUSE",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/28/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.306663,
+      "longitude": 7.590978,
+      "viewport": {
+        "northeast": {
+          "lat": 12.30801282989272,
+          "lng": 7.592327829892722
+        },
+        "southwest": {
+          "lat": 12.30531317010728,
+          "lng": 7.589628170107278
+        }
+      },
+      "formatted_address": "8H4R+M99, 833102, Sayaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.306663,7.590978",
+      "google_place_id": "ChIJ83FaYGrosRERAcfudp3sRPc"
+    }
+  },
+  {
+    "id": "100749",
+    "name": "TUGA - TUGA PRI.SCHOOL",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/28/05/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.0674878,
+      "longitude": 8.242215999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.06902282989272,
+          "lng": 8.243785029892722
+        },
+        "southwest": {
+          "lat": 12.06632317010728,
+          "lng": 8.241085370107278
+        }
+      },
+      "formatted_address": "7F4C369R+2V3, Tuga, 701104, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0674878,8.242215999999999",
+      "google_place_id": "ChIJ4al2OmtxrhERAsx1yVzXm_M"
+    }
+  },
+  {
+    "id": "100750",
+    "name": "FARIN TAFKI - PRI.SCHOOL",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "20/28/05/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.3301836,
+      "longitude": 7.648283900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.33161992989272,
+          "lng": 7.649588379892722
+        },
+        "southwest": {
+          "lat": 12.32892027010728,
+          "lng": 7.646888720107278
+        }
+      },
+      "formatted_address": "Farin Tafki Primary School, 833102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3301836,7.648283900000001",
+      "google_place_id": "ChIJ7RD4XIfnsREROi71WK9Kauk"
+    }
+  },
+  {
+    "id": "100751",
+    "name": "KAGARA WAJE - G/GWARZO PRI.SCHOOL",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "20/28/05/013",
+    "remark": "EXISTING PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.4565999,
+      "longitude": 7.532712900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45814605,
+          "lng": 7.533649549999998
+        },
+        "southwest": {
+          "lat": 12.45196145,
+          "lng": 7.529902949999999
+        }
+      },
+      "formatted_address": "FG4M+J3P, 821101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4565999,7.532712900000001",
+      "google_place_id": "ChIJW8VIqiXEsRERTDFHxDRlgmQ"
+    }
+  },
+  {
+    "id": "100752",
+    "name": "MAHARBA - PRI.SCHOOL",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "20/28/05/014",
+    "remark": "EXISTING PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.967111,
+      "longitude": 7.650070099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96848242989272,
+          "lng": 7.651439629892723
+        },
+        "southwest": {
+          "lat": 12.96578277010728,
+          "lng": 7.648739970107279
+        }
+      },
+      "formatted_address": "behind NYSC Camp, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.967111,7.650070099999999",
+      "google_place_id": "ChIJa7VRDyMlsBER0UFiENvlRvg"
+    }
+  },
+  {
+    "id": "100753",
+    "name": "UNG KABA - WARD H. HOUSE",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "20/28/05/015",
+    "remark": "EXISTING PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100754",
+    "name": "GANGULE - OPEN SPACE",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "20/28/05/016",
+    "remark": "EXISTING PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.2363249,
+      "longitude": 7.6738023,
+      "viewport": {
+        "northeast": {
+          "lat": 12.23767612989272,
+          "lng": 7.675156729892722
+        },
+        "southwest": {
+          "lat": 12.23497647010728,
+          "lng": 7.672457070107278
+        }
+      },
+      "formatted_address": "Bakin Tsohowar Kasuwa Matazu, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2363249,7.6738023",
+      "google_place_id": "ChIJ-8S-RjPlsRERwjl1qEyENQI"
+    }
+  },
+  {
+    "id": "100755",
+    "name": "KAGARA GARI - WARD HEAD HOUSE",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "20/28/05/017",
+    "remark": "EXISTING PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100756",
+    "name": "BAURAJI 'A' WARD HEAD HOUSE",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "20/28/05/018",
+    "remark": "EXISTING PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.306663,
+      "longitude": 7.590978,
+      "viewport": {
+        "northeast": {
+          "lat": 12.30801282989272,
+          "lng": 7.592327829892722
+        },
+        "southwest": {
+          "lat": 12.30531317010728,
+          "lng": 7.589628170107278
+        }
+      },
+      "formatted_address": "8H4R+M99, 833102, Sayaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.306663,7.590978",
+      "google_place_id": "ChIJ83FaYGrosRERAcfudp3sRPc"
+    }
+  },
+  {
+    "id": "100757",
+    "name": "UNG. KOLE / UNG. KOLE",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "20/28/05/019",
+    "remark": "EXISTING PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100758",
+    "name": "SAYAYA",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "20/28/05/020",
+    "remark": "NEW PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.30849,
+      "longitude": 7.633112999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.3666457,
+          "lng": 7.6811091
+        },
+        "southwest": {
+          "lat": 12.2379734,
+          "lng": 7.515726
+        }
+      },
+      "formatted_address": "Sayaya, 833102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.30849,7.633112999999999",
+      "google_place_id": "ChIJ07N6XW7osRERhqCKJUW6kJc"
+    }
+  },
+  {
+    "id": "100759",
+    "name": "RADDAWA",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "20/28/05/021",
+    "remark": "NEW PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.3394,
+      "longitude": 7.585299999999998,
+      "viewport": {
+        "northeast": {
+          "lat": 12.34081877989272,
+          "lng": 7.58659782989272
+        },
+        "southwest": {
+          "lat": 12.33811912010728,
+          "lng": 7.583898170107276
+        }
+      },
+      "formatted_address": "8HQP+Q43, 833102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3394,7.585299999999998",
+      "google_place_id": "ChIJX5nnQ5nCsRERtl0SgQA-VYs"
+    }
+  },
+  {
+    "id": "100760",
+    "name": "TSOHOWAR  ASIBITI  NUR",
+    "registration_area_id": "5122",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "20/28/05/022",
+    "remark": "NEW PU",
+    "ward_id": "5122",
+    "ward_name": "SAYAYA",
+    "local_government_id": "441",
+    "local_government_name": "MATAZU",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.2363249,
+      "longitude": 7.6738023,
+      "viewport": {
+        "northeast": {
+          "lat": 12.23767612989272,
+          "lng": 7.675156729892722
+        },
+        "southwest": {
+          "lat": 12.23497647010728,
+          "lng": 7.672457070107278
+        }
+      },
+      "formatted_address": "Bakin Tsohowar Kasuwa Matazu, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2363249,7.6738023",
+      "google_place_id": "ChIJ-8S-RjPlsRERwjl1qEyENQI"
+    }
+  }
+]

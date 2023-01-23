@@ -1,0 +1,634 @@
+[
+  {
+    "id": "47743",
+    "name": "UKPESHI PRIMARY  SCHOOL NDULO",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "11/12/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.283297000000001,
+      "longitude": 8.08488,
+      "viewport": {
+        "northeast": {
+          "lat": 6.284789479892723,
+          "lng": 8.086323229892722
+        },
+        "southwest": {
+          "lat": 6.282089820107279,
+          "lng": 8.083623570107278
+        }
+      },
+      "formatted_address": "73MM+8X6, 480107, Ugbuloke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.283297000000001,8.08488",
+      "google_place_id": "ChIJcQrVYguhXBARCoa0mEUndcI"
+    }
+  },
+  {
+    "id": "47744",
+    "name": "CENTRAL SCHOOL NDIAGU UDU",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "11/12/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.4618772,
+      "longitude": 7.959609799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.463431229892723,
+          "lng": 7.960747129892723
+        },
+        "southwest": {
+          "lat": 6.460731570107279,
+          "lng": 7.958047470107279
+        }
+      },
+      "formatted_address": "FX65+QR5, Okposhi I 481110, Ngbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4618772,7.959609799999999",
+      "google_place_id": "ChIJO5dj43daWxARbiko_l0bwg8"
+    }
+  },
+  {
+    "id": "47745",
+    "name": "CENTRAL SCHOOL OKOROGBATA HALL I",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "11/12/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.4618772,
+      "longitude": 7.959609799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.463431229892723,
+          "lng": 7.960747129892723
+        },
+        "southwest": {
+          "lat": 6.460731570107279,
+          "lng": 7.958047470107279
+        }
+      },
+      "formatted_address": "FX65+QR5, Okposhi I 481110, Ngbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4618772,7.959609799999999",
+      "google_place_id": "ChIJO5dj43daWxARbiko_l0bwg8"
+    }
+  },
+  {
+    "id": "47746",
+    "name": "CENTRAL SCHOOL OKOROGBATA HALL II",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "11/12/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.4618772,
+      "longitude": 7.959609799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.463431229892723,
+          "lng": 7.960747129892723
+        },
+        "southwest": {
+          "lat": 6.460731570107279,
+          "lng": 7.958047470107279
+        }
+      },
+      "formatted_address": "FX65+QR5, Okposhi I 481110, Ngbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4618772,7.959609799999999",
+      "google_place_id": "ChIJO5dj43daWxARbiko_l0bwg8"
+    }
+  },
+  {
+    "id": "47747",
+    "name": "COMM. PRIMARY SCHOOL EGWEGWE HALL I",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "11/12/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.4021793,
+      "longitude": 7.935029399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.403519879892722,
+          "lng": 7.936323829892722
+        },
+        "southwest": {
+          "lat": 6.400820220107278,
+          "lng": 7.933624170107278
+        }
+      },
+      "formatted_address": "CW2P+V2C, 481101, Ezamgbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4021793,7.935029399999999",
+      "google_place_id": "ChIJ_bmLoZ1XWxARwgHLTUjJNDc"
+    }
+  },
+  {
+    "id": "47748",
+    "name": "COMM. PRIMARY SCHOOL EGWEGWE HALL II",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "11/12/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.4021793,
+      "longitude": 7.935029399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.403519879892722,
+          "lng": 7.936323829892722
+        },
+        "southwest": {
+          "lat": 6.400820220107278,
+          "lng": 7.933624170107278
+        }
+      },
+      "formatted_address": "CW2P+V2C, 481101, Ezamgbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4021793,7.935029399999999",
+      "google_place_id": "ChIJ_bmLoZ1XWxARwgHLTUjJNDc"
+    }
+  },
+  {
+    "id": "47749",
+    "name": "OSHIA NGBO CENTRAL SCHOOL HALL I",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "11/12/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.4903545,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 6.530772799999999,
+          "lng": 7.950233000000001
+        },
+        "southwest": {
+          "lat": 6.4515939,
+          "lng": 7.8305186
+        }
+      },
+      "formatted_address": "Umu Ogudu Oshia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4903545,7.8776023",
+      "google_place_id": "ChIJKUCDOZRRWxAR_AvvPqi_G7s"
+    }
+  },
+  {
+    "id": "47750",
+    "name": "OSHIA NGBO CENTRAL SCHOOL HALL II",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "11/12/10/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.4903545,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 6.530772799999999,
+          "lng": 7.950233000000001
+        },
+        "southwest": {
+          "lat": 6.4515939,
+          "lng": 7.8305186
+        }
+      },
+      "formatted_address": "Umu Ogudu Oshia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4903545,7.8776023",
+      "google_place_id": "ChIJKUCDOZRRWxAR_AvvPqi_G7s"
+    }
+  },
+  {
+    "id": "47751",
+    "name": "OGUM NGBO COMM. PRIMARY SCHOOL HALL I",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "11/12/10/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": null
+  },
+  {
+    "id": "47752",
+    "name": "OGUM NGBO COMM. PRIMARY SCHOOL HALL II",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "11/12/10/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": null
+  },
+  {
+    "id": "47753",
+    "name": "ABARIGWE PRI. SCHOOL",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "11/12/10/011",
+    "remark": "EXISTING PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.486992499999999,
+      "longitude": 8.1097538,
+      "viewport": {
+        "northeast": {
+          "lat": 6.488351579892722,
+          "lng": 8.11110282989272
+        },
+        "southwest": {
+          "lat": 6.485651920107278,
+          "lng": 8.108403170107277
+        }
+      },
+      "formatted_address": "F4P5+QWR, Unnamed Road, 480102, Ndiochigbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.486992499999999,8.1097538",
+      "google_place_id": "ChIJpSJPoyNdWxARXAhc5kHh7Go"
+    }
+  },
+  {
+    "id": "47754",
+    "name": "OGENE PLAY GROUND",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "11/12/10/012",
+    "remark": "EXISTING PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": null
+  },
+  {
+    "id": "47755",
+    "name": "OBODO UMUINYI PLAY GROUND",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "11/12/10/013",
+    "remark": "EXISTING PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": null
+  },
+  {
+    "id": "47756",
+    "name": "OGWUDUANNO PLAY GROUND",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "11/12/10/014",
+    "remark": "EXISTING PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": null
+  },
+  {
+    "id": "47757",
+    "name": "EKWEBURU P/G",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "11/12/10/015",
+    "remark": "NEW PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.3859518,
+      "longitude": 8.011411200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.387303479892722,
+          "lng": 8.012755779892721
+        },
+        "southwest": {
+          "lat": 6.384603820107278,
+          "lng": 8.010056120107278
+        }
+      },
+      "formatted_address": "ISHIEKE MARKET EBONYI LOCAL GOVERNMENT, 480211, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3859518,8.011411200000001",
+      "google_place_id": "ChIJd-p4M06gXBARo8AaQiTDqSI"
+    }
+  },
+  {
+    "id": "47758",
+    "name": "OBODO EZE HALL",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "11/12/10/016",
+    "remark": "NEW PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.3859518,
+      "longitude": 8.011411200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.387303479892722,
+          "lng": 8.012755779892721
+        },
+        "southwest": {
+          "lat": 6.384603820107278,
+          "lng": 8.010056120107278
+        }
+      },
+      "formatted_address": "ISHIEKE MARKET EBONYI LOCAL GOVERNMENT, 480211, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3859518,8.011411200000001",
+      "google_place_id": "ChIJd-p4M06gXBARo8AaQiTDqSI"
+    }
+  },
+  {
+    "id": "47759",
+    "name": "NDIAGU AKPARATA P/G",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "11/12/10/017",
+    "remark": "NEW PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": null
+  },
+  {
+    "id": "47760",
+    "name": "URONGBANYI MKT SQUARE",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "11/12/10/018",
+    "remark": "NEW PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": null
+  },
+  {
+    "id": "47761",
+    "name": "NDIAGU-UDUOME P/G",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "11/12/10/019",
+    "remark": "NEW PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.3859518,
+      "longitude": 8.011411200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.387303479892722,
+          "lng": 8.012755779892721
+        },
+        "southwest": {
+          "lat": 6.384603820107278,
+          "lng": 8.010056120107278
+        }
+      },
+      "formatted_address": "ISHIEKE MARKET EBONYI LOCAL GOVERNMENT, 480211, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3859518,8.011411200000001",
+      "google_place_id": "ChIJd-p4M06gXBARo8AaQiTDqSI"
+    }
+  },
+  {
+    "id": "47762",
+    "name": "UNITY PRI. SCH. NDIEGU-ESI AKPUENYI",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "11/12/10/020",
+    "remark": "NEW PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.3498196,
+      "longitude": 8.061302,
+      "viewport": {
+        "northeast": {
+          "lat": 6.351156779892722,
+          "lng": 8.062664979892721
+        },
+        "southwest": {
+          "lat": 6.348457120107278,
+          "lng": 8.059965320107278
+        }
+      },
+      "formatted_address": "83X6+WGF, 482118, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3498196,8.061302",
+      "google_place_id": "ChIJi23a-ZNfWxARoAaTvolAPN4"
+    }
+  },
+  {
+    "id": "47763",
+    "name": "UNITY PRI. SCH. UMULAKA",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "11/12/10/021",
+    "remark": "NEW PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.3498196,
+      "longitude": 8.061302,
+      "viewport": {
+        "northeast": {
+          "lat": 6.351156779892722,
+          "lng": 8.062664979892721
+        },
+        "southwest": {
+          "lat": 6.348457120107278,
+          "lng": 8.059965320107278
+        }
+      },
+      "formatted_address": "83X6+WGF, 482118, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3498196,8.061302",
+      "google_place_id": "ChIJi23a-ZNfWxARoAaTvolAPN4"
+    }
+  },
+  {
+    "id": "47764",
+    "name": "ORIJIRIAFOR P/G",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "11/12/10/022",
+    "remark": "NEW PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": null
+  },
+  {
+    "id": "47765",
+    "name": "NDIEGU ONYIRO P/G",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "11/12/10/023",
+    "remark": "NEW PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": null
+  },
+  {
+    "id": "47766",
+    "name": "OSEGE PLAY GROUND",
+    "registration_area_id": "2588",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "11/12/10/024",
+    "remark": "NEW PU",
+    "ward_id": "2588",
+    "ward_name": "UMU OGUDU OSHIA",
+    "local_government_id": "223",
+    "local_government_name": "OHAUKWU",
+    "state_id": "11",
+    "state_name": "EBONYI",
+    "location": null
+  }
+]

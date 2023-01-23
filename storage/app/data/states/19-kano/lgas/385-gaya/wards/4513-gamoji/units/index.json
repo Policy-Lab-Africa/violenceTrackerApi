@@ -1,0 +1,300 @@
+[
+  {
+    "id": "87741",
+    "name": "GAMOJI CIKIN GARI I",
+    "registration_area_id": "4513",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/16/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4513",
+    "ward_name": "GAMOJI",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8473171,
+      "longitude": 9.1781116,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84859102989272,
+          "lng": 9.17947042989272
+        },
+        "southwest": {
+          "lat": 11.84589137010728,
+          "lng": 9.176770770107277
+        }
+      },
+      "formatted_address": "R5WH+W6H, 713102, Maimakawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8473171,9.1781116",
+      "google_place_id": "ChIJ5YSQT7sArBEReryiunS9o-M"
+    }
+  },
+  {
+    "id": "87742",
+    "name": "GAMOJI CIKINGARI II",
+    "registration_area_id": "4513",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/16/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4513",
+    "ward_name": "GAMOJI",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8473171,
+      "longitude": 9.1781116,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84859102989272,
+          "lng": 9.17947042989272
+        },
+        "southwest": {
+          "lat": 11.84589137010728,
+          "lng": 9.176770770107277
+        }
+      },
+      "formatted_address": "R5WH+W6H, 713102, Maimakawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8473171,9.1781116",
+      "google_place_id": "ChIJ5YSQT7sArBEReryiunS9o-M"
+    }
+  },
+  {
+    "id": "87743",
+    "name": "JAHUNAWA",
+    "registration_area_id": "4513",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/16/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4513",
+    "ward_name": "GAMOJI",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8735855,
+      "longitude": 9.207196699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.87495137989272,
+          "lng": 9.208578879892723
+        },
+        "southwest": {
+          "lat": 11.87225172010728,
+          "lng": 9.20587922010728
+        }
+      },
+      "formatted_address": "7F3FV6F4+CVP Jahunawa Gamoji, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8735855,9.207196699999999",
+      "google_place_id": "ChIJlawVdVv_qxERXVK2XFTYQnw"
+    }
+  },
+  {
+    "id": "87744",
+    "name": "JAMA'AR GAMJI I",
+    "registration_area_id": "4513",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/16/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4513",
+    "ward_name": "GAMOJI",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "87745",
+    "name": "JAMA'AR GAMJI II",
+    "registration_area_id": "4513",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/16/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4513",
+    "ward_name": "GAMOJI",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "87746",
+    "name": "KAGADAMA",
+    "registration_area_id": "4513",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/16/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4513",
+    "ward_name": "GAMOJI",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.831057,
+      "longitude": 9.174124299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83239997989272,
+          "lng": 9.17547447989272
+        },
+        "southwest": {
+          "lat": 11.82970032010728,
+          "lng": 9.172774820107277
+        }
+      },
+      "formatted_address": "7F3FR5JF+CJH, Kagadama, 713102, Maimakawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.831057,9.174124299999999",
+      "google_place_id": "ChIJk1jaXbUHrBERs1-8BUC8Gc4"
+    }
+  },
+  {
+    "id": "87747",
+    "name": "KWARSA/LARAN/KWARI",
+    "registration_area_id": "4513",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/16/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4513",
+    "ward_name": "GAMOJI",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0063268,
+      "longitude": 8.5355733,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00766897989272,
+          "lng": 8.536931429892721
+        },
+        "southwest": {
+          "lat": 12.00496932010728,
+          "lng": 8.534231770107278
+        }
+      },
+      "formatted_address": "24 E Bello Rd, Fagge 700222, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0063268,8.5355733",
+      "google_place_id": "ChIJ8fP_8O-ArhERVUp1V0JJWbE"
+    }
+  },
+  {
+    "id": "87748",
+    "name": "SABARU",
+    "registration_area_id": "4513",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/16/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4513",
+    "ward_name": "GAMOJI",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.83729,
+      "longitude": 9.1652924,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83866772989272,
+          "lng": 9.16670177989272
+        },
+        "southwest": {
+          "lat": 11.83596807010728,
+          "lng": 9.164002120107277
+        }
+      },
+      "formatted_address": "7F3FR5P8+W47 Sabaru Gamoji, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.83729,9.1652924",
+      "google_place_id": "ChIJNzYgKsoArBER7JmhzZGmpQc"
+    }
+  },
+  {
+    "id": "87749",
+    "name": "GAMOJI CIKIN GARI",
+    "registration_area_id": "4513",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/16/05/009",
+    "remark": "NEW PU",
+    "ward_id": "4513",
+    "ward_name": "GAMOJI",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8473171,
+      "longitude": 9.1781116,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84859102989272,
+          "lng": 9.17947042989272
+        },
+        "southwest": {
+          "lat": 11.84589137010728,
+          "lng": 9.176770770107277
+        }
+      },
+      "formatted_address": "R5WH+W6H, 713102, Maimakawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8473171,9.1781116",
+      "google_place_id": "ChIJ5YSQT7sArBEReryiunS9o-M"
+    }
+  },
+  {
+    "id": "87750",
+    "name": "GAMOJI CIKIN GARI II",
+    "registration_area_id": "4513",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "19/16/05/010",
+    "remark": "NEW PU",
+    "ward_id": "4513",
+    "ward_name": "GAMOJI",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8473171,
+      "longitude": 9.1781116,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84859102989272,
+          "lng": 9.17947042989272
+        },
+        "southwest": {
+          "lat": 11.84589137010728,
+          "lng": 9.176770770107277
+        }
+      },
+      "formatted_address": "R5WH+W6H, 713102, Maimakawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8473171,9.1781116",
+      "google_place_id": "ChIJ5YSQT7sArBEReryiunS9o-M"
+    }
+  }
+]

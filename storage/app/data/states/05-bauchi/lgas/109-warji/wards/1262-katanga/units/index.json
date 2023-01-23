@@ -1,0 +1,483 @@
+[
+  {
+    "id": "23275",
+    "name": "KORIYA, KOFAR MAI UNGUWA KORIYA",
+    "registration_area_id": "1262",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "05/19/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1262",
+    "ward_name": "KATANGA",
+    "local_government_id": "109",
+    "local_government_name": "WARJI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23276",
+    "name": "KATANGA  I,  DISTRICT HEAD OFFICE",
+    "registration_area_id": "1262",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "05/19/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1262",
+    "ward_name": "KATANGA",
+    "local_government_id": "109",
+    "local_government_name": "WARJI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.1770613,
+      "longitude": 9.7734455,
+      "viewport": {
+        "northeast": {
+          "lat": 11.1941624,
+          "lng": 9.803838899999999
+        },
+        "southwest": {
+          "lat": 11.1616117,
+          "lng": 9.7469194
+        }
+      },
+      "formatted_address": "Katanga, 742103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1770613,9.7734455",
+      "google_place_id": "ChIJ6z0Bb3wHqxER9X3wfcd17c8"
+    }
+  },
+  {
+    "id": "23277",
+    "name": "KATANGA   II,  DISTRICT HEAD OFFICE",
+    "registration_area_id": "1262",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "05/19/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1262",
+    "ward_name": "KATANGA",
+    "local_government_id": "109",
+    "local_government_name": "WARJI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.1770613,
+      "longitude": 9.7734455,
+      "viewport": {
+        "northeast": {
+          "lat": 11.1941624,
+          "lng": 9.803838899999999
+        },
+        "southwest": {
+          "lat": 11.1616117,
+          "lng": 9.7469194
+        }
+      },
+      "formatted_address": "Katanga, 742103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1770613,9.7734455",
+      "google_place_id": "ChIJ6z0Bb3wHqxER9X3wfcd17c8"
+    }
+  },
+  {
+    "id": "23278",
+    "name": "KATANGA   III,  DISTRICT HEAD OFFICE",
+    "registration_area_id": "1262",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "05/19/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1262",
+    "ward_name": "KATANGA",
+    "local_government_id": "109",
+    "local_government_name": "WARJI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.1770613,
+      "longitude": 9.7734455,
+      "viewport": {
+        "northeast": {
+          "lat": 11.1941624,
+          "lng": 9.803838899999999
+        },
+        "southwest": {
+          "lat": 11.1616117,
+          "lng": 9.7469194
+        }
+      },
+      "formatted_address": "Katanga, 742103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1770613,9.7734455",
+      "google_place_id": "ChIJ6z0Bb3wHqxER9X3wfcd17c8"
+    }
+  },
+  {
+    "id": "23279",
+    "name": "DANINA,  PRIMARY SCHOOL",
+    "registration_area_id": "1262",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "05/19/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1262",
+    "ward_name": "KATANGA",
+    "local_government_id": "109",
+    "local_government_name": "WARJI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.1868367,
+      "longitude": 9.7518158,
+      "viewport": {
+        "northeast": {
+          "lat": 11.18824257989272,
+          "lng": 9.75312572989272
+        },
+        "southwest": {
+          "lat": 11.18554292010728,
+          "lng": 9.750426070107276
+        }
+      },
+      "formatted_address": "5QP2+PPP, 742103, Warji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1868367,9.7518158",
+      "google_place_id": "ChIJYbNd0CaoqxERCQM8GL_6olM"
+    }
+  },
+  {
+    "id": "23280",
+    "name": "LAFIYA,   KOFAR MAI UNGUWA",
+    "registration_area_id": "1262",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "05/19/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1262",
+    "ward_name": "KATANGA",
+    "local_government_id": "109",
+    "local_government_name": "WARJI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23281",
+    "name": "JAGWADIN,   KOFAR MAI UNGUWA",
+    "registration_area_id": "1262",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "05/19/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1262",
+    "ward_name": "KATANGA",
+    "local_government_id": "109",
+    "local_government_name": "WARJI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23282",
+    "name": "TUDUN ALHERI,  TUDUN ALHERI PRIMARY SCHOOL",
+    "registration_area_id": "1262",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "05/19/06/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1262",
+    "ward_name": "KATANGA",
+    "local_government_id": "109",
+    "local_government_name": "WARJI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.1727544,
+      "longitude": 9.7494165,
+      "viewport": {
+        "northeast": {
+          "lat": 11.17401952989272,
+          "lng": 9.750933479892723
+        },
+        "southwest": {
+          "lat": 11.17131987010728,
+          "lng": 9.748233820107279
+        }
+      },
+      "formatted_address": "5PFX+4Q3, 742103, Warji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1727544,9.7494165",
+      "google_place_id": "ChIJm1aijo0HqxERWbdjcHranng"
+    }
+  },
+  {
+    "id": "23283",
+    "name": "UNG. GAGARE, L.E.A. OFFICE",
+    "registration_area_id": "1262",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "05/19/06/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1262",
+    "ward_name": "KATANGA",
+    "local_government_id": "109",
+    "local_government_name": "WARJI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.705439,
+      "longitude": 9.4687439,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70638422989272,
+          "lng": 9.470196879892722
+        },
+        "southwest": {
+          "lat": 11.70368457010728,
+          "lng": 9.467497220107278
+        }
+      },
+      "formatted_address": "PF49+5FH, 720102, Katanga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.705439,9.4687439",
+      "google_place_id": "ChIJyy43Z4PpqxERfvPFYAzkbbs"
+    }
+  },
+  {
+    "id": "23284",
+    "name": "KORIYA",
+    "registration_area_id": "1262",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "05/19/06/010",
+    "remark": "NEW PU",
+    "ward_id": "1262",
+    "ward_name": "KATANGA",
+    "local_government_id": "109",
+    "local_government_name": "WARJI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.705439,
+      "longitude": 9.4687439,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70638422989272,
+          "lng": 9.470196879892722
+        },
+        "southwest": {
+          "lat": 11.70368457010728,
+          "lng": 9.467497220107278
+        }
+      },
+      "formatted_address": "PF49+5FH, 720102, Katanga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.705439,9.4687439",
+      "google_place_id": "ChIJyy43Z4PpqxERfvPFYAzkbbs"
+    }
+  },
+  {
+    "id": "23285",
+    "name": "NEW DISTRICT HEAD OFFCE",
+    "registration_area_id": "1262",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "05/19/06/011",
+    "remark": "NEW PU",
+    "ward_id": "1262",
+    "ward_name": "KATANGA",
+    "local_government_id": "109",
+    "local_government_name": "WARJI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3189857,
+      "longitude": 9.8188011,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32029607989272,
+          "lng": 9.819901779892724
+        },
+        "southwest": {
+          "lat": 10.31759642010728,
+          "lng": 9.81720212010728
+        }
+      },
+      "formatted_address": "8R99+HGV, Rev. Jolly Nyame Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3189857,9.8188011",
+      "google_place_id": "ChIJP5LrTwvXVBARpDyDjp4NWAU"
+    }
+  },
+  {
+    "id": "23286",
+    "name": "UNG. MUKADDAS",
+    "registration_area_id": "1262",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "05/19/06/012",
+    "remark": "NEW PU",
+    "ward_id": "1262",
+    "ward_name": "KATANGA",
+    "local_government_id": "109",
+    "local_government_name": "WARJI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.705439,
+      "longitude": 9.4687439,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70638422989272,
+          "lng": 9.470196879892722
+        },
+        "southwest": {
+          "lat": 11.70368457010728,
+          "lng": 9.467497220107278
+        }
+      },
+      "formatted_address": "PF49+5FH, 720102, Katanga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.705439,9.4687439",
+      "google_place_id": "ChIJyy43Z4PpqxERfvPFYAzkbbs"
+    }
+  },
+  {
+    "id": "23287",
+    "name": "NEW DISTRICT HEAD OFFCE",
+    "registration_area_id": "1262",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "05/19/06/013",
+    "remark": "NEW PU",
+    "ward_id": "1262",
+    "ward_name": "KATANGA",
+    "local_government_id": "109",
+    "local_government_name": "WARJI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3189857,
+      "longitude": 9.8188011,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32029607989272,
+          "lng": 9.819901779892724
+        },
+        "southwest": {
+          "lat": 10.31759642010728,
+          "lng": 9.81720212010728
+        }
+      },
+      "formatted_address": "8R99+HGV, Rev. Jolly Nyame Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3189857,9.8188011",
+      "google_place_id": "ChIJP5LrTwvXVBARpDyDjp4NWAU"
+    }
+  },
+  {
+    "id": "23288",
+    "name": "DISTRICT HEAD OFFICE DISPENSARY",
+    "registration_area_id": "1262",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "05/19/06/014",
+    "remark": "NEW PU",
+    "ward_id": "1262",
+    "ward_name": "KATANGA",
+    "local_government_id": "109",
+    "local_government_name": "WARJI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.1824999,
+      "longitude": 9.7601,
+      "viewport": {
+        "northeast": {
+          "lat": 11.18381932989272,
+          "lng": 9.761416079892722
+        },
+        "southwest": {
+          "lat": 11.18111967010728,
+          "lng": 9.758716420107278
+        }
+      },
+      "formatted_address": "5QJ6+X2X, 742103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1824999,9.7601",
+      "google_place_id": "ChIJtcfreocHqxERbObQAKyYgHE"
+    }
+  },
+  {
+    "id": "23289",
+    "name": "DANINA PRIMARY HEALTH CENTER",
+    "registration_area_id": "1262",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "05/19/06/015",
+    "remark": "NEW PU",
+    "ward_id": "1262",
+    "ward_name": "KATANGA",
+    "local_government_id": "109",
+    "local_government_name": "WARJI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.6867472,
+      "longitude": 9.7560965,
+      "viewport": {
+        "northeast": {
+          "lat": 10.68809572989272,
+          "lng": 9.75764127989272
+        },
+        "southwest": {
+          "lat": 10.68539607010728,
+          "lng": 9.754941620107276
+        }
+      },
+      "formatted_address": "MQP4+MCX, 740111, Kafin Madaki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6867472,9.7560965",
+      "google_place_id": "ChIJHwJWybwlqxERH4Zj6HMVgJw"
+    }
+  },
+  {
+    "id": "23290",
+    "name": "TUDUN ALHERI GINDIN BAURE",
+    "registration_area_id": "1262",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "05/19/06/016",
+    "remark": "NEW PU",
+    "ward_id": "1262",
+    "ward_name": "KATANGA",
+    "local_government_id": "109",
+    "local_government_name": "WARJI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23291",
+    "name": "TUDUN ALHERI GINDIN KANYA",
+    "registration_area_id": "1262",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "05/19/06/017",
+    "remark": "NEW PU",
+    "ward_id": "1262",
+    "ward_name": "KATANGA",
+    "local_government_id": "109",
+    "local_government_name": "WARJI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  }
+]

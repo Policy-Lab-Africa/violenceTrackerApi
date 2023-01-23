@@ -1,0 +1,385 @@
+[
+  {
+    "id": "89550",
+    "name": "ALFAWA",
+    "registration_area_id": "4573",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/22/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4573",
+    "ward_name": "DAURA",
+    "local_government_id": "391",
+    "local_government_name": "KARAYE",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "89551",
+    "name": "BAUNI",
+    "registration_area_id": "4573",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/22/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4573",
+    "ward_name": "DAURA",
+    "local_government_id": "391",
+    "local_government_name": "KARAYE",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "89552",
+    "name": "DAURA I",
+    "registration_area_id": "4573",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/22/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4573",
+    "ward_name": "DAURA",
+    "local_government_id": "391",
+    "local_government_name": "KARAYE",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7668534,
+      "longitude": 7.948389799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7923962,
+          "lng": 8.036762
+        },
+        "southwest": {
+          "lat": 11.6863972,
+          "lng": 7.913685
+        }
+      },
+      "formatted_address": "Daura, 704104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7668534,7.948389799999999",
+      "google_place_id": "ChIJn8OZyc7vrRERTN4bKhdmF6E"
+    }
+  },
+  {
+    "id": "89553",
+    "name": "DAURA II",
+    "registration_area_id": "4573",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/22/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4573",
+    "ward_name": "DAURA",
+    "local_government_id": "391",
+    "local_government_name": "KARAYE",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7668534,
+      "longitude": 7.948389799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7923962,
+          "lng": 8.036762
+        },
+        "southwest": {
+          "lat": 11.6863972,
+          "lng": 7.913685
+        }
+      },
+      "formatted_address": "Daura, 704104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7668534,7.948389799999999",
+      "google_place_id": "ChIJn8OZyc7vrRERTN4bKhdmF6E"
+    }
+  },
+  {
+    "id": "89554",
+    "name": "DAURA KWARI",
+    "registration_area_id": "4573",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/22/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4573",
+    "ward_name": "DAURA",
+    "local_government_id": "391",
+    "local_government_name": "KARAYE",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.724878,
+      "longitude": 7.982866700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72614307989272,
+          "lng": 7.984266129892724
+        },
+        "southwest": {
+          "lat": 11.72344342010728,
+          "lng": 7.98156647010728
+        }
+      },
+      "formatted_address": "7F39PXFM+W4X KWARI DAURA, Karaye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.724878,7.982866700000001",
+      "google_place_id": "ChIJjbVaG7fvrRERC9kzKdPWV54"
+    }
+  },
+  {
+    "id": "89555",
+    "name": "DAURA SAKO",
+    "registration_area_id": "4573",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/22/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4573",
+    "ward_name": "DAURA",
+    "local_government_id": "391",
+    "local_government_name": "KARAYE",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "89556",
+    "name": "GATARAWA",
+    "registration_area_id": "4573",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/22/01/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4573",
+    "ward_name": "DAURA",
+    "local_government_id": "391",
+    "local_government_name": "KARAYE",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.724878,
+      "longitude": 7.982866700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72614307989272,
+          "lng": 7.984266129892724
+        },
+        "southwest": {
+          "lat": 11.72344342010728,
+          "lng": 7.98156647010728
+        }
+      },
+      "formatted_address": "7F39PXFM+W4X KWARI DAURA, Karaye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.724878,7.982866700000001",
+      "google_place_id": "ChIJjbVaG7fvrRERC9kzKdPWV54"
+    }
+  },
+  {
+    "id": "89557",
+    "name": "GYATUMAWA",
+    "registration_area_id": "4573",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/22/01/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4573",
+    "ward_name": "DAURA",
+    "local_government_id": "391",
+    "local_government_name": "KARAYE",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7692982,
+      "longitude": 7.985263899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.77064782989272,
+          "lng": 7.986613129892723
+        },
+        "southwest": {
+          "lat": 11.76794817010728,
+          "lng": 7.983913470107279
+        }
+      },
+      "formatted_address": "7F39QX9P+Q35 GYATUMAWA DAURA, Karaye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7692982,7.985263899999999",
+      "google_place_id": "ChIJSbFQ7gLvrRERcUxqTUBM9Es"
+    }
+  },
+  {
+    "id": "89558",
+    "name": "JAJI",
+    "registration_area_id": "4573",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/22/01/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4573",
+    "ward_name": "DAURA",
+    "local_government_id": "391",
+    "local_government_name": "KARAYE",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7185494,
+      "longitude": 7.9847866,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7214606,
+          "lng": 7.986272579892723
+        },
+        "southwest": {
+          "lat": 11.717579,
+          "lng": 7.983572920107279
+        }
+      },
+      "formatted_address": "7F39PX9M+CW7 UNGUWAR JAJI DAURA, Karaye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7185494,7.9847866",
+      "google_place_id": "ChIJHwE7LIfvrRERZmlmzzYtKh4"
+    }
+  },
+  {
+    "id": "89559",
+    "name": "JUMAWA",
+    "registration_area_id": "4573",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "19/22/01/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4573",
+    "ward_name": "DAURA",
+    "local_government_id": "391",
+    "local_government_name": "KARAYE",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7314249,
+      "longitude": 8.0028892,
+      "viewport": {
+        "northeast": {
+          "lat": 11.8834635,
+          "lng": 8.1787359
+        },
+        "southwest": {
+          "lat": 11.6378249,
+          "lng": 7.8724322
+        }
+      },
+      "formatted_address": "Karaye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7314249,8.0028892",
+      "google_place_id": "ChIJNeJWbELvrRERskb3MSFG0l0"
+    }
+  },
+  {
+    "id": "89560",
+    "name": "MAKERA BAUNI I",
+    "registration_area_id": "4573",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "19/22/01/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4573",
+    "ward_name": "DAURA",
+    "local_government_id": "391",
+    "local_government_name": "KARAYE",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "89561",
+    "name": "MAKERA BAUNI II",
+    "registration_area_id": "4573",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "19/22/01/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4573",
+    "ward_name": "DAURA",
+    "local_government_id": "391",
+    "local_government_name": "KARAYE",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "89562",
+    "name": "NATURBE",
+    "registration_area_id": "4573",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "19/22/01/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4573",
+    "ward_name": "DAURA",
+    "local_government_id": "391",
+    "local_government_name": "KARAYE",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "89563",
+    "name": "UNGUWAR TOFA",
+    "registration_area_id": "4573",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "19/22/01/014",
+    "remark": "EXISTING PU",
+    "ward_id": "4573",
+    "ward_name": "DAURA",
+    "local_government_id": "391",
+    "local_government_name": "KARAYE",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7856331,
+      "longitude": 7.959564400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.78698157989272,
+          "lng": 7.960918129892721
+        },
+        "southwest": {
+          "lat": 11.78428192010728,
+          "lng": 7.958218470107277
+        }
+      },
+      "formatted_address": "QXP5+7R4, 704104, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7856331,7.959564400000001",
+      "google_place_id": "ChIJ04aXLVPlrRERZ7MTneBD7sU"
+    }
+  },
+  {
+    "id": "89564",
+    "name": "YAMMAWA",
+    "registration_area_id": "4573",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "19/22/01/015",
+    "remark": "EXISTING PU",
+    "ward_id": "4573",
+    "ward_name": "DAURA",
+    "local_government_id": "391",
+    "local_government_name": "KARAYE",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  }
+]

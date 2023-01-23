@@ -1,0 +1,467 @@
+[
+  {
+    "id": "73226",
+    "name": "PALA SOUTH I/ PRIMARY SCHOOL",
+    "registration_area_id": "3994",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "18/05/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3994",
+    "ward_name": "PALA",
+    "local_government_id": "351",
+    "local_government_name": "IKARA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "73227",
+    "name": "PALA NORTH II/ PRIMARY SCHOOL",
+    "registration_area_id": "3994",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "18/05/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3994",
+    "ward_name": "PALA",
+    "local_government_id": "351",
+    "local_government_name": "IKARA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "73228",
+    "name": "UNG. MAHUTA/ PRIMARY SCHOOL",
+    "registration_area_id": "3994",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "18/05/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3994",
+    "ward_name": "PALA",
+    "local_government_id": "351",
+    "local_government_name": "IKARA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.4786957,
+      "longitude": 8.0508891,
+      "viewport": {
+        "northeast": {
+          "lat": 11.48012927989272,
+          "lng": 8.05238742989272
+        },
+        "southwest": {
+          "lat": 11.47742962010728,
+          "lng": 8.049687770107276
+        }
+      },
+      "formatted_address": "7F3CF3H2+F9J Mahuta Mahuta Kaduna, 812102, Gidan Bagadu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4786957,8.0508891",
+      "google_place_id": "ChIJHX2Zlf6XrRERtBI7CyVjjHk"
+    }
+  },
+  {
+    "id": "73229",
+    "name": "UNG. TANKO/ NEAR K/MAIANGUWA",
+    "registration_area_id": "3994",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "18/05/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3994",
+    "ward_name": "PALA",
+    "local_government_id": "351",
+    "local_government_name": "IKARA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1605791,
+      "longitude": 8.2310847,
+      "viewport": {
+        "northeast": {
+          "lat": 11.16192582989272,
+          "lng": 8.232425979892723
+        },
+        "southwest": {
+          "lat": 11.15922617010728,
+          "lng": 8.229726320107279
+        }
+      },
+      "formatted_address": "7F3C566J+6CP Tanko Janfalan Kaduna, Auguwan, 801126, Ikara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1605791,8.2310847",
+      "google_place_id": "ChIJg-6ejdwJrRERtipWgnEPFw4"
+    }
+  },
+  {
+    "id": "73230",
+    "name": "UNG. DOGARA/ PRIMARY SCHOOL",
+    "registration_area_id": "3994",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "18/05/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3994",
+    "ward_name": "PALA",
+    "local_government_id": "351",
+    "local_government_name": "IKARA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.6582739,
+      "longitude": 8.261775199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.65977887989272,
+          "lng": 8.26298872989272
+        },
+        "southwest": {
+          "lat": 10.65707922010728,
+          "lng": 8.260289070107277
+        }
+      },
+      "formatted_address": "M756+8M9, 811108, Pambeguwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6582739,8.261775199999999",
+      "google_place_id": "ChIJv7ALlvoxrRER0fG2j0gH9fQ"
+    }
+  },
+  {
+    "id": "73231",
+    "name": "UNG. GANI/ PRIMARY SCHOOL",
+    "registration_area_id": "3994",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "18/05/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3994",
+    "ward_name": "PALA",
+    "local_government_id": "351",
+    "local_government_name": "IKARA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1751824,
+      "longitude": 8.2209927,
+      "viewport": {
+        "northeast": {
+          "lat": 11.17653592989272,
+          "lng": 8.222328229892721
+        },
+        "southwest": {
+          "lat": 11.17383627010728,
+          "lng": 8.219628570107277
+        }
+      },
+      "formatted_address": "ward Kaduna, 7F3C56GC+3C6 Ikara community, Ikara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1751824,8.2209927",
+      "google_place_id": "ChIJnySssAILrRER1tphENe7zb0"
+    }
+  },
+  {
+    "id": "73232",
+    "name": "PANSAMU/ PRIMARY SCHOOL",
+    "registration_area_id": "3994",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "18/05/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3994",
+    "ward_name": "PALA",
+    "local_government_id": "351",
+    "local_government_name": "IKARA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1751824,
+      "longitude": 8.2209927,
+      "viewport": {
+        "northeast": {
+          "lat": 11.17653592989272,
+          "lng": 8.222328229892721
+        },
+        "southwest": {
+          "lat": 11.17383627010728,
+          "lng": 8.219628570107277
+        }
+      },
+      "formatted_address": "ward Kaduna, 7F3C56GC+3C6 Ikara community, Ikara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1751824,8.2209927",
+      "google_place_id": "ChIJnySssAILrRER1tphENe7zb0"
+    }
+  },
+  {
+    "id": "73233",
+    "name": "UNG. GALADIMA/ NEAR K/MAIANGUWA",
+    "registration_area_id": "3994",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "18/05/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3994",
+    "ward_name": "PALA",
+    "local_government_id": "351",
+    "local_government_name": "IKARA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "73234",
+    "name": "CHARA/ PRIMARY SCHOOL",
+    "registration_area_id": "3994",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "18/05/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3994",
+    "ward_name": "PALA",
+    "local_government_id": "351",
+    "local_government_name": "IKARA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1643282,
+      "longitude": 8.4178218,
+      "viewport": {
+        "northeast": {
+          "lat": 11.16560472989272,
+          "lng": 8.419178879892723
+        },
+        "southwest": {
+          "lat": 11.16290507010728,
+          "lng": 8.416479220107279
+        }
+      },
+      "formatted_address": "7F3C5C79+P4P, Chara, 812101, Angwan Galadima, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1643282,8.4178218",
+      "google_place_id": "ChIJXxtKHDkBrRERm-g3OGa9JRo"
+    }
+  },
+  {
+    "id": "73235",
+    "name": "UNG. SALLAH/ NEAR K/MAIANGUWA",
+    "registration_area_id": "3994",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "18/05/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3994",
+    "ward_name": "PALA",
+    "local_government_id": "351",
+    "local_government_name": "IKARA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "73236",
+    "name": "TASHAR DOGO/ NEAR K/MAIANGUWA",
+    "registration_area_id": "3994",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "18/05/05/011",
+    "remark": "EXISTING PU",
+    "ward_id": "3994",
+    "ward_name": "PALA",
+    "local_government_id": "351",
+    "local_government_name": "IKARA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "73237",
+    "name": "KAWURI/ PRIMARY SCHOOL",
+    "registration_area_id": "3994",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "18/05/05/012",
+    "remark": "EXISTING PU",
+    "ward_id": "3994",
+    "ward_name": "PALA",
+    "local_government_id": "351",
+    "local_government_name": "IKARA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1869485,
+      "longitude": 8.436793999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.18833872989272,
+          "lng": 8.438157279892721
+        },
+        "southwest": {
+          "lat": 11.18563907010728,
+          "lng": 8.435457620107277
+        }
+      },
+      "formatted_address": "7F3C5CPP+RQ8, Kawari, 812101, Angwan Galadima, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1869485,8.436793999999999",
+      "google_place_id": "ChIJ_ePOxeABrRERvJ0f9MA6zu4"
+    }
+  },
+  {
+    "id": "73238",
+    "name": "UNG. SARKI/ NEAR K/MAIANGUWA",
+    "registration_area_id": "3994",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "18/05/05/013",
+    "remark": "EXISTING PU",
+    "ward_id": "3994",
+    "ward_name": "PALA",
+    "local_government_id": "351",
+    "local_government_name": "IKARA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1788116,
+      "longitude": 8.2267543,
+      "viewport": {
+        "northeast": {
+          "lat": 11.18015962989272,
+          "lng": 8.22810017989272
+        },
+        "southwest": {
+          "lat": 11.17745997010728,
+          "lng": 8.225400520107277
+        }
+      },
+      "formatted_address": "Pala, Ikara L.G Ikara, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1788116,8.2267543",
+      "google_place_id": "ChIJHUyGrcoJrRERNUDBEXhs_P0"
+    }
+  },
+  {
+    "id": "73239",
+    "name": "UNG. LIMAN/ PRIMARY SCHOOL",
+    "registration_area_id": "3994",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "18/05/05/014",
+    "remark": "EXISTING PU",
+    "ward_id": "3994",
+    "ward_name": "PALA",
+    "local_government_id": "351",
+    "local_government_name": "IKARA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1605791,
+      "longitude": 8.2310847,
+      "viewport": {
+        "northeast": {
+          "lat": 11.16192582989272,
+          "lng": 8.232425979892723
+        },
+        "southwest": {
+          "lat": 11.15922617010728,
+          "lng": 8.229726320107279
+        }
+      },
+      "formatted_address": "7F3C566J+6CP Tanko Janfalan Kaduna, Auguwan, 801126, Ikara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1605791,8.2310847",
+      "google_place_id": "ChIJg-6ejdwJrRERtipWgnEPFw4"
+    }
+  },
+  {
+    "id": "73240",
+    "name": "PALA NORTH III/ PRIMARY SCHOOL",
+    "registration_area_id": "3994",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "18/05/05/015",
+    "remark": "EXISTING PU",
+    "ward_id": "3994",
+    "ward_name": "PALA",
+    "local_government_id": "351",
+    "local_government_name": "IKARA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "73241",
+    "name": "PALA SOUTH PRI. SCH. II",
+    "registration_area_id": "3994",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "18/05/05/016",
+    "remark": "NEW PU",
+    "ward_id": "3994",
+    "ward_name": "PALA",
+    "local_government_id": "351",
+    "local_government_name": "IKARA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1751824,
+      "longitude": 8.2209927,
+      "viewport": {
+        "northeast": {
+          "lat": 11.17653592989272,
+          "lng": 8.222328229892721
+        },
+        "southwest": {
+          "lat": 11.17383627010728,
+          "lng": 8.219628570107277
+        }
+      },
+      "formatted_address": "ward Kaduna, 7F3C56GC+3C6 Ikara community, Ikara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1751824,8.2209927",
+      "google_place_id": "ChIJnySssAILrRER1tphENe7zb0"
+    }
+  },
+  {
+    "id": "73242",
+    "name": "PALA NORTH III",
+    "registration_area_id": "3994",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "18/05/05/017",
+    "remark": "NEW PU",
+    "ward_id": "3994",
+    "ward_name": "PALA",
+    "local_government_id": "351",
+    "local_government_name": "IKARA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1788116,
+      "longitude": 8.2267543,
+      "viewport": {
+        "northeast": {
+          "lat": 11.18015962989272,
+          "lng": 8.22810017989272
+        },
+        "southwest": {
+          "lat": 11.17745997010728,
+          "lng": 8.225400520107277
+        }
+      },
+      "formatted_address": "Pala, Ikara L.G Ikara, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1788116,8.2267543",
+      "google_place_id": "ChIJHUyGrcoJrRERNUDBEXhs_P0"
+    }
+  }
+]

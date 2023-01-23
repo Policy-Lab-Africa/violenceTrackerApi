@@ -1,0 +1,3383 @@
+[
+  {
+    "id": "355075",
+    "name": "AKINYEMI WAY RING ROAD I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "30/10/12/001",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.383856,
+      "longitude": 3.8400851,
+      "viewport": {
+        "northeast": {
+          "lat": 7.410291099999999,
+          "lng": 3.8767494
+        },
+        "southwest": {
+          "lat": 7.3410853,
+          "lng": 3.8000724
+        }
+      },
+      "formatted_address": "Ward 12 Sw9 II, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.383856,3.8400851",
+      "google_place_id": "ChIJSz0Vs2OMORARBoSgioFhww8"
+    }
+  },
+  {
+    "id": "355076",
+    "name": "AKINYEMI WAY RING ROAD II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "30/10/12/002",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.374806200000001,
+      "longitude": 3.8584722,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376156029892723,
+          "lng": 3.859822029892722
+        },
+        "southwest": {
+          "lat": 7.373456370107279,
+          "lng": 3.857122370107278
+        }
+      },
+      "formatted_address": "MKO Abiola Way & Akinyemi Way, 200273, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.374806200000001,3.8584722",
+      "google_place_id": "EjZNS08gQWJpb2xhIFdheSAmIEFraW55ZW1pIFdheSwgMjAwMjczLCBJYmFkYW4sIE5pZ2VyaWEiZiJkChQKEgnf-GTlVow5EBHasp1AXvbh9xIUChIJ3_hk5VaMORAR2rKdQF724fcaFAoSCXcFgpCzjTkQESL5TtVisDA4GhQKEgnzoEaxUIw5EBHIEuIw2YPglCIKDV5OZQQVksFMAg"
+    }
+  },
+  {
+    "id": "355077",
+    "name": "OPEN SPACE AGO TAYLOR I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "30/10/12/003",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355078",
+    "name": "OPEN SPACE AGO TAYLOR II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "30/10/12/004",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355079",
+    "name": "OPEN SPACE AGO TAYLOR III",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "30/10/12/005",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355080",
+    "name": "OPEN SPACE AGO TAYLOR IV",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "30/10/12/006",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355081",
+    "name": "OUR LADY OF APOSTLE I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "30/10/12/007",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3784481,
+      "longitude": 3.8534942,
+      "viewport": {
+        "northeast": {
+          "lat": 7.379876629892721,
+          "lng": 3.854881229892722
+        },
+        "southwest": {
+          "lat": 7.377176970107278,
+          "lng": 3.852181570107278
+        }
+      },
+      "formatted_address": "9VH3+999, Maryway, Odo-Ona, Apata, Oluyole 200273, Ibadan, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3784481,3.8534942",
+      "google_place_id": "ChIJh32dxPeMORARnHuJAjrAEF4"
+    }
+  },
+  {
+    "id": "355082",
+    "name": "OUR LADY OF APOSTLE II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "30/10/12/008",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3784481,
+      "longitude": 3.8534942,
+      "viewport": {
+        "northeast": {
+          "lat": 7.379876629892721,
+          "lng": 3.854881229892722
+        },
+        "southwest": {
+          "lat": 7.377176970107278,
+          "lng": 3.852181570107278
+        }
+      },
+      "formatted_address": "9VH3+999, Maryway, Odo-Ona, Apata, Oluyole 200273, Ibadan, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3784481,3.8534942",
+      "google_place_id": "ChIJh32dxPeMORARnHuJAjrAEF4"
+    }
+  },
+  {
+    "id": "355083",
+    "name": "OUR LADY OF APOSTLE III",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "30/10/12/009",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3784481,
+      "longitude": 3.8534942,
+      "viewport": {
+        "northeast": {
+          "lat": 7.379876629892721,
+          "lng": 3.854881229892722
+        },
+        "southwest": {
+          "lat": 7.377176970107278,
+          "lng": 3.852181570107278
+        }
+      },
+      "formatted_address": "9VH3+999, Maryway, Odo-Ona, Apata, Oluyole 200273, Ibadan, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3784481,3.8534942",
+      "google_place_id": "ChIJh32dxPeMORARnHuJAjrAEF4"
+    }
+  },
+  {
+    "id": "355084",
+    "name": "OPEN SPACE ARAROMI ODO ONA I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "30/10/12/010",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355085",
+    "name": "OPEN SPACE ARAROMI ODO ONA II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "30/10/12/011",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355086",
+    "name": "OPEN SPACE ARAROMI ODO ONA III",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "30/10/12/012",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355087",
+    "name": "OPPOSITE MARY WAY, ODO ONA I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "30/10/12/013",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355088",
+    "name": "OPPOSITE MARY WAY, ODO ONA II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "30/10/12/014",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355089",
+    "name": "OPEN SPACE OKEAYO, ODO ONA I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "30/10/12/015",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355090",
+    "name": "OPEN SPACE OKEAYO, ODO ONA II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "30/10/12/016",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355091",
+    "name": "SACRED HEART PRIMARY SCHOOL, OKEAYO",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "30/10/12/017",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.37261,
+      "longitude": 3.8543965,
+      "viewport": {
+        "northeast": {
+          "lat": 7.373832929892724,
+          "lng": 3.855696729892723
+        },
+        "southwest": {
+          "lat": 7.37113327010728,
+          "lng": 3.852997070107279
+        }
+      },
+      "formatted_address": "9VF3+2QR, Akinyemi Way, Oluyole 200273, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.37261,3.8543965",
+      "google_place_id": "ChIJrzWnD1qMORARtlcXr39nFLc"
+    }
+  },
+  {
+    "id": "355092",
+    "name": "C.K.C. PRIMARY SCHOOL, ODO ONA I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "30/10/12/018",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355093",
+    "name": "C.K.C. PRIMARY SCHOOL, ODO ONA II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "30/10/12/019",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355094",
+    "name": "C.K.C. PRIMARY SCHOOL, ODO ONA III",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "30/10/12/020",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355095",
+    "name": "OPEN SPACE AT DESALU STREET I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "30/10/12/021",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.383474699999999,
+      "longitude": 3.83176,
+      "viewport": {
+        "northeast": {
+          "lat": 7.384748779892722,
+          "lng": 3.833107079892722
+        },
+        "southwest": {
+          "lat": 7.382049120107278,
+          "lng": 3.830407420107278
+        }
+      },
+      "formatted_address": "Apata 111011, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.383474699999999,3.83176",
+      "google_place_id": "ChIJ-RGZ3vqNORARVQ_E9XX1ywc"
+    }
+  },
+  {
+    "id": "355096",
+    "name": "OPEN SPACE AT DESALU STREET II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "30/10/12/022",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355097",
+    "name": "OPEN SPACE AT DESALU STREET III",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "30/10/12/023",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355098",
+    "name": "OPEN SPACE AT ADEOGUN STREET",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "30/10/12/024",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.364546999999999,
+      "longitude": 3.8457606,
+      "viewport": {
+        "northeast": {
+          "lat": 7.365797579892722,
+          "lng": 3.847105829892723
+        },
+        "southwest": {
+          "lat": 7.363097920107278,
+          "lng": 3.844406170107279
+        }
+      },
+      "formatted_address": "Industrial Estate, Alaafin Ave, opposite Total Filling Station, Oluyole 200261, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.364546999999999,3.8457606",
+      "google_place_id": "ChIJL_FAPnqNORARAEdIbqDbFcg"
+    }
+  },
+  {
+    "id": "355099",
+    "name": "OPEN SPACE AT KUOLE I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "30/10/12/025",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.383856,
+      "longitude": 3.8400851,
+      "viewport": {
+        "northeast": {
+          "lat": 7.410291099999999,
+          "lng": 3.8767494
+        },
+        "southwest": {
+          "lat": 7.3410853,
+          "lng": 3.8000724
+        }
+      },
+      "formatted_address": "Ward 12 Sw9 II, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.383856,3.8400851",
+      "google_place_id": "ChIJSz0Vs2OMORARBoSgioFhww8"
+    }
+  },
+  {
+    "id": "355100",
+    "name": "OPEN SPACE AT KUOLE II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "30/10/12/026",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355101",
+    "name": "OPEN SPACE AT ADEOLA STREET",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "30/10/12/027",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.383474699999999,
+      "longitude": 3.83176,
+      "viewport": {
+        "northeast": {
+          "lat": 7.384748779892722,
+          "lng": 3.833107079892722
+        },
+        "southwest": {
+          "lat": 7.382049120107278,
+          "lng": 3.830407420107278
+        }
+      },
+      "formatted_address": "Apata 111011, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.383474699999999,3.83176",
+      "google_place_id": "ChIJ-RGZ3vqNORARVQ_E9XX1ywc"
+    }
+  },
+  {
+    "id": "355102",
+    "name": "ST. PAUL SCHOOL, ODO ONA I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "30/10/12/028",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355103",
+    "name": "ST. PAUL SCHOOL, ODO ONA II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "30/10/12/029",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355104",
+    "name": "ST. PAUL SCHOOL, ODO ONA III",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "30/10/12/030",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355105",
+    "name": "ELEJA PRIMARY SCHOOL, ODO ONA I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "30/10/12/031",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355106",
+    "name": "ELEJA PRIMARY SCHOOL, ODO ONA II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "30/10/12/032",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355107",
+    "name": "ELEJA PRIMARY SCHOOL, ODO ONA III",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "30/10/12/033",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355108",
+    "name": "IART GATE I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "30/10/12/034",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.380851799999999,
+      "longitude": 3.864673899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.382071779892722,
+          "lng": 3.866064929892723
+        },
+        "southwest": {
+          "lat": 7.379372120107278,
+          "lng": 3.863365270107279
+        }
+      },
+      "formatted_address": "KM 110, Off Alalubosa GRA, Dugbe to, Apata Rd, SouthWest 200258, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.380851799999999,3.864673899999999",
+      "google_place_id": "ChIJY5Xdp2eNORARMbV0S3LsCMQ"
+    }
+  },
+  {
+    "id": "355109",
+    "name": "IART GATE II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "30/10/12/035",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355110",
+    "name": "BCJ BUS STOP",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "036",
+    "units": "036",
+    "delimitation": "30/10/12/036",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3402572,
+      "longitude": 3.906573,
+      "viewport": {
+        "northeast": {
+          "lat": 7.341633779892723,
+          "lng": 3.907905979892723
+        },
+        "southwest": {
+          "lat": 7.338934120107279,
+          "lng": 3.905206320107279
+        }
+      },
+      "formatted_address": "200263, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3402572,3.906573",
+      "google_place_id": "ChIJBSOcVAeSORAR82unazd7cfE"
+    }
+  },
+  {
+    "id": "355111",
+    "name": "OPEN SPACE AT GCI APATA I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "037",
+    "units": "037",
+    "delimitation": "30/10/12/037",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.383474699999999,
+      "longitude": 3.83176,
+      "viewport": {
+        "northeast": {
+          "lat": 7.384748779892722,
+          "lng": 3.833107079892722
+        },
+        "southwest": {
+          "lat": 7.382049120107278,
+          "lng": 3.830407420107278
+        }
+      },
+      "formatted_address": "Apata 111011, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.383474699999999,3.83176",
+      "google_place_id": "ChIJ-RGZ3vqNORARVQ_E9XX1ywc"
+    }
+  },
+  {
+    "id": "355112",
+    "name": "OPEN SPACE AT GCI APATA II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "038",
+    "units": "038",
+    "delimitation": "30/10/12/038",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355113",
+    "name": "OPEN SPACE AT INAOLAJI",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "039",
+    "units": "039",
+    "delimitation": "30/10/12/039",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.364484,
+      "longitude": 3.8456198,
+      "viewport": {
+        "northeast": {
+          "lat": 7.365768879892723,
+          "lng": 3.846966979892722
+        },
+        "southwest": {
+          "lat": 7.363069220107279,
+          "lng": 3.844267320107278
+        }
+      },
+      "formatted_address": "Plot 22, Block 34 Alaafin Ave, Oluyole 234200, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.364484,3.8456198",
+      "google_place_id": "ChIJ33T83ACNORARrpuY2p25ErM"
+    }
+  },
+  {
+    "id": "355114",
+    "name": "CUSTOMARY COURT, APATA I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "040",
+    "units": "040",
+    "delimitation": "30/10/12/040",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.396645599999999,
+      "longitude": 3.7904521,
+      "viewport": {
+        "northeast": {
+          "lat": 7.397975079892722,
+          "lng": 3.791851679892722
+        },
+        "southwest": {
+          "lat": 7.395275420107278,
+          "lng": 3.789152020107278
+        }
+      },
+      "formatted_address": "9QWR+M54, Ibadan-Abeokuta Rd, 200131, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.396645599999999,3.7904521",
+      "google_place_id": "ChIJTV4jPhmLORARRy2hi-ho6y0"
+    }
+  },
+  {
+    "id": "355115",
+    "name": "CUSTOMARY COURT, APATA II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "041",
+    "units": "041",
+    "delimitation": "30/10/12/041",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355116",
+    "name": "CUSTOMARY COURT, APATA III",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "042",
+    "units": "042",
+    "delimitation": "30/10/12/042",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355117",
+    "name": "OPEN SPACE AT OLURIN CLOSE I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "043",
+    "units": "043",
+    "delimitation": "30/10/12/043",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355118",
+    "name": "OPEN SPACE AT OLURIN CLOSE II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "044",
+    "units": "044",
+    "delimitation": "30/10/12/044",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355119",
+    "name": "ADIFASE HIGH SCHOOL I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "045",
+    "units": "045",
+    "delimitation": "30/10/12/045",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3865676,
+      "longitude": 3.8260361,
+      "viewport": {
+        "northeast": {
+          "lat": 7.388028779892721,
+          "lng": 3.827219879892723
+        },
+        "southwest": {
+          "lat": 7.385329120107277,
+          "lng": 3.824520220107279
+        }
+      },
+      "formatted_address": "9RPG+JCF, Apata adifase ibadan Adifase, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3865676,3.8260361",
+      "google_place_id": "ChIJAd4PioKMORARbYciruARSjU"
+    }
+  },
+  {
+    "id": "355120",
+    "name": "ADIFASE HIGH SCHOOL II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "046",
+    "units": "046",
+    "delimitation": "30/10/12/046",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3865676,
+      "longitude": 3.8260361,
+      "viewport": {
+        "northeast": {
+          "lat": 7.388028779892721,
+          "lng": 3.827219879892723
+        },
+        "southwest": {
+          "lat": 7.385329120107277,
+          "lng": 3.824520220107279
+        }
+      },
+      "formatted_address": "9RPG+JCF, Apata adifase ibadan Adifase, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3865676,3.8260361",
+      "google_place_id": "ChIJAd4PioKMORARbYciruARSjU"
+    }
+  },
+  {
+    "id": "355121",
+    "name": "ADI FASE HIGH SCHOOL III",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "047",
+    "units": "047",
+    "delimitation": "30/10/12/047",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3865676,
+      "longitude": 3.8260361,
+      "viewport": {
+        "northeast": {
+          "lat": 7.388028779892721,
+          "lng": 3.827219879892723
+        },
+        "southwest": {
+          "lat": 7.385329120107277,
+          "lng": 3.824520220107279
+        }
+      },
+      "formatted_address": "9RPG+JCF, Apata adifase ibadan Adifase, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3865676,3.8260361",
+      "google_place_id": "ChIJAd4PioKMORARbYciruARSjU"
+    }
+  },
+  {
+    "id": "355122",
+    "name": "ADA BEJI I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "048",
+    "units": "048",
+    "delimitation": "30/10/12/048",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355123",
+    "name": "ADA BEJI II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "049",
+    "units": "049",
+    "delimitation": "30/10/12/049",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355124",
+    "name": "OPEN SPACE APATA MARKET I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "050",
+    "units": "050",
+    "delimitation": "30/10/12/050",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355125",
+    "name": "OPEN SPACE APATA MARKET II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "051",
+    "units": "051",
+    "delimitation": "30/10/12/051",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355126",
+    "name": "OPEN SPACE ABA ALAMU I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "052",
+    "units": "052",
+    "delimitation": "30/10/12/052",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355127",
+    "name": "OPEN SPACE ABA ALAMU II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "053",
+    "units": "053",
+    "delimitation": "30/10/12/053",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355128",
+    "name": "OPEN SPACE ABA ALAMU III",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "054",
+    "units": "054",
+    "delimitation": "30/10/12/054",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355129",
+    "name": "OPEN SPACE AT JOHNSON AWE I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "055",
+    "units": "055",
+    "delimitation": "30/10/12/055",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.383474699999999,
+      "longitude": 3.83176,
+      "viewport": {
+        "northeast": {
+          "lat": 7.384748779892722,
+          "lng": 3.833107079892722
+        },
+        "southwest": {
+          "lat": 7.382049120107278,
+          "lng": 3.830407420107278
+        }
+      },
+      "formatted_address": "Apata 111011, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.383474699999999,3.83176",
+      "google_place_id": "ChIJ-RGZ3vqNORARVQ_E9XX1ywc"
+    }
+  },
+  {
+    "id": "355130",
+    "name": "OPEN SPACE AT  JOHNSON AWE II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "056",
+    "units": "056",
+    "delimitation": "30/10/12/056",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.383856,
+      "longitude": 3.8400851,
+      "viewport": {
+        "northeast": {
+          "lat": 7.410291099999999,
+          "lng": 3.8767494
+        },
+        "southwest": {
+          "lat": 7.3410853,
+          "lng": 3.8000724
+        }
+      },
+      "formatted_address": "Ward 12 Sw9 II, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.383856,3.8400851",
+      "google_place_id": "ChIJSz0Vs2OMORARBoSgioFhww8"
+    }
+  },
+  {
+    "id": "355131",
+    "name": "OPEN SPACE AT ALEXANDER",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "057",
+    "units": "057",
+    "delimitation": "30/10/12/057",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.383856,
+      "longitude": 3.8400851,
+      "viewport": {
+        "northeast": {
+          "lat": 7.410291099999999,
+          "lng": 3.8767494
+        },
+        "southwest": {
+          "lat": 7.3410853,
+          "lng": 3.8000724
+        }
+      },
+      "formatted_address": "Ward 12 Sw9 II, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.383856,3.8400851",
+      "google_place_id": "ChIJSz0Vs2OMORARBoSgioFhww8"
+    }
+  },
+  {
+    "id": "355132",
+    "name": "OPEN SPACE AT KUOLA ADEDAYO",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "058",
+    "units": "058",
+    "delimitation": "30/10/12/058",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3658342,
+      "longitude": 3.8151936,
+      "viewport": {
+        "northeast": {
+          "lat": 7.387836150000052,
+          "lng": 3.817916400000001
+        },
+        "southwest": {
+          "lat": 7.343816749999944,
+          "lng": 3.812967199999999
+        }
+      },
+      "formatted_address": "Kuola - Aba Paanu Rd, 200131, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3658342,3.8151936",
+      "google_place_id": "Ei1LdW9sYSAtIEFiYSBQYWFudSBSZCwgMjAwMTMxLCBJYmFkYW4sIE5pZ2VyaWEiLiosChQKEglxT3_Pj4s5EBELsXVqL-a_jRIUChIJSz0Vs2OMORARBoSgioFhww8"
+    }
+  },
+  {
+    "id": "355133",
+    "name": "APATA GRAMMAR SCHOOL I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "059",
+    "units": "059",
+    "delimitation": "30/10/12/059",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3721963,
+      "longitude": 3.8323205,
+      "viewport": {
+        "northeast": {
+          "lat": 7.37354612989272,
+          "lng": 3.833670329892723
+        },
+        "southwest": {
+          "lat": 7.370846470107276,
+          "lng": 3.830970670107278
+        }
+      },
+      "formatted_address": "Apata Grammar School Road, Oluyole 200131, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3721963,3.8323205",
+      "google_place_id": "ChIJFS96nHuMORARxV7ZaYzKOgw"
+    }
+  },
+  {
+    "id": "355134",
+    "name": "APATA GRAMMAR SCHOOL II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "060",
+    "units": "060",
+    "delimitation": "30/10/12/060",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3721963,
+      "longitude": 3.8323205,
+      "viewport": {
+        "northeast": {
+          "lat": 7.37354612989272,
+          "lng": 3.833670329892723
+        },
+        "southwest": {
+          "lat": 7.370846470107276,
+          "lng": 3.830970670107278
+        }
+      },
+      "formatted_address": "Apata Grammar School Road, Oluyole 200131, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3721963,3.8323205",
+      "google_place_id": "ChIJFS96nHuMORARxV7ZaYzKOgw"
+    }
+  },
+  {
+    "id": "355135",
+    "name": "OPEN SPACE AT AKINREFON I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "061",
+    "units": "061",
+    "delimitation": "30/10/12/061",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355136",
+    "name": "OPEN SPACE AT AKINREFON II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "062",
+    "units": "062",
+    "delimitation": "30/10/12/062",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355137",
+    "name": "OPEN SPACE AT OWODE GARAGE I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "063",
+    "units": "063",
+    "delimitation": "30/10/12/063",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.383856,
+      "longitude": 3.8400851,
+      "viewport": {
+        "northeast": {
+          "lat": 7.410291099999999,
+          "lng": 3.8767494
+        },
+        "southwest": {
+          "lat": 7.3410853,
+          "lng": 3.8000724
+        }
+      },
+      "formatted_address": "Ward 12 Sw9 II, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.383856,3.8400851",
+      "google_place_id": "ChIJSz0Vs2OMORARBoSgioFhww8"
+    }
+  },
+  {
+    "id": "355138",
+    "name": "OPEN SPACE AT OWODE GARAGE II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "064",
+    "units": "064",
+    "delimitation": "30/10/12/064",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3908533,
+      "longitude": 3.8084362,
+      "viewport": {
+        "northeast": {
+          "lat": 7.392159579892721,
+          "lng": 3.809811529892721
+        },
+        "southwest": {
+          "lat": 7.389459920107277,
+          "lng": 3.807111870107277
+        }
+      },
+      "formatted_address": "9RR5+89V, Unnamed Road, 200131, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3908533,3.8084362",
+      "google_place_id": "ChIJB4neW1CLORAR_vTiZ_en6pU"
+    }
+  },
+  {
+    "id": "355139",
+    "name": "OPEN SPACE AT OWODE GARAGE III",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "065",
+    "units": "065",
+    "delimitation": "30/10/12/065",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355140",
+    "name": "OPEN SPACE AT ERINKOJAOBE",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "066",
+    "units": "066",
+    "delimitation": "30/10/12/066",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355141",
+    "name": "OPEN SPACE AT GBEKUBA I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "067",
+    "units": "067",
+    "delimitation": "30/10/12/067",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355142",
+    "name": "OPEN SPACE AT GBEKUBA II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "068",
+    "units": "068",
+    "delimitation": "30/10/12/068",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355143",
+    "name": "OPEN SPACE AT GBEKUBA III",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "069",
+    "units": "069",
+    "delimitation": "30/10/12/069",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355144",
+    "name": "OPEN SPACE AT BORA AREA",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "070",
+    "units": "070",
+    "delimitation": "30/10/12/070",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355145",
+    "name": "OPEN SPACE AT WEMA BANK, APATA I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "071",
+    "units": "071",
+    "delimitation": "30/10/12/071",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.383091299999999,
+      "longitude": 3.8290474,
+      "viewport": {
+        "northeast": {
+          "lat": 7.384563829892721,
+          "lng": 3.830403929892721
+        },
+        "southwest": {
+          "lat": 7.381864170107277,
+          "lng": 3.827704270107278
+        }
+      },
+      "formatted_address": "Ibadan-Abeokuta Rd, Apata 200212, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.383091299999999,3.8290474",
+      "google_place_id": "ChIJvZKbuoiMORARtuDCj8dQcOY"
+    }
+  },
+  {
+    "id": "355146",
+    "name": "OPEN SPACE AT WEMA BANK, APATA II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "072",
+    "units": "072",
+    "delimitation": "30/10/12/072",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.383091299999999,
+      "longitude": 3.8290474,
+      "viewport": {
+        "northeast": {
+          "lat": 7.384563829892721,
+          "lng": 3.830403929892721
+        },
+        "southwest": {
+          "lat": 7.381864170107277,
+          "lng": 3.827704270107278
+        }
+      },
+      "formatted_address": "Ibadan-Abeokuta Rd, Apata 200212, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.383091299999999,3.8290474",
+      "google_place_id": "ChIJvZKbuoiMORARtuDCj8dQcOY"
+    }
+  },
+  {
+    "id": "355147",
+    "name": "OLUYOLE EXTENSION HIGH SCHOOL I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "073",
+    "units": "073",
+    "delimitation": "30/10/12/073",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.383856,
+      "longitude": 3.8400851,
+      "viewport": {
+        "northeast": {
+          "lat": 7.410291099999999,
+          "lng": 3.8767494
+        },
+        "southwest": {
+          "lat": 7.3410853,
+          "lng": 3.8000724
+        }
+      },
+      "formatted_address": "Ward 12 Sw9 II, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.383856,3.8400851",
+      "google_place_id": "ChIJSz0Vs2OMORARBoSgioFhww8"
+    }
+  },
+  {
+    "id": "355148",
+    "name": "OLUYOLE EXTENSION HIGH SCHOOL II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "074",
+    "units": "074",
+    "delimitation": "30/10/12/074",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.365764899999999,
+      "longitude": 3.8469223,
+      "viewport": {
+        "northeast": {
+          "lat": 7.367124479892722,
+          "lng": 3.848403379892722
+        },
+        "southwest": {
+          "lat": 7.364424820107278,
+          "lng": 3.845703720107278
+        }
+      },
+      "formatted_address": "Oluyole Extension High School, Oluyole 200273, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.365764899999999,3.8469223",
+      "google_place_id": "ChIJ7QJ570KMORAR1iGRt_WYNp0"
+    }
+  },
+  {
+    "id": "355149",
+    "name": "OLUYOLE EXTENSION HIGH SCHOOL III",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "075",
+    "units": "075",
+    "delimitation": "30/10/12/075",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.365764899999999,
+      "longitude": 3.8469223,
+      "viewport": {
+        "northeast": {
+          "lat": 7.367124479892722,
+          "lng": 3.848403379892722
+        },
+        "southwest": {
+          "lat": 7.364424820107278,
+          "lng": 3.845703720107278
+        }
+      },
+      "formatted_address": "Oluyole Extension High School, Oluyole 200273, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.365764899999999,3.8469223",
+      "google_place_id": "ChIJ7QJ570KMORAR1iGRt_WYNp0"
+    }
+  },
+  {
+    "id": "355150",
+    "name": "OPEN SPACE RAILWAY QUARTERS I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "076",
+    "units": "076",
+    "delimitation": "30/10/12/076",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.385509899999999,
+      "longitude": 3.8710423,
+      "viewport": {
+        "northeast": {
+          "lat": 7.386797679892722,
+          "lng": 3.872350029892722
+        },
+        "southwest": {
+          "lat": 7.384098020107278,
+          "lng": 3.869650370107278
+        }
+      },
+      "formatted_address": "9VPC+5CQ, 200284, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.385509899999999,3.8710423",
+      "google_place_id": "ChIJnbf-Zv6NORARHT1Lrgn8aQc"
+    }
+  },
+  {
+    "id": "355151",
+    "name": "OPEN SPACE RAILWAY QUARTERS II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "077",
+    "units": "077",
+    "delimitation": "30/10/12/077",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355152",
+    "name": "OPEN SPACE IDI ISHIN I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "078",
+    "units": "078",
+    "delimitation": "30/10/12/078",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355153",
+    "name": "OPEN SPACE IDI ISHIN II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "079",
+    "units": "079",
+    "delimitation": "30/10/12/079",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355154",
+    "name": "OPEN SPACE TANIMOWO BUS STOP I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "080",
+    "units": "080",
+    "delimitation": "30/10/12/080",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.431878299999999,
+      "longitude": 3.906454,
+      "viewport": {
+        "northeast": {
+          "lat": 7.43323342989272,
+          "lng": 3.907789379892722
+        },
+        "southwest": {
+          "lat": 7.430533770107276,
+          "lng": 3.905089720107279
+        }
+      },
+      "formatted_address": "Oyo Rd, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.431878299999999,3.906454",
+      "google_place_id": "ChIJ-8PRAVjtORARE8XwNH0Ddps"
+    }
+  },
+  {
+    "id": "355155",
+    "name": "OPEN SPACE TANIMOWO BUS STOP II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "081",
+    "units": "081",
+    "delimitation": "30/10/12/081",
+    "remark": "EXISTING PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.397820499999999,
+      "longitude": 3.8036887,
+      "viewport": {
+        "northeast": {
+          "lat": 7.399303179892721,
+          "lng": 3.805080029892721
+        },
+        "southwest": {
+          "lat": 7.396603520107277,
+          "lng": 3.802380370107278
+        }
+      },
+      "formatted_address": "6FV59RX3+4FGR NO 4 TANIMOWO BUS STOP NNPC IBADAN IYANA CELE, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.397820499999999,3.8036887",
+      "google_place_id": "ChIJ_9_u8xqLORARLQf0cvJeFN4"
+    }
+  },
+  {
+    "id": "355156",
+    "name": "OPEN SPACE INFRONT OF A-DANIEL, MECH. VILLAGE",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "082",
+    "units": "082",
+    "delimitation": "30/10/12/082",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355157",
+    "name": "OPEN SPACE INFRONT OF THE STONE CHURCH, AKINYEMI WAY",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "083",
+    "units": "083",
+    "delimitation": "30/10/12/083",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.405849000000001,
+      "longitude": 3.8883038,
+      "viewport": {
+        "northeast": {
+          "lat": 7.407214579892721,
+          "lng": 3.889657629892721
+        },
+        "southwest": {
+          "lat": 7.404514920107277,
+          "lng": 3.886957970107277
+        }
+      },
+      "formatted_address": "1. The Stone Church Way, Oyo Rd, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.405849000000001,3.8883038",
+      "google_place_id": "ChIJjbrO2UaNORARanLBBm5xZBE"
+    }
+  },
+  {
+    "id": "355158",
+    "name": "OPEN SPACE BESIDE OLAMBE STORE",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "084",
+    "units": "084",
+    "delimitation": "30/10/12/084",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.383754499999999,
+      "longitude": 3.8721008,
+      "viewport": {
+        "northeast": {
+          "lat": 7.385082829892722,
+          "lng": 3.873476679892721
+        },
+        "southwest": {
+          "lat": 7.382383170107278,
+          "lng": 3.870777020107278
+        }
+      },
+      "formatted_address": "Shop 16 17 18 Dick Road along aleshinloye market, Jericho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.383754499999999,3.8721008",
+      "google_place_id": "ChIJXcd1IgSNORARxbmCETKIxu0"
+    }
+  },
+  {
+    "id": "355159",
+    "name": "OPEN SPACE BESIDE SAO PETROL STATION",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "085",
+    "units": "085",
+    "delimitation": "30/10/12/085",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.399216499999999,
+      "longitude": 3.8748811,
+      "viewport": {
+        "northeast": {
+          "lat": 7.400622829892718,
+          "lng": 3.876340579892722
+        },
+        "southwest": {
+          "lat": 7.397923170107275,
+          "lng": 3.873640920107278
+        }
+      },
+      "formatted_address": "9VXF+MXJ, 200284, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.399216499999999,3.8748811",
+      "google_place_id": "ChIJi_6G9KSNORARhWCyDl4YVYk"
+    }
+  },
+  {
+    "id": "355160",
+    "name": "OPEN SPACE AT ARAROMI UNDER TREE",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "086",
+    "units": "086",
+    "delimitation": "30/10/12/086",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3975198,
+      "longitude": 3.836263,
+      "viewport": {
+        "northeast": {
+          "lat": 7.39959810000005,
+          "lng": 3.837602129892721
+        },
+        "southwest": {
+          "lat": 7.395896499999949,
+          "lng": 3.834902470107277
+        }
+      },
+      "formatted_address": "Araromi St, 200116, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3975198,3.836263",
+      "google_place_id": "EiNBcmFyb21pIFN0LCAyMDAxMTYsIEliYWRhbiwgTmlnZXJpYSIuKiwKFAoSCefwdw6XjDkQEbfu3a7h-8-pEhQKEglLPRWzY4w5EBEGhKCKgWHDDw"
+    }
+  },
+  {
+    "id": "355161",
+    "name": "OPEN SPACE  BESIDE EVANGELICAL APOSTOLIC CHURCH",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "087",
+    "units": "087",
+    "delimitation": "30/10/12/087",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.373558999999999,
+      "longitude": 3.8545957,
+      "viewport": {
+        "northeast": {
+          "lat": 7.374917329892722,
+          "lng": 3.855948579892722
+        },
+        "southwest": {
+          "lat": 7.372217670107278,
+          "lng": 3.853248920107278
+        }
+      },
+      "formatted_address": "along Primary health care center, Fatimo Street, Oke Ayo road, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.373558999999999,3.8545957",
+      "google_place_id": "ChIJL-aGHuCNORARMgwCob4Srtk"
+    }
+  },
+  {
+    "id": "355162",
+    "name": "OPEM SPACE AT T JUNCTION, OKE AYO",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "088",
+    "units": "088",
+    "delimitation": "30/10/12/088",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3591025,
+      "longitude": 3.870747799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.360573329892723,
+          "lng": 3.872282879892722
+        },
+        "southwest": {
+          "lat": 7.357873670107279,
+          "lng": 3.869583220107278
+        }
+      },
+      "formatted_address": "MKO Abiola Way, Oluyole 200273, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3591025,3.870747799999999",
+      "google_place_id": "ChIJ408af7aNORARiBOPP7jaIL4"
+    }
+  },
+  {
+    "id": "355163",
+    "name": "OPEN SPACE BESIDE TOBIS HOTEL, ODO ONA",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "089",
+    "units": "089",
+    "delimitation": "30/10/12/089",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.387819500000001,
+      "longitude": 3.837333,
+      "viewport": {
+        "northeast": {
+          "lat": 7.389225279892723,
+          "lng": 3.838685379892722
+        },
+        "southwest": {
+          "lat": 7.386525620107278,
+          "lng": 3.835985720107278
+        }
+      },
+      "formatted_address": "15, olowoyo street, Araromi Area, Odo-ona Ibadan, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.387819500000001,3.837333",
+      "google_place_id": "ChIJNeYz7bSNORARQdsmh5pqGPs"
+    }
+  },
+  {
+    "id": "355164",
+    "name": "OPEN SPACE BESIDE RAILWAY STATION",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "090",
+    "units": "090",
+    "delimitation": "30/10/12/090",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355165",
+    "name": "OPEN SPACE AT ADEOGUN JUNCTION",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "091",
+    "units": "091",
+    "delimitation": "30/10/12/091",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3653904,
+      "longitude": 3.8481018,
+      "viewport": {
+        "northeast": {
+          "lat": 7.366740229892724,
+          "lng": 3.849451629892723
+        },
+        "southwest": {
+          "lat": 7.36404057010728,
+          "lng": 3.846751970107279
+        }
+      },
+      "formatted_address": "Adeogun St, Oluyole 200273, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3653904,3.8481018",
+      "google_place_id": "ChIJ75Qo_UKMORAR8eW7ZNkT4YU"
+    }
+  },
+  {
+    "id": "355166",
+    "name": "OPEN SPACE OPP. SEBOL GROUP OF SCHOOLS",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "092",
+    "units": "092",
+    "delimitation": "30/10/12/092",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.385263399999999,
+      "longitude": 3.8493576,
+      "viewport": {
+        "northeast": {
+          "lat": 7.38659602989272,
+          "lng": 3.850675029892722
+        },
+        "southwest": {
+          "lat": 7.383896370107276,
+          "lng": 3.847975370107278
+        }
+      },
+      "formatted_address": "Oluyole 200131, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.385263399999999,3.8493576",
+      "google_place_id": "ChIJ1XjTw_OMORARxWM7GH9yFEY"
+    }
+  },
+  {
+    "id": "355167",
+    "name": "OPEN SPACE OPP. ST. PAUL SCHOOL, ODO ONA",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "093",
+    "units": "093",
+    "delimitation": "30/10/12/093",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355168",
+    "name": "OPEN SPACE OPP. SEVENTH DAY ADVENTIST CHURCH, ODO ONA",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "094",
+    "units": "094",
+    "delimitation": "30/10/12/094",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4003536,
+      "longitude": 3.9351659,
+      "viewport": {
+        "northeast": {
+          "lat": 7.401692779892722,
+          "lng": 3.936498529892722
+        },
+        "southwest": {
+          "lat": 7.398993120107278,
+          "lng": 3.933798870107278
+        }
+      },
+      "formatted_address": "2 Bode Kumapayi Dr, Iwo Road 200258, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4003536,3.9351659",
+      "google_place_id": "ChIJAxu8IrqTORARSqi07uKFyFA"
+    }
+  },
+  {
+    "id": "355169",
+    "name": "OPEN SPACE INFRONT OF IAR&T GATE II, AGRIC",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "095",
+    "units": "095",
+    "delimitation": "30/10/12/095",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 38.891298,
+      "longitude": -77.019965,
+      "viewport": {
+        "northeast": {
+          "lat": 38.8928887,
+          "lng": -77.01475329999998
+        },
+        "southwest": {
+          "lat": 38.8897603,
+          "lng": -77.0255893
+        }
+      },
+      "formatted_address": "Constitution Ave. NW, Washington, DC 20565, United States",
+      "google_map_url": "https://maps.google.com?q=38.891298,-77.019965",
+      "google_place_id": "ChIJSYxSO5u3t4kRm4eyKw_Y7Kg"
+    }
+  },
+  {
+    "id": "355170",
+    "name": "COMM. RECREATION CENTER, MOOR PLANTATION, APATA",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "096",
+    "units": "096",
+    "delimitation": "30/10/12/096",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.405665,
+      "longitude": 3.9119652,
+      "viewport": {
+        "northeast": {
+          "lat": 7.407046679892721,
+          "lng": 3.913357479892722
+        },
+        "southwest": {
+          "lat": 7.404347020107277,
+          "lng": 3.910657820107279
+        }
+      },
+      "formatted_address": "21b Aba Akinjide Rd, Agodi 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.405665,3.9119652",
+      "google_place_id": "ChIJ33uhfomMORARPhXbaWT9lJY"
+    }
+  },
+  {
+    "id": "355171",
+    "name": "OPEN SPACE OPP. GT BANK, APATA",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "097",
+    "units": "097",
+    "delimitation": "30/10/12/097",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3832219,
+      "longitude": 3.8347085,
+      "viewport": {
+        "northeast": {
+          "lat": 7.384551879892721,
+          "lng": 3.836057429892722
+        },
+        "southwest": {
+          "lat": 7.381852220107277,
+          "lng": 3.833357770107278
+        }
+      },
+      "formatted_address": "Sw 9/21A Ibadan-Abeokuta Road, Alakia, Apata, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3832219,3.8347085",
+      "google_place_id": "ChIJ3eZTVv-NORARbHu4hQpZEJ4"
+    }
+  },
+  {
+    "id": "355172",
+    "name": "OPEN SPACE INFRONT OF ROVEL INTERNATIONAL SCHOOL",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "098",
+    "units": "098",
+    "delimitation": "30/10/12/098",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3621978,
+      "longitude": 3.8502617,
+      "viewport": {
+        "northeast": {
+          "lat": 7.363403179892724,
+          "lng": 3.851085079892721
+        },
+        "southwest": {
+          "lat": 7.36070352010728,
+          "lng": 3.848385420107277
+        }
+      },
+      "formatted_address": "Sharp corner, Oluyole 200273, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3621978,3.8502617",
+      "google_place_id": "ChIJc6rqoUGNORAR9nbvZRFsGcs"
+    }
+  },
+  {
+    "id": "355173",
+    "name": "APATA COMMUNITY GRAMMER SCHOOL",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "099",
+    "units": "099",
+    "delimitation": "30/10/12/099",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.381359900000001,
+      "longitude": 3.8271649,
+      "viewport": {
+        "northeast": {
+          "lat": 7.382697129892723,
+          "lng": 3.828521579892722
+        },
+        "southwest": {
+          "lat": 7.379997470107279,
+          "lng": 3.825821920107278
+        }
+      },
+      "formatted_address": "African Church Grammar School, Logudu Grammar School, Benbo, Apata, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.381359900000001,3.8271649",
+      "google_place_id": "ChIJVf8Eq4GMORARYUfohgmUS2M"
+    }
+  },
+  {
+    "id": "355174",
+    "name": "OPEN SPACE AT OMUIYADUN HEALTH CENTRE",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "100",
+    "units": "100",
+    "delimitation": "30/10/12/100",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3544041,
+      "longitude": 3.8845861,
+      "viewport": {
+        "northeast": {
+          "lat": 7.355784979892722,
+          "lng": 3.885984329892722
+        },
+        "southwest": {
+          "lat": 7.353085320107279,
+          "lng": 3.883284670107278
+        }
+      },
+      "formatted_address": "1 College Cres, Oyo Oke 200273, Ado, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3544041,3.8845861",
+      "google_place_id": "ChIJL9wCrfGNORAR4R1gA74F6Ok"
+    }
+  },
+  {
+    "id": "355175",
+    "name": "OPEN SPACE BESIDE THE TRUTH APOSTOLIC CHURCH, ISO PAKO",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "101",
+    "units": "101",
+    "delimitation": "30/10/12/101",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.420394000000001,
+      "longitude": 3.8942079,
+      "viewport": {
+        "northeast": {
+          "lat": 7.421743829892723,
+          "lng": 3.895557729892722
+        },
+        "southwest": {
+          "lat": 7.419044170107279,
+          "lng": 3.892858070107279
+        }
+      },
+      "formatted_address": "Iso Pako Road, 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.420394000000001,3.8942079",
+      "google_place_id": "ChIJCyu-MU2NORARG5x95xxVvj4"
+    }
+  },
+  {
+    "id": "355176",
+    "name": "OPEN SPACE OPP. CALVARY CHURCH, APATA",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "102",
+    "units": "102",
+    "delimitation": "30/10/12/102",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.335825199999999,
+      "longitude": 3.9004067,
+      "viewport": {
+        "northeast": {
+          "lat": 7.33717387989272,
+          "lng": 3.901767379892721
+        },
+        "southwest": {
+          "lat": 7.334474220107277,
+          "lng": 3.899067720107277
+        }
+      },
+      "formatted_address": "Victoria Hall, Agbamu Road, Sanyo, 200263, Ibadan, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.335825199999999,3.9004067",
+      "google_place_id": "ChIJ0S3T6P2NORARpd1bHTsOkDY"
+    }
+  },
+  {
+    "id": "355177",
+    "name": "OPEN SPACE AT APATA BAPTIST CHURCH",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "103",
+    "units": "103",
+    "delimitation": "30/10/12/103",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.386619899999999,
+      "longitude": 3.8259101,
+      "viewport": {
+        "northeast": {
+          "lat": 7.388028779892721,
+          "lng": 3.827219879892723
+        },
+        "southwest": {
+          "lat": 7.385329120107277,
+          "lng": 3.824520220107279
+        }
+      },
+      "formatted_address": "9RPG+JCF, Adifase Street, Apata 200131, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.386619899999999,3.8259101",
+      "google_place_id": "ChIJXzvPVuGNORAR7DfDQ-sL_eA"
+    }
+  },
+  {
+    "id": "355178",
+    "name": "OPEN SPACE AT TOWOBOLA PLAZA, TEMIDIRE",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "104",
+    "units": "104",
+    "delimitation": "30/10/12/104",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.369401000000001,
+      "longitude": 3.8216811,
+      "viewport": {
+        "northeast": {
+          "lat": 7.370750829892723,
+          "lng": 3.823030929892721
+        },
+        "southwest": {
+          "lat": 7.368051170107279,
+          "lng": 3.820331270107277
+        }
+      },
+      "formatted_address": "Temidire Ave, 200131, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.369401000000001,3.8216811",
+      "google_place_id": "ChIJ4XGmWIaLORARgVjAhWttmVI"
+    }
+  },
+  {
+    "id": "355179",
+    "name": "OPEN SPACE OPP. FIRST BAPTIST CHURCH",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "105",
+    "units": "105",
+    "delimitation": "30/10/12/105",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.383228799999999,
+      "longitude": 3.8909777,
+      "viewport": {
+        "northeast": {
+          "lat": 7.384468529892721,
+          "lng": 3.892344029892722
+        },
+        "southwest": {
+          "lat": 7.381768870107277,
+          "lng": 3.889644370107278
+        }
+      },
+      "formatted_address": "Idikan Street, 200284, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.383228799999999,3.8909777",
+      "google_place_id": "ChIJD5pjcHSNORARGPWzn5Dlizs"
+    }
+  },
+  {
+    "id": "355180",
+    "name": "OPEN SPACE OPP. OANDO FILLING STATION, APATA",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "106",
+    "units": "106",
+    "delimitation": "30/10/12/106",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.416334,
+      "longitude": 3.8950654,
+      "viewport": {
+        "northeast": {
+          "lat": 7.417643229892723,
+          "lng": 3.896538229892722
+        },
+        "southwest": {
+          "lat": 7.414943570107279,
+          "lng": 3.893838570107278
+        }
+      },
+      "formatted_address": "Oyo Rd, 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.416334,3.8950654",
+      "google_place_id": "ChIJE11T702NORAR0c8WVZTUriw"
+    }
+  },
+  {
+    "id": "355181",
+    "name": "OPEN SPACE BESIDE NIPCO FILLING STATION, APATA",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "107",
+    "units": "107",
+    "delimitation": "30/10/12/107",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.427897899999999,
+      "longitude": 3.8922657,
+      "viewport": {
+        "northeast": {
+          "lat": 7.429333029892722,
+          "lng": 3.893583479892721
+        },
+        "southwest": {
+          "lat": 7.426633370107278,
+          "lng": 3.890883820107277
+        }
+      },
+      "formatted_address": "CVHR+5W2, Sango Eleyele Road, 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.427897899999999,3.8922657",
+      "google_place_id": "ChIJ3bLQarHyORARS6ddYPr6Cgc"
+    }
+  },
+  {
+    "id": "355182",
+    "name": "OPEN SPACE BESIDE CHRIST APOSTOLIC CHURCH, ABA ALAMU",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "108",
+    "units": "108",
+    "delimitation": "30/10/12/108",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355183",
+    "name": "OPEN SPACE OPP. YEMBTOR OIL, ODO ALARO",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "109",
+    "units": "109",
+    "delimitation": "30/10/12/109",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355184",
+    "name": "OPEN SPACE AT ILUPEJU STREET, JOHNSON AWE",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "110",
+    "units": "110",
+    "delimitation": "30/10/12/110",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355185",
+    "name": "OPEN SPACE AT BODE STREET, ROAD 5, JOHNSON AWE",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "111",
+    "units": "111",
+    "delimitation": "30/10/12/111",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.349215399999999,
+      "longitude": 3.8854453,
+      "viewport": {
+        "northeast": {
+          "lat": 7.35056522989272,
+          "lng": 3.886795129892722
+        },
+        "southwest": {
+          "lat": 7.347865570107277,
+          "lng": 3.884095470107278
+        }
+      },
+      "formatted_address": "Bode Williams Street, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.349215399999999,3.8854453",
+      "google_place_id": "ChIJ4ztjesKNORARqTzlXXLdOMc"
+    }
+  },
+  {
+    "id": "355186",
+    "name": "OPEN SPACE AT ENDURING WORD CHURCH",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "112",
+    "units": "112",
+    "delimitation": "30/10/12/112",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355187",
+    "name": "OPEN SPACE OPP. RCCG REVIVAL STREET",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "113",
+    "units": "113",
+    "delimitation": "30/10/12/113",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355188",
+    "name": "OPEN SPACE OPP. K YELLOW HOTEL",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "114",
+    "units": "114",
+    "delimitation": "30/10/12/114",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.366319000000001,
+      "longitude": 3.8176186,
+      "viewport": {
+        "northeast": {
+          "lat": 7.367767629892723,
+          "lng": 3.818971529892722
+        },
+        "southwest": {
+          "lat": 7.365067970107279,
+          "lng": 3.816271870107278
+        }
+      },
+      "formatted_address": "No 16-18 K Yellow St, off Akala Expressway, EXTENTION, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.366319000000001,3.8176186",
+      "google_place_id": "ChIJ_Xp2KsuNORARduFgKIjsTEs"
+    }
+  },
+  {
+    "id": "355189",
+    "name": "OPEN SPACE OPP. NEW LIFE CHURCH, ADEDAYO",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "115",
+    "units": "115",
+    "delimitation": "30/10/12/115",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355190",
+    "name": "OPEN SPACE AT SOYOMBO STREET, KUOLA",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "116",
+    "units": "116",
+    "delimitation": "30/10/12/116",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3658342,
+      "longitude": 3.8151936,
+      "viewport": {
+        "northeast": {
+          "lat": 7.387836150000052,
+          "lng": 3.817916400000001
+        },
+        "southwest": {
+          "lat": 7.343816749999944,
+          "lng": 3.812967199999999
+        }
+      },
+      "formatted_address": "Kuola - Aba Paanu Rd, 200131, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3658342,3.8151936",
+      "google_place_id": "Ei1LdW9sYSAtIEFiYSBQYWFudSBSZCwgMjAwMTMxLCBJYmFkYW4sIE5pZ2VyaWEiLiosChQKEglxT3_Pj4s5EBELsXVqL-a_jRIUChIJSz0Vs2OMORARBoSgioFhww8"
+    }
+  },
+  {
+    "id": "355191",
+    "name": "OPEN SPACE UNCLE D BUS STOP EGBATEDO STREET",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "117",
+    "units": "117",
+    "delimitation": "30/10/12/117",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355192",
+    "name": "OPEN SPACE AT OKE ODO ALARO, BEMBO ROAD",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "118",
+    "units": "118",
+    "delimitation": "30/10/12/118",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355193",
+    "name": "OPEN SPACE OPP. ADETUTU ARINOLA PLAZA, OWODE",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "119",
+    "units": "119",
+    "delimitation": "30/10/12/119",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355194",
+    "name": "OPEN SPACE AT ALAAFIA STR. TEMIDIRE, GBEKUBA",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "120",
+    "units": "120",
+    "delimitation": "30/10/12/120",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.369401000000001,
+      "longitude": 3.8216811,
+      "viewport": {
+        "northeast": {
+          "lat": 7.370750829892723,
+          "lng": 3.823030929892721
+        },
+        "southwest": {
+          "lat": 7.368051170107279,
+          "lng": 3.820331270107277
+        }
+      },
+      "formatted_address": "Temidire Ave, 200131, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.369401000000001,3.8216811",
+      "google_place_id": "ChIJ4XGmWIaLORARgVjAhWttmVI"
+    }
+  },
+  {
+    "id": "355195",
+    "name": "OPEN SAPCE OPP. AJIBI QUARTERS, ROAD B",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "121",
+    "units": "121",
+    "delimitation": "30/10/12/121",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.418726,
+      "longitude": 3.8755013,
+      "viewport": {
+        "northeast": {
+          "lat": 7.420075829892721,
+          "lng": 3.876851129892722
+        },
+        "southwest": {
+          "lat": 7.417376170107277,
+          "lng": 3.874151470107278
+        }
+      },
+      "formatted_address": "Rd B, 200284, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.418726,3.8755013",
+      "google_place_id": "ChIJ634AgTKNORARWWHlU_3EmaQ"
+    }
+  },
+  {
+    "id": "355196",
+    "name": "AFRICAN CHURCH GRAMMAR SCHOOL I",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "122",
+    "units": "122",
+    "delimitation": "30/10/12/122",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.382263500000001,
+      "longitude": 3.8285,
+      "viewport": {
+        "northeast": {
+          "lat": 7.383623479892722,
+          "lng": 3.829792779892722
+        },
+        "southwest": {
+          "lat": 7.380923820107278,
+          "lng": 3.827093120107278
+        }
+      },
+      "formatted_address": "6FV59RJG+9XV, 9 Apata Rd, 200131, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.382263500000001,3.8285",
+      "google_place_id": "ChIJpx2JB8yNORARiTzCh6Di-gQ"
+    }
+  },
+  {
+    "id": "355197",
+    "name": "AFRICAN CHURCH GRAMMAR SCHOOL II",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "123",
+    "units": "123",
+    "delimitation": "30/10/12/123",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3809334,
+      "longitude": 3.8270494,
+      "viewport": {
+        "northeast": {
+          "lat": 7.382250679892722,
+          "lng": 3.828183529892722
+        },
+        "southwest": {
+          "lat": 7.379551020107278,
+          "lng": 3.825483870107278
+        }
+      },
+      "formatted_address": "African Church Grammar School, 200131, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3809334,3.8270494",
+      "google_place_id": "ChIJh5ma-ICMORARtTFOq_mspyY"
+    }
+  },
+  {
+    "id": "355198",
+    "name": "OPEN SPACE INFRONT OF WILLIAMSON MULTIPURPOSE HALL",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "124",
+    "units": "124",
+    "delimitation": "30/10/12/124",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.362735199999999,
+      "longitude": 3.8461265,
+      "viewport": {
+        "northeast": {
+          "lat": 7.364095679892722,
+          "lng": 3.847342879892722
+        },
+        "southwest": {
+          "lat": 7.361396020107278,
+          "lng": 3.844643220107278
+        }
+      },
+      "formatted_address": "Oluyole Estate Road, Oluyole 200273, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.362735199999999,3.8461265",
+      "google_place_id": "ChIJP3yXHEKMORARi13hQMM3Chg"
+    }
+  },
+  {
+    "id": "355199",
+    "name": "OPEN SPACE INFRONT OF DEJI AKINSO STREET",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "125",
+    "units": "125",
+    "delimitation": "30/10/12/125",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.356129300000001,
+      "longitude": 3.8636502,
+      "viewport": {
+        "northeast": {
+          "lat": 7.357499929892723,
+          "lng": 3.865000529892722
+        },
+        "southwest": {
+          "lat": 7.354800270107279,
+          "lng": 3.862300870107279
+        }
+      },
+      "formatted_address": "9V47+CCH, Court Road, Off New Adeoyo State Hospital Road, Off Ring Road, GRA, South West, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.356129300000001,3.8636502",
+      "google_place_id": "ChIJYYgIZTWMORARVYGU-LlF-rA"
+    }
+  },
+  {
+    "id": "355200",
+    "name": "OPEN SPACE BESIDE PEOPLE'S BAPTIST CHURCH, OLUYOLE EXTENSION",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "126",
+    "units": "126",
+    "delimitation": "30/10/12/126",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.365764899999999,
+      "longitude": 3.8469223,
+      "viewport": {
+        "northeast": {
+          "lat": 7.367124479892722,
+          "lng": 3.848403379892722
+        },
+        "southwest": {
+          "lat": 7.364424820107278,
+          "lng": 3.845703720107278
+        }
+      },
+      "formatted_address": "Oluyole Extension High School, Oluyole 200273, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.365764899999999,3.8469223",
+      "google_place_id": "ChIJ7QJ570KMORAR1iGRt_WYNp0"
+    }
+  },
+  {
+    "id": "355201",
+    "name": "OPEN SPACE OPP. WAW, ZOE HOSP. JUNCTION",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "127",
+    "units": "127",
+    "delimitation": "30/10/12/127",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355202",
+    "name": "OPEN SPACE BESIDE RACHEAL PLACE",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "128",
+    "units": "128",
+    "delimitation": "30/10/12/128",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.362699999999998,
+      "longitude": 3.816399999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.364055479892722,
+          "lng": 3.817749629892722
+        },
+        "southwest": {
+          "lat": 7.361355820107278,
+          "lng": 3.815049970107278
+        }
+      },
+      "formatted_address": "Oluyole No 14 abore block c plot b aayegun area, Oluyole, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.362699999999998,3.816399999999999",
+      "google_place_id": "ChIJux0rmtmLORARqKw42KcVSpI"
+    }
+  },
+  {
+    "id": "355203",
+    "name": "OPEN SPACE AT OLUYOLE ZONE 3 ESTATE JUNCTION",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "129",
+    "units": "129",
+    "delimitation": "30/10/12/129",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355204",
+    "name": "OPEN SPACE OPP. REHOBOTH CHURCH",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "130",
+    "units": "130",
+    "delimitation": "30/10/12/130",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355205",
+    "name": "OPEN SPACE INFRONT OF IBADAN PROMINENT HEIGHT COLLEGE",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "131",
+    "units": "131",
+    "delimitation": "30/10/12/131",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3663323,
+      "longitude": 3.8350652,
+      "viewport": {
+        "northeast": {
+          "lat": 7.367578579892722,
+          "lng": 3.836405479892721
+        },
+        "southwest": {
+          "lat": 7.364878920107278,
+          "lng": 3.833705820107277
+        }
+      },
+      "formatted_address": "9R8P+G2P, Oluyole 200131, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3663323,3.8350652",
+      "google_place_id": "ChIJXXiMwoeNORARVoDsjOLo1zs"
+    }
+  },
+  {
+    "id": "355206",
+    "name": "OPEN SPACE AT MAIN AVE. ALALUBOSA GRA",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "132",
+    "units": "132",
+    "delimitation": "30/10/12/132",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.381134999999999,
+      "longitude": 3.862366899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.382526179892722,
+          "lng": 3.863755029892722
+        },
+        "southwest": {
+          "lat": 7.379826520107278,
+          "lng": 3.861055370107278
+        }
+      },
+      "formatted_address": "3, Adansonia close off Main Avenue, Iyaganku- Alalubosa Road, GRA 200273, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.381134999999999,3.862366899999999",
+      "google_place_id": "ChIJyw-BcY-NORAREA-czXQzhSE"
+    }
+  },
+  {
+    "id": "355207",
+    "name": "OPEN SPACE OPP. UNION OFFICE, TIPPER GARAGE",
+    "registration_area_id": "18145",
+    "precise_location": null,
+    "abbreviation": "133",
+    "units": "133",
+    "delimitation": "30/10/12/133",
+    "remark": "NEW PU",
+    "ward_id": "18145",
+    "ward_name": "WARD 12 SW9 II",
+    "local_government_id": "637",
+    "local_government_name": "IBADAN SOUTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  }
+]

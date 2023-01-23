@@ -1,0 +1,382 @@
+[
+  {
+    "id": "350164",
+    "name": "IREE ROAD/MATERNITY",
+    "registration_area_id": "17848",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "29/14/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17848",
+    "ward_name": "OBAGUN",
+    "local_government_id": "772",
+    "local_government_name": "IFELODUN",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.9286295,
+      "longitude": 4.6774216,
+      "viewport": {
+        "northeast": {
+          "lat": 7.930047279892722,
+          "lng": 4.678824179892722
+        },
+        "southwest": {
+          "lat": 7.927347620107278,
+          "lng": 4.676124520107278
+        }
+      },
+      "formatted_address": "WMHG+FX3, Ila Orangun Road, 231111, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9286295,4.6774216",
+      "google_place_id": "ChIJk7XWbIaNNxARWErbW1E3xUk"
+    }
+  },
+  {
+    "id": "350165",
+    "name": "OBAAGUN/ST. MICHAEL PRY. SCH., OBAAGUN I",
+    "registration_area_id": "17848",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "29/14/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17848",
+    "ward_name": "OBAGUN",
+    "local_government_id": "772",
+    "local_government_name": "IFELODUN",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "350166",
+    "name": "OBAAGUN/ST. MICHAEL PRY. SCH., II",
+    "registration_area_id": "17848",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "29/14/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17848",
+    "ward_name": "OBAGUN",
+    "local_government_id": "772",
+    "local_government_name": "IFELODUN",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.960235699999999,
+      "longitude": 4.6812086,
+      "viewport": {
+        "northeast": {
+          "lat": 7.96169737989272,
+          "lng": 4.682076349999998
+        },
+        "southwest": {
+          "lat": 7.958997720107276,
+          "lng": 4.678605350000002
+        }
+      },
+      "formatted_address": "Ree Road, 231105, Obaagun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.960235699999999,4.6812086",
+      "google_place_id": "ChIJC1ImYICSNxAR3FxKpv7ffVU"
+    }
+  },
+  {
+    "id": "350167",
+    "name": "AOGUN'S COMPOUND/AOGUN/BABER CENTRE",
+    "registration_area_id": "17848",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "29/14/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17848",
+    "ward_name": "OBAGUN",
+    "local_government_id": "772",
+    "local_government_name": "IFELODUN",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.9319882,
+      "longitude": 4.6813688,
+      "viewport": {
+        "northeast": {
+          "lat": 7.933204529892721,
+          "lng": 4.682595479892722
+        },
+        "southwest": {
+          "lat": 7.930504870107277,
+          "lng": 4.679895820107278
+        }
+      },
+      "formatted_address": "Km 2, Iree Expressway, Igbota Area Ifelodun, 231108, Obaagun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9319882,4.6813688",
+      "google_place_id": "ChIJtZuOtOyNNxARjKRKJmcBlgA"
+    }
+  },
+  {
+    "id": "350168",
+    "name": "OBAAGN/COURT HALL OBAAGUN I",
+    "registration_area_id": "17848",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "29/14/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17848",
+    "ward_name": "OBAGUN",
+    "local_government_id": "772",
+    "local_government_name": "IFELODUN",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.9319882,
+      "longitude": 4.6813688,
+      "viewport": {
+        "northeast": {
+          "lat": 7.933204529892721,
+          "lng": 4.682595479892722
+        },
+        "southwest": {
+          "lat": 7.930504870107277,
+          "lng": 4.679895820107278
+        }
+      },
+      "formatted_address": "Km 2, Iree Expressway, Igbota Area Ifelodun, 231108, Obaagun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9319882,4.6813688",
+      "google_place_id": "ChIJtZuOtOyNNxARjKRKJmcBlgA"
+    }
+  },
+  {
+    "id": "350169",
+    "name": "EESA SQUARE/EESA SQUARE I",
+    "registration_area_id": "17848",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "29/14/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17848",
+    "ward_name": "OBAGUN",
+    "local_government_id": "772",
+    "local_government_name": "IFELODUN",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.752844999999999,
+      "longitude": 4.894941,
+      "viewport": {
+        "northeast": {
+          "lat": 7.754670829892722,
+          "lng": 4.896286829892722
+        },
+        "southwest": {
+          "lat": 7.751971170107278,
+          "lng": 4.893587170107279
+        }
+      },
+      "formatted_address": "Market Square, P. M. B. 1014,Esa Oke, 100221, Esa Oke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.752844999999999,4.894941",
+      "google_place_id": "ChIJe6BgaqsCOBAR5znTjaYoW5A"
+    }
+  },
+  {
+    "id": "350170",
+    "name": "EESA SQUARE/EESA SQUARE II",
+    "registration_area_id": "17848",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "29/14/11/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17848",
+    "ward_name": "OBAGUN",
+    "local_government_id": "772",
+    "local_government_name": "IFELODUN",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.752844999999999,
+      "longitude": 4.894941,
+      "viewport": {
+        "northeast": {
+          "lat": 7.754670829892722,
+          "lng": 4.896286829892722
+        },
+        "southwest": {
+          "lat": 7.751971170107278,
+          "lng": 4.893587170107279
+        }
+      },
+      "formatted_address": "Market Square, P. M. B. 1014,Esa Oke, 100221, Esa Oke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.752844999999999,4.894941",
+      "google_place_id": "ChIJe6BgaqsCOBAR5znTjaYoW5A"
+    }
+  },
+  {
+    "id": "350171",
+    "name": "OKE SUURU OBAAGUN",
+    "registration_area_id": "17848",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "29/14/11/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17848",
+    "ward_name": "OBAGUN",
+    "local_government_id": "772",
+    "local_government_name": "IFELODUN",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.960235699999999,
+      "longitude": 4.6812086,
+      "viewport": {
+        "northeast": {
+          "lat": 7.9725115,
+          "lng": 4.704318799999999
+        },
+        "southwest": {
+          "lat": 7.9482807,
+          "lng": 4.6702899
+        }
+      },
+      "formatted_address": "Obaagun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.960235699999999,4.6812086",
+      "google_place_id": "ChIJHftBomySNxARvt8AmBhyEY8"
+    }
+  },
+  {
+    "id": "350172",
+    "name": "OLORUNSOGO AREA/OLORUNSOGO",
+    "registration_area_id": "17848",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "29/14/11/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17848",
+    "ward_name": "OBAGUN",
+    "local_government_id": "772",
+    "local_government_name": "IFELODUN",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.815532,
+      "longitude": 4.5108862,
+      "viewport": {
+        "northeast": {
+          "lat": 7.871244799999999,
+          "lng": 4.561105599999999
+        },
+        "southwest": {
+          "lat": 7.756870399999999,
+          "lng": 4.486701399999999
+        }
+      },
+      "formatted_address": "Okin Ni/Olorunsogo/Ofatedo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.815532,4.5108862",
+      "google_place_id": "ChIJ0SgsdVeGNxAR_C5t1bYF2Lk"
+    }
+  },
+  {
+    "id": "350173",
+    "name": "NAWAR-UL-DEEN PRIMARY SCHOOL, OBAAGUN",
+    "registration_area_id": "17848",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "29/14/11/010",
+    "remark": "NEW PU",
+    "ward_id": "17848",
+    "ward_name": "OBAGUN",
+    "local_government_id": "772",
+    "local_government_name": "IFELODUN",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.960235699999999,
+      "longitude": 4.6812086,
+      "viewport": {
+        "northeast": {
+          "lat": 7.96169737989272,
+          "lng": 4.682076349999998
+        },
+        "southwest": {
+          "lat": 7.958997720107276,
+          "lng": 4.678605350000002
+        }
+      },
+      "formatted_address": "Ree Road, 231105, Obaagun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.960235699999999,4.6812086",
+      "google_place_id": "ChIJC1ImYICSNxAR3FxKpv7ffVU"
+    }
+  },
+  {
+    "id": "350174",
+    "name": "COMMUNITY SECONDARY SCHOOL, OKE SUURU, OBAAGUN",
+    "registration_area_id": "17848",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "29/14/11/011",
+    "remark": "NEW PU",
+    "ward_id": "17848",
+    "ward_name": "OBAGUN",
+    "local_government_id": "772",
+    "local_government_name": "IFELODUN",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.960235699999999,
+      "longitude": 4.6812086,
+      "viewport": {
+        "northeast": {
+          "lat": 7.96169737989272,
+          "lng": 4.682076349999998
+        },
+        "southwest": {
+          "lat": 7.958997720107276,
+          "lng": 4.678605350000002
+        }
+      },
+      "formatted_address": "Ree Road, 231105, Obaagun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.960235699999999,4.6812086",
+      "google_place_id": "ChIJC1ImYICSNxAR3FxKpv7ffVU"
+    }
+  },
+  {
+    "id": "350175",
+    "name": "OPEN SPACE, IYANA OKE GLO JUNCTION, OPP. IBUKUN OLU HOSPITAL",
+    "registration_area_id": "17848",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "29/14/11/012",
+    "remark": "NEW PU",
+    "ward_id": "17848",
+    "ward_name": "OBAGUN",
+    "local_government_id": "772",
+    "local_government_name": "IFELODUN",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.840111199999999,
+      "longitude": 4.4815307,
+      "viewport": {
+        "northeast": {
+          "lat": 7.841438379892722,
+          "lng": 4.482977829892722
+        },
+        "southwest": {
+          "lat": 7.838738720107278,
+          "lng": 4.480278170107278
+        }
+      },
+      "formatted_address": "RFRJ+2JR, Unnamed Road, 230102, Ilobu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.840111199999999,4.4815307",
+      "google_place_id": "ChIJ_0M0XBqHNxARfrkhJnO03OE"
+    }
+  }
+]

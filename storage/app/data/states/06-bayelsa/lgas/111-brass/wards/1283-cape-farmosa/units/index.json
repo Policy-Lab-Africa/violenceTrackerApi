@@ -1,0 +1,583 @@
+[
+  {
+    "id": "23701",
+    "name": "STATE SCHOOL, EGWEAMA",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "06/01/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.308078099999999,
+      "longitude": 6.243081399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.309163129892722,
+          "lng": 6.244202179892722
+        },
+        "southwest": {
+          "lat": 4.306463470107278,
+          "lng": 6.241502520107278
+        }
+      },
+      "formatted_address": "865V+75C, 562101, Brass, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.308078099999999,6.243081399999999",
+      "google_place_id": "ChIJJyV2fQvSaxARxUmVhlSRPO8"
+    }
+  },
+  {
+    "id": "23702",
+    "name": "OPEN SPACE, EGWEAMA",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "06/01/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.3052417,
+      "longitude": 6.193741,
+      "viewport": {
+        "northeast": {
+          "lat": 4.306565379892723,
+          "lng": 6.195081429892721
+        },
+        "southwest": {
+          "lat": 4.303865720107279,
+          "lng": 6.192381770107278
+        }
+      },
+      "formatted_address": "854V+3FX, 562101, Igbabele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.3052417,6.193741",
+      "google_place_id": "ChIJcQVqZzPMaxAR01qphrAy3qc"
+    }
+  },
+  {
+    "id": "23703",
+    "name": "TOWN HALL, EGWEAMA",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "06/01/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.032679799999999,
+      "longitude": 6.310970600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.034027079892722,
+          "lng": 6.312302279892722
+        },
+        "southwest": {
+          "lat": 5.031327420107278,
+          "lng": 6.309602620107278
+        }
+      },
+      "formatted_address": "28M6+39H, Obunagha, Gbarain, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.032679799999999,6.310970600000001",
+      "google_place_id": "ChIJMwnAbff9QRAR83HvrBdMX4A"
+    }
+  },
+  {
+    "id": "23704",
+    "name": "WAGITIA, OPEN SPACE",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "06/01/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": null
+  },
+  {
+    "id": "23705",
+    "name": "MKT. SQUARE, EGWEAMA",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "06/01/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.947597099999999,
+      "longitude": 6.333151,
+      "viewport": {
+        "northeast": {
+          "lat": 4.948916329892721,
+          "lng": 6.334449129892722
+        },
+        "southwest": {
+          "lat": 4.946216670107277,
+          "lng": 6.331749470107278
+        }
+      },
+      "formatted_address": "W8XM+27J, 569101, Biogbolo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.947597099999999,6.333151",
+      "google_place_id": "ChIJDcGKIVgBahARWDXDtxw26ws"
+    }
+  },
+  {
+    "id": "23706",
+    "name": "EGEREGERE, OPEN SPACE",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "06/01/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9076056,
+      "longitude": 6.2917919,
+      "viewport": {
+        "northeast": {
+          "lat": 4.908653779892722,
+          "lng": 6.293259529892722
+        },
+        "southwest": {
+          "lat": 4.905954120107278,
+          "lng": 6.290559870107278
+        }
+      },
+      "formatted_address": "Transparency Plaza, 5 Oxbow Lake Road, beside CBN Headquarters, 560212, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9076056,6.2917919",
+      "google_place_id": "ChIJw7xDJ2IFahAROrivDEtvAqo"
+    }
+  },
+  {
+    "id": "23707",
+    "name": "EGWEAMA -OGBO, OPEN SPACE",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "06/01/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": null
+  },
+  {
+    "id": "23708",
+    "name": "GBENE,  OPEN SPACE",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "06/01/06/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9076056,
+      "longitude": 6.2917919,
+      "viewport": {
+        "northeast": {
+          "lat": 4.908653779892722,
+          "lng": 6.293259529892722
+        },
+        "southwest": {
+          "lat": 4.905954120107278,
+          "lng": 6.290559870107278
+        }
+      },
+      "formatted_address": "Transparency Plaza, 5 Oxbow Lake Road, beside CBN Headquarters, 560212, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9076056,6.2917919",
+      "google_place_id": "ChIJw7xDJ2IFahAROrivDEtvAqo"
+    }
+  },
+  {
+    "id": "23709",
+    "name": "POTAKOTIKIRI, OPEN SPACE",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "06/01/06/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": null
+  },
+  {
+    "id": "23710",
+    "name": "JOWEIKIRI, OPEN SPACE",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "06/01/06/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9076056,
+      "longitude": 6.2917919,
+      "viewport": {
+        "northeast": {
+          "lat": 4.908653779892722,
+          "lng": 6.293259529892722
+        },
+        "southwest": {
+          "lat": 4.905954120107278,
+          "lng": 6.290559870107278
+        }
+      },
+      "formatted_address": "Transparency Plaza, 5 Oxbow Lake Road, beside CBN Headquarters, 560212, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9076056,6.2917919",
+      "google_place_id": "ChIJw7xDJ2IFahAROrivDEtvAqo"
+    }
+  },
+  {
+    "id": "23711",
+    "name": "STATE SCHOOL, LIAMA",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "06/01/06/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.2856964,
+      "longitude": 6.177731,
+      "viewport": {
+        "northeast": {
+          "lat": 4.287046229892722,
+          "lng": 6.179080829892721
+        },
+        "southwest": {
+          "lat": 4.284346570107278,
+          "lng": 6.176381170107277
+        }
+      },
+      "formatted_address": "75PH+73H, 562101, Brass, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.2856964,6.177731",
+      "google_place_id": "ChIJo2kUQQDPaxARHlhHZ4gLez0"
+    }
+  },
+  {
+    "id": "23712",
+    "name": "LIAMA - OGBO, OPEN SPACE",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "06/01/06/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": null
+  },
+  {
+    "id": "23713",
+    "name": "SIKOKODU, OPEN SPACE",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "06/01/06/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": null
+  },
+  {
+    "id": "23714",
+    "name": "DIOPOLO OPEN SPACE",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "06/01/06/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9067925,
+      "longitude": 6.2863023,
+      "viewport": {
+        "northeast": {
+          "lat": 4.908068979892722,
+          "lng": 6.287650829892721
+        },
+        "southwest": {
+          "lat": 4.905369320107278,
+          "lng": 6.284951170107277
+        }
+      },
+      "formatted_address": "along Oxbow-lake, Alamieyesegha Rd, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9067925,6.2863023",
+      "google_place_id": "ChIJL2n5BxQFahARN2rcQPzGobQ"
+    }
+  },
+  {
+    "id": "23715",
+    "name": "BUDUDIE, OPEN SPACE",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "06/01/06/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": null
+  },
+  {
+    "id": "23716",
+    "name": "OGBOPOLO, OPEN SPACE",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "06/01/06/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9076056,
+      "longitude": 6.2917919,
+      "viewport": {
+        "northeast": {
+          "lat": 4.908653779892722,
+          "lng": 6.293259529892722
+        },
+        "southwest": {
+          "lat": 4.905954120107278,
+          "lng": 6.290559870107278
+        }
+      },
+      "formatted_address": "Transparency Plaza, 5 Oxbow Lake Road, beside CBN Headquarters, 560212, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9076056,6.2917919",
+      "google_place_id": "ChIJw7xDJ2IFahAROrivDEtvAqo"
+    }
+  },
+  {
+    "id": "23717",
+    "name": "IGBAGELE SECONDARY SCH, IGBAGELE",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "06/01/06/017",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.308078099999999,
+      "longitude": 6.243081399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.309163129892722,
+          "lng": 6.244202179892722
+        },
+        "southwest": {
+          "lat": 4.306463470107278,
+          "lng": 6.241502520107278
+        }
+      },
+      "formatted_address": "865V+75C, 562101, Brass, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.308078099999999,6.243081399999999",
+      "google_place_id": "ChIJJyV2fQvSaxARxUmVhlSRPO8"
+    }
+  },
+  {
+    "id": "23718",
+    "name": "OPU POLO TIKIRI, OPEN SPACE",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "06/01/06/018",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": null
+  },
+  {
+    "id": "23719",
+    "name": "BRUTUS COMPOUND, IGBAGELE",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "06/01/06/019",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9067925,
+      "longitude": 6.2863023,
+      "viewport": {
+        "northeast": {
+          "lat": 4.908068979892722,
+          "lng": 6.287650829892721
+        },
+        "southwest": {
+          "lat": 4.905369320107278,
+          "lng": 6.284951170107277
+        }
+      },
+      "formatted_address": "along Oxbow-lake, Alamieyesegha Rd, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9067925,6.2863023",
+      "google_place_id": "ChIJL2n5BxQFahARN2rcQPzGobQ"
+    }
+  },
+  {
+    "id": "23720",
+    "name": "HOLY LAND, IGBAGELE",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "06/01/06/020",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9067925,
+      "longitude": 6.2863023,
+      "viewport": {
+        "northeast": {
+          "lat": 4.908068979892722,
+          "lng": 6.287650829892721
+        },
+        "southwest": {
+          "lat": 4.905369320107278,
+          "lng": 6.284951170107277
+        }
+      },
+      "formatted_address": "along Oxbow-lake, Alamieyesegha Rd, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9067925,6.2863023",
+      "google_place_id": "ChIJL2n5BxQFahARN2rcQPzGobQ"
+    }
+  },
+  {
+    "id": "23721",
+    "name": "IKPIRIKIRIPOLO, IGBAGELE",
+    "registration_area_id": "1283",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "06/01/06/021",
+    "remark": "EXISTING PU",
+    "ward_id": "1283",
+    "ward_name": "CAPE FARMOSA",
+    "local_government_id": "111",
+    "local_government_name": "BRASS",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.3021601,
+      "longitude": 6.2937874,
+      "viewport": {
+        "northeast": {
+          "lat": 4.303750879892721,
+          "lng": 6.295244279892722
+        },
+        "southwest": {
+          "lat": 4.301051220107277,
+          "lng": 6.292544620107278
+        }
+      },
+      "formatted_address": "Kaiko Polo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.3021601,6.2937874",
+      "google_place_id": "ChIJkyvo-MTTaxARr-baviqC81k"
+    }
+  }
+]

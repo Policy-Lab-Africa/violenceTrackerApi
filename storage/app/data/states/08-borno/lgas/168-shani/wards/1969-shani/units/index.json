@@ -1,0 +1,754 @@
+[
+  {
+    "id": "35950",
+    "name": "VIEWING CENTRE, VIEWING CENTRE I",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/27/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.2179556,
+      "longitude": 12.0620908,
+      "viewport": {
+        "northeast": {
+          "lat": 10.21949037989272,
+          "lng": 12.06348037989272
+        },
+        "southwest": {
+          "lat": 10.21679072010728,
+          "lng": 12.06078072010728
+        }
+      },
+      "formatted_address": "6396+5RG, 603110, Shani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2179556,12.0620908",
+      "google_place_id": "ChIJwSu-6_wH_hARlTsmKuAGtX0"
+    }
+  },
+  {
+    "id": "35951",
+    "name": "VIEWING CENTRE, VIEWING CENTRE II",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/27/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.2179556,
+      "longitude": 12.0620908,
+      "viewport": {
+        "northeast": {
+          "lat": 10.21949037989272,
+          "lng": 12.06348037989272
+        },
+        "southwest": {
+          "lat": 10.21679072010728,
+          "lng": 12.06078072010728
+        }
+      },
+      "formatted_address": "6396+5RG, 603110, Shani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2179556,12.0620908",
+      "google_place_id": "ChIJwSu-6_wH_hARlTsmKuAGtX0"
+    }
+  },
+  {
+    "id": "35952",
+    "name": "BIGARI PRI. SCH., BIGARU I",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/27/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8372624,
+      "longitude": 13.1433734,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83843587989272,
+          "lng": 13.14473802989272
+        },
+        "southwest": {
+          "lat": 11.83573622010728,
+          "lng": 13.14203837010728
+        }
+      },
+      "formatted_address": "R4PV+W89, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8372624,13.1433734",
+      "google_place_id": "ChIJV4RgiTufBBEROZiqC2vPaj0"
+    }
+  },
+  {
+    "id": "35953",
+    "name": "KOFAR MAI UNGUWA, BIGARU II",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/27/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.2182636,
+      "longitude": 12.0672757,
+      "viewport": {
+        "northeast": {
+          "lat": 10.21968517989272,
+          "lng": 12.06865112989272
+        },
+        "southwest": {
+          "lat": 10.21698552010728,
+          "lng": 12.06595147010728
+        }
+      },
+      "formatted_address": "Bigaru Primary School, 603110, Shani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2182636,12.0672757",
+      "google_place_id": "ChIJaWXMvv4H_hARyYp7nBanAAE"
+    }
+  },
+  {
+    "id": "35954",
+    "name": "VET. OFFICE, VETERINARY I",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/27/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35955",
+    "name": "MAI-UNGUWA, VETERINARY II",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/27/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35956",
+    "name": "KOFAR MAIUNGUWA MUSA, UNGUWA HAUSAWA I",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/27/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35957",
+    "name": "KOFAR MAIUNGUWA, ANGUWAN HAUSAWA II",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "08/27/10/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35958",
+    "name": "ADMIN BLOCK, GSS SHANI",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "08/27/10/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35959",
+    "name": "NGABU PRI. SCH., NGABU I",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "08/27/10/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35960",
+    "name": "NGABU PRI. SCH., NGABU II",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "08/27/10/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8912494,
+      "longitude": 13.1429744,
+      "viewport": {
+        "northeast": {
+          "lat": 11.89248092989272,
+          "lng": 13.14387237989272
+        },
+        "southwest": {
+          "lat": 11.88978127010728,
+          "lng": 13.14117272010728
+        }
+      },
+      "formatted_address": "V4RV+F5X, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8912494,13.1429744",
+      "google_place_id": "ChIJ8fDFGfGYBBERH83Zvvka-x0"
+    }
+  },
+  {
+    "id": "35961",
+    "name": "LAWOLON PRI. SCH., LAWOLOM",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "08/27/10/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8912494,
+      "longitude": 13.1429744,
+      "viewport": {
+        "northeast": {
+          "lat": 11.89248092989272,
+          "lng": 13.14387237989272
+        },
+        "southwest": {
+          "lat": 11.88978127010728,
+          "lng": 13.14117272010728
+        }
+      },
+      "formatted_address": "V4RV+F5X, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8912494,13.1429744",
+      "google_place_id": "ChIJ8fDFGfGYBBERH83Zvvka-x0"
+    }
+  },
+  {
+    "id": "35962",
+    "name": "KOFAR BULAMA, PITILA",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "08/27/10/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35963",
+    "name": "WUROJAM PRI. SCH., WUROJAM",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "08/27/10/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8912494,
+      "longitude": 13.1429744,
+      "viewport": {
+        "northeast": {
+          "lat": 11.89248092989272,
+          "lng": 13.14387237989272
+        },
+        "southwest": {
+          "lat": 11.88978127010728,
+          "lng": 13.14117272010728
+        }
+      },
+      "formatted_address": "V4RV+F5X, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8912494,13.1429744",
+      "google_place_id": "ChIJ8fDFGfGYBBERH83Zvvka-x0"
+    }
+  },
+  {
+    "id": "35964",
+    "name": "KURJE PRI. SCH., KURJE I",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "08/27/10/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.185114,
+      "longitude": 12.010178,
+      "viewport": {
+        "northeast": {
+          "lat": 10.18637067989272,
+          "lng": 12.01148642989272
+        },
+        "southwest": {
+          "lat": 10.18367102010728,
+          "lng": 12.00878677010728
+        }
+      },
+      "formatted_address": "52P6+23V, 603110, Binyu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.185114,12.010178",
+      "google_place_id": "ChIJ8bA5I-8I_hARjUlBGIG7AXY"
+    }
+  },
+  {
+    "id": "35965",
+    "name": "KOFAR LAWAN, KURJE II",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "08/27/10/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35966",
+    "name": "BAKAINA PRI. SCH., BAKAINA I",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "08/27/10/017",
+    "remark": "EXISTING PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35967",
+    "name": "KOFAR B. IBRAHIM, BAKAINA II",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "08/27/10/018",
+    "remark": "EXISTING PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35968",
+    "name": "KOFAR BULAMA, LAMOR",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "08/27/10/019",
+    "remark": "EXISTING PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35969",
+    "name": "KOFAR MAI ANGUWA BABA",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "08/27/10/020",
+    "remark": "NEW PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35970",
+    "name": "KALGIM PRI. SCH. KALGIM",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "08/27/10/021",
+    "remark": "NEW PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8912494,
+      "longitude": 13.1429744,
+      "viewport": {
+        "northeast": {
+          "lat": 11.89248092989272,
+          "lng": 13.14387237989272
+        },
+        "southwest": {
+          "lat": 11.88978127010728,
+          "lng": 13.14117272010728
+        }
+      },
+      "formatted_address": "V4RV+F5X, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8912494,13.1429744",
+      "google_place_id": "ChIJ8fDFGfGYBBERH83Zvvka-x0"
+    }
+  },
+  {
+    "id": "35971",
+    "name": "SHANI DISPENSARY",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "08/27/10/022",
+    "remark": "NEW PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.2227095,
+      "longitude": 12.051835,
+      "viewport": {
+        "northeast": {
+          "lat": 10.22455,
+          "lng": 12.057999
+        },
+        "southwest": {
+          "lat": 10.215024,
+          "lng": 12.0485461
+        }
+      },
+      "formatted_address": "603110, Shani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2227095,12.051835",
+      "google_place_id": "ChIJMSqNrPwH_hARu6JO8EmFAak"
+    }
+  },
+  {
+    "id": "35972",
+    "name": "KOFAR HAKIMI ALI",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "08/27/10/023",
+    "remark": "NEW PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35973",
+    "name": "MBAGU PRI. SCH.",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "08/27/10/024",
+    "remark": "NEW PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.2227095,
+      "longitude": 12.051835,
+      "viewport": {
+        "northeast": {
+          "lat": 10.22455,
+          "lng": 12.057999
+        },
+        "southwest": {
+          "lat": 10.215024,
+          "lng": 12.0485461
+        }
+      },
+      "formatted_address": "603110, Shani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2227095,12.051835",
+      "google_place_id": "ChIJMSqNrPwH_hARu6JO8EmFAak"
+    }
+  },
+  {
+    "id": "35974",
+    "name": "KOFAR ALKALI GARBA`",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "08/27/10/025",
+    "remark": "NEW PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35975",
+    "name": "ADAMU SOMI VETERINARY",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "08/27/10/026",
+    "remark": "NEW PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35976",
+    "name": "KOFAR BABA TANIMU MECHANIC",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "08/27/10/027",
+    "remark": "NEW PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35977",
+    "name": "MALLAM GARBATI HAUSAWA",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "08/27/10/028",
+    "remark": "NEW PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35978",
+    "name": "LANGAMA PRIMARY SCHOOL",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "08/27/10/029",
+    "remark": "NEW PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8372624,
+      "longitude": 13.1433734,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83843587989272,
+          "lng": 13.14473802989272
+        },
+        "southwest": {
+          "lat": 11.83573622010728,
+          "lng": 13.14203837010728
+        }
+      },
+      "formatted_address": "R4PV+W89, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8372624,13.1433734",
+      "google_place_id": "ChIJV4RgiTufBBEROZiqC2vPaj0"
+    }
+  },
+  {
+    "id": "35979",
+    "name": "STAFF QUARTERS GSS SHANI",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "08/27/10/030",
+    "remark": "NEW PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35980",
+    "name": "LANGAM MAI RABO",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "08/27/10/031",
+    "remark": "NEW PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35981",
+    "name": "WURTI PRI. SCHOOL",
+    "registration_area_id": "1969",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "08/27/10/032",
+    "remark": "NEW PU",
+    "ward_id": "1969",
+    "ward_name": "SHANI",
+    "local_government_id": "168",
+    "local_government_name": "SHANI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6176435,
+      "longitude": 12.1980972,
+      "viewport": {
+        "northeast": {
+          "lat": 10.61899952989272,
+          "lng": 12.19969627989272
+        },
+        "southwest": {
+          "lat": 10.61629987010728,
+          "lng": 12.19699662010728
+        }
+      },
+      "formatted_address": "J59X+365, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6176435,12.1980972",
+      "google_place_id": "ChIJ53sKL8AbAhERoFn5bIwEZlM"
+    }
+  }
+]

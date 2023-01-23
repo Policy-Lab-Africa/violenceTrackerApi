@@ -1,0 +1,285 @@
+[
+  {
+    "id": "103116",
+    "name": "SALWAI/FADA  SALWAI/FADA",
+    "registration_area_id": "5264",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "21/07/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5264",
+    "ward_name": "SALWAI",
+    "local_government_id": "454",
+    "local_government_name": "BUNZA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "103117",
+    "name": "SALWAI/S/KENGERE SALWAI S/KENGERE",
+    "registration_area_id": "5264",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "21/07/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5264",
+    "ward_name": "SALWAI",
+    "local_government_id": "454",
+    "local_government_name": "BUNZA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "103118",
+    "name": "CHAKAWO   CHAKAWO",
+    "registration_area_id": "5264",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "21/07/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5264",
+    "ward_name": "SALWAI",
+    "local_government_id": "454",
+    "local_government_name": "BUNZA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "103119",
+    "name": "BABANJORI    BABAN-JORI",
+    "registration_area_id": "5264",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "21/07/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5264",
+    "ward_name": "SALWAI",
+    "local_government_id": "454",
+    "local_government_name": "BUNZA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.1468006,
+      "longitude": 3.9945409,
+      "viewport": {
+        "northeast": {
+          "lat": 12.1498013,
+          "lng": 3.9971931
+        },
+        "southwest": {
+          "lat": 12.1443604,
+          "lng": 3.9913089
+        }
+      },
+      "formatted_address": "862102, Baban Jori Dikko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1468006,3.9945409",
+      "google_place_id": "ChIJbXgvoxFcyRERJa_AVkpDF2I"
+    }
+  },
+  {
+    "id": "103120",
+    "name": "GEDE/KARAMA   GEDE KARAMA",
+    "registration_area_id": "5264",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "21/07/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5264",
+    "ward_name": "SALWAI",
+    "local_government_id": "454",
+    "local_government_name": "BUNZA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "103121",
+    "name": "GEDE SAUNA   GEDE SAUNA",
+    "registration_area_id": "5264",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "21/07/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5264",
+    "ward_name": "SALWAI",
+    "local_government_id": "454",
+    "local_government_name": "BUNZA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.2047334,
+      "longitude": 3.9789143,
+      "viewport": {
+        "northeast": {
+          "lat": 12.2088131,
+          "lng": 3.981323999999999
+        },
+        "southwest": {
+          "lat": 12.2017251,
+          "lng": 3.975134
+        }
+      },
+      "formatted_address": "862102, Gede Sauna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2047334,3.9789143",
+      "google_place_id": "ChIJv1CIMF1byRERdEvyu3w9Olo"
+    }
+  },
+  {
+    "id": "103122",
+    "name": "BALA    BALA",
+    "registration_area_id": "5264",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "21/07/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5264",
+    "ward_name": "SALWAI",
+    "local_government_id": "454",
+    "local_government_name": "BUNZA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.2187913,
+      "longitude": 3.969031,
+      "viewport": {
+        "northeast": {
+          "lat": 12.22048,
+          "lng": 3.970195329892722
+        },
+        "southwest": {
+          "lat": 12.2174239,
+          "lng": 3.967495670107279
+        }
+      },
+      "formatted_address": "862102, Bala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2187913,3.969031",
+      "google_place_id": "ChIJY5kGv0lbyRERJwXMVlU-epc"
+    }
+  },
+  {
+    "id": "103123",
+    "name": "SALWAI PRIMARY HEALH CENTRE",
+    "registration_area_id": "5264",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "21/07/07/008",
+    "remark": "NEW PU",
+    "ward_id": "5264",
+    "ward_name": "SALWAI",
+    "local_government_id": "454",
+    "local_government_name": "BUNZA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.5035142,
+      "longitude": 4.6381073,
+      "viewport": {
+        "northeast": {
+          "lat": 12.50472162989272,
+          "lng": 4.639797929892722
+        },
+        "southwest": {
+          "lat": 12.50202197010728,
+          "lng": 4.637098270107278
+        }
+      },
+      "formatted_address": "GJ3Q+C65, 860102, Gwandu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5035142,4.6381073",
+      "google_place_id": "ChIJMXUsDt-7yRERwPDxD0yd_84"
+    }
+  },
+  {
+    "id": "103124",
+    "name": "SALWAI PRIMARY SCHOOL (KENGERE)",
+    "registration_area_id": "5264",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "21/07/07/009",
+    "remark": "NEW PU",
+    "ward_id": "5264",
+    "ward_name": "SALWAI",
+    "local_government_id": "454",
+    "local_government_name": "BUNZA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.0807731,
+      "longitude": 4.0134215,
+      "viewport": {
+        "northeast": {
+          "lat": 12.08213922989272,
+          "lng": 4.014722979892722
+        },
+        "southwest": {
+          "lat": 12.07943957010728,
+          "lng": 4.012023320107279
+        }
+      },
+      "formatted_address": "32J7+887, Unnamed Road, 862101, Bunza, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0807731,4.0134215",
+      "google_place_id": "ChIJaaRZmMVfyRERLfEaiaEc4IU"
+    }
+  },
+  {
+    "id": "103125",
+    "name": "BABAN JORI PRIMARY SCHOOL B",
+    "registration_area_id": "5264",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "21/07/07/010",
+    "remark": "NEW PU",
+    "ward_id": "5264",
+    "ward_name": "SALWAI",
+    "local_government_id": "454",
+    "local_government_name": "BUNZA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "103126",
+    "name": "GIDAN RUWA GEDE SAUNA",
+    "registration_area_id": "5264",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "21/07/07/011",
+    "remark": "NEW PU",
+    "ward_id": "5264",
+    "ward_name": "SALWAI",
+    "local_government_id": "454",
+    "local_government_name": "BUNZA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.5690274,
+      "longitude": 4.128206,
+      "viewport": {
+        "northeast": {
+          "lat": 11.57035207989272,
+          "lng": 4.129531329892722
+        },
+        "southwest": {
+          "lat": 11.56765242010728,
+          "lng": 4.126831670107278
+        }
+      },
+      "formatted_address": "H49H+J78 shiyar fada, 871104, Zagga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5690274,4.128206",
+      "google_place_id": "ChIJR4Q_6ni9yxERE0mRhyH-emY"
+    }
+  }
+]

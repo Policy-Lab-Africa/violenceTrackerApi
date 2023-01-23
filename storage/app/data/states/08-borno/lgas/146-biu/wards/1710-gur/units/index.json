@@ -1,0 +1,302 @@
+[
+  {
+    "id": "31793",
+    "name": "GUR LAWAN PRI. SCH.",
+    "registration_area_id": "1710",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/05/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1710",
+    "ward_name": "GUR",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6176435,
+      "longitude": 12.1980972,
+      "viewport": {
+        "northeast": {
+          "lat": 10.61899952989272,
+          "lng": 12.19969627989272
+        },
+        "southwest": {
+          "lat": 10.61629987010728,
+          "lng": 12.19699662010728
+        }
+      },
+      "formatted_address": "J59X+365, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6176435,12.1980972",
+      "google_place_id": "ChIJ53sKL8AbAhERoFn5bIwEZlM"
+    }
+  },
+  {
+    "id": "31794",
+    "name": "LAWAN GATE",
+    "registration_area_id": "1710",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/05/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1710",
+    "ward_name": "GUR",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8600021,
+      "longitude": 13.2092789,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86138367989272,
+          "lng": 13.21062137989272
+        },
+        "southwest": {
+          "lat": 11.85868402010728,
+          "lng": 13.20792172010728
+        }
+      },
+      "formatted_address": "Opposite college of agric, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8600021,13.2092789",
+      "google_place_id": "ChIJE1kVji-iBBERfSNkfmuDf0I"
+    }
+  },
+  {
+    "id": "31795",
+    "name": "GUR GARUBULA",
+    "registration_area_id": "1710",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/05/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1710",
+    "ward_name": "GUR",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.7784509,
+      "longitude": 12.2315472,
+      "viewport": {
+        "northeast": {
+          "lat": 10.780915,
+          "lng": 12.2335209
+        },
+        "southwest": {
+          "lat": 10.7764099,
+          "lng": 12.229618
+        }
+      },
+      "formatted_address": "603102, Gur, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7784509,12.2315472",
+      "google_place_id": "ChIJN_duj-AiAhERyOT2hVo4eo0"
+    }
+  },
+  {
+    "id": "31796",
+    "name": "ZIRA BULAMA JAKWA",
+    "registration_area_id": "1710",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/05/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1710",
+    "ward_name": "GUR",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
+  },
+  {
+    "id": "31797",
+    "name": "ZIRA GUDUGU",
+    "registration_area_id": "1710",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/05/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1710",
+    "ward_name": "GUR",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6178419,
+      "longitude": 12.1793145,
+      "viewport": {
+        "northeast": {
+          "lat": 10.61918122989272,
+          "lng": 12.18065102989272
+        },
+        "southwest": {
+          "lat": 10.61648157010728,
+          "lng": 12.17795137010728
+        }
+      },
+      "formatted_address": "J59H+4QF, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6178419,12.1793145",
+      "google_place_id": "ChIJkSFOickbAhERQzBpYeRAHqU"
+    }
+  },
+  {
+    "id": "31798",
+    "name": "KIMBA CENTRAL",
+    "registration_area_id": "1710",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/05/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1710",
+    "ward_name": "GUR",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31799",
+    "name": "KIMBA VILLAGE",
+    "registration_area_id": "1710",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/05/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1710",
+    "ward_name": "GUR",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31800",
+    "name": "SABON LAYI",
+    "registration_area_id": "1710",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "08/05/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1710",
+    "ward_name": "GUR",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.7383242,
+      "longitude": 12.2294912,
+      "viewport": {
+        "northeast": {
+          "lat": 10.73974632989272,
+          "lng": 12.23100737989272
+        },
+        "southwest": {
+          "lat": 10.73704667010728,
+          "lng": 12.22830772010728
+        }
+      },
+      "formatted_address": "603102, Sabon Layi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7383242,12.2294912",
+      "google_place_id": "ChIJe-M0z58iAhEREpM6fMulFEI"
+    }
+  },
+  {
+    "id": "31801",
+    "name": "CHIKWARKIR",
+    "registration_area_id": "1710",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "08/05/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1710",
+    "ward_name": "GUR",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31802",
+    "name": "GARIN MALLAM I",
+    "registration_area_id": "1710",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "08/05/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1710",
+    "ward_name": "GUR",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31803",
+    "name": "GUR LAWAN BULAMA",
+    "registration_area_id": "1710",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "08/05/05/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1710",
+    "ward_name": "GUR",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31804",
+    "name": "GARIN MALLAM  II",
+    "registration_area_id": "1710",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "08/05/05/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1710",
+    "ward_name": "GUR",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  }
+]

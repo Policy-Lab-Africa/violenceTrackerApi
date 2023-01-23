@@ -1,0 +1,233 @@
+[
+  {
+    "id": "84480",
+    "name": "BAGAUDA",
+    "registration_area_id": "4380",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/04/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4380",
+    "ward_name": "GARGAI",
+    "local_government_id": "373",
+    "local_government_name": "BEBEJI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.571707,
+      "longitude": 8.3848469,
+      "viewport": {
+        "northeast": {
+          "lat": 11.579369,
+          "lng": 8.3902129
+        },
+        "southwest": {
+          "lat": 11.5657579,
+          "lng": 8.3784931
+        }
+      },
+      "formatted_address": "711104, Bagauda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.571707,8.3848469",
+      "google_place_id": "ChIJ48moFRC2rRERsPKF4Kw7EVw"
+    }
+  },
+  {
+    "id": "84481",
+    "name": "CIKIN GARI",
+    "registration_area_id": "4380",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/04/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4380",
+    "ward_name": "GARGAI",
+    "local_government_id": "373",
+    "local_government_name": "BEBEJI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5943941,
+      "longitude": 8.4767013,
+      "viewport": {
+        "northeast": {
+          "lat": 11.596035,
+          "lng": 8.478546099999999
+        },
+        "southwest": {
+          "lat": 11.592702,
+          "lng": 8.472643
+        }
+      },
+      "formatted_address": "710103, Barnawa Cikin Gari B, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5943941,8.4767013",
+      "google_place_id": "ChIJR0UWLrDKrRERPUFfq4LIkMc"
+    }
+  },
+  {
+    "id": "84482",
+    "name": "GARGAI,  CIKIN GARI I",
+    "registration_area_id": "4380",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/04/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4380",
+    "ward_name": "GARGAI",
+    "local_government_id": "373",
+    "local_government_name": "BEBEJI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5449,
+      "longitude": 8.380799999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54625617989272,
+          "lng": 8.382141479892722
+        },
+        "southwest": {
+          "lat": 11.54355652010728,
+          "lng": 8.379441820107278
+        }
+      },
+      "formatted_address": "G9VJ+X83, 711104, Gargai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5449,8.380799999999999",
+      "google_place_id": "ChIJEf-b72O2rRERUtcouT8o8As"
+    }
+  },
+  {
+    "id": "84483",
+    "name": "GARGAI, CIKIN GARI II",
+    "registration_area_id": "4380",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/04/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4380",
+    "ward_name": "GARGAI",
+    "local_government_id": "373",
+    "local_government_name": "BEBEJI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5449,
+      "longitude": 8.380799999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54625617989272,
+          "lng": 8.382141479892722
+        },
+        "southwest": {
+          "lat": 11.54355652010728,
+          "lng": 8.379441820107278
+        }
+      },
+      "formatted_address": "G9VJ+X83, 711104, Gargai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5449,8.380799999999999",
+      "google_place_id": "ChIJEf-b72O2rRERUtcouT8o8As"
+    }
+  },
+  {
+    "id": "84484",
+    "name": "MAKERA",
+    "registration_area_id": "4380",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/04/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4380",
+    "ward_name": "GARGAI",
+    "local_government_id": "373",
+    "local_government_name": "BEBEJI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9860797,
+      "longitude": 8.569372999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98743097989272,
+          "lng": 8.57069067989272
+        },
+        "southwest": {
+          "lat": 11.98473132010727,
+          "lng": 8.567991020107277
+        }
+      },
+      "formatted_address": "No 1784 Ja'en Makera Layin, Mai Gari Street, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9860797,8.569372999999999",
+      "google_place_id": "ChIJl3m9lMCBrhERmWMBlXSnUkY"
+    }
+  },
+  {
+    "id": "84485",
+    "name": "UNG. BUHARI",
+    "registration_area_id": "4380",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/04/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4380",
+    "ward_name": "GARGAI",
+    "local_government_id": "373",
+    "local_government_name": "BEBEJI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.991189,
+      "longitude": 8.5680465,
+      "viewport": {
+        "northeast": {
+          "lat": 11.99246537989272,
+          "lng": 8.569063079892722
+        },
+        "southwest": {
+          "lat": 11.98976572010728,
+          "lng": 8.566363420107278
+        }
+      },
+      "formatted_address": "XHR9+F6F, Giginyu 700213, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.991189,8.5680465",
+      "google_place_id": "ChIJf-Tzl36BrhER2DqdkmBdr3E"
+    }
+  },
+  {
+    "id": "84486",
+    "name": "KATSINAWA",
+    "registration_area_id": "4380",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/04/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4380",
+    "ward_name": "GARGAI",
+    "local_government_id": "373",
+    "local_government_name": "BEBEJI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5654606,
+      "longitude": 8.418911,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56681042989272,
+          "lng": 8.420260829892722
+        },
+        "southwest": {
+          "lat": 11.56411077010728,
+          "lng": 8.417561170107279
+        }
+      },
+      "formatted_address": "7F3CHC89+5HF, Katsinawa, 711104, Garum Malam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5654606,8.418911",
+      "google_place_id": "ChIJ_8MD-vu1rRERM0As9t9vbig"
+    }
+  }
+]

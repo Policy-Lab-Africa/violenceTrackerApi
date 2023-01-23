@@ -1,0 +1,502 @@
+[
+  {
+    "id": "43735",
+    "name": "OKWEMOR TOWN HALL, OKWEMOR",
+    "registration_area_id": "2382",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "10/20/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2382",
+    "ward_name": "JEREMI  IV",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "43736",
+    "name": "OTEGBO TOWN HALL, OTEGBO",
+    "registration_area_id": "2382",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "10/20/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2382",
+    "ward_name": "JEREMI  IV",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "43737",
+    "name": "EGBO - IDE TOWN HALL, EGBO - IDE I",
+    "registration_area_id": "2382",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "10/20/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2382",
+    "ward_name": "JEREMI  IV",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "43738",
+    "name": "EGBO - IDE TOWN HALL, EGBO - IDE II",
+    "registration_area_id": "2382",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "10/20/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2382",
+    "ward_name": "JEREMI  IV",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "43739",
+    "name": "ABADIAMA PRIMARY SCHOOL, ABADIAMA",
+    "registration_area_id": "2382",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "10/20/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2382",
+    "ward_name": "JEREMI  IV",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "43740",
+    "name": "OPHORIGBALA PRIMARY SCHOOL, OPHORIGBALA I",
+    "registration_area_id": "2382",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "10/20/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2382",
+    "ward_name": "JEREMI  IV",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4989947,
+      "longitude": 5.9978723,
+      "viewport": {
+        "northeast": {
+          "lat": 5.500426879892721,
+          "lng": 5.999375529892722
+        },
+        "southwest": {
+          "lat": 5.497727220107278,
+          "lng": 5.996675870107278
+        }
+      },
+      "formatted_address": "FXXX+H4X, Ogor 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4989947,5.9978723",
+      "google_place_id": "ChIJ-6p1FY68QRARghfeCqpf8zg"
+    }
+  },
+  {
+    "id": "43741",
+    "name": "OPHORIGBALA PRIMARY SCHOOL, OPHORIGBALA II",
+    "registration_area_id": "2382",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "10/20/11/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2382",
+    "ward_name": "JEREMI  IV",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "43742",
+    "name": "OPHORIGBALA PRIMARY SCHOOL, OPHORIGBALA III",
+    "registration_area_id": "2382",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "10/20/11/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2382",
+    "ward_name": "JEREMI  IV",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4989947,
+      "longitude": 5.9978723,
+      "viewport": {
+        "northeast": {
+          "lat": 5.500426879892721,
+          "lng": 5.999375529892722
+        },
+        "southwest": {
+          "lat": 5.497727220107278,
+          "lng": 5.996675870107278
+        }
+      },
+      "formatted_address": "FXXX+H4X, Ogor 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4989947,5.9978723",
+      "google_place_id": "ChIJ-6p1FY68QRARghfeCqpf8zg"
+    }
+  },
+  {
+    "id": "43743",
+    "name": "OTUTUAMA PRIMARY SCHOOL, OTUTUAMA",
+    "registration_area_id": "2382",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "10/20/11/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2382",
+    "ward_name": "JEREMI  IV",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4048621,
+      "longitude": 5.7734231,
+      "viewport": {
+        "northeast": {
+          "lat": 5.406389679892722,
+          "lng": 5.77450322989272
+        },
+        "southwest": {
+          "lat": 5.403690020107279,
+          "lng": 5.771803570107276
+        }
+      },
+      "formatted_address": "Jeremi III, 333115, Otutuama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4048621,5.7734231",
+      "google_place_id": "ChIJJ2b_aaq1QRAR5jtscmsK4nw"
+    }
+  },
+  {
+    "id": "43744",
+    "name": "OTUTUAMA TOWN HALL, OTUTUAMA",
+    "registration_area_id": "2382",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "10/20/11/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2382",
+    "ward_name": "JEREMI  IV",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.409789099999999,
+      "longitude": 5.7733402,
+      "viewport": {
+        "northeast": {
+          "lat": 5.411112479892722,
+          "lng": 5.774810129892722
+        },
+        "southwest": {
+          "lat": 5.408412820107277,
+          "lng": 5.772110470107278
+        }
+      },
+      "formatted_address": "Jeremi III, 333115, Otutuama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.409789099999999,5.7733402",
+      "google_place_id": "ChIJlWCXalW0QRARy6dLQCVdU7g"
+    }
+  },
+  {
+    "id": "43745",
+    "name": "OTITIRI TOWN HALL, OTITIRI",
+    "registration_area_id": "2382",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "10/20/11/011",
+    "remark": "EXISTING PU",
+    "ward_id": "2382",
+    "ward_name": "JEREMI  IV",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "43746",
+    "name": "ESABA PRIMARY SCHOOL, ESABA",
+    "registration_area_id": "2382",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "10/20/11/012",
+    "remark": "EXISTING PU",
+    "ward_id": "2382",
+    "ward_name": "JEREMI  IV",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "43747",
+    "name": "OHWAHWA PRIMARY SCHOOL, OHWAHWA I",
+    "registration_area_id": "2382",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "10/20/11/013",
+    "remark": "EXISTING PU",
+    "ward_id": "2382",
+    "ward_name": "JEREMI  IV",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4874313,
+      "longitude": 6.003235399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.488792829892722,
+          "lng": 6.004597079892721
+        },
+        "southwest": {
+          "lat": 5.486093170107278,
+          "lng": 6.001897420107277
+        }
+      },
+      "formatted_address": "F2P3+X7H, Ovwodowanie St, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4874313,6.003235399999999",
+      "google_place_id": "ChIJW6kmZ2C8QRARRwhiDKgLtHM"
+    }
+  },
+  {
+    "id": "43748",
+    "name": "OHWAHWA PRIMARY SCHOOL, OHWAHWA II",
+    "registration_area_id": "2382",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "10/20/11/014",
+    "remark": "EXISTING PU",
+    "ward_id": "2382",
+    "ward_name": "JEREMI  IV",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4874313,
+      "longitude": 6.003235399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.488792829892722,
+          "lng": 6.004597079892721
+        },
+        "southwest": {
+          "lat": 5.486093170107278,
+          "lng": 6.001897420107277
+        }
+      },
+      "formatted_address": "F2P3+X7H, Ovwodowanie St, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4874313,6.003235399999999",
+      "google_place_id": "ChIJW6kmZ2C8QRARRwhiDKgLtHM"
+    }
+  },
+  {
+    "id": "43749",
+    "name": "OHWAHWA PRIMARY SCHOOL, OHWAHWA III",
+    "registration_area_id": "2382",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "10/20/11/015",
+    "remark": "EXISTING PU",
+    "ward_id": "2382",
+    "ward_name": "JEREMI  IV",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4874313,
+      "longitude": 6.003235399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.488792829892722,
+          "lng": 6.004597079892721
+        },
+        "southwest": {
+          "lat": 5.486093170107278,
+          "lng": 6.001897420107277
+        }
+      },
+      "formatted_address": "F2P3+X7H, Ovwodowanie St, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4874313,6.003235399999999",
+      "google_place_id": "ChIJW6kmZ2C8QRARRwhiDKgLtHM"
+    }
+  },
+  {
+    "id": "43750",
+    "name": "IHWRE-OKU TOWN HALL, IHWRE - OKU",
+    "registration_area_id": "2382",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "10/20/11/016",
+    "remark": "EXISTING PU",
+    "ward_id": "2382",
+    "ward_name": "JEREMI  IV",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "43751",
+    "name": "OBI - AYAGHA TOWN HALL, OBI-AYAGHA",
+    "registration_area_id": "2382",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "10/20/11/017",
+    "remark": "EXISTING PU",
+    "ward_id": "2382",
+    "ward_name": "JEREMI  IV",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.6871459,
+      "longitude": 6.4237404,
+      "viewport": {
+        "northeast": {
+          "lat": 5.688477129892723,
+          "lng": 6.425081779892722
+        },
+        "southwest": {
+          "lat": 5.685777470107279,
+          "lng": 6.422382120107279
+        }
+      },
+      "formatted_address": "MCPF+VF5, 322101, Utagba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6871459,6.4237404",
+      "google_place_id": "ChIJ3-A2zbYqQhARrxmpISIRui0"
+    }
+  },
+  {
+    "id": "43752",
+    "name": "OBENI PRIMARY SCHOOL, OBI-AYAGHA",
+    "registration_area_id": "2382",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "10/20/11/018",
+    "remark": "EXISTING PU",
+    "ward_id": "2382",
+    "ward_name": "JEREMI  IV",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.0208941,
+      "longitude": 6.444753299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.022083329892721,
+          "lng": 6.446464429892722
+        },
+        "southwest": {
+          "lat": 6.019383670107278,
+          "lng": 6.443764770107278
+        }
+      },
+      "formatted_address": "2CCV+9W2, 321111, Nsukwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0208941,6.444753299999999",
+      "google_place_id": "ChIJE9KUi9HfQxARQWXY38jkY2M"
+    }
+  },
+  {
+    "id": "43753",
+    "name": "OTOR-OHWAHWA TOWN HALL, OHWAHWA",
+    "registration_area_id": "2382",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "10/20/11/019",
+    "remark": "NEW PU",
+    "ward_id": "2382",
+    "ward_name": "JEREMI  IV",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "43754",
+    "name": "OTOR-OHWAHWA SECONDARY SCHOOL, OHWAHWA",
+    "registration_area_id": "2382",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "10/20/11/020",
+    "remark": "NEW PU",
+    "ward_id": "2382",
+    "ward_name": "JEREMI  IV",
+    "local_government_id": "206",
+    "local_government_name": "UGHELLI SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4866179,
+      "longitude": 6.002119299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.487962229892722,
+          "lng": 6.003477329892721
+        },
+        "southwest": {
+          "lat": 5.485262570107278,
+          "lng": 6.000777670107277
+        }
+      },
+      "formatted_address": "F2P2+JRX, Ovwodowanie St, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4866179,6.002119299999999",
+      "google_place_id": "ChIJXZVAqX69QRARKXzAhys3lIA"
+    }
+  }
+]

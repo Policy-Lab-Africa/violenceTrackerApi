@@ -1,0 +1,236 @@
+[
+  {
+    "id": "96225",
+    "name": "BANYE A PRI.SCHOOL",
+    "registration_area_id": "4892",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/06/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4892",
+    "ward_name": "BANYE",
+    "local_government_id": "419",
+    "local_government_name": "CHARANCHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6698203,
+      "longitude": 7.7222843,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67134527989272,
+          "lng": 7.723586079892722
+        },
+        "southwest": {
+          "lat": 12.66864562010728,
+          "lng": 7.720886420107278
+        }
+      },
+      "formatted_address": "MP9C+WWF, banye road, Cheranchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6698203,7.7222843",
+      "google_place_id": "ChIJi5BqaIzVsRER-bopU0nLyfg"
+    }
+  },
+  {
+    "id": "96226",
+    "name": "YANUKU I G/MAI UNGUWA",
+    "registration_area_id": "4892",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/06/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4892",
+    "ward_name": "BANYE",
+    "local_government_id": "419",
+    "local_government_name": "CHARANCHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "96227",
+    "name": "SANAME K/G MAI UNGUWA",
+    "registration_area_id": "4892",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/06/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4892",
+    "ward_name": "BANYE",
+    "local_government_id": "419",
+    "local_government_name": "CHARANCHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "96228",
+    "name": "YANUKU II GIDAN LIMAN",
+    "registration_area_id": "4892",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/06/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4892",
+    "ward_name": "BANYE",
+    "local_government_id": "419",
+    "local_government_name": "CHARANCHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "96229",
+    "name": "KAGADAMA K/MAI UNGUWA",
+    "registration_area_id": "4892",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/06/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4892",
+    "ward_name": "BANYE",
+    "local_government_id": "419",
+    "local_government_name": "CHARANCHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "96230",
+    "name": "BANYE 'B' HEALTH CENTRE",
+    "registration_area_id": "4892",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/06/09/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4892",
+    "ward_name": "BANYE",
+    "local_government_id": "419",
+    "local_government_name": "CHARANCHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.4402206,
+      "longitude": 7.4951223,
+      "viewport": {
+        "northeast": {
+          "lat": 12.44182462989272,
+          "lng": 7.496486879892721
+        },
+        "southwest": {
+          "lat": 12.43912497010728,
+          "lng": 7.493787220107277
+        }
+      },
+      "formatted_address": "CFRW+32Q, 821101, Dutsin-Ma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4402206,7.4951223",
+      "google_place_id": "ChIJybkfq8XGsRERS7HtZMtXHuo"
+    }
+  },
+  {
+    "id": "96231",
+    "name": "SALGORIYO OPEN SPACE",
+    "registration_area_id": "4892",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/06/09/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4892",
+    "ward_name": "BANYE",
+    "local_government_id": "419",
+    "local_government_name": "CHARANCHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "96232",
+    "name": "SARGOLIO OPEN SPACE",
+    "registration_area_id": "4892",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/06/09/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4892",
+    "ward_name": "BANYE",
+    "local_government_id": "419",
+    "local_government_name": "CHARANCHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "96233",
+    "name": "YANUKU OPEN SPACE",
+    "registration_area_id": "4892",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/06/09/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4892",
+    "ward_name": "BANYE",
+    "local_government_id": "419",
+    "local_government_name": "CHARANCHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6729584,
+      "longitude": 7.7280765,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67430882989272,
+          "lng": 7.729431779892723
+        },
+        "southwest": {
+          "lat": 12.67160917010728,
+          "lng": 7.726732120107279
+        }
+      },
+      "formatted_address": "SABON LAYI CHARANCHI KATSINA STATE CHARANCHI, NORTH WEST, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6729584,7.7280765",
+      "google_place_id": "ChIJPdoDhO_VsRERksUu0xexi9E"
+    }
+  },
+  {
+    "id": "96234",
+    "name": "NASARAWA K/GIDAN M/UNG",
+    "registration_area_id": "4892",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/06/09/010",
+    "remark": "NEW PU",
+    "ward_id": "4892",
+    "ward_name": "BANYE",
+    "local_government_id": "419",
+    "local_government_name": "CHARANCHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9920871,
+      "longitude": 7.504650000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99339162989272,
+          "lng": 7.50602707989272
+        },
+        "southwest": {
+          "lat": 12.99069197010728,
+          "lng": 7.503327420107277
+        }
+      },
+      "formatted_address": "XGR3+RRQ, 820104, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9920871,7.504650000000001",
+      "google_place_id": "ChIJ54kuPr8-sBERmb3UFT93A8E"
+    }
+  }
+]

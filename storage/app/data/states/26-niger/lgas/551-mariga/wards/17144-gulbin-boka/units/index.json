@@ -1,0 +1,731 @@
+[
+  {
+    "id": "337466",
+    "name": "UNG. ATTA",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/15/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.804822,
+      "longitude": 5.362041899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.80601007989272,
+          "lng": 5.363382329892722
+        },
+        "southwest": {
+          "lat": 10.80331042010728,
+          "lng": 5.360682670107278
+        }
+      },
+      "formatted_address": "7F27R936+WRF TSOHON GARIN, Gulbin Boka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.804822,5.362041899999999",
+      "google_place_id": "ChIJr6wUVLRHtREREgRXdKx-VhE"
+    }
+  },
+  {
+    "id": "337467",
+    "name": "BATUREN NOMA  I",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/15/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1347928,
+      "longitude": 6.022911499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.13622147989272,
+          "lng": 6.024292379892721
+        },
+        "southwest": {
+          "lat": 10.13352182010728,
+          "lng": 6.021592720107277
+        }
+      },
+      "formatted_address": "42MF+W57, 922106, Mariga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1347928,6.022911499999999",
+      "google_place_id": "ChIJ79koR5UVSxAROH5KLk0hE5c"
+    }
+  },
+  {
+    "id": "337468",
+    "name": "BATUREN NOMA  II",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/15/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "337469",
+    "name": "CHIFU MADINBU",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/15/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "337470",
+    "name": "DANDAURA",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/15/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.68678,
+      "longitude": 5.387512999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.68775932989272,
+          "lng": 5.388990329892722
+        },
+        "southwest": {
+          "lat": 10.68505967010728,
+          "lng": 5.386290670107277
+        }
+      },
+      "formatted_address": "7F27M9PQ+P26 DAN DAURA, 922105, Kwimu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.68678,5.387512999999999",
+      "google_place_id": "ChIJszNGVKpJtRERk1fLTUMZoUQ"
+    }
+  },
+  {
+    "id": "337471",
+    "name": "UNG. GABAS G/BOKA  I",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/15/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1347928,
+      "longitude": 6.022911499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.13622147989272,
+          "lng": 6.024292379892721
+        },
+        "southwest": {
+          "lat": 10.13352182010728,
+          "lng": 6.021592720107277
+        }
+      },
+      "formatted_address": "42MF+W57, 922106, Mariga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1347928,6.022911499999999",
+      "google_place_id": "ChIJ79koR5UVSxAROH5KLk0hE5c"
+    }
+  },
+  {
+    "id": "337472",
+    "name": "UNG. GABAS G/BOKA  II",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/15/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1347928,
+      "longitude": 6.022911499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.13622147989272,
+          "lng": 6.024292379892721
+        },
+        "southwest": {
+          "lat": 10.13352182010728,
+          "lng": 6.021592720107277
+        }
+      },
+      "formatted_address": "42MF+W57, 922106, Mariga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1347928,6.022911499999999",
+      "google_place_id": "ChIJ79koR5UVSxAROH5KLk0hE5c"
+    }
+  },
+  {
+    "id": "337473",
+    "name": "UNG. YAMMA G/BOKA",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/15/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.79702,
+      "longitude": 5.36559,
+      "viewport": {
+        "northeast": {
+          "lat": 10.79841237989272,
+          "lng": 5.366934179892722
+        },
+        "southwest": {
+          "lat": 10.79571272010728,
+          "lng": 5.364234520107278
+        }
+      },
+      "formatted_address": "7F27Q9W8+R64, 922105, Gulbin Boka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.79702,5.36559",
+      "google_place_id": "ChIJDfsaUeRHtRERx6WtTxkIHeI"
+    }
+  },
+  {
+    "id": "337474",
+    "name": "UNG. KUDU G/BOKA",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "26/15/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.79702,
+      "longitude": 5.36559,
+      "viewport": {
+        "northeast": {
+          "lat": 10.79841237989272,
+          "lng": 5.366934179892722
+        },
+        "southwest": {
+          "lat": 10.79571272010728,
+          "lng": 5.364234520107278
+        }
+      },
+      "formatted_address": "7F27Q9W8+R64, 922105, Gulbin Boka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.79702,5.36559",
+      "google_place_id": "ChIJDfsaUeRHtRERx6WtTxkIHeI"
+    }
+  },
+  {
+    "id": "337475",
+    "name": "UNG. SHADADI G/BOKA",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "26/15/04/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1347928,
+      "longitude": 6.022911499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.13622147989272,
+          "lng": 6.024292379892721
+        },
+        "southwest": {
+          "lat": 10.13352182010728,
+          "lng": 6.021592720107277
+        }
+      },
+      "formatted_address": "42MF+W57, 922106, Mariga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1347928,6.022911499999999",
+      "google_place_id": "ChIJ79koR5UVSxAROH5KLk0hE5c"
+    }
+  },
+  {
+    "id": "337476",
+    "name": "HUNYUN AMARYA",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "26/15/04/011",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.79702,
+      "longitude": 5.36559,
+      "viewport": {
+        "northeast": {
+          "lat": 10.79841237989272,
+          "lng": 5.366934179892722
+        },
+        "southwest": {
+          "lat": 10.79571272010728,
+          "lng": 5.364234520107278
+        }
+      },
+      "formatted_address": "7F27Q9W8+R64, 922105, Gulbin Boka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.79702,5.36559",
+      "google_place_id": "ChIJDfsaUeRHtRERx6WtTxkIHeI"
+    }
+  },
+  {
+    "id": "337477",
+    "name": "UNG. IBBE",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "26/15/04/012",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "337478",
+    "name": "KWAIMO PRIMARY SCHOOL",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "26/15/04/013",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.79702,
+      "longitude": 5.36559,
+      "viewport": {
+        "northeast": {
+          "lat": 10.79841237989272,
+          "lng": 5.366934179892722
+        },
+        "southwest": {
+          "lat": 10.79571272010728,
+          "lng": 5.364234520107278
+        }
+      },
+      "formatted_address": "7F27Q9W8+R64, 922105, Gulbin Boka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.79702,5.36559",
+      "google_place_id": "ChIJDfsaUeRHtRERx6WtTxkIHeI"
+    }
+  },
+  {
+    "id": "337479",
+    "name": "KURA",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "26/15/04/014",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.8046636,
+      "longitude": 5.362131199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.80591102989272,
+          "lng": 5.363476729892722
+        },
+        "southwest": {
+          "lat": 10.80321137010728,
+          "lng": 5.360777070107278
+        }
+      },
+      "formatted_address": "7F27R936+VV3 KURA A, Gulbin Boka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8046636,5.362131199999999",
+      "google_place_id": "ChIJ-7tUVf1HtRERGG6M9QD7DUc"
+    }
+  },
+  {
+    "id": "337480",
+    "name": "LAMBA ABANI",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "26/15/04/015",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "337481",
+    "name": "GULBIN LI'OJI",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "26/15/04/016",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.79702,
+      "longitude": 5.36559,
+      "viewport": {
+        "northeast": {
+          "lat": 10.79841237989272,
+          "lng": 5.366934179892722
+        },
+        "southwest": {
+          "lat": 10.79571272010728,
+          "lng": 5.364234520107278
+        }
+      },
+      "formatted_address": "7F27Q9W8+R64, 922105, Gulbin Boka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.79702,5.36559",
+      "google_place_id": "ChIJDfsaUeRHtRERx6WtTxkIHeI"
+    }
+  },
+  {
+    "id": "337482",
+    "name": "MASABA",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "26/15/04/017",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "337483",
+    "name": "SARKIN GARIN KWIMO",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "26/15/04/018",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.804822,
+      "longitude": 5.362041899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.80601007989272,
+          "lng": 5.363382329892722
+        },
+        "southwest": {
+          "lat": 10.80331042010728,
+          "lng": 5.360682670107278
+        }
+      },
+      "formatted_address": "7F27R936+WRF TSOHON GARIN, Gulbin Boka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.804822,5.362041899999999",
+      "google_place_id": "ChIJr6wUVLRHtREREgRXdKx-VhE"
+    }
+  },
+  {
+    "id": "337484",
+    "name": "SARKIN GARIN MAHORO",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "26/15/04/019",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.804822,
+      "longitude": 5.362041899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.80601007989272,
+          "lng": 5.363382329892722
+        },
+        "southwest": {
+          "lat": 10.80331042010728,
+          "lng": 5.360682670107278
+        }
+      },
+      "formatted_address": "7F27R936+WRF TSOHON GARIN, Gulbin Boka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.804822,5.362041899999999",
+      "google_place_id": "ChIJr6wUVLRHtREREgRXdKx-VhE"
+    }
+  },
+  {
+    "id": "337485",
+    "name": "UNG. HAKIMI (MAIZAGO)",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "26/15/04/020",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "337486",
+    "name": "UNG. HAUSAWA",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "26/15/04/021",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1347928,
+      "longitude": 6.022911499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.13622147989272,
+          "lng": 6.024292379892721
+        },
+        "southwest": {
+          "lat": 10.13352182010728,
+          "lng": 6.021592720107277
+        }
+      },
+      "formatted_address": "42MF+W57, 922106, Mariga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1347928,6.022911499999999",
+      "google_place_id": "ChIJ79koR5UVSxAROH5KLk0hE5c"
+    }
+  },
+  {
+    "id": "337487",
+    "name": "URO CHIFU",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "26/15/04/022",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.7418032,
+      "longitude": 5.2860772,
+      "viewport": {
+        "northeast": {
+          "lat": 10.7435856,
+          "lng": 5.288168199999999
+        },
+        "southwest": {
+          "lat": 10.7392535,
+          "lng": 5.2830505
+        }
+      },
+      "formatted_address": "Uro Chifu Farm Settlement, 922105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7418032,5.2860772",
+      "google_place_id": "ChIJi04v4WhPtRERlIv1kCXYp1Q"
+    }
+  },
+  {
+    "id": "337488",
+    "name": "WAR",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "26/15/04/023",
+    "remark": "EXISTING PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.79702,
+      "longitude": 5.36559,
+      "viewport": {
+        "northeast": {
+          "lat": 10.79841237989272,
+          "lng": 5.366934179892722
+        },
+        "southwest": {
+          "lat": 10.79571272010728,
+          "lng": 5.364234520107278
+        }
+      },
+      "formatted_address": "7F27Q9W8+R64, 922105, Gulbin Boka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.79702,5.36559",
+      "google_place_id": "ChIJDfsaUeRHtRERx6WtTxkIHeI"
+    }
+  },
+  {
+    "id": "337489",
+    "name": "RIGWOGU PRIMARY SCHOOL",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "26/15/04/024",
+    "remark": "NEW PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.79702,
+      "longitude": 5.36559,
+      "viewport": {
+        "northeast": {
+          "lat": 10.79841237989272,
+          "lng": 5.366934179892722
+        },
+        "southwest": {
+          "lat": 10.79571272010728,
+          "lng": 5.364234520107278
+        }
+      },
+      "formatted_address": "7F27Q9W8+R64, 922105, Gulbin Boka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.79702,5.36559",
+      "google_place_id": "ChIJDfsaUeRHtRERx6WtTxkIHeI"
+    }
+  },
+  {
+    "id": "337490",
+    "name": "KANGI COMMUNITY SCHOOL",
+    "registration_area_id": "17144",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "26/15/04/025",
+    "remark": "NEW PU",
+    "ward_id": "17144",
+    "ward_name": "GULBIN - BOKA",
+    "local_government_id": "551",
+    "local_government_name": "MARIGA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.7967454,
+      "longitude": 5.3652922,
+      "viewport": {
+        "northeast": {
+          "lat": 10.79809807989272,
+          "lng": 5.366645779892721
+        },
+        "southwest": {
+          "lat": 10.79539842010728,
+          "lng": 5.363946120107277
+        }
+      },
+      "formatted_address": "Q9W8+M4V, 922105, Gulbin Boka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7967454,5.3652922",
+      "google_place_id": "ChIJPc5cCKdHtRERXLHNnBgo0Zs"
+    }
+  }
+]

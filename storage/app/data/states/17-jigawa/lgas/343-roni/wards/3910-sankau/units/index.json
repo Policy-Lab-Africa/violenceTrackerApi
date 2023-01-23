@@ -1,0 +1,236 @@
+[
+  {
+    "id": "70982",
+    "name": "BALLE DANDALI/BALLE",
+    "registration_area_id": "3910",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "17/24/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3910",
+    "ward_name": "SANKAU",
+    "local_government_id": "343",
+    "local_government_name": "RONI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "70983",
+    "name": "DANDALI CIKIN GARI/DANDALI",
+    "registration_area_id": "3910",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "17/24/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3910",
+    "ward_name": "SANKAU",
+    "local_government_id": "343",
+    "local_government_name": "RONI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "70984",
+    "name": "FAIFAIKU CIKIN GARI/FAIFAIKU",
+    "registration_area_id": "3910",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "17/24/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3910",
+    "ward_name": "SANKAU",
+    "local_government_id": "343",
+    "local_government_name": "RONI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.5679694,
+      "longitude": 9.320734,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56911177989272,
+          "lng": 9.322104929892722
+        },
+        "southwest": {
+          "lat": 11.56641212010728,
+          "lng": 9.319405270107278
+        }
+      },
+      "formatted_address": "H89C+57Q, Kiyawa Road, 712103, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5679694,9.320734",
+      "google_place_id": "ChIJi7V7y9_zqxERyrEFk0ldfbg"
+    }
+  },
+  {
+    "id": "70985",
+    "name": "JATAKA CIKIN GARI/JATAKA",
+    "registration_area_id": "3910",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "17/24/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3910",
+    "ward_name": "SANKAU",
+    "local_government_id": "343",
+    "local_government_name": "RONI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "70986",
+    "name": "KUDU PRI. SCH./ KOFAR-KUDU",
+    "registration_area_id": "3910",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "17/24/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3910",
+    "ward_name": "SANKAU",
+    "local_government_id": "343",
+    "local_government_name": "RONI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.8357918,
+      "longitude": 8.5963573,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83713197989272,
+          "lng": 8.59765647989272
+        },
+        "southwest": {
+          "lat": 11.83443232010728,
+          "lng": 8.594956820107276
+        }
+      },
+      "formatted_address": "RHPW+8G7, Kano-Garko Road, 713104, Dawakin Kudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8357918,8.5963573",
+      "google_place_id": "ChIJ6yhdgUQvrBERPvi9jRdhxNk"
+    }
+  },
+  {
+    "id": "70987",
+    "name": "KWATSATSA DANDALI/KWATSATSA",
+    "registration_area_id": "3910",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "17/24/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3910",
+    "ward_name": "SANKAU",
+    "local_government_id": "343",
+    "local_government_name": "RONI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.56963,
+      "longitude": 8.940901,
+      "viewport": {
+        "northeast": {
+          "lat": 12.57098537989272,
+          "lng": 8.942251679892722
+        },
+        "southwest": {
+          "lat": 12.56828572010728,
+          "lng": 8.939552020107278
+        }
+      },
+      "formatted_address": "Roni Kasuwar ciki Roni kwatsatsa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.56963,8.940901",
+      "google_place_id": "ChIJsaqh8ajZrhEREtMXOdITbAE"
+    }
+  },
+  {
+    "id": "70988",
+    "name": "SANKAU G. MAIUNGUWA/SANKAU",
+    "registration_area_id": "3910",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "17/24/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3910",
+    "ward_name": "SANKAU",
+    "local_government_id": "343",
+    "local_government_name": "RONI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "70989",
+    "name": "GIDAN MAIUNGUWA/RUWAN DUTSE",
+    "registration_area_id": "3910",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "17/24/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3910",
+    "ward_name": "SANKAU",
+    "local_government_id": "343",
+    "local_government_name": "RONI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7169276,
+      "longitude": 9.3582232,
+      "viewport": {
+        "northeast": {
+          "lat": 11.71816057989272,
+          "lng": 9.359490579892721
+        },
+        "southwest": {
+          "lat": 11.71546092010728,
+          "lng": 9.356790920107278
+        }
+      },
+      "formatted_address": "beside Freedom Radio, 720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7169276,9.3582232",
+      "google_place_id": "ChIJ9RlkJxPxqxERG4fzq_rzYig"
+    }
+  },
+  {
+    "id": "70990",
+    "name": "MAJE/FAIFAIKU",
+    "registration_area_id": "3910",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "17/24/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3910",
+    "ward_name": "SANKAU",
+    "local_government_id": "343",
+    "local_government_name": "RONI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "70991",
+    "name": "DANDALI CIKIN GARI/DANDALI II",
+    "registration_area_id": "3910",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "17/24/08/010",
+    "remark": "NEW PU",
+    "ward_id": "3910",
+    "ward_name": "SANKAU",
+    "local_government_id": "343",
+    "local_government_name": "RONI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  }
+]

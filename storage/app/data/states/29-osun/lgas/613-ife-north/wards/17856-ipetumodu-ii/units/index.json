@@ -1,0 +1,581 @@
+[
+  {
+    "id": "350253",
+    "name": "MATERNITY CENTRE,IPETUMODU",
+    "registration_area_id": "17856",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "29/15/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17856",
+    "ward_name": "IPETUMODU  II",
+    "local_government_id": "613",
+    "local_government_name": "IFE NORTH",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.516142400000001,
+      "longitude": 4.436074899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.517671179892723,
+          "lng": 4.437559129892722
+        },
+        "southwest": {
+          "lat": 7.514971520107279,
+          "lng": 4.434859470107278
+        }
+      },
+      "formatted_address": "GC8P+FC4, 220103, Ipetumodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.516142400000001,4.436074899999999",
+      "google_place_id": "ChIJ2_2p_3YzOBARvswW3Tpoy5Y"
+    }
+  },
+  {
+    "id": "350254",
+    "name": "C.A.C. SCHOOL, BAAKUN/ IPETUMODU",
+    "registration_area_id": "17856",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "29/15/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17856",
+    "ward_name": "IPETUMODU  II",
+    "local_government_id": "613",
+    "local_government_name": "IFE NORTH",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5232137,
+      "longitude": 4.4493449,
+      "viewport": {
+        "northeast": {
+          "lat": 7.524605229892721,
+          "lng": 4.450334829892721
+        },
+        "southwest": {
+          "lat": 7.521905570107277,
+          "lng": 4.447635170107278
+        }
+      },
+      "formatted_address": "GCFX+7PQ, 220103, Edunabon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5232137,4.4493449",
+      "google_place_id": "ChIJy7Je95czOBAREScWJaFazKA"
+    }
+  },
+  {
+    "id": "350255",
+    "name": "L.A. SCHOOL, ORUGUN, IPETUMODU",
+    "registration_area_id": "17856",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "29/15/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17856",
+    "ward_name": "IPETUMODU  II",
+    "local_government_id": "613",
+    "local_government_name": "IFE NORTH",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.520643899999999,
+      "longitude": 4.448868099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.521901129892721,
+          "lng": 4.450137179892722
+        },
+        "southwest": {
+          "lat": 7.519201470107277,
+          "lng": 4.447437520107278
+        }
+      },
+      "formatted_address": "GCCX+7G5, 220103, Edunabon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.520643899999999,4.448868099999999",
+      "google_place_id": "ChIJBxyLAlUzOBAR2xuE_rhuRIg"
+    }
+  },
+  {
+    "id": "350256",
+    "name": "AYETORO AREA, IPETUMODU",
+    "registration_area_id": "17856",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "29/15/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17856",
+    "ward_name": "IPETUMODU  II",
+    "local_government_id": "613",
+    "local_government_name": "IFE NORTH",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.515834299999999,
+      "longitude": 4.44651,
+      "viewport": {
+        "northeast": {
+          "lat": 7.535126000000001,
+          "lng": 4.46465
+        },
+        "southwest": {
+          "lat": 7.4950961,
+          "lng": 4.4206959
+        }
+      },
+      "formatted_address": "Ipetumodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.515834299999999,4.44651",
+      "google_place_id": "ChIJXbemRXAzOBARjG84cKzcX4I"
+    }
+  },
+  {
+    "id": "350257",
+    "name": "ST. JOHN'S SCHOOL, OKE-OLA",
+    "registration_area_id": "17856",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "29/15/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17856",
+    "ward_name": "IPETUMODU  II",
+    "local_government_id": "613",
+    "local_government_name": "IFE NORTH",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5252871,
+      "longitude": 4.4351141,
+      "viewport": {
+        "northeast": {
+          "lat": 7.526949079892721,
+          "lng": 4.436427079892722
+        },
+        "southwest": {
+          "lat": 7.524249420107277,
+          "lng": 4.433727420107278
+        }
+      },
+      "formatted_address": "GCGP+429 koso area, 220104, Ipetumodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5252871,4.4351141",
+      "google_place_id": "ChIJ7Y9OPgszOBAR791LJEil-Ag"
+    }
+  },
+  {
+    "id": "350258",
+    "name": "A.U.D. SCHOOL, KOSO",
+    "registration_area_id": "17856",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "29/15/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17856",
+    "ward_name": "IPETUMODU  II",
+    "local_government_id": "613",
+    "local_government_name": "IFE NORTH",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.523281399999998,
+      "longitude": 4.4378688,
+      "viewport": {
+        "northeast": {
+          "lat": 7.524627629892722,
+          "lng": 4.439205979892722
+        },
+        "southwest": {
+          "lat": 7.521927970107278,
+          "lng": 4.436506320107278
+        }
+      },
+      "formatted_address": "GCFQ+952, Unnamed Road, 220104, Ipetumodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.523281399999998,4.4378688",
+      "google_place_id": "ChIJe6vPO1IzOBAR0EgtLnXrBuI"
+    }
+  },
+  {
+    "id": "350259",
+    "name": "ISALE AAJE,IPETUMODU",
+    "registration_area_id": "17856",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "29/15/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17856",
+    "ward_name": "IPETUMODU  II",
+    "local_government_id": "613",
+    "local_government_name": "IFE NORTH",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4968574,
+      "longitude": 4.454231099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.525173,
+          "lng": 4.4900125
+        },
+        "southwest": {
+          "lat": 7.472058400000001,
+          "lng": 4.4221149
+        }
+      },
+      "formatted_address": "Ipetumodu II, 220103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4968574,4.454231099999999",
+      "google_place_id": "ChIJp0LrRHQ0OBARHWEEAfgUSOU"
+    }
+  },
+  {
+    "id": "350260",
+    "name": "ORIGBO COMM. UNITY HIGH SCHOOL, IPETUMODU",
+    "registration_area_id": "17856",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "29/15/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17856",
+    "ward_name": "IPETUMODU  II",
+    "local_government_id": "613",
+    "local_government_name": "IFE NORTH",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.512668400000001,
+      "longitude": 4.4349814,
+      "viewport": {
+        "northeast": {
+          "lat": 7.513994079892722,
+          "lng": 4.436309579892722
+        },
+        "southwest": {
+          "lat": 7.511294420107278,
+          "lng": 4.433609920107278
+        }
+      },
+      "formatted_address": "GC7M+3X9, 220103, Ipetumodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.512668400000001,4.4349814",
+      "google_place_id": "ChIJF4SqxHkzOBAR1PxcoiFp7hU"
+    }
+  },
+  {
+    "id": "350261",
+    "name": "AMOSUN VILLAGE",
+    "registration_area_id": "17856",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "29/15/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17856",
+    "ward_name": "IPETUMODU  II",
+    "local_government_id": "613",
+    "local_government_name": "IFE NORTH",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6531562,
+      "longitude": 3.9419415,
+      "viewport": {
+        "northeast": {
+          "lat": 7.668414400000001,
+          "lng": 3.9748469
+        },
+        "southwest": {
+          "lat": 7.6121003,
+          "lng": 3.8897316
+        }
+      },
+      "formatted_address": "Olode/Amosun/Onidundu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6531562,3.9419415",
+      "google_place_id": "ChIJeaJI0OPkORARbjUILrJ99so"
+    }
+  },
+  {
+    "id": "350262",
+    "name": "AMULIE, IPETUMODU",
+    "registration_area_id": "17856",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "29/15/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17856",
+    "ward_name": "IPETUMODU  II",
+    "local_government_id": "613",
+    "local_government_name": "IFE NORTH",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4968574,
+      "longitude": 4.454231099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.525173,
+          "lng": 4.4900125
+        },
+        "southwest": {
+          "lat": 7.472058400000001,
+          "lng": 4.4221149
+        }
+      },
+      "formatted_address": "Ipetumodu II, 220103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4968574,4.454231099999999",
+      "google_place_id": "ChIJp0LrRHQ0OBARHWEEAfgUSOU"
+    }
+  },
+  {
+    "id": "350263",
+    "name": "ODO-OBA, IPETUMODU",
+    "registration_area_id": "17856",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "29/15/07/011",
+    "remark": "EXISTING PU",
+    "ward_id": "17856",
+    "ward_name": "IPETUMODU  II",
+    "local_government_id": "613",
+    "local_government_name": "IFE NORTH",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.515834299999999,
+      "longitude": 4.44651,
+      "viewport": {
+        "northeast": {
+          "lat": 7.535126000000001,
+          "lng": 4.46465
+        },
+        "southwest": {
+          "lat": 7.4950961,
+          "lng": 4.4206959
+        }
+      },
+      "formatted_address": "Ipetumodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.515834299999999,4.44651",
+      "google_place_id": "ChIJXbemRXAzOBARjG84cKzcX4I"
+    }
+  },
+  {
+    "id": "350264",
+    "name": "ABEBI JUNCTION, IPETUMODU`",
+    "registration_area_id": "17856",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "29/15/07/012",
+    "remark": "EXISTING PU",
+    "ward_id": "17856",
+    "ward_name": "IPETUMODU  II",
+    "local_government_id": "613",
+    "local_government_name": "IFE NORTH",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.523281399999998,
+      "longitude": 4.4378688,
+      "viewport": {
+        "northeast": {
+          "lat": 7.524627629892722,
+          "lng": 4.439205979892722
+        },
+        "southwest": {
+          "lat": 7.521927970107278,
+          "lng": 4.436506320107278
+        }
+      },
+      "formatted_address": "GCFQ+952, Unnamed Road, 220104, Ipetumodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.523281399999998,4.4378688",
+      "google_place_id": "ChIJe6vPO1IzOBAR0EgtLnXrBuI"
+    }
+  },
+  {
+    "id": "350265",
+    "name": "OPEN SPACE BESIDE ONA-ARA CLINIC JUNCTION, SORAFAJA",
+    "registration_area_id": "17856",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "29/15/07/013",
+    "remark": "NEW PU",
+    "ward_id": "17856",
+    "ward_name": "IPETUMODU  II",
+    "local_government_id": "613",
+    "local_government_name": "IFE NORTH",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "350266",
+    "name": "OPEN SPACE OPP. AGBEDE WORKSHOP,  ILE AGBE, IPETUMODU",
+    "registration_area_id": "17856",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "29/15/07/014",
+    "remark": "NEW PU",
+    "ward_id": "17856",
+    "ward_name": "IPETUMODU  II",
+    "local_government_id": "613",
+    "local_government_name": "IFE NORTH",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "350267",
+    "name": "C & S GRAMMAR SCHOOL, IPETUMODU",
+    "registration_area_id": "17856",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "29/15/07/015",
+    "remark": "NEW PU",
+    "ward_id": "17856",
+    "ward_name": "IPETUMODU  II",
+    "local_government_id": "613",
+    "local_government_name": "IFE NORTH",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 43.4790797,
+      "longitude": -80.5163432,
+      "viewport": {
+        "northeast": {
+          "lat": 43.48040932989272,
+          "lng": -80.51503197010727
+        },
+        "southwest": {
+          "lat": 43.47770967010727,
+          "lng": -80.51773162989271
+        }
+      },
+      "formatted_address": "119 University Ave E Suite 21, Waterloo, ON N2J 2W1, Canada",
+      "google_map_url": "https://maps.google.com?q=43.4790797,-80.5163432",
+      "google_place_id": "ChIJnZgV_fTzK4gRex9vTJjq2CM"
+    }
+  },
+  {
+    "id": "350268",
+    "name": "OPEN SPACE AT LANE 5 JUNCTION, NEW TOWN, IPETUMODU",
+    "registration_area_id": "17856",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "29/15/07/016",
+    "remark": "NEW PU",
+    "ward_id": "17856",
+    "ward_name": "IPETUMODU  II",
+    "local_government_id": "613",
+    "local_government_name": "IFE NORTH",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "350269",
+    "name": "OPEN SPACE, NEAR AGBEDE WORSHOP, ILE AGO, IPETUMODU",
+    "registration_area_id": "17856",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "29/15/07/017",
+    "remark": "NEW PU",
+    "ward_id": "17856",
+    "ward_name": "IPETUMODU  II",
+    "local_government_id": "613",
+    "local_government_name": "IFE NORTH",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5216385,
+      "longitude": 4.444821699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.523017229892722,
+          "lng": 4.44620312989272
+        },
+        "southwest": {
+          "lat": 7.520317570107278,
+          "lng": 4.443503470107276
+        }
+      },
+      "formatted_address": "Ipetumodu I, 220103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5216385,4.444821699999999",
+      "google_place_id": "ChIJp6vVhSwzOBAR-rW8_wY1xy4"
+    }
+  },
+  {
+    "id": "350270",
+    "name": "OPEN SPACE OPPOSITE OLUGBON'S LODGE, OKOKO IPETUMODU",
+    "registration_area_id": "17856",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "29/15/07/018",
+    "remark": "NEW PU",
+    "ward_id": "17856",
+    "ward_name": "IPETUMODU  II",
+    "local_government_id": "613",
+    "local_government_name": "IFE NORTH",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5034804,
+      "longitude": 4.444776699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.504869179892722,
+          "lng": 4.446124229892723
+        },
+        "southwest": {
+          "lat": 7.502169520107278,
+          "lng": 4.443424570107279
+        }
+      },
+      "formatted_address": "GC3V+CV7, Akinola Rd, 220103, Edunabon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5034804,4.444776699999999",
+      "google_place_id": "ChIJKXOpwIwzOBARAOQSrdoydc0"
+    }
+  },
+  {
+    "id": "350271",
+    "name": "OPEN SPACE AT HERITAGE COOL SPOT JUNCTION ALAPATA, IPETUMODU",
+    "registration_area_id": "17856",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "29/15/07/019",
+    "remark": "NEW PU",
+    "ward_id": "17856",
+    "ward_name": "IPETUMODU  II",
+    "local_government_id": "613",
+    "local_government_name": "IFE NORTH",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.490462,
+      "longitude": 4.5521274,
+      "viewport": {
+        "northeast": {
+          "lat": 7.491492229892722,
+          "lng": 4.553550679892722
+        },
+        "southwest": {
+          "lat": 7.488792570107278,
+          "lng": 4.550851020107278
+        }
+      },
+      "formatted_address": "Plot 9, Oduduwa Avenue, Parakin Layout Ife East Local Government, 220101, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.490462,4.5521274",
+      "google_place_id": "ChIJDXZT6Uo3OBARlfL8ofRiLHE"
+    }
+  }
+]

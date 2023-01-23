@@ -1,0 +1,817 @@
+[
+  {
+    "id": "7479",
+    "name": "ALKALI MOKOLO / 81 KURMI ROAD",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "02/20/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7480",
+    "name": "ALHAJI MUSA / 100 MAJALISA ROAD",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "02/20/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7481",
+    "name": "BABA SALMA / NO 6 MOKOLO CLOSE",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "02/20/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7482",
+    "name": "BOBBOI WANZAM  / NO 7 NEPA ROAD",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "02/20/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7483",
+    "name": "GRA PRI. SCH.  INFRONT OF H/M'S OFFICE",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "02/20/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.214305999999999,
+      "longitude": 12.4769199,
+      "viewport": {
+        "northeast": {
+          "lat": 9.215689329892722,
+          "lng": 12.47825207989272
+        },
+        "southwest": {
+          "lat": 9.212989670107278,
+          "lng": 12.47555242010728
+        }
+      },
+      "formatted_address": "Sanda Primary School, Yola 640284, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.214305999999999,12.4769199",
+      "google_place_id": "ChIJfQAAPfVs_BARRogBK4HNwSo"
+    }
+  },
+  {
+    "id": "7484",
+    "name": "GRA PRI. SCH.  INFRONT OF CLASS II",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "02/20/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2681308,
+      "longitude": 12.4558347,
+      "viewport": {
+        "northeast": {
+          "lat": 9.269480179892723,
+          "lng": 12.45719927989272
+        },
+        "southwest": {
+          "lat": 9.266780520107279,
+          "lng": 12.45449962010728
+        }
+      },
+      "formatted_address": "30 Nepa Road, Jimeta 640102, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2681308,12.4558347",
+      "google_place_id": "ChIJ3-DDYCZr_BARZKG3BUA-bSs"
+    }
+  },
+  {
+    "id": "7485",
+    "name": "GRA PRI. SCH.  INFRONT OF CLASS VI",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "02/20/01/007",
+    "remark": "EXISTING PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.210057899999999,
+      "longitude": 12.4892392,
+      "viewport": {
+        "northeast": {
+          "lat": 9.211395079892723,
+          "lng": 12.49059422989272
+        },
+        "southwest": {
+          "lat": 9.20869542010728,
+          "lng": 12.48789457010728
+        }
+      },
+      "formatted_address": "6F6Q+2MQ, Yola 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.210057899999999,12.4892392",
+      "google_place_id": "ChIJn1YWpF5s_BAR55LkAHwYe9I"
+    }
+  },
+  {
+    "id": "7486",
+    "name": "GRA PRI. SCH.  INFRONT OF CLASS IVB",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "02/20/01/008",
+    "remark": "EXISTING PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.210057899999999,
+      "longitude": 12.4892392,
+      "viewport": {
+        "northeast": {
+          "lat": 9.211395079892723,
+          "lng": 12.49059422989272
+        },
+        "southwest": {
+          "lat": 9.20869542010728,
+          "lng": 12.48789457010728
+        }
+      },
+      "formatted_address": "6F6Q+2MQ, Yola 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.210057899999999,12.4892392",
+      "google_place_id": "ChIJn1YWpF5s_BAR55LkAHwYe9I"
+    }
+  },
+  {
+    "id": "7487",
+    "name": "ISA RUMINGO / 22 GANYE ST",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "02/20/01/009",
+    "remark": "EXISTING PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7488",
+    "name": "KOFAR MA'AJI / 16 MAALISA RD",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "02/20/01/010",
+    "remark": "EXISTING PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7489",
+    "name": "KOFAR MOH'D KIRI / 48 KURMI RD.",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "02/20/01/011",
+    "remark": "EXISTING PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7490",
+    "name": "KOFAR MOH'D ZUBAIRU / 79 NEPA RD.",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "02/20/01/012",
+    "remark": "EXISTING PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7491",
+    "name": "KOFAR JAMA'A / 25 IBADAN ST.",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "02/20/01/013",
+    "remark": "EXISTING PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7492",
+    "name": "KOFAR SARKIN TASHA / 7 TARABA ST.",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "02/20/01/014",
+    "remark": "EXISTING PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7493",
+    "name": "KOFAR SULEIMAN S/KASUWA - 46 TAFIDA RD",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "02/20/01/015",
+    "remark": "EXISTING PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7494",
+    "name": "KOFAR  SIDDIKI / 35 GANYE STREET",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "02/20/01/016",
+    "remark": "EXISTING PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7495",
+    "name": "NEAR NIGER INSURANCE OFFICE",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "02/20/01/017",
+    "remark": "NEW PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.265423799999999,
+      "longitude": 12.4546451,
+      "viewport": {
+        "northeast": {
+          "lat": 9.266773879892723,
+          "lng": 12.45599327989272
+        },
+        "southwest": {
+          "lat": 9.264074220107279,
+          "lng": 12.45329362010728
+        }
+      },
+      "formatted_address": "40 Abubakar Atiku Road, Jimeta 640102, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.265423799999999,12.4546451",
+      "google_place_id": "ChIJTTRq8Dtr_BARa2jXLtEF6nk"
+    }
+  },
+  {
+    "id": "7496",
+    "name": "INSIDE CBDA OFFICE",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "02/20/01/018",
+    "remark": "NEW PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2485489,
+      "longitude": 12.4495221,
+      "viewport": {
+        "northeast": {
+          "lat": 9.250072129892722,
+          "lng": 12.45096297989272
+        },
+        "southwest": {
+          "lat": 9.247372470107278,
+          "lng": 12.44826332010728
+        }
+      },
+      "formatted_address": "5 5 Suleja road, Dougirei, Jimeta, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2485489,12.4495221",
+      "google_place_id": "ChIJgz-09Htr_BARiiQyn4YB72Q"
+    }
+  },
+  {
+    "id": "7497",
+    "name": "53 KURMI ROAD",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "02/20/01/019",
+    "remark": "NEW PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2645524,
+      "longitude": 12.4560702,
+      "viewport": {
+        "northeast": {
+          "lat": 9.265902229892719,
+          "lng": 12.45742002989272
+        },
+        "southwest": {
+          "lat": 9.263202570107275,
+          "lng": 12.45472037010728
+        }
+      },
+      "formatted_address": "Kurmi Rd, Jimeta 640102, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2645524,12.4560702",
+      "google_place_id": "ChIJZ0w8BTxr_BAR_nvbZu3Pdko"
+    }
+  },
+  {
+    "id": "7498",
+    "name": "G.R.A PRI. SCH. IN FRONT CLASS I",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "02/20/01/020",
+    "remark": "NEW PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2681308,
+      "longitude": 12.4558347,
+      "viewport": {
+        "northeast": {
+          "lat": 9.269480179892723,
+          "lng": 12.45719927989272
+        },
+        "southwest": {
+          "lat": 9.266780520107279,
+          "lng": 12.45449962010728
+        }
+      },
+      "formatted_address": "30 Nepa Road, Jimeta 640102, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2681308,12.4558347",
+      "google_place_id": "ChIJ3-DDYCZr_BARZKG3BUA-bSs"
+    }
+  },
+  {
+    "id": "7499",
+    "name": "G.R.A PRI. SCHOOL",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "02/20/01/021",
+    "remark": "NEW PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2681308,
+      "longitude": 12.4558347,
+      "viewport": {
+        "northeast": {
+          "lat": 9.269480179892723,
+          "lng": 12.45719927989272
+        },
+        "southwest": {
+          "lat": 9.266780520107279,
+          "lng": 12.45449962010728
+        }
+      },
+      "formatted_address": "30 Nepa Road, Jimeta 640102, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2681308,12.4558347",
+      "google_place_id": "ChIJ3-DDYCZr_BARZKG3BUA-bSs"
+    }
+  },
+  {
+    "id": "7500",
+    "name": "G.R.A PRI. SCHOOL",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "02/20/01/022",
+    "remark": "NEW PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2681308,
+      "longitude": 12.4558347,
+      "viewport": {
+        "northeast": {
+          "lat": 9.269480179892723,
+          "lng": 12.45719927989272
+        },
+        "southwest": {
+          "lat": 9.266780520107279,
+          "lng": 12.45449962010728
+        }
+      },
+      "formatted_address": "30 Nepa Road, Jimeta 640102, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2681308,12.4558347",
+      "google_place_id": "ChIJ3-DDYCZr_BARZKG3BUA-bSs"
+    }
+  },
+  {
+    "id": "7501",
+    "name": "G.R.A PRI. SCHOOL INF. CLASS II",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "02/20/01/023",
+    "remark": "NEW PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2795138,
+      "longitude": 12.431498,
+      "viewport": {
+        "northeast": {
+          "lat": 9.280896779892723,
+          "lng": 12.43289207989272
+        },
+        "southwest": {
+          "lat": 9.27819712010728,
+          "lng": 12.43019242010728
+        }
+      },
+      "formatted_address": "Off Numan Rd, Shagari Phase 2 640101, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2795138,12.431498",
+      "google_place_id": "ChIJIRugGAFt_BARexeG56NEU-w"
+    }
+  },
+  {
+    "id": "7502",
+    "name": "KOFAR MOHD ZUBAIRU II",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "02/20/01/024",
+    "remark": "NEW PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.1951445,
+      "longitude": 12.4903397,
+      "viewport": {
+        "northeast": {
+          "lat": 9.196446279892719,
+          "lng": 12.49182797989272
+        },
+        "southwest": {
+          "lat": 9.193746620107275,
+          "lng": 12.48912832010728
+        }
+      },
+      "formatted_address": "Yola Bye - Pass Rd, Madumari 640210, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1951445,12.4903397",
+      "google_place_id": "ChIJz5d8g1Ns_BAR5K93sYRK2JA"
+    }
+  },
+  {
+    "id": "7503",
+    "name": "NEAR ADDA MAYINE GANYE STREET",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "02/20/01/025",
+    "remark": "NEW PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.236072,
+      "longitude": 12.450146,
+      "viewport": {
+        "northeast": {
+          "lat": 9.237378979892723,
+          "lng": 12.45141362989272
+        },
+        "southwest": {
+          "lat": 9.23467932010728,
+          "lng": 12.44871397010728
+        }
+      },
+      "formatted_address": "3 Maiduguri Street, Off Army Barracks Road, Jimeta-Yola, Adamawa State,, Nigeria Nigeria, Yola North, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.236072,12.450146",
+      "google_place_id": "ChIJ5____09s_BARWXlHedfmkn0"
+    }
+  },
+  {
+    "id": "7504",
+    "name": "NEAR CHUSAL BORE HOLE",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "02/20/01/026",
+    "remark": "NEW PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.3264751,
+      "longitude": 12.3983853,
+      "viewport": {
+        "northeast": {
+          "lat": 9.327353779892722,
+          "lng": 12.39933772989272
+        },
+        "southwest": {
+          "lat": 9.324654120107278,
+          "lng": 12.39663807010728
+        }
+      },
+      "formatted_address": "Broadcasting House Complex, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3264751,12.3983853",
+      "google_place_id": "ChIJc1DDkeo__BARJ--46ahxkA8"
+    }
+  },
+  {
+    "id": "7505",
+    "name": "NEAR GIDAN GONA PLAZA",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "02/20/01/027",
+    "remark": "NEW PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2817347,
+      "longitude": 12.4660655,
+      "viewport": {
+        "northeast": {
+          "lat": 9.283228729892722,
+          "lng": 12.46748687989272
+        },
+        "southwest": {
+          "lat": 9.280529070107278,
+          "lng": 12.46478722010728
+        }
+      },
+      "formatted_address": "Ministry of Finance, Kashim Ibrahim Way, Jimeta 640102, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2817347,12.4660655",
+      "google_place_id": "ChIJnWVnE5tr_BAR89nccAU0Tpg"
+    }
+  },
+  {
+    "id": "7506",
+    "name": "BEHIND DOWN TOWN RESTAURANT",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "02/20/01/028",
+    "remark": "NEW PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.256990199999999,
+      "longitude": 12.4479918,
+      "viewport": {
+        "northeast": {
+          "lat": 9.258206579892722,
+          "lng": 12.44929932989272
+        },
+        "southwest": {
+          "lat": 9.255506920107278,
+          "lng": 12.44659967010728
+        }
+      },
+      "formatted_address": "Waziri Road, Karewa GRA Extension 640101, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.256990199999999,12.4479918",
+      "google_place_id": "ChIJU5glLKdr_BAR5hC43GXODc4"
+    }
+  },
+  {
+    "id": "7507",
+    "name": "BEHIND YEDC",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "02/20/01/029",
+    "remark": "NEW PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.260362599999999,
+      "longitude": 12.4563865,
+      "viewport": {
+        "northeast": {
+          "lat": 9.261659579892722,
+          "lng": 12.45761857989272
+        },
+        "southwest": {
+          "lat": 9.258959920107278,
+          "lng": 12.45491892010728
+        }
+      },
+      "formatted_address": "2 Abubakar Atiku Road, Jimeta 640102, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.260362599999999,12.4563865",
+      "google_place_id": "ChIJO90SNz9r_BARjc_bjgJ5ln4"
+    }
+  },
+  {
+    "id": "7508",
+    "name": "TAFIDA ROAD JUNCTION",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "02/20/01/030",
+    "remark": "NEW PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.1890184,
+      "longitude": 12.5248647,
+      "viewport": {
+        "northeast": {
+          "lat": 9.190410029892721,
+          "lng": 12.52620442989272
+        },
+        "southwest": {
+          "lat": 9.187710370107277,
+          "lng": 12.52350477010728
+        }
+      },
+      "formatted_address": "5GQF+JW5, 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1890184,12.5248647",
+      "google_place_id": "ChIJXWVoiNRt_BAROkgaOLdcAxk"
+    }
+  },
+  {
+    "id": "7509",
+    "name": "34 MAJALISA RD NEAR BORE HOLE",
+    "registration_area_id": "389",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "02/20/01/031",
+    "remark": "NEW PU",
+    "ward_id": "389",
+    "ward_name": "ALKALAWA",
+    "local_government_id": "37",
+    "local_government_name": "YOLA NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  }
+]

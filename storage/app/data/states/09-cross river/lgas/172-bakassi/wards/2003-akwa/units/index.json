@@ -1,0 +1,218 @@
+[
+  {
+    "id": "36470",
+    "name": "PLAYGROUND, AKWA TOWN",
+    "registration_area_id": "2003",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "09/04/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2003",
+    "ward_name": "AKWA",
+    "local_government_id": "172",
+    "local_government_name": "BAKASSI",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.1425974,
+      "longitude": 8.5101399,
+      "viewport": {
+        "northeast": {
+          "lat": 5.14343,
+          "lng": 8.511289229892723
+        },
+        "southwest": {
+          "lat": 5.140099599999999,
+          "lng": 8.50858957010728
+        }
+      },
+      "formatted_address": "4GV6+23J, Aningeje Town, along Oban Road, Akamkpa LGA, Aningeje, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1425974,8.5101399",
+      "google_place_id": "ChIJ4cOda-yCXRARXnwRr4iUMZA"
+    }
+  },
+  {
+    "id": "36471",
+    "name": "PLAYGROUND,  MBENMONG",
+    "registration_area_id": "2003",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "09/04/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2003",
+    "ward_name": "AKWA",
+    "local_government_id": "172",
+    "local_government_name": "BAKASSI",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
+  },
+  {
+    "id": "36472",
+    "name": "PLAYGROUND NWANYO",
+    "registration_area_id": "2003",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "09/04/03/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2003",
+    "ward_name": "AKWA",
+    "local_government_id": "172",
+    "local_government_name": "BAKASSI",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
+  },
+  {
+    "id": "36473",
+    "name": "PLAY GROUND EKARA UTAN",
+    "registration_area_id": "2003",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "09/04/03/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2003",
+    "ward_name": "AKWA",
+    "local_government_id": "172",
+    "local_government_name": "BAKASSI",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "36474",
+    "name": "PLAY GROUND,  NYAM OSUNG",
+    "registration_area_id": "2003",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "09/04/03/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2003",
+    "ward_name": "AKWA",
+    "local_government_id": "172",
+    "local_government_name": "BAKASSI",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "36475",
+    "name": "PLAY GROUND ANKE AMBANG",
+    "registration_area_id": "2003",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "09/04/03/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2003",
+    "ward_name": "AKWA",
+    "local_government_id": "172",
+    "local_government_name": "BAKASSI",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "36476",
+    "name": "PLAY GROUND ESINE UFOT",
+    "registration_area_id": "2003",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "09/04/03/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2003",
+    "ward_name": "AKWA",
+    "local_government_id": "172",
+    "local_government_name": "BAKASSI",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
+  },
+  {
+    "id": "36477",
+    "name": "PLAY GROUND IKOT EYO",
+    "registration_area_id": "2003",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "09/04/03/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2003",
+    "ward_name": "AKWA",
+    "local_government_id": "172",
+    "local_government_name": "BAKASSI",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
+  }
+]

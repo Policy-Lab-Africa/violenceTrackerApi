@@ -1,0 +1,530 @@
+[
+  {
+    "id": "352776",
+    "name": "AATAN",
+    "registration_area_id": "18063",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "30/03/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "18063",
+    "ward_name": "ASHIPA I",
+    "local_government_id": "630",
+    "local_government_name": "ATIBA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.85392,
+      "longitude": 3.95954,
+      "viewport": {
+        "northeast": {
+          "lat": 7.855194579892721,
+          "lng": 3.960756729892721
+        },
+        "southwest": {
+          "lat": 7.852494920107277,
+          "lng": 3.958057070107277
+        }
+      },
+      "formatted_address": "Oyo Ogbomosho Rd, Ajegunle 211271, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.85392,3.95954",
+      "google_place_id": "ChIJ0w_k0LNbNxARThNIXZdKYLE"
+    }
+  },
+  {
+    "id": "352777",
+    "name": "AJALARURU/OJAALA",
+    "registration_area_id": "18063",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "30/03/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "18063",
+    "ward_name": "ASHIPA I",
+    "local_government_id": "630",
+    "local_government_name": "ATIBA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.8500085,
+      "longitude": 3.9333251,
+      "viewport": {
+        "northeast": {
+          "lat": 7.851325879892721,
+          "lng": 3.934634079892721
+        },
+        "southwest": {
+          "lat": 7.848626220107278,
+          "lng": 3.931934420107277
+        }
+      },
+      "formatted_address": "Area 1, New Express, Iyana Osupa, Idi Ose Street, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8500085,3.9333251",
+      "google_place_id": "ChIJwQknFIlZNxAR0edK2MugM24"
+    }
+  },
+  {
+    "id": "352778",
+    "name": "ASHIPA",
+    "registration_area_id": "18063",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "30/03/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "18063",
+    "ward_name": "ASHIPA I",
+    "local_government_id": "630",
+    "local_government_name": "ATIBA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.641503699999999,
+      "longitude": 4.0499059,
+      "viewport": {
+        "northeast": {
+          "lat": 7.642838779892722,
+          "lng": 4.051291829892723
+        },
+        "southwest": {
+          "lat": 7.640139120107278,
+          "lng": 4.048592170107279
+        }
+      },
+      "formatted_address": "200138, Ashipa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.641503699999999,4.0499059",
+      "google_place_id": "ChIJ98P8WHPnORARfCGpb-uEX2Q"
+    }
+  },
+  {
+    "id": "352779",
+    "name": "IKOLABA",
+    "registration_area_id": "18063",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "30/03/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "18063",
+    "ward_name": "ASHIPA I",
+    "local_government_id": "630",
+    "local_government_name": "ATIBA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.8613836,
+      "longitude": 3.9260131,
+      "viewport": {
+        "northeast": {
+          "lat": 7.8667795,
+          "lng": 3.9336196
+        },
+        "southwest": {
+          "lat": 7.8568821,
+          "lng": 3.9211836
+        }
+      },
+      "formatted_address": "Ashipa I, 211172, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8613836,3.9260131",
+      "google_place_id": "ChIJVz8QYyJaNxARXM77qYVcITg"
+    }
+  },
+  {
+    "id": "352780",
+    "name": "LATULA",
+    "registration_area_id": "18063",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "30/03/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "18063",
+    "ward_name": "ASHIPA I",
+    "local_government_id": "630",
+    "local_government_name": "ATIBA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.855446,
+      "longitude": 3.9593515,
+      "viewport": {
+        "northeast": {
+          "lat": 7.856764429892721,
+          "lng": 3.960670379892721
+        },
+        "southwest": {
+          "lat": 7.854064770107277,
+          "lng": 3.957970720107277
+        }
+      },
+      "formatted_address": "VX45+4QM, Oyo-Ogbomosho Road, Ajegunle 211271, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.855446,3.9593515",
+      "google_place_id": "ChIJpYt6hNhbNxAR_ObXo9DsVrQ"
+    }
+  },
+  {
+    "id": "352781",
+    "name": "ODEMOJA",
+    "registration_area_id": "18063",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "30/03/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "18063",
+    "ward_name": "ASHIPA I",
+    "local_government_id": "630",
+    "local_government_name": "ATIBA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.8500085,
+      "longitude": 3.9333251,
+      "viewport": {
+        "northeast": {
+          "lat": 7.851325879892721,
+          "lng": 3.934634079892721
+        },
+        "southwest": {
+          "lat": 7.848626220107278,
+          "lng": 3.931934420107277
+        }
+      },
+      "formatted_address": "Area 1, New Express, Iyana Osupa, Idi Ose Street, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8500085,3.9333251",
+      "google_place_id": "ChIJwQknFIlZNxAR0edK2MugM24"
+    }
+  },
+  {
+    "id": "352782",
+    "name": "OGBEGBE",
+    "registration_area_id": "18063",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "30/03/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "18063",
+    "ward_name": "ASHIPA I",
+    "local_government_id": "630",
+    "local_government_name": "ATIBA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.8495793,
+      "longitude": 3.9104336,
+      "viewport": {
+        "northeast": {
+          "lat": 7.850960629892721,
+          "lng": 3.911784329892722
+        },
+        "southwest": {
+          "lat": 7.848260970107277,
+          "lng": 3.909084670107278
+        }
+      },
+      "formatted_address": "Oyo-Iseyin Rd, Isokun 211172, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8495793,3.9104336",
+      "google_place_id": "ChIJY4U95mFZNxARHZ_IhsmRSrg"
+    }
+  },
+  {
+    "id": "352783",
+    "name": "OPEN SPACE, OLORI OSO COMPOUND",
+    "registration_area_id": "18063",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "30/03/08/008",
+    "remark": "NEW PU",
+    "ward_id": "18063",
+    "ward_name": "ASHIPA I",
+    "local_government_id": "630",
+    "local_government_name": "ATIBA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.8495793,
+      "longitude": 3.9104336,
+      "viewport": {
+        "northeast": {
+          "lat": 7.850960629892721,
+          "lng": 3.911784329892722
+        },
+        "southwest": {
+          "lat": 7.848260970107277,
+          "lng": 3.909084670107278
+        }
+      },
+      "formatted_address": "Oyo-Iseyin Rd, Isokun 211172, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8495793,3.9104336",
+      "google_place_id": "ChIJY4U95mFZNxARHZ_IhsmRSrg"
+    }
+  },
+  {
+    "id": "352784",
+    "name": "OPEN SPACE LAAGE COMPOUND.",
+    "registration_area_id": "18063",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "30/03/08/009",
+    "remark": "NEW PU",
+    "ward_id": "18063",
+    "ward_name": "ASHIPA I",
+    "local_government_id": "630",
+    "local_government_name": "ATIBA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.8495793,
+      "longitude": 3.9104336,
+      "viewport": {
+        "northeast": {
+          "lat": 7.850960629892721,
+          "lng": 3.911784329892722
+        },
+        "southwest": {
+          "lat": 7.848260970107277,
+          "lng": 3.909084670107278
+        }
+      },
+      "formatted_address": "Oyo-Iseyin Rd, Isokun 211172, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8495793,3.9104336",
+      "google_place_id": "ChIJY4U95mFZNxARHZ_IhsmRSrg"
+    }
+  },
+  {
+    "id": "352785",
+    "name": "OPEN SPACE, CUSTOMARY COURT",
+    "registration_area_id": "18063",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "30/03/08/010",
+    "remark": "NEW PU",
+    "ward_id": "18063",
+    "ward_name": "ASHIPA I",
+    "local_government_id": "630",
+    "local_government_name": "ATIBA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3611871,
+      "longitude": 3.8670033,
+      "viewport": {
+        "northeast": {
+          "lat": 7.362676079892721,
+          "lng": 3.868455929892722
+        },
+        "southwest": {
+          "lat": 7.359976420107277,
+          "lng": 3.865756270107279
+        }
+      },
+      "formatted_address": "Aboderin Layout, Ring Road, PMB 5031, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3611871,3.8670033",
+      "google_place_id": "ChIJ7RJPpLSNORAR68pm8ZJaGLg"
+    }
+  },
+  {
+    "id": "352786",
+    "name": "OPEN SPACE, ALUSEKERE",
+    "registration_area_id": "18063",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "30/03/08/011",
+    "remark": "NEW PU",
+    "ward_id": "18063",
+    "ward_name": "ASHIPA I",
+    "local_government_id": "630",
+    "local_government_name": "ATIBA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.8495793,
+      "longitude": 3.9104336,
+      "viewport": {
+        "northeast": {
+          "lat": 7.850960629892721,
+          "lng": 3.911784329892722
+        },
+        "southwest": {
+          "lat": 7.848260970107277,
+          "lng": 3.909084670107278
+        }
+      },
+      "formatted_address": "Oyo-Iseyin Rd, Isokun 211172, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8495793,3.9104336",
+      "google_place_id": "ChIJY4U95mFZNxARHZ_IhsmRSrg"
+    }
+  },
+  {
+    "id": "352787",
+    "name": "OPEN SPACE, REMO COMPOUND",
+    "registration_area_id": "18063",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "30/03/08/012",
+    "remark": "NEW PU",
+    "ward_id": "18063",
+    "ward_name": "ASHIPA I",
+    "local_government_id": "630",
+    "local_government_name": "ATIBA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.8495793,
+      "longitude": 3.9104336,
+      "viewport": {
+        "northeast": {
+          "lat": 7.850960629892721,
+          "lng": 3.911784329892722
+        },
+        "southwest": {
+          "lat": 7.848260970107277,
+          "lng": 3.909084670107278
+        }
+      },
+      "formatted_address": "Oyo-Iseyin Rd, Isokun 211172, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8495793,3.9104336",
+      "google_place_id": "ChIJY4U95mFZNxARHZ_IhsmRSrg"
+    }
+  },
+  {
+    "id": "352788",
+    "name": "OPEN SPACE, AJADI COMPOUND",
+    "registration_area_id": "18063",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "30/03/08/013",
+    "remark": "NEW PU",
+    "ward_id": "18063",
+    "ward_name": "ASHIPA I",
+    "local_government_id": "630",
+    "local_government_name": "ATIBA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.8495793,
+      "longitude": 3.9104336,
+      "viewport": {
+        "northeast": {
+          "lat": 7.850960629892721,
+          "lng": 3.911784329892722
+        },
+        "southwest": {
+          "lat": 7.848260970107277,
+          "lng": 3.909084670107278
+        }
+      },
+      "formatted_address": "Oyo-Iseyin Rd, Isokun 211172, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8495793,3.9104336",
+      "google_place_id": "ChIJY4U95mFZNxARHZ_IhsmRSrg"
+    }
+  },
+  {
+    "id": "352789",
+    "name": "OPEN SPACE OLOWURO",
+    "registration_area_id": "18063",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "30/03/08/014",
+    "remark": "NEW PU",
+    "ward_id": "18063",
+    "ward_name": "ASHIPA I",
+    "local_government_id": "630",
+    "local_government_name": "ATIBA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.8495793,
+      "longitude": 3.9104336,
+      "viewport": {
+        "northeast": {
+          "lat": 7.850960629892721,
+          "lng": 3.911784329892722
+        },
+        "southwest": {
+          "lat": 7.848260970107277,
+          "lng": 3.909084670107278
+        }
+      },
+      "formatted_address": "Oyo-Iseyin Rd, Isokun 211172, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8495793,3.9104336",
+      "google_place_id": "ChIJY4U95mFZNxARHZ_IhsmRSrg"
+    }
+  },
+  {
+    "id": "352790",
+    "name": "OPEN SPACE OPPOSITE OPABODE HOSPITAL",
+    "registration_area_id": "18063",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "30/03/08/015",
+    "remark": "NEW PU",
+    "ward_id": "18063",
+    "ward_name": "ASHIPA I",
+    "local_government_id": "630",
+    "local_government_name": "ATIBA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.8661035,
+      "longitude": 3.9141726,
+      "viewport": {
+        "northeast": {
+          "lat": 7.867541979892722,
+          "lng": 3.915561079892723
+        },
+        "southwest": {
+          "lat": 7.864842320107278,
+          "lng": 3.912861420107279
+        }
+      },
+      "formatted_address": "College Rd, 211172, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8661035,3.9141726",
+      "google_place_id": "ChIJBS1Ynw9aNxARBQJ-MkY3xs0"
+    }
+  },
+  {
+    "id": "352791",
+    "name": "OPEN SPACE AMUKI JUNCTION",
+    "registration_area_id": "18063",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "30/03/08/016",
+    "remark": "NEW PU",
+    "ward_id": "18063",
+    "ward_name": "ASHIPA I",
+    "local_government_id": "630",
+    "local_government_name": "ATIBA",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.8495793,
+      "longitude": 3.9104336,
+      "viewport": {
+        "northeast": {
+          "lat": 7.850960629892721,
+          "lng": 3.911784329892722
+        },
+        "southwest": {
+          "lat": 7.848260970107277,
+          "lng": 3.909084670107278
+        }
+      },
+      "formatted_address": "Oyo-Iseyin Rd, Isokun 211172, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8495793,3.9104336",
+      "google_place_id": "ChIJY4U95mFZNxARHZ_IhsmRSrg"
+    }
+  }
+]

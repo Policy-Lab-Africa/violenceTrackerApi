@@ -1,0 +1,596 @@
+[
+  {
+    "id": "339324",
+    "name": "BABAAN TUNGA PRIMARY SCHOOL  I",
+    "registration_area_id": "17246",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/24/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17246",
+    "ward_name": "IKU",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 41.9564145,
+      "longitude": -80.5667998,
+      "viewport": {
+        "northeast": {
+          "lat": 41.95803227989272,
+          "lng": -80.56551697010727
+        },
+        "southwest": {
+          "lat": 41.95533262010728,
+          "lng": -80.56821662989272
+        }
+      },
+      "formatted_address": "755 Chestnut St, Conneaut, OH 44030, United States",
+      "google_map_url": "https://maps.google.com?q=41.9564145,-80.5667998",
+      "google_place_id": "ChIJ9zxjqBIRMogRwzwhNI8ii3k"
+    }
+  },
+  {
+    "id": "339325",
+    "name": "BABAN TUNGA PRIMARY SCHOOL  II",
+    "registration_area_id": "17246",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/24/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17246",
+    "ward_name": "IKU",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.644313799999999,
+      "longitude": 6.524368,
+      "viewport": {
+        "northeast": {
+          "lat": 9.645679829892721,
+          "lng": 6.525765079892722
+        },
+        "southwest": {
+          "lat": 9.642980170107277,
+          "lng": 6.523065420107278
+        }
+      },
+      "formatted_address": "London St, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.644313799999999,6.524368",
+      "google_place_id": "ChIJSeZIIZJwTBAR4CT9W2Ok-T0"
+    }
+  },
+  {
+    "id": "339326",
+    "name": "BUNTU IMPRESTI CAMP",
+    "registration_area_id": "17246",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/24/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17246",
+    "ward_name": "IKU",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.457295799999999,
+      "longitude": 6.637142600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.458643879892723,
+          "lng": 6.638458879892722
+        },
+        "southwest": {
+          "lat": 9.455944220107279,
+          "lng": 6.635759220107278
+        }
+      },
+      "formatted_address": "FJ4P+WV6, Niger, Paiko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.457295799999999,6.637142600000001",
+      "google_place_id": "ChIJzSuOKhQTTBARt_BQvoikpPY"
+    }
+  },
+  {
+    "id": "339327",
+    "name": "KOFA PRIMARY SCHOOL",
+    "registration_area_id": "17246",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/24/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17246",
+    "ward_name": "IKU",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.242998900000002,
+      "longitude": 7.2368183,
+      "viewport": {
+        "northeast": {
+          "lat": 9.244397929892722,
+          "lng": 7.238137079892722
+        },
+        "southwest": {
+          "lat": 9.241698270107278,
+          "lng": 7.235437420107278
+        }
+      },
+      "formatted_address": "6FX966VP+6P2 Kofa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.242998900000002,7.2368183",
+      "google_place_id": "ChIJVyTuFMTRTRARtsBfFV30sZU"
+    }
+  },
+  {
+    "id": "339328",
+    "name": "KARFE",
+    "registration_area_id": "17246",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/24/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17246",
+    "ward_name": "IKU",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.191375899999999,
+      "longitude": 7.207317799999998,
+      "viewport": {
+        "northeast": {
+          "lat": 9.198740899999999,
+          "lng": 7.209198400000001
+        },
+        "southwest": {
+          "lat": 9.1888277,
+          "lng": 7.203147399999999
+        }
+      },
+      "formatted_address": "Bakin Iku, 910103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.191375899999999,7.207317799999998",
+      "google_place_id": "ChIJGzeZ2sXWTRARuHWgBEaJTGg"
+    }
+  },
+  {
+    "id": "339329",
+    "name": "TUNGAN LABARAN",
+    "registration_area_id": "17246",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/24/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17246",
+    "ward_name": "IKU",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2866653,
+      "longitude": 6.5850483,
+      "viewport": {
+        "northeast": {
+          "lat": 9.288134929892722,
+          "lng": 6.587174849999998
+        },
+        "southwest": {
+          "lat": 9.285435270107278,
+          "lng": 6.58420105
+        }
+      },
+      "formatted_address": "Madinatu Tawassaliya Tungan Mallam House No1 Paiko Niger State Minna, Lapai-Paiko Rd, Takumpara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2866653,6.5850483",
+      "google_place_id": "ChIJOb42uNYbTBARqn5nbD1uhbw"
+    }
+  },
+  {
+    "id": "339330",
+    "name": "YAGURU S/NOMA ALBARKA",
+    "registration_area_id": "17246",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/24/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17246",
+    "ward_name": "IKU",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.1968389,
+      "longitude": 7.1771144,
+      "viewport": {
+        "northeast": {
+          "lat": 9.198179479892723,
+          "lng": 7.178466529892722
+        },
+        "southwest": {
+          "lat": 9.195479820107279,
+          "lng": 7.175766870107278
+        }
+      },
+      "formatted_address": "55WG+PV6, Suleja-Bakin Iku Rd, 910101, Kwamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1968389,7.1771144",
+      "google_place_id": "ChIJXblixQLUTRARNrYvWDz9rII"
+    }
+  },
+  {
+    "id": "339331",
+    "name": "TUNGAN SANAJE",
+    "registration_area_id": "17246",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/24/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17246",
+    "ward_name": "IKU",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2866653,
+      "longitude": 6.5850483,
+      "viewport": {
+        "northeast": {
+          "lat": 9.288134929892722,
+          "lng": 6.587174849999998
+        },
+        "southwest": {
+          "lat": 9.285435270107278,
+          "lng": 6.58420105
+        }
+      },
+      "formatted_address": "Madinatu Tawassaliya Tungan Mallam House No1 Paiko Niger State Minna, Lapai-Paiko Rd, Takumpara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2866653,6.5850483",
+      "google_place_id": "ChIJOb42uNYbTBARqn5nbD1uhbw"
+    }
+  },
+  {
+    "id": "339332",
+    "name": "TUNGAN TSAUNI",
+    "registration_area_id": "17246",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "26/24/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17246",
+    "ward_name": "IKU",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2866653,
+      "longitude": 6.5850483,
+      "viewport": {
+        "northeast": {
+          "lat": 9.288134929892722,
+          "lng": 6.587174849999998
+        },
+        "southwest": {
+          "lat": 9.285435270107278,
+          "lng": 6.58420105
+        }
+      },
+      "formatted_address": "Madinatu Tawassaliya Tungan Mallam House No1 Paiko Niger State Minna, Lapai-Paiko Rd, Takumpara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2866653,6.5850483",
+      "google_place_id": "ChIJOb42uNYbTBARqn5nbD1uhbw"
+    }
+  },
+  {
+    "id": "339333",
+    "name": "BABAN TUNGA PRY SCH. III",
+    "registration_area_id": "17246",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "26/24/05/010",
+    "remark": "NEW PU",
+    "ward_id": "17246",
+    "ward_name": "IKU",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.602632999999999,
+      "longitude": 6.568709,
+      "viewport": {
+        "northeast": {
+          "lat": 9.604183729892723,
+          "lng": 6.570015779892723
+        },
+        "southwest": {
+          "lat": 9.60148407010728,
+          "lng": 6.567316120107279
+        }
+      },
+      "formatted_address": "6FX8JH39+3F4 Tunga North Tudun Wada North chanchaga Niger, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.602632999999999,6.568709",
+      "google_place_id": "ChIJl4vs5npxTBAREHwcmwmT8aU"
+    }
+  },
+  {
+    "id": "339334",
+    "name": "BABAN TUNGA PRY SCH. IV",
+    "registration_area_id": "17246",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "26/24/05/011",
+    "remark": "NEW PU",
+    "ward_id": "17246",
+    "ward_name": "IKU",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.602632999999999,
+      "longitude": 6.568709,
+      "viewport": {
+        "northeast": {
+          "lat": 9.604183729892723,
+          "lng": 6.570015779892723
+        },
+        "southwest": {
+          "lat": 9.60148407010728,
+          "lng": 6.567316120107279
+        }
+      },
+      "formatted_address": "6FX8JH39+3F4 Tunga North Tudun Wada North chanchaga Niger, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.602632999999999,6.568709",
+      "google_place_id": "ChIJl4vs5npxTBAREHwcmwmT8aU"
+    }
+  },
+  {
+    "id": "339335",
+    "name": "BUNTU PRY SCHOOL",
+    "registration_area_id": "17246",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "26/24/05/012",
+    "remark": "NEW PU",
+    "ward_id": "17246",
+    "ward_name": "IKU",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.242998900000002,
+      "longitude": 7.2368183,
+      "viewport": {
+        "northeast": {
+          "lat": 9.244397929892722,
+          "lng": 7.238137079892722
+        },
+        "southwest": {
+          "lat": 9.241698270107278,
+          "lng": 7.235437420107278
+        }
+      },
+      "formatted_address": "6FX966VP+6P2 Kofa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.242998900000002,7.2368183",
+      "google_place_id": "ChIJVyTuFMTRTRARtsBfFV30sZU"
+    }
+  },
+  {
+    "id": "339336",
+    "name": "L.E.A PRY SCH. KOFA",
+    "registration_area_id": "17246",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "26/24/05/013",
+    "remark": "NEW PU",
+    "ward_id": "17246",
+    "ward_name": "IKU",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.943585800000001,
+      "longitude": 7.0978355,
+      "viewport": {
+        "northeast": {
+          "lat": 8.945169529892722,
+          "lng": 7.099240779892721
+        },
+        "southwest": {
+          "lat": 8.942469870107278,
+          "lng": 7.096541120107277
+        }
+      },
+      "formatted_address": "W3VX+C4P, 902101, Gwagwalada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.943585800000001,7.0978355",
+      "google_place_id": "ChIJ_y1NE6tiThARGDHcS65Hssw"
+    }
+  },
+  {
+    "id": "339337",
+    "name": "KARFE PRY. SCHOOL",
+    "registration_area_id": "17246",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "26/24/05/014",
+    "remark": "NEW PU",
+    "ward_id": "17246",
+    "ward_name": "IKU",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.242998900000002,
+      "longitude": 7.2368183,
+      "viewport": {
+        "northeast": {
+          "lat": 9.244397929892722,
+          "lng": 7.238137079892722
+        },
+        "southwest": {
+          "lat": 9.241698270107278,
+          "lng": 7.235437420107278
+        }
+      },
+      "formatted_address": "6FX966VP+6P2 Kofa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.242998900000002,7.2368183",
+      "google_place_id": "ChIJVyTuFMTRTRARtsBfFV30sZU"
+    }
+  },
+  {
+    "id": "339338",
+    "name": "TUGAN MAKAMA PRY SCH",
+    "registration_area_id": "17246",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "26/24/05/015",
+    "remark": "NEW PU",
+    "ward_id": "17246",
+    "ward_name": "IKU",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.242998900000002,
+      "longitude": 7.2368183,
+      "viewport": {
+        "northeast": {
+          "lat": 9.244397929892722,
+          "lng": 7.238137079892722
+        },
+        "southwest": {
+          "lat": 9.241698270107278,
+          "lng": 7.235437420107278
+        }
+      },
+      "formatted_address": "6FX966VP+6P2 Kofa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.242998900000002,7.2368183",
+      "google_place_id": "ChIJVyTuFMTRTRARtsBfFV30sZU"
+    }
+  },
+  {
+    "id": "339339",
+    "name": "YAGURU SARKIN NOMA II",
+    "registration_area_id": "17246",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "26/24/05/016",
+    "remark": "NEW PU",
+    "ward_id": "17246",
+    "ward_name": "IKU",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2611513,
+      "longitude": 7.2179951,
+      "viewport": {
+        "northeast": {
+          "lat": 9.26251037989272,
+          "lng": 7.21938717989272
+        },
+        "southwest": {
+          "lat": 9.259810720107277,
+          "lng": 7.216687520107277
+        }
+      },
+      "formatted_address": "7669+F59, Suleja 910102, Kwamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2611513,7.2179951",
+      "google_place_id": "ChIJ-8d9QbTRTRAR9q9eqct9Q8Q"
+    }
+  },
+  {
+    "id": "339340",
+    "name": "TUNGA SANAJE II",
+    "registration_area_id": "17246",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "26/24/05/017",
+    "remark": "NEW PU",
+    "ward_id": "17246",
+    "ward_name": "IKU",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.614272099999999,
+      "longitude": 6.5575373,
+      "viewport": {
+        "northeast": {
+          "lat": 9.615618729892722,
+          "lng": 6.558906129892722
+        },
+        "southwest": {
+          "lat": 9.612919070107278,
+          "lng": 6.556206470107278
+        }
+      },
+      "formatted_address": "JH75+P23, behind CKC Church, behind Mr Biggs, Tunga 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.614272099999999,6.5575373",
+      "google_place_id": "ChIJHQmlhcpxTBAROSm6HjrMZrg"
+    }
+  },
+  {
+    "id": "339341",
+    "name": "TUNGA SANAJE III",
+    "registration_area_id": "17246",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "26/24/05/018",
+    "remark": "NEW PU",
+    "ward_id": "17246",
+    "ward_name": "IKU",
+    "local_government_id": "560",
+    "local_government_name": "TAFA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.614272099999999,
+      "longitude": 6.5575373,
+      "viewport": {
+        "northeast": {
+          "lat": 9.615618729892722,
+          "lng": 6.558906129892722
+        },
+        "southwest": {
+          "lat": 9.612919070107278,
+          "lng": 6.556206470107278
+        }
+      },
+      "formatted_address": "JH75+P23, behind CKC Church, behind Mr Biggs, Tunga 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.614272099999999,6.5575373",
+      "google_place_id": "ChIJHQmlhcpxTBAROSm6HjrMZrg"
+    }
+  }
+]

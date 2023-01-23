@@ -1,0 +1,448 @@
+[
+  {
+    "id": "6673",
+    "name": "MBAMBA PRI. SCH./ MBAMBA",
+    "registration_area_id": "336",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "02/14/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "336",
+    "ward_name": "VIMTIM",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.3351076,
+      "longitude": 13.3630473,
+      "viewport": {
+        "northeast": {
+          "lat": 10.33645742989272,
+          "lng": 13.36439712989272
+        },
+        "southwest": {
+          "lat": 10.33375777010728,
+          "lng": 13.36169747010728
+        }
+      },
+      "formatted_address": "89P7+26V, Road, Madanya 650112, Bazza, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3351076,13.3630473",
+      "google_place_id": "ChIJr9f2MgRX_RAR0V4BqIJ5oJI"
+    }
+  },
+  {
+    "id": "6674",
+    "name": "BAKIN KASUWA/ LEPRO",
+    "registration_area_id": "336",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "02/14/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "336",
+    "ward_name": "VIMTIM",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
+  },
+  {
+    "id": "6675",
+    "name": "BULE HOUSE/ LIRA",
+    "registration_area_id": "336",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "02/14/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "336",
+    "ward_name": "VIMTIM",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.3071185,
+      "longitude": 13.324078,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30846832989272,
+          "lng": 13.32542782989272
+        },
+        "southwest": {
+          "lat": 10.30576867010728,
+          "lng": 13.32272817010728
+        }
+      },
+      "formatted_address": "Baptist High School Mubi, Lira, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3071185,13.324078",
+      "google_place_id": "ChIJcV_zRSBZ_RARx0Cyeo05cHQ"
+    }
+  },
+  {
+    "id": "6676",
+    "name": "DUDA PRI. SCH./ DUDA",
+    "registration_area_id": "336",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "02/14/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "336",
+    "ward_name": "VIMTIM",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2854217,
+      "longitude": 13.2377497,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28685007989272,
+          "lng": 13.23913057989272
+        },
+        "southwest": {
+          "lat": 10.28415042010728,
+          "lng": 13.23643092010728
+        }
+      },
+      "formatted_address": "Dazala, 650272, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2854217,13.2377497",
+      "google_place_id": "ChIJV88V-T5f_RARCMb-mO8_hUE"
+    }
+  },
+  {
+    "id": "6677",
+    "name": "MUZUWA/KOFAR JAURO MUZUWA",
+    "registration_area_id": "336",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "02/14/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "336",
+    "ward_name": "VIMTIM",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2174609,
+      "longitude": 13.3702811,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2598971,
+          "lng": 13.4409114
+        },
+        "southwest": {
+          "lat": 10.1213401,
+          "lng": 13.3000334
+        }
+      },
+      "formatted_address": "Mujara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2174609,13.3702811",
+      "google_place_id": "ChIJUx4dA25Q_RARBeraKfbhzQs"
+    }
+  },
+  {
+    "id": "6678",
+    "name": "KOMA PRY  SCH./ BAVIGE",
+    "registration_area_id": "336",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "02/14/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "336",
+    "ward_name": "VIMTIM",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2982519,
+      "longitude": 13.3148215,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29962747989272,
+          "lng": 13.31608592989272
+        },
+        "southwest": {
+          "lat": 10.29692782010728,
+          "lng": 13.31338627010728
+        }
+      },
+      "formatted_address": "78X7+8W4, 650112, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2982519,13.3148215",
+      "google_place_id": "ChIJ0Zg6GlVY_RAR1fw1_uGFCsA"
+    }
+  },
+  {
+    "id": "6679",
+    "name": "KOFAR BUWANGAL/ BUWANGAL",
+    "registration_area_id": "336",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "02/14/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "336",
+    "ward_name": "VIMTIM",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
+  },
+  {
+    "id": "6680",
+    "name": "KOFAR JAURO/ BAMILLA",
+    "registration_area_id": "336",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "02/14/10/008",
+    "remark": "EXISTING PU",
+    "ward_id": "336",
+    "ward_name": "VIMTIM",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
+  },
+  {
+    "id": "6681",
+    "name": "VIMTIM PRI. SCH./ MARARABA",
+    "registration_area_id": "336",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "02/14/10/009",
+    "remark": "EXISTING PU",
+    "ward_id": "336",
+    "ward_name": "VIMTIM",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.3071185,
+      "longitude": 13.324078,
+      "viewport": {
+        "northeast": {
+          "lat": 10.3691084,
+          "lng": 13.373995
+        },
+        "southwest": {
+          "lat": 10.2576283,
+          "lng": 13.2830336
+        }
+      },
+      "formatted_address": "Vimtim, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3071185,13.324078",
+      "google_place_id": "ChIJOcKU7ENY_RARDZPg2XQEN6Y"
+    }
+  },
+  {
+    "id": "6682",
+    "name": "HEALTH CENTER ROMA",
+    "registration_area_id": "336",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "02/14/10/010",
+    "remark": "NEW PU",
+    "ward_id": "336",
+    "ward_name": "VIMTIM",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2823697,
+      "longitude": 13.2809392,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28368407989272,
+          "lng": 13.28229572989272
+        },
+        "southwest": {
+          "lat": 10.28098442010728,
+          "lng": 13.27959607010728
+        }
+      },
+      "formatted_address": "77JJ+W9W, Adamawa state university, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2823697,13.2809392",
+      "google_place_id": "ChIJEWx4RJRZ_RARBti71XN1frc"
+    }
+  },
+  {
+    "id": "6683",
+    "name": "LIRA KUJAFA",
+    "registration_area_id": "336",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "02/14/10/011",
+    "remark": "NEW PU",
+    "ward_id": "336",
+    "ward_name": "VIMTIM",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.3071185,
+      "longitude": 13.324078,
+      "viewport": {
+        "northeast": {
+          "lat": 10.3691084,
+          "lng": 13.373995
+        },
+        "southwest": {
+          "lat": 10.2576283,
+          "lng": 13.2830336
+        }
+      },
+      "formatted_address": "Vimtim, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3071185,13.324078",
+      "google_place_id": "ChIJOcKU7ENY_RARDZPg2XQEN6Y"
+    }
+  },
+  {
+    "id": "6684",
+    "name": "KOFAR SARKIN GARGAJIYA SUKUMAYA B",
+    "registration_area_id": "336",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "02/14/10/012",
+    "remark": "NEW PU",
+    "ward_id": "336",
+    "ward_name": "VIMTIM",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
+  },
+  {
+    "id": "6685",
+    "name": "BAMULLA II NEAR BORE HOLE",
+    "registration_area_id": "336",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "02/14/10/013",
+    "remark": "NEW PU",
+    "ward_id": "336",
+    "ward_name": "VIMTIM",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
+  },
+  {
+    "id": "6686",
+    "name": "KAMBRA NEAR BORE HOLE",
+    "registration_area_id": "336",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "02/14/10/014",
+    "remark": "NEW PU",
+    "ward_id": "336",
+    "ward_name": "VIMTIM",
+    "local_government_id": "31",
+    "local_government_name": "MUBI NORTH",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  }
+]

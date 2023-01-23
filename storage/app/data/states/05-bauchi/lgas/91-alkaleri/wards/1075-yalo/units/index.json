@@ -1,0 +1,501 @@
+[
+  {
+    "id": "18443",
+    "name": "MAKASA - MAKASA PRIMARY SCHOOL",
+    "registration_area_id": "1075",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "05/01/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1075",
+    "ward_name": "YALO",
+    "local_government_id": "91",
+    "local_government_name": "ALKALERI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "18444",
+    "name": "GURUZA - KOFAN SARKI GURUZA",
+    "registration_area_id": "1075",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "05/01/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1075",
+    "ward_name": "YALO",
+    "local_government_id": "91",
+    "local_government_name": "ALKALERI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "18445",
+    "name": "GARIN SAMBO KOFAR JAURO",
+    "registration_area_id": "1075",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "05/01/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1075",
+    "ward_name": "YALO",
+    "local_government_id": "91",
+    "local_government_name": "ALKALERI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "18446",
+    "name": "GARIN MALAM - KOFAR SARKI YAKI",
+    "registration_area_id": "1075",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "05/01/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1075",
+    "ward_name": "YALO",
+    "local_government_id": "91",
+    "local_government_name": "ALKALERI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "18447",
+    "name": "DIGARE - DIGARE PRIMARY SCHOOL",
+    "registration_area_id": "1075",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "05/01/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1075",
+    "ward_name": "YALO",
+    "local_government_id": "91",
+    "local_government_name": "ALKALERI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.6972817,
+      "longitude": 10.267368,
+      "viewport": {
+        "northeast": {
+          "lat": 9.698618779892724,
+          "lng": 10.26875172989272
+        },
+        "southwest": {
+          "lat": 9.69591912010728,
+          "lng": 10.26605207010728
+        }
+      },
+      "formatted_address": "M7W8+WW9, Gajin 743103, Duguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6972817,10.267368",
+      "google_place_id": "ChIJB0MRJvKfVRARFeJXGWjtNJ4"
+    }
+  },
+  {
+    "id": "18448",
+    "name": "UNGUWAR GALADIMA - DISPENSARY",
+    "registration_area_id": "1075",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "05/01/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1075",
+    "ward_name": "YALO",
+    "local_government_id": "91",
+    "local_government_name": "ALKALERI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.929958400000002,
+      "longitude": 9.5012092,
+      "viewport": {
+        "northeast": {
+          "lat": 9.931356579892723,
+          "lng": 9.502463129892723
+        },
+        "southwest": {
+          "lat": 9.92865692010728,
+          "lng": 9.499763470107279
+        }
+      },
+      "formatted_address": "WGH2+XGM, 741109, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.929958400000002,9.5012092",
+      "google_place_id": "ChIJ804CGHaNVBARzfm4Bcuw5FU"
+    }
+  },
+  {
+    "id": "18449",
+    "name": "TUDUN WADA - KOFAR JAURO",
+    "registration_area_id": "1075",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "05/01/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1075",
+    "ward_name": "YALO",
+    "local_government_id": "91",
+    "local_government_name": "ALKALERI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3061037,
+      "longitude": 9.8313173,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30746237989272,
+          "lng": 9.83266667989272
+        },
+        "southwest": {
+          "lat": 10.30476272010728,
+          "lng": 9.829967020107276
+        }
+      },
+      "formatted_address": "4 Nassarawa Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3061037,9.8313173",
+      "google_place_id": "ChIJi9vJw7PXVBARrqwBCCUg82I"
+    }
+  },
+  {
+    "id": "18450",
+    "name": "UNGUWAR USMAN - DIGARE PRIMARY SCHOOL",
+    "registration_area_id": "1075",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "05/01/10/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1075",
+    "ward_name": "YALO",
+    "local_government_id": "91",
+    "local_government_name": "ALKALERI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.6865264,
+      "longitude": 9.7616634,
+      "viewport": {
+        "northeast": {
+          "lat": 10.68787742989272,
+          "lng": 9.763016079892722
+        },
+        "southwest": {
+          "lat": 10.68517777010728,
+          "lng": 9.760316420107278
+        }
+      },
+      "formatted_address": "MQP6+JJ9, 740111, Kafin Madaki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6865264,9.7616634",
+      "google_place_id": "ChIJ9R6K-QMlqxERHvwosyJOTqo"
+    }
+  },
+  {
+    "id": "18451",
+    "name": "LIGADI - KOFAR SARKI LIGADI",
+    "registration_area_id": "1075",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "05/01/10/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1075",
+    "ward_name": "YALO",
+    "local_government_id": "91",
+    "local_government_name": "ALKALERI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.7005517,
+      "longitude": 10.7924561,
+      "viewport": {
+        "northeast": {
+          "lat": 9.701730979892723,
+          "lng": 10.79420352989272
+        },
+        "southwest": {
+          "lat": 9.699031320107279,
+          "lng": 10.79150387010728
+        }
+      },
+      "formatted_address": "PQ2R+6XG, 743102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.7005517,10.7924561",
+      "google_place_id": "ChIJq2KETyR4_xAR6f8PI-lVdYQ"
+    }
+  },
+  {
+    "id": "18452",
+    "name": "KWAIRANGA - KWAIRANGA PRIMARY SCHOOL I",
+    "registration_area_id": "1075",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "05/01/10/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1075",
+    "ward_name": "YALO",
+    "local_government_id": "91",
+    "local_government_name": "ALKALERI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 7.862722600000001,
+      "longitude": 9.7913442,
+      "viewport": {
+        "northeast": {
+          "lat": 7.864072429892724,
+          "lng": 9.792694029892724
+        },
+        "southwest": {
+          "lat": 7.86137277010728,
+          "lng": 9.78999437010728
+        }
+      },
+      "formatted_address": "Wukari-Numan Road, 670101, Wukari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.862722600000001,9.7913442",
+      "google_place_id": "ChIJiR_R0MpxVxARaiivWTosdwY"
+    }
+  },
+  {
+    "id": "18453",
+    "name": "KWAIRANGA - KWAIRANGA PRIMARY SCHOOL II",
+    "registration_area_id": "1075",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "05/01/10/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1075",
+    "ward_name": "YALO",
+    "local_government_id": "91",
+    "local_government_name": "ALKALERI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3023074,
+      "longitude": 9.854910199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30363307989272,
+          "lng": 9.856524479892723
+        },
+        "southwest": {
+          "lat": 10.30093342010728,
+          "lng": 9.85382482010728
+        }
+      },
+      "formatted_address": "8V23+WXC, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3023074,9.854910199999999",
+      "google_place_id": "ChIJaZG2zbvXVBAR2brkVJU4AUg"
+    }
+  },
+  {
+    "id": "18454",
+    "name": "ALKALI SULE - ALKALI SULE PRIMARY SCHOOL",
+    "registration_area_id": "1075",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "05/01/10/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1075",
+    "ward_name": "YALO",
+    "local_government_id": "91",
+    "local_government_name": "ALKALERI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2713037,
+      "longitude": 10.3301431,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27264717989272,
+          "lng": 10.33148382989272
+        },
+        "southwest": {
+          "lat": 10.26994752010728,
+          "lng": 10.32878417010728
+        }
+      },
+      "formatted_address": "78CJ+G3C, Sarki Street Along GGAC, Alkaleri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2713037,10.3301431",
+      "google_place_id": "ChIJR07ESe5HVRAR7-DzTPWe_zU"
+    }
+  },
+  {
+    "id": "18455",
+    "name": "UNGUWAR YAYA NUHU - KOFAR JAURO",
+    "registration_area_id": "1075",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "05/01/10/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1075",
+    "ward_name": "YALO",
+    "local_government_id": "91",
+    "local_government_name": "ALKALERI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2713037,
+      "longitude": 10.3301431,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27264717989272,
+          "lng": 10.33148382989272
+        },
+        "southwest": {
+          "lat": 10.26994752010728,
+          "lng": 10.32878417010728
+        }
+      },
+      "formatted_address": "78CJ+G3C, 743103, Alkaleri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2713037,10.3301431",
+      "google_place_id": "ChIJVVVVVR5GVRARa12cCK3_XtY"
+    }
+  },
+  {
+    "id": "18456",
+    "name": "UNGUWAR YARIMA - YALO PRIMARY SCHOOL",
+    "registration_area_id": "1075",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "05/01/10/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1075",
+    "ward_name": "YALO",
+    "local_government_id": "91",
+    "local_government_name": "ALKALERI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "18457",
+    "name": "UNGUWAR GALADIMA - YALO PRIMARY SCHOOL",
+    "registration_area_id": "1075",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "05/01/10/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1075",
+    "ward_name": "YALO",
+    "local_government_id": "91",
+    "local_government_name": "ALKALERI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 7.862722600000001,
+      "longitude": 9.7913442,
+      "viewport": {
+        "northeast": {
+          "lat": 7.864072429892724,
+          "lng": 9.792694029892724
+        },
+        "southwest": {
+          "lat": 7.86137277010728,
+          "lng": 9.78999437010728
+        }
+      },
+      "formatted_address": "Wukari-Numan Road, 670101, Wukari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.862722600000001,9.7913442",
+      "google_place_id": "ChIJiR_R0MpxVxARaiivWTosdwY"
+    }
+  },
+  {
+    "id": "18458",
+    "name": "JOBAJO KOFAR SARKI JOBAJO",
+    "registration_area_id": "1075",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "05/01/10/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1075",
+    "ward_name": "YALO",
+    "local_government_id": "91",
+    "local_government_name": "ALKALERI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "18459",
+    "name": "WUNDO - KOFAR CHINDO",
+    "registration_area_id": "1075",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "05/01/10/017",
+    "remark": "EXISTING PU",
+    "ward_id": "1075",
+    "ward_name": "YALO",
+    "local_government_id": "91",
+    "local_government_name": "ALKALERI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "18460",
+    "name": "DIGARE UPPER BASIC SCHOOL II",
+    "registration_area_id": "1075",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "05/01/10/018",
+    "remark": "NEW PU",
+    "ward_id": "1075",
+    "ward_name": "YALO",
+    "local_government_id": "91",
+    "local_government_name": "ALKALERI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.6972817,
+      "longitude": 10.267368,
+      "viewport": {
+        "northeast": {
+          "lat": 9.698618779892724,
+          "lng": 10.26875172989272
+        },
+        "southwest": {
+          "lat": 9.69591912010728,
+          "lng": 10.26605207010728
+        }
+      },
+      "formatted_address": "M7W8+WW9, Gajin 743103, Duguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6972817,10.267368",
+      "google_place_id": "ChIJB0MRJvKfVRARFeJXGWjtNJ4"
+    }
+  },
+  {
+    "id": "18461",
+    "name": "YALO PRIMARY SCHOOL II",
+    "registration_area_id": "1075",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "05/01/10/019",
+    "remark": "NEW PU",
+    "ward_id": "1075",
+    "ward_name": "YALO",
+    "local_government_id": "91",
+    "local_government_name": "ALKALERI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  }
+]

@@ -1,0 +1,285 @@
+[
+  {
+    "id": "104843",
+    "name": "DAN FILI DANBE ALSURU (ALSURU G/HAKIMI)",
+    "registration_area_id": "5381",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "21/18/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5381",
+    "ward_name": "GIRO",
+    "local_government_id": "465",
+    "local_government_name": "SURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104844",
+    "name": "FALA MAKARANTA",
+    "registration_area_id": "5381",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "21/18/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5381",
+    "ward_name": "GIRO",
+    "local_government_id": "465",
+    "local_government_name": "SURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104845",
+    "name": "OLD CLINIC GIRO (G/SARKI)",
+    "registration_area_id": "5381",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "21/18/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5381",
+    "ward_name": "GIRO",
+    "local_government_id": "465",
+    "local_government_name": "SURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.433839,
+      "longitude": 4.188951,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43571687989272,
+          "lng": 4.190160429892721
+        },
+        "southwest": {
+          "lat": 12.43301722010728,
+          "lng": 4.187460770107277
+        }
+      },
+      "formatted_address": "860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.433839,4.188951",
+      "google_place_id": "ChIJBd52NxwTyRERt6livGgCyRc"
+    }
+  },
+  {
+    "id": "104846",
+    "name": "GIRO G/YAMMA",
+    "registration_area_id": "5381",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "21/18/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5381",
+    "ward_name": "GIRO",
+    "local_government_id": "465",
+    "local_government_name": "SURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.6715401,
+      "longitude": 4.062579400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67261787989272,
+          "lng": 4.0636871
+        },
+        "southwest": {
+          "lat": 11.66991822010728,
+          "lng": 4.059256299999999
+        }
+      },
+      "formatted_address": "M3C7+J28, 862106, Suru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6715401,4.062579400000001",
+      "google_place_id": "ChIJde6FPR2VyxERCrdW2xd6NFM"
+    }
+  },
+  {
+    "id": "104847",
+    "name": "GOBIRAJE G/HAKIMI",
+    "registration_area_id": "5381",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "21/18/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5381",
+    "ward_name": "GIRO",
+    "local_government_id": "465",
+    "local_government_name": "SURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.6715401,
+      "longitude": 4.062579400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67261787989272,
+          "lng": 4.0636871
+        },
+        "southwest": {
+          "lat": 11.66991822010728,
+          "lng": 4.059256299999999
+        }
+      },
+      "formatted_address": "M3C7+J28, 862106, Suru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6715401,4.062579400000001",
+      "google_place_id": "ChIJde6FPR2VyxERCrdW2xd6NFM"
+    }
+  },
+  {
+    "id": "104848",
+    "name": "DANFILI LABA KASUWA (G/HAKIMI LABA)",
+    "registration_area_id": "5381",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "21/18/09/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5381",
+    "ward_name": "GIRO",
+    "local_government_id": "465",
+    "local_government_name": "SURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.3330063,
+      "longitude": 4.1552852,
+      "viewport": {
+        "northeast": {
+          "lat": 12.33436087989272,
+          "lng": 4.156618529892723
+        },
+        "southwest": {
+          "lat": 12.33166122010728,
+          "lng": 4.153918870107279
+        }
+      },
+      "formatted_address": "85M4+643, Birnin Kebbi Kalgo Rd, 862104, Kalgo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3330063,4.1552852",
+      "google_place_id": "ChIJ3ygmyrBtyRERDwbkPrYA-VI"
+    }
+  },
+  {
+    "id": "104849",
+    "name": "GWARE G/HAKIMI",
+    "registration_area_id": "5381",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "21/18/09/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5381",
+    "ward_name": "GIRO",
+    "local_government_id": "465",
+    "local_government_name": "SURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.6723875,
+      "longitude": 4.0631373,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67339867989272,
+          "lng": 4.064615050000001
+        },
+        "southwest": {
+          "lat": 11.67069902010728,
+          "lng": 4.058704049999998
+        }
+      },
+      "formatted_address": "M3C7+X72, 862106, Suru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6723875,4.0631373",
+      "google_place_id": "ChIJC6CH7tSVyxERV9oGeCaUu2Q"
+    }
+  },
+  {
+    "id": "104850",
+    "name": "TUNGAR NAGWAMBA T. NAGWAMBA FILI",
+    "registration_area_id": "5381",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "21/18/09/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5381",
+    "ward_name": "GIRO",
+    "local_government_id": "465",
+    "local_government_name": "SURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104851",
+    "name": "CLINIC .S. RUWA (G/HAKIMI)",
+    "registration_area_id": "5381",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "21/18/09/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5381",
+    "ward_name": "GIRO",
+    "local_government_id": "465",
+    "local_government_name": "SURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.433839,
+      "longitude": 4.188951,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43571687989272,
+          "lng": 4.190160429892721
+        },
+        "southwest": {
+          "lat": 12.43301722010728,
+          "lng": 4.187460770107277
+        }
+      },
+      "formatted_address": "860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.433839,4.188951",
+      "google_place_id": "ChIJBd52NxwTyRERt6livGgCyRc"
+    }
+  },
+  {
+    "id": "104852",
+    "name": "GIRO MAKARANTA",
+    "registration_area_id": "5381",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "21/18/09/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5381",
+    "ward_name": "GIRO",
+    "local_government_id": "465",
+    "local_government_name": "SURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104853",
+    "name": "GIRO VETERINARY",
+    "registration_area_id": "5381",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "21/18/09/011",
+    "remark": "NEW PU",
+    "ward_id": "5381",
+    "ward_name": "GIRO",
+    "local_government_id": "465",
+    "local_government_name": "SURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  }
+]

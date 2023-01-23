@@ -1,0 +1,596 @@
+[
+  {
+    "id": "332609",
+    "name": "GDSS YELWA",
+    "registration_area_id": "16895",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "25/06/02/001",
+    "remark": "EXISTING PU",
+    "ward_id": "16895",
+    "ward_name": "ANGWAN IYA II",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8454152,
+      "longitude": 7.8781946,
+      "viewport": {
+        "northeast": {
+          "lat": 8.84663222989272,
+          "lng": 7.87959247989272
+        },
+        "southwest": {
+          "lat": 8.843932570107276,
+          "lng": 7.876892820107276
+        }
+      },
+      "formatted_address": "RVWH+47W, 961101, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8454152,7.8781946",
+      "google_place_id": "ChIJdUdG2wPkURARH_evAdf7IxA"
+    }
+  },
+  {
+    "id": "332610",
+    "name": "GRADE II AREA COURT",
+    "registration_area_id": "16895",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "25/06/02/002",
+    "remark": "EXISTING PU",
+    "ward_id": "16895",
+    "ward_name": "ANGWAN IYA II",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8366384,
+      "longitude": 7.855835700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.851370300000001,
+          "lng": 7.8765408
+        },
+        "southwest": {
+          "lat": 8.8250333,
+          "lng": 7.8418924
+        }
+      },
+      "formatted_address": "Angwan Iya II, 961101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8366384,7.855835700000001",
+      "google_place_id": "ChIJvSxKo1nhURARzVNC1RY6qGw"
+    }
+  },
+  {
+    "id": "332611",
+    "name": "DISTRICT HEAD OFFICE",
+    "registration_area_id": "16895",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "25/06/02/003",
+    "remark": "EXISTING PU",
+    "ward_id": "16895",
+    "ward_name": "ANGWAN IYA II",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8582912,
+      "longitude": 7.866718199999998,
+      "viewport": {
+        "northeast": {
+          "lat": 8.8732549,
+          "lng": 7.8770864
+        },
+        "southwest": {
+          "lat": 8.8476611,
+          "lng": 7.8454985
+        }
+      },
+      "formatted_address": "Angwan Iya I, 961101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8582912,7.866718199999998",
+      "google_place_id": "ChIJD94BePLjURARAn0t2UIoTy4"
+    }
+  },
+  {
+    "id": "332612",
+    "name": "GANGAREN TUDU (RACC)",
+    "registration_area_id": "16895",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "25/06/02/004",
+    "remark": "EXISTING PU",
+    "ward_id": "16895",
+    "ward_name": "ANGWAN IYA II",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8399112,
+      "longitude": 7.8739549,
+      "viewport": {
+        "northeast": {
+          "lat": 8.841188629892722,
+          "lng": 7.875179829892722
+        },
+        "southwest": {
+          "lat": 8.838488970107278,
+          "lng": 7.872480170107278
+        }
+      },
+      "formatted_address": "Sarki Ahamadu Road, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8399112,7.8739549",
+      "google_place_id": "ChIJR8swUyjnURARldRvNsq86bc"
+    }
+  },
+  {
+    "id": "332613",
+    "name": "YELWAN BELLO - OP",
+    "registration_area_id": "16895",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "25/06/02/005",
+    "remark": "EXISTING PU",
+    "ward_id": "16895",
+    "ward_name": "ANGWAN IYA II",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8582912,
+      "longitude": 7.866718199999998,
+      "viewport": {
+        "northeast": {
+          "lat": 8.8732549,
+          "lng": 7.8770864
+        },
+        "southwest": {
+          "lat": 8.8476611,
+          "lng": 7.8454985
+        }
+      },
+      "formatted_address": "Angwan Iya I, 961101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8582912,7.866718199999998",
+      "google_place_id": "ChIJD94BePLjURARAn0t2UIoTy4"
+    }
+  },
+  {
+    "id": "332614",
+    "name": "YELWAN TOFA - OP",
+    "registration_area_id": "16895",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "25/06/02/006",
+    "remark": "EXISTING PU",
+    "ward_id": "16895",
+    "ward_name": "ANGWAN IYA II",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8454152,
+      "longitude": 7.8781946,
+      "viewport": {
+        "northeast": {
+          "lat": 8.84663222989272,
+          "lng": 7.87959247989272
+        },
+        "southwest": {
+          "lat": 8.843932570107276,
+          "lng": 7.876892820107276
+        }
+      },
+      "formatted_address": "RVWH+47W, 961101, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8454152,7.8781946",
+      "google_place_id": "ChIJdUdG2wPkURARH_evAdf7IxA"
+    }
+  },
+  {
+    "id": "332615",
+    "name": "KOFAR SAMINU MAI ANGWAN (AREA COMMANDER)",
+    "registration_area_id": "16895",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "25/06/02/007",
+    "remark": "NEW PU",
+    "ward_id": "16895",
+    "ward_name": "ANGWAN IYA II",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8366384,
+      "longitude": 7.855835700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.851370300000001,
+          "lng": 7.8765408
+        },
+        "southwest": {
+          "lat": 8.8250333,
+          "lng": 7.8418924
+        }
+      },
+      "formatted_address": "Angwan Iya II, 961101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8366384,7.855835700000001",
+      "google_place_id": "ChIJvSxKo1nhURARzVNC1RY6qGw"
+    }
+  },
+  {
+    "id": "332616",
+    "name": "GANGAREN KAROFI",
+    "registration_area_id": "16895",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "25/06/02/008",
+    "remark": "NEW PU",
+    "ward_id": "16895",
+    "ward_name": "ANGWAN IYA II",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8366384,
+      "longitude": 7.855835700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.851370300000001,
+          "lng": 7.8765408
+        },
+        "southwest": {
+          "lat": 8.8250333,
+          "lng": 7.8418924
+        }
+      },
+      "formatted_address": "Angwan Iya II, 961101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8366384,7.855835700000001",
+      "google_place_id": "ChIJvSxKo1nhURARzVNC1RY6qGw"
+    }
+  },
+  {
+    "id": "332617",
+    "name": "KOFAR MAL. YUSUF MAI FANFO",
+    "registration_area_id": "16895",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "25/06/02/009",
+    "remark": "NEW PU",
+    "ward_id": "16895",
+    "ward_name": "ANGWAN IYA II",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8471213,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 8.848300629892721,
+          "lng": 7.879032079892722
+        },
+        "southwest": {
+          "lat": 8.845600970107277,
+          "lng": 7.876332420107278
+        }
+      },
+      "formatted_address": "NASARAWA STATE UNIVERSITY, 911019, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8471213,7.8776023",
+      "google_place_id": "ChIJeyBwSijkURARPVbSxse_J90"
+    }
+  },
+  {
+    "id": "332618",
+    "name": "KONGO",
+    "registration_area_id": "16895",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "25/06/02/010",
+    "remark": "NEW PU",
+    "ward_id": "16895",
+    "ward_name": "ANGWAN IYA II",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8400646,
+      "longitude": 7.8654216,
+      "viewport": {
+        "northeast": {
+          "lat": 8.841381429892722,
+          "lng": 7.866762579892723
+        },
+        "southwest": {
+          "lat": 8.838681770107279,
+          "lng": 7.864062920107279
+        }
+      },
+      "formatted_address": "RVR8+25F, 961101, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8400646,7.8654216",
+      "google_place_id": "ChIJk46LnFnhURARGBqcjKbFM8E"
+    }
+  },
+  {
+    "id": "332619",
+    "name": "KOFAR YUSUF IGALA (MADAKIN MUDU)",
+    "registration_area_id": "16895",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "25/06/02/011",
+    "remark": "NEW PU",
+    "ward_id": "16895",
+    "ward_name": "ANGWAN IYA II",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8471213,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 8.848300629892721,
+          "lng": 7.879032079892722
+        },
+        "southwest": {
+          "lat": 8.845600970107277,
+          "lng": 7.876332420107278
+        }
+      },
+      "formatted_address": "NASARAWA STATE UNIVERSITY, 911019, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8471213,7.8776023",
+      "google_place_id": "ChIJeyBwSijkURARPVbSxse_J90"
+    }
+  },
+  {
+    "id": "332620",
+    "name": "HALILU RAHMAN PRI. SCH.",
+    "registration_area_id": "16895",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "25/06/02/012",
+    "remark": "NEW PU",
+    "ward_id": "16895",
+    "ward_name": "ANGWAN IYA II",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8471213,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 8.848300629892721,
+          "lng": 7.879032079892722
+        },
+        "southwest": {
+          "lat": 8.845600970107277,
+          "lng": 7.876332420107278
+        }
+      },
+      "formatted_address": "NASARAWA STATE UNIVERSITY, 911019, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8471213,7.8776023",
+      "google_place_id": "ChIJeyBwSijkURARPVbSxse_J90"
+    }
+  },
+  {
+    "id": "332621",
+    "name": "YELWAN LAMMA",
+    "registration_area_id": "16895",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "25/06/02/013",
+    "remark": "NEW PU",
+    "ward_id": "16895",
+    "ward_name": "ANGWAN IYA II",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8366384,
+      "longitude": 7.855835700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.851370300000001,
+          "lng": 7.8765408
+        },
+        "southwest": {
+          "lat": 8.8250333,
+          "lng": 7.8418924
+        }
+      },
+      "formatted_address": "Angwan Iya II, 961101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8366384,7.855835700000001",
+      "google_place_id": "ChIJvSxKo1nhURARzVNC1RY6qGw"
+    }
+  },
+  {
+    "id": "332622",
+    "name": "KOFAR YUSUF DIREBA",
+    "registration_area_id": "16895",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "25/06/02/014",
+    "remark": "NEW PU",
+    "ward_id": "16895",
+    "ward_name": "ANGWAN IYA II",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.840532999999999,
+      "longitude": 7.9029807,
+      "viewport": {
+        "northeast": {
+          "lat": 8.84187567989272,
+          "lng": 7.904366129892722
+        },
+        "southwest": {
+          "lat": 8.839176020107276,
+          "lng": 7.901666470107278
+        }
+      },
+      "formatted_address": "RWR3+659, 961101, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.840532999999999,7.9029807",
+      "google_place_id": "ChIJOfwPNWLnURARKwfVTIHqN8o"
+    }
+  },
+  {
+    "id": "332623",
+    "name": "ZANGO",
+    "registration_area_id": "16895",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "25/06/02/015",
+    "remark": "NEW PU",
+    "ward_id": "16895",
+    "ward_name": "ANGWAN IYA II",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8366384,
+      "longitude": 7.855835700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.851370300000001,
+          "lng": 7.8765408
+        },
+        "southwest": {
+          "lat": 8.8250333,
+          "lng": 7.8418924
+        }
+      },
+      "formatted_address": "Angwan Iya II, 961101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8366384,7.855835700000001",
+      "google_place_id": "ChIJvSxKo1nhURARzVNC1RY6qGw"
+    }
+  },
+  {
+    "id": "332624",
+    "name": "KOFAR ATTAJIRI BARADEN KEFFI",
+    "registration_area_id": "16895",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "25/06/02/016",
+    "remark": "NEW PU",
+    "ward_id": "16895",
+    "ward_name": "ANGWAN IYA II",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8471213,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 8.877702,
+          "lng": 7.920491
+        },
+        "southwest": {
+          "lat": 8.8172369,
+          "lng": 7.853625999999999
+        }
+      },
+      "formatted_address": "Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8471213,7.8776023",
+      "google_place_id": "ChIJ-9QZWvnjURARxBElh4Wj6gw"
+    }
+  },
+  {
+    "id": "332625",
+    "name": "KOFAR YUSUF ABDULLAHI GANGWA",
+    "registration_area_id": "16895",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "25/06/02/017",
+    "remark": "NEW PU",
+    "ward_id": "16895",
+    "ward_name": "ANGWAN IYA II",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8471213,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 8.848300629892721,
+          "lng": 7.879032079892722
+        },
+        "southwest": {
+          "lat": 8.845600970107277,
+          "lng": 7.876332420107278
+        }
+      },
+      "formatted_address": "NASARAWA STATE UNIVERSITY, 911019, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8471213,7.8776023",
+      "google_place_id": "ChIJeyBwSijkURARPVbSxse_J90"
+    }
+  },
+  {
+    "id": "332626",
+    "name": "KOFAR WAZIRI CRDP",
+    "registration_area_id": "16895",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "25/06/02/018",
+    "remark": "NEW PU",
+    "ward_id": "16895",
+    "ward_name": "ANGWAN IYA II",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8471213,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 8.848300629892721,
+          "lng": 7.879032079892722
+        },
+        "southwest": {
+          "lat": 8.845600970107277,
+          "lng": 7.876332420107278
+        }
+      },
+      "formatted_address": "NASARAWA STATE UNIVERSITY, 911019, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8471213,7.8776023",
+      "google_place_id": "ChIJeyBwSijkURARPVbSxse_J90"
+    }
+  }
+]

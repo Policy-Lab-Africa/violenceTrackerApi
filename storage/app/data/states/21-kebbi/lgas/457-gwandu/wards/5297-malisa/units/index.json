@@ -1,0 +1,370 @@
+[
+  {
+    "id": "103598",
+    "name": "GORA KWATTIDO G/DIKKO",
+    "registration_area_id": "5297",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "21/10/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5297",
+    "ward_name": "MALISA",
+    "local_government_id": "457",
+    "local_government_name": "GWANDU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "103599",
+    "name": "GORA KWATTIDO DANFILI",
+    "registration_area_id": "5297",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "21/10/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5297",
+    "ward_name": "MALISA",
+    "local_government_id": "457",
+    "local_government_name": "GWANDU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "103600",
+    "name": "GYARTAU",
+    "registration_area_id": "5297",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "21/10/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5297",
+    "ward_name": "MALISA",
+    "local_government_id": "457",
+    "local_government_name": "GWANDU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.5157048,
+      "longitude": 4.6256408,
+      "viewport": {
+        "northeast": {
+          "lat": 12.51676087989272,
+          "lng": 4.626617179892722
+        },
+        "southwest": {
+          "lat": 12.51406122010728,
+          "lng": 4.623917520107278
+        }
+      },
+      "formatted_address": "GJ8G+77J, 860102, Gwandu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5157048,4.6256408",
+      "google_place_id": "ChIJs6wKrZi7yRERWH6w4TAH7Kk"
+    }
+  },
+  {
+    "id": "103601",
+    "name": "ILLELAR GORA",
+    "registration_area_id": "5297",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "21/10/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5297",
+    "ward_name": "MALISA",
+    "local_government_id": "457",
+    "local_government_name": "GWANDU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "103602",
+    "name": "GORA SULLUBAWA G/MAIYAKI",
+    "registration_area_id": "5297",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "21/10/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5297",
+    "ward_name": "MALISA",
+    "local_government_id": "457",
+    "local_government_name": "GWANDU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "103603",
+    "name": "GORA SULLUBAWA G/LIMAN",
+    "registration_area_id": "5297",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "21/10/09/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5297",
+    "ward_name": "MALISA",
+    "local_government_id": "457",
+    "local_government_name": "GWANDU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "103604",
+    "name": "RUGGAR DUTSE",
+    "registration_area_id": "5297",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "21/10/09/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5297",
+    "ward_name": "MALISA",
+    "local_government_id": "457",
+    "local_government_name": "GWANDU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4981827,
+      "longitude": 4.649822599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.49943042989272,
+          "lng": 4.651192879892721
+        },
+        "southwest": {
+          "lat": 12.49673077010728,
+          "lng": 4.648493220107278
+        }
+      },
+      "formatted_address": "Off Ahmadu Bello Way, 860102, Gwandu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4981827,4.649822599999999",
+      "google_place_id": "ChIJpYqW1la5yRERFm9sBxzzwKo"
+    }
+  },
+  {
+    "id": "103605",
+    "name": "DABAGI - KANWURI",
+    "registration_area_id": "5297",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "21/10/09/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5297",
+    "ward_name": "MALISA",
+    "local_government_id": "457",
+    "local_government_name": "GWANDU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4981827,
+      "longitude": 4.649822599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.49943042989272,
+          "lng": 4.651192879892721
+        },
+        "southwest": {
+          "lat": 12.49673077010728,
+          "lng": 4.648493220107278
+        }
+      },
+      "formatted_address": "Off Ahmadu Bello Way, 860102, Gwandu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4981827,4.649822599999999",
+      "google_place_id": "ChIJpYqW1la5yRERFm9sBxzzwKo"
+    }
+  },
+  {
+    "id": "103606",
+    "name": "KARANGIYA MAKARANTA",
+    "registration_area_id": "5297",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "21/10/09/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5297",
+    "ward_name": "MALISA",
+    "local_government_id": "457",
+    "local_government_name": "GWANDU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "103607",
+    "name": "KETARE - G/MAIGARI",
+    "registration_area_id": "5297",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "21/10/09/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5297",
+    "ward_name": "MALISA",
+    "local_government_id": "457",
+    "local_government_name": "GWANDU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "103608",
+    "name": "TUFARA - G/MAIGARI",
+    "registration_area_id": "5297",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "21/10/09/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5297",
+    "ward_name": "MALISA",
+    "local_government_id": "457",
+    "local_government_name": "GWANDU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "103609",
+    "name": "MALISA G/DIKKO",
+    "registration_area_id": "5297",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "21/10/09/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5297",
+    "ward_name": "MALISA",
+    "local_government_id": "457",
+    "local_government_name": "GWANDU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "103610",
+    "name": "MALISA HUGIYAL",
+    "registration_area_id": "5297",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "21/10/09/013",
+    "remark": "EXISTING PU",
+    "ward_id": "5297",
+    "ward_name": "MALISA",
+    "local_government_id": "457",
+    "local_government_name": "GWANDU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4086572,
+      "longitude": 4.7174062,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4612958,
+          "lng": 4.753997099999999
+        },
+        "southwest": {
+          "lat": 12.363171,
+          "lng": 4.6810805
+        }
+      },
+      "formatted_address": "Malisa, 860104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4086572,4.7174062",
+      "google_place_id": "ChIJA7Qp2PG_yRER-zn9PUtXZXA"
+    }
+  },
+  {
+    "id": "103611",
+    "name": "RINAYE",
+    "registration_area_id": "5297",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "21/10/09/014",
+    "remark": "EXISTING PU",
+    "ward_id": "5297",
+    "ward_name": "MALISA",
+    "local_government_id": "457",
+    "local_government_name": "GWANDU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.5856849,
+      "longitude": 5.2431459,
+      "viewport": {
+        "northeast": {
+          "lat": 12.587146,
+          "lng": 5.245769000000001
+        },
+        "southwest": {
+          "lat": 12.5840909,
+          "lng": 5.23938
+        }
+      },
+      "formatted_address": "851103, Rinaye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5856849,5.2431459",
+      "google_place_id": "ChIJiyq-2RMwthERcNCcaV__bCs"
+    }
+  },
+  {
+    "id": "103612",
+    "name": "GURUNSHI - G/MAIGARI",
+    "registration_area_id": "5297",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "21/10/09/015",
+    "remark": "EXISTING PU",
+    "ward_id": "5297",
+    "ward_name": "MALISA",
+    "local_government_id": "457",
+    "local_government_name": "GWANDU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "103613",
+    "name": "GWABARARE ASIBITI G/DIKKO",
+    "registration_area_id": "5297",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "21/10/09/016",
+    "remark": "NEW PU",
+    "ward_id": "5297",
+    "ward_name": "MALISA",
+    "local_government_id": "457",
+    "local_government_name": "GWANDU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4981827,
+      "longitude": 4.649822599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.49943042989272,
+          "lng": 4.651192879892721
+        },
+        "southwest": {
+          "lat": 12.49673077010728,
+          "lng": 4.648493220107278
+        }
+      },
+      "formatted_address": "Off Ahmadu Bello Way, 860102, Gwandu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4981827,4.649822599999999",
+      "google_place_id": "ChIJpYqW1la5yRERFm9sBxzzwKo"
+    }
+  }
+]

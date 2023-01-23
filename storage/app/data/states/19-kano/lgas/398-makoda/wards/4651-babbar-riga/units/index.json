@@ -1,0 +1,469 @@
+[
+  {
+    "id": "91053",
+    "name": "BABBAR RUGA I",
+    "registration_area_id": "4651",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/29/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4651",
+    "ward_name": "BABBAR RIGA",
+    "local_government_id": "398",
+    "local_government_name": "MAKODA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "91054",
+    "name": "BABBAR RUGA II",
+    "registration_area_id": "4651",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/29/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4651",
+    "ward_name": "BABBAR RIGA",
+    "local_government_id": "398",
+    "local_government_name": "MAKODA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "91055",
+    "name": "GABASAWA",
+    "registration_area_id": "4651",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/29/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4651",
+    "ward_name": "BABBAR RIGA",
+    "local_government_id": "398",
+    "local_government_name": "MAKODA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0001427,
+      "longitude": 8.5295341,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00158522989272,
+          "lng": 8.53109247989272
+        },
+        "southwest": {
+          "lat": 11.99888557010728,
+          "lng": 8.528392820107277
+        }
+      },
+      "formatted_address": "3 Zahamar House, Kofar Mata 700222, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0001427,8.5295341",
+      "google_place_id": "ChIJZzz1taqBrhEReEbugEFIMz4"
+    }
+  },
+  {
+    "id": "91056",
+    "name": "DANMARKE II PRIMARY SCHOOL",
+    "registration_area_id": "4651",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/29/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4651",
+    "ward_name": "BABBAR RIGA",
+    "local_government_id": "398",
+    "local_government_name": "MAKODA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.4506066,
+      "longitude": 10.040496,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45195212989272,
+          "lng": 10.04183082989272
+        },
+        "southwest": {
+          "lat": 12.44925247010728,
+          "lng": 10.03913117010728
+        }
+      },
+      "formatted_address": "10 Maje Rd, 731211, Hadejia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4506066,10.040496",
+      "google_place_id": "ChIJbYa3M9SoqRERmWlodVHtzH0"
+    }
+  },
+  {
+    "id": "91057",
+    "name": "GALORU II",
+    "registration_area_id": "4651",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/29/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4651",
+    "ward_name": "BABBAR RIGA",
+    "local_government_id": "398",
+    "local_government_name": "MAKODA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.4506066,
+      "longitude": 10.040496,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45195212989272,
+          "lng": 10.04183082989272
+        },
+        "southwest": {
+          "lat": 12.44925247010728,
+          "lng": 10.03913117010728
+        }
+      },
+      "formatted_address": "10 Maje Rd, 731211, Hadejia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4506066,10.040496",
+      "google_place_id": "ChIJbYa3M9SoqRERmWlodVHtzH0"
+    }
+  },
+  {
+    "id": "91058",
+    "name": "GALORU III",
+    "registration_area_id": "4651",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/29/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4651",
+    "ward_name": "BABBAR RIGA",
+    "local_government_id": "398",
+    "local_government_name": "MAKODA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.4506066,
+      "longitude": 10.040496,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45195212989272,
+          "lng": 10.04183082989272
+        },
+        "southwest": {
+          "lat": 12.44925247010728,
+          "lng": 10.03913117010728
+        }
+      },
+      "formatted_address": "10 Maje Rd, 731211, Hadejia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4506066,10.040496",
+      "google_place_id": "ChIJbYa3M9SoqRERmWlodVHtzH0"
+    }
+  },
+  {
+    "id": "91059",
+    "name": "JAMAA I",
+    "registration_area_id": "4651",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/29/01/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4651",
+    "ward_name": "BABBAR RIGA",
+    "local_government_id": "398",
+    "local_government_name": "MAKODA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "91060",
+    "name": "JAMAA II",
+    "registration_area_id": "4651",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/29/01/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4651",
+    "ward_name": "BABBAR RIGA",
+    "local_government_id": "398",
+    "local_government_name": "MAKODA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "91061",
+    "name": "SHADA",
+    "registration_area_id": "4651",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/29/01/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4651",
+    "ward_name": "BABBAR RIGA",
+    "local_government_id": "398",
+    "local_government_name": "MAKODA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "91062",
+    "name": "SHANTAKE I",
+    "registration_area_id": "4651",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "19/29/01/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4651",
+    "ward_name": "BABBAR RIGA",
+    "local_government_id": "398",
+    "local_government_name": "MAKODA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3459183,
+      "longitude": 8.5194344,
+      "viewport": {
+        "northeast": {
+          "lat": 12.34728002989272,
+          "lng": 8.520754329892721
+        },
+        "southwest": {
+          "lat": 12.34458037010728,
+          "lng": 8.518054670107277
+        }
+      },
+      "formatted_address": "7F4C8GW9+9Q7 Babbar riga Kano, Shantake, 702105, Mesado, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3459183,8.5194344",
+      "google_place_id": "ChIJIXi8PBz1rhER3aIZ_O5RWRI"
+    }
+  },
+  {
+    "id": "91063",
+    "name": "SHANTAKE II",
+    "registration_area_id": "4651",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "19/29/01/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4651",
+    "ward_name": "BABBAR RIGA",
+    "local_government_id": "398",
+    "local_government_name": "MAKODA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3459183,
+      "longitude": 8.5194344,
+      "viewport": {
+        "northeast": {
+          "lat": 12.34728002989272,
+          "lng": 8.520754329892721
+        },
+        "southwest": {
+          "lat": 12.34458037010728,
+          "lng": 8.518054670107277
+        }
+      },
+      "formatted_address": "7F4C8GW9+9Q7 Babbar riga Kano, Shantake, 702105, Mesado, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3459183,8.5194344",
+      "google_place_id": "ChIJIXi8PBz1rhER3aIZ_O5RWRI"
+    }
+  },
+  {
+    "id": "91064",
+    "name": "TUKUI I",
+    "registration_area_id": "4651",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "19/29/01/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4651",
+    "ward_name": "BABBAR RIGA",
+    "local_government_id": "398",
+    "local_government_name": "MAKODA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "91065",
+    "name": "TUKUI II",
+    "registration_area_id": "4651",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "19/29/01/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4651",
+    "ward_name": "BABBAR RIGA",
+    "local_government_id": "398",
+    "local_government_name": "MAKODA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "91066",
+    "name": "UNGUWAR GALADIMA I",
+    "registration_area_id": "4651",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "19/29/01/014",
+    "remark": "EXISTING PU",
+    "ward_id": "4651",
+    "ward_name": "BABBAR RIGA",
+    "local_government_id": "398",
+    "local_government_name": "MAKODA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "91067",
+    "name": "UNGUWAR GALADIMA II",
+    "registration_area_id": "4651",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "19/29/01/015",
+    "remark": "EXISTING PU",
+    "ward_id": "4651",
+    "ward_name": "BABBAR RIGA",
+    "local_government_id": "398",
+    "local_government_name": "MAKODA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "91068",
+    "name": "DANMARKE I",
+    "registration_area_id": "4651",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "19/29/01/016",
+    "remark": "NEW PU",
+    "ward_id": "4651",
+    "ward_name": "BABBAR RIGA",
+    "local_government_id": "398",
+    "local_government_name": "MAKODA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 9.078749,
+      "longitude": 7.4701862,
+      "viewport": {
+        "northeast": {
+          "lat": 9.080076929892721,
+          "lng": 7.471556179892723
+        },
+        "southwest": {
+          "lat": 9.077377270107277,
+          "lng": 7.468856520107279
+        }
+      },
+      "formatted_address": "No 46 Commassie Crescent, Wuse 2 904101, Abuja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.078749,7.4701862",
+      "google_place_id": "ChIJ8_8whskLThAR747X4SbIMkk"
+    }
+  },
+  {
+    "id": "91069",
+    "name": "DANMARKE II",
+    "registration_area_id": "4651",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "19/29/01/017",
+    "remark": "NEW PU",
+    "ward_id": "4651",
+    "ward_name": "BABBAR RIGA",
+    "local_government_id": "398",
+    "local_government_name": "MAKODA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 9.078749,
+      "longitude": 7.4701862,
+      "viewport": {
+        "northeast": {
+          "lat": 9.080076929892721,
+          "lng": 7.471556179892723
+        },
+        "southwest": {
+          "lat": 9.077377270107277,
+          "lng": 7.468856520107279
+        }
+      },
+      "formatted_address": "No 46 Commassie Crescent, Wuse 2 904101, Abuja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.078749,7.4701862",
+      "google_place_id": "ChIJ8_8whskLThAR747X4SbIMkk"
+    }
+  },
+  {
+    "id": "91070",
+    "name": "SHANTAKE III",
+    "registration_area_id": "4651",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "19/29/01/018",
+    "remark": "NEW PU",
+    "ward_id": "4651",
+    "ward_name": "BABBAR RIGA",
+    "local_government_id": "398",
+    "local_government_name": "MAKODA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3459183,
+      "longitude": 8.5194344,
+      "viewport": {
+        "northeast": {
+          "lat": 12.34728002989272,
+          "lng": 8.520754329892721
+        },
+        "southwest": {
+          "lat": 12.34458037010728,
+          "lng": 8.518054670107277
+        }
+      },
+      "formatted_address": "7F4C8GW9+9Q7 Babbar riga Kano, Shantake, 702105, Mesado, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3459183,8.5194344",
+      "google_place_id": "ChIJIXi8PBz1rhER3aIZ_O5RWRI"
+    }
+  },
+  {
+    "id": "91071",
+    "name": "TUKUI II",
+    "registration_area_id": "4651",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "19/29/01/019",
+    "remark": "NEW PU",
+    "ward_id": "4651",
+    "ward_name": "BABBAR RIGA",
+    "local_government_id": "398",
+    "local_government_name": "MAKODA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  }
+]

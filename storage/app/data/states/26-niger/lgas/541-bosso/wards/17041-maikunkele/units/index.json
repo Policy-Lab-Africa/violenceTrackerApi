@@ -1,0 +1,732 @@
+[
+  {
+    "id": "335522",
+    "name": "GIDAN SARKIN MAIKUNKELE  I",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/05/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6777587,
+      "longitude": 6.478621899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.67913127989272,
+          "lng": 6.480031329892722
+        },
+        "southwest": {
+          "lat": 9.676431620107277,
+          "lng": 6.477331670107279
+        }
+      },
+      "formatted_address": "Airport road, opposite Living Faith church, Bosso 921211, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6777587,6.478621899999999",
+      "google_place_id": "ChIJ-aSRYrJ5TBARqC8Xa-jxBEk"
+    }
+  },
+  {
+    "id": "335523",
+    "name": "GIDAN SARKIN MAIKUNKELE  II",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/05/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6777587,
+      "longitude": 6.478621899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.67913127989272,
+          "lng": 6.480031329892722
+        },
+        "southwest": {
+          "lat": 9.676431620107277,
+          "lng": 6.477331670107279
+        }
+      },
+      "formatted_address": "Airport road, opposite Living Faith church, Bosso 921211, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6777587,6.478621899999999",
+      "google_place_id": "ChIJ-aSRYrJ5TBARqC8Xa-jxBEk"
+    }
+  },
+  {
+    "id": "335524",
+    "name": "GAMU",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/05/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.691715,
+      "longitude": 6.43157,
+      "viewport": {
+        "northeast": {
+          "lat": 9.693064829892721,
+          "lng": 6.432919829892722
+        },
+        "southwest": {
+          "lat": 9.690365170107277,
+          "lng": 6.430220170107277
+        }
+      },
+      "formatted_address": "6FX8MCRJ+MJP, 920102, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.691715,6.43157",
+      "google_place_id": "ChIJpRvjc7d5TBARzbJ3Uns5Rg0"
+    }
+  },
+  {
+    "id": "335525",
+    "name": "SHITAKO",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/05/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "335526",
+    "name": "JITA KANGO",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/05/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "335527",
+    "name": "ZHIMI",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/05/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6522186,
+      "longitude": 6.5260598,
+      "viewport": {
+        "northeast": {
+          "lat": 9.653552729892722,
+          "lng": 6.527312779892721
+        },
+        "southwest": {
+          "lat": 9.650853070107278,
+          "lng": 6.524613120107277
+        }
+      },
+      "formatted_address": "MG2G+VCM, behind Airforce Base, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6522186,6.5260598",
+      "google_place_id": "ChIJFavW6ShxTBARb8fq3mqxq5w"
+    }
+  },
+  {
+    "id": "335528",
+    "name": "JANGARU",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/05/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6140286,
+      "longitude": 6.443184599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.615301879892721,
+          "lng": 6.444479429892722
+        },
+        "southwest": {
+          "lat": 9.612602220107277,
+          "lng": 6.441779770107278
+        }
+      },
+      "formatted_address": "920102, Jangaru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6140286,6.443184599999999",
+      "google_place_id": "ChIJW1oWxVN2TBARgf4TlLOQM2g"
+    }
+  },
+  {
+    "id": "335529",
+    "name": "DUWASHA",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/05/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.729383,
+      "longitude": 6.501301,
+      "viewport": {
+        "northeast": {
+          "lat": 9.730732829892725,
+          "lng": 6.502650829892722
+        },
+        "southwest": {
+          "lat": 9.728033170107281,
+          "lng": 6.499951170107278
+        }
+      },
+      "formatted_address": "6FX8PGH2+PGP Shatta bosso Niger, Madako, Feta 920102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.729383,6.501301",
+      "google_place_id": "ChIJT_CZHF97TBARinpc4IEv-GU"
+    }
+  },
+  {
+    "id": "335530",
+    "name": "GBEDENAYI",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "26/05/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6777587,
+      "longitude": 6.478621899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.67913127989272,
+          "lng": 6.480031329892722
+        },
+        "southwest": {
+          "lat": 9.676431620107277,
+          "lng": 6.477331670107279
+        }
+      },
+      "formatted_address": "Airport road, opposite Living Faith church, Bosso 921211, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6777587,6.478621899999999",
+      "google_place_id": "ChIJ-aSRYrJ5TBARqC8Xa-jxBEk"
+    }
+  },
+  {
+    "id": "335531",
+    "name": "RAFIN YASHI",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "26/05/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.669138,
+      "longitude": 6.499974,
+      "viewport": {
+        "northeast": {
+          "lat": 9.670506679892723,
+          "lng": 6.501222129892722
+        },
+        "southwest": {
+          "lat": 9.66780702010728,
+          "lng": 6.498522470107278
+        }
+      },
+      "formatted_address": "6FX8MF9X+MX5 Rafin Yashi, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.669138,6.499974",
+      "google_place_id": "ChIJabi0vw97TBARlUDo-qxIu-s"
+    }
+  },
+  {
+    "id": "335532",
+    "name": "AREA COURT",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "26/05/08/011",
+    "remark": "EXISTING PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6833305,
+      "longitude": 6.479592999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.684650079892721,
+          "lng": 6.480973879892723
+        },
+        "southwest": {
+          "lat": 9.681950420107277,
+          "lng": 6.478274220107279
+        }
+      },
+      "formatted_address": "MFMH+8RP, Minna - Zungeru Rd, 920102, Maikunkele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6833305,6.479592999999999",
+      "google_place_id": "ChIJ_SoE3-x5TBAR2Tohh-QlndI"
+    }
+  },
+  {
+    "id": "335533",
+    "name": "NYI - NYI",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "26/05/08/012",
+    "remark": "EXISTING PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "335534",
+    "name": "TUSHA",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "26/05/08/013",
+    "remark": "EXISTING PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6777587,
+      "longitude": 6.478621899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.67913127989272,
+          "lng": 6.480031329892722
+        },
+        "southwest": {
+          "lat": 9.676431620107277,
+          "lng": 6.477331670107279
+        }
+      },
+      "formatted_address": "Airport road, opposite Living Faith church, Bosso 921211, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6777587,6.478621899999999",
+      "google_place_id": "ChIJ-aSRYrJ5TBARqC8Xa-jxBEk"
+    }
+  },
+  {
+    "id": "335535",
+    "name": "GADAKO",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "26/05/08/014",
+    "remark": "EXISTING PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6777138,
+      "longitude": 6.5311354,
+      "viewport": {
+        "northeast": {
+          "lat": 9.67873112989272,
+          "lng": 6.532140029892722
+        },
+        "southwest": {
+          "lat": 9.676031470107276,
+          "lng": 6.529440370107278
+        }
+      },
+      "formatted_address": "MGHJ+3FJ, 920102, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6777138,6.5311354",
+      "google_place_id": "ChIJD-KfQFJ7TBARaOztvWiU5Q4"
+    }
+  },
+  {
+    "id": "335536",
+    "name": "DAY SECONDARY SCHOOL, MAIKUNKELE",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "26/05/08/015",
+    "remark": "NEW PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6849872,
+      "longitude": 6.4723545,
+      "viewport": {
+        "northeast": {
+          "lat": 9.686269679892723,
+          "lng": 6.473765529892721
+        },
+        "southwest": {
+          "lat": 9.683570020107279,
+          "lng": 6.471065870107277
+        }
+      },
+      "formatted_address": "MFMC+XWQ, 920102, Maikunkele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6849872,6.4723545",
+      "google_place_id": "ChIJu1r8TZV5TBARRelIvD9Pwkg"
+    }
+  },
+  {
+    "id": "335537",
+    "name": "OPEN SPACE ZHIKO VILLAGE (GIDAN WAYA)",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "26/05/08/016",
+    "remark": "NEW PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "335538",
+    "name": "OPEN SPACE UMARU MADAKI",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "26/05/08/017",
+    "remark": "NEW PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "335539",
+    "name": "OPEN SPACE YAM MARKET MAIKUNKELE",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "26/05/08/018",
+    "remark": "NEW PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6251859,
+      "longitude": 6.3319961,
+      "viewport": {
+        "northeast": {
+          "lat": 9.626547779892721,
+          "lng": 6.333305029892721
+        },
+        "southwest": {
+          "lat": 9.623848120107278,
+          "lng": 6.330605370107278
+        }
+      },
+      "formatted_address": "J8GJ+3QH, 920102, Jigbeji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6251859,6.3319961",
+      "google_place_id": "ChIJOarAQNeISxAR2uooAr-vs38"
+    }
+  },
+  {
+    "id": "335540",
+    "name": "BI-WATER TANK MAIKUNKELE",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "26/05/08/019",
+    "remark": "NEW PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6558046,
+      "longitude": 6.5296619,
+      "viewport": {
+        "northeast": {
+          "lat": 9.657077929892722,
+          "lng": 6.530932679892723
+        },
+        "southwest": {
+          "lat": 9.654378270107278,
+          "lng": 6.528233020107279
+        }
+      },
+      "formatted_address": "MG4H+8VC, Zungeru Road, Bosso 920102, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6558046,6.5296619",
+      "google_place_id": "ChIJr8llxINwTBARhz5Y-bP-hbE"
+    }
+  },
+  {
+    "id": "335541",
+    "name": "OPEN SPACE TAWU VILLAGE",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "26/05/08/020",
+    "remark": "NEW PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "335542",
+    "name": "DUWASHA II OPEN SPACE",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "26/05/08/021",
+    "remark": "NEW PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6777138,
+      "longitude": 6.5311354,
+      "viewport": {
+        "northeast": {
+          "lat": 9.67873112989272,
+          "lng": 6.532140029892722
+        },
+        "southwest": {
+          "lat": 9.676031470107276,
+          "lng": 6.529440370107278
+        }
+      },
+      "formatted_address": "MGHJ+3FJ, 920102, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6777138,6.5311354",
+      "google_place_id": "ChIJD-KfQFJ7TBARaOztvWiU5Q4"
+    }
+  },
+  {
+    "id": "335543",
+    "name": "U.B.E PRIMARY SCHOOL JIKUCHI",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "26/05/08/022",
+    "remark": "NEW PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.644313799999999,
+      "longitude": 6.524368,
+      "viewport": {
+        "northeast": {
+          "lat": 9.645679829892721,
+          "lng": 6.525765079892722
+        },
+        "southwest": {
+          "lat": 9.642980170107277,
+          "lng": 6.523065420107278
+        }
+      },
+      "formatted_address": "London St, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.644313799999999,6.524368",
+      "google_place_id": "ChIJSeZIIZJwTBAR4CT9W2Ok-T0"
+    }
+  },
+  {
+    "id": "335544",
+    "name": "OPEN SPACE ANG. JAGABA RAFIN YASHI",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "26/05/08/023",
+    "remark": "NEW PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "335545",
+    "name": "KPANGO PRIMARY  HEALTH CARE",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "26/05/08/024",
+    "remark": "NEW PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "335546",
+    "name": "POLICE FEDERAL LOW COST HEALTH CARE CENTER MAIKUNKELE",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "26/05/08/025",
+    "remark": "NEW PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6522186,
+      "longitude": 6.5260598,
+      "viewport": {
+        "northeast": {
+          "lat": 9.653552729892722,
+          "lng": 6.527312779892721
+        },
+        "southwest": {
+          "lat": 9.650853070107278,
+          "lng": 6.524613120107277
+        }
+      },
+      "formatted_address": "MG2G+VCM, behind Airforce Base, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6522186,6.5260598",
+      "google_place_id": "ChIJFavW6ShxTBARb8fq3mqxq5w"
+    }
+  },
+  {
+    "id": "335547",
+    "name": "OPEN SPACE AIRFORCE BASE MAIKUNKELE",
+    "registration_area_id": "17041",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "26/05/08/026",
+    "remark": "NEW PU",
+    "ward_id": "17041",
+    "ward_name": "MAIKUNKELE",
+    "local_government_id": "541",
+    "local_government_name": "BOSSO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6522186,
+      "longitude": 6.5260598,
+      "viewport": {
+        "northeast": {
+          "lat": 9.653552729892722,
+          "lng": 6.527312779892721
+        },
+        "southwest": {
+          "lat": 9.650853070107278,
+          "lng": 6.524613120107277
+        }
+      },
+      "formatted_address": "MG2G+VCM, behind Airforce Base, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6522186,6.5260598",
+      "google_place_id": "ChIJFavW6ShxTBARb8fq3mqxq5w"
+    }
+  }
+]

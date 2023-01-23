@@ -1,0 +1,564 @@
+[
+  {
+    "id": "40251",
+    "name": "MOSOGAR I/PRIMARY SCHOOL MOSOGAR  I",
+    "registration_area_id": "2217",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "10/06/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2217",
+    "ward_name": "MOSOGAR I",
+    "local_government_id": "192",
+    "local_government_name": "ETHIOPE  WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.9039284,
+      "longitude": 5.730014499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.904970629892722,
+          "lng": 5.731520329892723
+        },
+        "southwest": {
+          "lat": 5.902270970107278,
+          "lng": 5.728820670107279
+        }
+      },
+      "formatted_address": "WP3J+H2C, 331101, Mosogar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9039284,5.730014499999999",
+      "google_place_id": "ChIJzRSTc0bjQBARhp1RzUYYWWg"
+    }
+  },
+  {
+    "id": "40252",
+    "name": "MOSOGAR II/PRIMARY SCHOOL MOSOGAR  II",
+    "registration_area_id": "2217",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "10/06/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2217",
+    "ward_name": "MOSOGAR I",
+    "local_government_id": "192",
+    "local_government_name": "ETHIOPE  WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.9039284,
+      "longitude": 5.730014499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.904970629892722,
+          "lng": 5.731520329892723
+        },
+        "southwest": {
+          "lat": 5.902270970107278,
+          "lng": 5.728820670107279
+        }
+      },
+      "formatted_address": "WP3J+H2C, 331101, Mosogar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9039284,5.730014499999999",
+      "google_place_id": "ChIJzRSTc0bjQBARhp1RzUYYWWg"
+    }
+  },
+  {
+    "id": "40253",
+    "name": "AJATITOR/AJATITOR TOWN HALL",
+    "registration_area_id": "2217",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "10/06/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2217",
+    "ward_name": "MOSOGAR I",
+    "local_government_id": "192",
+    "local_government_name": "ETHIOPE  WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.8912162,
+      "longitude": 5.7310525,
+      "viewport": {
+        "northeast": {
+          "lat": 5.892705379892721,
+          "lng": 5.73187717989272
+        },
+        "southwest": {
+          "lat": 5.890005720107277,
+          "lng": 5.729177520107276
+        }
+      },
+      "formatted_address": "VPRJ+FCM, 331101, Mosogar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8912162,5.7310525",
+      "google_place_id": "ChIJj2nFlWgdQRARGReCG48srdM"
+    }
+  },
+  {
+    "id": "40254",
+    "name": "BENIN ROAD/MATERNITY CENTRE",
+    "registration_area_id": "2217",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "10/06/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2217",
+    "ward_name": "MOSOGAR I",
+    "local_government_id": "192",
+    "local_government_name": "ETHIOPE  WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.904660799999999,
+      "longitude": 5.7411539,
+      "viewport": {
+        "northeast": {
+          "lat": 5.906317079892721,
+          "lng": 5.74249007989272
+        },
+        "southwest": {
+          "lat": 5.903617420107278,
+          "lng": 5.739790420107276
+        }
+      },
+      "formatted_address": "WP3R+VF6, 331101, Mosogar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.904660799999999,5.7411539",
+      "google_place_id": "ChIJ-5zDBfsdQRARbQNXNPZcV1k"
+    }
+  },
+  {
+    "id": "40255",
+    "name": "OKUEMORE ROAD I/MOSOGAR  PRIMARY SCHOOL",
+    "registration_area_id": "2217",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "10/06/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2217",
+    "ward_name": "MOSOGAR I",
+    "local_government_id": "192",
+    "local_government_name": "ETHIOPE  WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "40256",
+    "name": "OKUEMORE ROAD II/MOSOGAR  PRIMARY SCHOOL",
+    "registration_area_id": "2217",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "10/06/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2217",
+    "ward_name": "MOSOGAR I",
+    "local_government_id": "192",
+    "local_government_name": "ETHIOPE  WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.9039284,
+      "longitude": 5.730014499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.904970629892722,
+          "lng": 5.731520329892723
+        },
+        "southwest": {
+          "lat": 5.902270970107278,
+          "lng": 5.728820670107279
+        }
+      },
+      "formatted_address": "WP3J+H2C, 331101, Mosogar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9039284,5.730014499999999",
+      "google_place_id": "ChIJzRSTc0bjQBARhp1RzUYYWWg"
+    }
+  },
+  {
+    "id": "40257",
+    "name": "AKPOBOME/PRIMARY SCHOOL AKPOBOME",
+    "registration_area_id": "2217",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "10/06/01/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2217",
+    "ward_name": "MOSOGAR I",
+    "local_government_id": "192",
+    "local_government_name": "ETHIOPE  WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.879870299999999,
+      "longitude": 5.7321992,
+      "viewport": {
+        "northeast": {
+          "lat": 5.881375979892721,
+          "lng": 5.733665929892721
+        },
+        "southwest": {
+          "lat": 5.878676320107277,
+          "lng": 5.730966270107277
+        }
+      },
+      "formatted_address": "VPHJ+WVW, 331101, Mosogar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.879870299999999,5.7321992",
+      "google_place_id": "ChIJHYHjp7cdQRAR_YwycVkAJ0s"
+    }
+  },
+  {
+    "id": "40258",
+    "name": "IDJEKPOKPO/WILL ROYAL INTERNATIONAL COLLEGE",
+    "registration_area_id": "2217",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "10/06/01/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2217",
+    "ward_name": "MOSOGAR I",
+    "local_government_id": "192",
+    "local_government_name": "ETHIOPE  WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.9072963,
+      "longitude": 5.7514071,
+      "viewport": {
+        "northeast": {
+          "lat": 5.908646129892721,
+          "lng": 5.752793479892722
+        },
+        "southwest": {
+          "lat": 5.905946470107277,
+          "lng": 5.750093820107278
+        }
+      },
+      "formatted_address": "WQ42+WH7, Road, 331101, Mosogar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9072963,5.7514071",
+      "google_place_id": "ChIJh2H6SQsdQRARv-5uVnlyoLk"
+    }
+  },
+  {
+    "id": "40259",
+    "name": "MOSOGAR III/OGUEDION TOWN HALL",
+    "registration_area_id": "2217",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "10/06/01/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2217",
+    "ward_name": "MOSOGAR I",
+    "local_government_id": "192",
+    "local_government_name": "ETHIOPE  WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.9072963,
+      "longitude": 5.7514071,
+      "viewport": {
+        "northeast": {
+          "lat": 5.908646129892721,
+          "lng": 5.752793479892722
+        },
+        "southwest": {
+          "lat": 5.905946470107277,
+          "lng": 5.750093820107278
+        }
+      },
+      "formatted_address": "WQ42+WH7, Road, 331101, Mosogar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9072963,5.7514071",
+      "google_place_id": "ChIJh2H6SQsdQRARv-5uVnlyoLk"
+    }
+  },
+  {
+    "id": "40260",
+    "name": "AKPOBOME II/AKPOBOME PRIMARY SCHOOL",
+    "registration_area_id": "2217",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "10/06/01/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2217",
+    "ward_name": "MOSOGAR I",
+    "local_government_id": "192",
+    "local_government_name": "ETHIOPE  WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.879870299999999,
+      "longitude": 5.7321992,
+      "viewport": {
+        "northeast": {
+          "lat": 5.881375979892721,
+          "lng": 5.733665929892721
+        },
+        "southwest": {
+          "lat": 5.878676320107277,
+          "lng": 5.730966270107277
+        }
+      },
+      "formatted_address": "VPHJ+WVW, 331101, Mosogar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.879870299999999,5.7321992",
+      "google_place_id": "ChIJHYHjp7cdQRAR_YwycVkAJ0s"
+    }
+  },
+  {
+    "id": "40261",
+    "name": "CIVIC CENTRE BY AMORI ROUNDABOUT, MOSOGAR",
+    "registration_area_id": "2217",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "10/06/01/011",
+    "remark": "NEW PU",
+    "ward_id": "2217",
+    "ward_name": "MOSOGAR I",
+    "local_government_id": "192",
+    "local_government_name": "ETHIOPE  WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.9072963,
+      "longitude": 5.7514071,
+      "viewport": {
+        "northeast": {
+          "lat": 5.908646129892721,
+          "lng": 5.752793479892722
+        },
+        "southwest": {
+          "lat": 5.905946470107277,
+          "lng": 5.750093820107278
+        }
+      },
+      "formatted_address": "WQ42+WH7, Road, 331101, Mosogar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9072963,5.7514071",
+      "google_place_id": "ChIJh2H6SQsdQRARv-5uVnlyoLk"
+    }
+  },
+  {
+    "id": "40262",
+    "name": "SAM-OGBAKPA PRIMARY SCHOOL, MOSOGAR",
+    "registration_area_id": "2217",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "10/06/01/012",
+    "remark": "NEW PU",
+    "ward_id": "2217",
+    "ward_name": "MOSOGAR I",
+    "local_government_id": "192",
+    "local_government_name": "ETHIOPE  WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.879870299999999,
+      "longitude": 5.7321992,
+      "viewport": {
+        "northeast": {
+          "lat": 5.881375979892721,
+          "lng": 5.733665929892721
+        },
+        "southwest": {
+          "lat": 5.878676320107277,
+          "lng": 5.730966270107277
+        }
+      },
+      "formatted_address": "VPHJ+WVW, 331101, Mosogar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.879870299999999,5.7321992",
+      "google_place_id": "ChIJHYHjp7cdQRAR_YwycVkAJ0s"
+    }
+  },
+  {
+    "id": "40263",
+    "name": "UGBEDE COMMUNITY HALL, MOSOGAR",
+    "registration_area_id": "2217",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "10/06/01/013",
+    "remark": "NEW PU",
+    "ward_id": "2217",
+    "ward_name": "MOSOGAR I",
+    "local_government_id": "192",
+    "local_government_name": "ETHIOPE  WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.9072963,
+      "longitude": 5.7514071,
+      "viewport": {
+        "northeast": {
+          "lat": 5.908646129892721,
+          "lng": 5.752793479892722
+        },
+        "southwest": {
+          "lat": 5.905946470107277,
+          "lng": 5.750093820107278
+        }
+      },
+      "formatted_address": "WQ42+WH7, Road, 331101, Mosogar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9072963,5.7514071",
+      "google_place_id": "ChIJh2H6SQsdQRARv-5uVnlyoLk"
+    }
+  },
+  {
+    "id": "40264",
+    "name": "AKADORO COMMUNITY HALL, MOSOGAR",
+    "registration_area_id": "2217",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "10/06/01/014",
+    "remark": "NEW PU",
+    "ward_id": "2217",
+    "ward_name": "MOSOGAR I",
+    "local_government_id": "192",
+    "local_government_name": "ETHIOPE  WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.9072963,
+      "longitude": 5.7514071,
+      "viewport": {
+        "northeast": {
+          "lat": 5.908646129892721,
+          "lng": 5.752793479892722
+        },
+        "southwest": {
+          "lat": 5.905946470107277,
+          "lng": 5.750093820107278
+        }
+      },
+      "formatted_address": "WQ42+WH7, Road, 331101, Mosogar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9072963,5.7514071",
+      "google_place_id": "ChIJh2H6SQsdQRARv-5uVnlyoLk"
+    }
+  },
+  {
+    "id": "40265",
+    "name": "UDURHIE SECONDARY SCHOOL, MOSOGAR",
+    "registration_area_id": "2217",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "10/06/01/015",
+    "remark": "NEW PU",
+    "ward_id": "2217",
+    "ward_name": "MOSOGAR I",
+    "local_government_id": "192",
+    "local_government_name": "ETHIOPE  WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.8912162,
+      "longitude": 5.7310525,
+      "viewport": {
+        "northeast": {
+          "lat": 5.892705379892721,
+          "lng": 5.73187717989272
+        },
+        "southwest": {
+          "lat": 5.890005720107277,
+          "lng": 5.729177520107276
+        }
+      },
+      "formatted_address": "VPRJ+FCM, 331101, Mosogar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8912162,5.7310525",
+      "google_place_id": "ChIJj2nFlWgdQRARGReCG48srdM"
+    }
+  },
+  {
+    "id": "40266",
+    "name": "PRIMARY HEALTH CARE CENTRE, MOSOGAR",
+    "registration_area_id": "2217",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "10/06/01/016",
+    "remark": "NEW PU",
+    "ward_id": "2217",
+    "ward_name": "MOSOGAR I",
+    "local_government_id": "192",
+    "local_government_name": "ETHIOPE  WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.904660799999999,
+      "longitude": 5.7411539,
+      "viewport": {
+        "northeast": {
+          "lat": 5.906317079892721,
+          "lng": 5.74249007989272
+        },
+        "southwest": {
+          "lat": 5.903617420107278,
+          "lng": 5.739790420107276
+        }
+      },
+      "formatted_address": "WP3R+VF6, 331101, Mosogar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.904660799999999,5.7411539",
+      "google_place_id": "ChIJ-5zDBfsdQRARbQNXNPZcV1k"
+    }
+  },
+  {
+    "id": "40267",
+    "name": "MOSOGAR SECONDARY SCHOOL, MOSOGAR",
+    "registration_area_id": "2217",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "10/06/01/017",
+    "remark": "NEW PU",
+    "ward_id": "2217",
+    "ward_name": "MOSOGAR I",
+    "local_government_id": "192",
+    "local_government_name": "ETHIOPE  WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.905271,
+      "longitude": 5.7480484,
+      "viewport": {
+        "northeast": {
+          "lat": 5.907071229892722,
+          "lng": 5.749315429892722
+        },
+        "southwest": {
+          "lat": 5.904371570107278,
+          "lng": 5.746615770107279
+        }
+      },
+      "formatted_address": "WP4X+463, 331101, Mosogar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.905271,5.7480484",
+      "google_place_id": "ChIJg7szZB8dQRARpgH1IIRj-4A"
+    }
+  },
+  {
+    "id": "40268",
+    "name": "OPEN SPACE  - OVIE PALACE ROAD BY TRIPLE X JUNCTION",
+    "registration_area_id": "2217",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "10/06/01/018",
+    "remark": "NEW PU",
+    "ward_id": "2217",
+    "ward_name": "MOSOGAR I",
+    "local_government_id": "192",
+    "local_government_name": "ETHIOPE  WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  }
+]

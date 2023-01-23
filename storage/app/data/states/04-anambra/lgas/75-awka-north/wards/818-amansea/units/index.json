@@ -1,0 +1,464 @@
+[
+  {
+    "id": "13767",
+    "name": "EZIOGBO P/S",
+    "registration_area_id": "818",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "04/06/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "818",
+    "ward_name": "AMANSEA",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2632233,
+      "longitude": 7.1264034,
+      "viewport": {
+        "northeast": {
+          "lat": 6.264400429892722,
+          "lng": 7.127565979892722
+        },
+        "southwest": {
+          "lat": 6.261700770107278,
+          "lng": 7.124866320107278
+        }
+      },
+      "formatted_address": "420116, Egbagu-Amansi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2632233,7.1264034",
+      "google_place_id": "ChIJqw87otp4QxAR5Ohn42mVMzo"
+    }
+  },
+  {
+    "id": "13768",
+    "name": "COMM. P/S I",
+    "registration_area_id": "818",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "04/06/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "818",
+    "ward_name": "AMANSEA",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.251870599999999,
+      "longitude": 7.141817899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.253302879892722,
+          "lng": 7.143272129892722
+        },
+        "southwest": {
+          "lat": 6.250603220107277,
+          "lng": 7.140572470107278
+        }
+      },
+      "formatted_address": "742R+PPC, Amansea, Amansim, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.251870599999999,7.141817899999999",
+      "google_place_id": "ChIJ22WDisx5QxARG31-AOYwbpY"
+    }
+  },
+  {
+    "id": "13769",
+    "name": "EGBEAGU HALL",
+    "registration_area_id": "818",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "04/06/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "818",
+    "ward_name": "AMANSEA",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2731853,
+      "longitude": 7.131947599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.274508029892721,
+          "lng": 7.133346379892722
+        },
+        "southwest": {
+          "lat": 6.271808370107277,
+          "lng": 7.130646720107278
+        }
+      },
+      "formatted_address": "Egbeagu village, Amansea, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2731853,7.131947599999999",
+      "google_place_id": "ChIJwXbqKc55QxARcI4MHlEiUcM"
+    }
+  },
+  {
+    "id": "13770",
+    "name": "OKUKWA HALL",
+    "registration_area_id": "818",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "04/06/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "818",
+    "ward_name": "AMANSEA",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2632233,
+      "longitude": 7.1264034,
+      "viewport": {
+        "northeast": {
+          "lat": 6.264400429892722,
+          "lng": 7.127565979892722
+        },
+        "southwest": {
+          "lat": 6.261700770107278,
+          "lng": 7.124866320107278
+        }
+      },
+      "formatted_address": "420116, Egbagu-Amansi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2632233,7.1264034",
+      "google_place_id": "ChIJqw87otp4QxAR5Ohn42mVMzo"
+    }
+  },
+  {
+    "id": "13771",
+    "name": "OREBE SQUARE",
+    "registration_area_id": "818",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "04/06/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "818",
+    "ward_name": "AMANSEA",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.272194,
+      "longitude": 7.123196099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.273548979892722,
+          "lng": 7.124549629892722
+        },
+        "southwest": {
+          "lat": 6.270849320107279,
+          "lng": 7.121849970107278
+        }
+      },
+      "formatted_address": "74CF+V7G, 420116, Egbagu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.272194,7.123196099999999",
+      "google_place_id": "ChIJ68fkD814QxARzEnRgCaj5F4"
+    }
+  },
+  {
+    "id": "13772",
+    "name": "UMUORA SQUARE",
+    "registration_area_id": "818",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "04/06/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "818",
+    "ward_name": "AMANSEA",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2537124,
+      "longitude": 7.138461599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.255421579892721,
+          "lng": 7.139636079892722
+        },
+        "southwest": {
+          "lat": 6.252721920107277,
+          "lng": 7.136936420107278
+        }
+      },
+      "formatted_address": "SHOP 3 AMANSEA PARK, AMANSEA JUNCTION AWKA NORTH LOCAL GOVERNMENT, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2537124,7.138461599999999",
+      "google_place_id": "ChIJA4zCBXZ5QxARFMUA8VwMa50"
+    }
+  },
+  {
+    "id": "13773",
+    "name": "COMM.  P/S  II",
+    "registration_area_id": "818",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "04/06/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "818",
+    "ward_name": "AMANSEA",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.251870599999999,
+      "longitude": 7.141817899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.253302879892722,
+          "lng": 7.143272129892722
+        },
+        "southwest": {
+          "lat": 6.250603220107277,
+          "lng": 7.140572470107278
+        }
+      },
+      "formatted_address": "742R+PPC, Amansea, Amansim, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.251870599999999,7.141817899999999",
+      "google_place_id": "ChIJ22WDisx5QxARG31-AOYwbpY"
+    }
+  },
+  {
+    "id": "13774",
+    "name": "EZIOGBO P/S II",
+    "registration_area_id": "818",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "04/06/04/008",
+    "remark": "NEW PU",
+    "ward_id": "818",
+    "ward_name": "AMANSEA",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2632233,
+      "longitude": 7.1264034,
+      "viewport": {
+        "northeast": {
+          "lat": 6.264400429892722,
+          "lng": 7.127565979892722
+        },
+        "southwest": {
+          "lat": 6.261700770107278,
+          "lng": 7.124866320107278
+        }
+      },
+      "formatted_address": "420116, Egbagu-Amansi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2632233,7.1264034",
+      "google_place_id": "ChIJqw87otp4QxAR5Ohn42mVMzo"
+    }
+  },
+  {
+    "id": "13775",
+    "name": "AMANSEA GARIKI I",
+    "registration_area_id": "818",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "04/06/04/009",
+    "remark": "NEW PU",
+    "ward_id": "818",
+    "ward_name": "AMANSEA",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2632233,
+      "longitude": 7.1264034,
+      "viewport": {
+        "northeast": {
+          "lat": 6.264400429892722,
+          "lng": 7.127565979892722
+        },
+        "southwest": {
+          "lat": 6.261700770107278,
+          "lng": 7.124866320107278
+        }
+      },
+      "formatted_address": "420116, Egbagu-Amansi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2632233,7.1264034",
+      "google_place_id": "ChIJqw87otp4QxAR5Ohn42mVMzo"
+    }
+  },
+  {
+    "id": "13776",
+    "name": "EGBEAGU HALL II",
+    "registration_area_id": "818",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "04/06/04/010",
+    "remark": "NEW PU",
+    "ward_id": "818",
+    "ward_name": "AMANSEA",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2632233,
+      "longitude": 7.1264034,
+      "viewport": {
+        "northeast": {
+          "lat": 6.264400429892722,
+          "lng": 7.127565979892722
+        },
+        "southwest": {
+          "lat": 6.261700770107278,
+          "lng": 7.124866320107278
+        }
+      },
+      "formatted_address": "420116, Egbagu-Amansi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2632233,7.1264034",
+      "google_place_id": "ChIJqw87otp4QxAR5Ohn42mVMzo"
+    }
+  },
+  {
+    "id": "13777",
+    "name": "OKUKWA HEALTH CENTER I",
+    "registration_area_id": "818",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "04/06/04/011",
+    "remark": "NEW PU",
+    "ward_id": "818",
+    "ward_name": "AMANSEA",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2444706,
+      "longitude": 7.125095099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.245674579892721,
+          "lng": 7.126215879892722
+        },
+        "southwest": {
+          "lat": 6.242974920107277,
+          "lng": 7.123516220107278
+        }
+      },
+      "formatted_address": "64VG+Q2Q, 420116, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2444706,7.125095099999999",
+      "google_place_id": "ChIJyfYMiO94QxARe6Gn0GqdeME"
+    }
+  },
+  {
+    "id": "13778",
+    "name": "OKUKWA HEALTH CENTER II",
+    "registration_area_id": "818",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "04/06/04/012",
+    "remark": "NEW PU",
+    "ward_id": "818",
+    "ward_name": "AMANSEA",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2444706,
+      "longitude": 7.125095099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.245674579892721,
+          "lng": 7.126215879892722
+        },
+        "southwest": {
+          "lat": 6.242974920107277,
+          "lng": 7.123516220107278
+        }
+      },
+      "formatted_address": "64VG+Q2Q, 420116, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2444706,7.125095099999999",
+      "google_place_id": "ChIJyfYMiO94QxARe6Gn0GqdeME"
+    }
+  },
+  {
+    "id": "13779",
+    "name": "OKUKWA HALL II",
+    "registration_area_id": "818",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "04/06/04/013",
+    "remark": "NEW PU",
+    "ward_id": "818",
+    "ward_name": "AMANSEA",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2632233,
+      "longitude": 7.1264034,
+      "viewport": {
+        "northeast": {
+          "lat": 6.264400429892722,
+          "lng": 7.127565979892722
+        },
+        "southwest": {
+          "lat": 6.261700770107278,
+          "lng": 7.124866320107278
+        }
+      },
+      "formatted_address": "420116, Egbagu-Amansi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2632233,7.1264034",
+      "google_place_id": "ChIJqw87otp4QxAR5Ohn42mVMzo"
+    }
+  },
+  {
+    "id": "13780",
+    "name": "AMANSEA GARIKI II",
+    "registration_area_id": "818",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "04/06/04/014",
+    "remark": "NEW PU",
+    "ward_id": "818",
+    "ward_name": "AMANSEA",
+    "local_government_id": "75",
+    "local_government_name": "AWKA NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2632233,
+      "longitude": 7.1264034,
+      "viewport": {
+        "northeast": {
+          "lat": 6.264400429892722,
+          "lng": 7.127565979892722
+        },
+        "southwest": {
+          "lat": 6.261700770107278,
+          "lng": 7.124866320107278
+        }
+      },
+      "formatted_address": "420116, Egbagu-Amansi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2632233,7.1264034",
+      "google_place_id": "ChIJqw87otp4QxAR5Ohn42mVMzo"
+    }
+  }
+]

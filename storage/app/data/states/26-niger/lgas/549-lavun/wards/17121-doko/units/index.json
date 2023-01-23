@@ -1,0 +1,665 @@
+[
+  {
+    "id": "337038",
+    "name": "DOKO NORTH PRIMARY SCHOOL",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/13/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.946729999999999,
+      "longitude": 5.9636929,
+      "viewport": {
+        "northeast": {
+          "lat": 8.948113429892723,
+          "lng": 5.965090179892721
+        },
+        "southwest": {
+          "lat": 8.94541377010728,
+          "lng": 5.962390520107277
+        }
+      },
+      "formatted_address": "6FW7WXW7+MCQ, 912211, Doko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.946729999999999,5.9636929",
+      "google_place_id": "ChIJazcpHbtvSRARIOmK3Re4RyQ"
+    }
+  },
+  {
+    "id": "337039",
+    "name": "EMI-DAZHI",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/13/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "337040",
+    "name": "LANGBAFU TACHIN",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/13/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0528318,
+      "longitude": 6.007369,
+      "viewport": {
+        "northeast": {
+          "lat": 9.054291229892723,
+          "lng": 6.008780329892722
+        },
+        "southwest": {
+          "lat": 9.051591570107279,
+          "lng": 6.006080670107278
+        }
+      },
+      "formatted_address": "22R4+F3, 912211, Bida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0528318,6.007369",
+      "google_place_id": "ChIJia6TdOVnSRARc1mT224Q5ao"
+    }
+  },
+  {
+    "id": "337041",
+    "name": "UNGWAR LADAN",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/13/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "337042",
+    "name": "DAKIN SHAWARA  I",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/13/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.5930084,
+      "longitude": 6.564839399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.594404429892721,
+          "lng": 6.566169979892721
+        },
+        "southwest": {
+          "lat": 9.591704770107278,
+          "lng": 6.563470320107277
+        }
+      },
+      "formatted_address": "Shop 7. Najoji Complex, Tunga, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5930084,6.564839399999999",
+      "google_place_id": "ChIJlUAg6TdxTBAR48xorYHJ7ac"
+    }
+  },
+  {
+    "id": "337043",
+    "name": "DAKIN SHAWARA  II",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/13/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "337044",
+    "name": "NTAKOGI",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/13/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.940980699999999,
+      "longitude": 5.969955000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.942314529892723,
+          "lng": 5.971302379892722
+        },
+        "southwest": {
+          "lat": 8.93961487010728,
+          "lng": 5.968602720107278
+        }
+      },
+      "formatted_address": "6FW7WXRC+82R, NTAKOGI, 912211, Doko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.940980699999999,5.969955000000001",
+      "google_place_id": "ChIJLVbGwDlvSRARnUOR0DjKkCw"
+    }
+  },
+  {
+    "id": "337045",
+    "name": "BOKU",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/13/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2749677,
+      "longitude": 6.8384499,
+      "viewport": {
+        "northeast": {
+          "lat": 9.277702099999999,
+          "lng": 6.840491
+        },
+        "southwest": {
+          "lat": 9.272979900000001,
+          "lng": 6.8371581
+        }
+      },
+      "formatted_address": "911101, Boku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2749677,6.8384499",
+      "google_place_id": "ChIJ0RZ_kZ4kTBAReU2HIfh_ir0"
+    }
+  },
+  {
+    "id": "337046",
+    "name": "BOKU NDAGBAJI",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "26/13/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2749677,
+      "longitude": 6.8384499,
+      "viewport": {
+        "northeast": {
+          "lat": 9.277702099999999,
+          "lng": 6.840491
+        },
+        "southwest": {
+          "lat": 9.272979900000001,
+          "lng": 6.8371581
+        }
+      },
+      "formatted_address": "911101, Boku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2749677,6.8384499",
+      "google_place_id": "ChIJ0RZ_kZ4kTBAReU2HIfh_ir0"
+    }
+  },
+  {
+    "id": "337047",
+    "name": "EMI GBA",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "26/13/04/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.8477899,
+      "longitude": 5.4210344,
+      "viewport": {
+        "northeast": {
+          "lat": 8.849155829892721,
+          "lng": 5.422314629892722
+        },
+        "southwest": {
+          "lat": 8.846456170107277,
+          "lng": 5.419614970107278
+        }
+      },
+      "formatted_address": "Ibrahim Taiwo Road, 243101, Lafiagi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8477899,5.4210344",
+      "google_place_id": "ChIJl1L1nbSVSRARpqe_xzveW7Q"
+    }
+  },
+  {
+    "id": "337048",
+    "name": "KOPA",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "26/13/04/011",
+    "remark": "EXISTING PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.938252,
+      "longitude": 5.929012,
+      "viewport": {
+        "northeast": {
+          "lat": 8.93961442989272,
+          "lng": 5.930215479892722
+        },
+        "southwest": {
+          "lat": 8.936914770107276,
+          "lng": 5.927515820107278
+        }
+      },
+      "formatted_address": "6FW7WWQH+8J2 Kopa Doko, 912211, Doko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.938252,5.929012",
+      "google_place_id": "ChIJVbKbaUJvSRARiDI8t5XWWLk"
+    }
+  },
+  {
+    "id": "337049",
+    "name": "MAMBWARI",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "26/13/04/012",
+    "remark": "EXISTING PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.954646,
+      "longitude": 6.0044795,
+      "viewport": {
+        "northeast": {
+          "lat": 8.956028829892722,
+          "lng": 6.005832879892721
+        },
+        "southwest": {
+          "lat": 8.953329170107278,
+          "lng": 6.003133220107277
+        }
+      },
+      "formatted_address": "X233+VQ7, 912211, Doko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.954646,6.0044795",
+      "google_place_id": "ChIJvdWLdZhoSRAR6GBkijWLGWQ"
+    }
+  },
+  {
+    "id": "337050",
+    "name": "UNGUWAR LADAN",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "26/13/04/013",
+    "remark": "EXISTING PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0391016,
+      "longitude": 6.007923099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.040474329892723,
+          "lng": 6.009264179892722
+        },
+        "southwest": {
+          "lat": 9.037774670107279,
+          "lng": 6.006564520107278
+        }
+      },
+      "formatted_address": "KM 1.5 Doko Road, 912211, Bida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0391016,6.007923099999999",
+      "google_place_id": "ChIJlbHp8rdmSRARfOP6osfuyBg"
+    }
+  },
+  {
+    "id": "337051",
+    "name": "GBANGUBA",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "26/13/04/014",
+    "remark": "EXISTING PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.940158799999999,
+      "longitude": 5.9647536,
+      "viewport": {
+        "northeast": {
+          "lat": 8.958257999999999,
+          "lng": 5.972713
+        },
+        "southwest": {
+          "lat": 8.9360349,
+          "lng": 5.957158000000001
+        }
+      },
+      "formatted_address": "912211, Doko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.940158799999999,5.9647536",
+      "google_place_id": "ChIJedizfD9vSRARgJ1ZHuSDg9Q"
+    }
+  },
+  {
+    "id": "337052",
+    "name": "SHESHI SABA",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "26/13/04/015",
+    "remark": "EXISTING PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "337053",
+    "name": "VUNCHI TIFIN",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "26/13/04/016",
+    "remark": "EXISTING PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9687763,
+      "longitude": 5.9633392,
+      "viewport": {
+        "northeast": {
+          "lat": 8.970034929892725,
+          "lng": 5.964674129892722
+        },
+        "southwest": {
+          "lat": 8.96733527010728,
+          "lng": 5.961974470107278
+        }
+      },
+      "formatted_address": "XX97+G88, 912211, Doko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9687763,5.9633392",
+      "google_place_id": "ChIJZX6EwfRlSRARG3ucwwXpWxQ"
+    }
+  },
+  {
+    "id": "337054",
+    "name": "VUNCHI TAKO",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "26/13/04/017",
+    "remark": "EXISTING PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9669636,
+      "longitude": 5.9640929,
+      "viewport": {
+        "northeast": {
+          "lat": 8.976313,
+          "lng": 5.972990999999999
+        },
+        "southwest": {
+          "lat": 8.960201999999999,
+          "lng": 5.960490999999999
+        }
+      },
+      "formatted_address": "912211, Vunchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9669636,5.9640929",
+      "google_place_id": "ChIJD0D9L_RlSRAREK3TdAHeZw0"
+    }
+  },
+  {
+    "id": "337055",
+    "name": "DADOFUGI",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "26/13/04/018",
+    "remark": "EXISTING PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0508341,
+      "longitude": 6.3126738,
+      "viewport": {
+        "northeast": {
+          "lat": 9.061853,
+          "lng": 6.3286812
+        },
+        "southwest": {
+          "lat": 9.0398149,
+          "lng": 6.296666399999999
+        }
+      },
+      "formatted_address": "Ndadoko 912104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0508341,6.3126738",
+      "google_place_id": "ChIJpanIfKxWSRARorRZFPEz-Uo"
+    }
+  },
+  {
+    "id": "337056",
+    "name": "KPAKAFU",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "26/13/04/019",
+    "remark": "EXISTING PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.5835995,
+      "longitude": 6.546439899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.585027329892723,
+          "lng": 6.547774279892721
+        },
+        "southwest": {
+          "lat": 9.58232767010728,
+          "lng": 6.545074620107277
+        }
+      },
+      "formatted_address": "City Gate Mx, 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5835995,6.546439899999999",
+      "google_place_id": "ChIJGzIklPpxTBARAf3HaBnrj0o"
+    }
+  },
+  {
+    "id": "337057",
+    "name": "BAKA",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "26/13/04/020",
+    "remark": "EXISTING PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.906730999999999,
+      "longitude": 6.005622,
+      "viewport": {
+        "northeast": {
+          "lat": 8.908050429892722,
+          "lng": 6.007091679892722
+        },
+        "southwest": {
+          "lat": 8.905350770107278,
+          "lng": 6.004392020107278
+        }
+      },
+      "formatted_address": "6FW8W244+M6X, Baka 912211, Doko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.906730999999999,6.005622",
+      "google_place_id": "ChIJD1ZXN4RpSRAR23RRd2HF9c8"
+    }
+  },
+  {
+    "id": "337058",
+    "name": "KUSOGI MAJIN DODO",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "26/13/04/021",
+    "remark": "NEW PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "337059",
+    "name": "EMI-LANGBAFU",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "26/13/04/022",
+    "remark": "NEW PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.207605,
+      "longitude": 5.912404,
+      "viewport": {
+        "northeast": {
+          "lat": 9.208939979892723,
+          "lng": 5.913760479892721
+        },
+        "southwest": {
+          "lat": 9.206240320107279,
+          "lng": 5.911060820107277
+        }
+      },
+      "formatted_address": "6FX76W56+2XR, EMIGBA, 912103, Tsonpata, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.207605,5.912404",
+      "google_place_id": "ChIJ-UIxjifZSxARIH8LgrgiIKY"
+    }
+  },
+  {
+    "id": "337060",
+    "name": "DAZHI- WORD",
+    "registration_area_id": "17121",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "26/13/04/023",
+    "remark": "NEW PU",
+    "ward_id": "17121",
+    "ward_name": "DOKO",
+    "local_government_id": "549",
+    "local_government_name": "LAVUN",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  }
+]

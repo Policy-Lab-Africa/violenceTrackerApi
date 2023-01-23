@@ -1,0 +1,169 @@
+[
+  {
+    "id": "36491",
+    "name": "PRIMARY SCHOOL,  ARCHIBONG TOWN",
+    "registration_area_id": "2006",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "09/04/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2006",
+    "ward_name": "ARCHIBONG",
+    "local_government_id": "172",
+    "local_government_name": "BAKASSI",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "36492",
+    "name": "PLAYGROUND,  EDIK ESUK I",
+    "registration_area_id": "2006",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "09/04/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2006",
+    "ward_name": "ARCHIBONG",
+    "local_government_id": "172",
+    "local_government_name": "BAKASSI",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "36493",
+    "name": "PLAYGROUND INE UTATAN I",
+    "registration_area_id": "2006",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "09/04/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2006",
+    "ward_name": "ARCHIBONG",
+    "local_government_id": "172",
+    "local_government_name": "BAKASSI",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
+  },
+  {
+    "id": "36494",
+    "name": "PLAYGROUND INE UTATAN II",
+    "registration_area_id": "2006",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "09/04/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2006",
+    "ward_name": "ARCHIBONG",
+    "local_government_id": "172",
+    "local_government_name": "BAKASSI",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
+  },
+  {
+    "id": "36495",
+    "name": "PLAYGROUND,  ARCHIBONG TOWN",
+    "registration_area_id": "2006",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "09/04/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2006",
+    "ward_name": "ARCHIBONG",
+    "local_government_id": "172",
+    "local_government_name": "BAKASSI",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.791805,
+      "longitude": 8.529474,
+      "viewport": {
+        "northeast": {
+          "lat": 4.793175879892721,
+          "lng": 8.530768479892723
+        },
+        "southwest": {
+          "lat": 4.790476220107277,
+          "lng": 8.52806882010728
+        }
+      },
+      "formatted_address": "87 IKANG TOWN BAKASSI# Bakasi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.791805,8.529474",
+      "google_place_id": "ChIJc0dLHzx3ZxARd7gbOcMzVyY"
+    }
+  },
+  {
+    "id": "36496",
+    "name": "PLAYGROUND,  EFE EYO",
+    "registration_area_id": "2006",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "09/04/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2006",
+    "ward_name": "ARCHIBONG",
+    "local_government_id": "172",
+    "local_government_name": "BAKASSI",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "36497",
+    "name": "PLAYGROUND EDIK ESUK II",
+    "registration_area_id": "2006",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "09/04/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2006",
+    "ward_name": "ARCHIBONG",
+    "local_government_id": "172",
+    "local_government_name": "BAKASSI",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  }
+]

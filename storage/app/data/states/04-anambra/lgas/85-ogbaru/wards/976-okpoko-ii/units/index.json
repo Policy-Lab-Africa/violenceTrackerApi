@@ -1,0 +1,683 @@
+[
+  {
+    "id": "16685",
+    "name": "NTUEKE HALL I",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "04/16/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "16686",
+    "name": "MIKADO HALL I",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "04/16/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "16687",
+    "name": "AKPARARA I",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "04/16/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1251646,
+      "longitude": 6.7814615,
+      "viewport": {
+        "northeast": {
+          "lat": 6.126472929892722,
+          "lng": 6.782826029892723
+        },
+        "southwest": {
+          "lat": 6.123773270107278,
+          "lng": 6.780126370107279
+        }
+      },
+      "formatted_address": "233 B, Obodo - Ukwu Road, Ogbaru Main Market, Near Bournvita House, Okpoko, Ogbaru, 434212, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1251646,6.7814615",
+      "google_place_id": "ChIJK603lvGSQxARH0i_uzXuyXc"
+    }
+  },
+  {
+    "id": "16688",
+    "name": "AKPARARA II",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "04/16/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1179796,
+      "longitude": 6.773491099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.1270148,
+          "lng": 6.7847455
+        },
+        "southwest": {
+          "lat": 6.104155599999999,
+          "lng": 6.7564747
+        }
+      },
+      "formatted_address": "Okpoko VI, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1179796,6.773491099999999",
+      "google_place_id": "ChIJm8f6_l2TQxARrzY_83le60I"
+    }
+  },
+  {
+    "id": "16689",
+    "name": "GALLANT I",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "04/16/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.132388199999999,
+      "longitude": 6.773803000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.133745029892721,
+          "lng": 6.775271329892722
+        },
+        "southwest": {
+          "lat": 6.131045370107278,
+          "lng": 6.772571670107278
+        }
+      },
+      "formatted_address": "119 Aka - Itiam Rd, State Low Cost Housi 520102, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.132388199999999,6.773803000000001",
+      "google_place_id": "ChIJY28Lw6qTQxARdf0MAtIz_x8"
+    }
+  },
+  {
+    "id": "16690",
+    "name": "CUSTOMS OFFICE I",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "04/16/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0305136,
+      "longitude": 6.8297424,
+      "viewport": {
+        "northeast": {
+          "lat": 6.031900129892721,
+          "lng": 6.831083079892722
+        },
+        "southwest": {
+          "lat": 6.029200470107277,
+          "lng": 6.828383420107278
+        }
+      },
+      "formatted_address": "Ibolo 435114, Oraifite, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0305136,6.8297424",
+      "google_place_id": "ChIJe_VFfHeVQxARnWNJbaSIgwU"
+    }
+  },
+  {
+    "id": "16691",
+    "name": "TRAVELLERS HOTEL I",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "04/16/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1378986,
+      "longitude": 6.791546299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.139213829892721,
+          "lng": 6.792761179892723
+        },
+        "southwest": {
+          "lat": 6.136514170107278,
+          "lng": 6.790061520107279
+        }
+      },
+      "formatted_address": "170 Oguta Rd, City Centre 434106, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1378986,6.791546299999999",
+      "google_place_id": "ChIJXwO0xAmTQxARLPbTp3HBR_Y"
+    }
+  },
+  {
+    "id": "16692",
+    "name": "TRAVELLERS HOTEL II",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "04/16/10/008",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1378986,
+      "longitude": 6.791546299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.139213829892721,
+          "lng": 6.792761179892723
+        },
+        "southwest": {
+          "lat": 6.136514170107278,
+          "lng": 6.790061520107279
+        }
+      },
+      "formatted_address": "170 Oguta Rd, City Centre 434106, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1378986,6.791546299999999",
+      "google_place_id": "ChIJXwO0xAmTQxARLPbTp3HBR_Y"
+    }
+  },
+  {
+    "id": "16693",
+    "name": "NTUEKE HALL II",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "04/16/10/009",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "16694",
+    "name": "MIKADO HALL II",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "04/16/10/010",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "16695",
+    "name": "GALLANT II",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "04/16/10/011",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.132388199999999,
+      "longitude": 6.773803000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.133745029892721,
+          "lng": 6.775271329892722
+        },
+        "southwest": {
+          "lat": 6.131045370107278,
+          "lng": 6.772571670107278
+        }
+      },
+      "formatted_address": "119 Aka - Itiam Rd, State Low Cost Housi 520102, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.132388199999999,6.773803000000001",
+      "google_place_id": "ChIJY28Lw6qTQxARdf0MAtIz_x8"
+    }
+  },
+  {
+    "id": "16696",
+    "name": "CUSTOMS OFFICE II",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "04/16/10/012",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0305136,
+      "longitude": 6.8297424,
+      "viewport": {
+        "northeast": {
+          "lat": 6.031900129892721,
+          "lng": 6.831083079892722
+        },
+        "southwest": {
+          "lat": 6.029200470107277,
+          "lng": 6.828383420107278
+        }
+      },
+      "formatted_address": "Ibolo 435114, Oraifite, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0305136,6.8297424",
+      "google_place_id": "ChIJe_VFfHeVQxARnWNJbaSIgwU"
+    }
+  },
+  {
+    "id": "16697",
+    "name": "CUSTOMS OFFICE III",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "04/16/10/013",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "16698",
+    "name": "MIKADO HALL III",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "04/16/10/014",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "16699",
+    "name": "MIKADO HALL IV",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "04/16/10/015",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "16700",
+    "name": "TRAVELLERS HOTEL III",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "04/16/10/016",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1378986,
+      "longitude": 6.791546299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.139213829892721,
+          "lng": 6.792761179892723
+        },
+        "southwest": {
+          "lat": 6.136514170107278,
+          "lng": 6.790061520107279
+        }
+      },
+      "formatted_address": "170 Oguta Rd, City Centre 434106, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1378986,6.791546299999999",
+      "google_place_id": "ChIJXwO0xAmTQxARLPbTp3HBR_Y"
+    }
+  },
+  {
+    "id": "16701",
+    "name": "TRAVELLERS HOTEL IV",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "04/16/10/017",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1378986,
+      "longitude": 6.791546299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.139213829892721,
+          "lng": 6.792761179892723
+        },
+        "southwest": {
+          "lat": 6.136514170107278,
+          "lng": 6.790061520107279
+        }
+      },
+      "formatted_address": "170 Oguta Rd, City Centre 434106, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1378986,6.791546299999999",
+      "google_place_id": "ChIJXwO0xAmTQxARLPbTp3HBR_Y"
+    }
+  },
+  {
+    "id": "16702",
+    "name": "NTUEKE HALL III",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "04/16/10/018",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "16703",
+    "name": "NTUEKE HALL IV",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "04/16/10/019",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "16704",
+    "name": "AKPARARA III",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "04/16/10/020",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.113877899999999,
+      "longitude": 6.785540399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.1243453,
+          "lng": 6.7880591
+        },
+        "southwest": {
+          "lat": 6.108721,
+          "lng": 6.7808131
+        }
+      },
+      "formatted_address": "Okpoko III, 431104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.113877899999999,6.785540399999999",
+      "google_place_id": "ChIJPSPfoXuTQxARSfCFLzg_LDo"
+    }
+  },
+  {
+    "id": "16705",
+    "name": "GALLANT III",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "04/16/10/021",
+    "remark": "EXISTING PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.132388199999999,
+      "longitude": 6.773803000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.133745029892721,
+          "lng": 6.775271329892722
+        },
+        "southwest": {
+          "lat": 6.131045370107278,
+          "lng": 6.772571670107278
+        }
+      },
+      "formatted_address": "119 Aka - Itiam Rd, State Low Cost Housi 520102, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.132388199999999,6.773803000000001",
+      "google_place_id": "ChIJY28Lw6qTQxARdf0MAtIz_x8"
+    }
+  },
+  {
+    "id": "16706",
+    "name": "EEDC OFFICE",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "04/16/10/022",
+    "remark": "NEW PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1280809,
+      "longitude": 6.7731574,
+      "viewport": {
+        "northeast": {
+          "lat": 6.129494929892722,
+          "lng": 6.774362479892722
+        },
+        "southwest": {
+          "lat": 6.126795270107278,
+          "lng": 6.771662820107278
+        }
+      },
+      "formatted_address": "1 Atani Rd, Bridgehead 431101, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1280809,6.7731574",
+      "google_place_id": "ChIJRQX00G6TQxARrwFvek3xfT8"
+    }
+  },
+  {
+    "id": "16707",
+    "name": "OPEN SPACE BY ELEPHANT HOUSE.",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "04/16/10/023",
+    "remark": "NEW PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.12646,
+      "longitude": 6.7850274,
+      "viewport": {
+        "northeast": {
+          "lat": 6.127700429892721,
+          "lng": 6.786413429892721
+        },
+        "southwest": {
+          "lat": 6.125000770107278,
+          "lng": 6.783713770107277
+        }
+      },
+      "formatted_address": "ELEPHANT HOUSE, 180B Obodo Ukwu Rd, Okpoko 431107, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.12646,6.7850274",
+      "google_place_id": "ChIJJz9OeWWTQxARGlw8gNxIwjM"
+    }
+  },
+  {
+    "id": "16708",
+    "name": "OPEN SPACE BY OGBUDIKE JUNCTION, OKPOKO",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "04/16/10/024",
+    "remark": "NEW PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1180875,
+      "longitude": 6.781062299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.119457479892722,
+          "lng": 6.782435579892722
+        },
+        "southwest": {
+          "lat": 6.116757820107278,
+          "lng": 6.779735920107278
+        }
+      },
+      "formatted_address": "4Q9J+7FF, Okwara Street, Okpoko Layout 431104, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1180875,6.781062299999999",
+      "google_place_id": "ChIJM_0G41STQxAR46rUkHaZhlo"
+    }
+  },
+  {
+    "id": "16709",
+    "name": "FIRE SERVICE",
+    "registration_area_id": "976",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "04/16/10/025",
+    "remark": "NEW PU",
+    "ward_id": "976",
+    "ward_name": "OKPOKO II",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1280053,
+      "longitude": 6.789297100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.129209329892721,
+          "lng": 6.790700479892722
+        },
+        "southwest": {
+          "lat": 6.126509670107278,
+          "lng": 6.788000820107278
+        }
+      },
+      "formatted_address": "430, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1280053,6.789297100000001",
+      "google_place_id": "ChIJefoTVHSTQxAR0p-L1SDeOX0"
+    }
+  }
+]

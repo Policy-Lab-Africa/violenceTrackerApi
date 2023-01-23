@@ -1,0 +1,1096 @@
+[
+  {
+    "id": "87695",
+    "name": "ALAWA I",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/16/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8609183,
+      "longitude": 9.002863399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86226212989272,
+          "lng": 9.004342079892721
+        },
+        "southwest": {
+          "lat": 11.85956247010728,
+          "lng": 9.001642420107277
+        }
+      },
+      "formatted_address": "7F3FV263+949 Arewa Kano, Alkala 713102, Gaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8609183,9.002863399999999",
+      "google_place_id": "ChIJR6oNcsgcrBERDBJ_EZPzCSY"
+    }
+  },
+  {
+    "id": "87696",
+    "name": "ALAWA II",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/16/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8580038,
+      "longitude": 8.9981185,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85935457989272,
+          "lng": 8.999372979892721
+        },
+        "southwest": {
+          "lat": 11.85665492010728,
+          "lng": 8.996673320107277
+        }
+      },
+      "formatted_address": "VX5X+665, 713102, Gaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8580038,8.9981185",
+      "google_place_id": "ChIJmyJp7LgcrBERx1a_rWGsq4o"
+    }
+  },
+  {
+    "id": "87697",
+    "name": "GORI NEAR W/HEAD HOUSE",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/16/03/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8424905,
+      "longitude": 8.9335377,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84384317989272,
+          "lng": 8.934886429892723
+        },
+        "southwest": {
+          "lat": 11.84114352010728,
+          "lng": 8.932186770107279
+        }
+      },
+      "formatted_address": "Gaya-Wudil Rd, 713102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8424905,8.9335377",
+      "google_place_id": "ChIJMQyNPHkdrBEREbN5WSTC_jw"
+    }
+  },
+  {
+    "id": "87698",
+    "name": "ISHIFAWA I - GAYA PRISON",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/16/03/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "87699",
+    "name": "ISHIFAWA II - GAYA PRISON",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/16/03/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "87700",
+    "name": "MAZA GOMA - WOMEN CENTRE",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/16/03/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9907644,
+      "longitude": 8.526874399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.99226732989272,
+          "lng": 8.528204579892721
+        },
+        "southwest": {
+          "lat": 11.98956767010728,
+          "lng": 8.525504920107277
+        }
+      },
+      "formatted_address": "XGRG+8P5, Kofar Nassarawa 700103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9907644,8.526874399999999",
+      "google_place_id": "ChIJr50fNv6ArhERtsP0IDwdVhY"
+    }
+  },
+  {
+    "id": "87701",
+    "name": "MAZAGOWA I- LEMO",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/16/03/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9735635,
+      "longitude": 8.5009445,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97489472989272,
+          "lng": 8.502313329892722
+        },
+        "southwest": {
+          "lat": 11.97219507010728,
+          "lng": 8.499613670107278
+        }
+      },
+      "formatted_address": "municipal Local government, Zango along zage, Kofar Wambai, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9735635,8.5009445",
+      "google_place_id": "ChIJa1YE0wiBrhERcfNmpr8bPY4"
+    }
+  },
+  {
+    "id": "87702",
+    "name": "MAZAGOWA II- LEMO",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "19/16/03/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8678288,
+      "longitude": 8.988895699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86916942989272,
+          "lng": 8.99007972989272
+        },
+        "southwest": {
+          "lat": 11.86646977010728,
+          "lng": 8.987380070107276
+        }
+      },
+      "formatted_address": "VX9Q+4HJ, 713102, Gaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8678288,8.988895699999999",
+      "google_place_id": "ChIJo6Z9uukcrBERtTJRYlYOiVk"
+    }
+  },
+  {
+    "id": "87703",
+    "name": "RINDA TOZO - RIDATOZO P. SCHOOL",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "19/16/03/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8577439,
+      "longitude": 9.011383,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85906092989272,
+          "lng": 9.01272737989272
+        },
+        "southwest": {
+          "lat": 11.85636127010727,
+          "lng": 9.010027720107276
+        }
+      },
+      "formatted_address": "7F3FV256+3HR kudu Kano, Rinda.tozo, 713102, Gaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8577439,9.011383",
+      "google_place_id": "ChIJB0WxRrUcrBERL8FCgpj8NHs"
+    }
+  },
+  {
+    "id": "87704",
+    "name": "SHARIFAWA I YAN GARKI",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "19/16/03/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "87705",
+    "name": "SHARIFAWA  II K/GIDAN KABIRU KAM",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "19/16/03/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "87706",
+    "name": "SAYA-SAYA DURIMIN SAYA SAYA",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "19/16/03/014",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "87707",
+    "name": "TANI GAYA DISPENSARY I",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "19/16/03/015",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 49.6021347,
+      "longitude": -119.6661406,
+      "viewport": {
+        "northeast": {
+          "lat": 49.60378917989273,
+          "lng": -119.6649911201073
+        },
+        "southwest": {
+          "lat": 49.60108952010729,
+          "lng": -119.6676907798928
+        }
+      },
+      "formatted_address": "7519 Prairie Valley Rd #9, Summerland, BC V0H 1Z4, Canada",
+      "google_map_url": "https://maps.google.com?q=49.6021347,-119.6661406",
+      "google_place_id": "ChIJTZGX4rdlglQRfz1PFvqA8ik"
+    }
+  },
+  {
+    "id": "87708",
+    "name": "TANI GAYA DISPENSARY II",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "19/16/03/016",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 24.7900512,
+      "longitude": 84.9821462,
+      "viewport": {
+        "northeast": {
+          "lat": 24.79133472989272,
+          "lng": 84.98348587989271
+        },
+        "southwest": {
+          "lat": 24.78863507010728,
+          "lng": 84.98078622010726
+        }
+      },
+      "formatted_address": "QXRJ+2V2, Ashok Nagar Main Rd, Ashok Nagar, Gaya, Bihar 823001, India",
+      "google_map_url": "https://maps.google.com?q=24.7900512,84.9821462",
+      "google_place_id": "ChIJiQPthAkr8zkRAkXDDym7PqI"
+    }
+  },
+  {
+    "id": "87709",
+    "name": "TANI GAYA DISPENSARY III",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "19/16/03/017",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 24.7900512,
+      "longitude": 84.9821462,
+      "viewport": {
+        "northeast": {
+          "lat": 24.79133472989272,
+          "lng": 84.98348587989271
+        },
+        "southwest": {
+          "lat": 24.78863507010728,
+          "lng": 84.98078622010726
+        }
+      },
+      "formatted_address": "QXRJ+2V2, Ashok Nagar Main Rd, Ashok Nagar, Gaya, Bihar 823001, India",
+      "google_map_url": "https://maps.google.com?q=24.7900512,84.9821462",
+      "google_place_id": "ChIJiQPthAkr8zkRAkXDDym7PqI"
+    }
+  },
+  {
+    "id": "87710",
+    "name": "AMINU SULAIMAN DISPENSARY",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "19/16/03/018",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9664322,
+      "longitude": 8.5487286,
+      "viewport": {
+        "northeast": {
+          "lat": 11.96771277989272,
+          "lng": 8.55006672989272
+        },
+        "southwest": {
+          "lat": 11.96501312010728,
+          "lng": 8.547367070107276
+        }
+      },
+      "formatted_address": "Ungwa Uku 700101, &nbsp, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9664322,8.5487286",
+      "google_place_id": "ChIJfXJum-qBrhER2xaFldJRvU0"
+    }
+  },
+  {
+    "id": "87711",
+    "name": "AMINU SULAIMAN DISPENSARY",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "19/16/03/019",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9664322,
+      "longitude": 8.5487286,
+      "viewport": {
+        "northeast": {
+          "lat": 11.96771277989272,
+          "lng": 8.55006672989272
+        },
+        "southwest": {
+          "lat": 11.96501312010728,
+          "lng": 8.547367070107276
+        }
+      },
+      "formatted_address": "Ungwa Uku 700101, &nbsp, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9664322,8.5487286",
+      "google_place_id": "ChIJfXJum-qBrhER2xaFldJRvU0"
+    }
+  },
+  {
+    "id": "87712",
+    "name": "UNGUWAR KAYA - GANDU PRI. SCHOOL",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "19/16/03/020",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8520769,
+      "longitude": 9.0063312,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85351012989272,
+          "lng": 9.007811629892723
+        },
+        "southwest": {
+          "lat": 11.85081047010728,
+          "lng": 9.00511197010728
+        }
+      },
+      "formatted_address": "7F3FV224+RGP Bagoge Gaya.kudu Kano, Gaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8520769,9.0063312",
+      "google_place_id": "ChIJ47kyfrEcrBERQk3Avuh5S0I"
+    }
+  },
+  {
+    "id": "87713",
+    "name": "UNGUWAR KOFA - DANDALIN U/KOFA I",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "19/16/03/021",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "87714",
+    "name": "UNGUWAR KOFA - DANDALIN U/KOFA II",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "19/16/03/022",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "87715",
+    "name": "UNGUWAR MAHAUKACI - BARIKI I",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "19/16/03/023",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "87716",
+    "name": "UNGUWAR MAHAUKACI - BARIKI II",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "19/16/03/024",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "87717",
+    "name": "UNGUWAR MAHAUKACI HASUMIYA",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "19/16/03/025",
+    "remark": "EXISTING PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.862577,
+      "longitude": 8.9990801,
+      "viewport": {
+        "northeast": {
+          "lat": 11.8710351,
+          "lng": 9.015768999999999
+        },
+        "southwest": {
+          "lat": 11.85048,
+          "lng": 8.982157899999999
+        }
+      },
+      "formatted_address": "713102, Gaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.862577,8.9990801",
+      "google_place_id": "ChIJJ8famrYcrBERNUc3WJ_L6jw"
+    }
+  },
+  {
+    "id": "87718",
+    "name": "ALAWA I",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "19/16/03/026",
+    "remark": "NEW PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8609183,
+      "longitude": 9.002863399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86226212989272,
+          "lng": 9.004342079892721
+        },
+        "southwest": {
+          "lat": 11.85956247010728,
+          "lng": 9.001642420107277
+        }
+      },
+      "formatted_address": "7F3FV263+949 Arewa Kano, Alkala 713102, Gaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8609183,9.002863399999999",
+      "google_place_id": "ChIJR6oNcsgcrBERDBJ_EZPzCSY"
+    }
+  },
+  {
+    "id": "87719",
+    "name": "ALAWA II",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "19/16/03/027",
+    "remark": "NEW PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8580038,
+      "longitude": 8.9981185,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85935457989272,
+          "lng": 8.999372979892721
+        },
+        "southwest": {
+          "lat": 11.85665492010728,
+          "lng": 8.996673320107277
+        }
+      },
+      "formatted_address": "VX5X+665, 713102, Gaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8580038,8.9981185",
+      "google_place_id": "ChIJmyJp7LgcrBERx1a_rWGsq4o"
+    }
+  },
+  {
+    "id": "87720",
+    "name": "MAZA GOMA",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "19/16/03/028",
+    "remark": "NEW PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8574741,
+      "longitude": 9.0011832,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85882697989272,
+          "lng": 9.002513629892722
+        },
+        "southwest": {
+          "lat": 11.85612732010728,
+          "lng": 8.999813970107278
+        }
+      },
+      "formatted_address": "7F3FV242+XFM Mazagoma Gaya kudu Kano, Gaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8574741,9.0011832",
+      "google_place_id": "ChIJv98ePHgdrBER-fRcSlK0L0k"
+    }
+  },
+  {
+    "id": "87721",
+    "name": "MAZA GOMA LEMOM TSAMIYA",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "19/16/03/029",
+    "remark": "NEW PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9735635,
+      "longitude": 8.5009445,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97489472989272,
+          "lng": 8.502313329892722
+        },
+        "southwest": {
+          "lat": 11.97219507010728,
+          "lng": 8.499613670107278
+        }
+      },
+      "formatted_address": "municipal Local government, Zango along zage, Kofar Wambai, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9735635,8.5009445",
+      "google_place_id": "ChIJa1YE0wiBrhERcfNmpr8bPY4"
+    }
+  },
+  {
+    "id": "87722",
+    "name": "GOVT.SEC SCH. GANDU BAGOGE I",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "19/16/03/030",
+    "remark": "NEW PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8516565,
+      "longitude": 9.0066018,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85311287989272,
+          "lng": 9.008085579892722
+        },
+        "southwest": {
+          "lat": 11.85041322010728,
+          "lng": 9.005385920107278
+        }
+      },
+      "formatted_address": "V224+MJ9, Gss gaya road, Gandu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8516565,9.0066018",
+      "google_place_id": "ChIJ46pycLEcrBERd6uRnMG3Fck"
+    }
+  },
+  {
+    "id": "87723",
+    "name": "GOVT.SEC SCH. GANDU BAGOGE II",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "19/16/03/031",
+    "remark": "NEW PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8516565,
+      "longitude": 9.0066018,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85311287989272,
+          "lng": 9.008085579892722
+        },
+        "southwest": {
+          "lat": 11.85041322010728,
+          "lng": 9.005385920107278
+        }
+      },
+      "formatted_address": "V224+MJ9, Gss gaya road, Gandu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8516565,9.0066018",
+      "google_place_id": "ChIJ46pycLEcrBERd6uRnMG3Fck"
+    }
+  },
+  {
+    "id": "87724",
+    "name": "UNGUWAR KAYA",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "19/16/03/032",
+    "remark": "NEW PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8575227,
+      "longitude": 9.001209,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85887787989272,
+          "lng": 9.002524529892723
+        },
+        "southwest": {
+          "lat": 11.85617822010728,
+          "lng": 8.999824870107279
+        }
+      },
+      "formatted_address": "7F3FV252+2F4 Unguwar.kaya Gaya.kudu Kano, Gaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8575227,9.001209",
+      "google_place_id": "ChIJY4ycPnUdrBERH6KXDwGfVBg"
+    }
+  },
+  {
+    "id": "87725",
+    "name": "TANI DISPENSARY",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "19/16/03/033",
+    "remark": "NEW PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 49.6021347,
+      "longitude": -119.6661406,
+      "viewport": {
+        "northeast": {
+          "lat": 49.60378917989273,
+          "lng": -119.6649911201073
+        },
+        "southwest": {
+          "lat": 49.60108952010729,
+          "lng": -119.6676907798928
+        }
+      },
+      "formatted_address": "7519 Prairie Valley Rd #9, Summerland, BC V0H 1Z4, Canada",
+      "google_map_url": "https://maps.google.com?q=49.6021347,-119.6661406",
+      "google_place_id": "ChIJTZGX4rdlglQRfz1PFvqA8ik"
+    }
+  },
+  {
+    "id": "87726",
+    "name": "SHARIFAWA II",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "19/16/03/034",
+    "remark": "NEW PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8592863,
+      "longitude": 9.0027344,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86063182989272,
+          "lng": 9.004031079892721
+        },
+        "southwest": {
+          "lat": 11.85793217010728,
+          "lng": 9.001331420107277
+        }
+      },
+      "formatted_address": "7F3FV253+P38 Sharifawa Gaya.kudu Kano, Gaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8592863,9.0027344",
+      "google_place_id": "ChIJgV4xatQdrBERFVppLdtZ0Ts"
+    }
+  },
+  {
+    "id": "87727",
+    "name": "SHARIFAWA I YAN GARKI",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "19/16/03/035",
+    "remark": "NEW PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "87728",
+    "name": "RINDA TOZO",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "036",
+    "units": "036",
+    "delimitation": "19/16/03/036",
+    "remark": "NEW PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8577439,
+      "longitude": 9.011383,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85906092989272,
+          "lng": 9.01272737989272
+        },
+        "southwest": {
+          "lat": 11.85636127010727,
+          "lng": 9.010027720107276
+        }
+      },
+      "formatted_address": "7F3FV256+3HR kudu Kano, Rinda.tozo, 713102, Gaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8577439,9.011383",
+      "google_place_id": "ChIJB0WxRrUcrBERL8FCgpj8NHs"
+    }
+  },
+  {
+    "id": "87729",
+    "name": "GORI",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "037",
+    "units": "037",
+    "delimitation": "19/16/03/037",
+    "remark": "NEW PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8678288,
+      "longitude": 8.988895699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86916942989272,
+          "lng": 8.99007972989272
+        },
+        "southwest": {
+          "lat": 11.86646977010728,
+          "lng": 8.987380070107276
+        }
+      },
+      "formatted_address": "VX9Q+4HJ, 713102, Gaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8678288,8.988895699999999",
+      "google_place_id": "ChIJo6Z9uukcrBERtTJRYlYOiVk"
+    }
+  },
+  {
+    "id": "87730",
+    "name": "SHARIFAWA II",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "038",
+    "units": "038",
+    "delimitation": "19/16/03/038",
+    "remark": "NEW PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8592863,
+      "longitude": 9.0027344,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86063182989272,
+          "lng": 9.004031079892721
+        },
+        "southwest": {
+          "lat": 11.85793217010728,
+          "lng": 9.001331420107277
+        }
+      },
+      "formatted_address": "7F3FV253+P38 Sharifawa Gaya.kudu Kano, Gaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8592863,9.0027344",
+      "google_place_id": "ChIJgV4xatQdrBERFVppLdtZ0Ts"
+    }
+  },
+  {
+    "id": "87731",
+    "name": "RINDA TOZO",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "040",
+    "units": "040",
+    "delimitation": "19/16/03/040",
+    "remark": "NEW PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8577439,
+      "longitude": 9.011383,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85906092989272,
+          "lng": 9.01272737989272
+        },
+        "southwest": {
+          "lat": 11.85636127010727,
+          "lng": 9.010027720107276
+        }
+      },
+      "formatted_address": "7F3FV256+3HR kudu Kano, Rinda.tozo, 713102, Gaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8577439,9.011383",
+      "google_place_id": "ChIJB0WxRrUcrBERL8FCgpj8NHs"
+    }
+  },
+  {
+    "id": "87732",
+    "name": "GORI",
+    "registration_area_id": "4511",
+    "precise_location": null,
+    "abbreviation": "041",
+    "units": "041",
+    "delimitation": "19/16/03/041",
+    "remark": "NEW PU",
+    "ward_id": "4511",
+    "ward_name": "GAYA KUDU",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8678288,
+      "longitude": 8.988895699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86916942989272,
+          "lng": 8.99007972989272
+        },
+        "southwest": {
+          "lat": 11.86646977010728,
+          "lng": 8.987380070107276
+        }
+      },
+      "formatted_address": "VX9Q+4HJ, 713102, Gaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8678288,8.988895699999999",
+      "google_place_id": "ChIJo6Z9uukcrBERtTJRYlYOiVk"
+    }
+  }
+]

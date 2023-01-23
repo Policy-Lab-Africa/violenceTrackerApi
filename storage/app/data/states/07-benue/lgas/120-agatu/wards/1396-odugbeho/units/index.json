@@ -1,0 +1,152 @@
+[
+  {
+    "id": "26057",
+    "name": "ODUGBEHO PRI. SCH.",
+    "registration_area_id": "1396",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "07/02/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1396",
+    "ward_name": "ODUGBEHO",
+    "local_government_id": "120",
+    "local_government_name": "AGATU",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "26058",
+    "name": "ODUGBEHO MKT. SQ.",
+    "registration_area_id": "1396",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "07/02/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1396",
+    "ward_name": "ODUGBEHO",
+    "local_government_id": "120",
+    "local_government_name": "AGATU",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 8.033249999999999,
+      "longitude": 7.8014,
+      "viewport": {
+        "northeast": {
+          "lat": 8.034751129892724,
+          "lng": 7.804192999999997
+        },
+        "southwest": {
+          "lat": 8.03205147010728,
+          "lng": 7.800469000000001
+        }
+      },
+      "formatted_address": "NO 5 OGWU STREET ODUGBEHO AGATU LOCAL GOVT AREA BE#NUE STATE, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.033249999999999,7.8014",
+      "google_place_id": "ChIJhWzAGukfUBARkFB_VH7W4AM"
+    }
+  },
+  {
+    "id": "26059",
+    "name": "UGBOJU PRI. SCH.",
+    "registration_area_id": "1396",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "07/02/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1396",
+    "ward_name": "ODUGBEHO",
+    "local_government_id": "120",
+    "local_government_name": "AGATU",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.846024399999999,
+      "longitude": 8.0911241,
+      "viewport": {
+        "northeast": {
+          "lat": 7.847340929892722,
+          "lng": 8.092671379892721
+        },
+        "southwest": {
+          "lat": 7.844641270107278,
+          "lng": 8.089971720107277
+        }
+      },
+      "formatted_address": "6FVCR3WR+CF3, 972108, Akoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.846024399999999,8.0911241",
+      "google_place_id": "ChIJwQxABpQNUBARrOJNmCJ7dAI"
+    }
+  },
+  {
+    "id": "26060",
+    "name": "ODEJO PLAY GROUND",
+    "registration_area_id": "1396",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "07/02/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1396",
+    "ward_name": "ODUGBEHO",
+    "local_government_id": "120",
+    "local_government_name": "AGATU",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "26061",
+    "name": "ODUGBEHO PRIMARY SCHOOL - OLEGOBIDU",
+    "registration_area_id": "1396",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "07/02/04/005",
+    "remark": "NEW PU",
+    "ward_id": "1396",
+    "ward_name": "ODUGBEHO",
+    "local_government_id": "120",
+    "local_government_name": "AGATU",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.94189,
+      "longitude": 7.730807,
+      "viewport": {
+        "northeast": {
+          "lat": 7.943256579892721,
+          "lng": 7.732444229892721
+        },
+        "southwest": {
+          "lat": 7.940556920107277,
+          "lng": 7.729744570107277
+        }
+      },
+      "formatted_address": "No. 1 Abuja street, 972108, OGWULE, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.94189,7.730807",
+      "google_place_id": "ChIJX428E5bjTxARsMLPQfBOjjA"
+    }
+  },
+  {
+    "id": "26062",
+    "name": "ODUGBEHO MARKET SQUARE - SABON GARI",
+    "registration_area_id": "1396",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "07/02/04/006",
+    "remark": "NEW PU",
+    "ward_id": "1396",
+    "ward_name": "ODUGBEHO",
+    "local_government_id": "120",
+    "local_government_name": "AGATU",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  }
+]

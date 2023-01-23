@@ -1,0 +1,1061 @@
+[
+  {
+    "id": "90067",
+    "name": "ALGAITA",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/24/14/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0128556,
+      "longitude": 8.539336,
+      "viewport": {
+        "northeast": {
+          "lat": 12.01420142989272,
+          "lng": 8.540833179892724
+        },
+        "southwest": {
+          "lat": 12.01150177010728,
+          "lng": 8.53813352010728
+        }
+      },
+      "formatted_address": "By market, Mr6, Ibo Rd, Fagge, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0128556,8.539336",
+      "google_place_id": "ChIJHamHPwGBrhER4RJvD6qs2X0"
+    }
+  },
+  {
+    "id": "90068",
+    "name": "AREA COURT I",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/24/14/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 39.3996965,
+      "longitude": -84.562807,
+      "viewport": {
+        "northeast": {
+          "lat": 39.40115072989273,
+          "lng": -84.56183897010726
+        },
+        "southwest": {
+          "lat": 39.39845107010728,
+          "lng": -84.56453862989271
+        }
+      },
+      "formatted_address": "101 High St, Hamilton, OH 45011, United States",
+      "google_map_url": "https://maps.google.com?q=39.3996965,-84.562807",
+      "google_place_id": "ChIJhwUuPlVGQIgRxc-Q7lcK2Ro"
+    }
+  },
+  {
+    "id": "90069",
+    "name": "AREA COURT II",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/24/14/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 43.5473033,
+      "longitude": -80.24799159999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.54870537989272,
+          "lng": -80.24660652010729
+        },
+        "southwest": {
+          "lat": 43.54600572010727,
+          "lng": -80.24930617989273
+        }
+      },
+      "formatted_address": "74 Woolwich St, Guelph, ON N1H 3T9, Canada",
+      "google_map_url": "https://maps.google.com?q=43.5473033,-80.24799159999999",
+      "google_place_id": "ChIJvev96umaK4gRasezJ4rqTz4"
+    }
+  },
+  {
+    "id": "90070",
+    "name": "AREA COURT III",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/24/14/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "90071",
+    "name": "KAFIN MAIYAKI I",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/24/14/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4528556,
+      "longitude": 8.1969387,
+      "viewport": {
+        "northeast": {
+          "lat": 11.45426667989272,
+          "lng": 8.198203779892722
+        },
+        "southwest": {
+          "lat": 11.45156702010727,
+          "lng": 8.195504120107278
+        }
+      },
+      "formatted_address": "7F3CF53W+4QW Yalwa Kano, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4528556,8.1969387",
+      "google_place_id": "ChIJt8TiTTO9rRERRqMoHosf0bs"
+    }
+  },
+  {
+    "id": "90072",
+    "name": "KAFIN MAIYAKI II",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/24/14/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4528556,
+      "longitude": 8.1969387,
+      "viewport": {
+        "northeast": {
+          "lat": 11.45426667989272,
+          "lng": 8.198203779892722
+        },
+        "southwest": {
+          "lat": 11.45156702010727,
+          "lng": 8.195504120107278
+        }
+      },
+      "formatted_address": "7F3CF53W+4QW Yalwa Kano, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4528556,8.1969387",
+      "google_place_id": "ChIJt8TiTTO9rRERRqMoHosf0bs"
+    }
+  },
+  {
+    "id": "90073",
+    "name": "KAFIN MAIYAKI III",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/24/14/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4528556,
+      "longitude": 8.1969387,
+      "viewport": {
+        "northeast": {
+          "lat": 11.45426667989272,
+          "lng": 8.198203779892722
+        },
+        "southwest": {
+          "lat": 11.45156702010727,
+          "lng": 8.195504120107278
+        }
+      },
+      "formatted_address": "7F3CF53W+4QW Yalwa Kano, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4528556,8.1969387",
+      "google_place_id": "ChIJt8TiTTO9rRERRqMoHosf0bs"
+    }
+  },
+  {
+    "id": "90074",
+    "name": "KAFIN MAIYAKI CIKIN GARI I",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/24/14/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4429307,
+      "longitude": 8.1847833,
+      "viewport": {
+        "northeast": {
+          "lat": 11.44434137989272,
+          "lng": 8.186065729892722
+        },
+        "southwest": {
+          "lat": 11.44164172010728,
+          "lng": 8.183366070107278
+        }
+      },
+      "formatted_address": "7F3CC5VM+5WF, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4429307,8.1847833",
+      "google_place_id": "ChIJ-wVU6iu9rRERo-8uxKSl_EE"
+    }
+  },
+  {
+    "id": "90075",
+    "name": "KAFIN MAIYAKI CIKIN GARI II",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/24/14/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4429307,
+      "longitude": 8.1847833,
+      "viewport": {
+        "northeast": {
+          "lat": 11.44434137989272,
+          "lng": 8.186065729892722
+        },
+        "southwest": {
+          "lat": 11.44164172010728,
+          "lng": 8.183366070107278
+        }
+      },
+      "formatted_address": "7F3CC5VM+5WF, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4429307,8.1847833",
+      "google_place_id": "ChIJ-wVU6iu9rRERo-8uxKSl_EE"
+    }
+  },
+  {
+    "id": "90076",
+    "name": "KAFIN MAIYAKI MAGISTRATE I",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "19/24/14/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4587855,
+      "longitude": 8.197664999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.46014372989272,
+          "lng": 8.19903302989272
+        },
+        "southwest": {
+          "lat": 11.45744407010728,
+          "lng": 8.196333370107276
+        }
+      },
+      "formatted_address": "7F3CF55X+G37 K/maiyaki Yelwa Kano, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4587855,8.197664999999999",
+      "google_place_id": "ChIJ03RO0Y69rRERiTgB99mPB3A"
+    }
+  },
+  {
+    "id": "90077",
+    "name": "KAFIN MAIYAKI MAGISTRATE II",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "19/24/14/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "90078",
+    "name": "KAFIN MAIYAKI MAGISTRATE III",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "19/24/14/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "90079",
+    "name": "KAFIN MAIYAKI CLINIC I",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "19/24/14/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4429307,
+      "longitude": 8.1847833,
+      "viewport": {
+        "northeast": {
+          "lat": 11.44434137989272,
+          "lng": 8.186065729892722
+        },
+        "southwest": {
+          "lat": 11.44164172010728,
+          "lng": 8.183366070107278
+        }
+      },
+      "formatted_address": "7F3CC5VM+5WF, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4429307,8.1847833",
+      "google_place_id": "ChIJ-wVU6iu9rRERo-8uxKSl_EE"
+    }
+  },
+  {
+    "id": "90080",
+    "name": "KAFIN MAIYAKI CLINIC II",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "19/24/14/014",
+    "remark": "EXISTING PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4429307,
+      "longitude": 8.1847833,
+      "viewport": {
+        "northeast": {
+          "lat": 11.44434137989272,
+          "lng": 8.186065729892722
+        },
+        "southwest": {
+          "lat": 11.44164172010728,
+          "lng": 8.183366070107278
+        }
+      },
+      "formatted_address": "7F3CC5VM+5WF, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4429307,8.1847833",
+      "google_place_id": "ChIJ-wVU6iu9rRERo-8uxKSl_EE"
+    }
+  },
+  {
+    "id": "90081",
+    "name": "KAYARDA I",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "19/24/14/015",
+    "remark": "EXISTING PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0067208,
+      "longitude": 8.4993394,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0115702,
+          "lng": 8.5049722
+        },
+        "southwest": {
+          "lat": 12.0010919,
+          "lng": 8.494513399999999
+        }
+      },
+      "formatted_address": "Yalwa, 700251, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0067208,8.4993394",
+      "google_place_id": "ChIJy07xu5aArhERsvlc8HXEasY"
+    }
+  },
+  {
+    "id": "90082",
+    "name": "KAYARDA II",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "19/24/14/016",
+    "remark": "EXISTING PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0128556,
+      "longitude": 8.539336,
+      "viewport": {
+        "northeast": {
+          "lat": 12.01420142989272,
+          "lng": 8.540833179892724
+        },
+        "southwest": {
+          "lat": 12.01150177010728,
+          "lng": 8.53813352010728
+        }
+      },
+      "formatted_address": "By market, Mr6, Ibo Rd, Fagge, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0128556,8.539336",
+      "google_place_id": "ChIJHamHPwGBrhER4RJvD6qs2X0"
+    }
+  },
+  {
+    "id": "90083",
+    "name": "TUDU DOKA",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "19/24/14/017",
+    "remark": "EXISTING PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "90084",
+    "name": "YALWA CIKIN GARI I",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "19/24/14/018",
+    "remark": "EXISTING PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4852437,
+      "longitude": 8.185176499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.48660412989272,
+          "lng": 8.18652037989272
+        },
+        "southwest": {
+          "lat": 11.48390447010728,
+          "lng": 8.183820720107276
+        }
+      },
+      "formatted_address": "7F3CF5PP+433 Yalwan Paki cikin Gari Yalwa Kano Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4852437,8.185176499999999",
+      "google_place_id": "ChIJ72L7a7q9rRERwZ0UjJfYiXo"
+    }
+  },
+  {
+    "id": "90085",
+    "name": "YALWA CIKIN GARI II",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "19/24/14/019",
+    "remark": "EXISTING PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4852437,
+      "longitude": 8.185176499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.48660412989272,
+          "lng": 8.18652037989272
+        },
+        "southwest": {
+          "lat": 11.48390447010728,
+          "lng": 8.183820720107276
+        }
+      },
+      "formatted_address": "7F3CF5PP+433 Yalwan Paki cikin Gari Yalwa Kano Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4852437,8.185176499999999",
+      "google_place_id": "ChIJ72L7a7q9rRERwZ0UjJfYiXo"
+    }
+  },
+  {
+    "id": "90086",
+    "name": "YALWA CIKIN GARI III",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "19/24/14/020",
+    "remark": "EXISTING PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4852437,
+      "longitude": 8.185176499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.48660412989272,
+          "lng": 8.18652037989272
+        },
+        "southwest": {
+          "lat": 11.48390447010728,
+          "lng": 8.183820720107276
+        }
+      },
+      "formatted_address": "7F3CF5PP+433 Yalwan Paki cikin Gari Yalwa Kano Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4852437,8.185176499999999",
+      "google_place_id": "ChIJ72L7a7q9rRERwZ0UjJfYiXo"
+    }
+  },
+  {
+    "id": "90087",
+    "name": "KARIYA PRI SCH",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "19/24/14/021",
+    "remark": "NEW PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9785458,
+      "longitude": 8.4990714,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97989282989272,
+          "lng": 8.500421829892721
+        },
+        "southwest": {
+          "lat": 11.97719317010728,
+          "lng": 8.497722170107277
+        }
+      },
+      "formatted_address": "XFHX+CJ8, Planners St, Kofar Gadokaya 700103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9785458,8.4990714",
+      "google_place_id": "ChIJrTJqvmWArhERRRyuTDI64CY"
+    }
+  },
+  {
+    "id": "90088",
+    "name": "SABUWAR ABUJA I",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "19/24/14/022",
+    "remark": "NEW PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4534877,
+      "longitude": 8.1948738,
+      "viewport": {
+        "northeast": {
+          "lat": 11.45487692989272,
+          "lng": 8.196206679892722
+        },
+        "southwest": {
+          "lat": 11.45217727010728,
+          "lng": 8.193507020107278
+        }
+      },
+      "formatted_address": "7F3CF53V+CWQ Kafin Maiyaki Yalwa Kano Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4534877,8.1948738",
+      "google_place_id": "ChIJO9u3YnS9rRERdippgpELtO8"
+    }
+  },
+  {
+    "id": "90089",
+    "name": "SABUWAR ABUJA II",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "19/24/14/023",
+    "remark": "NEW PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4534877,
+      "longitude": 8.1948738,
+      "viewport": {
+        "northeast": {
+          "lat": 11.45487692989272,
+          "lng": 8.196206679892722
+        },
+        "southwest": {
+          "lat": 11.45217727010728,
+          "lng": 8.193507020107278
+        }
+      },
+      "formatted_address": "7F3CF53V+CWQ Kafin Maiyaki Yalwa Kano Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4534877,8.1948738",
+      "google_place_id": "ChIJO9u3YnS9rRERdippgpELtO8"
+    }
+  },
+  {
+    "id": "90090",
+    "name": "G G A S S KAFIN MAIYAKI III",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "19/24/14/024",
+    "remark": "NEW PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4528556,
+      "longitude": 8.1969387,
+      "viewport": {
+        "northeast": {
+          "lat": 11.45426667989272,
+          "lng": 8.198203779892722
+        },
+        "southwest": {
+          "lat": 11.45156702010727,
+          "lng": 8.195504120107278
+        }
+      },
+      "formatted_address": "7F3CF53W+4QW Yalwa Kano, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4528556,8.1969387",
+      "google_place_id": "ChIJt8TiTTO9rRERRqMoHosf0bs"
+    }
+  },
+  {
+    "id": "90091",
+    "name": "G G A S S KAFIN MAIYAKI IV",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "19/24/14/025",
+    "remark": "NEW PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4429307,
+      "longitude": 8.1847833,
+      "viewport": {
+        "northeast": {
+          "lat": 11.44434137989272,
+          "lng": 8.186065729892722
+        },
+        "southwest": {
+          "lat": 11.44164172010728,
+          "lng": 8.183366070107278
+        }
+      },
+      "formatted_address": "7F3CC5VM+5WF, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4429307,8.1847833",
+      "google_place_id": "ChIJ-wVU6iu9rRERo-8uxKSl_EE"
+    }
+  },
+  {
+    "id": "90092",
+    "name": "G G A S S KAFIN MAI YAKI V",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "19/24/14/026",
+    "remark": "NEW PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "90093",
+    "name": "KAFIN MAI YAKI V",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "19/24/14/027",
+    "remark": "NEW PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "90094",
+    "name": "KAFIN MAI YAKI IV",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "19/24/14/028",
+    "remark": "NEW PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4528556,
+      "longitude": 8.1969387,
+      "viewport": {
+        "northeast": {
+          "lat": 11.45426667989272,
+          "lng": 8.198203779892722
+        },
+        "southwest": {
+          "lat": 11.45156702010727,
+          "lng": 8.195504120107278
+        }
+      },
+      "formatted_address": "7F3CF53W+4QW Yalwa Kano, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4528556,8.1969387",
+      "google_place_id": "ChIJt8TiTTO9rRERRqMoHosf0bs"
+    }
+  },
+  {
+    "id": "90095",
+    "name": "KAFIN MAI YAKI CIKIN GARI III",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "19/24/14/029",
+    "remark": "NEW PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4429307,
+      "longitude": 8.1847833,
+      "viewport": {
+        "northeast": {
+          "lat": 11.44434137989272,
+          "lng": 8.186065729892722
+        },
+        "southwest": {
+          "lat": 11.44164172010728,
+          "lng": 8.183366070107278
+        }
+      },
+      "formatted_address": "7F3CC5VM+5WF, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4429307,8.1847833",
+      "google_place_id": "ChIJ-wVU6iu9rRERo-8uxKSl_EE"
+    }
+  },
+  {
+    "id": "90096",
+    "name": "KAFIN MAI YAKI CIKIN GARI IV",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "19/24/14/030",
+    "remark": "NEW PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4587855,
+      "longitude": 8.197664999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.46014372989272,
+          "lng": 8.19903302989272
+        },
+        "southwest": {
+          "lat": 11.45744407010728,
+          "lng": 8.196333370107276
+        }
+      },
+      "formatted_address": "7F3CF55X+G37 K/maiyaki Yelwa Kano, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4587855,8.197664999999999",
+      "google_place_id": "ChIJ03RO0Y69rRERiTgB99mPB3A"
+    }
+  },
+  {
+    "id": "90097",
+    "name": "UNGUWAR RIMI PRI SCH I",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "19/24/14/031",
+    "remark": "NEW PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4647935,
+      "longitude": 8.2032869,
+      "viewport": {
+        "northeast": {
+          "lat": 11.46615242989272,
+          "lng": 8.204633479892722
+        },
+        "southwest": {
+          "lat": 11.46345277010728,
+          "lng": 8.201933820107278
+        }
+      },
+      "formatted_address": "7F3CF673+X75 Kafin Mai-Yaki Yalwa Kano Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4647935,8.2032869",
+      "google_place_id": "ChIJ6yDSLuq9rRERzqS2Oo-eYuo"
+    }
+  },
+  {
+    "id": "90098",
+    "name": "UNGUWAR RIMI PRI SCH II",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "19/24/14/032",
+    "remark": "NEW PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4647935,
+      "longitude": 8.2032869,
+      "viewport": {
+        "northeast": {
+          "lat": 11.46615242989272,
+          "lng": 8.204633479892722
+        },
+        "southwest": {
+          "lat": 11.46345277010728,
+          "lng": 8.201933820107278
+        }
+      },
+      "formatted_address": "7F3CF673+X75 Kafin Mai-Yaki Yalwa Kano Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4647935,8.2032869",
+      "google_place_id": "ChIJ6yDSLuq9rRERzqS2Oo-eYuo"
+    }
+  },
+  {
+    "id": "90099",
+    "name": "UNGUWAR RIMI PRI SCH III",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "19/24/14/033",
+    "remark": "NEW PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4647935,
+      "longitude": 8.2032869,
+      "viewport": {
+        "northeast": {
+          "lat": 11.46615242989272,
+          "lng": 8.204633479892722
+        },
+        "southwest": {
+          "lat": 11.46345277010728,
+          "lng": 8.201933820107278
+        }
+      },
+      "formatted_address": "7F3CF673+X75 Kafin Mai-Yaki Yalwa Kano Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4647935,8.2032869",
+      "google_place_id": "ChIJ6yDSLuq9rRERzqS2Oo-eYuo"
+    }
+  },
+  {
+    "id": "90100",
+    "name": "G G A S S KAFIN MAIYAKI I",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "19/24/14/034",
+    "remark": "NEW PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4528556,
+      "longitude": 8.1969387,
+      "viewport": {
+        "northeast": {
+          "lat": 11.45426667989272,
+          "lng": 8.198203779892722
+        },
+        "southwest": {
+          "lat": 11.45156702010727,
+          "lng": 8.195504120107278
+        }
+      },
+      "formatted_address": "7F3CF53W+4QW Yalwa Kano, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4528556,8.1969387",
+      "google_place_id": "ChIJt8TiTTO9rRERRqMoHosf0bs"
+    }
+  },
+  {
+    "id": "90101",
+    "name": "G G A S S KAFIN MAI YAKI II",
+    "registration_area_id": "4606",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "19/24/14/035",
+    "remark": "NEW PU",
+    "ward_id": "4606",
+    "ward_name": "YALWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4528556,
+      "longitude": 8.1969387,
+      "viewport": {
+        "northeast": {
+          "lat": 11.45426667989272,
+          "lng": 8.198203779892722
+        },
+        "southwest": {
+          "lat": 11.45156702010727,
+          "lng": 8.195504120107278
+        }
+      },
+      "formatted_address": "7F3CF53W+4QW Yalwa Kano, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4528556,8.1969387",
+      "google_place_id": "ChIJt8TiTTO9rRERRqMoHosf0bs"
+    }
+  }
+]

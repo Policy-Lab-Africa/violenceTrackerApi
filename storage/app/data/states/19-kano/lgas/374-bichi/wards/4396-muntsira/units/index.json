@@ -1,0 +1,597 @@
+[
+  {
+    "id": "84779",
+    "name": "ISLAMIYYA CENTRE (A'AWA I)",
+    "registration_area_id": "4396",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/05/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4396",
+    "ward_name": "MUNTSIRA",
+    "local_government_id": "374",
+    "local_government_name": "BICHI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "84780",
+    "name": "NEW PRIMARY SCHOOL (A'AWA II)",
+    "registration_area_id": "4396",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/05/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4396",
+    "ward_name": "MUNTSIRA",
+    "local_government_id": "374",
+    "local_government_name": "BICHI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.940384,
+      "longitude": 8.2252408,
+      "viewport": {
+        "northeast": {
+          "lat": 11.94173367989272,
+          "lng": 8.226582429892723
+        },
+        "southwest": {
+          "lat": 11.93903402010728,
+          "lng": 8.223882770107279
+        }
+      },
+      "formatted_address": "7F3CW6RG+535 DanÃ¢Â€Â˜ isa, BaÃ¢Â€Â˜awa, 701102, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.940384,8.2252408",
+      "google_place_id": "ChIJr80nmSvZrRERWHiS2nncLHw"
+    }
+  },
+  {
+    "id": "84781",
+    "name": "IYAWA PRI. SCHOOL (IYAWA)",
+    "registration_area_id": "4396",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/05/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4396",
+    "ward_name": "MUNTSIRA",
+    "local_government_id": "374",
+    "local_government_name": "BICHI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.1780571,
+      "longitude": 8.237981,
+      "viewport": {
+        "northeast": {
+          "lat": 12.17941547989272,
+          "lng": 8.239333029892723
+        },
+        "southwest": {
+          "lat": 12.17671582010728,
+          "lng": 8.23663337010728
+        }
+      },
+      "formatted_address": "7F4C56HQ+759 K/Iyawa Muntsira Kano, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1780571,8.237981",
+      "google_place_id": "ChIJq7rIxrlvrhERKdyfeK1Z9nE"
+    }
+  },
+  {
+    "id": "84782",
+    "name": "KARGON BICHI SEC. SCH I (KARGON BICHI I)",
+    "registration_area_id": "4396",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/05/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4396",
+    "ward_name": "MUNTSIRA",
+    "local_government_id": "374",
+    "local_government_name": "BICHI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.208776,
+      "longitude": 8.2818341,
+      "viewport": {
+        "northeast": {
+          "lat": 12.21008882989272,
+          "lng": 8.283121279892722
+        },
+        "southwest": {
+          "lat": 12.20738917010728,
+          "lng": 8.280421620107278
+        }
+      },
+      "formatted_address": "7F4C675J+GP8 Kargo Mintsira Kano, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.208776,8.2818341",
+      "google_place_id": "ChIJE76ZMD1vrhERqi5jSwOJic0"
+    }
+  },
+  {
+    "id": "84783",
+    "name": "KARGON BICHI SEC. SCH II (KARGON BICHI II)",
+    "registration_area_id": "4396",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/05/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4396",
+    "ward_name": "MUNTSIRA",
+    "local_government_id": "374",
+    "local_government_name": "BICHI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.208776,
+      "longitude": 8.2818341,
+      "viewport": {
+        "northeast": {
+          "lat": 12.21008882989272,
+          "lng": 8.283121279892722
+        },
+        "southwest": {
+          "lat": 12.20738917010728,
+          "lng": 8.280421620107278
+        }
+      },
+      "formatted_address": "7F4C675J+GP8 Kargo Mintsira Kano, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.208776,8.2818341",
+      "google_place_id": "ChIJE76ZMD1vrhERqi5jSwOJic0"
+    }
+  },
+  {
+    "id": "84784",
+    "name": "MADINAI PRI. SCH. (KARGON BICHI III)",
+    "registration_area_id": "4396",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/05/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4396",
+    "ward_name": "MUNTSIRA",
+    "local_government_id": "374",
+    "local_government_name": "BICHI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.1971136,
+      "longitude": 8.272645299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.19846907989272,
+          "lng": 8.273991729892721
+        },
+        "southwest": {
+          "lat": 12.19576942010728,
+          "lng": 8.271292070107277
+        }
+      },
+      "formatted_address": "7F4C57WF+R3R Kargon Bichi madina Mutsira Kano, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1971136,8.272645299999999",
+      "google_place_id": "ChIJGwCz4VJvrhEROgkNfIZhnQo"
+    }
+  },
+  {
+    "id": "84785",
+    "name": "MUNTSIRA I",
+    "registration_area_id": "4396",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/05/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4396",
+    "ward_name": "MUNTSIRA",
+    "local_government_id": "374",
+    "local_government_name": "BICHI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.171104,
+      "longitude": 8.213900299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.17241777989272,
+          "lng": 8.215174629892722
+        },
+        "southwest": {
+          "lat": 12.16971812010728,
+          "lng": 8.212474970107278
+        }
+      },
+      "formatted_address": "7F4C56C7+CHJ Sabaru Muntsira Muntsira Kano, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.171104,8.213900299999999",
+      "google_place_id": "ChIJoY565J9trhERPmnZ_4yB8Jg"
+    }
+  },
+  {
+    "id": "84786",
+    "name": "MUNTSIRA ILAMIYYA (MUNTSIRA II)",
+    "registration_area_id": "4396",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/05/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4396",
+    "ward_name": "MUNTSIRA",
+    "local_government_id": "374",
+    "local_government_name": "BICHI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2332136,
+      "longitude": 8.2390964,
+      "viewport": {
+        "northeast": {
+          "lat": 12.23456337989272,
+          "lng": 8.240454879892722
+        },
+        "southwest": {
+          "lat": 12.23186372010728,
+          "lng": 8.237755220107278
+        }
+      },
+      "formatted_address": "66MQ+7JQ, FCE Road, 703101, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2332136,8.2390964",
+      "google_place_id": "ChIJR2qUyOdprhER1Ze2Hoc_4ZM"
+    }
+  },
+  {
+    "id": "84787",
+    "name": "SABARU PRIMARY SCHOOL (SABARU MUNTSIRA)",
+    "registration_area_id": "4396",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/05/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4396",
+    "ward_name": "MUNTSIRA",
+    "local_government_id": "374",
+    "local_government_name": "BICHI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "84788",
+    "name": "SADI IYAWA",
+    "registration_area_id": "4396",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "19/05/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4396",
+    "ward_name": "MUNTSIRA",
+    "local_government_id": "374",
+    "local_government_name": "BICHI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.166581,
+      "longitude": 8.256722800000002,
+      "viewport": {
+        "northeast": {
+          "lat": 12.16792627989272,
+          "lng": 8.258050129892721
+        },
+        "southwest": {
+          "lat": 12.16522662010728,
+          "lng": 8.255350470107278
+        }
+      },
+      "formatted_address": "Sadi Iyawa Primary School, 703101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.166581,8.256722800000002",
+      "google_place_id": "ChIJP0p3M1BurhERAaDHVOvc5QY"
+    }
+  },
+  {
+    "id": "84789",
+    "name": "TSARAKA AAWA I",
+    "registration_area_id": "4396",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "19/05/08/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4396",
+    "ward_name": "MUNTSIRA",
+    "local_government_id": "374",
+    "local_government_name": "BICHI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2131191,
+      "longitude": 8.1824747,
+      "viewport": {
+        "northeast": {
+          "lat": 12.21446597989272,
+          "lng": 8.183844079892722
+        },
+        "southwest": {
+          "lat": 12.21176632010728,
+          "lng": 8.181144420107278
+        }
+      },
+      "formatted_address": "7F4C657J+6XX Tsaraka Muntsira Kano, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2131191,8.1824747",
+      "google_place_id": "ChIJWVh7akRtrhERljERwi4oyzc"
+    }
+  },
+  {
+    "id": "84790",
+    "name": "TSARAKA AAWA II",
+    "registration_area_id": "4396",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "19/05/08/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4396",
+    "ward_name": "MUNTSIRA",
+    "local_government_id": "374",
+    "local_government_name": "BICHI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2131191,
+      "longitude": 8.1824747,
+      "viewport": {
+        "northeast": {
+          "lat": 12.21446597989272,
+          "lng": 8.183844079892722
+        },
+        "southwest": {
+          "lat": 12.21176632010728,
+          "lng": 8.181144420107278
+        }
+      },
+      "formatted_address": "7F4C657J+6XX Tsaraka Muntsira Kano, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2131191,8.1824747",
+      "google_place_id": "ChIJWVh7akRtrhERljERwi4oyzc"
+    }
+  },
+  {
+    "id": "84791",
+    "name": "TSARAKA A'AWA CLINIC (TSARAKA AAWA III)",
+    "registration_area_id": "4396",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "19/05/08/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4396",
+    "ward_name": "MUNTSIRA",
+    "local_government_id": "374",
+    "local_government_name": "BICHI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2125306,
+      "longitude": 8.1824314,
+      "viewport": {
+        "northeast": {
+          "lat": 12.21389847989272,
+          "lng": 8.183667079892722
+        },
+        "southwest": {
+          "lat": 12.21119882010728,
+          "lng": 8.180967420107278
+        }
+      },
+      "formatted_address": "Tsaraka Aawa Primary School, 703101, Kantawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2125306,8.1824314",
+      "google_place_id": "ChIJV0TcT2NsrhERATFJWDaBDHQ"
+    }
+  },
+  {
+    "id": "84792",
+    "name": "KARGON BICHII SEC. SCH",
+    "registration_area_id": "4396",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "19/05/08/014",
+    "remark": "NEW PU",
+    "ward_id": "4396",
+    "ward_name": "MUNTSIRA",
+    "local_government_id": "374",
+    "local_government_name": "BICHI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.208776,
+      "longitude": 8.2818341,
+      "viewport": {
+        "northeast": {
+          "lat": 12.21008882989272,
+          "lng": 8.283121279892722
+        },
+        "southwest": {
+          "lat": 12.20738917010728,
+          "lng": 8.280421620107278
+        }
+      },
+      "formatted_address": "7F4C675J+GP8 Kargo Mintsira Kano, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.208776,8.2818341",
+      "google_place_id": "ChIJE76ZMD1vrhERqi5jSwOJic0"
+    }
+  },
+  {
+    "id": "84793",
+    "name": "MADINAI PRI. SCH. II (KARGON BICHII)",
+    "registration_area_id": "4396",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "19/05/08/015",
+    "remark": "NEW PU",
+    "ward_id": "4396",
+    "ward_name": "MUNTSIRA",
+    "local_government_id": "374",
+    "local_government_name": "BICHI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.208776,
+      "longitude": 8.2818341,
+      "viewport": {
+        "northeast": {
+          "lat": 12.21008882989272,
+          "lng": 8.283121279892722
+        },
+        "southwest": {
+          "lat": 12.20738917010728,
+          "lng": 8.280421620107278
+        }
+      },
+      "formatted_address": "7F4C675J+GP8 Kargo Mintsira Kano, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.208776,8.2818341",
+      "google_place_id": "ChIJE76ZMD1vrhERqi5jSwOJic0"
+    }
+  },
+  {
+    "id": "84794",
+    "name": "MUNTSIRA II",
+    "registration_area_id": "4396",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "19/05/08/016",
+    "remark": "NEW PU",
+    "ward_id": "4396",
+    "ward_name": "MUNTSIRA",
+    "local_government_id": "374",
+    "local_government_name": "BICHI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.171104,
+      "longitude": 8.213900299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.17241777989272,
+          "lng": 8.215174629892722
+        },
+        "southwest": {
+          "lat": 12.16971812010728,
+          "lng": 8.212474970107278
+        }
+      },
+      "formatted_address": "7F4C56C7+CHJ Sabaru Muntsira Muntsira Kano, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.171104,8.213900299999999",
+      "google_place_id": "ChIJoY565J9trhERPmnZ_4yB8Jg"
+    }
+  },
+  {
+    "id": "84795",
+    "name": "MUNTSIRA ISLAMIYYA II",
+    "registration_area_id": "4396",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "19/05/08/017",
+    "remark": "NEW PU",
+    "ward_id": "4396",
+    "ward_name": "MUNTSIRA",
+    "local_government_id": "374",
+    "local_government_name": "BICHI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.1990426,
+      "longitude": 8.228154199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.20044982989272,
+          "lng": 8.22949037989272
+        },
+        "southwest": {
+          "lat": 12.19775017010728,
+          "lng": 8.226790720107276
+        }
+      },
+      "formatted_address": "7F4C56XH+J7R, Keba, 703101, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1990426,8.228154199999999",
+      "google_place_id": "ChIJz4ovEWlvrhERcBP5vTpF0_s"
+    }
+  },
+  {
+    "id": "84796",
+    "name": "IYAWA II",
+    "registration_area_id": "4396",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "19/05/08/018",
+    "remark": "NEW PU",
+    "ward_id": "4396",
+    "ward_name": "MUNTSIRA",
+    "local_government_id": "374",
+    "local_government_name": "BICHI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.1780571,
+      "longitude": 8.237981,
+      "viewport": {
+        "northeast": {
+          "lat": 12.17941547989272,
+          "lng": 8.239333029892723
+        },
+        "southwest": {
+          "lat": 12.17671582010728,
+          "lng": 8.23663337010728
+        }
+      },
+      "formatted_address": "7F4C56HQ+759 K/Iyawa Muntsira Kano, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1780571,8.237981",
+      "google_place_id": "ChIJq7rIxrlvrhERKdyfeK1Z9nE"
+    }
+  },
+  {
+    "id": "84797",
+    "name": "SABARU MUNTSIRA II",
+    "registration_area_id": "4396",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "19/05/08/019",
+    "remark": "NEW PU",
+    "ward_id": "4396",
+    "ward_name": "MUNTSIRA",
+    "local_government_id": "374",
+    "local_government_name": "BICHI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.171104,
+      "longitude": 8.213900299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.17241777989272,
+          "lng": 8.215174629892722
+        },
+        "southwest": {
+          "lat": 12.16971812010728,
+          "lng": 8.212474970107278
+        }
+      },
+      "formatted_address": "7F4C56C7+CHJ Sabaru Muntsira Muntsira Kano, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.171104,8.213900299999999",
+      "google_place_id": "ChIJoY565J9trhERPmnZ_4yB8Jg"
+    }
+  }
+]

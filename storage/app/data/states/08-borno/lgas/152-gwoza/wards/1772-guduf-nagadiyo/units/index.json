@@ -1,0 +1,618 @@
+[
+  {
+    "id": "32664",
+    "name": "MESSENGER AUDU",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/11/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32665",
+    "name": "NGAYA HUFFA",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/11/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.0817946,
+      "longitude": 13.7405019,
+      "viewport": {
+        "northeast": {
+          "lat": 11.1371654,
+          "lng": 13.768692
+        },
+        "southwest": {
+          "lat": 11.0442305,
+          "lng": 13.7025586
+        }
+      },
+      "formatted_address": "Guduf Nagadiyo, 610106, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0817946,13.7405019",
+      "google_place_id": "ChIJz3-Izt3ZHBER8e7btt7ak5A"
+    }
+  },
+  {
+    "id": "32666",
+    "name": "GHADA PRI. SCH.",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/11/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.086561,
+      "longitude": 13.736783,
+      "viewport": {
+        "northeast": {
+          "lat": 11.08791082989272,
+          "lng": 13.73813282989272
+        },
+        "southwest": {
+          "lat": 11.08521117010728,
+          "lng": 13.73543317010728
+        }
+      },
+      "formatted_address": "3PPP+JPF, 610106, Gwoza, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.086561,13.736783",
+      "google_place_id": "ChIJcWCTkNvZHBERZMjT0H8A66U"
+    }
+  },
+  {
+    "id": "32667",
+    "name": "GUDUF LEZE PRI. SCH.",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/11/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.093825,
+      "longitude": 13.739575,
+      "viewport": {
+        "northeast": {
+          "lat": 11.09517482989272,
+          "lng": 13.74092482989272
+        },
+        "southwest": {
+          "lat": 11.09247517010728,
+          "lng": 13.73822517010728
+        }
+      },
+      "formatted_address": "3PVQ+GRG, 610106, Gwoza, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.093825,13.739575",
+      "google_place_id": "ChIJa9Dh7ufZHBERon1wAl1WYcA"
+    }
+  },
+  {
+    "id": "32668",
+    "name": "SHABAKA YAGALA",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/11/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
+  },
+  {
+    "id": "32669",
+    "name": "TADA HUDUGWE",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/11/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32670",
+    "name": "SABON GARI NAGADIYO PRI. SCH.",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/11/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8256868,
+      "longitude": 13.1614064,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82702957989272,
+          "lng": 13.16258157989272
+        },
+        "southwest": {
+          "lat": 11.82432992010728,
+          "lng": 13.15988192010728
+        }
+      },
+      "formatted_address": "layin mai dara sabon gari, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8256868,13.1614064",
+      "google_place_id": "ChIJb1n9Ac6fBBERTtPykj5PNHQ"
+    }
+  },
+  {
+    "id": "32671",
+    "name": "BULAMA IDRIS  I",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "08/11/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6198838,
+      "longitude": 12.1861897,
+      "viewport": {
+        "northeast": {
+          "lat": 10.62136352989272,
+          "lng": 12.18745917989272
+        },
+        "southwest": {
+          "lat": 10.61866387010728,
+          "lng": 12.18475952010728
+        }
+      },
+      "formatted_address": "Bo9 line, Dugja Ward Biu, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6198838,12.1861897",
+      "google_place_id": "ChIJTZQeQicbAhERR0Md0kq3_Q4"
+    }
+  },
+  {
+    "id": "32672",
+    "name": "BULAMA IDRIS  II",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "08/11/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6198838,
+      "longitude": 12.1861897,
+      "viewport": {
+        "northeast": {
+          "lat": 10.62136352989272,
+          "lng": 12.18745917989272
+        },
+        "southwest": {
+          "lat": 10.61866387010728,
+          "lng": 12.18475952010728
+        }
+      },
+      "formatted_address": "Bo9 line, Dugja Ward Biu, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6198838,12.1861897",
+      "google_place_id": "ChIJTZQeQicbAhERR0Md0kq3_Q4"
+    }
+  },
+  {
+    "id": "32673",
+    "name": "YAKUBU THUPUWA",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "08/11/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32674",
+    "name": "BULAMA DIGSHARE",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "08/11/05/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8292373,
+      "longitude": 13.1182464,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83058837989272,
+          "lng": 13.11965772989272
+        },
+        "southwest": {
+          "lat": 11.82788872010728,
+          "lng": 13.11695807010728
+        }
+      },
+      "formatted_address": "R4H9+M7X, Damboa-Biu Road, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8292373,13.1182464",
+      "google_place_id": "ChIJUeCuA9mfBBER-W7QbXd5KLE"
+    }
+  },
+  {
+    "id": "32675",
+    "name": "GUDUF B. YAGWA PRI. SCH.",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "08/11/05/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.078619,
+      "longitude": 13.711678,
+      "viewport": {
+        "northeast": {
+          "lat": 11.08004227989272,
+          "lng": 13.71339332989272
+        },
+        "southwest": {
+          "lat": 11.07734262010728,
+          "lng": 13.71069367010728
+        }
+      },
+      "formatted_address": "3PH6+CMV, 610106, Gwoza, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.078619,13.711678",
+      "google_place_id": "ChIJodAsX3HXHBERYlAPuNY3Vls"
+    }
+  },
+  {
+    "id": "32676",
+    "name": "BULAMA MUSA GOMBE  I",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "08/11/05/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32677",
+    "name": "BULAMA MUSA GOMBE  II",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "08/11/05/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32678",
+    "name": "BULAMA WURA",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "08/11/05/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32679",
+    "name": "GHADA NGHATHE",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "08/11/05/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32680",
+    "name": "GHUFARE NGHATHE",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "08/11/05/017",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.0817946,
+      "longitude": 13.7405019,
+      "viewport": {
+        "northeast": {
+          "lat": 11.1371654,
+          "lng": 13.768692
+        },
+        "southwest": {
+          "lat": 11.0442305,
+          "lng": 13.7025586
+        }
+      },
+      "formatted_address": "Guduf Nagadiyo, 610106, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0817946,13.7405019",
+      "google_place_id": "ChIJz3-Izt3ZHBER8e7btt7ak5A"
+    }
+  },
+  {
+    "id": "32681",
+    "name": "VURDA HIRKE",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "08/11/05/018",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32682",
+    "name": "DUMA BULAMA MOHAMMED",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "08/11/05/019",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8348838,
+      "longitude": 13.0671591,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83623007989272,
+          "lng": 13.06853542989272
+        },
+        "southwest": {
+          "lat": 11.83353042010728,
+          "lng": 13.06583577010728
+        }
+      },
+      "formatted_address": "R3M8+XV3, Unnamed Road, 610111, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8348838,13.0671591",
+      "google_place_id": "ChIJy9zWlHKdBBERW5WZ0MnjJ78"
+    }
+  },
+  {
+    "id": "32683",
+    "name": "KAMBE BAJAH",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "08/11/05/020",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32684",
+    "name": "TAPPA WURA KIDIAYE",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "08/11/05/021",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.0817946,
+      "longitude": 13.7405019,
+      "viewport": {
+        "northeast": {
+          "lat": 11.1371654,
+          "lng": 13.768692
+        },
+        "southwest": {
+          "lat": 11.0442305,
+          "lng": 13.7025586
+        }
+      },
+      "formatted_address": "Guduf Nagadiyo, 610106, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0817946,13.7405019",
+      "google_place_id": "ChIJz3-Izt3ZHBER8e7btt7ak5A"
+    }
+  },
+  {
+    "id": "32685",
+    "name": "MINA BULAMA MBITSA",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "08/11/05/022",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32686",
+    "name": "KIMBE KWEDENGA",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "08/11/05/023",
+    "remark": "EXISTING PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.1813,
+      "longitude": 13.7921,
+      "viewport": {
+        "northeast": {
+          "lat": 11.18265702989272,
+          "lng": 13.79347647989272
+        },
+        "southwest": {
+          "lat": 11.17995737010728,
+          "lng": 13.79077682010728
+        }
+      },
+      "formatted_address": "5QJR+GR9, 610106, Bokko Ghide, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1813,13.7921",
+      "google_place_id": "ChIJM2mC0T3bHBER-iNO-lCcA9E"
+    }
+  },
+  {
+    "id": "32687",
+    "name": "LAWAN AUDU GRANDAWA",
+    "registration_area_id": "1772",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "08/11/05/024",
+    "remark": "NEW PU",
+    "ward_id": "1772",
+    "ward_name": "GUDUF NAGADIYO",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  }
+]

@@ -1,0 +1,565 @@
+[
+  {
+    "id": "31774",
+    "name": "MADLAN PRI. SCH.",
+    "registration_area_id": "1709",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/05/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1709",
+    "ward_name": "GARUBULA",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6296811,
+      "longitude": 12.1896622,
+      "viewport": {
+        "northeast": {
+          "lat": 10.63116187989272,
+          "lng": 12.19096762989272
+        },
+        "southwest": {
+          "lat": 10.62846222010728,
+          "lng": 12.18826797010728
+        }
+      },
+      "formatted_address": "J5HQ+RVM, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6296811,12.1896622",
+      "google_place_id": "ChIJRdHMaUcbAhEREjh53o8uBIg"
+    }
+  },
+  {
+    "id": "31775",
+    "name": "SABON GARI SOKOTOWA",
+    "registration_area_id": "1709",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/05/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1709",
+    "ward_name": "GARUBULA",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8329581,
+      "longitude": 13.1711491,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83441532989272,
+          "lng": 13.17248687989272
+        },
+        "southwest": {
+          "lat": 11.83171567010728,
+          "lng": 13.16978722010728
+        }
+      },
+      "formatted_address": "R5MC+5FC, Sabon gari, Gwange, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8329581,13.1711491",
+      "google_place_id": "ChIJoYytVd2fBBERYhNnhlwIr3k"
+    }
+  },
+  {
+    "id": "31776",
+    "name": "ZUWA",
+    "registration_area_id": "1709",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/05/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1709",
+    "ward_name": "GARUBULA",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.7669719,
+      "longitude": 12.022566,
+      "viewport": {
+        "northeast": {
+          "lat": 10.76852,
+          "lng": 12.0253821
+        },
+        "southwest": {
+          "lat": 10.764002,
+          "lng": 12.021088
+        }
+      },
+      "formatted_address": "603101, Zuwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7669719,12.022566",
+      "google_place_id": "ChIJY9inyiGLARERA7hpSrFEdnE"
+    }
+  },
+  {
+    "id": "31777",
+    "name": "BUMSA",
+    "registration_area_id": "1709",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/05/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1709",
+    "ward_name": "GARUBULA",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.7229089,
+      "longitude": 12.0806706,
+      "viewport": {
+        "northeast": {
+          "lat": 10.724306,
+          "lng": 12.0825479
+        },
+        "southwest": {
+          "lat": 10.710255,
+          "lng": 12.069845
+        }
+      },
+      "formatted_address": "603101, Bumsa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7229089,12.0806706",
+      "google_place_id": "ChIJ-1ggS8MfAhER2XdstB0aW3U"
+    }
+  },
+  {
+    "id": "31778",
+    "name": "KORE",
+    "registration_area_id": "1709",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/05/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1709",
+    "ward_name": "GARUBULA",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31779",
+    "name": "CHARANGI",
+    "registration_area_id": "1709",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/05/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1709",
+    "ward_name": "GARUBULA",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6260072,
+      "longitude": 11.9242878,
+      "viewport": {
+        "northeast": {
+          "lat": 10.62748,
+          "lng": 11.92601587989272
+        },
+        "southwest": {
+          "lat": 10.624361,
+          "lng": 11.92331622010728
+        }
+      },
+      "formatted_address": "603101, Charangi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6260072,11.9242878",
+      "google_place_id": "ChIJATPhwK_xARERMRwoEWp-34E"
+    }
+  },
+  {
+    "id": "31780",
+    "name": "MAPI",
+    "registration_area_id": "1709",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/05/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1709",
+    "ward_name": "GARUBULA",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.7209636,
+      "longitude": 12.0088266,
+      "viewport": {
+        "northeast": {
+          "lat": 10.72239032989272,
+          "lng": 12.01032432989272
+        },
+        "southwest": {
+          "lat": 10.71969067010728,
+          "lng": 12.00762467010728
+        }
+      },
+      "formatted_address": "603101, Mapi Fulani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7209636,12.0088266",
+      "google_place_id": "ChIJGW5n1ev0ARERxBgP6xFFfZ4"
+    }
+  },
+  {
+    "id": "31781",
+    "name": "TAKSAKU",
+    "registration_area_id": "1709",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "08/05/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1709",
+    "ward_name": "GARUBULA",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6684807,
+      "longitude": 11.9617335,
+      "viewport": {
+        "northeast": {
+          "lat": 10.66973637989272,
+          "lng": 11.96307127989272
+        },
+        "southwest": {
+          "lat": 10.66703672010728,
+          "lng": 11.96037162010728
+        }
+      },
+      "formatted_address": "603101, Taksak, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6684807,11.9617335",
+      "google_place_id": "ChIJha0hQ-bzARERJr6MQkRj9RU"
+    }
+  },
+  {
+    "id": "31782",
+    "name": "MARADI",
+    "registration_area_id": "1709",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "08/05/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1709",
+    "ward_name": "GARUBULA",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31783",
+    "name": "GARUBULA SABON PRI. SCH.",
+    "registration_area_id": "1709",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "08/05/04/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1709",
+    "ward_name": "GARUBULA",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6051436,
+      "longitude": 12.2029982,
+      "viewport": {
+        "northeast": {
+          "lat": 10.60663252989272,
+          "lng": 12.20424632989272
+        },
+        "southwest": {
+          "lat": 10.60393287010728,
+          "lng": 12.20154667010728
+        }
+      },
+      "formatted_address": "J643+26R, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6051436,12.2029982",
+      "google_place_id": "ChIJ557vs-8bAhERHZbRG5v-fZM"
+    }
+  },
+  {
+    "id": "31784",
+    "name": "GARUBULA  DISPENSARY",
+    "registration_area_id": "1709",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "08/05/04/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1709",
+    "ward_name": "GARUBULA",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6169454,
+      "longitude": 12.1917276,
+      "viewport": {
+        "northeast": {
+          "lat": 10.61831177989272,
+          "lng": 12.19310442989272
+        },
+        "southwest": {
+          "lat": 10.61561212010728,
+          "lng": 12.19040477010728
+        }
+      },
+      "formatted_address": "56,Gombe Road, Biu, Borno State Bornu State, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6169454,12.1917276",
+      "google_place_id": "ChIJx8_0U_QbAhERN07sD7untFY"
+    }
+  },
+  {
+    "id": "31785",
+    "name": "WULA",
+    "registration_area_id": "1709",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "08/05/04/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1709",
+    "ward_name": "GARUBULA",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.7876448,
+      "longitude": 11.9836072,
+      "viewport": {
+        "northeast": {
+          "lat": 10.7894047,
+          "lng": 11.985947
+        },
+        "southwest": {
+          "lat": 10.785279,
+          "lng": 11.9800396
+        }
+      },
+      "formatted_address": "603101, Wula Wula, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7876448,11.9836072",
+      "google_place_id": "ChIJn8izVHyLARERJlN54zbOZdw"
+    }
+  },
+  {
+    "id": "31786",
+    "name": "GARUBULA TSOHO",
+    "registration_area_id": "1709",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "08/05/04/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1709",
+    "ward_name": "GARUBULA",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31787",
+    "name": "DANASKI",
+    "registration_area_id": "1709",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "08/05/04/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1709",
+    "ward_name": "GARUBULA",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31788",
+    "name": "BULAKULO",
+    "registration_area_id": "1709",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "08/05/04/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1709",
+    "ward_name": "GARUBULA",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6116811,
+      "longitude": 12.1918637,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6423289,
+          "lng": 12.2224591
+        },
+        "southwest": {
+          "lat": 10.578165,
+          "lng": 12.162823
+        }
+      },
+      "formatted_address": "603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6116811,12.1918637",
+      "google_place_id": "ChIJ61J2P-EaAhERF7HxrPximbQ"
+    }
+  },
+  {
+    "id": "31789",
+    "name": "BUMBULUM",
+    "registration_area_id": "1709",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "08/05/04/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1709",
+    "ward_name": "GARUBULA",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6528321,
+      "longitude": 11.9460404,
+      "viewport": {
+        "northeast": {
+          "lat": 10.65421127989272,
+          "lng": 11.94728137989272
+        },
+        "southwest": {
+          "lat": 10.65151162010728,
+          "lng": 11.94458172010728
+        }
+      },
+      "formatted_address": "603101, Bumbulum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6528321,11.9460404",
+      "google_place_id": "ChIJaU_JNXvxARERL_aS3sYDm40"
+    }
+  },
+  {
+    "id": "31790",
+    "name": "MADU BULAMA",
+    "registration_area_id": "1709",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "08/05/04/017",
+    "remark": "NEW PU",
+    "ward_id": "1709",
+    "ward_name": "GARUBULA",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8023735,
+      "longitude": 13.1930808,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80373697989272,
+          "lng": 13.19441857989272
+        },
+        "southwest": {
+          "lat": 11.80103732010728,
+          "lng": 13.19171892010728
+        }
+      },
+      "formatted_address": "University of Maiduguri, 1069 Bama - Maiduguri Rd, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8023735,13.1930808",
+      "google_place_id": "ChIJ2VANJlqgBBERuzm_Hf5oVzs"
+    }
+  },
+  {
+    "id": "31791",
+    "name": "BUMSA PRIMARY SCHOOL",
+    "registration_area_id": "1709",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "08/05/04/018",
+    "remark": "NEW PU",
+    "ward_id": "1709",
+    "ward_name": "GARUBULA",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6051436,
+      "longitude": 12.2029982,
+      "viewport": {
+        "northeast": {
+          "lat": 10.60663252989272,
+          "lng": 12.20424632989272
+        },
+        "southwest": {
+          "lat": 10.60393287010728,
+          "lng": 12.20154667010728
+        }
+      },
+      "formatted_address": "J643+26R, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6051436,12.2029982",
+      "google_place_id": "ChIJ557vs-8bAhERHZbRG5v-fZM"
+    }
+  },
+  {
+    "id": "31792",
+    "name": "MARADI PRIMARY SCHOOL",
+    "registration_area_id": "1709",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "08/05/04/019",
+    "remark": "NEW PU",
+    "ward_id": "1709",
+    "ward_name": "GARUBULA",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6296811,
+      "longitude": 12.1896622,
+      "viewport": {
+        "northeast": {
+          "lat": 10.63116187989272,
+          "lng": 12.19096762989272
+        },
+        "southwest": {
+          "lat": 10.62846222010728,
+          "lng": 12.18826797010728
+        }
+      },
+      "formatted_address": "J5HQ+RVM, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6296811,12.1896622",
+      "google_place_id": "ChIJRdHMaUcbAhEREjh53o8uBIg"
+    }
+  }
+]
