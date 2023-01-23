@@ -1,0 +1,1125 @@
+[
+  {
+    "id": "3328",
+    "name": "NKATA  I - NKATA PRIMARY SCHOOL",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "01/15/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": null
+  },
+  {
+    "id": "3329",
+    "name": "NKATA  II - NKATA PRIMARY SCHOOL",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "01/15/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.5372528,
+      "longitude": 7.509937799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.538406929892722,
+          "lng": 7.511612279892721
+        },
+        "southwest": {
+          "lat": 5.535707270107278,
+          "lng": 7.508912620107277
+        }
+      },
+      "formatted_address": "Ibeku East, I, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5372528,7.509937799999999",
+      "google_place_id": "ChIJfyUKXZbcQhARcco12kBWLX0"
+    }
+  },
+  {
+    "id": "3330",
+    "name": "NKATA  III - NKATA PRIMARY SCHOOL",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "01/15/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.5372528,
+      "longitude": 7.509937799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.538406929892722,
+          "lng": 7.511612279892721
+        },
+        "southwest": {
+          "lat": 5.535707270107278,
+          "lng": 7.508912620107277
+        }
+      },
+      "formatted_address": "Ibeku East, I, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5372528,7.509937799999999",
+      "google_place_id": "ChIJfyUKXZbcQhARcco12kBWLX0"
+    }
+  },
+  {
+    "id": "3331",
+    "name": "OKWUTA  I - OKWUTA CENTRAL SCHOOL",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "01/15/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.5197537,
+      "longitude": 7.499628100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.520807129892722,
+          "lng": 7.500664829892723
+        },
+        "southwest": {
+          "lat": 5.518107470107278,
+          "lng": 7.497965170107279
+        }
+      },
+      "formatted_address": "GF9X+WV2, Umuahia - Ikot Ekpene Rd, 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5197537,7.499628100000001",
+      "google_place_id": "ChIJy4LGYsncQhARPFnCH_zIOlA"
+    }
+  },
+  {
+    "id": "3332",
+    "name": "OKWUTA  II - OKWUTA  VILLAGE SQUARE",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "01/15/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.566075,
+      "longitude": 7.535555500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.6039644,
+          "lng": 7.581952
+        },
+        "southwest": {
+          "lat": 5.5178021,
+          "lng": 7.497530799999999
+        }
+      },
+      "formatted_address": "Ibeku East I, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.566075,7.535555500000001",
+      "google_place_id": "ChIJHXdt9ZvbQhARYsct9q99FKI"
+    }
+  },
+  {
+    "id": "3333",
+    "name": "ISIEKE UMUAJIJI  I - ISIKEKE CENTRAL SCHOOL",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "01/15/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.543359499999999,
+      "longitude": 7.526146799999998,
+      "viewport": {
+        "northeast": {
+          "lat": 5.544604479892722,
+          "lng": 7.527159879892722
+        },
+        "southwest": {
+          "lat": 5.541904820107278,
+          "lng": 7.524460220107278
+        }
+      },
+      "formatted_address": "GGVG+8FR, 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.543359499999999,7.526146799999998",
+      "google_place_id": "ChIJ0fVd7WLbQhARo3ib9dv6vBU"
+    }
+  },
+  {
+    "id": "3334",
+    "name": "ISIEKE UMUAJIJI  II - ISIKEKE CENTRAL SCHOOL",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "01/15/01/007",
+    "remark": "EXISTING PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.543359499999999,
+      "longitude": 7.526146799999998,
+      "viewport": {
+        "northeast": {
+          "lat": 5.544604479892722,
+          "lng": 7.527159879892722
+        },
+        "southwest": {
+          "lat": 5.541904820107278,
+          "lng": 7.524460220107278
+        }
+      },
+      "formatted_address": "GGVG+8FR, 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.543359499999999,7.526146799999998",
+      "google_place_id": "ChIJ0fVd7WLbQhARo3ib9dv6vBU"
+    }
+  },
+  {
+    "id": "3335",
+    "name": "ISIEKE UMUAJIJI  III - ISIKEKE SECONDARY SCHOOL",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "01/15/01/008",
+    "remark": "EXISTING PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.543359499999999,
+      "longitude": 7.526146799999998,
+      "viewport": {
+        "northeast": {
+          "lat": 5.544604479892722,
+          "lng": 7.527159879892722
+        },
+        "southwest": {
+          "lat": 5.541904820107278,
+          "lng": 7.524460220107278
+        }
+      },
+      "formatted_address": "GGVG+8FR, 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.543359499999999,7.526146799999998",
+      "google_place_id": "ChIJ0fVd7WLbQhARo3ib9dv6vBU"
+    }
+  },
+  {
+    "id": "3336",
+    "name": "OKWOYI - OKWOYI CENTRAL SCHOOL",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "01/15/01/009",
+    "remark": "EXISTING PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.537715899999999,
+      "longitude": 7.497255900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.539064529892722,
+          "lng": 7.498605129892723
+        },
+        "southwest": {
+          "lat": 5.536364870107279,
+          "lng": 7.495905470107279
+        }
+      },
+      "formatted_address": "GFQW+3WR, Olokoro St, Umuahia 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.537715899999999,7.497255900000001",
+      "google_place_id": "ChIJNdvXg-ncQhARC6fe7mDbRck"
+    }
+  },
+  {
+    "id": "3337",
+    "name": "UKOME - UKOME CENTRAL SCHOOL",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "01/15/01/010",
+    "remark": "EXISTING PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.5197537,
+      "longitude": 7.499628100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.520807129892722,
+          "lng": 7.500664829892723
+        },
+        "southwest": {
+          "lat": 5.518107470107278,
+          "lng": 7.497965170107279
+        }
+      },
+      "formatted_address": "GF9X+WV2, Umuahia - Ikot Ekpene Rd, 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5197537,7.499628100000001",
+      "google_place_id": "ChIJy4LGYsncQhARPFnCH_zIOlA"
+    }
+  },
+  {
+    "id": "3338",
+    "name": "MBOM - MBOM CENTRAL SCHOOL",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "01/15/01/011",
+    "remark": "EXISTING PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.5438282,
+      "longitude": 7.5000955,
+      "viewport": {
+        "northeast": {
+          "lat": 5.545161029892721,
+          "lng": 7.501639429892722
+        },
+        "southwest": {
+          "lat": 5.542461370107278,
+          "lng": 7.498939770107278
+        }
+      },
+      "formatted_address": "Amuzukwu 440236, Road, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5438282,7.5000955",
+      "google_place_id": "ChIJH_5V9wTdQhARrtXOC-bwvsY"
+    }
+  },
+  {
+    "id": "3339",
+    "name": "UMUCHOKO/UMUAGBO - COMMUNITY SCHOOL AMEKE",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "01/15/01/012",
+    "remark": "EXISTING PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.543359499999999,
+      "longitude": 7.526146799999998,
+      "viewport": {
+        "northeast": {
+          "lat": 5.544604479892722,
+          "lng": 7.527159879892722
+        },
+        "southwest": {
+          "lat": 5.541904820107278,
+          "lng": 7.524460220107278
+        }
+      },
+      "formatted_address": "GGVG+8FR, 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.543359499999999,7.526146799999998",
+      "google_place_id": "ChIJ0fVd7WLbQhARo3ib9dv6vBU"
+    }
+  },
+  {
+    "id": "3340",
+    "name": "ISIADU - ISIADU COMMUNITY SCHOOL",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "01/15/01/013",
+    "remark": "EXISTING PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.543359499999999,
+      "longitude": 7.526146799999998,
+      "viewport": {
+        "northeast": {
+          "lat": 5.544604479892722,
+          "lng": 7.527159879892722
+        },
+        "southwest": {
+          "lat": 5.541904820107278,
+          "lng": 7.524460220107278
+        }
+      },
+      "formatted_address": "GGVG+8FR, 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.543359499999999,7.526146799999998",
+      "google_place_id": "ChIJ0fVd7WLbQhARo3ib9dv6vBU"
+    }
+  },
+  {
+    "id": "3341",
+    "name": "NDAGBO AMEKE - NDAGBO AMEKE VILLAGE SQUARE",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "01/15/01/014",
+    "remark": "EXISTING PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.5322822,
+      "longitude": 7.4896955,
+      "viewport": {
+        "northeast": {
+          "lat": 5.533672679892722,
+          "lng": 7.491049979892722
+        },
+        "southwest": {
+          "lat": 5.530973020107278,
+          "lng": 7.488350320107278
+        }
+      },
+      "formatted_address": "GFJQ+WV3, Mbaise Rd, Mission Hill 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5322822,7.4896955",
+      "google_place_id": "ChIJr5jI-NzcQhAR27rAhfDlzI0"
+    }
+  },
+  {
+    "id": "3342",
+    "name": "UMUEZIAGWU - UMUEZIAGWU VILLAGE SQUARE",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "01/15/01/015",
+    "remark": "EXISTING PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.5414537,
+      "longitude": 7.4399684,
+      "viewport": {
+        "northeast": {
+          "lat": 5.542764329892722,
+          "lng": 7.441323579892723
+        },
+        "southwest": {
+          "lat": 5.540064670107278,
+          "lng": 7.438623920107279
+        }
+      },
+      "formatted_address": "GCRQ+HXQ, Uzo Okwu Ogbodi Ukwu, Umuopara, Amachara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5414537,7.4399684",
+      "google_place_id": "ChIJn1pUJmLdQhAR-_DgwMCRCAg"
+    }
+  },
+  {
+    "id": "3343",
+    "name": "OGUBI UMUEFERE - OGUBI VILLAGE SQUARE",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "01/15/01/016",
+    "remark": "EXISTING PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.5414537,
+      "longitude": 7.4399684,
+      "viewport": {
+        "northeast": {
+          "lat": 5.542764329892722,
+          "lng": 7.441323579892723
+        },
+        "southwest": {
+          "lat": 5.540064670107278,
+          "lng": 7.438623920107279
+        }
+      },
+      "formatted_address": "GCRQ+HXQ, Uzo Okwu Ogbodi Ukwu, Umuopara, Amachara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5414537,7.4399684",
+      "google_place_id": "ChIJn1pUJmLdQhAR-_DgwMCRCAg"
+    }
+  },
+  {
+    "id": "3344",
+    "name": "ISIEKE UMUAJIJI  III - ISIKEKE CENTRAL SCHOOL",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "01/15/01/017",
+    "remark": "EXISTING PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.543359499999999,
+      "longitude": 7.526146799999998,
+      "viewport": {
+        "northeast": {
+          "lat": 5.544604479892722,
+          "lng": 7.527159879892722
+        },
+        "southwest": {
+          "lat": 5.541904820107278,
+          "lng": 7.524460220107278
+        }
+      },
+      "formatted_address": "GGVG+8FR, 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.543359499999999,7.526146799999998",
+      "google_place_id": "ChIJ0fVd7WLbQhARo3ib9dv6vBU"
+    }
+  },
+  {
+    "id": "3345",
+    "name": "UMUKWU NKATA TOWN HALL",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "01/15/01/018",
+    "remark": "NEW PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": null
+  },
+  {
+    "id": "3346",
+    "name": "UMUOKEHI MARKET SQUARE",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "01/15/01/019",
+    "remark": "NEW PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.591354,
+      "longitude": 7.5062354,
+      "viewport": {
+        "northeast": {
+          "lat": 5.592735979892722,
+          "lng": 7.507622079892721
+        },
+        "southwest": {
+          "lat": 5.590036320107278,
+          "lng": 7.504922420107278
+        }
+      },
+      "formatted_address": "HGR4+GFX, Ubani Rd, 440236, Umuawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.591354,7.5062354",
+      "google_place_id": "ChIJPZNNIhncQhARUbPQNjyPHMA"
+    }
+  },
+  {
+    "id": "3347",
+    "name": "ELUGWU NKATA VILLAGE SQUARE",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "01/15/01/020",
+    "remark": "NEW PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.526854,
+      "longitude": 7.51096,
+      "viewport": {
+        "northeast": {
+          "lat": 5.528040879892722,
+          "lng": 7.512155929892722
+        },
+        "southwest": {
+          "lat": 5.525341220107278,
+          "lng": 7.509456270107278
+        }
+      },
+      "formatted_address": "NO 16, ELUGWU ROAD, NKATA IBEKU UMUAHIA NORTH, LGA#ABIA STATE, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.526854,7.51096",
+      "google_place_id": "ChIJC4H1eQHdQhARWcSCTIkar_g"
+    }
+  },
+  {
+    "id": "3348",
+    "name": "UMUAGBO DEVELOPMENT UNION HALL",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "01/15/01/021",
+    "remark": "NEW PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.5197537,
+      "longitude": 7.499628100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.520807129892722,
+          "lng": 7.500664829892723
+        },
+        "southwest": {
+          "lat": 5.518107470107278,
+          "lng": 7.497965170107279
+        }
+      },
+      "formatted_address": "GF9X+WV2, Umuahia - Ikot Ekpene Rd, 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5197537,7.499628100000001",
+      "google_place_id": "ChIJy4LGYsncQhARPFnCH_zIOlA"
+    }
+  },
+  {
+    "id": "3349",
+    "name": "NKATA PRIMARY SCHOOL",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "01/15/01/022",
+    "remark": "NEW PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.5372528,
+      "longitude": 7.509937799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.538406929892722,
+          "lng": 7.511612279892721
+        },
+        "southwest": {
+          "lat": 5.535707270107278,
+          "lng": 7.508912620107277
+        }
+      },
+      "formatted_address": "Ibeku East, I, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5372528,7.509937799999999",
+      "google_place_id": "ChIJfyUKXZbcQhARcco12kBWLX0"
+    }
+  },
+  {
+    "id": "3350",
+    "name": "AMANDAGBO UMUAKAKA NKATA",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "01/15/01/023",
+    "remark": "NEW PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.537715899999999,
+      "longitude": 7.497255900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.539064529892722,
+          "lng": 7.498605129892723
+        },
+        "southwest": {
+          "lat": 5.536364870107279,
+          "lng": 7.495905470107279
+        }
+      },
+      "formatted_address": "GFQW+3WR, Olokoro St, Umuahia 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.537715899999999,7.497255900000001",
+      "google_place_id": "ChIJNdvXg-ncQhARC6fe7mDbRck"
+    }
+  },
+  {
+    "id": "3351",
+    "name": "AMA UMUOVUM VILLAGE SQUARE NKATA",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "01/15/01/024",
+    "remark": "NEW PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.5436634,
+      "longitude": 7.478983400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.545097329892722,
+          "lng": 7.480012579892721
+        },
+        "southwest": {
+          "lat": 5.542397670107278,
+          "lng": 7.477312920107277
+        }
+      },
+      "formatted_address": "GFVH+FH9, Road, Amafor Isingwu 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5436634,7.478983400000001",
+      "google_place_id": "ChIJlbtHPPzdQhAR-9beLjcliuA"
+    }
+  },
+  {
+    "id": "3352",
+    "name": "ROAD I 1ST GATE, EHIMIRI HOUSING ESTATE",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "01/15/01/025",
+    "remark": "NEW PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.5170147,
+      "longitude": 7.5222765,
+      "viewport": {
+        "northeast": {
+          "lat": 5.518298779892723,
+          "lng": 7.523599379892723
+        },
+        "southwest": {
+          "lat": 5.515599120107279,
+          "lng": 7.520899720107279
+        }
+      },
+      "formatted_address": "GGCG+638, Umuahia - Ikot Ekpene Rd, 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5170147,7.5222765",
+      "google_place_id": "ChIJWyBtHKvcQhARIXO5_G6x_sg"
+    }
+  },
+  {
+    "id": "3353",
+    "name": "ZONE 9 BY PRESBYTERIAN CHURCH JUNCTION",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "01/15/01/026",
+    "remark": "NEW PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.5087438,
+      "longitude": 7.497926199999998,
+      "viewport": {
+        "northeast": {
+          "lat": 5.510072279892722,
+          "lng": 7.499243029892721
+        },
+        "southwest": {
+          "lat": 5.507372620107278,
+          "lng": 7.496543370107276
+        }
+      },
+      "formatted_address": "GF5X+F5V, 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5087438,7.497926199999998",
+      "google_place_id": "ChIJiy0tmU_DQhARuuKdwz4jEZI"
+    }
+  },
+  {
+    "id": "3354",
+    "name": "OKWUTA CIVIC CENTRE",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "01/15/01/027",
+    "remark": "NEW PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.553593100000001,
+      "longitude": 7.497066900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.555000979892722,
+          "lng": 7.498429579892722
+        },
+        "southwest": {
+          "lat": 5.552301320107278,
+          "lng": 7.495729920107278
+        }
+      },
+      "formatted_address": "HF3W+CRP, Umueze Emede Ibeku,, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.553593100000001,7.497066900000001",
+      "google_place_id": "ChIJf7hpffbcQhARCFY4fFQjjb8"
+    }
+  },
+  {
+    "id": "3355",
+    "name": "AJATA ISIEKE COMMUNITY HALL",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "01/15/01/028",
+    "remark": "NEW PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.543359499999999,
+      "longitude": 7.526146799999998,
+      "viewport": {
+        "northeast": {
+          "lat": 5.544604479892722,
+          "lng": 7.527159879892722
+        },
+        "southwest": {
+          "lat": 5.541904820107278,
+          "lng": 7.524460220107278
+        }
+      },
+      "formatted_address": "GGVG+8FR, 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.543359499999999,7.526146799999998",
+      "google_place_id": "ChIJ0fVd7WLbQhARo3ib9dv6vBU"
+    }
+  },
+  {
+    "id": "3356",
+    "name": "COMMUNITY HALL SITE",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "01/15/01/029",
+    "remark": "NEW PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.6081731,
+      "longitude": 7.4698093,
+      "viewport": {
+        "northeast": {
+          "lat": 5.609463979892721,
+          "lng": 7.471222679892722
+        },
+        "southwest": {
+          "lat": 5.606764320107278,
+          "lng": 7.468523020107278
+        }
+      },
+      "formatted_address": "JF59+7W7, 440236, Umule, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6081731,7.4698093",
+      "google_place_id": "ChIJ16fMVejfQhARepWhnGovTQs"
+    }
+  },
+  {
+    "id": "3357",
+    "name": "IHIE ISIEKE TOWN HALL",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "01/15/01/030",
+    "remark": "NEW PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.553593100000001,
+      "longitude": 7.497066900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.555000979892722,
+          "lng": 7.498429579892722
+        },
+        "southwest": {
+          "lat": 5.552301320107278,
+          "lng": 7.495729920107278
+        }
+      },
+      "formatted_address": "HF3W+CRP, Umueze Emede Ibeku,, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.553593100000001,7.497066900000001",
+      "google_place_id": "ChIJf7hpffbcQhARCFY4fFQjjb8"
+    }
+  },
+  {
+    "id": "3358",
+    "name": "OHABUIKE TOWN HALL UMUAJIJI ISIEKE",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "01/15/01/031",
+    "remark": "NEW PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.5161415,
+      "longitude": 7.5057006,
+      "viewport": {
+        "northeast": {
+          "lat": 5.517494329892721,
+          "lng": 7.50691372989272
+        },
+        "southwest": {
+          "lat": 5.514794670107277,
+          "lng": 7.504214070107277
+        }
+      },
+      "formatted_address": "GG84+F74, Ohokobe, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5161415,7.5057006",
+      "google_place_id": "ChIJCaCc7rLcQhARtPtqlYYwyTs"
+    }
+  },
+  {
+    "id": "3359",
+    "name": "AMAWOM MBOM VILLAGE HALL",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "01/15/01/032",
+    "remark": "NEW PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.553593100000001,
+      "longitude": 7.497066900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.555000979892722,
+          "lng": 7.498429579892722
+        },
+        "southwest": {
+          "lat": 5.552301320107278,
+          "lng": 7.495729920107278
+        }
+      },
+      "formatted_address": "HF3W+CRP, Umueze Emede Ibeku,, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.553593100000001,7.497066900000001",
+      "google_place_id": "ChIJf7hpffbcQhARCFY4fFQjjb8"
+    }
+  },
+  {
+    "id": "3360",
+    "name": "UMUEBULE VILLAGE SQUARE MBOM",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "01/15/01/033",
+    "remark": "NEW PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.5414537,
+      "longitude": 7.4399684,
+      "viewport": {
+        "northeast": {
+          "lat": 5.542764329892722,
+          "lng": 7.441323579892723
+        },
+        "southwest": {
+          "lat": 5.540064670107278,
+          "lng": 7.438623920107279
+        }
+      },
+      "formatted_address": "GCRQ+HXQ, Uzo Okwu Ogbodi Ukwu, Umuopara, Amachara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5414537,7.4399684",
+      "google_place_id": "ChIJn1pUJmLdQhAR-_DgwMCRCAg"
+    }
+  },
+  {
+    "id": "3361",
+    "name": "UMUAJIJI ISIEKE PRIMARY SCHOOL(I)",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "01/15/01/034",
+    "remark": "NEW PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.543359499999999,
+      "longitude": 7.526146799999998,
+      "viewport": {
+        "northeast": {
+          "lat": 5.544604479892722,
+          "lng": 7.527159879892722
+        },
+        "southwest": {
+          "lat": 5.541904820107278,
+          "lng": 7.524460220107278
+        }
+      },
+      "formatted_address": "GGVG+8FR, 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.543359499999999,7.526146799999998",
+      "google_place_id": "ChIJ0fVd7WLbQhARo3ib9dv6vBU"
+    }
+  },
+  {
+    "id": "3362",
+    "name": "OHAFIA GIRLS SEC. SCHOOL II",
+    "registration_area_id": "151",
+    "precise_location": null,
+    "abbreviation": "043",
+    "units": "043",
+    "delimitation": "01/15/01/043",
+    "remark": "NEW PU",
+    "ward_id": "151",
+    "ward_name": "IBEKU EAST  I",
+    "local_government_id": "15",
+    "local_government_name": "UMUAHIA NORTH",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.657661999999999,
+      "longitude": 7.826361399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.658947479892722,
+          "lng": 7.827701929892724
+        },
+        "southwest": {
+          "lat": 5.656247820107279,
+          "lng": 7.82500227010728
+        }
+      },
+      "formatted_address": "MR5G+5F9, 442108, Amaekpu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.657661999999999,7.826361399999999",
+      "google_place_id": "ChIJCaSd44oqXRAR-HID7wvy7-A"
+    }
+  }
+]

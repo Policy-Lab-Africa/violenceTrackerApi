@@ -16,4 +16,9 @@ class NgLocalGovernment extends Model
         'state_id',
         'state_name',
     ];
+
+    public function wards()
+    {
+        return $this->hasMany(NgWard::class, 'local_government_id', 'data_id');
+    }
 }

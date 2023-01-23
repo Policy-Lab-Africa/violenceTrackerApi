@@ -2,5 +2,11 @@
 !data/
 !data/states
 !data/states/*
+!data/states/*/*
+!data/states/*/*/*
+!data/states/*/*/*/*
+!data/states/*/*/*/*/*
+!data/states/*/*/*/*/*/*
+!data/states/*/*/*/*/*/*/*
 !public/
 !.gitignore

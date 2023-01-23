@@ -1,0 +1,498 @@
+[
+  {
+    "id": "2070",
+    "name": "OSUSU AMAIKWU - OSUSU AMAUKWU VILLAGE SQUARE",
+    "registration_area_id": "89",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "01/09/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "89",
+    "ward_name": "ABAYI  I",
+    "local_government_id": "9",
+    "local_government_name": "OBINGWA",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": null
+  },
+  {
+    "id": "2071",
+    "name": "UMUORUKWU - UMUORUKWU SQUARE",
+    "registration_area_id": "89",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "01/09/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "89",
+    "ward_name": "ABAYI  I",
+    "local_government_id": "9",
+    "local_government_name": "OBINGWA",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.1844965,
+      "longitude": 7.386832399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.185677579892721,
+          "lng": 7.388216729892721
+        },
+        "southwest": {
+          "lat": 5.182977920107278,
+          "lng": 7.385517070107277
+        }
+      },
+      "formatted_address": "59MP+QPW, 453106, Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1844965,7.386832399999999",
+      "google_place_id": "ChIJa13RL4-XQhAR_gIJj-lDVp4"
+    }
+  },
+  {
+    "id": "2072",
+    "name": "ABAYI OWUAHIA - ABAYI OWUAHIA",
+    "registration_area_id": "89",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "01/09/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "89",
+    "ward_name": "ABAYI  I",
+    "local_government_id": "9",
+    "local_government_name": "OBINGWA",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.1,
+      "longitude": 7.433332999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.1111137,
+          "lng": 7.449340400000001
+        },
+        "southwest": {
+          "lat": 5.0888861,
+          "lng": 7.4173256
+        }
+      },
+      "formatted_address": "Abayi, 453106, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1,7.433332999999999",
+      "google_place_id": "ChIJNeKWrVSfQhAR5CrJKOQ1ZQE"
+    }
+  },
+  {
+    "id": "2073",
+    "name": "ABAYI OHANZE  VILLAGE  SQUARE",
+    "registration_area_id": "89",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "01/09/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "89",
+    "ward_name": "ABAYI  I",
+    "local_government_id": "9",
+    "local_government_name": "OBINGWA",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.1086885,
+      "longitude": 7.427579100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.110038929892721,
+          "lng": 7.428929329892722
+        },
+        "southwest": {
+          "lat": 5.107339270107278,
+          "lng": 7.426229670107278
+        }
+      },
+      "formatted_address": "4C5H+G36, 453106, Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1086885,7.427579100000001",
+      "google_place_id": "ChIJH1AC2q-YQhARj2n5xWS189M"
+    }
+  },
+  {
+    "id": "2074",
+    "name": "ABAYI OBEALA  VILLAGE SQUARE",
+    "registration_area_id": "89",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "01/09/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "89",
+    "ward_name": "ABAYI  I",
+    "local_government_id": "9",
+    "local_government_name": "OBINGWA",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": null
+  },
+  {
+    "id": "2075",
+    "name": "UMUOCHO - UMUOCHO MKT. SQUARE",
+    "registration_area_id": "89",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "01/09/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "89",
+    "ward_name": "ABAYI  I",
+    "local_government_id": "9",
+    "local_government_name": "OBINGWA",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.1298268,
+      "longitude": 7.358778399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.131271829892722,
+          "lng": 7.36023392989272
+        },
+        "southwest": {
+          "lat": 5.128572170107278,
+          "lng": 7.357534270107276
+        }
+      },
+      "formatted_address": "49H5+WGJ, Aba 450102, Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1298268,7.358778399999999",
+      "google_place_id": "ChIJ3wCt9mSZQhAROym1ABOyF6c"
+    }
+  },
+  {
+    "id": "2076",
+    "name": "ABAYI UMUIKEA - CENTRA L SCHOOL ABAYI  UMUIKEA",
+    "registration_area_id": "89",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "01/09/01/007",
+    "remark": "EXISTING PU",
+    "ward_id": "89",
+    "ward_name": "ABAYI  I",
+    "local_government_id": "9",
+    "local_government_name": "OBINGWA",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.1416713,
+      "longitude": 7.3464477,
+      "viewport": {
+        "northeast": {
+          "lat": 5.142842729892722,
+          "lng": 7.347730079892721
+        },
+        "southwest": {
+          "lat": 5.140143070107278,
+          "lng": 7.345030420107277
+        }
+      },
+      "formatted_address": "172 Aba-Owerri Rd, Abayi 453115, Aba, Abia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1416713,7.3464477",
+      "google_place_id": "ChIJlbUqrNSbQhARNBiPuk5pxUs"
+    }
+  },
+  {
+    "id": "2077",
+    "name": "ABAYI COMM- PRI. SCHOOL",
+    "registration_area_id": "89",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "01/09/01/008",
+    "remark": "EXISTING PU",
+    "ward_id": "89",
+    "ward_name": "ABAYI  I",
+    "local_government_id": "9",
+    "local_government_name": "OBINGWA",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.1062061,
+      "longitude": 7.325949,
+      "viewport": {
+        "northeast": {
+          "lat": 5.107689829892722,
+          "lng": 7.327283529892723
+        },
+        "southwest": {
+          "lat": 5.104990170107278,
+          "lng": 7.324583870107279
+        }
+      },
+      "formatted_address": "157a Ariaria Rd, Ariaria 453111, Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1062061,7.325949",
+      "google_place_id": "ChIJRWMIX8CbQhARhtVlC5P5tN0"
+    }
+  },
+  {
+    "id": "2078",
+    "name": "ABAYI AHIAORIE MKT. SQUARE.",
+    "registration_area_id": "89",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "01/09/01/009",
+    "remark": "EXISTING PU",
+    "ward_id": "89",
+    "ward_name": "ABAYI  I",
+    "local_government_id": "9",
+    "local_government_name": "OBINGWA",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.1173256,
+      "longitude": 7.3695543,
+      "viewport": {
+        "northeast": {
+          "lat": 5.118909779892721,
+          "lng": 7.370668829892721
+        },
+        "southwest": {
+          "lat": 5.116210120107278,
+          "lng": 7.367969170107277
+        }
+      },
+      "formatted_address": "4989+WRM, Aba 450101, Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1173256,7.3695543",
+      "google_place_id": "ChIJB-ANZ2mZQhAR_NARodpnQEU"
+    }
+  },
+  {
+    "id": "2079",
+    "name": "UMUOKPULOR  HALL",
+    "registration_area_id": "89",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "01/09/01/010",
+    "remark": "EXISTING PU",
+    "ward_id": "89",
+    "ward_name": "ABAYI  I",
+    "local_government_id": "9",
+    "local_government_name": "OBINGWA",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.122237699999999,
+      "longitude": 7.427213800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.123552829892722,
+          "lng": 7.42857732989272
+        },
+        "southwest": {
+          "lat": 5.120853170107278,
+          "lng": 7.425877670107276
+        }
+      },
+      "formatted_address": "4CCG+VVW, 453106, Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.122237699999999,7.427213800000001",
+      "google_place_id": "ChIJZRMZ9ZeYQhARcoZZiRi923g"
+    }
+  },
+  {
+    "id": "2080",
+    "name": "AMAOKPU MKT. SQUARE",
+    "registration_area_id": "89",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "01/09/01/011",
+    "remark": "EXISTING PU",
+    "ward_id": "89",
+    "ward_name": "ABAYI  I",
+    "local_government_id": "9",
+    "local_government_name": "OBINGWA",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.016130299999999,
+      "longitude": 7.3712807,
+      "viewport": {
+        "northeast": {
+          "lat": 5.017435479892722,
+          "lng": 7.372594179892722
+        },
+        "southwest": {
+          "lat": 5.014735820107278,
+          "lng": 7.369894520107279
+        }
+      },
+      "formatted_address": "298C+FG2, 453120, Umu Aja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.016130299999999,7.3712807",
+      "google_place_id": "ChIJL_wvTqAgaBARc392QGgaG9c"
+    }
+  },
+  {
+    "id": "2081",
+    "name": "UMUOKIRI HALL",
+    "registration_area_id": "89",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "01/09/01/012",
+    "remark": "EXISTING PU",
+    "ward_id": "89",
+    "ward_name": "ABAYI  I",
+    "local_government_id": "9",
+    "local_government_name": "OBINGWA",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.126061,
+      "longitude": 7.435473999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.127402729892721,
+          "lng": 7.436804379892719
+        },
+        "southwest": {
+          "lat": 5.124703070107278,
+          "lng": 7.434104720107276
+        }
+      },
+      "formatted_address": "4CGP+C5H, 453106, Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.126061,7.435473999999999",
+      "google_place_id": "ChIJZZqyKpyYQhARBc5KBG8MXhY"
+    }
+  },
+  {
+    "id": "2082",
+    "name": "UMUADILE COUNCIL HALL",
+    "registration_area_id": "89",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "01/09/01/013",
+    "remark": "NEW PU",
+    "ward_id": "89",
+    "ward_name": "ABAYI  I",
+    "local_government_id": "9",
+    "local_government_name": "OBINGWA",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.1165573,
+      "longitude": 7.3744862,
+      "viewport": {
+        "northeast": {
+          "lat": 5.117811329892723,
+          "lng": 7.375556529892723
+        },
+        "southwest": {
+          "lat": 5.115111670107279,
+          "lng": 7.372856870107279
+        }
+      },
+      "formatted_address": "1 Industry Rd, Aba 450211, Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1165573,7.3744862",
+      "google_place_id": "ChIJ_4n1Sj-ZQhARklkxlx9W1Oc"
+    }
+  },
+  {
+    "id": "2083",
+    "name": "UMUGURU COUNCIL HALL",
+    "registration_area_id": "89",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "01/09/01/014",
+    "remark": "NEW PU",
+    "ward_id": "89",
+    "ward_name": "ABAYI  I",
+    "local_government_id": "9",
+    "local_government_name": "OBINGWA",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.1165573,
+      "longitude": 7.3744862,
+      "viewport": {
+        "northeast": {
+          "lat": 5.117811329892723,
+          "lng": 7.375556529892723
+        },
+        "southwest": {
+          "lat": 5.115111670107279,
+          "lng": 7.372856870107279
+        }
+      },
+      "formatted_address": "1 Industry Rd, Aba 450211, Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1165573,7.3744862",
+      "google_place_id": "ChIJ_4n1Sj-ZQhARklkxlx9W1Oc"
+    }
+  },
+  {
+    "id": "2084",
+    "name": "UMUORUKWU CIVIC CENTRE",
+    "registration_area_id": "89",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "01/09/01/015",
+    "remark": "NEW PU",
+    "ward_id": "89",
+    "ward_name": "ABAYI  I",
+    "local_government_id": "9",
+    "local_government_name": "OBINGWA",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.207742,
+      "longitude": 7.4351489,
+      "viewport": {
+        "northeast": {
+          "lat": 5.209107479892722,
+          "lng": 7.436492429892721
+        },
+        "southwest": {
+          "lat": 5.206407820107279,
+          "lng": 7.433792770107277
+        }
+      },
+      "formatted_address": "1 Alozie Street, Ariaria 453101, Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.207742,7.4351489",
+      "google_place_id": "ChIJE-3V3d6XQhARlEx0xEktb7g"
+    }
+  },
+  {
+    "id": "2085",
+    "name": "NTIGHAUZO SOUTH PRIMARY SCHOOL",
+    "registration_area_id": "89",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "01/09/01/017",
+    "remark": "NEW PU",
+    "ward_id": "89",
+    "ward_name": "ABAYI  I",
+    "local_government_id": "9",
+    "local_government_name": "OBINGWA",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.1533717,
+      "longitude": 7.4577212,
+      "viewport": {
+        "northeast": {
+          "lat": 5.154657079892722,
+          "lng": 7.459275579892722
+        },
+        "southwest": {
+          "lat": 5.151957420107278,
+          "lng": 7.456575920107277
+        }
+      },
+      "formatted_address": "5F35+83X, Aba-Umuahia Road, 453106, Mgboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1533717,7.4577212",
+      "google_place_id": "ChIJ_9Pb8ZKiQhARIVAsWbs3YJc"
+    }
+  }
+]

@@ -4,6 +4,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\NgStateController;
 use App\Http\Controllers\ViolenceTypeController;
+use App\Http\Controllers\NgLocalGovernmentController;
 
 /*
 |--------------------------------------------------------------------------
@@ -22,6 +23,8 @@ Route::apiResource('states', NgStateController::class)->only([
     'index',
     'show',
 ]);
+
+Route::get('states/{ngState}/lgas', [NgStateController::class, 'showLgas']);
 
 
 

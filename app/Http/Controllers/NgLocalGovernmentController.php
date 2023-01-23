@@ -2,18 +2,20 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\NgState;
+use App\Models\NgLocalGovernment;
+use App\Http\Resources\NgLgaCollection;
 use App\Http\Requests\StoreNgLocalGovernmentRequest;
 use App\Http\Requests\UpdateNgLocalGovernmentRequest;
-use App\Models\NgLocalGovernment;
 
 class NgLocalGovernmentController extends Controller
 {
     /**
-     * Display a listing of the resource.
+     * Return Local Government Areas for a specified State
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function index(int|string $ngState)
     {
         //
     }
