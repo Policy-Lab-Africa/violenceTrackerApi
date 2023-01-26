@@ -43,15 +43,33 @@ class GeneratePuData implements ShouldQueue
                 $lgas = Storage::directories($stateLga);
                 foreach($lgas as $lga)
                 {
-                    // 
-                    $lgaWards = Storage::directories($lga.'/wards');
+                    //
+                    if(Storage::exists($lga.'/wards'))
+                    {
+                        $lgaWards = Storage::directories($lga.'/wards');
+                    } else {
 
-
-
+                        $subDirs = Storage::allDirectories($lga);
+                        foreach ($subDirs as $subDir) {
+                            if(Storage::exists($subDir.'/wards'))
+                            {
+                                $lgaWards = Storage::directories($subDir.'/wards');
+                                continue;
+                            }
+                        }
+                    }
                     
                     foreach($lgaWards as $ward)
                     {
-                        $units = Storage::get($ward.'/units/index.json');
+                        if(Storage::exists($ward.'/units/index.json'))
+                        {
+                            $units = Storage::get($ward.'/units/index.json');
+                        } else {
+                            // Lagos has some data in subfolders, this handles that
+                            $subFolder = Storage::directories($ward);
+                            $units = Storage::get($subFolder[0].'/units/index.json');
+                        }
+                        
                         $units = collect(json_decode($units));
                         foreach ($units as $unit) {
                             // dd($unit->location->latitude);

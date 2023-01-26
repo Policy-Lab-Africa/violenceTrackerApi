@@ -14,9 +14,6 @@ class NgStateResourceCollection extends ResourceCollection
      */
     public function toArray($request)
     {
-        return [
-            'states' => $this->collection,
-            'meta' => []
-        ];
+        return parent::toArray($request);
     }
 }

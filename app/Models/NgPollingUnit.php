@@ -25,4 +25,11 @@ class NgPollingUnit extends Model
         'state_id',
         'state_name',
     ];
+
+    protected $with = ['location'];
+
+    public function location()
+    {
+        return $this->hasOne(NgPuLocation::class, 'ng_polling_unit_id', 'data_id');
+    }
 }

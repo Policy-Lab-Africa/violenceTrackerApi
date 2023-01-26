@@ -2,8 +2,10 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\NgWardController;
 use App\Http\Controllers\NgStateController;
 use App\Http\Controllers\ViolenceTypeController;
+use App\Http\Controllers\NgPollingUnitController;
 use App\Http\Controllers\NgLocalGovernmentController;
 
 /*
@@ -24,7 +26,11 @@ Route::apiResource('states', NgStateController::class)->only([
     'show',
 ]);
 
-Route::get('states/{ngState}/lgas', [NgStateController::class, 'showLgas']);
+Route::get('states/{ngState}/lgas', [NgLocalGovernmentController::class, 'showLgas']);
+Route::get('lgas/{ngLga}/wards', [NgWardController::class, 'showWards']);
+Route::get('wards/{ngWard}/polling-units', [NgPollingUnitController::class, 'showPollingUnits']);
+
+Route::get('filter', [NgStateController::class, 'inecFilter']);
 
 
 

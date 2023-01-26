@@ -9,6 +9,7 @@ use App\Exceptions\NgStateException;
 class NgStateService
 {
     public $ngState;
+    
     // 
     public function __construct(NgState $ngState = null)
     {
@@ -30,14 +31,14 @@ class NgStateService
     }
 
     /**
-     * Find a state using ID or Name
+     * Find a state using `data_id` or Name
      *
      * @param integer|string $state
      * @return self
      */
     public function findState(int|string $state) : self
     {
-        $ngState = NgState::where('id', $state)->orWhere('name', $state)->first();
+        $ngState = NgState::where('data_id', $state)->orWhere('name', $state)->first();
 
         if(!is_null($ngState))
         {

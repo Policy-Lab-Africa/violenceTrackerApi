@@ -10,7 +10,11 @@ use App\Http\Requests\UpdateViolenceTypeRequest;
 class ViolenceTypeController extends Controller
 {
     /**
-     * Return a list of all violence types.
+     * Fetch violence report types
+     * 
+     * This endpoint returns an array of objects containing all violence report types in storage.
+     * 
+     * @group Violence Reports
      *
      * @return \Illuminate\Http\Response
      */

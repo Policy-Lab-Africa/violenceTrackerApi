@@ -2,9 +2,15 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\NgWard;
+use App\Services\NgWardService;
+use Illuminate\Support\Facades\Log;
+use App\Http\Controllers\Controller;
+use App\Http\Resources\NgWardCollection;
 use App\Http\Requests\StoreNgWardRequest;
 use App\Http\Requests\UpdateNgWardRequest;
-use App\Models\NgWard;
+use App\Services\NgLocalGovernmentService;
+use App\Http\Resources\NgPollingUnitCollection;
 
 class NgWardController extends Controller
 {
@@ -48,6 +54,43 @@ class NgWardController extends Controller
     public function show(NgWard $ngWard)
     {
         //
+    }
+
+    /**
+     * Fetch wards for a specified local government area
+     * 
+     * This endpoint returns an array of objects containing all the wards for a specific local government identified by it's `ng_local_government_areas.data_id`
+     *
+     * @urlParam lga mixed required the `data_id` or `name` of the local government you want to fetch wards for.
+     * 
+     * @group INEC Location Data
+     * @subgroup Wards
+     * 
+     * @param string|integer $lga
+     * @return void
+     */
+    public function showWards(string|int $lga)
+    {
+        try{
+
+            return $this->sendResponse([                
+              'wards' =>  new NgWardCollection(
+                    (new NgLocalGovernmentService)
+                    ->findLg($lga)
+                    ->getLg()
+                    ->wards
+                )
+            ]);
+        }catch(Exception $e)
+        {
+            Log::error('FetchLgaWardsFailed', [
+                'Exception' => $e
+            ]);
+
+            return $this->sendError([
+                'error' => 'Something went wrong'
+            ]); 
+        }
     }
 
     /**

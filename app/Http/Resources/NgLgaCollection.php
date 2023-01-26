@@ -14,8 +14,6 @@ class NgLgaCollection extends ResourceCollection
      */
     public function toArray($request)
     {
-        return [
-            'local_government_areas' => $this->collection
-        ];
+        return parent::toArray($request);
     }
 }
