@@ -43,7 +43,7 @@ class NgStateTest extends TestCase
      *
      * @return void
      */
-    public function testGetAnNgStateIsSuccessful()
+    public function testGetANigerianStateIsSuccessful()
     {
         $response = $this->get('api/states/1');
 
