@@ -1,0 +1,701 @@
+[
+  {
+    "id": "105316",
+    "name": "AMANAWA PRIMARY SCHOOL",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "21/21/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4139436,
+      "longitude": 5.2358217,
+      "viewport": {
+        "northeast": {
+          "lat": 11.41522852989272,
+          "lng": 5.237175429892722
+        },
+        "southwest": {
+          "lat": 11.41252887010728,
+          "lng": 5.234475770107278
+        }
+      },
+      "formatted_address": "C67P+H8G, Zango Area, Rijau - Zuru Rd, Zuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4139436,5.2358217",
+      "google_place_id": "ChIJOeJm2iCbtRERD59w5WJfKdg"
+    }
+  },
+  {
+    "id": "105317",
+    "name": "UNG. BAWA D/GUJIYA 'A'",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "21/21/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "105318",
+    "name": "UNG. BAWA D/GUDIYA 'B'",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "21/21/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "105319",
+    "name": "ELEMBELU",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "21/21/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4371182,
+      "longitude": 5.2424235,
+      "viewport": {
+        "northeast": {
+          "lat": 11.43846077989272,
+          "lng": 5.243749529892722
+        },
+        "southwest": {
+          "lat": 11.43576112010728,
+          "lng": 5.241049870107278
+        }
+      },
+      "formatted_address": "Unnamed Road, 872101, Zuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4371182,5.2424235",
+      "google_place_id": "ChIJJfHHmp2btRER15fQiwvDUkQ"
+    }
+  },
+  {
+    "id": "105320",
+    "name": "UNG. GUJIYA MAGAJI",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "21/21/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "105321",
+    "name": "MADUGU",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "21/21/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4371182,
+      "longitude": 5.2424235,
+      "viewport": {
+        "northeast": {
+          "lat": 11.43846077989272,
+          "lng": 5.243749529892722
+        },
+        "southwest": {
+          "lat": 11.43576112010728,
+          "lng": 5.241049870107278
+        }
+      },
+      "formatted_address": "Unnamed Road, 872101, Zuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4371182,5.2424235",
+      "google_place_id": "ChIJJfHHmp2btRER15fQiwvDUkQ"
+    }
+  },
+  {
+    "id": "105322",
+    "name": "MAGORO",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "21/21/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.3243428,
+      "longitude": 5.0019954,
+      "viewport": {
+        "northeast": {
+          "lat": 11.327678,
+          "lng": 5.007249
+        },
+        "southwest": {
+          "lat": 11.320956,
+          "lng": 4.999102
+        }
+      },
+      "formatted_address": "872211, Magoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3243428,5.0019954",
+      "google_place_id": "ChIJDd0nUEd-yhER-SAT9O6dRgA"
+    }
+  },
+  {
+    "id": "105323",
+    "name": "UNG. MANGA",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "21/21/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4371182,
+      "longitude": 5.2424235,
+      "viewport": {
+        "northeast": {
+          "lat": 11.43846077989272,
+          "lng": 5.243749529892722
+        },
+        "southwest": {
+          "lat": 11.43576112010728,
+          "lng": 5.241049870107278
+        }
+      },
+      "formatted_address": "Unnamed Road, 872101, Zuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4371182,5.2424235",
+      "google_place_id": "ChIJJfHHmp2btRER15fQiwvDUkQ"
+    }
+  },
+  {
+    "id": "105324",
+    "name": "RIO",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "21/21/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4384457,
+      "longitude": 5.231887899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4640661,
+          "lng": 5.2842725
+        },
+        "southwest": {
+          "lat": 11.403426,
+          "lng": 5.2200282
+        }
+      },
+      "formatted_address": "Zuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4384457,5.231887899999999",
+      "google_place_id": "ChIJs3lS6SWbtRERk9LECKkGBnU"
+    }
+  },
+  {
+    "id": "105325",
+    "name": "UNG. S/DUTSE",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "21/21/04/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4371182,
+      "longitude": 5.2424235,
+      "viewport": {
+        "northeast": {
+          "lat": 11.43846077989272,
+          "lng": 5.243749529892722
+        },
+        "southwest": {
+          "lat": 11.43576112010728,
+          "lng": 5.241049870107278
+        }
+      },
+      "formatted_address": "Unnamed Road, 872101, Zuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4371182,5.2424235",
+      "google_place_id": "ChIJJfHHmp2btRER15fQiwvDUkQ"
+    }
+  },
+  {
+    "id": "105326",
+    "name": "UNG. DUSTE USHE",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "21/21/04/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "105327",
+    "name": "MANGORON WABE",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "21/21/04/012",
+    "remark": "NEW PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "105328",
+    "name": "UNGUWAR KUTARE LEPROSY CENTRE",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "21/21/04/013",
+    "remark": "NEW PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "105329",
+    "name": "SARKU PRIMARY SCHOOL",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "21/21/04/014",
+    "remark": "NEW PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.449582,
+      "longitude": 5.2293923,
+      "viewport": {
+        "northeast": {
+          "lat": 11.45095217989272,
+          "lng": 5.230736079892722
+        },
+        "southwest": {
+          "lat": 11.44825252010728,
+          "lng": 5.228036420107278
+        }
+      },
+      "formatted_address": "C6XH+RQJ, 872101, Zuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.449582,5.2293923",
+      "google_place_id": "ChIJeS_GTd-btRERWW9mdzRlCSg"
+    }
+  },
+  {
+    "id": "105330",
+    "name": "UNGUWAR RIMI TOLL GATE",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "21/21/04/015",
+    "remark": "NEW PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 41.7012206,
+      "longitude": -71.4718135,
+      "viewport": {
+        "northeast": {
+          "lat": 41.70269327989273,
+          "lng": -71.47039217010727
+        },
+        "southwest": {
+          "lat": 41.69999362010728,
+          "lng": -71.47309182989272
+        }
+      },
+      "formatted_address": "250 Toll Gate Rd, Warwick, RI 02886, United States",
+      "google_map_url": "https://maps.google.com?q=41.7012206,-71.4718135",
+      "google_place_id": "ChIJjaZZYXlM5IkR109uvaTsl-M"
+    }
+  },
+  {
+    "id": "105331",
+    "name": "GOVERNMENT SCIENCE COLLEGE ZURU",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "21/21/04/016",
+    "remark": "NEW PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4213008,
+      "longitude": 5.2353855,
+      "viewport": {
+        "northeast": {
+          "lat": 11.42266092989272,
+          "lng": 5.236734979892722
+        },
+        "southwest": {
+          "lat": 11.41996127010728,
+          "lng": 5.234035320107278
+        }
+      },
+      "formatted_address": "C6CP+G5C, 872101, Zuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4213008,5.2353855",
+      "google_place_id": "ChIJ05nsowSbtRERKukBW-Py0LU"
+    }
+  },
+  {
+    "id": "105332",
+    "name": "UKAMBO PRIMARY SCHOOL",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "21/21/04/017",
+    "remark": "NEW PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4263937,
+      "longitude": 5.2371288,
+      "viewport": {
+        "northeast": {
+          "lat": 11.42774807989272,
+          "lng": 5.238501079892721
+        },
+        "southwest": {
+          "lat": 11.42504842010728,
+          "lng": 5.235801420107277
+        }
+      },
+      "formatted_address": "C6GP+HV2, 872101, Zuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4263937,5.2371288",
+      "google_place_id": "ChIJAfB6-CWbtRERLatOSRbDFUg"
+    }
+  },
+  {
+    "id": "105333",
+    "name": "UDUNKUDU  PRIMARY SCHOOL",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "21/21/04/018",
+    "remark": "NEW PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4263937,
+      "longitude": 5.2371288,
+      "viewport": {
+        "northeast": {
+          "lat": 11.42774807989272,
+          "lng": 5.238501079892721
+        },
+        "southwest": {
+          "lat": 11.42504842010728,
+          "lng": 5.235801420107277
+        }
+      },
+      "formatted_address": "C6GP+HV2, 872101, Zuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4263937,5.2371288",
+      "google_place_id": "ChIJAfB6-CWbtRERLatOSRbDFUg"
+    }
+  },
+  {
+    "id": "105334",
+    "name": "GAZZI PRIMARY SCHOOL",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "21/21/04/019",
+    "remark": "NEW PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "105335",
+    "name": "MAGORO PRIMARY SCHOOL",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "21/21/04/020",
+    "remark": "NEW PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4263937,
+      "longitude": 5.2371288,
+      "viewport": {
+        "northeast": {
+          "lat": 11.42774807989272,
+          "lng": 5.238501079892721
+        },
+        "southwest": {
+          "lat": 11.42504842010728,
+          "lng": 5.235801420107277
+        }
+      },
+      "formatted_address": "C6GP+HV2, 872101, Zuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4263937,5.2371288",
+      "google_place_id": "ChIJAfB6-CWbtRERLatOSRbDFUg"
+    }
+  },
+  {
+    "id": "105336",
+    "name": "TUNGAR MAESA",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "21/21/04/021",
+    "remark": "NEW PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "105337",
+    "name": "SUGA PRIMARY SCHOOL",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "21/21/04/022",
+    "remark": "NEW PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4263937,
+      "longitude": 5.2371288,
+      "viewport": {
+        "northeast": {
+          "lat": 11.42774807989272,
+          "lng": 5.238501079892721
+        },
+        "southwest": {
+          "lat": 11.42504842010728,
+          "lng": 5.235801420107277
+        }
+      },
+      "formatted_address": "C6GP+HV2, 872101, Zuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4263937,5.2371288",
+      "google_place_id": "ChIJAfB6-CWbtRERLatOSRbDFUg"
+    }
+  },
+  {
+    "id": "105338",
+    "name": "KBARMA DISPENSARY",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "21/21/04/023",
+    "remark": "NEW PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "105339",
+    "name": "TARU DANGE PRIMARY SCHOOL",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "21/21/04/024",
+    "remark": "NEW PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "105340",
+    "name": "AKUMU DISPENSARY",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "21/21/04/025",
+    "remark": "NEW PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "105341",
+    "name": "UNG. ROTI PRIMARY SCHOOL",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "21/21/04/026",
+    "remark": "NEW PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4263937,
+      "longitude": 5.2371288,
+      "viewport": {
+        "northeast": {
+          "lat": 11.42774807989272,
+          "lng": 5.238501079892721
+        },
+        "southwest": {
+          "lat": 11.42504842010728,
+          "lng": 5.235801420107277
+        }
+      },
+      "formatted_address": "C6GP+HV2, 872101, Zuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4263937,5.2371288",
+      "google_place_id": "ChIJAfB6-CWbtRERLatOSRbDFUg"
+    }
+  },
+  {
+    "id": "105342",
+    "name": "UNG. CHIROMA GONGO USHE",
+    "registration_area_id": "5408",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "21/21/04/027",
+    "remark": "NEW PU",
+    "ward_id": "5408",
+    "ward_name": "MANGA/USHE",
+    "local_government_id": "468",
+    "local_government_name": "ZURU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  }
+]

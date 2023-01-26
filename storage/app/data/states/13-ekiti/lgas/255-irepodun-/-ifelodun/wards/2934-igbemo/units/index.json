@@ -1,0 +1,695 @@
+[
+  {
+    "id": "54464",
+    "name": "OSODABI COMPOUND - OSODABI AREA  I",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "13/13/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.731258499999999,
+      "longitude": 5.2475518,
+      "viewport": {
+        "northeast": {
+          "lat": 7.790239799999999,
+          "lng": 5.416132
+        },
+        "southwest": {
+          "lat": 7.622909399999999,
+          "lng": 5.0990628
+        }
+      },
+      "formatted_address": "Irepodun/Ifelodun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.731258499999999,5.2475518",
+      "google_place_id": "ChIJ7YOS1hzjRxARBcWro8jaBjY"
+    }
+  },
+  {
+    "id": "54465",
+    "name": "NEAR OSODABI - OSODABI AREA   II",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "13/13/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.731258499999999,
+      "longitude": 5.2475518,
+      "viewport": {
+        "northeast": {
+          "lat": 7.790239799999999,
+          "lng": 5.416132
+        },
+        "southwest": {
+          "lat": 7.622909399999999,
+          "lng": 5.0990628
+        }
+      },
+      "formatted_address": "Irepodun/Ifelodun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.731258499999999,5.2475518",
+      "google_place_id": "ChIJ7YOS1hzjRxARBcWro8jaBjY"
+    }
+  },
+  {
+    "id": "54466",
+    "name": "ODOFIN COMPOUND - ODOFIN AREA",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "13/13/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.673318999999998,
+      "longitude": 5.1171505,
+      "viewport": {
+        "northeast": {
+          "lat": 7.6894775,
+          "lng": 5.1321851
+        },
+        "southwest": {
+          "lat": 7.663484599999999,
+          "lng": 5.1063106
+        }
+      },
+      "formatted_address": "Igede I, 362103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.673318999999998,5.1171505",
+      "google_place_id": "ChIJY6YG-8j-RxARU1zTfogFs1A"
+    }
+  },
+  {
+    "id": "54467",
+    "name": "OYESANYA COMPOUND - OYESANYA COMPOUND",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "13/13/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.691904499999999,
+      "longitude": 5.3677844,
+      "viewport": {
+        "northeast": {
+          "lat": 7.693596679892722,
+          "lng": 5.369280729892721
+        },
+        "southwest": {
+          "lat": 7.690897020107278,
+          "lng": 5.366581070107277
+        }
+      },
+      "formatted_address": "No 6mercy ijomu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.691904499999999,5.3677844",
+      "google_place_id": "ChIJI15tOEHhRxARKxAGQPtz_MM"
+    }
+  },
+  {
+    "id": "54468",
+    "name": "IWAKUN COMPOUND IWAKUN AREA",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "13/13/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.731258499999999,
+      "longitude": 5.2475518,
+      "viewport": {
+        "northeast": {
+          "lat": 7.790239799999999,
+          "lng": 5.416132
+        },
+        "southwest": {
+          "lat": 7.622909399999999,
+          "lng": 5.0990628
+        }
+      },
+      "formatted_address": "Irepodun/Ifelodun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.731258499999999,5.2475518",
+      "google_place_id": "ChIJ7YOS1hzjRxARBcWro8jaBjY"
+    }
+  },
+  {
+    "id": "54469",
+    "name": "OLOKETUYI COMPOUND - OLOKETUYI AREA",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "13/13/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.731258499999999,
+      "longitude": 5.2475518,
+      "viewport": {
+        "northeast": {
+          "lat": 7.790239799999999,
+          "lng": 5.416132
+        },
+        "southwest": {
+          "lat": 7.622909399999999,
+          "lng": 5.0990628
+        }
+      },
+      "formatted_address": "Irepodun/Ifelodun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.731258499999999,5.2475518",
+      "google_place_id": "ChIJ7YOS1hzjRxARBcWro8jaBjY"
+    }
+  },
+  {
+    "id": "54470",
+    "name": "IWALEWA COMPOUND - IWALEWA AREA",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "13/13/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.731258499999999,
+      "longitude": 5.2475518,
+      "viewport": {
+        "northeast": {
+          "lat": 7.790239799999999,
+          "lng": 5.416132
+        },
+        "southwest": {
+          "lat": 7.622909399999999,
+          "lng": 5.0990628
+        }
+      },
+      "formatted_address": "Irepodun/Ifelodun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.731258499999999,5.2475518",
+      "google_place_id": "ChIJ7YOS1hzjRxARBcWro8jaBjY"
+    }
+  },
+  {
+    "id": "54471",
+    "name": "OLOJE COMPOUND - OLOJE AREA",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "13/13/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.731258499999999,
+      "longitude": 5.2475518,
+      "viewport": {
+        "northeast": {
+          "lat": 7.790239799999999,
+          "lng": 5.416132
+        },
+        "southwest": {
+          "lat": 7.622909399999999,
+          "lng": 5.0990628
+        }
+      },
+      "formatted_address": "Irepodun/Ifelodun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.731258499999999,5.2475518",
+      "google_place_id": "ChIJ7YOS1hzjRxARBcWro8jaBjY"
+    }
+  },
+  {
+    "id": "54472",
+    "name": "ST PETER'S PRIMARY SCHOOL - OJIGBEMO SQUARE",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "13/13/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.727659500000001,
+      "longitude": 5.2561824,
+      "viewport": {
+        "northeast": {
+          "lat": 7.729030179892721,
+          "lng": 5.25750442989272
+        },
+        "southwest": {
+          "lat": 7.726330520107277,
+          "lng": 5.254804770107277
+        }
+      },
+      "formatted_address": "P7H4+4CG Unity - Satalite Phase Two, Road, 362103, Iworoko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.727659500000001,5.2561824",
+      "google_place_id": "ChIJN6hPpe3iRxAREpEjQfuYEgs"
+    }
+  },
+  {
+    "id": "54473",
+    "name": "FRONT AAFIN - AAFIN COMPOUND",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "13/13/04/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.731258499999999,
+      "longitude": 5.2475518,
+      "viewport": {
+        "northeast": {
+          "lat": 7.790239799999999,
+          "lng": 5.416132
+        },
+        "southwest": {
+          "lat": 7.622909399999999,
+          "lng": 5.0990628
+        }
+      },
+      "formatted_address": "Irepodun/Ifelodun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.731258499999999,5.2475518",
+      "google_place_id": "ChIJ7YOS1hzjRxARBcWro8jaBjY"
+    }
+  },
+  {
+    "id": "54474",
+    "name": "OJIGBEMO SQUARE - OJIGBEMO SQUARE",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "13/13/04/011",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.691904499999999,
+      "longitude": 5.3677844,
+      "viewport": {
+        "northeast": {
+          "lat": 7.693596679892722,
+          "lng": 5.369280729892721
+        },
+        "southwest": {
+          "lat": 7.690897020107278,
+          "lng": 5.366581070107277
+        }
+      },
+      "formatted_address": "4,Onigbemo Drive, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.691904499999999,5.3677844",
+      "google_place_id": "ChIJ8SsbidnhRxARnxM8uqE50_w"
+    }
+  },
+  {
+    "id": "54475",
+    "name": "ODOLA COMPOUND - ODOLA COMPOUND",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "13/13/04/012",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.731258499999999,
+      "longitude": 5.2475518,
+      "viewport": {
+        "northeast": {
+          "lat": 7.790239799999999,
+          "lng": 5.416132
+        },
+        "southwest": {
+          "lat": 7.622909399999999,
+          "lng": 5.0990628
+        }
+      },
+      "formatted_address": "Irepodun/Ifelodun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.731258499999999,5.2475518",
+      "google_place_id": "ChIJ7YOS1hzjRxARBcWro8jaBjY"
+    }
+  },
+  {
+    "id": "54476",
+    "name": "ST WILLAM'S PRIMARY SCHOOL - ODO AAFIN AREA",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "13/13/04/013",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.727659500000001,
+      "longitude": 5.2561824,
+      "viewport": {
+        "northeast": {
+          "lat": 7.729030179892721,
+          "lng": 5.25750442989272
+        },
+        "southwest": {
+          "lat": 7.726330520107277,
+          "lng": 5.254804770107277
+        }
+      },
+      "formatted_address": "P7H4+4CG Unity - Satalite Phase Two, Road, 362103, Iworoko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.727659500000001,5.2561824",
+      "google_place_id": "ChIJN6hPpe3iRxAREpEjQfuYEgs"
+    }
+  },
+  {
+    "id": "54477",
+    "name": "NEAR OLUWADUMIYE HOUSE - OLUWADUNMIYE AREA",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "13/13/04/014",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.731258499999999,
+      "longitude": 5.2475518,
+      "viewport": {
+        "northeast": {
+          "lat": 7.790239799999999,
+          "lng": 5.416132
+        },
+        "southwest": {
+          "lat": 7.622909399999999,
+          "lng": 5.0990628
+        }
+      },
+      "formatted_address": "Irepodun/Ifelodun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.731258499999999,5.2475518",
+      "google_place_id": "ChIJ7YOS1hzjRxARBcWro8jaBjY"
+    }
+  },
+  {
+    "id": "54478",
+    "name": "A. U. D. PRIMARY SCHOOL - POST OFFICE AREA",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "13/13/04/015",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6303357,
+      "longitude": 5.2099384,
+      "viewport": {
+        "northeast": {
+          "lat": 7.631685679892722,
+          "lng": 5.211287929892722
+        },
+        "southwest": {
+          "lat": 7.628986020107278,
+          "lng": 5.208588270107279
+        }
+      },
+      "formatted_address": "J6J5+4XP, Unnamed Road, 360102, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6303357,5.2099384",
+      "google_place_id": "ChIJw83fVYX7RxARQUL4EQPmNfg"
+    }
+  },
+  {
+    "id": "54479",
+    "name": "NEAR ODO ODI - ODO ODI AREA",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "13/13/04/016",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.731258499999999,
+      "longitude": 5.2475518,
+      "viewport": {
+        "northeast": {
+          "lat": 7.790239799999999,
+          "lng": 5.416132
+        },
+        "southwest": {
+          "lat": 7.622909399999999,
+          "lng": 5.0990628
+        }
+      },
+      "formatted_address": "Irepodun/Ifelodun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.731258499999999,5.2475518",
+      "google_place_id": "ChIJ7YOS1hzjRxARBcWro8jaBjY"
+    }
+  },
+  {
+    "id": "54480",
+    "name": "OLD DISPENSARY - OLD DISPENSARY",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "13/13/04/017",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.683097999999999,
+      "longitude": 5.3810779,
+      "viewport": {
+        "northeast": {
+          "lat": 7.684455629892722,
+          "lng": 5.382398529892722
+        },
+        "southwest": {
+          "lat": 7.681755970107278,
+          "lng": 5.379698870107278
+        }
+      },
+      "formatted_address": "M9MJ+6CP, 362101, Igbemo Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.683097999999999,5.3810779",
+      "google_place_id": "ChIJt-Cm-bzgRxARRAwbIEbn6OA"
+    }
+  },
+  {
+    "id": "54481",
+    "name": "FRONT HEALTH CENTER - HEALTH CENTER",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "13/13/04/018",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6187825,
+      "longitude": 5.2270939,
+      "viewport": {
+        "northeast": {
+          "lat": 7.620137179892723,
+          "lng": 5.228341579892723
+        },
+        "southwest": {
+          "lat": 7.617437520107279,
+          "lng": 5.225641920107279
+        }
+      },
+      "formatted_address": "J69G+GR9, 360101, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6187825,5.2270939",
+      "google_place_id": "ChIJu2v2TivlRxARUw7RwCe3Gwo"
+    }
+  },
+  {
+    "id": "54482",
+    "name": "BALOGUN COMPOUND - BALOGUN COMPOUND",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "13/13/04/019",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.691904499999999,
+      "longitude": 5.3677844,
+      "viewport": {
+        "northeast": {
+          "lat": 7.693596679892722,
+          "lng": 5.369280729892721
+        },
+        "southwest": {
+          "lat": 7.690897020107278,
+          "lng": 5.366581070107277
+        }
+      },
+      "formatted_address": "4,Onigbemo Drive, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.691904499999999,5.3677844",
+      "google_place_id": "ChIJ8SsbidnhRxARnxM8uqE50_w"
+    }
+  },
+  {
+    "id": "54483",
+    "name": "AT ORUN - OLOJA / BISHOP COMPOUND",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "13/13/04/020",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.731258499999999,
+      "longitude": 5.2475518,
+      "viewport": {
+        "northeast": {
+          "lat": 7.790239799999999,
+          "lng": 5.416132
+        },
+        "southwest": {
+          "lat": 7.622909399999999,
+          "lng": 5.0990628
+        }
+      },
+      "formatted_address": "Irepodun/Ifelodun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.731258499999999,5.2475518",
+      "google_place_id": "ChIJ7YOS1hzjRxARBcWro8jaBjY"
+    }
+  },
+  {
+    "id": "54484",
+    "name": "AJAGBEMOKEFERI HOUSE - EGBEDI COMPOUND",
+    "registration_area_id": "2934",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "13/13/04/021",
+    "remark": "EXISTING PU",
+    "ward_id": "2934",
+    "ward_name": "IGBEMO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.731258499999999,
+      "longitude": 5.2475518,
+      "viewport": {
+        "northeast": {
+          "lat": 7.790239799999999,
+          "lng": 5.416132
+        },
+        "southwest": {
+          "lat": 7.622909399999999,
+          "lng": 5.0990628
+        }
+      },
+      "formatted_address": "Irepodun/Ifelodun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.731258499999999,5.2475518",
+      "google_place_id": "ChIJ7YOS1hzjRxARBcWro8jaBjY"
+    }
+  }
+]

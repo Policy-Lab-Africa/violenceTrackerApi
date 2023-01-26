@@ -1,0 +1,470 @@
+[
+  {
+    "id": "31139",
+    "name": "YAHI CHIROMA",
+    "registration_area_id": "1676",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/02/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1676",
+    "ward_name": "NGOHI",
+    "local_government_id": "143",
+    "local_government_name": "ASKIRA / UBA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31140",
+    "name": "BULAMA ALI",
+    "registration_area_id": "1676",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/02/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1676",
+    "ward_name": "NGOHI",
+    "local_government_id": "143",
+    "local_government_name": "ASKIRA / UBA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31141",
+    "name": "LEHO PRI. SCH.",
+    "registration_area_id": "1676",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/02/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1676",
+    "ward_name": "NGOHI",
+    "local_government_id": "143",
+    "local_government_name": "ASKIRA / UBA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.7063487,
+      "longitude": 12.8170655,
+      "viewport": {
+        "northeast": {
+          "lat": 10.70775862989272,
+          "lng": 12.81840897989272
+        },
+        "southwest": {
+          "lat": 10.70505897010728,
+          "lng": 12.81570932010728
+        }
+      },
+      "formatted_address": "Leho B Primary School, 601103, Leho Pupudada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7063487,12.8170655",
+      "google_place_id": "ChIJA2tz37GKAhERAgQaz7Od200"
+    }
+  },
+  {
+    "id": "31142",
+    "name": "BULAMA BUKAR  I",
+    "registration_area_id": "1676",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/02/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1676",
+    "ward_name": "NGOHI",
+    "local_government_id": "143",
+    "local_government_name": "ASKIRA / UBA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
+  },
+  {
+    "id": "31143",
+    "name": "BULAMA BUKAR  II",
+    "registration_area_id": "1676",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/02/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1676",
+    "ward_name": "NGOHI",
+    "local_government_id": "143",
+    "local_government_name": "ASKIRA / UBA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31144",
+    "name": "BULAMA MAMMAN  I",
+    "registration_area_id": "1676",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/02/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1676",
+    "ward_name": "NGOHI",
+    "local_government_id": "143",
+    "local_government_name": "ASKIRA / UBA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31145",
+    "name": "BULAMA MAMMAN  II",
+    "registration_area_id": "1676",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/02/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1676",
+    "ward_name": "NGOHI",
+    "local_government_id": "143",
+    "local_government_name": "ASKIRA / UBA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31146",
+    "name": "ALAGARNO PRI. SCH. I",
+    "registration_area_id": "1676",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "08/02/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1676",
+    "ward_name": "NGOHI",
+    "local_government_id": "143",
+    "local_government_name": "ASKIRA / UBA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.657572,
+      "longitude": 12.9152404,
+      "viewport": {
+        "northeast": {
+          "lat": 10.65850487989272,
+          "lng": 12.91626212989272
+        },
+        "southwest": {
+          "lat": 10.65580522010728,
+          "lng": 12.91356247010728
+        }
+      },
+      "formatted_address": "MW58+23H, Unnamed Road, 601103, Askira, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.657572,12.9152404",
+      "google_place_id": "ChIJL4K6pvKNAhERPD2d_W30D3o"
+    }
+  },
+  {
+    "id": "31147",
+    "name": "ALAGARNO PRI. SCH. II",
+    "registration_area_id": "1676",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "08/02/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1676",
+    "ward_name": "NGOHI",
+    "local_government_id": "143",
+    "local_government_name": "ASKIRA / UBA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.657572,
+      "longitude": 12.9152404,
+      "viewport": {
+        "northeast": {
+          "lat": 10.65850487989272,
+          "lng": 12.91626212989272
+        },
+        "southwest": {
+          "lat": 10.65580522010728,
+          "lng": 12.91356247010728
+        }
+      },
+      "formatted_address": "MW58+23H, Unnamed Road, 601103, Askira, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.657572,12.9152404",
+      "google_place_id": "ChIJL4K6pvKNAhERPD2d_W30D3o"
+    }
+  },
+  {
+    "id": "31148",
+    "name": "ALAGARNO,  BULAMA DAHIRU",
+    "registration_area_id": "1676",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "08/02/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1676",
+    "ward_name": "NGOHI",
+    "local_government_id": "143",
+    "local_government_name": "ASKIRA / UBA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31149",
+    "name": "KOFAR BULAMA",
+    "registration_area_id": "1676",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "08/02/08/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1676",
+    "ward_name": "NGOHI",
+    "local_government_id": "143",
+    "local_government_name": "ASKIRA / UBA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
+  },
+  {
+    "id": "31150",
+    "name": "NGOHI PRI. SCH.",
+    "registration_area_id": "1676",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "08/02/08/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1676",
+    "ward_name": "NGOHI",
+    "local_government_id": "143",
+    "local_government_name": "ASKIRA / UBA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6731019,
+      "longitude": 12.6902175,
+      "viewport": {
+        "northeast": {
+          "lat": 10.67436717989272,
+          "lng": 12.69181192989272
+        },
+        "southwest": {
+          "lat": 10.67166752010728,
+          "lng": 12.68911227010727
+        }
+      },
+      "formatted_address": "MMFR+63W, 601103, Payawula, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6731019,12.6902175",
+      "google_place_id": "ChIJ6SaYdOBmAhERrypGQR9x2OM"
+    }
+  },
+  {
+    "id": "31151",
+    "name": "YAGA, THLAGWAR",
+    "registration_area_id": "1676",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "08/02/08/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1676",
+    "ward_name": "NGOHI",
+    "local_government_id": "143",
+    "local_government_name": "ASKIRA / UBA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31152",
+    "name": "MUSSA THLALALA  I",
+    "registration_area_id": "1676",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "08/02/08/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1676",
+    "ward_name": "NGOHI",
+    "local_government_id": "143",
+    "local_government_name": "ASKIRA / UBA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31153",
+    "name": "MUSSA THLALALA  II",
+    "registration_area_id": "1676",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "08/02/08/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1676",
+    "ward_name": "NGOHI",
+    "local_government_id": "143",
+    "local_government_name": "ASKIRA / UBA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31154",
+    "name": "B.A BOJOGA",
+    "registration_area_id": "1676",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "08/02/08/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1676",
+    "ward_name": "NGOHI",
+    "local_government_id": "143",
+    "local_government_name": "ASKIRA / UBA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31155",
+    "name": "BULAMA ALI",
+    "registration_area_id": "1676",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "08/02/08/017",
+    "remark": "EXISTING PU",
+    "ward_id": "1676",
+    "ward_name": "NGOHI",
+    "local_government_id": "143",
+    "local_government_name": "ASKIRA / UBA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31156",
+    "name": "BIJI, BIJI",
+    "registration_area_id": "1676",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "08/02/08/018",
+    "remark": "EXISTING PU",
+    "ward_id": "1676",
+    "ward_name": "NGOHI",
+    "local_government_id": "143",
+    "local_government_name": "ASKIRA / UBA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4815916,
+      "longitude": 12.6119337,
+      "viewport": {
+        "northeast": {
+          "lat": 10.483577,
+          "lng": 12.614081
+        },
+        "southwest": {
+          "lat": 10.479562,
+          "lng": 12.6101619
+        }
+      },
+      "formatted_address": "601103, Bijibiji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4815916,12.6119337",
+      "google_place_id": "ChIJTVt-TphwAhERF57ZT4WMZy4"
+    }
+  },
+  {
+    "id": "31157",
+    "name": "PUPA NYUNYU",
+    "registration_area_id": "1676",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "08/02/08/019",
+    "remark": "EXISTING PU",
+    "ward_id": "1676",
+    "ward_name": "NGOHI",
+    "local_government_id": "143",
+    "local_government_name": "ASKIRA / UBA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31158",
+    "name": "NGOHI DISPENSARY",
+    "registration_area_id": "1676",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "08/02/08/020",
+    "remark": "NEW PU",
+    "ward_id": "1676",
+    "ward_name": "NGOHI",
+    "local_government_id": "143",
+    "local_government_name": "ASKIRA / UBA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6674,
+      "longitude": 12.691,
+      "viewport": {
+        "northeast": {
+          "lat": 10.66888332989272,
+          "lng": 12.69275402989272
+        },
+        "southwest": {
+          "lat": 10.66618367010728,
+          "lng": 12.69005437010728
+        }
+      },
+      "formatted_address": "MM8R+XC6, 601103, Payawula, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6674,12.691",
+      "google_place_id": "ChIJZ0dBjN1mAhERHoVo31aaUeE"
+    }
+  }
+]

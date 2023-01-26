@@ -1,0 +1,2446 @@
+[
+  {
+    "id": "330193",
+    "name": "IGI-OLUGBIN ST. B/W HOUSE NOS. 9 & 11",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "24/19/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.539349000000001,
+      "longitude": 3.3822283,
+      "viewport": {
+        "northeast": {
+          "lat": 6.540698829892722,
+          "lng": 3.383578129892722
+        },
+        "southwest": {
+          "lat": 6.537999170107278,
+          "lng": 3.380878470107278
+        }
+      },
+      "formatted_address": "Igi Olugbin St, Somolu 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.539349000000001,3.3822283",
+      "google_place_id": "ChIJCQxB6gmNOxARwHx8la0p-Z0"
+    }
+  },
+  {
+    "id": "330194",
+    "name": "IGI-OLUGBIN ST. B/W HOUSE NOS. 31 & 33",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "24/19/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.539349000000001,
+      "longitude": 3.3822283,
+      "viewport": {
+        "northeast": {
+          "lat": 6.540698829892722,
+          "lng": 3.383578129892722
+        },
+        "southwest": {
+          "lat": 6.537999170107278,
+          "lng": 3.380878470107278
+        }
+      },
+      "formatted_address": "Igi Olugbin St, Somolu 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.539349000000001,3.3822283",
+      "google_place_id": "ChIJCQxB6gmNOxARwHx8la0p-Z0"
+    }
+  },
+  {
+    "id": "330195",
+    "name": "AKILO ST./WUSU ST. JUNCTION",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "24/19/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330196",
+    "name": "ADARANJO ST. IN FRONT OF HOUSE NO. 20",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "24/19/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330197",
+    "name": "OLORUNKEMI ST. B/W HOUSE NOS. 3 & 5",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "24/19/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330198",
+    "name": "ADISAFE ST./OLORUNKEMI ST. JUNCTION",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "24/19/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330199",
+    "name": "OLORUNKEMI ST. B/W HOUSE NOS. 13 & 15",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "24/19/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330200",
+    "name": "AINA ST. IN FRONT OF HOUSE NO. 11",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "24/19/06/008",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330201",
+    "name": "OSHO ST. IN FRONT OF HOUSE NO. 17",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "24/19/06/009",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330202",
+    "name": "EGBERONGBE ST. IN FRONT OF HOUSE NO. 12",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "24/19/06/010",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330203",
+    "name": "SOYINKA ST./FETUGA ST. JUNCTION I",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "24/19/06/011",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.540661099999999,
+      "longitude": 3.3852882,
+      "viewport": {
+        "northeast": {
+          "lat": 6.542020229892722,
+          "lng": 3.386589379892722
+        },
+        "southwest": {
+          "lat": 6.539320570107278,
+          "lng": 3.383889720107278
+        }
+      },
+      "formatted_address": "20 Fetuga St, Bariga 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.540661099999999,3.3852882",
+      "google_place_id": "ChIJPwD6tguNOxARY9hK_il86xg"
+    }
+  },
+  {
+    "id": "330204",
+    "name": "SOYINKA ST./FETUGA ST. JUNCTION II",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "24/19/06/012",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.540661099999999,
+      "longitude": 3.3852882,
+      "viewport": {
+        "northeast": {
+          "lat": 6.542020229892722,
+          "lng": 3.386589379892722
+        },
+        "southwest": {
+          "lat": 6.539320570107278,
+          "lng": 3.383889720107278
+        }
+      },
+      "formatted_address": "20 Fetuga St, Bariga 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.540661099999999,3.3852882",
+      "google_place_id": "ChIJPwD6tguNOxARY9hK_il86xg"
+    }
+  },
+  {
+    "id": "330205",
+    "name": "OPPOSITE TEXACO PETROL STATION FETUGA ST. I",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "24/19/06/013",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5971856,
+      "longitude": 3.3950382,
+      "viewport": {
+        "northeast": {
+          "lat": 6.598527229892721,
+          "lng": 3.396421329892722
+        },
+        "southwest": {
+          "lat": 6.595827570107277,
+          "lng": 3.393721670107277
+        }
+      },
+      "formatted_address": "Moses Adebisi St, Ketu 105102, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5971856,3.3950382",
+      "google_place_id": "ChIJ5WjnxeiSOxAREyyg8fn_qUk"
+    }
+  },
+  {
+    "id": "330206",
+    "name": "OPPOSITE TEXACO PETROL STATION FETUGA ST. II",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "24/19/06/014",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5971856,
+      "longitude": 3.3950382,
+      "viewport": {
+        "northeast": {
+          "lat": 6.598527229892721,
+          "lng": 3.396421329892722
+        },
+        "southwest": {
+          "lat": 6.595827570107277,
+          "lng": 3.393721670107277
+        }
+      },
+      "formatted_address": "Moses Adebisi St, Ketu 105102, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5971856,3.3950382",
+      "google_place_id": "ChIJ5WjnxeiSOxAREyyg8fn_qUk"
+    }
+  },
+  {
+    "id": "330207",
+    "name": "FETUGA ST. IN FRONT OF HOUSE NO. 50",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "24/19/06/015",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330208",
+    "name": "FETUGA ST. IN FRONT OF HOUSE NO. 56",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "24/19/06/016",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330209",
+    "name": "OGUNBADEJO ST. IN FRONT OF HOUSE NO. 16",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "24/19/06/017",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330210",
+    "name": "KAJOLA ST. IN FRONT OF HOUSE NO. 17",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "24/19/06/018",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330211",
+    "name": "AYORINDE ST. IN FRONT OF HOUSE NO. 4",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "24/19/06/019",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330212",
+    "name": "OGUNDOLA ST. B/W HOUSE NOS. 4 & 6",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "24/19/06/020",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5361762,
+      "longitude": 3.385506,
+      "viewport": {
+        "northeast": {
+          "lat": 6.537526029892722,
+          "lng": 3.386855829892723
+        },
+        "southwest": {
+          "lat": 6.534826370107278,
+          "lng": 3.384156170107278
+        }
+      },
+      "formatted_address": "Ogundola St, Somolu 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5361762,3.385506",
+      "google_place_id": "ChIJ7c3JXg-NOxARucd3cf48dP0"
+    }
+  },
+  {
+    "id": "330213",
+    "name": "OGUNDOLA ST. IN FRONT OF HOUSE NO. 36",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "24/19/06/021",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330214",
+    "name": "OLOJA PRY. SCH. OLOJA ST. I",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "24/19/06/022",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.534973799999999,
+      "longitude": 3.3837814,
+      "viewport": {
+        "northeast": {
+          "lat": 6.536300229892722,
+          "lng": 3.385149929892722
+        },
+        "southwest": {
+          "lat": 6.533600570107279,
+          "lng": 3.382450270107277
+        }
+      },
+      "formatted_address": "13 Oloja St, Bariga 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.534973799999999,3.3837814",
+      "google_place_id": "ChIJ9_RKqQiNOxARPVCKaVhyUSo"
+    }
+  },
+  {
+    "id": "330215",
+    "name": "OLOJA PRY. SCH. OLOJA ST. II",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "24/19/06/023",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.534973799999999,
+      "longitude": 3.3837814,
+      "viewport": {
+        "northeast": {
+          "lat": 6.536300229892722,
+          "lng": 3.385149929892722
+        },
+        "southwest": {
+          "lat": 6.533600570107279,
+          "lng": 3.382450270107277
+        }
+      },
+      "formatted_address": "13 Oloja St, Bariga 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.534973799999999,3.3837814",
+      "google_place_id": "ChIJ9_RKqQiNOxARPVCKaVhyUSo"
+    }
+  },
+  {
+    "id": "330216",
+    "name": "ADESINA ST. IN FRONT OF HOUSE NO. 38",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "24/19/06/024",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330217",
+    "name": "ADESINA ST. IN FRONT OF HOUSE NO. 42",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "24/19/06/025",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330218",
+    "name": "ADESINA ST./BARIGA RD. JUNCTION",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "24/19/06/026",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330219",
+    "name": "BARIGA RD. IN FRONT OF HOUSE NO. 15",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "24/19/06/027",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.533333,
+      "longitude": 3.383333,
+      "viewport": {
+        "northeast": {
+          "lat": 6.534663079892722,
+          "lng": 3.384646429892723
+        },
+        "southwest": {
+          "lat": 6.531963420107278,
+          "lng": 3.381946770107278
+        }
+      },
+      "formatted_address": "6, Akinwale Street, Bariga, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.533333,3.383333",
+      "google_place_id": "ChIJlU6obgaNOxARBWZ3tcbcyNU"
+    }
+  },
+  {
+    "id": "330220",
+    "name": "BARIGA RD. IN FRONT OF HOUSE NO. 11",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "24/19/06/028",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330221",
+    "name": "KADIRI ST. IN FRONT OF HOUSE NO. 2",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "24/19/06/029",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330222",
+    "name": "MOGBONJUBOLA ST. IN FRONT OF HOUSE NO. 18",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "24/19/06/030",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330223",
+    "name": "EBUNOLUWA ST./ONILEYAN ST. JUNCTION",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "24/19/06/031",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.533805999999999,
+      "longitude": 3.3852195,
+      "viewport": {
+        "northeast": {
+          "lat": 6.535155829892721,
+          "lng": 3.386569329892722
+        },
+        "southwest": {
+          "lat": 6.532456170107277,
+          "lng": 3.383869670107277
+        }
+      },
+      "formatted_address": "Ebunoluwa St & Onileyan St, Somolu 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.533805999999999,3.3852195",
+      "google_place_id": "EjlFYnVub2x1d2EgU3QgJiBPbmlsZXlhbiBTdCwgQmFyaWdhIDEwMjIxNiwgTGFnb3MsIE5pZ2VyaWEiZiJkChQKEgm7Z5rpBY07EBHLaVze15qvexIUChIJu2ea6QWNOxARy2lc3tear3saFAoSCYE6DOoFjTsQEcUdxd0_CIlTGhQKEglzBg7pBY07EBFQZMQsdoIiuCIKDcz65AMVI4sEAg"
+    }
+  },
+  {
+    "id": "330224",
+    "name": "ODULESI ST. IN FRONT OF HOUSE NO. 10",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "24/19/06/032",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330225",
+    "name": "AKINSANYA ST. IN FRONT OF HOUSE NO. 16",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "24/19/06/033",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330226",
+    "name": "CMS GRAMMAR SCH. COMPOUND",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "24/19/06/034",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.534530699999999,
+      "longitude": 3.3890588,
+      "viewport": {
+        "northeast": {
+          "lat": 6.535544629892722,
+          "lng": 3.390104929892722
+        },
+        "southwest": {
+          "lat": 6.532844970107278,
+          "lng": 3.387405270107277
+        }
+      },
+      "formatted_address": "G9MQ+RJ7, St Finbarr's College Rd, Akoka 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.534530699999999,3.3890588",
+      "google_place_id": "ChIJjYkbWgWNOxAR7WKOAFhvJko"
+    }
+  },
+  {
+    "id": "330227",
+    "name": "OKUTA RD. IN FRONT OF HOUSE NO. 19",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "24/19/06/035",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330228",
+    "name": "ONIPE ST. IN FRONT OF HOUSE NO. 8",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "036",
+    "units": "036",
+    "delimitation": "24/19/06/036",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330229",
+    "name": "ONIPE ST. IN FRONT OF HOUSE NO. 16",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "037",
+    "units": "037",
+    "delimitation": "24/19/06/037",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330230",
+    "name": "LAWAL ST. IN FRONT OF HOUSE NO. 20",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "038",
+    "units": "038",
+    "delimitation": "24/19/06/038",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330231",
+    "name": "TAIWO ST./MUMUNI ST. JUNCTION I",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "039",
+    "units": "039",
+    "delimitation": "24/19/06/039",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330232",
+    "name": "TAIWO ST./MUMUNI ST. JUNCTION II",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "040",
+    "units": "040",
+    "delimitation": "24/19/06/040",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330233",
+    "name": "AWOFESO ST./ONALAJA ST. JUNCTION",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "041",
+    "units": "041",
+    "delimitation": "24/19/06/041",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5432419,
+      "longitude": 3.3701655,
+      "viewport": {
+        "northeast": {
+          "lat": 6.544590679892722,
+          "lng": 3.371586879892722
+        },
+        "southwest": {
+          "lat": 6.541891020107278,
+          "lng": 3.368887220107278
+        }
+      },
+      "formatted_address": "4 Lisabi St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5432419,3.3701655",
+      "google_place_id": "ChIJZVtRSzKNOxARRKTCTKQ5Z80"
+    }
+  },
+  {
+    "id": "330234",
+    "name": "ALH. RASHEED AKOTUN ST. IN FRONT OF HOUSE NO. 6",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "042",
+    "units": "042",
+    "delimitation": "24/19/06/042",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330235",
+    "name": "ALH. RASHEED AKOTUN ST. IN FRONT OF HOUSE NO. 19",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "043",
+    "units": "043",
+    "delimitation": "24/19/06/043",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330236",
+    "name": "OLOWU ST. B/W HOUSE NOS. 8 & 10",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "044",
+    "units": "044",
+    "delimitation": "24/19/06/044",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330237",
+    "name": "OLOWU ST. B/W HOUSE NOS. 16 & 18",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "045",
+    "units": "045",
+    "delimitation": "24/19/06/045",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330238",
+    "name": "OLUSOJI ST. IN FRONT OF HOUSE NO. 6",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "046",
+    "units": "046",
+    "delimitation": "24/19/06/046",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330239",
+    "name": "OLUSOJI ST. IN FRONT OF HOUSE NO. 22",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "047",
+    "units": "047",
+    "delimitation": "24/19/06/047",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330240",
+    "name": "AKINOLA ST. IN FRONT OF HOUSE NO. 45",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "048",
+    "units": "048",
+    "delimitation": "24/19/06/048",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5397358,
+      "longitude": 3.3887498,
+      "viewport": {
+        "northeast": {
+          "lat": 6.541129179892721,
+          "lng": 3.390037479892722
+        },
+        "southwest": {
+          "lat": 6.538429520107277,
+          "lng": 3.387337820107277
+        }
+      },
+      "formatted_address": "32 Akinola St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5397358,3.3887498",
+      "google_place_id": "ChIJ-7oA1i2NOxARqY4bsUstjKU"
+    }
+  },
+  {
+    "id": "330241",
+    "name": "AKINOLA ST./AKINWALE ST. JUNCTION I",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "049",
+    "units": "049",
+    "delimitation": "24/19/06/049",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5397358,
+      "longitude": 3.3887498,
+      "viewport": {
+        "northeast": {
+          "lat": 6.541129179892721,
+          "lng": 3.390037479892722
+        },
+        "southwest": {
+          "lat": 6.538429520107277,
+          "lng": 3.387337820107277
+        }
+      },
+      "formatted_address": "32 Akinola St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5397358,3.3887498",
+      "google_place_id": "ChIJ-7oA1i2NOxARqY4bsUstjKU"
+    }
+  },
+  {
+    "id": "330242",
+    "name": "AKINOLA ST./AKINWALE ST. JUNCTION II",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "050",
+    "units": "050",
+    "delimitation": "24/19/06/050",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330243",
+    "name": "GRACE ST. IN FRONT OF HOUSE NO. 13",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "051",
+    "units": "051",
+    "delimitation": "24/19/06/051",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330244",
+    "name": "AKINPELU ST. IN FRONT OF HOUSE NO. 26",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "052",
+    "units": "052",
+    "delimitation": "24/19/06/052",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330245",
+    "name": "BARIGA PRY. SCH.",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "053",
+    "units": "053",
+    "delimitation": "24/19/06/053",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5420957,
+      "longitude": 3.3891576,
+      "viewport": {
+        "northeast": {
+          "lat": 6.543389329892721,
+          "lng": 3.390545879892722
+        },
+        "southwest": {
+          "lat": 6.540689670107278,
+          "lng": 3.387846220107277
+        }
+      },
+      "formatted_address": "49 Odunguwa St, Bariga 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5420957,3.3891576",
+      "google_place_id": "ChIJ5Zs1dhKNOxARyt3A2cWAEow"
+    }
+  },
+  {
+    "id": "330246",
+    "name": "WEMIMO ST. IN FRONT OF HOUSE NO. 2",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "054",
+    "units": "054",
+    "delimitation": "24/19/06/054",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330247",
+    "name": "AIYETORO COMMUNITY HALL",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "055",
+    "units": "055",
+    "delimitation": "24/19/06/055",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5391037,
+      "longitude": 3.3849441,
+      "viewport": {
+        "northeast": {
+          "lat": 6.540458129892722,
+          "lng": 3.386298729892722
+        },
+        "southwest": {
+          "lat": 6.537758470107278,
+          "lng": 3.383599070107278
+        }
+      },
+      "formatted_address": "54 Ladi-Lak Street, Bariga. Lagos Bariga LCDA, Bariga, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5391037,3.3849441",
+      "google_place_id": "ChIJjfMQch2NOxARtPDzNiNZbn0"
+    }
+  },
+  {
+    "id": "330248",
+    "name": "ODUSE ST. IN FRONT OF HOUSE NO. 6",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "056",
+    "units": "056",
+    "delimitation": "24/19/06/056",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330249",
+    "name": "AJENIYA ST. IN FRONT OF HOUSE NO. 12",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "057",
+    "units": "057",
+    "delimitation": "24/19/06/057",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330250",
+    "name": "AKINROMOLA ST. IN FRONT OF HOUSE NO. 4",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "058",
+    "units": "058",
+    "delimitation": "24/19/06/058",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330251",
+    "name": "ABULE AYO PRY. SCH. (AYINKE ST.)",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "059",
+    "units": "059",
+    "delimitation": "24/19/06/059",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5421665,
+      "longitude": 3.3894493,
+      "viewport": {
+        "northeast": {
+          "lat": 6.543467629892721,
+          "lng": 3.390776679892722
+        },
+        "southwest": {
+          "lat": 6.540767970107277,
+          "lng": 3.388077020107277
+        }
+      },
+      "formatted_address": "1, Odungunwa street, Ladi Lak Bus stop, Bariga, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5421665,3.3894493",
+      "google_place_id": "ChIJRxxeTGyNOxAR8MHOxyuskGI"
+    }
+  },
+  {
+    "id": "330252",
+    "name": "MABINUORI ST. IN FRONT OF HOUSE NO. 16",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "060",
+    "units": "060",
+    "delimitation": "24/19/06/060",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330253",
+    "name": "AYODELE ST. IN FRONT OF HOUSE NO. 2",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "061",
+    "units": "061",
+    "delimitation": "24/19/06/061",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330254",
+    "name": "AYODELE ST. IN FRONT OF HOUSE NO. 28",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "062",
+    "units": "062",
+    "delimitation": "24/19/06/062",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330255",
+    "name": "BANJO ST. IN FRONT OF HOUSE NO. 14",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "063",
+    "units": "063",
+    "delimitation": "24/19/06/063",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330256",
+    "name": "OLORUNTOYIN ST. IN FRONT OF HOUSE NO. 1",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "064",
+    "units": "064",
+    "delimitation": "24/19/06/064",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330257",
+    "name": "BURAIMOH ST. IN FRONT OF HOUSE NO. 4",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "065",
+    "units": "065",
+    "delimitation": "24/19/06/065",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330258",
+    "name": "BURAIMOH ST. IN FRONT OF HOUSE NO. 10",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "066",
+    "units": "066",
+    "delimitation": "24/19/06/066",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330259",
+    "name": "ONASANYA ST. IN FRONT OF HOUSE NO. 3",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "067",
+    "units": "067",
+    "delimitation": "24/19/06/067",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330260",
+    "name": "ONASANYA ST. IN FRONT OF HOUSE NO. 32",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "068",
+    "units": "068",
+    "delimitation": "24/19/06/068",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330261",
+    "name": "AKINTUNDE ST. IN FRONT OF HOUSE NO. 10",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "069",
+    "units": "069",
+    "delimitation": "24/19/06/069",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330262",
+    "name": "AYINKE PRY. SCH. AYINKE ST. I",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "070",
+    "units": "070",
+    "delimitation": "24/19/06/070",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5422519,
+      "longitude": 3.3844674,
+      "viewport": {
+        "northeast": {
+          "lat": 6.543586479892722,
+          "lng": 3.385843579892723
+        },
+        "southwest": {
+          "lat": 6.540886820107279,
+          "lng": 3.383143920107278
+        }
+      },
+      "formatted_address": "13 Ayinke St, Bariga 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5422519,3.3844674",
+      "google_place_id": "ChIJj0EnrlyNOxARr5KQI04ViwI"
+    }
+  },
+  {
+    "id": "330263",
+    "name": "AYINKE PRY. SCH. AYINKE ST. II",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "071",
+    "units": "071",
+    "delimitation": "24/19/06/071",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5422519,
+      "longitude": 3.3844674,
+      "viewport": {
+        "northeast": {
+          "lat": 6.543586479892722,
+          "lng": 3.385843579892723
+        },
+        "southwest": {
+          "lat": 6.540886820107279,
+          "lng": 3.383143920107278
+        }
+      },
+      "formatted_address": "13 Ayinke St, Bariga 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5422519,3.3844674",
+      "google_place_id": "ChIJj0EnrlyNOxARr5KQI04ViwI"
+    }
+  },
+  {
+    "id": "330264",
+    "name": "AYINKE/WRIGHT ST. JUNCTION",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "072",
+    "units": "072",
+    "delimitation": "24/19/06/072",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5433533,
+      "longitude": 3.3852381,
+      "viewport": {
+        "northeast": {
+          "lat": 6.544703129892721,
+          "lng": 3.386587929892723
+        },
+        "southwest": {
+          "lat": 6.542003470107277,
+          "lng": 3.383888270107278
+        }
+      },
+      "formatted_address": "Wright St & Ayinke St, Somolu 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5433533,3.3852381",
+      "google_place_id": "EjRXcmlnaHQgU3QgJiBBeWlua2UgU3QsIEJhcmlnYSAxMDIyMTYsIExhZ29zLCBOaWdlcmlhImYiZAoUChIJGXLTjgyNOxAR3V1rBrGfdwISFAoSCRly044MjTsQEd1dawaxn3cCGhQKEglNrwf1DI07EBEQ9sr5mp_BxhoUChIJrQUVfAyNOxARXI9d2el9UXEiCg29b-YDFd2LBAI"
+    }
+  },
+  {
+    "id": "330265",
+    "name": "OBANILEARO ST. IN FRONT OF HOUSE NO. 1",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "073",
+    "units": "073",
+    "delimitation": "24/19/06/073",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330266",
+    "name": "LADLAK PRY. SCH. OMOWUNMI ST.",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "074",
+    "units": "074",
+    "delimitation": "24/19/06/074",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5017852,
+      "longitude": 3.3789078,
+      "viewport": {
+        "northeast": {
+          "lat": 6.503143629892723,
+          "lng": 3.380279129892723
+        },
+        "southwest": {
+          "lat": 6.500443970107279,
+          "lng": 3.377579470107278
+        }
+      },
+      "formatted_address": "G92H+PH7, Queen St, Alagomeji-Yaba 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5017852,3.3789078",
+      "google_place_id": "ChIJdfppH2CMOxARzHnfMYDQ4Kc"
+    }
+  },
+  {
+    "id": "330267",
+    "name": "PRY. HEALTH CARE CENTRE ADELEYE ST.",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "075",
+    "units": "075",
+    "delimitation": "24/19/06/075",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.542895499999999,
+      "longitude": 3.3842019,
+      "viewport": {
+        "northeast": {
+          "lat": 6.544255929892722,
+          "lng": 3.385532379892723
+        },
+        "southwest": {
+          "lat": 6.541556270107278,
+          "lng": 3.382832720107278
+        }
+      },
+      "formatted_address": "G9VM+5M4, Adeleye St, Bariga 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.542895499999999,3.3842019",
+      "google_place_id": "ChIJzyCIfwyNOxAREIVg2_WJ8tM"
+    }
+  },
+  {
+    "id": "330268",
+    "name": "ADELEYE ST./ADEWALE ST. JUNCTION",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "076",
+    "units": "076",
+    "delimitation": "24/19/06/076",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5412678,
+      "longitude": 3.3835077,
+      "viewport": {
+        "northeast": {
+          "lat": 6.542617629892723,
+          "lng": 3.384857529892722
+        },
+        "southwest": {
+          "lat": 6.539917970107279,
+          "lng": 3.382157870107278
+        }
+      },
+      "formatted_address": "Adeleye St & Adewale St, Somolu 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5412678,3.3835077",
+      "google_place_id": "EjZBZGVsZXllIFN0ICYgQWRld2FsZSBTdCwgQmFyaWdhIDEwMjIxNiwgTGFnb3MsIE5pZ2VyaWEiZiJkChQKEgnDtaLuC407EBF_XGHcwdmhrRIUChIJw7Wi7guNOxARf1xh3MHZoa0aFAoSCSsQN4ELjTsQERqc3MBKp0ETGhQKEgn71KLuC407EBFclemYxEqVEiIKDUYe5gMVRUgEAg"
+    }
+  },
+  {
+    "id": "330269",
+    "name": "OREMERIN ST. IN FRONT OF HOUSE NO. 16",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "077",
+    "units": "077",
+    "delimitation": "24/19/06/077",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330270",
+    "name": "OGUNBEKUN/DAILEY ST. JUNCTION (EVEN NOS.) I",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "078",
+    "units": "078",
+    "delimitation": "24/19/06/078",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330271",
+    "name": "OGUNBEKUN/DAILEY ST. JUNCTION (EVEN NOS.) II",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "079",
+    "units": "079",
+    "delimitation": "24/19/06/079",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330272",
+    "name": "AKANBI ST. IN FRONT OF HOUSE NO. 16",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "080",
+    "units": "080",
+    "delimitation": "24/19/06/080",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330273",
+    "name": "AKILO ST. IN FRONT OF HOUSE NO. 20",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "081",
+    "units": "081",
+    "delimitation": "24/19/06/081",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330274",
+    "name": "AKILO ST. IN FRONT OF HOUSE NO. 38",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "082",
+    "units": "082",
+    "delimitation": "24/19/06/082",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330275",
+    "name": "ADENIJI ST. IN FRONT OF HOUSE NO. 18",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "083",
+    "units": "083",
+    "delimitation": "24/19/06/083",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330276",
+    "name": "TAPA ST. IN FRONT OF HOUSE NO. 12",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "084",
+    "units": "084",
+    "delimitation": "24/19/06/084",
+    "remark": "EXISTING PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330277",
+    "name": "OLORUNKEMI ST. BTW HOUSE NO 32",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "085",
+    "units": "085",
+    "delimitation": "24/19/06/085",
+    "remark": "NEW PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330278",
+    "name": "OLOJA ST HOUSE 19",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "086",
+    "units": "086",
+    "delimitation": "24/19/06/086",
+    "remark": "NEW PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  },
+  {
+    "id": "330279",
+    "name": "AKINOLA ST. IN FRONT OF HOUSE NO. 57",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "087",
+    "units": "087",
+    "delimitation": "24/19/06/087",
+    "remark": "NEW PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5397358,
+      "longitude": 3.3887498,
+      "viewport": {
+        "northeast": {
+          "lat": 6.541129179892721,
+          "lng": 3.390037479892722
+        },
+        "southwest": {
+          "lat": 6.538429520107277,
+          "lng": 3.387337820107277
+        }
+      },
+      "formatted_address": "32 Akinola St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5397358,3.3887498",
+      "google_place_id": "ChIJ-7oA1i2NOxARqY4bsUstjKU"
+    }
+  },
+  {
+    "id": "330280",
+    "name": "AKINOLA ST HOUSE 28",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "088",
+    "units": "088",
+    "delimitation": "24/19/06/088",
+    "remark": "NEW PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5397358,
+      "longitude": 3.3887498,
+      "viewport": {
+        "northeast": {
+          "lat": 6.541129179892721,
+          "lng": 3.390037479892722
+        },
+        "southwest": {
+          "lat": 6.538429520107277,
+          "lng": 3.387337820107277
+        }
+      },
+      "formatted_address": "32 Akinola St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5397358,3.3887498",
+      "google_place_id": "ChIJ-7oA1i2NOxARqY4bsUstjKU"
+    }
+  },
+  {
+    "id": "330281",
+    "name": "WEMIMO ST HOUSE 22",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "089",
+    "units": "089",
+    "delimitation": "24/19/06/089",
+    "remark": "NEW PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330282",
+    "name": "ADEWUNMI ST/ OGUNBULE ST JUNCTION",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "090",
+    "units": "090",
+    "delimitation": "24/19/06/090",
+    "remark": "NEW PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5406292,
+      "longitude": 3.3842497,
+      "viewport": {
+        "northeast": {
+          "lat": 6.541979029892721,
+          "lng": 3.385599529892722
+        },
+        "southwest": {
+          "lat": 6.539279370107277,
+          "lng": 3.382899870107277
+        }
+      },
+      "formatted_address": "Ogunbule St & Adewunmi St, Somolu 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5406292,3.3842497",
+      "google_place_id": "EjhPZ3VuYnVsZSBTdCAmIEFkZXd1bm1pIFN0LCBCYXJpZ2EgMTAyMjE2LCBMYWdvcywgTmlnZXJpYSJmImQKFAoSCXvk2v4LjTsQEaQMJGzZaKp-EhQKEgl75Nr-C407EBGkDCRs2WiqfhoUChIJKx985AuNOxARGu5ShipmoJ8aFAoSCZkdblUJjTsQEcUpVX9y2--fIgoNVAXmAxVBZQQC"
+    }
+  },
+  {
+    "id": "330283",
+    "name": "LADI-LAK PRY SCH GATE",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "091",
+    "units": "091",
+    "delimitation": "24/19/06/091",
+    "remark": "NEW PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5017852,
+      "longitude": 3.3789078,
+      "viewport": {
+        "northeast": {
+          "lat": 6.503143629892723,
+          "lng": 3.380279129892723
+        },
+        "southwest": {
+          "lat": 6.500443970107279,
+          "lng": 3.377579470107278
+        }
+      },
+      "formatted_address": "G92H+PH7, Queen St, Alagomeji-Yaba 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5017852,3.3789078",
+      "google_place_id": "ChIJdfppH2CMOxARzHnfMYDQ4Kc"
+    }
+  },
+  {
+    "id": "330284",
+    "name": "TAPA ST. HOUSE 20",
+    "registration_area_id": "16823",
+    "precise_location": null,
+    "abbreviation": "092",
+    "units": "092",
+    "delimitation": "24/19/06/092",
+    "remark": "NEW PU",
+    "ward_id": "16823",
+    "ward_name": "LAD-LAK/BARIGA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538122,
+      "longitude": 3.3845079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539408129892721,
+          "lng": 3.385847179892722
+        },
+        "southwest": {
+          "lat": 6.536708470107278,
+          "lng": 3.383147520107278
+        }
+      },
+      "formatted_address": "Akinpelu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538122,3.3845079",
+      "google_place_id": "ChIJxffI0w6NOxARnzFge8nHSOM"
+    }
+  }
+]

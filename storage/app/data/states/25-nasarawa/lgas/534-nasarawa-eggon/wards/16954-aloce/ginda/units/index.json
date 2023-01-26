@@ -1,0 +1,318 @@
+[
+  {
+    "id": "334008",
+    "name": "SATI GINDA WAJI - OP",
+    "registration_area_id": "16954",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "25/10/12/001",
+    "remark": "EXISTING PU",
+    "ward_id": "16954",
+    "ward_name": "ALOCE/GINDA",
+    "local_government_id": "534",
+    "local_government_name": "NASARAWA EGGON",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.7425085,
+      "longitude": 8.5418899,
+      "viewport": {
+        "northeast": {
+          "lat": 8.743869579892722,
+          "lng": 8.542984379892722
+        },
+        "southwest": {
+          "lat": 8.741169920107279,
+          "lng": 8.540284720107278
+        }
+      },
+      "formatted_address": "PGVR+2Q2, Nassarawa Eggon, Akwanga Road Nassarawa Eggong, 960167, Nassarawa Egon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7425085,8.5418899",
+      "google_place_id": "ChIJ83Nzq1Z1URARBb-1jcJoURU"
+    }
+  },
+  {
+    "id": "334009",
+    "name": "GINDA GIDA - OP",
+    "registration_area_id": "16954",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "25/10/12/002",
+    "remark": "EXISTING PU",
+    "ward_id": "16954",
+    "ward_name": "ALOCE/GINDA",
+    "local_government_id": "534",
+    "local_government_name": "NASARAWA EGGON",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "334010",
+    "name": "S.U.M ALUSHI - PB",
+    "registration_area_id": "16954",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "25/10/12/003",
+    "remark": "EXISTING PU",
+    "ward_id": "16954",
+    "ward_name": "ALOCE/GINDA",
+    "local_government_id": "534",
+    "local_government_name": "NASARAWA EGGON",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.9003338,
+      "longitude": 8.3583912,
+      "viewport": {
+        "northeast": {
+          "lat": 8.90171702989272,
+          "lng": 8.359781029892721
+        },
+        "southwest": {
+          "lat": 8.899017370107277,
+          "lng": 8.357081370107277
+        }
+      },
+      "formatted_address": "SUM Alushi Primary School, 960103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9003338,8.3583912",
+      "google_place_id": "ChIJGTCQ2SObURARI18h2J7l70I"
+    }
+  },
+  {
+    "id": "334011",
+    "name": "ALUSHI DISPENSARY - PB",
+    "registration_area_id": "16954",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "25/10/12/004",
+    "remark": "EXISTING PU",
+    "ward_id": "16954",
+    "ward_name": "ALOCE/GINDA",
+    "local_government_id": "534",
+    "local_government_name": "NASARAWA EGGON",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "334012",
+    "name": "ALUSHI ERRO - OP",
+    "registration_area_id": "16954",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "25/10/12/005",
+    "remark": "EXISTING PU",
+    "ward_id": "16954",
+    "ward_name": "ALOCE/GINDA",
+    "local_government_id": "534",
+    "local_government_name": "NASARAWA EGGON",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "334013",
+    "name": "ANGBAKU - OP",
+    "registration_area_id": "16954",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "25/10/12/006",
+    "remark": "EXISTING PU",
+    "ward_id": "16954",
+    "ward_name": "ALOCE/GINDA",
+    "local_government_id": "534",
+    "local_government_name": "NASARAWA EGGON",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.7425085,
+      "longitude": 8.5418899,
+      "viewport": {
+        "northeast": {
+          "lat": 8.743869579892722,
+          "lng": 8.542984379892722
+        },
+        "southwest": {
+          "lat": 8.741169920107279,
+          "lng": 8.540284720107278
+        }
+      },
+      "formatted_address": "PGVR+2Q2, Nassarawa Eggon, Akwanga Road Nassarawa Eggong, 960167, Nassarawa Egon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7425085,8.5418899",
+      "google_place_id": "ChIJ83Nzq1Z1URARBb-1jcJoURU"
+    }
+  },
+  {
+    "id": "334014",
+    "name": "WAJI-OP",
+    "registration_area_id": "16954",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "25/10/12/007",
+    "remark": "NEW PU",
+    "ward_id": "16954",
+    "ward_name": "ALOCE/GINDA",
+    "local_government_id": "534",
+    "local_government_name": "NASARAWA EGGON",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.7425085,
+      "longitude": 8.5418899,
+      "viewport": {
+        "northeast": {
+          "lat": 8.743869579892722,
+          "lng": 8.542984379892722
+        },
+        "southwest": {
+          "lat": 8.741169920107279,
+          "lng": 8.540284720107278
+        }
+      },
+      "formatted_address": "PGVR+2Q2, Nassarawa Eggon, Akwanga Road Nassarawa Eggong, 960167, Nassarawa Egon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7425085,8.5418899",
+      "google_place_id": "ChIJ83Nzq1Z1URARBb-1jcJoURU"
+    }
+  },
+  {
+    "id": "334015",
+    "name": "LGEA PRI. SCH. GINDA-PB",
+    "registration_area_id": "16954",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "25/10/12/008",
+    "remark": "NEW PU",
+    "ward_id": "16954",
+    "ward_name": "ALOCE/GINDA",
+    "local_government_id": "534",
+    "local_government_name": "NASARAWA EGGON",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.603682899999999,
+      "longitude": 7.763401900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.605445129892722,
+          "lng": 7.764326379892722
+        },
+        "southwest": {
+          "lat": 8.602745470107278,
+          "lng": 7.761626720107278
+        }
+      },
+      "formatted_address": "JQ37+F9C, Shamage, L.G.A., Nasarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.603682899999999,7.763401900000001",
+      "google_place_id": "ChIJq6qqquonThARYrpMPRPo-ps"
+    }
+  },
+  {
+    "id": "334016",
+    "name": "WAKYUKU MISSION",
+    "registration_area_id": "16954",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "25/10/12/009",
+    "remark": "NEW PU",
+    "ward_id": "16954",
+    "ward_name": "ALOCE/GINDA",
+    "local_government_id": "534",
+    "local_government_name": "NASARAWA EGGON",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.7425085,
+      "longitude": 8.5418899,
+      "viewport": {
+        "northeast": {
+          "lat": 8.743869579892722,
+          "lng": 8.542984379892722
+        },
+        "southwest": {
+          "lat": 8.741169920107279,
+          "lng": 8.540284720107278
+        }
+      },
+      "formatted_address": "PGVR+2Q2, Nassarawa Eggon, Akwanga Road Nassarawa Eggong, 960167, Nassarawa Egon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7425085,8.5418899",
+      "google_place_id": "ChIJ83Nzq1Z1URARBb-1jcJoURU"
+    }
+  },
+  {
+    "id": "334017",
+    "name": "ANGWAN SHURU-OP",
+    "registration_area_id": "16954",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "25/10/12/010",
+    "remark": "NEW PU",
+    "ward_id": "16954",
+    "ward_name": "ALOCE/GINDA",
+    "local_government_id": "534",
+    "local_government_name": "NASARAWA EGGON",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.7425085,
+      "longitude": 8.5418899,
+      "viewport": {
+        "northeast": {
+          "lat": 8.743869579892722,
+          "lng": 8.542984379892722
+        },
+        "southwest": {
+          "lat": 8.741169920107279,
+          "lng": 8.540284720107278
+        }
+      },
+      "formatted_address": "PGVR+2Q2, Nassarawa Eggon, Akwanga Road Nassarawa Eggong, 960167, Nassarawa Egon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7425085,8.5418899",
+      "google_place_id": "ChIJ83Nzq1Z1URARBb-1jcJoURU"
+    }
+  },
+  {
+    "id": "334018",
+    "name": "ALUSHI AKPUAKLA-OP",
+    "registration_area_id": "16954",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "25/10/12/011",
+    "remark": "NEW PU",
+    "ward_id": "16954",
+    "ward_name": "ALOCE/GINDA",
+    "local_government_id": "534",
+    "local_government_name": "NASARAWA EGGON",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "334019",
+    "name": "G.S.S. ALUSHI-PB",
+    "registration_area_id": "16954",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "25/10/12/012",
+    "remark": "NEW PU",
+    "ward_id": "16954",
+    "ward_name": "ALOCE/GINDA",
+    "local_government_id": "534",
+    "local_government_name": "NASARAWA EGGON",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "34050",
+    "name": "MODUARI / BARWATI",
+    "registration_area_id": "1849",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/17/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1849",
+    "ward_name": "MODUARI / BARWARI",
+    "local_government_id": "158",
+    "local_government_name": "KUKAWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "34051",
+    "name": "BARWATI",
+    "registration_area_id": "1849",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/17/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1849",
+    "ward_name": "MODUARI / BARWARI",
+    "local_government_id": "158",
+    "local_government_name": "KUKAWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.7911422,
+      "longitude": 13.6742796,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7936919,
+          "lng": 13.6765059
+        },
+        "southwest": {
+          "lat": 12.787339,
+          "lng": 13.67017
+        }
+      },
+      "formatted_address": "612102, Barwati, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7911422,13.6742796",
+      "google_place_id": "ChIJJ34JoUvIGhER1zBNFhNmTbA"
+    }
+  },
+  {
+    "id": "34052",
+    "name": "GARIN BABA GANA",
+    "registration_area_id": "1849",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/17/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1849",
+    "ward_name": "MODUARI / BARWARI",
+    "local_government_id": "158",
+    "local_government_name": "KUKAWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "34053",
+    "name": "ALI SHERIFTI",
+    "registration_area_id": "1849",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/17/09/004",
+    "remark": "NEW PU",
+    "ward_id": "1849",
+    "ward_name": "MODUARI / BARWARI",
+    "local_government_id": "158",
+    "local_government_name": "KUKAWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  }
+]

@@ -1,0 +1,695 @@
+[
+  {
+    "id": "19053",
+    "name": "DURUM FULANI, PRIMARY SCHOOL I",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "05/02/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.309755,
+      "longitude": 9.8551238,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31114367989272,
+          "lng": 9.856471079892724
+        },
+        "southwest": {
+          "lat": 10.30844402010728,
+          "lng": 9.853771420107279
+        }
+      },
+      "formatted_address": "8V54+W25, Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.309755,9.8551238",
+      "google_place_id": "ChIJ714sdeDXVBAR4AxSO3q3rWQ"
+    }
+  },
+  {
+    "id": "19054",
+    "name": "DURUM FULANI, PRIMARY SCHOOL II",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "05/02/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.309755,
+      "longitude": 9.8551238,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31114367989272,
+          "lng": 9.856471079892724
+        },
+        "southwest": {
+          "lat": 10.30844402010728,
+          "lng": 9.853771420107279
+        }
+      },
+      "formatted_address": "8V54+W25, Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.309755,9.8551238",
+      "google_place_id": "ChIJ714sdeDXVBAR4AxSO3q3rWQ"
+    }
+  },
+  {
+    "id": "19055",
+    "name": "SAKARUMBU,  ILLITI K. SARKI",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "05/02/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2977276,
+      "longitude": 9.826201,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29906737989272,
+          "lng": 9.827581029892722
+        },
+        "southwest": {
+          "lat": 10.29636772010728,
+          "lng": 9.824881370107278
+        }
+      },
+      "formatted_address": "153 Abubakar Tafawa Balewa Way, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2977276,9.826201",
+      "google_place_id": "ChIJi9JJlR_XVBARum72Kh_niDM"
+    }
+  },
+  {
+    "id": "19056",
+    "name": "NATSIRA, KOFAR SARKIN NATSIRA",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "05/02/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2977276,
+      "longitude": 9.826201,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29906737989272,
+          "lng": 9.827581029892722
+        },
+        "southwest": {
+          "lat": 10.29636772010728,
+          "lng": 9.824881370107278
+        }
+      },
+      "formatted_address": "153 Abubakar Tafawa Balewa Way, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2977276,9.826201",
+      "google_place_id": "ChIJi9JJlR_XVBARum72Kh_niDM"
+    }
+  },
+  {
+    "id": "19057",
+    "name": "YALWAN KUNDUM, KOFAR SARKIN YALWA",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "05/02/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2977276,
+      "longitude": 9.826201,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29906737989272,
+          "lng": 9.827581029892722
+        },
+        "southwest": {
+          "lat": 10.29636772010728,
+          "lng": 9.824881370107278
+        }
+      },
+      "formatted_address": "153 Abubakar Tafawa Balewa Way, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2977276,9.826201",
+      "google_place_id": "ChIJi9JJlR_XVBARum72Kh_niDM"
+    }
+  },
+  {
+    "id": "19058",
+    "name": "KUNDUM  PILIM",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "05/02/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2977276,
+      "longitude": 9.826201,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29906737989272,
+          "lng": 9.827581029892722
+        },
+        "southwest": {
+          "lat": 10.29636772010728,
+          "lng": 9.824881370107278
+        }
+      },
+      "formatted_address": "153 Abubakar Tafawa Balewa Way, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2977276,9.826201",
+      "google_place_id": "ChIJi9JJlR_XVBARum72Kh_niDM"
+    }
+  },
+  {
+    "id": "19059",
+    "name": "GUBI FULANI, GUBI PRIMARY SCHOOL",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "05/02/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.442731,
+      "longitude": 9.813813,
+      "viewport": {
+        "northeast": {
+          "lat": 10.44395857989272,
+          "lng": 9.81553342989272
+        },
+        "southwest": {
+          "lat": 10.44125892010728,
+          "lng": 9.812833770107277
+        }
+      },
+      "formatted_address": "CRV7+3GW, 740102, Gubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.442731,9.813813",
+      "google_place_id": "ChIJK0mwyp_UVBARIIgxROx8bIU"
+    }
+  },
+  {
+    "id": "19060",
+    "name": "KUGI, KUGI PRIMARY SCHOOL",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "05/02/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3059711,
+      "longitude": 9.840288500000002,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30721507989272,
+          "lng": 9.841407179892721
+        },
+        "southwest": {
+          "lat": 10.30451542010728,
+          "lng": 9.838707520107276
+        }
+      },
+      "formatted_address": "Ungwar Kusi, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3059711,9.840288500000002",
+      "google_place_id": "ChIJcyBWtG7XVBARWf_lVS2YziU"
+    }
+  },
+  {
+    "id": "19061",
+    "name": "GUBI DUTSE, KOFAR SARKIN GUBI",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "05/02/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2977276,
+      "longitude": 9.826201,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29906737989272,
+          "lng": 9.827581029892722
+        },
+        "southwest": {
+          "lat": 10.29636772010728,
+          "lng": 9.824881370107278
+        }
+      },
+      "formatted_address": "153 Abubakar Tafawa Balewa Way, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2977276,9.826201",
+      "google_place_id": "ChIJi9JJlR_XVBARum72Kh_niDM"
+    }
+  },
+  {
+    "id": "19062",
+    "name": "KUHU, KOFAR SARKIN KUHU",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "05/02/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2977276,
+      "longitude": 9.826201,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29906737989272,
+          "lng": 9.827581029892722
+        },
+        "southwest": {
+          "lat": 10.29636772010728,
+          "lng": 9.824881370107278
+        }
+      },
+      "formatted_address": "153 Abubakar Tafawa Balewa Way, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2977276,9.826201",
+      "google_place_id": "ChIJi9JJlR_XVBARum72Kh_niDM"
+    }
+  },
+  {
+    "id": "19063",
+    "name": "JAURO  MA'AJI, JAURO  MA'AJI",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "05/02/08/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2977276,
+      "longitude": 9.826201,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29906737989272,
+          "lng": 9.827581029892722
+        },
+        "southwest": {
+          "lat": 10.29636772010728,
+          "lng": 9.824881370107278
+        }
+      },
+      "formatted_address": "153 Abubakar Tafawa Balewa Way, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2977276,9.826201",
+      "google_place_id": "ChIJi9JJlR_XVBARum72Kh_niDM"
+    }
+  },
+  {
+    "id": "19064",
+    "name": "GWAMMA, KOFAR SARKIN GWAMMA",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "05/02/08/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2977276,
+      "longitude": 9.826201,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29906737989272,
+          "lng": 9.827581029892722
+        },
+        "southwest": {
+          "lat": 10.29636772010728,
+          "lng": 9.824881370107278
+        }
+      },
+      "formatted_address": "153 Abubakar Tafawa Balewa Way, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2977276,9.826201",
+      "google_place_id": "ChIJi9JJlR_XVBARum72Kh_niDM"
+    }
+  },
+  {
+    "id": "19065",
+    "name": "JANGWALI, KOFAR SARKIN JANGWALI",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "05/02/08/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2977276,
+      "longitude": 9.826201,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29906737989272,
+          "lng": 9.827581029892722
+        },
+        "southwest": {
+          "lat": 10.29636772010728,
+          "lng": 9.824881370107278
+        }
+      },
+      "formatted_address": "153 Abubakar Tafawa Balewa Way, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2977276,9.826201",
+      "google_place_id": "ChIJi9JJlR_XVBARum72Kh_niDM"
+    }
+  },
+  {
+    "id": "19066",
+    "name": "KENDO, KOFAR SARKIN SUMMU",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "05/02/08/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2977276,
+      "longitude": 9.826201,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29906737989272,
+          "lng": 9.827581029892722
+        },
+        "southwest": {
+          "lat": 10.29636772010728,
+          "lng": 9.824881370107278
+        }
+      },
+      "formatted_address": "153 Abubakar Tafawa Balewa Way, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2977276,9.826201",
+      "google_place_id": "ChIJi9JJlR_XVBARum72Kh_niDM"
+    }
+  },
+  {
+    "id": "19067",
+    "name": "SUMMU/M, KOFAR SARKIN SUMMU",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "05/02/08/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2977276,
+      "longitude": 9.826201,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29906737989272,
+          "lng": 9.827581029892722
+        },
+        "southwest": {
+          "lat": 10.29636772010728,
+          "lng": 9.824881370107278
+        }
+      },
+      "formatted_address": "153 Abubakar Tafawa Balewa Way, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2977276,9.826201",
+      "google_place_id": "ChIJi9JJlR_XVBARum72Kh_niDM"
+    }
+  },
+  {
+    "id": "19068",
+    "name": "DUMIN ZUNGUR, KOFAR SARKIN DUMI",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "05/02/08/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2977276,
+      "longitude": 9.826201,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29906737989272,
+          "lng": 9.827581029892722
+        },
+        "southwest": {
+          "lat": 10.29636772010728,
+          "lng": 9.824881370107278
+        }
+      },
+      "formatted_address": "153 Abubakar Tafawa Balewa Way, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2977276,9.826201",
+      "google_place_id": "ChIJi9JJlR_XVBARum72Kh_niDM"
+    }
+  },
+  {
+    "id": "19069",
+    "name": "MANU/G, MANU",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "05/02/08/017",
+    "remark": "EXISTING PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2977276,
+      "longitude": 9.826201,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29906737989272,
+          "lng": 9.827581029892722
+        },
+        "southwest": {
+          "lat": 10.29636772010728,
+          "lng": 9.824881370107278
+        }
+      },
+      "formatted_address": "153 Abubakar Tafawa Balewa Way, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2977276,9.826201",
+      "google_place_id": "ChIJi9JJlR_XVBARum72Kh_niDM"
+    }
+  },
+  {
+    "id": "19070",
+    "name": "KAFIN YARIMA, KOFAR SARKIN KAFIN YARIMA",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "05/02/08/018",
+    "remark": "EXISTING PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2977276,
+      "longitude": 9.826201,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29906737989272,
+          "lng": 9.827581029892722
+        },
+        "southwest": {
+          "lat": 10.29636772010728,
+          "lng": 9.824881370107278
+        }
+      },
+      "formatted_address": "153 Abubakar Tafawa Balewa Way, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2977276,9.826201",
+      "google_place_id": "ChIJi9JJlR_XVBARum72Kh_niDM"
+    }
+  },
+  {
+    "id": "19071",
+    "name": "BADAGERUM,  GERUM",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "05/02/08/019",
+    "remark": "EXISTING PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2977276,
+      "longitude": 9.826201,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29906737989272,
+          "lng": 9.827581029892722
+        },
+        "southwest": {
+          "lat": 10.29636772010728,
+          "lng": 9.824881370107278
+        }
+      },
+      "formatted_address": "153 Abubakar Tafawa Balewa Way, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2977276,9.826201",
+      "google_place_id": "ChIJi9JJlR_XVBARum72Kh_niDM"
+    }
+  },
+  {
+    "id": "19072",
+    "name": "AIRFORCE BASE PRIMARY SCHOOL",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "05/02/08/020",
+    "remark": "NEW PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3227031,
+      "longitude": 9.846042899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32405382989272,
+          "lng": 9.847573929892722
+        },
+        "southwest": {
+          "lat": 10.32135417010728,
+          "lng": 9.844874270107278
+        }
+      },
+      "formatted_address": "8RFW+3CM, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3227031,9.846042899999999",
+      "google_place_id": "ChIJxZjwVAXXVBARN5L_zZWOw8M"
+    }
+  },
+  {
+    "id": "19073",
+    "name": "DURUM FULANI III",
+    "registration_area_id": "1084",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "05/02/08/021",
+    "remark": "NEW PU",
+    "ward_id": "1084",
+    "ward_name": "KUNDUM/DURUM",
+    "local_government_id": "92",
+    "local_government_name": "BAUCHI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.4920388,
+      "longitude": 9.745565,
+      "viewport": {
+        "northeast": {
+          "lat": 10.611528,
+          "lng": 9.8574177
+        },
+        "southwest": {
+          "lat": 10.3603021,
+          "lng": 9.615769499999999
+        }
+      },
+      "formatted_address": "Kundun Durum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4920388,9.745565",
+      "google_place_id": "ChIJ2Ry2j0QtqxERD9cz5idfgUo"
+    }
+  }
+]

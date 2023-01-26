@@ -1,0 +1,1076 @@
+[
+  {
+    "id": "338248",
+    "name": "TUNGAN MALAM",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/19/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2834773,
+      "longitude": 6.642433,
+      "viewport": {
+        "northeast": {
+          "lat": 9.4532282,
+          "lng": 6.7779091
+        },
+        "southwest": {
+          "lat": 9.2187261,
+          "lng": 6.487963199999999
+        }
+      },
+      "formatted_address": "Nikuchi T/Mallam, 920103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2834773,6.642433",
+      "google_place_id": "ChIJFeIjNe4QTBARJYnZkPxYdio"
+    }
+  },
+  {
+    "id": "338249",
+    "name": "RAFIN JATAU",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/19/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.216409200000001,
+      "longitude": 6.5619916,
+      "viewport": {
+        "northeast": {
+          "lat": 9.232424,
+          "lng": 6.56938
+        },
+        "southwest": {
+          "lat": 9.2063129,
+          "lng": 6.545769099999999
+        }
+      },
+      "formatted_address": "Rafin Jatau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.216409200000001,6.5619916",
+      "google_place_id": "ChIJeeiXBaAETBARnKlfGhZUl9Q"
+    }
+  },
+  {
+    "id": "338250",
+    "name": "NAGOPITA",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/19/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.367954,
+      "longitude": 6.686452999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.368937179892718,
+          "lng": 6.687442779892722
+        },
+        "southwest": {
+          "lat": 9.366237520107275,
+          "lng": 6.684743120107278
+        }
+      },
+      "formatted_address": "6FX89M9P+5HP Nagopita Nikuchi Tungan Mallam shiroro, Nagofita, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.367954,6.686452999999999",
+      "google_place_id": "ChIJkUN-buoWTBARVJsGFkMWJnA"
+    }
+  },
+  {
+    "id": "338251",
+    "name": "GAMI",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/19/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3157394,
+      "longitude": 6.7049198,
+      "viewport": {
+        "northeast": {
+          "lat": 9.317423999999999,
+          "lng": 6.707991
+        },
+        "southwest": {
+          "lat": 9.314091,
+          "lng": 6.7015731
+        }
+      },
+      "formatted_address": "920103, Gami, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3157394,6.7049198",
+      "google_place_id": "ChIJq7fTjncXTBARlJOh81ZjJ1E"
+    }
+  },
+  {
+    "id": "338252",
+    "name": "NDAMARAKI",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/19/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2501723,
+      "longitude": 6.6177223,
+      "viewport": {
+        "northeast": {
+          "lat": 9.252979999999999,
+          "lng": 6.620125
+        },
+        "southwest": {
+          "lat": 9.246869,
+          "lng": 6.616601999999999
+        }
+      },
+      "formatted_address": "920103, Ndamaraki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2501723,6.6177223",
+      "google_place_id": "ChIJBYvbiQgbTBARslnRz2hqnCw"
+    }
+  },
+  {
+    "id": "338253",
+    "name": "BUKO",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/19/09/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.292838,
+      "longitude": 6.64155,
+      "viewport": {
+        "northeast": {
+          "lat": 9.293920429892722,
+          "lng": 6.642971229892722
+        },
+        "southwest": {
+          "lat": 9.291220770107278,
+          "lng": 6.640271570107278
+        }
+      },
+      "formatted_address": "6FX87JVR+4JM BUKO NIKUCHI TUNGAN MALLAM, 920103, Bugo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.292838,6.64155",
+      "google_place_id": "ChIJqatNEX0bTBARf1aSgdkQCg0"
+    }
+  },
+  {
+    "id": "338254",
+    "name": "SESITA",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/19/09/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.294893499999999,
+      "longitude": 6.585607299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.296351329892724,
+          "lng": 6.586960779892721
+        },
+        "southwest": {
+          "lat": 9.29365167010728,
+          "lng": 6.584261120107278
+        }
+      },
+      "formatted_address": "7HVP+X65, Lapai-Paiko Rd, 920103, Takumpara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.294893499999999,6.585607299999999",
+      "google_place_id": "ChIJ56DocZ4bTBARtSd0Z2CsdAs"
+    }
+  },
+  {
+    "id": "338255",
+    "name": "NIKUCHI I",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/19/09/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2834773,
+      "longitude": 6.642433,
+      "viewport": {
+        "northeast": {
+          "lat": 9.4532282,
+          "lng": 6.7779091
+        },
+        "southwest": {
+          "lat": 9.2187261,
+          "lng": 6.487963199999999
+        }
+      },
+      "formatted_address": "Nikuchi T/Mallam, 920103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2834773,6.642433",
+      "google_place_id": "ChIJFeIjNe4QTBARJYnZkPxYdio"
+    }
+  },
+  {
+    "id": "338256",
+    "name": "NIKUCHI II",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "26/19/09/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2834773,
+      "longitude": 6.642433,
+      "viewport": {
+        "northeast": {
+          "lat": 9.4532282,
+          "lng": 6.7779091
+        },
+        "southwest": {
+          "lat": 9.2187261,
+          "lng": 6.487963199999999
+        }
+      },
+      "formatted_address": "Nikuchi T/Mallam, 920103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2834773,6.642433",
+      "google_place_id": "ChIJFeIjNe4QTBARJYnZkPxYdio"
+    }
+  },
+  {
+    "id": "338257",
+    "name": "KUCHISAPA",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "26/19/09/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3771341,
+      "longitude": 6.731169,
+      "viewport": {
+        "northeast": {
+          "lat": 9.378218329892722,
+          "lng": 6.732535379892721
+        },
+        "southwest": {
+          "lat": 9.375518670107278,
+          "lng": 6.729835720107277
+        }
+      },
+      "formatted_address": "920103, Kuchi Sapa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3771341,6.731169",
+      "google_place_id": "ChIJ0WtemBMWTBARDh0l04f35bA"
+    }
+  },
+  {
+    "id": "338258",
+    "name": "SALLAH",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "26/19/09/011",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.262736,
+      "longitude": 6.5149665,
+      "viewport": {
+        "northeast": {
+          "lat": 9.264085829892723,
+          "lng": 6.516316329892721
+        },
+        "southwest": {
+          "lat": 9.26138617010728,
+          "lng": 6.513616670107277
+        }
+      },
+      "formatted_address": "6FX87G77+3X4 Sallah Nikuchi Tungan Mallam, 920103, Mikwegi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.262736,6.5149665",
+      "google_place_id": "ChIJVYMXLoUFTBARMENXdzuPM38"
+    }
+  },
+  {
+    "id": "338259",
+    "name": "JANKPA",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "26/19/09/012",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.406196099999999,
+      "longitude": 6.646312699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.407556379892723,
+          "lng": 6.647677429892722
+        },
+        "southwest": {
+          "lat": 9.40485672010728,
+          "lng": 6.644977770107278
+        }
+      },
+      "formatted_address": "6FX8CJ4W+FG6 NIKUCHI TUNGAN MALLAM, JANKPA, 920103, Paiko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.406196099999999,6.646312699999999",
+      "google_place_id": "ChIJdWyG5ugTTBAR8OA9VsXlZQY"
+    }
+  },
+  {
+    "id": "338260",
+    "name": "LUPNA",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "26/19/09/013",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3327935,
+      "longitude": 6.652495300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.334100879892722,
+          "lng": 6.653805379892722
+        },
+        "southwest": {
+          "lat": 9.331401220107278,
+          "lng": 6.651105720107278
+        }
+      },
+      "formatted_address": "920103, Lupna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3327935,6.652495300000001",
+      "google_place_id": "ChIJKa0qBsYQTBARb7kc2QKfcWs"
+    }
+  },
+  {
+    "id": "338261",
+    "name": "TUNGAN GANA",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "26/19/09/014",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.251431,
+      "longitude": 6.618621000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.25281537989272,
+          "lng": 6.620067029892722
+        },
+        "southwest": {
+          "lat": 9.250115720107276,
+          "lng": 6.617367370107278
+        }
+      },
+      "formatted_address": "6FX87J29+HCH TUNGAN GANA NIKUCHU TUNGAN MALLAM, Takumpara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.251431,6.618621000000001",
+      "google_place_id": "ChIJOzlPMAYbTBAR0jEF4ME2YOk"
+    }
+  },
+  {
+    "id": "338262",
+    "name": "ZANCHITA",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "26/19/09/015",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.305069,
+      "longitude": 6.529697,
+      "viewport": {
+        "northeast": {
+          "lat": 9.306452829892724,
+          "lng": 6.531025429892722
+        },
+        "southwest": {
+          "lat": 9.30375317010728,
+          "lng": 6.528325770107278
+        }
+      },
+      "formatted_address": "6FX88G4H+2VG NIKUCHI TUNGAN MALLAM, ZANCHITA, 920103, Fichekuchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.305069,6.529697",
+      "google_place_id": "ChIJi3f52YYFTBARmlphZLmBYXg"
+    }
+  },
+  {
+    "id": "338263",
+    "name": "GIDAN ADAMU YORUBA I",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "26/19/09/016",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338264",
+    "name": "GIDAN ADAMU YORUBA II",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "26/19/09/017",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338265",
+    "name": "LODNAGBE",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "26/19/09/018",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.290883200000001,
+      "longitude": 6.5857268,
+      "viewport": {
+        "northeast": {
+          "lat": 9.292239779892723,
+          "lng": 6.587120479892722
+        },
+        "southwest": {
+          "lat": 9.28954012010728,
+          "lng": 6.584420820107278
+        }
+      },
+      "formatted_address": "7HRP+975, Lapai-Paiko Road, 920103, Takumpara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.290883200000001,6.5857268",
+      "google_place_id": "ChIJKQP9hLkbTBARunW0PJwwPOw"
+    }
+  },
+  {
+    "id": "338266",
+    "name": "BWAFI",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "26/19/09/019",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2834773,
+      "longitude": 6.642433,
+      "viewport": {
+        "northeast": {
+          "lat": 9.4532282,
+          "lng": 6.7779091
+        },
+        "southwest": {
+          "lat": 9.2187261,
+          "lng": 6.487963199999999
+        }
+      },
+      "formatted_address": "Nikuchi T/Mallam, 920103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2834773,6.642433",
+      "google_place_id": "ChIJFeIjNe4QTBARJYnZkPxYdio"
+    }
+  },
+  {
+    "id": "338267",
+    "name": "ADURU",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "26/19/09/020",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.271284999999999,
+      "longitude": 6.653189999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.272494029892723,
+          "lng": 6.654523479892721
+        },
+        "southwest": {
+          "lat": 9.269794370107277,
+          "lng": 6.651823820107277
+        }
+      },
+      "formatted_address": "6FX87MC3+G78 NIKUCHI TUNGAN MALLAM, ADURU, 920103, Bugo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.271284999999999,6.653189999999999",
+      "google_place_id": "ChIJO-LENEIbTBARJMTCuEEVkms"
+    }
+  },
+  {
+    "id": "338268",
+    "name": "BUYI",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "26/19/09/021",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.373828699999999,
+      "longitude": 6.696228199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.391131,
+          "lng": 6.707076
+        },
+        "southwest": {
+          "lat": 9.372242,
+          "lng": 6.6951309
+        }
+      },
+      "formatted_address": "920103, Buyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.373828699999999,6.696228199999999",
+      "google_place_id": "ChIJ25KG_4UWTBAR1OEljTgvh5I"
+    }
+  },
+  {
+    "id": "338269",
+    "name": "BASSEGO",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "26/19/09/022",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.290883200000001,
+      "longitude": 6.5857268,
+      "viewport": {
+        "northeast": {
+          "lat": 9.292239779892723,
+          "lng": 6.587120479892722
+        },
+        "southwest": {
+          "lat": 9.28954012010728,
+          "lng": 6.584420820107278
+        }
+      },
+      "formatted_address": "7HRP+975, Lapai-Paiko Road, 920103, Takumpara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.290883200000001,6.5857268",
+      "google_place_id": "ChIJKQP9hLkbTBARunW0PJwwPOw"
+    }
+  },
+  {
+    "id": "338270",
+    "name": "BAKAJEBA",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "26/19/09/023",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2396263,
+      "longitude": 6.5749014,
+      "viewport": {
+        "northeast": {
+          "lat": 9.240758,
+          "lng": 6.5766021
+        },
+        "southwest": {
+          "lat": 9.236034900000002,
+          "lng": 6.5721569
+        }
+      },
+      "formatted_address": "920103, Bakajeba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2396263,6.5749014",
+      "google_place_id": "ChIJfxUtb7oETBAR31AlBCcWoWU"
+    }
+  },
+  {
+    "id": "338271",
+    "name": "YIDNA",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "26/19/09/024",
+    "remark": "EXISTING PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.377442799999999,
+      "longitude": 6.6507833,
+      "viewport": {
+        "northeast": {
+          "lat": 9.379091100000002,
+          "lng": 6.652257829892722
+        },
+        "southwest": {
+          "lat": 9.376035,
+          "lng": 6.649558170107278
+        }
+      },
+      "formatted_address": "920103, Yidna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.377442799999999,6.6507833",
+      "google_place_id": "ChIJfXYQ0UURTBAR8x5WtLvl7Ug"
+    }
+  },
+  {
+    "id": "338272",
+    "name": "NDAYAMMA PRIMARY SCH",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "26/19/09/025",
+    "remark": "NEW PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3195679,
+      "longitude": 6.5214364,
+      "viewport": {
+        "northeast": {
+          "lat": 9.320990029892721,
+          "lng": 6.522879329892721
+        },
+        "southwest": {
+          "lat": 9.318290370107277,
+          "lng": 6.520179670107277
+        }
+      },
+      "formatted_address": "6FX88G9C+VH3 Nikuchi Tungan Mallam, Ndayamma, 920103, Fichekuchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3195679,6.5214364",
+      "google_place_id": "ChIJv2hCvDIPTBARSEMAgEc0dLo"
+    }
+  },
+  {
+    "id": "338273",
+    "name": "GOV'T DAY SEC SCH",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "26/19/09/026",
+    "remark": "NEW PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338274",
+    "name": "LUPNA-NUBUPI",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "26/19/09/027",
+    "remark": "NEW PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.294893499999999,
+      "longitude": 6.585607299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.296351329892724,
+          "lng": 6.586960779892721
+        },
+        "southwest": {
+          "lat": 9.29365167010728,
+          "lng": 6.584261120107278
+        }
+      },
+      "formatted_address": "7HVP+X65, Lapai-Paiko Rd, 920103, Takumpara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.294893499999999,6.585607299999999",
+      "google_place_id": "ChIJ56DocZ4bTBARtSd0Z2CsdAs"
+    }
+  },
+  {
+    "id": "338275",
+    "name": "ANG.FULANI YAMMA",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "26/19/09/028",
+    "remark": "NEW PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.290883200000001,
+      "longitude": 6.5857268,
+      "viewport": {
+        "northeast": {
+          "lat": 9.292239779892723,
+          "lng": 6.587120479892722
+        },
+        "southwest": {
+          "lat": 9.28954012010728,
+          "lng": 6.584420820107278
+        }
+      },
+      "formatted_address": "7HRP+975, Lapai-Paiko Road, 920103, Takumpara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.290883200000001,6.5857268",
+      "google_place_id": "ChIJKQP9hLkbTBARunW0PJwwPOw"
+    }
+  },
+  {
+    "id": "338276",
+    "name": "UBE,DAKOGI PRIMARY SCH",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "26/19/09/029",
+    "remark": "NEW PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3205571,
+      "longitude": 6.6228408,
+      "viewport": {
+        "northeast": {
+          "lat": 9.32179377989272,
+          "lng": 6.624124629892722
+        },
+        "southwest": {
+          "lat": 9.319094120107277,
+          "lng": 6.621424970107278
+        }
+      },
+      "formatted_address": "6FX88JCF+648 NIKUCHI TUNGAN MALLAM, DAKOGI, 920103, Bugo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3205571,6.6228408",
+      "google_place_id": "ChIJF5-I5X8RTBARB1fufS12q8A"
+    }
+  },
+  {
+    "id": "338277",
+    "name": "TAKUPARA PRIMARY SCH",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "26/19/09/030",
+    "remark": "NEW PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.273753899999999,
+      "longitude": 6.587547000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.275175629892722,
+          "lng": 6.589256779892723
+        },
+        "southwest": {
+          "lat": 9.272475970107278,
+          "lng": 6.586557120107279
+        }
+      },
+      "formatted_address": "6FX87HFP+FXX Nikuchi Tungan Mallam, TAKUPARA, 920103, Takumpara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.273753899999999,6.587547000000001",
+      "google_place_id": "ChIJjcuqzagbTBARgWHRsDUL9c8"
+    }
+  },
+  {
+    "id": "338278",
+    "name": "BUYI  B",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "26/19/09/031",
+    "remark": "NEW PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.390372,
+      "longitude": 6.702232,
+      "viewport": {
+        "northeast": {
+          "lat": 9.391721829892722,
+          "lng": 6.703581829892722
+        },
+        "southwest": {
+          "lat": 9.389022170107278,
+          "lng": 6.700882170107278
+        }
+      },
+      "formatted_address": "6FX89PR2+4VX Nikuchi Tungan Mallam, BUYI, 920103, Nagofita, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.390372,6.702232",
+      "google_place_id": "ChIJAd1e5ykXTBAR6rUSh4VqJZ8"
+    }
+  },
+  {
+    "id": "338279",
+    "name": "SHIRITA PRIMARY SCHOOL",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "26/19/09/032",
+    "remark": "NEW PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.290883200000001,
+      "longitude": 6.5857268,
+      "viewport": {
+        "northeast": {
+          "lat": 9.292239779892723,
+          "lng": 6.587120479892722
+        },
+        "southwest": {
+          "lat": 9.28954012010728,
+          "lng": 6.584420820107278
+        }
+      },
+      "formatted_address": "7HRP+975, Lapai-Paiko Road, 920103, Takumpara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.290883200000001,6.5857268",
+      "google_place_id": "ChIJKQP9hLkbTBARunW0PJwwPOw"
+    }
+  },
+  {
+    "id": "338280",
+    "name": "BASSEGO FROUPI",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "26/19/09/033",
+    "remark": "NEW PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.294893499999999,
+      "longitude": 6.585607299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.296351329892724,
+          "lng": 6.586960779892721
+        },
+        "southwest": {
+          "lat": 9.29365167010728,
+          "lng": 6.584261120107278
+        }
+      },
+      "formatted_address": "7HVP+X65, Lapai-Paiko Rd, 920103, Takumpara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.294893499999999,6.585607299999999",
+      "google_place_id": "ChIJ56DocZ4bTBARtSd0Z2CsdAs"
+    }
+  },
+  {
+    "id": "338281",
+    "name": "SEDNA",
+    "registration_area_id": "17192",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "26/19/09/034",
+    "remark": "NEW PU",
+    "ward_id": "17192",
+    "ward_name": "NIKUCHI T/MALLAM",
+    "local_government_id": "555",
+    "local_government_name": "PAIKORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.294893499999999,
+      "longitude": 6.585607299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.296351329892724,
+          "lng": 6.586960779892721
+        },
+        "southwest": {
+          "lat": 9.29365167010728,
+          "lng": 6.584261120107278
+        }
+      },
+      "formatted_address": "7HVP+X65, Lapai-Paiko Rd, 920103, Takumpara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.294893499999999,6.585607299999999",
+      "google_place_id": "ChIJ56DocZ4bTBARtSd0Z2CsdAs"
+    }
+  }
+]

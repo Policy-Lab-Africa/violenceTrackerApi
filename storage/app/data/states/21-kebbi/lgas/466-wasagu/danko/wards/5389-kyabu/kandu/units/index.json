@@ -1,0 +1,352 @@
+[
+  {
+    "id": "105000",
+    "name": "GIDIN ICCEN MANGORO OPEN SPACE(RUNTUWA HURANGA) (GIDIN ICCEN MANGORO OPEN SPACE (RUNTOWA HURANGA))",
+    "registration_area_id": "5389",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "21/19/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5389",
+    "ward_name": "KYABU/KANDU",
+    "local_government_id": "466",
+    "local_government_name": "WASAGU/DANKO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "105001",
+    "name": "PRIMARY SCHOOL SAME (SAME)",
+    "registration_area_id": "5389",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "21/19/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5389",
+    "ward_name": "KYABU/KANDU",
+    "local_government_id": "466",
+    "local_government_name": "WASAGU/DANKO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.5467609,
+      "longitude": 5.282514099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54854192989272,
+          "lng": 5.283560599999999
+        },
+        "southwest": {
+          "lat": 11.54584227010728,
+          "lng": 5.279374600000001
+        }
+      },
+      "formatted_address": "G7WM+P22, 872103, Kebu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5467609,5.282514099999999",
+      "google_place_id": "ChIJNVHa62yRtRERiikYVscZzo0"
+    }
+  },
+  {
+    "id": "105002",
+    "name": "TUNGAN BANRE",
+    "registration_area_id": "5389",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "21/19/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5389",
+    "ward_name": "KYABU/KANDU",
+    "local_government_id": "466",
+    "local_government_name": "WASAGU/DANKO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.3330063,
+      "longitude": 4.1552852,
+      "viewport": {
+        "northeast": {
+          "lat": 12.33436087989272,
+          "lng": 4.156618529892723
+        },
+        "southwest": {
+          "lat": 12.33166122010728,
+          "lng": 4.153918870107279
+        }
+      },
+      "formatted_address": "85M4+643, Birnin Kebbi Kalgo Rd, 862104, Kalgo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3330063,4.1552852",
+      "google_place_id": "ChIJ3ygmyrBtyRERDwbkPrYA-VI"
+    }
+  },
+  {
+    "id": "105003",
+    "name": "MAKARANTA G. GOMO",
+    "registration_area_id": "5389",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "21/19/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5389",
+    "ward_name": "KYABU/KANDU",
+    "local_government_id": "466",
+    "local_government_name": "WASAGU/DANKO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "105004",
+    "name": "ASIBITI D'KENKE (D'KENKE)",
+    "registration_area_id": "5389",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "21/19/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5389",
+    "ward_name": "KYABU/KANDU",
+    "local_government_id": "466",
+    "local_government_name": "WASAGU/DANKO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "105005",
+    "name": "MASHIGI",
+    "registration_area_id": "5389",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "21/19/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5389",
+    "ward_name": "KYABU/KANDU",
+    "local_government_id": "466",
+    "local_government_name": "WASAGU/DANKO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.5600956,
+      "longitude": 5.8238406,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56134397989272,
+          "lng": 5.824611029892722
+        },
+        "southwest": {
+          "lat": 11.55864432010728,
+          "lng": 5.821911370107278
+        }
+      },
+      "formatted_address": "HR6F+2GP, 860272, Surimi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5600956,5.8238406",
+      "google_place_id": "ChIJgckqilJJtBERKzInfj3lG4Y"
+    }
+  },
+  {
+    "id": "105006",
+    "name": "MADATTAI",
+    "registration_area_id": "5389",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "21/19/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5389",
+    "ward_name": "KYABU/KANDU",
+    "local_government_id": "466",
+    "local_government_name": "WASAGU/DANKO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "105007",
+    "name": "PRIMARY SCHOOL KANDU KARKARA (KANDU KARKARA)",
+    "registration_area_id": "5389",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "21/19/06/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5389",
+    "ward_name": "KYABU/KANDU",
+    "local_government_id": "466",
+    "local_government_name": "WASAGU/DANKO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.5600956,
+      "longitude": 5.8238406,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56134397989272,
+          "lng": 5.824611029892722
+        },
+        "southwest": {
+          "lat": 11.55864432010728,
+          "lng": 5.821911370107278
+        }
+      },
+      "formatted_address": "HR6F+2GP, 860272, Surimi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5600956,5.8238406",
+      "google_place_id": "ChIJgckqilJJtBERKzInfj3lG4Y"
+    }
+  },
+  {
+    "id": "105008",
+    "name": "K/ZARBU",
+    "registration_area_id": "5389",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "21/19/06/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5389",
+    "ward_name": "KYABU/KANDU",
+    "local_government_id": "466",
+    "local_government_name": "WASAGU/DANKO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "105009",
+    "name": "GIDAN ICCEN  BAURE OPEN SPACE (GIDAN MAI IDO) (GIDIN ICCEN  BAURE OPEN SPACE (TUNGAR MAI DO))",
+    "registration_area_id": "5389",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "21/19/06/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5389",
+    "ward_name": "KYABU/KANDU",
+    "local_government_id": "466",
+    "local_government_name": "WASAGU/DANKO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.3330063,
+      "longitude": 4.1552852,
+      "viewport": {
+        "northeast": {
+          "lat": 12.33436087989272,
+          "lng": 4.156618529892723
+        },
+        "southwest": {
+          "lat": 12.33166122010728,
+          "lng": 4.153918870107279
+        }
+      },
+      "formatted_address": "85M4+643, Birnin Kebbi Kalgo Rd, 862104, Kalgo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3330063,4.1552852",
+      "google_place_id": "ChIJ3ygmyrBtyRERDwbkPrYA-VI"
+    }
+  },
+  {
+    "id": "105010",
+    "name": "ASIBITI KUNTOMO (KUNTOMO)",
+    "registration_area_id": "5389",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "21/19/06/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5389",
+    "ward_name": "KYABU/KANDU",
+    "local_government_id": "466",
+    "local_government_name": "WASAGU/DANKO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "105011",
+    "name": "J.S.S KYABU",
+    "registration_area_id": "5389",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "21/19/06/012",
+    "remark": "NEW PU",
+    "ward_id": "5389",
+    "ward_name": "KYABU/KANDU",
+    "local_government_id": "466",
+    "local_government_name": "WASAGU/DANKO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.3330063,
+      "longitude": 4.1552852,
+      "viewport": {
+        "northeast": {
+          "lat": 12.33436087989272,
+          "lng": 4.156618529892723
+        },
+        "southwest": {
+          "lat": 12.33166122010728,
+          "lng": 4.153918870107279
+        }
+      },
+      "formatted_address": "85M4+643, Birnin Kebbi Kalgo Rd, 862104, Kalgo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3330063,4.1552852",
+      "google_place_id": "ChIJ3ygmyrBtyRERDwbkPrYA-VI"
+    }
+  },
+  {
+    "id": "105012",
+    "name": "TANKIN MAGAJI WALELE",
+    "registration_area_id": "5389",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "21/19/06/013",
+    "remark": "NEW PU",
+    "ward_id": "5389",
+    "ward_name": "KYABU/KANDU",
+    "local_government_id": "466",
+    "local_government_name": "WASAGU/DANKO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "105013",
+    "name": "SHIKAUWA KYABU PRIMARY SCHOOL",
+    "registration_area_id": "5389",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "21/19/06/014",
+    "remark": "NEW PU",
+    "ward_id": "5389",
+    "ward_name": "KYABU/KANDU",
+    "local_government_id": "466",
+    "local_government_name": "WASAGU/DANKO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.5600956,
+      "longitude": 5.8238406,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56134397989272,
+          "lng": 5.824611029892722
+        },
+        "southwest": {
+          "lat": 11.55864432010728,
+          "lng": 5.821911370107278
+        }
+      },
+      "formatted_address": "HR6F+2GP, 860272, Surimi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5600956,5.8238406",
+      "google_place_id": "ChIJgckqilJJtBERKzInfj3lG4Y"
+    }
+  }
+]

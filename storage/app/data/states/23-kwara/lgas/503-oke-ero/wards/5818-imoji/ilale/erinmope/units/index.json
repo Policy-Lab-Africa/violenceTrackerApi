@@ -1,0 +1,167 @@
+[
+  {
+    "id": "111588",
+    "name": "COMM L.G.E.A SCH IMOJI",
+    "registration_area_id": "5818",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "23/14/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5818",
+    "ward_name": "IMOJI/ILALE/ERINMOPE",
+    "local_government_id": "503",
+    "local_government_name": "OKE - ERO",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.0420911,
+      "longitude": 5.0929864,
+      "viewport": {
+        "northeast": {
+          "lat": 8.043381679892724,
+          "lng": 5.094437929892722
+        },
+        "southwest": {
+          "lat": 8.04068202010728,
+          "lng": 5.091738270107278
+        }
+      },
+      "formatted_address": "23RV+R5Q, Ilale 252102, Ekan Meje, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0420911,5.0929864",
+      "google_place_id": "ChIJz-lFnVweSBAR5BVfCZ3cHbE"
+    }
+  },
+  {
+    "id": "111589",
+    "name": "COMM L.G.E.A SCH ILALE",
+    "registration_area_id": "5818",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "23/14/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5818",
+    "ward_name": "IMOJI/ILALE/ERINMOPE",
+    "local_government_id": "503",
+    "local_government_name": "OKE - ERO",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.0398072,
+      "longitude": 5.0935107,
+      "viewport": {
+        "northeast": {
+          "lat": 8.04133177989272,
+          "lng": 5.094817329892722
+        },
+        "southwest": {
+          "lat": 8.038632120107277,
+          "lng": 5.092117670107278
+        }
+      },
+      "formatted_address": "Anglican Grammar School, Ilale, Road 252102, Ekan Meje, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0398072,5.0935107",
+      "google_place_id": "ChIJZXtJ_lweSBARZslB0BG4igY"
+    }
+  },
+  {
+    "id": "111590",
+    "name": "MARKET CENTRE ERINMOPE",
+    "registration_area_id": "5818",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "23/14/03/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5818",
+    "ward_name": "IMOJI/ILALE/ERINMOPE",
+    "local_government_id": "503",
+    "local_government_name": "OKE - ERO",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.139154399999999,
+      "longitude": 5.1023955,
+      "viewport": {
+        "northeast": {
+          "lat": 8.14050127989272,
+          "lng": 5.103737329892723
+        },
+        "southwest": {
+          "lat": 8.137801620107275,
+          "lng": 5.101037670107279
+        }
+      },
+      "formatted_address": "44Q2+MX6, Oja Oba 251103, Omu-Aran, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.139154399999999,5.1023955",
+      "google_place_id": "ChIJkW3q1iohSBARJYYwB3Rx47M"
+    }
+  },
+  {
+    "id": "111591",
+    "name": "ODO OYE ILALE",
+    "registration_area_id": "5818",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "23/14/03/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5818",
+    "ward_name": "IMOJI/ILALE/ERINMOPE",
+    "local_government_id": "503",
+    "local_government_name": "OKE - ERO",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.042429499999999,
+      "longitude": 5.0858988,
+      "viewport": {
+        "northeast": {
+          "lat": 8.096459399999999,
+          "lng": 5.1166041
+        },
+        "southwest": {
+          "lat": 8.0245778,
+          "lng": 5.0549301
+        }
+      },
+      "formatted_address": "Imoji/Ilale/Erinmope, 252102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.042429499999999,5.0858988",
+      "google_place_id": "ChIJ-7YLmrQfSBAReQPj6vEa9f8"
+    }
+  },
+  {
+    "id": "111592",
+    "name": "ILALE COMMUNITY MARKET",
+    "registration_area_id": "5818",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "23/14/03/005",
+    "remark": "NEW PU",
+    "ward_id": "5818",
+    "ward_name": "IMOJI/ILALE/ERINMOPE",
+    "local_government_id": "503",
+    "local_government_name": "OKE - ERO",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.0970259,
+      "longitude": 5.1406576,
+      "viewport": {
+        "northeast": {
+          "lat": 8.098358029892722,
+          "lng": 5.141991329892722
+        },
+        "southwest": {
+          "lat": 8.095658370107278,
+          "lng": 5.139291670107278
+        }
+      },
+      "formatted_address": "1 Egbe Rd, 252101, Ilofa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0970259,5.1406576",
+      "google_place_id": "ChIJAVq_veQfSBARIkU2mp6ONds"
+    }
+  }
+]

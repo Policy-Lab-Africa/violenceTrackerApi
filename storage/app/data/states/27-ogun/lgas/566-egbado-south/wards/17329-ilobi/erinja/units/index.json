@@ -1,0 +1,615 @@
+[
+  {
+    "id": "341476",
+    "name": "DISPENSARY OKE-ERINJA",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "27/05/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.739001399999999,
+      "longitude": 3.0022182,
+      "viewport": {
+        "northeast": {
+          "lat": 6.740364879892722,
+          "lng": 3.003590529892722
+        },
+        "southwest": {
+          "lat": 6.737665220107278,
+          "lng": 3.000890870107277
+        }
+      },
+      "formatted_address": "P2Q2+JV4, 112106, Oke Erinja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.739001399999999,3.0022182",
+      "google_place_id": "ChIJ0_vaXUtzOxARZustzsV3Bu4"
+    }
+  },
+  {
+    "id": "341477",
+    "name": "OPEN SPACE AT ERINJA-ILE",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "27/05/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.742851,
+      "longitude": 3.001383,
+      "viewport": {
+        "northeast": {
+          "lat": 6.744179779892721,
+          "lng": 3.002640179892722
+        },
+        "southwest": {
+          "lat": 6.741480120107277,
+          "lng": 2.999940520107278
+        }
+      },
+      "formatted_address": "6FR5P2V2+4HR, Ilobi Erinja, 112106, Oke Erinja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.742851,3.001383",
+      "google_place_id": "ChIJ5dNEpl4NOxARdzAWNuSwlis"
+    }
+  },
+  {
+    "id": "341478",
+    "name": "E.S.L.G. SCHOOL - ILOBI",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "27/05/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": null
+  },
+  {
+    "id": "341479",
+    "name": "C.A.C. SCHOOL OKO-BABA",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "27/05/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.709255600000001,
+      "longitude": 3.0192152,
+      "viewport": {
+        "northeast": {
+          "lat": 6.710595379892721,
+          "lng": 3.020548029892722
+        },
+        "southwest": {
+          "lat": 6.707895720107278,
+          "lng": 3.017848370107278
+        }
+      },
+      "formatted_address": "P259+PM4, 112106, Owode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.709255600000001,3.0192152",
+      "google_place_id": "ChIJY9u3PZ10OxARKN-vmPW38nE"
+    }
+  },
+  {
+    "id": "341480",
+    "name": "E.S.L.G. SCHOOL ALAGBON  I",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "27/05/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.687996,
+      "longitude": 3.002832,
+      "viewport": {
+        "northeast": {
+          "lat": 6.689409779892721,
+          "lng": 3.003992829892722
+        },
+        "southwest": {
+          "lat": 6.686710120107278,
+          "lng": 3.001293170107278
+        }
+      },
+      "formatted_address": "6FR5M2Q3+54W Awuko Alagbon Ilobi/Erinja/Alagbon, Owode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.687996,3.002832",
+      "google_place_id": "ChIJ0fusIgxzOxARr8yKa4wlFdk"
+    }
+  },
+  {
+    "id": "341481",
+    "name": "E.S.L.G. SCHOOL ALAGBON  II",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "27/05/09/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.687996,
+      "longitude": 3.002832,
+      "viewport": {
+        "northeast": {
+          "lat": 6.689409779892721,
+          "lng": 3.003992829892722
+        },
+        "southwest": {
+          "lat": 6.686710120107278,
+          "lng": 3.001293170107278
+        }
+      },
+      "formatted_address": "6FR5M2Q3+54W Awuko Alagbon Ilobi/Erinja/Alagbon, Owode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.687996,3.002832",
+      "google_place_id": "ChIJ0fusIgxzOxARr8yKa4wlFdk"
+    }
+  },
+  {
+    "id": "341482",
+    "name": "E.S.L.G. SCHOOL ALAGBON III",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "27/05/09/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.687996,
+      "longitude": 3.002832,
+      "viewport": {
+        "northeast": {
+          "lat": 6.689409779892721,
+          "lng": 3.003992829892722
+        },
+        "southwest": {
+          "lat": 6.686710120107278,
+          "lng": 3.001293170107278
+        }
+      },
+      "formatted_address": "6FR5M2Q3+54W Awuko Alagbon Ilobi/Erinja/Alagbon, Owode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.687996,3.002832",
+      "google_place_id": "ChIJ0fusIgxzOxARr8yKa4wlFdk"
+    }
+  },
+  {
+    "id": "341483",
+    "name": "CUSTOMARY COURT HALL, ILOBI",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "27/05/09/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.6371134,
+      "longitude": 2.7372265,
+      "viewport": {
+        "northeast": {
+          "lat": 6.638453729892722,
+          "lng": 2.738546879892723
+        },
+        "southwest": {
+          "lat": 6.635754070107278,
+          "lng": 2.735847220107278
+        }
+      },
+      "formatted_address": "JPPP+RVX, 112101, Idiroko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6371134,2.7372265",
+      "google_place_id": "ChIJ_dB43MpDOxARp77PoOl3aKQ"
+    }
+  },
+  {
+    "id": "341484",
+    "name": "OPP. MARKET GARAGE",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "27/05/09/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 42.8488401,
+      "longitude": -80.7381774,
+      "viewport": {
+        "northeast": {
+          "lat": 42.85016807989273,
+          "lng": -80.73679667010728
+        },
+        "southwest": {
+          "lat": 42.84746842010728,
+          "lng": -80.73949632989273
+        }
+      },
+      "formatted_address": "180 John Pound Rd, Tillsonburg, ON N4G 4G8, Canada",
+      "google_map_url": "https://maps.google.com?q=42.8488401,-80.7381774",
+      "google_place_id": "ChIJbY3hTJcrLIgRa12QrehO0ow"
+    }
+  },
+  {
+    "id": "341485",
+    "name": "E.S.L.G. SCHOOL ERINJA ORILE",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "27/05/09/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.742851,
+      "longitude": 3.001383,
+      "viewport": {
+        "northeast": {
+          "lat": 6.744179779892721,
+          "lng": 3.002640179892722
+        },
+        "southwest": {
+          "lat": 6.741480120107277,
+          "lng": 2.999940520107278
+        }
+      },
+      "formatted_address": "6FR5P2V2+4HR, Ilobi Erinja, 112106, Oke Erinja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.742851,3.001383",
+      "google_place_id": "ChIJ5dNEpl4NOxARdzAWNuSwlis"
+    }
+  },
+  {
+    "id": "341486",
+    "name": "YSLG OKE-ERINJA",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "27/05/09/011",
+    "remark": "NEW PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.742851,
+      "longitude": 3.001383,
+      "viewport": {
+        "northeast": {
+          "lat": 6.744179779892721,
+          "lng": 3.002640179892722
+        },
+        "southwest": {
+          "lat": 6.741480120107277,
+          "lng": 2.999940520107278
+        }
+      },
+      "formatted_address": "6FR5P2V2+4HR, Ilobi Erinja, 112106, Oke Erinja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.742851,3.001383",
+      "google_place_id": "ChIJ5dNEpl4NOxARdzAWNuSwlis"
+    }
+  },
+  {
+    "id": "341487",
+    "name": "OPEN SPACE AT SURULERE STREET, OKE-ERINJA",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "27/05/09/012",
+    "remark": "NEW PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.4897794,
+      "longitude": 3.3558603,
+      "viewport": {
+        "northeast": {
+          "lat": 6.491169379892722,
+          "lng": 3.357221779892722
+        },
+        "southwest": {
+          "lat": 6.488469720107278,
+          "lng": 3.354522120107277
+        }
+      },
+      "formatted_address": "80 Bode Thomas St, Alaka 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4897794,3.3558603",
+      "google_place_id": "ChIJBTf9ZYuNOxARNJAcLhetChw"
+    }
+  },
+  {
+    "id": "341488",
+    "name": "OPEN SPACE AT ORUWA ERINJA COMMUNITY WATER PROJECT",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "27/05/09/013",
+    "remark": "NEW PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": null
+  },
+  {
+    "id": "341489",
+    "name": "EBUROGUN VILLAGE",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "27/05/09/014",
+    "remark": "NEW PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8910703,
+      "longitude": 2.8377656,
+      "viewport": {
+        "northeast": {
+          "lat": 7.020047000000001,
+          "lng": 2.9207244
+        },
+        "southwest": {
+          "lat": 6.8351278,
+          "lng": 2.7614206
+        }
+      },
+      "formatted_address": "Ebute Igbooro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8910703,2.8377656",
+      "google_place_id": "ChIJK1-DbukZOxARiI6mTN7YkjE"
+    }
+  },
+  {
+    "id": "341490",
+    "name": "OPEN SPACE AT IYANO ANISERE",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "27/05/09/015",
+    "remark": "NEW PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.802968399999999,
+      "longitude": 3.1270351,
+      "viewport": {
+        "northeast": {
+          "lat": 6.804288879892722,
+          "lng": 3.128374079892722
+        },
+        "southwest": {
+          "lat": 6.801589220107278,
+          "lng": 3.125674420107278
+        }
+      },
+      "formatted_address": "2nd Ave, 112104, Ibogun Adina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.802968399999999,3.1270351",
+      "google_place_id": "ChIJdXCM_KuhOxAREMlN4PS92MI"
+    }
+  },
+  {
+    "id": "341491",
+    "name": "OPEN SPACE AT AGO PANU BESIDE TRANSFORMER ALAGBON",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "27/05/09/016",
+    "remark": "NEW PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": null
+  },
+  {
+    "id": "341492",
+    "name": "OPEN SPACE BESIDE TRANSFORMER OPP BIBLE COLLEGE",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "27/05/09/017",
+    "remark": "NEW PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": null
+  },
+  {
+    "id": "341493",
+    "name": "OPEN SPACE BESIDE TRANSFORMER OPP. ALASEYORI CENTRAL MOSQUE",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "27/05/09/018",
+    "remark": "NEW PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.705736399999999,
+      "longitude": 3.2416062,
+      "viewport": {
+        "northeast": {
+          "lat": 6.707083429892721,
+          "lng": 3.242958129892722
+        },
+        "southwest": {
+          "lat": 6.704383770107277,
+          "lng": 3.240258470107277
+        }
+      },
+      "formatted_address": "P64R+8M6, Araromi Street, 112104, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.705736399999999,3.2416062",
+      "google_place_id": "ChIJT5fgbjeYOxARH_9KPaqtpkM"
+    }
+  },
+  {
+    "id": "341494",
+    "name": "OPEN SPACE BESIDE TRANSFORMER OPP YSLG ALAGBON",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "27/05/09/019",
+    "remark": "NEW PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": null
+  },
+  {
+    "id": "341495",
+    "name": "AFRICAN NUR & PRY SCHOOL GBOKOTO",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "27/05/09/020",
+    "remark": "NEW PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 38.9506415,
+      "longitude": -94.49461749999999,
+      "viewport": {
+        "northeast": {
+          "lat": 38.95206752989272,
+          "lng": -94.49326502010727
+        },
+        "southwest": {
+          "lat": 38.94936787010727,
+          "lng": -94.49596467989272
+        }
+      },
+      "formatted_address": "9520 James A Reed Rd A, Kansas City, MO 64134, United States",
+      "google_map_url": "https://maps.google.com?q=38.9506415,-94.49461749999999",
+      "google_place_id": "ChIJi2_bDNvmwIcR9TkuiZNEkcw"
+    }
+  },
+  {
+    "id": "341496",
+    "name": "ILOBI TOWN HALL",
+    "registration_area_id": "17329",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "27/05/09/021",
+    "remark": "NEW PU",
+    "ward_id": "17329",
+    "ward_name": "ILOBI/ERINJA",
+    "local_government_id": "566",
+    "local_government_name": "EGBADO SOUTH",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.749037,
+      "longitude": 3.035185,
+      "viewport": {
+        "northeast": {
+          "lat": 6.750446979892721,
+          "lng": 3.036651429892723
+        },
+        "southwest": {
+          "lat": 6.747747320107277,
+          "lng": 3.033951770107278
+        }
+      },
+      "formatted_address": "6FR5P2XP+J37, Ilobi Street, 112105, Owode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.749037,3.035185",
+      "google_place_id": "ChIJyTI3eOYLOxAR4n24_pyo2YE"
+    }
+  }
+]

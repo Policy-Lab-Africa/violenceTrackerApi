@@ -1,0 +1,187 @@
+[
+  {
+    "id": "104355",
+    "name": "MAKIRIN PRI. SCH. (MAKIRIN A)",
+    "registration_area_id": "5345",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "21/15/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5345",
+    "ward_name": "GARIN BAKA/MAKARIN",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104356",
+    "name": "GWARZO PRI. SCH. (GWARZO)",
+    "registration_area_id": "5345",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "21/15/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5345",
+    "ward_name": "GARIN BAKA/MAKARIN",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104357",
+    "name": "GARIN BAKA PRI. SCH. (GARIN BAKA)",
+    "registration_area_id": "5345",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "21/15/03/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5345",
+    "ward_name": "GARIN BAKA/MAKARIN",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 10.560961,
+      "longitude": 4.789873099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.7467861,
+          "lng": 4.8517196
+        },
+        "southwest": {
+          "lat": 10.5040103,
+          "lng": 4.7234402
+        }
+      },
+      "formatted_address": "Garin Baka, 870104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.560961,4.789873099999999",
+      "google_place_id": "ChIJe7F7_vS0yhER1IYg34uSwVc"
+    }
+  },
+  {
+    "id": "104358",
+    "name": "DISPENSARY ( MAKIRIN B)",
+    "registration_area_id": "5345",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "21/15/03/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5345",
+    "ward_name": "GARIN BAKA/MAKARIN",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 44.37976450000001,
+      "longitude": -79.7133102,
+      "viewport": {
+        "northeast": {
+          "lat": 44.38111982989273,
+          "lng": -79.71209892010728
+        },
+        "southwest": {
+          "lat": 44.37842017010728,
+          "lng": -79.71479857989272
+        }
+      },
+      "formatted_address": "15 Cedar Pointe Dr, Barrie, ON L4N 5R7, Canada",
+      "google_map_url": "https://maps.google.com?q=44.37976450000001,-79.7133102",
+      "google_place_id": "ChIJ0SGQig29KogRzg4aXvKgWhA"
+    }
+  },
+  {
+    "id": "104359",
+    "name": "RIKOFE PRI. SCH. (RIKOFE)",
+    "registration_area_id": "5345",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "21/15/03/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5345",
+    "ward_name": "GARIN BAKA/MAKARIN",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104360",
+    "name": "OPEN SPACE NEAR FILIN MANGORO (UNG. BOKA)",
+    "registration_area_id": "5345",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "21/15/03/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5345",
+    "ward_name": "GARIN BAKA/MAKARIN",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104361",
+    "name": "FOOTBALL FIELD, OPP. DC'S RESIDENCE MAKIRIN (OPEN SPACE)",
+    "registration_area_id": "5345",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "21/15/03/007",
+    "remark": "NEW PU",
+    "ward_id": "5345",
+    "ward_name": "GARIN BAKA/MAKARIN",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104362",
+    "name": "GARIN BAKA OLDDISPENSARY",
+    "registration_area_id": "5345",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "21/15/03/008",
+    "remark": "NEW PU",
+    "ward_id": "5345",
+    "ward_name": "GARIN BAKA/MAKARIN",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104363",
+    "name": "SABUWAR HANYA PRI. SCH. MAKARIN",
+    "registration_area_id": "5345",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "21/15/03/009",
+    "remark": "NEW PU",
+    "ward_id": "5345",
+    "ward_name": "GARIN BAKA/MAKARIN",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  }
+]

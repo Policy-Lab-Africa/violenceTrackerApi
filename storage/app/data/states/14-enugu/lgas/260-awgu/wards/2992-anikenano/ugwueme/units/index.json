@@ -1,0 +1,596 @@
+[
+  {
+    "id": "55327",
+    "name": "HEALTH CENTRE EZERE I",
+    "registration_area_id": "2992",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "14/02/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2992",
+    "ward_name": "ANIKENANO/UGWUEME",
+    "local_government_id": "260",
+    "local_government_name": "AWGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.0822122,
+      "longitude": 7.478159699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.083568229892722,
+          "lng": 7.479520429892722
+        },
+        "southwest": {
+          "lat": 6.080868570107278,
+          "lng": 7.476820770107278
+        }
+      },
+      "formatted_address": "3FJH+V7M, 402121, Awgu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0822122,7.478159699999999",
+      "google_place_id": "ChIJETTjAp9BQxAREA7QGF92hD0"
+    }
+  },
+  {
+    "id": "55328",
+    "name": "HEALTH CENTRE EZERE II",
+    "registration_area_id": "2992",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "14/02/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2992",
+    "ward_name": "ANIKENANO/UGWUEME",
+    "local_government_id": "260",
+    "local_government_name": "AWGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.0822122,
+      "longitude": 7.478159699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.083568229892722,
+          "lng": 7.479520429892722
+        },
+        "southwest": {
+          "lat": 6.080868570107278,
+          "lng": 7.476820770107278
+        }
+      },
+      "formatted_address": "3FJH+V7M, 402121, Awgu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0822122,7.478159699999999",
+      "google_place_id": "ChIJETTjAp9BQxAREA7QGF92hD0"
+    }
+  },
+  {
+    "id": "55329",
+    "name": "COMM. SCHOOL  EZERE",
+    "registration_area_id": "2992",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "14/02/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2992",
+    "ward_name": "ANIKENANO/UGWUEME",
+    "local_government_id": "260",
+    "local_government_name": "AWGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.0240874,
+      "longitude": 7.4381196,
+      "viewport": {
+        "northeast": {
+          "lat": 6.025342229892722,
+          "lng": 7.439368979892722
+        },
+        "southwest": {
+          "lat": 6.022642570107278,
+          "lng": 7.436669320107279
+        }
+      },
+      "formatted_address": "2CFQ+J6Q, 402126, Ugwueme, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0240874,7.4381196",
+      "google_place_id": "ChIJAeBZ36lqQxARohq2T2W81v8"
+    }
+  },
+  {
+    "id": "55330",
+    "name": "CENTRAL. SCHOOL  NKWE I",
+    "registration_area_id": "2992",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "14/02/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2992",
+    "ward_name": "ANIKENANO/UGWUEME",
+    "local_government_id": "260",
+    "local_government_name": "AWGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.0773573,
+      "longitude": 7.4254703,
+      "viewport": {
+        "northeast": {
+          "lat": 6.078642429892721,
+          "lng": 7.426567829892721
+        },
+        "southwest": {
+          "lat": 6.075942770107277,
+          "lng": 7.423868170107277
+        }
+      },
+      "formatted_address": "Mgbidi-Ezere-Nkwe Rd, 402126, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0773573,7.4254703",
+      "google_place_id": "ChIJ64ZUpG1qQxAREVDWv6RqM28"
+    }
+  },
+  {
+    "id": "55331",
+    "name": "NKWE SQUARE",
+    "registration_area_id": "2992",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "14/02/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2992",
+    "ward_name": "ANIKENANO/UGWUEME",
+    "local_government_id": "260",
+    "local_government_name": "AWGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.0805827,
+      "longitude": 7.4165053,
+      "viewport": {
+        "northeast": {
+          "lat": 6.113536799999999,
+          "lng": 7.4710835
+        },
+        "southwest": {
+          "lat": 6.0131907,
+          "lng": 7.3847932
+        }
+      },
+      "formatted_address": "Anikenano/Ugwueme, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0805827,7.4165053",
+      "google_place_id": "ChIJx3Xkt3xqQxARC3_kEHQizDY"
+    }
+  },
+  {
+    "id": "55332",
+    "name": "NKWE TOWN HALL",
+    "registration_area_id": "2992",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "14/02/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2992",
+    "ward_name": "ANIKENANO/UGWUEME",
+    "local_government_id": "260",
+    "local_government_name": "AWGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.0805827,
+      "longitude": 7.4165053,
+      "viewport": {
+        "northeast": {
+          "lat": 6.113536799999999,
+          "lng": 7.4710835
+        },
+        "southwest": {
+          "lat": 6.0131907,
+          "lng": 7.3847932
+        }
+      },
+      "formatted_address": "Anikenano/Ugwueme, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0805827,7.4165053",
+      "google_place_id": "ChIJx3Xkt3xqQxARC3_kEHQizDY"
+    }
+  },
+  {
+    "id": "55333",
+    "name": "CENTRAL SCHOOL AWGUNTA",
+    "registration_area_id": "2992",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "14/02/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2992",
+    "ward_name": "ANIKENANO/UGWUEME",
+    "local_government_id": "260",
+    "local_government_name": "AWGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.064004199999999,
+      "longitude": 7.476073499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.065314979892722,
+          "lng": 7.477485679892721
+        },
+        "southwest": {
+          "lat": 6.062615320107278,
+          "lng": 7.474786020107277
+        }
+      },
+      "formatted_address": "3F7G+JC6, Old Enugu-Port Harcourt Rd, 402121, Awgu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.064004199999999,7.476073499999999",
+      "google_place_id": "ChIJhRHJh7JBQxARFbINj_ZYRLI"
+    }
+  },
+  {
+    "id": "55334",
+    "name": "NKWO OBODO AWGUNTA",
+    "registration_area_id": "2992",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "14/02/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2992",
+    "ward_name": "ANIKENANO/UGWUEME",
+    "local_government_id": "260",
+    "local_government_name": "AWGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.0805827,
+      "longitude": 7.4165053,
+      "viewport": {
+        "northeast": {
+          "lat": 6.113536799999999,
+          "lng": 7.4710835
+        },
+        "southwest": {
+          "lat": 6.0131907,
+          "lng": 7.3847932
+        }
+      },
+      "formatted_address": "Anikenano/Ugwueme, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0805827,7.4165053",
+      "google_place_id": "ChIJx3Xkt3xqQxARC3_kEHQizDY"
+    }
+  },
+  {
+    "id": "55335",
+    "name": "CENTRAL SCHOOL NENWENTA",
+    "registration_area_id": "2992",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "14/02/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2992",
+    "ward_name": "ANIKENANO/UGWUEME",
+    "local_government_id": "260",
+    "local_government_name": "AWGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.0556272,
+      "longitude": 7.442290400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.056950429892723,
+          "lng": 7.443645229892722
+        },
+        "southwest": {
+          "lat": 6.054250770107279,
+          "lng": 7.440945570107278
+        }
+      },
+      "formatted_address": "3C4R+7W7, Nenwenta 402126, Awgu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0556272,7.442290400000001",
+      "google_place_id": "ChIJOaC7TWJBQxARZlkqAGz5iDs"
+    }
+  },
+  {
+    "id": "55336",
+    "name": "NENWENTA TOWN HALL",
+    "registration_area_id": "2992",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "14/02/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2992",
+    "ward_name": "ANIKENANO/UGWUEME",
+    "local_government_id": "260",
+    "local_government_name": "AWGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.0805827,
+      "longitude": 7.4165053,
+      "viewport": {
+        "northeast": {
+          "lat": 6.113536799999999,
+          "lng": 7.4710835
+        },
+        "southwest": {
+          "lat": 6.0131907,
+          "lng": 7.3847932
+        }
+      },
+      "formatted_address": "Anikenano/Ugwueme, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0805827,7.4165053",
+      "google_place_id": "ChIJx3Xkt3xqQxARC3_kEHQizDY"
+    }
+  },
+  {
+    "id": "55337",
+    "name": "COMM. SCHOOL UGWUEME I",
+    "registration_area_id": "2992",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "14/02/08/011",
+    "remark": "EXISTING PU",
+    "ward_id": "2992",
+    "ward_name": "ANIKENANO/UGWUEME",
+    "local_government_id": "260",
+    "local_government_name": "AWGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.0240874,
+      "longitude": 7.4381196,
+      "viewport": {
+        "northeast": {
+          "lat": 6.025342229892722,
+          "lng": 7.439368979892722
+        },
+        "southwest": {
+          "lat": 6.022642570107278,
+          "lng": 7.436669320107279
+        }
+      },
+      "formatted_address": "2CFQ+J6Q, 402126, Ugwueme, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0240874,7.4381196",
+      "google_place_id": "ChIJAeBZ36lqQxARohq2T2W81v8"
+    }
+  },
+  {
+    "id": "55338",
+    "name": "CENTRAL SCHOOL UGWUEME I",
+    "registration_area_id": "2992",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "14/02/08/012",
+    "remark": "EXISTING PU",
+    "ward_id": "2992",
+    "ward_name": "ANIKENANO/UGWUEME",
+    "local_government_id": "260",
+    "local_government_name": "AWGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.0240874,
+      "longitude": 7.4381196,
+      "viewport": {
+        "northeast": {
+          "lat": 6.025342229892722,
+          "lng": 7.439368979892722
+        },
+        "southwest": {
+          "lat": 6.022642570107278,
+          "lng": 7.436669320107279
+        }
+      },
+      "formatted_address": "2CFQ+J6Q, 402126, Ugwueme, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0240874,7.4381196",
+      "google_place_id": "ChIJAeBZ36lqQxARohq2T2W81v8"
+    }
+  },
+  {
+    "id": "55339",
+    "name": "CENTRAL SCHOOL UGWUEME II",
+    "registration_area_id": "2992",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "14/02/08/013",
+    "remark": "EXISTING PU",
+    "ward_id": "2992",
+    "ward_name": "ANIKENANO/UGWUEME",
+    "local_government_id": "260",
+    "local_government_name": "AWGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.0240874,
+      "longitude": 7.4381196,
+      "viewport": {
+        "northeast": {
+          "lat": 6.025342229892722,
+          "lng": 7.439368979892722
+        },
+        "southwest": {
+          "lat": 6.022642570107278,
+          "lng": 7.436669320107279
+        }
+      },
+      "formatted_address": "2CFQ+J6Q, 402126, Ugwueme, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0240874,7.4381196",
+      "google_place_id": "ChIJAeBZ36lqQxARohq2T2W81v8"
+    }
+  },
+  {
+    "id": "55340",
+    "name": "HEALTH POST UGWUEME",
+    "registration_area_id": "2992",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "14/02/08/014",
+    "remark": "EXISTING PU",
+    "ward_id": "2992",
+    "ward_name": "ANIKENANO/UGWUEME",
+    "local_government_id": "260",
+    "local_government_name": "AWGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.0755,
+      "longitude": 7.478599999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.076849929892721,
+          "lng": 7.479938879892721
+        },
+        "southwest": {
+          "lat": 6.074150270107277,
+          "lng": 7.477239220107277
+        }
+      },
+      "formatted_address": "3FGH+6C5, 402121, Onoli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0755,7.478599999999999",
+      "google_place_id": "ChIJA_PFIKFBQxARl_ySAFjifNI"
+    }
+  },
+  {
+    "id": "55341",
+    "name": "IHITE VILLAGE SQUARE",
+    "registration_area_id": "2992",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "14/02/08/015",
+    "remark": "EXISTING PU",
+    "ward_id": "2992",
+    "ward_name": "ANIKENANO/UGWUEME",
+    "local_government_id": "260",
+    "local_government_name": "AWGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.0805827,
+      "longitude": 7.4165053,
+      "viewport": {
+        "northeast": {
+          "lat": 6.113536799999999,
+          "lng": 7.4710835
+        },
+        "southwest": {
+          "lat": 6.0131907,
+          "lng": 7.3847932
+        }
+      },
+      "formatted_address": "Anikenano/Ugwueme, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0805827,7.4165053",
+      "google_place_id": "ChIJx3Xkt3xqQxARC3_kEHQizDY"
+    }
+  },
+  {
+    "id": "55342",
+    "name": "POSTAL AGENCY UGWUEME",
+    "registration_area_id": "2992",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "14/02/08/016",
+    "remark": "EXISTING PU",
+    "ward_id": "2992",
+    "ward_name": "ANIKENANO/UGWUEME",
+    "local_government_id": "260",
+    "local_government_name": "AWGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.0841278,
+      "longitude": 7.4749979,
+      "viewport": {
+        "northeast": {
+          "lat": 6.085579979892722,
+          "lng": 7.476412729892719
+        },
+        "southwest": {
+          "lat": 6.082880320107278,
+          "lng": 7.473713070107276
+        }
+      },
+      "formatted_address": "3FMG+J2Q, 402123, Awgu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0841278,7.4749979",
+      "google_place_id": "ChIJZYEkRJlBQxARJutsecivk-Q"
+    }
+  },
+  {
+    "id": "55343",
+    "name": "CENT. SCH. NKWE II",
+    "registration_area_id": "2992",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "14/02/08/017",
+    "remark": "EXISTING PU",
+    "ward_id": "2992",
+    "ward_name": "ANIKENANO/UGWUEME",
+    "local_government_id": "260",
+    "local_government_name": "AWGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.0773573,
+      "longitude": 7.4254703,
+      "viewport": {
+        "northeast": {
+          "lat": 6.078642429892721,
+          "lng": 7.426567829892721
+        },
+        "southwest": {
+          "lat": 6.075942770107277,
+          "lng": 7.423868170107277
+        }
+      },
+      "formatted_address": "Mgbidi-Ezere-Nkwe Rd, 402126, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0773573,7.4254703",
+      "google_place_id": "ChIJ64ZUpG1qQxAREVDWv6RqM28"
+    }
+  },
+  {
+    "id": "55344",
+    "name": "COMM. SCH. UGWUEME II",
+    "registration_area_id": "2992",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "14/02/08/018",
+    "remark": "EXISTING PU",
+    "ward_id": "2992",
+    "ward_name": "ANIKENANO/UGWUEME",
+    "local_government_id": "260",
+    "local_government_name": "AWGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.0240874,
+      "longitude": 7.4381196,
+      "viewport": {
+        "northeast": {
+          "lat": 6.025342229892722,
+          "lng": 7.439368979892722
+        },
+        "southwest": {
+          "lat": 6.022642570107278,
+          "lng": 7.436669320107279
+        }
+      },
+      "formatted_address": "2CFQ+J6Q, 402126, Ugwueme, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0240874,7.4381196",
+      "google_place_id": "ChIJAeBZ36lqQxARohq2T2W81v8"
+    }
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "id": "104388",
+    "name": "DAMMARAYA",
+    "registration_area_id": "5348",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "21/15/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5348",
+    "ward_name": "KAMBUWA/DANMARAYA",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 10.3162,
+      "longitude": 4.7271,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31754982989272,
+          "lng": 4.728449829892721
+        },
+        "southwest": {
+          "lat": 10.31485017010728,
+          "lng": 4.725750170107277
+        }
+      },
+      "formatted_address": "8P8G+FRH, 870104, Maraha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3162,4.7271",
+      "google_place_id": "ChIJSevUuqo4NRARSnWLMSe0cvI"
+    }
+  },
+  {
+    "id": "104389",
+    "name": "OPEN SPACE NEAR BOREHOLE GIDAN KAZUWO (GIDAN KAZUWA)",
+    "registration_area_id": "5348",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "21/15/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5348",
+    "ward_name": "KAMBUWA/DANMARAYA",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4409206,
+      "longitude": 4.209312,
+      "viewport": {
+        "northeast": {
+          "lat": 12.44249092989272,
+          "lng": 4.211043829892722
+        },
+        "southwest": {
+          "lat": 12.43979127010728,
+          "lng": 4.208344170107278
+        }
+      },
+      "formatted_address": "C6R5+9P7, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4409206,4.209312",
+      "google_place_id": "ChIJITNXMFwTyRERFRKguR0Mg34"
+    }
+  },
+  {
+    "id": "104390",
+    "name": "KUMBUWA",
+    "registration_area_id": "5348",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "21/15/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5348",
+    "ward_name": "KAMBUWA/DANMARAYA",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104391",
+    "name": "KWALIYO",
+    "registration_area_id": "5348",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "21/15/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5348",
+    "ward_name": "KAMBUWA/DANMARAYA",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104392",
+    "name": "SAKABA",
+    "registration_area_id": "5348",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "21/15/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5348",
+    "ward_name": "KAMBUWA/DANMARAYA",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104393",
+    "name": "SHAGIYA",
+    "registration_area_id": "5348",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "21/15/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5348",
+    "ward_name": "KAMBUWA/DANMARAYA",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104394",
+    "name": "TUNGAR BATURE",
+    "registration_area_id": "5348",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "21/15/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5348",
+    "ward_name": "KAMBUWA/DANMARAYA",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104395",
+    "name": "TUNGAR KOLO",
+    "registration_area_id": "5348",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "21/15/06/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5348",
+    "ward_name": "KAMBUWA/DANMARAYA",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104396",
+    "name": "TUNGAR UWAR YARA",
+    "registration_area_id": "5348",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "21/15/06/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5348",
+    "ward_name": "KAMBUWA/DANMARAYA",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104397",
+    "name": "KAMBUWA P.H.C",
+    "registration_area_id": "5348",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "21/15/06/010",
+    "remark": "NEW PU",
+    "ward_id": "5348",
+    "ward_name": "KAMBUWA/DANMARAYA",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.8513055,
+      "longitude": 3.6647075,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85282722989272,
+          "lng": 3.665965629892722
+        },
+        "southwest": {
+          "lat": 11.85012757010728,
+          "lng": 3.663265970107278
+        }
+      },
+      "formatted_address": "VM27+GVG, 862105, Kamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8513055,3.6647075",
+      "google_place_id": "ChIJx-fXnbUJzBERthMW3y1K7Rs"
+    }
+  },
+  {
+    "id": "104398",
+    "name": "DISPENSARY BESIDE PRI. SCH. KWALIYO",
+    "registration_area_id": "5348",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "21/15/06/011",
+    "remark": "NEW PU",
+    "ward_id": "5348",
+    "ward_name": "KAMBUWA/DANMARAYA",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 43.4385525,
+      "longitude": -80.51176509999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.43986637989272,
+          "lng": -80.51037667010728
+        },
+        "southwest": {
+          "lat": 43.43716672010728,
+          "lng": -80.51307632989273
+        }
+      },
+      "formatted_address": "370 Highland Rd W, Kitchener, ON N2M 5J9, Canada",
+      "google_map_url": "https://maps.google.com?q=43.4385525,-80.51176509999999",
+      "google_place_id": "ChIJ8c-xZnb1K4gRQq1vCzwErTI"
+    }
+  },
+  {
+    "id": "104399",
+    "name": "KWAKWARAN BESIDE PRI. SCH. SHAGIYA",
+    "registration_area_id": "5348",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "21/15/06/012",
+    "remark": "NEW PU",
+    "ward_id": "5348",
+    "ward_name": "KAMBUWA/DANMARAYA",
+    "local_government_id": "462",
+    "local_government_name": "NGASKI",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4451053,
+      "longitude": 4.2295349,
+      "viewport": {
+        "northeast": {
+          "lat": 12.44647282989272,
+          "lng": 4.230956979892722
+        },
+        "southwest": {
+          "lat": 12.44377317010727,
+          "lng": 4.228257320107278
+        }
+      },
+      "formatted_address": "C6WH+3V8, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4451053,4.2295349",
+      "google_place_id": "ChIJXRh-7VkTyRERjrKFGngUpPw"
+    }
+  }
+]

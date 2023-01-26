@@ -1,0 +1,1493 @@
+[
+  {
+    "id": "60246",
+    "name": "LAFIYA, DUKKU WEST PRI. SCH.",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "15/04/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8236584,
+      "longitude": 10.7736715,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82487277989272,
+          "lng": 10.77507567989272
+        },
+        "southwest": {
+          "lat": 10.82217312010728,
+          "lng": 10.77237602010728
+        }
+      },
+      "formatted_address": "palace, Main Round about, Opposite Emir's, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8236584,10.7736715",
+      "google_place_id": "ChIJe0Hst-1yABERM_PH1EJ4GN0"
+    }
+  },
+  {
+    "id": "60247",
+    "name": "TILEL, KOFAR SARKI TILEL",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "15/04/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8236584,
+      "longitude": 10.7736715,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82487277989272,
+          "lng": 10.77507567989272
+        },
+        "southwest": {
+          "lat": 10.82217312010728,
+          "lng": 10.77237602010728
+        }
+      },
+      "formatted_address": "palace, Main Round about, Opposite Emir's, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8236584,10.7736715",
+      "google_place_id": "ChIJe0Hst-1yABERM_PH1EJ4GN0"
+    }
+  },
+  {
+    "id": "60248",
+    "name": "NAYELWA, KOFAR S. NAYELWA",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "15/04/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8189326,
+      "longitude": 10.778874,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82029902989272,
+          "lng": 10.78026092989272
+        },
+        "southwest": {
+          "lat": 10.81759937010728,
+          "lng": 10.77756127010728
+        }
+      },
+      "formatted_address": "RQ9H+HGH General Hospital, Road, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8189326,10.778874",
+      "google_place_id": "ChIJObtG1hxzABERsZNFvX9JDvw"
+    }
+  },
+  {
+    "id": "60249",
+    "name": "NAYELWA, KOFAR BUBA ZASSA",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "15/04/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60250",
+    "name": "NAYELWA, KOFA S. ASKA",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "15/04/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60251",
+    "name": "DUGGE, KOFAR M. DUGGE",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "15/04/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60252",
+    "name": "DUGGE, MAGISTRATE COURT",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "15/04/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2915316,
+      "longitude": 11.090186,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29285972989272,
+          "lng": 11.09153592989272
+        },
+        "southwest": {
+          "lat": 10.29016007010728,
+          "lng": 11.08883627010728
+        }
+      },
+      "formatted_address": "73RR+J3M, 771104, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2915316,11.090186",
+      "google_place_id": "ChIJX-U_vXXb_xARlba0dnuwtdU"
+    }
+  },
+  {
+    "id": "60253",
+    "name": "DUGGE, WAKILIN DUGGE",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "15/04/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8253668,
+      "longitude": 10.760649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82708807989272,
+          "lng": 10.76221982989272
+        },
+        "southwest": {
+          "lat": 10.82438842010728,
+          "lng": 10.75952017010728
+        }
+      },
+      "formatted_address": "Waziri North, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8253668,10.760649",
+      "google_place_id": "ChIJ31XwquRyABERcbIM244qsYE"
+    }
+  },
+  {
+    "id": "60254",
+    "name": "GONA, DUKKU CENTRAL PRI. SCH.",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "15/04/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8236584,
+      "longitude": 10.7736715,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82487277989272,
+          "lng": 10.77507567989272
+        },
+        "southwest": {
+          "lat": 10.82217312010728,
+          "lng": 10.77237602010728
+        }
+      },
+      "formatted_address": "palace, Main Round about, Opposite Emir's, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8236584,10.7736715",
+      "google_place_id": "ChIJe0Hst-1yABERM_PH1EJ4GN0"
+    }
+  },
+  {
+    "id": "60255",
+    "name": "GONA, G. S. A. D. P.",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "15/04/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8189326,
+      "longitude": 10.778874,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82029902989272,
+          "lng": 10.78026092989272
+        },
+        "southwest": {
+          "lat": 10.81759937010728,
+          "lng": 10.77756127010728
+        }
+      },
+      "formatted_address": "RQ9H+HGH General Hospital, Road, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8189326,10.778874",
+      "google_place_id": "ChIJObtG1hxzABERsZNFvX9JDvw"
+    }
+  },
+  {
+    "id": "60256",
+    "name": "GONA, GONA EAST SCH.",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "15/04/08/011",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8243657,
+      "longitude": 10.7768788,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82567257989272,
+          "lng": 10.77820382989272
+        },
+        "southwest": {
+          "lat": 10.82297292010728,
+          "lng": 10.77550417010728
+        }
+      },
+      "formatted_address": "RQFG+PQR, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8243657,10.7768788",
+      "google_place_id": "ChIJi2NuRKhzABERwfh0G4SwZwc"
+    }
+  },
+  {
+    "id": "60257",
+    "name": "SHABEWA, SHABEWA PRI. SCH.",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "15/04/08/012",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8049156,
+      "longitude": 10.7724615,
+      "viewport": {
+        "northeast": {
+          "lat": 10.80663142989272,
+          "lng": 10.77441597989272
+        },
+        "southwest": {
+          "lat": 10.80393177010728,
+          "lng": 10.77171632010728
+        }
+      },
+      "formatted_address": "RQ3C+XX8, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8049156,10.7724615",
+      "google_place_id": "ChIJezqMi8ZzABERVzT2AmYofSk"
+    }
+  },
+  {
+    "id": "60258",
+    "name": "NAKUJA, KOFAR S. NAKUJA",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "15/04/08/013",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8825667,
+      "longitude": 10.6773833,
+      "viewport": {
+        "northeast": {
+          "lat": 10.88390452989272,
+          "lng": 10.67869347989272
+        },
+        "southwest": {
+          "lat": 10.88120487010728,
+          "lng": 10.67599382010728
+        }
+      },
+      "formatted_address": "10°52.954'N, 10°40.643'E, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8825667,10.6773833",
+      "google_place_id": "ChIJl6R4wCd0ABERaDkymV-Hg5c"
+    }
+  },
+  {
+    "id": "60259",
+    "name": "WEDU-KOLE, KOFAR SARKI",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "15/04/08/014",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8825667,
+      "longitude": 10.6773833,
+      "viewport": {
+        "northeast": {
+          "lat": 10.88390452989272,
+          "lng": 10.67869347989272
+        },
+        "southwest": {
+          "lat": 10.88120487010728,
+          "lng": 10.67599382010728
+        }
+      },
+      "formatted_address": "10°52.954'N, 10°40.643'E, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8825667,10.6773833",
+      "google_place_id": "ChIJl6R4wCd0ABERaDkymV-Hg5c"
+    }
+  },
+  {
+    "id": "60260",
+    "name": "WAKALO, KOFAR SARKI",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "15/04/08/015",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8253668,
+      "longitude": 10.760649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82708807989272,
+          "lng": 10.76221982989272
+        },
+        "southwest": {
+          "lat": 10.82438842010728,
+          "lng": 10.75952017010728
+        }
+      },
+      "formatted_address": "Waziri North, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8253668,10.760649",
+      "google_place_id": "ChIJ31XwquRyABERcbIM244qsYE"
+    }
+  },
+  {
+    "id": "60261",
+    "name": "SHALLUDI, KOFAR SARKI",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "15/04/08/016",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8253668,
+      "longitude": 10.760649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82708807989272,
+          "lng": 10.76221982989272
+        },
+        "southwest": {
+          "lat": 10.82438842010728,
+          "lng": 10.75952017010728
+        }
+      },
+      "formatted_address": "Waziri North, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8253668,10.760649",
+      "google_place_id": "ChIJ31XwquRyABERcbIM244qsYE"
+    }
+  },
+  {
+    "id": "60262",
+    "name": "DASHI, PRI.  SCH.",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "15/04/08/017",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8236584,
+      "longitude": 10.7736715,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82487277989272,
+          "lng": 10.77507567989272
+        },
+        "southwest": {
+          "lat": 10.82217312010728,
+          "lng": 10.77237602010728
+        }
+      },
+      "formatted_address": "palace, Main Round about, Opposite Emir's, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8236584,10.7736715",
+      "google_place_id": "ChIJe0Hst-1yABERM_PH1EJ4GN0"
+    }
+  },
+  {
+    "id": "60263",
+    "name": "DASHI, DISPENSARY CLINIC",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "15/04/08/018",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.769392,
+      "longitude": 10.692805,
+      "viewport": {
+        "northeast": {
+          "lat": 10.77067007989272,
+          "lng": 10.69418027989272
+        },
+        "southwest": {
+          "lat": 10.76797042010728,
+          "lng": 10.69148062010728
+        }
+      },
+      "formatted_address": "QM9V+Q43, 760104, Dashi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.769392,10.692805",
+      "google_place_id": "ChIJiXVt1WsLABERdFdeuSzxKsA"
+    }
+  },
+  {
+    "id": "60264",
+    "name": "BULBUL TONGOYEL, KOFAR S. BULBUL",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "15/04/08/019",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60265",
+    "name": "BULBUL TONGOYEL, KOFAR S. BULBUL LAFIYAWO",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "15/04/08/020",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60266",
+    "name": "WURO AMALE, KOFAR SARKI",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "15/04/08/021",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8825667,
+      "longitude": 10.6773833,
+      "viewport": {
+        "northeast": {
+          "lat": 10.88390452989272,
+          "lng": 10.67869347989272
+        },
+        "southwest": {
+          "lat": 10.88120487010728,
+          "lng": 10.67599382010728
+        }
+      },
+      "formatted_address": "10°52.954'N, 10°40.643'E, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8825667,10.6773833",
+      "google_place_id": "ChIJl6R4wCd0ABERaDkymV-Hg5c"
+    }
+  },
+  {
+    "id": "60267",
+    "name": "GABULU, KOFAR SARKI",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "15/04/08/022",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8189326,
+      "longitude": 10.778874,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82029902989272,
+          "lng": 10.78026092989272
+        },
+        "southwest": {
+          "lat": 10.81759937010728,
+          "lng": 10.77756127010728
+        }
+      },
+      "formatted_address": "RQ9H+HGH General Hospital, Road, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8189326,10.778874",
+      "google_place_id": "ChIJObtG1hxzABERsZNFvX9JDvw"
+    }
+  },
+  {
+    "id": "60268",
+    "name": "YARRA/NAKAYA, KOFAR SARKI YARRA",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "15/04/08/023",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60269",
+    "name": "GAMBE/GALUMJI, KOFAR S.GAMBE",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "15/04/08/024",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.3042948,
+      "longitude": 11.172793,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30544982989272,
+          "lng": 11.17432297989272
+        },
+        "southwest": {
+          "lat": 10.30275017010728,
+          "lng": 11.17162332010728
+        }
+      },
+      "formatted_address": "853F+P47 Gombe State University, 760253, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3042948,11.172793",
+      "google_place_id": "ChIJZdb3_JDQ_xAR2teAtUSwrNU"
+    }
+  },
+  {
+    "id": "60270",
+    "name": "YARRA NAKAYA, KOFAR SARKI YARA",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "15/04/08/025",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60271",
+    "name": "JONDE, KOFAR SARKI JONDE",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "15/04/08/026",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8252865,
+      "longitude": 10.7601592,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82701232989272,
+          "lng": 10.76197742989272
+        },
+        "southwest": {
+          "lat": 10.82431267010728,
+          "lng": 10.75927777010728
+        }
+      },
+      "formatted_address": "RQG6+433, Hashidu-Darazo Road, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8252865,10.7601592",
+      "google_place_id": "ChIJSapwK1JzABERojj796rsg8Y"
+    }
+  },
+  {
+    "id": "60272",
+    "name": "DAMBA, KOFAR SARKI DAMBA",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "15/04/08/027",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8253668,
+      "longitude": 10.760649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82708807989272,
+          "lng": 10.76221982989272
+        },
+        "southwest": {
+          "lat": 10.82438842010728,
+          "lng": 10.75952017010728
+        }
+      },
+      "formatted_address": "Waziri North, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8253668,10.760649",
+      "google_place_id": "ChIJ31XwquRyABERcbIM244qsYE"
+    }
+  },
+  {
+    "id": "60273",
+    "name": "DILE, KOFAR S.  DILE",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "15/04/08/028",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8189326,
+      "longitude": 10.778874,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82029902989272,
+          "lng": 10.78026092989272
+        },
+        "southwest": {
+          "lat": 10.81759937010728,
+          "lng": 10.77756127010728
+        }
+      },
+      "formatted_address": "RQ9H+HGH General Hospital, Road, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8189326,10.778874",
+      "google_place_id": "ChIJObtG1hxzABERsZNFvX9JDvw"
+    }
+  },
+  {
+    "id": "60274",
+    "name": "TARAU, KOFAR SARKI TARAU",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "15/04/08/029",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60275",
+    "name": "GOMBE DIGIZE, KOFAR SARKI GOMBE DIGIZE",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "15/04/08/030",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.6134628,
+      "longitude": 13.064232,
+      "viewport": {
+        "northeast": {
+          "lat": 10.61488537989272,
+          "lng": 13.06559082989272
+        },
+        "southwest": {
+          "lat": 10.61218572010728,
+          "lng": 13.06289117010728
+        }
+      },
+      "formatted_address": "601103, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6134628,13.064232",
+      "google_place_id": "ChIJDwWLNV-RAhER66ujZrb6GwU"
+    }
+  },
+  {
+    "id": "60276",
+    "name": "BOZONSHILWA, KOFAR SARKI BOZONSHILWA",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "15/04/08/031",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.6374194,
+      "longitude": 10.9352704,
+      "viewport": {
+        "northeast": {
+          "lat": 10.63860812989272,
+          "lng": 10.93649207989272
+        },
+        "southwest": {
+          "lat": 10.63590847010728,
+          "lng": 10.93379242010728
+        }
+      },
+      "formatted_address": "JWPP+X46, Near Primary School, off Gombe-Dukku road Bozonshulwa, Bozonshilwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6374194,10.9352704",
+      "google_place_id": "ChIJWXdGp7UXABER91VAdTJX_XM"
+    }
+  },
+  {
+    "id": "60277",
+    "name": "WAKILI ADAMU, KOFAR SARKI WAKILI",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "15/04/08/032",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60278",
+    "name": "TINDA, KOFAR SARKI TINDA",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "15/04/08/033",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.3008962,
+      "longitude": 11.1464334,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30222812989272,
+          "lng": 11.14785482989272
+        },
+        "southwest": {
+          "lat": 10.29952847010728,
+          "lng": 11.14515517010728
+        }
+      },
+      "formatted_address": "842W+9H4, Goodluck Ebele Jonathan Road, 760253, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3008962,11.1464334",
+      "google_place_id": "ChIJ9QIyg5rb_xAREdcX5eowz04"
+    }
+  },
+  {
+    "id": "60279",
+    "name": "BANIGAYI, BANIGAYI PRI. SCH.",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "15/04/08/034",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8236584,
+      "longitude": 10.7736715,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82487277989272,
+          "lng": 10.77507567989272
+        },
+        "southwest": {
+          "lat": 10.82217312010728,
+          "lng": 10.77237602010728
+        }
+      },
+      "formatted_address": "palace, Main Round about, Opposite Emir's, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8236584,10.7736715",
+      "google_place_id": "ChIJe0Hst-1yABERM_PH1EJ4GN0"
+    }
+  },
+  {
+    "id": "60280",
+    "name": "YADO, KOFAR YADO",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "15/04/08/035",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8230786,
+      "longitude": 10.7732739,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82442442989272,
+          "lng": 10.77460197989272
+        },
+        "southwest": {
+          "lat": 10.82172477010728,
+          "lng": 10.77190232010728
+        }
+      },
+      "formatted_address": "Waziri Kan tudu, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8230786,10.7732739",
+      "google_place_id": "ChIJCdM6nRRzABER_UjRFhrUUQs"
+    }
+  },
+  {
+    "id": "60281",
+    "name": "JARDADE, KOFAR SARKI JARDADE",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "036",
+    "units": "036",
+    "delimitation": "15/04/08/036",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8230786,
+      "longitude": 10.7732739,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82442442989272,
+          "lng": 10.77460197989272
+        },
+        "southwest": {
+          "lat": 10.82172477010728,
+          "lng": 10.77190232010728
+        }
+      },
+      "formatted_address": "Waziri Kan tudu, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8230786,10.7732739",
+      "google_place_id": "ChIJCdM6nRRzABER_UjRFhrUUQs"
+    }
+  },
+  {
+    "id": "60282",
+    "name": "MALALAYEL, PRI. SCH.",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "037",
+    "units": "037",
+    "delimitation": "15/04/08/037",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8236584,
+      "longitude": 10.7736715,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82487277989272,
+          "lng": 10.77507567989272
+        },
+        "southwest": {
+          "lat": 10.82217312010728,
+          "lng": 10.77237602010728
+        }
+      },
+      "formatted_address": "palace, Main Round about, Opposite Emir's, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8236584,10.7736715",
+      "google_place_id": "ChIJe0Hst-1yABERM_PH1EJ4GN0"
+    }
+  },
+  {
+    "id": "60283",
+    "name": "SHUWE, PRI. SCH.",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "038",
+    "units": "038",
+    "delimitation": "15/04/08/038",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8236584,
+      "longitude": 10.7736715,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82487277989272,
+          "lng": 10.77507567989272
+        },
+        "southwest": {
+          "lat": 10.82217312010728,
+          "lng": 10.77237602010728
+        }
+      },
+      "formatted_address": "palace, Main Round about, Opposite Emir's, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8236584,10.7736715",
+      "google_place_id": "ChIJe0Hst-1yABERM_PH1EJ4GN0"
+    }
+  },
+  {
+    "id": "60284",
+    "name": "NAPPE, KOFAR SARKI",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "039",
+    "units": "039",
+    "delimitation": "15/04/08/039",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8229813,
+      "longitude": 10.7767509,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82442152989272,
+          "lng": 10.77822337989272
+        },
+        "southwest": {
+          "lat": 10.82172187010728,
+          "lng": 10.77552372010728
+        }
+      },
+      "formatted_address": "RQFG+5PR, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8229813,10.7767509",
+      "google_place_id": "ChIJS6RwevVzABERBLVAGBocP9I"
+    }
+  },
+  {
+    "id": "60285",
+    "name": "BIRNI, PRI. SCH.",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "040",
+    "units": "040",
+    "delimitation": "15/04/08/040",
+    "remark": "EXISTING PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8236584,
+      "longitude": 10.7736715,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82487277989272,
+          "lng": 10.77507567989272
+        },
+        "southwest": {
+          "lat": 10.82217312010728,
+          "lng": 10.77237602010728
+        }
+      },
+      "formatted_address": "palace, Main Round about, Opposite Emir's, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8236584,10.7736715",
+      "google_place_id": "ChIJe0Hst-1yABERM_PH1EJ4GN0"
+    }
+  },
+  {
+    "id": "60286",
+    "name": "LAFIYA DUKKU WEST PRIMARY SCH I",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "041",
+    "units": "041",
+    "delimitation": "15/04/08/041",
+    "remark": "NEW PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60287",
+    "name": "LAFIYA DUKKU WEST PRIMARY SCH II",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "042",
+    "units": "042",
+    "delimitation": "15/04/08/042",
+    "remark": "NEW PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8236584,
+      "longitude": 10.7736715,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82487277989272,
+          "lng": 10.77507567989272
+        },
+        "southwest": {
+          "lat": 10.82217312010728,
+          "lng": 10.77237602010728
+        }
+      },
+      "formatted_address": "palace, Main Round about, Opposite Emir's, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8236584,10.7736715",
+      "google_place_id": "ChIJe0Hst-1yABERM_PH1EJ4GN0"
+    }
+  },
+  {
+    "id": "60288",
+    "name": "NAYELWA KOFAR BUBA ZASSA",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "043",
+    "units": "043",
+    "delimitation": "15/04/08/043",
+    "remark": "NEW PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60289",
+    "name": "DUGGE KOFAR MAI UNGUWA I",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "044",
+    "units": "044",
+    "delimitation": "15/04/08/044",
+    "remark": "NEW PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8761548,
+      "longitude": 10.8905994,
+      "viewport": {
+        "northeast": {
+          "lat": 10.87750462989272,
+          "lng": 10.89194922989272
+        },
+        "southwest": {
+          "lat": 10.87480497010728,
+          "lng": 10.88924957010728
+        }
+      },
+      "formatted_address": "VVGR+F69, G.R.A. Qtrs, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8761548,10.8905994",
+      "google_place_id": "ChIJqTJC-f9rABERQpdnC5YXkmU"
+    }
+  },
+  {
+    "id": "60290",
+    "name": "DUGGE KOFAR MAI UNGUWA II",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "045",
+    "units": "045",
+    "delimitation": "15/04/08/045",
+    "remark": "NEW PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": null
+  },
+  {
+    "id": "60291",
+    "name": "DUGGE MAGISTRATE COURT I",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "046",
+    "units": "046",
+    "delimitation": "15/04/08/046",
+    "remark": "NEW PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2915316,
+      "longitude": 11.090186,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29285972989272,
+          "lng": 11.09153592989272
+        },
+        "southwest": {
+          "lat": 10.29016007010728,
+          "lng": 11.08883627010728
+        }
+      },
+      "formatted_address": "73RR+J3M, 771104, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2915316,11.090186",
+      "google_place_id": "ChIJX-U_vXXb_xARlba0dnuwtdU"
+    }
+  },
+  {
+    "id": "60292",
+    "name": "DUGGE WAKILIN DUGGE I",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "047",
+    "units": "047",
+    "delimitation": "15/04/08/047",
+    "remark": "NEW PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8253668,
+      "longitude": 10.760649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82708807989272,
+          "lng": 10.76221982989272
+        },
+        "southwest": {
+          "lat": 10.82438842010728,
+          "lng": 10.75952017010728
+        }
+      },
+      "formatted_address": "Waziri North, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8253668,10.760649",
+      "google_place_id": "ChIJ31XwquRyABERcbIM244qsYE"
+    }
+  },
+  {
+    "id": "60293",
+    "name": "GONA DUKKU CENTRAL PRIMARY SCH  I",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "048",
+    "units": "048",
+    "delimitation": "15/04/08/048",
+    "remark": "NEW PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8236584,
+      "longitude": 10.7736715,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82487277989272,
+          "lng": 10.77507567989272
+        },
+        "southwest": {
+          "lat": 10.82217312010728,
+          "lng": 10.77237602010728
+        }
+      },
+      "formatted_address": "palace, Main Round about, Opposite Emir's, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8236584,10.7736715",
+      "google_place_id": "ChIJe0Hst-1yABERM_PH1EJ4GN0"
+    }
+  },
+  {
+    "id": "60294",
+    "name": "GONA G.S.A.D.P I",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "049",
+    "units": "049",
+    "delimitation": "15/04/08/049",
+    "remark": "NEW PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8189326,
+      "longitude": 10.778874,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82029902989272,
+          "lng": 10.78026092989272
+        },
+        "southwest": {
+          "lat": 10.81759937010728,
+          "lng": 10.77756127010728
+        }
+      },
+      "formatted_address": "RQ9H+HGH General Hospital, Road, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8189326,10.778874",
+      "google_place_id": "ChIJObtG1hxzABERsZNFvX9JDvw"
+    }
+  },
+  {
+    "id": "60295",
+    "name": "GONA GONA EAST SCHOOL I",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "050",
+    "units": "050",
+    "delimitation": "15/04/08/050",
+    "remark": "NEW PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8236584,
+      "longitude": 10.7736715,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82487277989272,
+          "lng": 10.77507567989272
+        },
+        "southwest": {
+          "lat": 10.82217312010728,
+          "lng": 10.77237602010728
+        }
+      },
+      "formatted_address": "palace, Main Round about, Opposite Emir's, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8236584,10.7736715",
+      "google_place_id": "ChIJe0Hst-1yABERM_PH1EJ4GN0"
+    }
+  },
+  {
+    "id": "60296",
+    "name": "SHABEWA PRIMARY SCHOOL I",
+    "registration_area_id": "3273",
+    "precise_location": null,
+    "abbreviation": "051",
+    "units": "051",
+    "delimitation": "15/04/08/051",
+    "remark": "NEW PU",
+    "ward_id": "3273",
+    "ward_name": "WAZIRI SOUTH / CENTRAL",
+    "local_government_id": "285",
+    "local_government_name": "DUKKU",
+    "state_id": "15",
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8049156,
+      "longitude": 10.7724615,
+      "viewport": {
+        "northeast": {
+          "lat": 10.80663142989272,
+          "lng": 10.77441597989272
+        },
+        "southwest": {
+          "lat": 10.80393177010728,
+          "lng": 10.77171632010728
+        }
+      },
+      "formatted_address": "RQ3C+XX8, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8049156,10.7724615",
+      "google_place_id": "ChIJezqMi8ZzABERVzT2AmYofSk"
+    }
+  }
+]

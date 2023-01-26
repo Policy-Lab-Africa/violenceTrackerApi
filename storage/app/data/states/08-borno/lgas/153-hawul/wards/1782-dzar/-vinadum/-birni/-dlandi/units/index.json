@@ -1,0 +1,483 @@
+[
+  {
+    "id": "32906",
+    "name": "DZAR  I",
+    "registration_area_id": "1782",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/12/02/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1782",
+    "ward_name": "DZAR/ VINADUM/ BIRNI/ DLANDI",
+    "local_government_id": "153",
+    "local_government_name": "HAWUL",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.5453937,
+      "longitude": 12.0489791,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6614198,
+          "lng": 12.1587995
+        },
+        "southwest": {
+          "lat": 10.4553343,
+          "lng": 11.9677797
+        }
+      },
+      "formatted_address": "Dzar/ Vinadum/ Birni/ Dlandi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5453937,12.0489791",
+      "google_place_id": "ChIJmToMqgX4ARERaq-jd3Z6H-w"
+    }
+  },
+  {
+    "id": "32907",
+    "name": "GRIM/DZAR/VINADUM/BIRIN/DLANDI",
+    "registration_area_id": "1782",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/12/02/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1782",
+    "ward_name": "DZAR/ VINADUM/ BIRNI/ DLANDI",
+    "local_government_id": "153",
+    "local_government_name": "HAWUL",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4956554,
+      "longitude": 12.4128208,
+      "viewport": {
+        "northeast": {
+          "lat": 10.49707457989272,
+          "lng": 12.41431517989272
+        },
+        "southwest": {
+          "lat": 10.49437492010728,
+          "lng": 12.41161552010728
+        }
+      },
+      "formatted_address": "FCW7+748, 603106, Kwajaffa Babur, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4956554,12.4128208",
+      "google_place_id": "ChIJYWkyUugMAhER08i2noGqeCI"
+    }
+  },
+  {
+    "id": "32908",
+    "name": "GWAMYA",
+    "registration_area_id": "1782",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/12/02/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1782",
+    "ward_name": "DZAR/ VINADUM/ BIRNI/ DLANDI",
+    "local_government_id": "153",
+    "local_government_name": "HAWUL",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32909",
+    "name": "DLANDI",
+    "registration_area_id": "1782",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/12/02/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1782",
+    "ward_name": "DZAR/ VINADUM/ BIRNI/ DLANDI",
+    "local_government_id": "153",
+    "local_government_name": "HAWUL",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.5453937,
+      "longitude": 12.0489791,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6614198,
+          "lng": 12.1587995
+        },
+        "southwest": {
+          "lat": 10.4553343,
+          "lng": 11.9677797
+        }
+      },
+      "formatted_address": "Dzar/ Vinadum/ Birni/ Dlandi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5453937,12.0489791",
+      "google_place_id": "ChIJmToMqgX4ARERaq-jd3Z6H-w"
+    }
+  },
+  {
+    "id": "32910",
+    "name": "GRIM",
+    "registration_area_id": "1782",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/12/02/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1782",
+    "ward_name": "DZAR/ VINADUM/ BIRNI/ DLANDI",
+    "local_government_id": "153",
+    "local_government_name": "HAWUL",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.5852877,
+      "longitude": 12.0532629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5922589,
+          "lng": 12.0575181
+        },
+        "southwest": {
+          "lat": 10.5817529,
+          "lng": 12.046228
+        }
+      },
+      "formatted_address": "603105, Grim Damchoba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5852877,12.0532629",
+      "google_place_id": "ChIJlY3xVer3ARER_soLuH8WZck"
+    }
+  },
+  {
+    "id": "32911",
+    "name": "BIRNI",
+    "registration_area_id": "1782",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/12/02/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1782",
+    "ward_name": "DZAR/ VINADUM/ BIRNI/ DLANDI",
+    "local_government_id": "153",
+    "local_government_name": "HAWUL",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.5401406,
+      "longitude": 12.0329163,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54145377989272,
+          "lng": 12.0352129
+        },
+        "southwest": {
+          "lat": 10.53875412010728,
+          "lng": 12.032158
+        }
+      },
+      "formatted_address": "603105, Birni, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5401406,12.0329163",
+      "google_place_id": "ChIJF6enzk74ARERTsLcm6WF2nE"
+    }
+  },
+  {
+    "id": "32912",
+    "name": "BAKUNDUM",
+    "registration_area_id": "1782",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/12/02/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1782",
+    "ward_name": "DZAR/ VINADUM/ BIRNI/ DLANDI",
+    "local_government_id": "153",
+    "local_government_name": "HAWUL",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4548226,
+      "longitude": 12.1622692,
+      "viewport": {
+        "northeast": {
+          "lat": 10.45625927989272,
+          "lng": 12.16343122989272
+        },
+        "southwest": {
+          "lat": 10.45355962010728,
+          "lng": 12.16073157010728
+        }
+      },
+      "formatted_address": "F536+WWC, 603112, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4548226,12.1622692",
+      "google_place_id": "ChIJkRF42gIBAhERYepuOKRx8bA"
+    }
+  },
+  {
+    "id": "32913",
+    "name": "PAKUTHLA",
+    "registration_area_id": "1782",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "08/12/02/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1782",
+    "ward_name": "DZAR/ VINADUM/ BIRNI/ DLANDI",
+    "local_government_id": "153",
+    "local_government_name": "HAWUL",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32914",
+    "name": "MALILA",
+    "registration_area_id": "1782",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "08/12/02/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1782",
+    "ward_name": "DZAR/ VINADUM/ BIRNI/ DLANDI",
+    "local_government_id": "153",
+    "local_government_name": "HAWUL",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.5629739,
+      "longitude": 12.0367469,
+      "viewport": {
+        "northeast": {
+          "lat": 10.56432372989272,
+          "lng": 12.03809672989272
+        },
+        "southwest": {
+          "lat": 10.56162407010728,
+          "lng": 12.03539707010728
+        }
+      },
+      "formatted_address": "H27P+5MQ, 603105, Kwadiga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5629739,12.0367469",
+      "google_place_id": "ChIJSTxKsCj4ARERdULK0IdfHRs"
+    }
+  },
+  {
+    "id": "32915",
+    "name": "MUDUKSUKU",
+    "registration_area_id": "1782",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "08/12/02/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1782",
+    "ward_name": "DZAR/ VINADUM/ BIRNI/ DLANDI",
+    "local_government_id": "153",
+    "local_government_name": "HAWUL",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32916",
+    "name": "TASHAN GAUTA",
+    "registration_area_id": "1782",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "08/12/02/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1782",
+    "ward_name": "DZAR/ VINADUM/ BIRNI/ DLANDI",
+    "local_government_id": "153",
+    "local_government_name": "HAWUL",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32917",
+    "name": "VINADAM  I",
+    "registration_area_id": "1782",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "08/12/02/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1782",
+    "ward_name": "DZAR/ VINADUM/ BIRNI/ DLANDI",
+    "local_government_id": "153",
+    "local_government_name": "HAWUL",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.5866002,
+      "longitude": 12.0500971,
+      "viewport": {
+        "northeast": {
+          "lat": 10.58791617989272,
+          "lng": 12.05119927989272
+        },
+        "southwest": {
+          "lat": 10.58521652010728,
+          "lng": 12.04849962010728
+        }
+      },
+      "formatted_address": "H3P2+J2X, 603105, Grim Damchoba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5866002,12.0500971",
+      "google_place_id": "ChIJuRImIev3ARERjHGN3UCF7lI"
+    }
+  },
+  {
+    "id": "32918",
+    "name": "VINADAM  II",
+    "registration_area_id": "1782",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "08/12/02/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1782",
+    "ward_name": "DZAR/ VINADUM/ BIRNI/ DLANDI",
+    "local_government_id": "153",
+    "local_government_name": "HAWUL",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.5866002,
+      "longitude": 12.0500971,
+      "viewport": {
+        "northeast": {
+          "lat": 10.58791617989272,
+          "lng": 12.05119927989272
+        },
+        "southwest": {
+          "lat": 10.58521652010728,
+          "lng": 12.04849962010728
+        }
+      },
+      "formatted_address": "H3P2+J2X, 603105, Grim Damchoba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5866002,12.0500971",
+      "google_place_id": "ChIJuRImIev3ARERjHGN3UCF7lI"
+    }
+  },
+  {
+    "id": "32919",
+    "name": "BILLA DAR",
+    "registration_area_id": "1782",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "08/12/02/014",
+    "remark": "NEW PU",
+    "ward_id": "1782",
+    "ward_name": "DZAR/ VINADUM/ BIRNI/ DLANDI",
+    "local_government_id": "153",
+    "local_government_name": "HAWUL",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32920",
+    "name": "MINTA PRIMARY SCHOOL",
+    "registration_area_id": "1782",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "08/12/02/015",
+    "remark": "NEW PU",
+    "ward_id": "1782",
+    "ward_name": "DZAR/ VINADUM/ BIRNI/ DLANDI",
+    "local_government_id": "153",
+    "local_government_name": "HAWUL",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.5260192,
+      "longitude": 12.2403586,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52734367989272,
+          "lng": 12.24166297989272
+        },
+        "southwest": {
+          "lat": 10.52464402010728,
+          "lng": 12.23896332010728
+        }
+      },
+      "formatted_address": "G6GR+C4Q, 603105, Hiji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5260192,12.2403586",
+      "google_place_id": "ChIJy1wdzXEFAhERBZE2u1ZbBXo"
+    }
+  },
+  {
+    "id": "32921",
+    "name": "NGABU LAMBAM PRIMARY SCHOOL",
+    "registration_area_id": "1782",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "08/12/02/016",
+    "remark": "NEW PU",
+    "ward_id": "1782",
+    "ward_name": "DZAR/ VINADUM/ BIRNI/ DLANDI",
+    "local_government_id": "153",
+    "local_government_name": "HAWUL",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.5260192,
+      "longitude": 12.2403586,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52734367989272,
+          "lng": 12.24166297989272
+        },
+        "southwest": {
+          "lat": 10.52464402010728,
+          "lng": 12.23896332010728
+        }
+      },
+      "formatted_address": "G6GR+C4Q, 603105, Hiji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5260192,12.2403586",
+      "google_place_id": "ChIJy1wdzXEFAhERBZE2u1ZbBXo"
+    }
+  },
+  {
+    "id": "32922",
+    "name": "VINADAM PRIMARY SCHOOL",
+    "registration_area_id": "1782",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "08/12/02/017",
+    "remark": "NEW PU",
+    "ward_id": "1782",
+    "ward_name": "DZAR/ VINADUM/ BIRNI/ DLANDI",
+    "local_government_id": "153",
+    "local_government_name": "HAWUL",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.5260192,
+      "longitude": 12.2403586,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52734367989272,
+          "lng": 12.24166297989272
+        },
+        "southwest": {
+          "lat": 10.52464402010728,
+          "lng": 12.23896332010728
+        }
+      },
+      "formatted_address": "G6GR+C4Q, 603105, Hiji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5260192,12.2403586",
+      "google_place_id": "ChIJy1wdzXEFAhERBZE2u1ZbBXo"
+    }
+  }
+]

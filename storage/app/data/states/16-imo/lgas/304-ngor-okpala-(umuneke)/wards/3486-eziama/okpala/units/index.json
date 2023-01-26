@@ -1,0 +1,761 @@
+[
+  {
+    "id": "64241",
+    "name": "UMUCHULU HALL OKPALA",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "16/12/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.2948952,
+      "longitude": 7.250864899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.295597879892722,
+          "lng": 7.252474829892721
+        },
+        "southwest": {
+          "lat": 5.292898220107278,
+          "lng": 7.249775170107277
+        }
+      },
+      "formatted_address": "77V2+X85, 460120, Eziama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2948952,7.250864899999999",
+      "google_place_id": "ChIJsy29bpGNQhARPj65e3HG9HY"
+    }
+  },
+  {
+    "id": "64242",
+    "name": "CENTRAL SCH. EZIAMA",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "16/12/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.293500799999999,
+      "longitude": 7.234947499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.309646,
+          "lng": 7.244180999999999
+        },
+        "southwest": {
+          "lat": 5.28798,
+          "lng": 7.2232691
+        }
+      },
+      "formatted_address": "Eziama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.293500799999999,7.234947499999999",
+      "google_place_id": "ChIJRZARe7eNQhAR3DvdHW_J_fg"
+    }
+  },
+  {
+    "id": "64243",
+    "name": "DEV. PRI. SCH. EZIAMA",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "16/12/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.3109018,
+      "longitude": 7.2662696,
+      "viewport": {
+        "northeast": {
+          "lat": 5.312355529892721,
+          "lng": 7.267623829892723
+        },
+        "southwest": {
+          "lat": 5.309655870107277,
+          "lng": 7.264924170107279
+        }
+      },
+      "formatted_address": "8768+9G6, 460120, Okpuala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3109018,7.2662696",
+      "google_place_id": "ChIJ240gZIKNQhARwenfnRE600k"
+    }
+  },
+  {
+    "id": "64244",
+    "name": "UMUOGBA VILL.L SQ.L EZIAMA",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "16/12/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.2948952,
+      "longitude": 7.250864899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.295597879892722,
+          "lng": 7.252474829892721
+        },
+        "southwest": {
+          "lat": 5.292898220107278,
+          "lng": 7.249775170107277
+        }
+      },
+      "formatted_address": "77V2+X85, 460120, Eziama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2948952,7.250864899999999",
+      "google_place_id": "ChIJsy29bpGNQhARPj65e3HG9HY"
+    }
+  },
+  {
+    "id": "64245",
+    "name": "CENTRAL SCH. OKPALA",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "16/12/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.3109018,
+      "longitude": 7.2662696,
+      "viewport": {
+        "northeast": {
+          "lat": 5.312355529892721,
+          "lng": 7.267623829892723
+        },
+        "southwest": {
+          "lat": 5.309655870107277,
+          "lng": 7.264924170107279
+        }
+      },
+      "formatted_address": "8768+9G6, 460120, Okpuala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3109018,7.2662696",
+      "google_place_id": "ChIJ240gZIKNQhARwenfnRE600k"
+    }
+  },
+  {
+    "id": "64246",
+    "name": "EGBELUBI VILL. SQ. AMATO EZIAMA",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "16/12/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.2948952,
+      "longitude": 7.250864899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.295597879892722,
+          "lng": 7.252474829892721
+        },
+        "southwest": {
+          "lat": 5.292898220107278,
+          "lng": 7.249775170107277
+        }
+      },
+      "formatted_address": "77V2+X85, 460120, Eziama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2948952,7.250864899999999",
+      "google_place_id": "ChIJsy29bpGNQhARPj65e3HG9HY"
+    }
+  },
+  {
+    "id": "64247",
+    "name": "COMM. SCH. UMUOHIE/UMUKABIA EZIAMA",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "16/12/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.3109018,
+      "longitude": 7.2662696,
+      "viewport": {
+        "northeast": {
+          "lat": 5.312355529892721,
+          "lng": 7.267623829892723
+        },
+        "southwest": {
+          "lat": 5.309655870107277,
+          "lng": 7.264924170107279
+        }
+      },
+      "formatted_address": "8768+9G6, 460120, Okpuala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3109018,7.2662696",
+      "google_place_id": "ChIJ240gZIKNQhARwenfnRE600k"
+    }
+  },
+  {
+    "id": "64248",
+    "name": "UMUALUM VILL. SQ. EZIAMA",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "16/12/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.293500799999999,
+      "longitude": 7.234947499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.309646,
+          "lng": 7.244180999999999
+        },
+        "southwest": {
+          "lat": 5.28798,
+          "lng": 7.2232691
+        }
+      },
+      "formatted_address": "Eziama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.293500799999999,7.234947499999999",
+      "google_place_id": "ChIJRZARe7eNQhAR3DvdHW_J_fg"
+    }
+  },
+  {
+    "id": "64249",
+    "name": "COMM. PRI. SCH. UMUOKORO AMATO EZIAMA",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "16/12/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.3109018,
+      "longitude": 7.2662696,
+      "viewport": {
+        "northeast": {
+          "lat": 5.312355529892721,
+          "lng": 7.267623829892723
+        },
+        "southwest": {
+          "lat": 5.309655870107277,
+          "lng": 7.264924170107279
+        }
+      },
+      "formatted_address": "8768+9G6, 460120, Okpuala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3109018,7.2662696",
+      "google_place_id": "ChIJ240gZIKNQhARwenfnRE600k"
+    }
+  },
+  {
+    "id": "64250",
+    "name": "PRI. SCHOOL OKPALA",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "16/12/04/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.3109018,
+      "longitude": 7.2662696,
+      "viewport": {
+        "northeast": {
+          "lat": 5.312355529892721,
+          "lng": 7.267623829892723
+        },
+        "southwest": {
+          "lat": 5.309655870107277,
+          "lng": 7.264924170107279
+        }
+      },
+      "formatted_address": "8768+9G6, 460120, Okpuala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3109018,7.2662696",
+      "google_place_id": "ChIJ240gZIKNQhARwenfnRE600k"
+    }
+  },
+  {
+    "id": "64251",
+    "name": "UMUCHUKWU HALL EZIAMA",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "16/12/04/011",
+    "remark": "EXISTING PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.2948952,
+      "longitude": 7.250864899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.295597879892722,
+          "lng": 7.252474829892721
+        },
+        "southwest": {
+          "lat": 5.292898220107278,
+          "lng": 7.249775170107277
+        }
+      },
+      "formatted_address": "77V2+X85, 460120, Eziama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2948952,7.250864899999999",
+      "google_place_id": "ChIJsy29bpGNQhARPj65e3HG9HY"
+    }
+  },
+  {
+    "id": "64252",
+    "name": "UMUCHIE HALL EZIAMA",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "16/12/04/012",
+    "remark": "EXISTING PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.293500799999999,
+      "longitude": 7.234947499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.309646,
+          "lng": 7.244180999999999
+        },
+        "southwest": {
+          "lat": 5.28798,
+          "lng": 7.2232691
+        }
+      },
+      "formatted_address": "Eziama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.293500799999999,7.234947499999999",
+      "google_place_id": "ChIJRZARe7eNQhAR3DvdHW_J_fg"
+    }
+  },
+  {
+    "id": "64253",
+    "name": "UMULU VILL. SQ. EZIAMA",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "16/12/04/013",
+    "remark": "EXISTING PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.293500799999999,
+      "longitude": 7.234947499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.309646,
+          "lng": 7.244180999999999
+        },
+        "southwest": {
+          "lat": 5.28798,
+          "lng": 7.2232691
+        }
+      },
+      "formatted_address": "Eziama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.293500799999999,7.234947499999999",
+      "google_place_id": "ChIJRZARe7eNQhAR3DvdHW_J_fg"
+    }
+  },
+  {
+    "id": "64254",
+    "name": "UMUAGAKWO VILL. HALL OKPALA",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "16/12/04/014",
+    "remark": "EXISTING PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.2948952,
+      "longitude": 7.250864899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.295597879892722,
+          "lng": 7.252474829892721
+        },
+        "southwest": {
+          "lat": 5.292898220107278,
+          "lng": 7.249775170107277
+        }
+      },
+      "formatted_address": "77V2+X85, 460120, Eziama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2948952,7.250864899999999",
+      "google_place_id": "ChIJsy29bpGNQhARPj65e3HG9HY"
+    }
+  },
+  {
+    "id": "64255",
+    "name": "UMUBACHI VILL. HALL OKPALA",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "16/12/04/015",
+    "remark": "EXISTING PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.2948952,
+      "longitude": 7.250864899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.295597879892722,
+          "lng": 7.252474829892721
+        },
+        "southwest": {
+          "lat": 5.292898220107278,
+          "lng": 7.249775170107277
+        }
+      },
+      "formatted_address": "77V2+X85, 460120, Eziama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2948952,7.250864899999999",
+      "google_place_id": "ChIJsy29bpGNQhARPj65e3HG9HY"
+    }
+  },
+  {
+    "id": "64256",
+    "name": "UMUOKORO AMATO HALL  EZIAMA",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "16/12/04/016",
+    "remark": "EXISTING PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.2948952,
+      "longitude": 7.250864899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.295597879892722,
+          "lng": 7.252474829892721
+        },
+        "southwest": {
+          "lat": 5.292898220107278,
+          "lng": 7.249775170107277
+        }
+      },
+      "formatted_address": "77V2+X85, 460120, Eziama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2948952,7.250864899999999",
+      "google_place_id": "ChIJsy29bpGNQhARPj65e3HG9HY"
+    }
+  },
+  {
+    "id": "64257",
+    "name": "EHE-NKIRINKI HALL OKPALA",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "16/12/04/017",
+    "remark": "EXISTING PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.2948952,
+      "longitude": 7.250864899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.295597879892722,
+          "lng": 7.252474829892721
+        },
+        "southwest": {
+          "lat": 5.292898220107278,
+          "lng": 7.249775170107277
+        }
+      },
+      "formatted_address": "77V2+X85, 460120, Eziama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2948952,7.250864899999999",
+      "google_place_id": "ChIJsy29bpGNQhARPj65e3HG9HY"
+    }
+  },
+  {
+    "id": "64258",
+    "name": "UMUDU VILL. HALL",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "16/12/04/018",
+    "remark": "NEW PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.2948952,
+      "longitude": 7.250864899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.295597879892722,
+          "lng": 7.252474829892721
+        },
+        "southwest": {
+          "lat": 5.292898220107278,
+          "lng": 7.249775170107277
+        }
+      },
+      "formatted_address": "77V2+X85, 460120, Eziama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2948952,7.250864899999999",
+      "google_place_id": "ChIJsy29bpGNQhARPj65e3HG9HY"
+    }
+  },
+  {
+    "id": "64259",
+    "name": "UMUOGBA EZIAMA CIVIC HALL",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "16/12/04/019",
+    "remark": "NEW PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.2948952,
+      "longitude": 7.250864899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.295597879892722,
+          "lng": 7.252474829892721
+        },
+        "southwest": {
+          "lat": 5.292898220107278,
+          "lng": 7.249775170107277
+        }
+      },
+      "formatted_address": "77V2+X85, 460120, Eziama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2948952,7.250864899999999",
+      "google_place_id": "ChIJsy29bpGNQhARPj65e3HG9HY"
+    }
+  },
+  {
+    "id": "64260",
+    "name": "ORIE OKPALA MKT SQ.",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "16/12/04/020",
+    "remark": "NEW PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.2948952,
+      "longitude": 7.250864899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.295597879892722,
+          "lng": 7.252474829892721
+        },
+        "southwest": {
+          "lat": 5.292898220107278,
+          "lng": 7.249775170107277
+        }
+      },
+      "formatted_address": "77V2+X85, 460120, Eziama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2948952,7.250864899999999",
+      "google_place_id": "ChIJsy29bpGNQhARPj65e3HG9HY"
+    }
+  },
+  {
+    "id": "64261",
+    "name": "UMUOHOKWU TOWN HALL",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "16/12/04/021",
+    "remark": "NEW PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.2948952,
+      "longitude": 7.250864899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.295597879892722,
+          "lng": 7.252474829892721
+        },
+        "southwest": {
+          "lat": 5.292898220107278,
+          "lng": 7.249775170107277
+        }
+      },
+      "formatted_address": "77V2+X85, 460120, Eziama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2948952,7.250864899999999",
+      "google_place_id": "ChIJsy29bpGNQhARPj65e3HG9HY"
+    }
+  },
+  {
+    "id": "64262",
+    "name": "OBIRIUKWU UMUGAKWO HALL",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "16/12/04/022",
+    "remark": "NEW PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.2948952,
+      "longitude": 7.250864899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.295597879892722,
+          "lng": 7.252474829892721
+        },
+        "southwest": {
+          "lat": 5.292898220107278,
+          "lng": 7.249775170107277
+        }
+      },
+      "formatted_address": "77V2+X85, 460120, Eziama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2948952,7.250864899999999",
+      "google_place_id": "ChIJsy29bpGNQhARPj65e3HG9HY"
+    }
+  },
+  {
+    "id": "64263",
+    "name": "COMMUNITY SCH. OKPALA",
+    "registration_area_id": "3486",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "16/12/04/023",
+    "remark": "NEW PU",
+    "ward_id": "3486",
+    "ward_name": "EZIAMA/OKPALA",
+    "local_government_id": "304",
+    "local_government_name": "NGOR OKPALA (UMUNEKE)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.3109018,
+      "longitude": 7.2662696,
+      "viewport": {
+        "northeast": {
+          "lat": 5.312355529892721,
+          "lng": 7.267623829892723
+        },
+        "southwest": {
+          "lat": 5.309655870107277,
+          "lng": 7.264924170107279
+        }
+      },
+      "formatted_address": "8768+9G6, 460120, Okpuala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3109018,7.2662696",
+      "google_place_id": "ChIJ240gZIKNQhARwenfnRE600k"
+    }
+  }
+]

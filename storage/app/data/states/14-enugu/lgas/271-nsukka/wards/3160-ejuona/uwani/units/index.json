@@ -1,0 +1,531 @@
+[
+  {
+    "id": "58082",
+    "name": "UNION PRIMARY SCHOOL, LEJJA",
+    "registration_area_id": "3160",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "14/13/12/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3160",
+    "ward_name": "EJUONA/UWANI",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.8545409,
+      "longitude": 7.3835367,
+      "viewport": {
+        "northeast": {
+          "lat": 6.855892579892723,
+          "lng": 7.384867679892722
+        },
+        "southwest": {
+          "lat": 6.853192920107279,
+          "lng": 7.382168020107279
+        }
+      },
+      "formatted_address": "V93M+RC7, Odenigbo Road, Government Station 410111, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8545409,7.3835367",
+      "google_place_id": "ChIJx5bZeoHoRBARVPqziOkFVsY"
+    }
+  },
+  {
+    "id": "58083",
+    "name": "OTOBO AGU EBARA",
+    "registration_area_id": "3160",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "14/13/12/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3160",
+    "ward_name": "EJUONA/UWANI",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": null
+  },
+  {
+    "id": "58084",
+    "name": "OTOBO MBAMONYE",
+    "registration_area_id": "3160",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "14/13/12/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3160",
+    "ward_name": "EJUONA/UWANI",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.864455299999999,
+      "longitude": 7.408288299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.865912379892722,
+          "lng": 7.40956247989272
+        },
+        "southwest": {
+          "lat": 6.863212720107278,
+          "lng": 7.406862820107276
+        }
+      },
+      "formatted_address": "Nsukka - Onitsha Rd, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.864455299999999,7.408288299999999",
+      "google_place_id": "ChIJJZf__t7nRBARfQ5mMIyiuP8"
+    }
+  },
+  {
+    "id": "58085",
+    "name": "OTOBO AMAOVUKU",
+    "registration_area_id": "3160",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "14/13/12/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3160",
+    "ward_name": "EJUONA/UWANI",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.848608599999999,
+      "longitude": 7.404662800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.849956729892721,
+          "lng": 7.40601362989272
+        },
+        "southwest": {
+          "lat": 6.847257070107277,
+          "lng": 7.403313970107276
+        }
+      },
+      "formatted_address": "RCX3+CVV, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.848608599999999,7.404662800000001",
+      "google_place_id": "ChIJMcDV6GXoRBARHeoLKDyGJk0"
+    }
+  },
+  {
+    "id": "58086",
+    "name": "UGWU DUNOKA",
+    "registration_area_id": "3160",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "14/13/12/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3160",
+    "ward_name": "EJUONA/UWANI",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.7477054,
+      "longitude": 7.3408535,
+      "viewport": {
+        "northeast": {
+          "lat": 6.7741894,
+          "lng": 7.368794200000001
+        },
+        "southwest": {
+          "lat": 6.7233024,
+          "lng": 7.3080257
+        }
+      },
+      "formatted_address": "Ejuona/Uwani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7477054,7.3408535",
+      "google_place_id": "ChIJSTqgnm_sRBARyxMj_PBnU7A"
+    }
+  },
+  {
+    "id": "58087",
+    "name": "OGBO DUNOKA",
+    "registration_area_id": "3160",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "14/13/12/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3160",
+    "ward_name": "EJUONA/UWANI",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.864455299999999,
+      "longitude": 7.408288299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.865912379892722,
+          "lng": 7.40956247989272
+        },
+        "southwest": {
+          "lat": 6.863212720107278,
+          "lng": 7.406862820107276
+        }
+      },
+      "formatted_address": "Nsukka - Onitsha Rd, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.864455299999999,7.408288299999999",
+      "google_place_id": "ChIJJZf__t7nRBARfQ5mMIyiuP8"
+    }
+  },
+  {
+    "id": "58088",
+    "name": "OTOBO EZENOBE",
+    "registration_area_id": "3160",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "14/13/12/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3160",
+    "ward_name": "EJUONA/UWANI",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.864455299999999,
+      "longitude": 7.408288299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.865912379892722,
+          "lng": 7.40956247989272
+        },
+        "southwest": {
+          "lat": 6.863212720107278,
+          "lng": 7.406862820107276
+        }
+      },
+      "formatted_address": "Nsukka - Onitsha Rd, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.864455299999999,7.408288299999999",
+      "google_place_id": "ChIJJZf__t7nRBARfQ5mMIyiuP8"
+    }
+  },
+  {
+    "id": "58089",
+    "name": "OTOBO UMUOROGBOGU",
+    "registration_area_id": "3160",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "14/13/12/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3160",
+    "ward_name": "EJUONA/UWANI",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.864455299999999,
+      "longitude": 7.408288299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.865912379892722,
+          "lng": 7.40956247989272
+        },
+        "southwest": {
+          "lat": 6.863212720107278,
+          "lng": 7.406862820107276
+        }
+      },
+      "formatted_address": "Nsukka - Onitsha Rd, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.864455299999999,7.408288299999999",
+      "google_place_id": "ChIJJZf__t7nRBARfQ5mMIyiuP8"
+    }
+  },
+  {
+    "id": "58090",
+    "name": "OTOBO OBUKPA",
+    "registration_area_id": "3160",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "14/13/12/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3160",
+    "ward_name": "EJUONA/UWANI",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": null
+  },
+  {
+    "id": "58091",
+    "name": "UGBELENABO PRIMARY SCHOOL",
+    "registration_area_id": "3160",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "14/13/12/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3160",
+    "ward_name": "EJUONA/UWANI",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.7548781,
+      "longitude": 7.3443135,
+      "viewport": {
+        "northeast": {
+          "lat": 6.756181579892721,
+          "lng": 7.345694129892721
+        },
+        "southwest": {
+          "lat": 6.753481920107277,
+          "lng": 7.342994470107278
+        }
+      },
+      "formatted_address": "Ugbelenabo Primary School, 410102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7548781,7.3443135",
+      "google_place_id": "ChIJpcvxunPsRBARISbagNL458w"
+    }
+  },
+  {
+    "id": "58092",
+    "name": "OTOBO UMUOGBOJI",
+    "registration_area_id": "3160",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "14/13/12/011",
+    "remark": "EXISTING PU",
+    "ward_id": "3160",
+    "ward_name": "EJUONA/UWANI",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.848608599999999,
+      "longitude": 7.404662800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.849956729892721,
+          "lng": 7.40601362989272
+        },
+        "southwest": {
+          "lat": 6.847257070107277,
+          "lng": 7.403313970107276
+        }
+      },
+      "formatted_address": "RCX3+CVV, Ihe Nsukka 410105, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.848608599999999,7.404662800000001",
+      "google_place_id": "ChIJMcDV6GXoRBARHeoLKDyGJk0"
+    }
+  },
+  {
+    "id": "58093",
+    "name": "OTOBO UGO",
+    "registration_area_id": "3160",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "14/13/12/012",
+    "remark": "EXISTING PU",
+    "ward_id": "3160",
+    "ward_name": "EJUONA/UWANI",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.864455299999999,
+      "longitude": 7.408288299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.865912379892722,
+          "lng": 7.40956247989272
+        },
+        "southwest": {
+          "lat": 6.863212720107278,
+          "lng": 7.406862820107276
+        }
+      },
+      "formatted_address": "Nsukka - Onitsha Rd, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.864455299999999,7.408288299999999",
+      "google_place_id": "ChIJJZf__t7nRBARfQ5mMIyiuP8"
+    }
+  },
+  {
+    "id": "58094",
+    "name": "OWERRE UNO I",
+    "registration_area_id": "3160",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "14/13/12/013",
+    "remark": "EXISTING PU",
+    "ward_id": "3160",
+    "ward_name": "EJUONA/UWANI",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.864455299999999,
+      "longitude": 7.408288299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.865912379892722,
+          "lng": 7.40956247989272
+        },
+        "southwest": {
+          "lat": 6.863212720107278,
+          "lng": 7.406862820107276
+        }
+      },
+      "formatted_address": "Nsukka - Onitsha Rd, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.864455299999999,7.408288299999999",
+      "google_place_id": "ChIJJZf__t7nRBARfQ5mMIyiuP8"
+    }
+  },
+  {
+    "id": "58095",
+    "name": "OWERRE UNO II",
+    "registration_area_id": "3160",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "14/13/12/014",
+    "remark": "EXISTING PU",
+    "ward_id": "3160",
+    "ward_name": "EJUONA/UWANI",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.864455299999999,
+      "longitude": 7.408288299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.865912379892722,
+          "lng": 7.40956247989272
+        },
+        "southwest": {
+          "lat": 6.863212720107278,
+          "lng": 7.406862820107276
+        }
+      },
+      "formatted_address": "Nsukka - Onitsha Rd, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.864455299999999,7.408288299999999",
+      "google_place_id": "ChIJJZf__t7nRBARfQ5mMIyiuP8"
+    }
+  },
+  {
+    "id": "58096",
+    "name": "OTOBO AGU OWERRE",
+    "registration_area_id": "3160",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "14/13/12/015",
+    "remark": "EXISTING PU",
+    "ward_id": "3160",
+    "ward_name": "EJUONA/UWANI",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.864455299999999,
+      "longitude": 7.408288299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.865912379892722,
+          "lng": 7.40956247989272
+        },
+        "southwest": {
+          "lat": 6.863212720107278,
+          "lng": 7.406862820107276
+        }
+      },
+      "formatted_address": "Nsukka - Onitsha Rd, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.864455299999999,7.408288299999999",
+      "google_place_id": "ChIJJZf__t7nRBARfQ5mMIyiuP8"
+    }
+  },
+  {
+    "id": "58097",
+    "name": "AGU MBEKWU",
+    "registration_area_id": "3160",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "14/13/12/016",
+    "remark": "EXISTING PU",
+    "ward_id": "3160",
+    "ward_name": "EJUONA/UWANI",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.7477054,
+      "longitude": 7.3408535,
+      "viewport": {
+        "northeast": {
+          "lat": 6.7741894,
+          "lng": 7.368794200000001
+        },
+        "southwest": {
+          "lat": 6.7233024,
+          "lng": 7.3080257
+        }
+      },
+      "formatted_address": "Ejuona/Uwani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7477054,7.3408535",
+      "google_place_id": "ChIJSTqgnm_sRBARyxMj_PBnU7A"
+    }
+  },
+  {
+    "id": "58098",
+    "name": "OTOBO UGWU AMEZE",
+    "registration_area_id": "3160",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "14/13/12/017",
+    "remark": "EXISTING PU",
+    "ward_id": "3160",
+    "ward_name": "EJUONA/UWANI",
+    "local_government_id": "271",
+    "local_government_name": "NSUKKA",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.864455299999999,
+      "longitude": 7.408288299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.865912379892722,
+          "lng": 7.40956247989272
+        },
+        "southwest": {
+          "lat": 6.863212720107278,
+          "lng": 7.406862820107276
+        }
+      },
+      "formatted_address": "Nsukka - Onitsha Rd, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.864455299999999,7.408288299999999",
+      "google_place_id": "ChIJJZf__t7nRBARfQ5mMIyiuP8"
+    }
+  }
+]

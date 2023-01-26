@@ -1,0 +1,570 @@
+[
+  {
+    "id": "104079",
+    "name": "DUTSIN MARI GABAS",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "21/13/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104080",
+    "name": "DUTSIN MARI YAMMA",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "21/13/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104081",
+    "name": "SAMANAJI",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "21/13/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104082",
+    "name": "BUMA",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "21/13/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104083",
+    "name": "NASSARAWA",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "21/13/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.2168786,
+      "longitude": 4.4716075,
+      "viewport": {
+        "northeast": {
+          "lat": 11.219809,
+          "lng": 4.473561999999999
+        },
+        "southwest": {
+          "lat": 11.214177,
+          "lng": 4.469377
+        }
+      },
+      "formatted_address": "871105, Nasarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2168786,4.4716075",
+      "google_place_id": "ChIJcw-k7wL8yhER-FN_Ekidtsc"
+    }
+  },
+  {
+    "id": "104084",
+    "name": "KARWA",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "21/13/09/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.2014859,
+      "longitude": 4.4378251,
+      "viewport": {
+        "northeast": {
+          "lat": 11.20287287989272,
+          "lng": 4.438899279892722
+        },
+        "southwest": {
+          "lat": 11.20017322010728,
+          "lng": 4.436199620107278
+        }
+      },
+      "formatted_address": "871105, Tunga Karwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2014859,4.4378251",
+      "google_place_id": "ChIJJx4bQsv9yhERzPXeRZAzqoo"
+    }
+  },
+  {
+    "id": "104085",
+    "name": "R.BUDA MUYALA I",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "21/13/09/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4351855,
+      "longitude": 4.5103909,
+      "viewport": {
+        "northeast": {
+          "lat": 11.43657097989272,
+          "lng": 4.511727279892722
+        },
+        "southwest": {
+          "lat": 11.43387132010728,
+          "lng": 4.509027620107278
+        }
+      },
+      "formatted_address": "Sokoto Yauri Road, Koko Koko/Besse Kebbi NG, 871105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4351855,4.5103909",
+      "google_place_id": "ChIJux3UgBBRyhERmExBzWsHWok"
+    }
+  },
+  {
+    "id": "104086",
+    "name": "KALBADE",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "21/13/09/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.2375974,
+      "longitude": 4.4085642,
+      "viewport": {
+        "northeast": {
+          "lat": 11.239571,
+          "lng": 4.413095999999999
+        },
+        "southwest": {
+          "lat": 11.234924,
+          "lng": 4.406097000000001
+        }
+      },
+      "formatted_address": "871105, Kalbade, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2375974,4.4085642",
+      "google_place_id": "ChIJLY5eMRf-yhERAZ_VGgYvMHY"
+    }
+  },
+  {
+    "id": "104087",
+    "name": "TUNGAR SAKKE",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "21/13/09/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104088",
+    "name": "GWARGWABE",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "21/13/09/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.2554816,
+      "longitude": 4.3455951,
+      "viewport": {
+        "northeast": {
+          "lat": 11.257709,
+          "lng": 4.346801329892721
+        },
+        "southwest": {
+          "lat": 11.2539551,
+          "lng": 4.344101670107277
+        }
+      },
+      "formatted_address": "871105, Gwargwabe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2554816,4.3455951",
+      "google_place_id": "ChIJsxcquhoByxERBD-07Q_JYLE"
+    }
+  },
+  {
+    "id": "104089",
+    "name": "DULMERU",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "21/13/09/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104090",
+    "name": "BUNGA",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "21/13/09/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.5525,
+      "longitude": 4.4958,
+      "viewport": {
+        "northeast": {
+          "lat": 11.55441122989272,
+          "lng": 4.4968324
+        },
+        "southwest": {
+          "lat": 11.55171157010728,
+          "lng": 4.492702799999999
+        }
+      },
+      "formatted_address": "HF2W+X8V, 871105, Sokoto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5525,4.4958",
+      "google_place_id": "ChIJBVLa-JNOyhERLcp6n2BxWyY"
+    }
+  },
+  {
+    "id": "104091",
+    "name": "KENDAWA",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "21/13/09/013",
+    "remark": "EXISTING PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.2099518,
+      "longitude": 4.3420633,
+      "viewport": {
+        "northeast": {
+          "lat": 11.2177801,
+          "lng": 4.3468471
+        },
+        "southwest": {
+          "lat": 11.207424,
+          "lng": 4.337507
+        }
+      },
+      "formatted_address": "871105, Kendawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2099518,4.3420633",
+      "google_place_id": "ChIJF9v3ntsDyxERKHG8aqIFnlk"
+    }
+  },
+  {
+    "id": "104092",
+    "name": "TAHO",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "21/13/09/014",
+    "remark": "EXISTING PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4351855,
+      "longitude": 4.5103909,
+      "viewport": {
+        "northeast": {
+          "lat": 11.43657097989272,
+          "lng": 4.511727279892722
+        },
+        "southwest": {
+          "lat": 11.43387132010728,
+          "lng": 4.509027620107278
+        }
+      },
+      "formatted_address": "Sokoto Yauri Road, Koko Koko/Besse Kebbi NG, 871105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4351855,4.5103909",
+      "google_place_id": "ChIJux3UgBBRyhERmExBzWsHWok"
+    }
+  },
+  {
+    "id": "104093",
+    "name": "DUNJERE",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "21/13/09/015",
+    "remark": "EXISTING PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104094",
+    "name": "TUNGA MUSA",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "21/13/09/016",
+    "remark": "EXISTING PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104095",
+    "name": "MAZOJI",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "21/13/09/017",
+    "remark": "EXISTING PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.2424546,
+      "longitude": 4.2685914,
+      "viewport": {
+        "northeast": {
+          "lat": 11.2470771,
+          "lng": 4.2732929
+        },
+        "southwest": {
+          "lat": 11.2351289,
+          "lng": 4.266324099999999
+        }
+      },
+      "formatted_address": "871105, Mazoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2424546,4.2685914",
+      "google_place_id": "ChIJ3wzrL2EGyxEREjywT9duikA"
+    }
+  },
+  {
+    "id": "104096",
+    "name": "DUTSINMARI KASUWA",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "21/13/09/018",
+    "remark": "NEW PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104097",
+    "name": "KARWA ZABARMAWA",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "21/13/09/019",
+    "remark": "NEW PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104098",
+    "name": "MADALLA KASUWA",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "21/13/09/020",
+    "remark": "NEW PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104099",
+    "name": "SAMANAJI KASUWA",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "21/13/09/021",
+    "remark": "NEW PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104100",
+    "name": "BUMA B",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "21/13/09/022",
+    "remark": "NEW PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104101",
+    "name": "GWARGWABEN BUDA MUYALA",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "21/13/09/023",
+    "remark": "NEW PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.2001463,
+      "longitude": 4.3391275,
+      "viewport": {
+        "northeast": {
+          "lat": 11.20149612989272,
+          "lng": 4.340477329892723
+        },
+        "southwest": {
+          "lat": 11.19879647010728,
+          "lng": 4.337777670107279
+        }
+      },
+      "formatted_address": "682Q+3M2, 871105, Lafagu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2001463,4.3391275",
+      "google_place_id": "ChIJ4-oX8sADyxERfA2PTK7H3lU"
+    }
+  },
+  {
+    "id": "104102",
+    "name": "TUNGAR RAIRAI",
+    "registration_area_id": "5328",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "21/13/09/024",
+    "remark": "NEW PU",
+    "ward_id": "5328",
+    "ward_name": "DUTSIN MARI/DULMERU",
+    "local_government_id": "460",
+    "local_government_name": "KOKO/BESSE",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  }
+]

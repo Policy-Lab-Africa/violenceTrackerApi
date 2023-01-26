@@ -1,0 +1,251 @@
+[
+  {
+    "id": "107251",
+    "name": "OPEN SPACE, SUKU",
+    "registration_area_id": "5529",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "22/10/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5529",
+    "ward_name": "AKUTUPA-KIRI",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.146804,
+      "longitude": 6.081298400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.148153679892722,
+          "lng": 6.082704579892722
+        },
+        "southwest": {
+          "lat": 8.145454020107278,
+          "lng": 6.080004920107278
+        }
+      },
+      "formatted_address": "43WJ+PGF, Aiyetoro Gbede - Ahuji Rd, 261102, Kogi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.146804,6.081298400000001",
+      "google_place_id": "ChIJdSAvX8TBSBARzSAC81GPpeQ"
+    }
+  },
+  {
+    "id": "107252",
+    "name": "OPEN SPACE, OFERE",
+    "registration_area_id": "5529",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "22/10/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5529",
+    "ward_name": "AKUTUPA-KIRI",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.837454399999999,
+      "longitude": 6.082453999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.838863679892721,
+          "lng": 6.083941929892722
+        },
+        "southwest": {
+          "lat": 7.836164020107277,
+          "lng": 6.081242270107278
+        }
+      },
+      "formatted_address": "R3PJ+XX8, KABBA/BUNU LGA INEC OFFICE KABBA/BUNU INEC OFFICE,ALONG JIVCO HOTEL ROAD, LGA, GRA, Kabba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.837454399999999,6.082453999999999",
+      "google_place_id": "ChIJeRWhYgOjSBARVy_00znNkNA"
+    }
+  },
+  {
+    "id": "107253",
+    "name": "OPEN SPACE, OSOMULE",
+    "registration_area_id": "5529",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "22/10/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5529",
+    "ward_name": "AKUTUPA-KIRI",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "107254",
+    "name": "ODINDA QTERS, ODINDA",
+    "registration_area_id": "5529",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "22/10/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5529",
+    "ward_name": "AKUTUPA-KIRI",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.837454399999999,
+      "longitude": 6.082453999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.838863679892721,
+          "lng": 6.083941929892722
+        },
+        "southwest": {
+          "lat": 7.836164020107277,
+          "lng": 6.081242270107278
+        }
+      },
+      "formatted_address": "R3PJ+XX8, KABBA/BUNU LGA INEC OFFICE KABBA/BUNU INEC OFFICE,ALONG JIVCO HOTEL ROAD, LGA, GRA, Kabba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.837454399999999,6.082453999999999",
+      "google_place_id": "ChIJeRWhYgOjSBARVy_00znNkNA"
+    }
+  },
+  {
+    "id": "107255",
+    "name": "ALEPA QTRS, ALEPA",
+    "registration_area_id": "5529",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "22/10/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5529",
+    "ward_name": "AKUTUPA-KIRI",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "107256",
+    "name": "GIRO-ILEHI, GIRO-ILEHI",
+    "registration_area_id": "5529",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "22/10/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5529",
+    "ward_name": "AKUTUPA-KIRI",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "107257",
+    "name": "ITEDO QTRS ITEDO",
+    "registration_area_id": "5529",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "22/10/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5529",
+    "ward_name": "AKUTUPA-KIRI",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.837454399999999,
+      "longitude": 6.082453999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.838863679892721,
+          "lng": 6.083941929892722
+        },
+        "southwest": {
+          "lat": 7.836164020107277,
+          "lng": 6.081242270107278
+        }
+      },
+      "formatted_address": "R3PJ+XX8, KABBA/BUNU LGA INEC OFFICE KABBA/BUNU INEC OFFICE,ALONG JIVCO HOTEL ROAD, LGA, GRA, Kabba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.837454399999999,6.082453999999999",
+      "google_place_id": "ChIJeRWhYgOjSBARVy_00znNkNA"
+    }
+  },
+  {
+    "id": "107258",
+    "name": "OPEN SPACE IN FRONT OF PRIMARY HEALTH CARE, OFERE",
+    "registration_area_id": "5529",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "22/10/10/008",
+    "remark": "NEW PU",
+    "ward_id": "5529",
+    "ward_name": "AKUTUPA-KIRI",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.818119899999998,
+      "longitude": 6.044269099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.819335779892723,
+          "lng": 6.046084079892722
+        },
+        "southwest": {
+          "lat": 7.816636120107279,
+          "lng": 6.043384420107278
+        }
+      },
+      "formatted_address": "R29V+6PR, Unnamed Road, 261101, Kabba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.818119899999998,6.044269099999999",
+      "google_place_id": "ChIJn8TnNjifSBAR1ngQJOyhpQI"
+    }
+  },
+  {
+    "id": "107259",
+    "name": "OPEN SPACE OPPOSITE WATER TANK ITEDO",
+    "registration_area_id": "5529",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "22/10/10/009",
+    "remark": "NEW PU",
+    "ward_id": "5529",
+    "ward_name": "AKUTUPA-KIRI",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  }
+]

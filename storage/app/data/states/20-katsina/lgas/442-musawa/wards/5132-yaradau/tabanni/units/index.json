@@ -1,0 +1,366 @@
+[
+  {
+    "id": "100887",
+    "name": "TABANNI I - TABANNI PRI.SCHOOL",
+    "registration_area_id": "5132",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/29/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5132",
+    "ward_name": "YARADAU/TABANNI",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9919807,
+      "longitude": 7.5984096,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99326747989272,
+          "lng": 7.599764229892722
+        },
+        "southwest": {
+          "lat": 12.99056782010728,
+          "lng": 7.597064570107278
+        }
+      },
+      "formatted_address": "820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9919807,7.5984096",
+      "google_place_id": "ChIJxXBXXLg8sBEREHcdu6AGHBw"
+    }
+  },
+  {
+    "id": "100888",
+    "name": "GIDAN DARHO - G/DARHO PRI.SCHOOL",
+    "registration_area_id": "5132",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/29/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5132",
+    "ward_name": "YARADAU/TABANNI",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9815608,
+      "longitude": 7.622266499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98290287989272,
+          "lng": 7.62356807989272
+        },
+        "southwest": {
+          "lat": 12.98020322010728,
+          "lng": 7.620868420107276
+        }
+      },
+      "formatted_address": "XJJC+JWC, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9815608,7.622266499999999",
+      "google_place_id": "ChIJyyfYRtMjsBER5uM2_vL0rSI"
+    }
+  },
+  {
+    "id": "100889",
+    "name": "RINJIN BADISO - GIDAN BADISO",
+    "registration_area_id": "5132",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/29/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5132",
+    "ward_name": "YARADAU/TABANNI",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100890",
+    "name": "A'AWA  / DANDALI",
+    "registration_area_id": "5132",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/29/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5132",
+    "ward_name": "YARADAU/TABANNI",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8858107,
+      "longitude": 7.573478299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.88716052989272,
+          "lng": 7.574828129892721
+        },
+        "southwest": {
+          "lat": 12.88446087010728,
+          "lng": 7.572128470107277
+        }
+      },
+      "formatted_address": "VHXR+MHM, 820102, Batagarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8858107,7.573478299999999",
+      "google_place_id": "ChIJ7azaoYU6sBERvhyNTxP4GxQ"
+    }
+  },
+  {
+    "id": "100891",
+    "name": "FUROGI - DANDALI",
+    "registration_area_id": "5132",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/29/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5132",
+    "ward_name": "YARADAU/TABANNI",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8858107,
+      "longitude": 7.573478299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.88716052989272,
+          "lng": 7.574828129892721
+        },
+        "southwest": {
+          "lat": 12.88446087010728,
+          "lng": 7.572128470107277
+        }
+      },
+      "formatted_address": "VHXR+MHM, 820102, Batagarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8858107,7.573478299999999",
+      "google_place_id": "ChIJ7azaoYU6sBERvhyNTxP4GxQ"
+    }
+  },
+  {
+    "id": "100892",
+    "name": "YAR RADAU - PRI.SCHOOL",
+    "registration_area_id": "5132",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/29/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5132",
+    "ward_name": "YARADAU/TABANNI",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8858107,
+      "longitude": 7.573478299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.88716052989272,
+          "lng": 7.574828129892721
+        },
+        "southwest": {
+          "lat": 12.88446087010728,
+          "lng": 7.572128470107277
+        }
+      },
+      "formatted_address": "VHXR+MHM, 820102, Batagarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8858107,7.573478299999999",
+      "google_place_id": "ChIJ7azaoYU6sBERvhyNTxP4GxQ"
+    }
+  },
+  {
+    "id": "100893",
+    "name": "DAMINAWA - PRI.SCHOOL",
+    "registration_area_id": "5132",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/29/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5132",
+    "ward_name": "YARADAU/TABANNI",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9668784,
+      "longitude": 7.646327799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96822822989272,
+          "lng": 7.647677629892721
+        },
+        "southwest": {
+          "lat": 12.96552857010728,
+          "lng": 7.644977970107277
+        }
+      },
+      "formatted_address": "No. 13 Mani Rd, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9668784,7.646327799999999",
+      "google_place_id": "ChIJq8YC_IIksBERbwjUFqH1wFM"
+    }
+  },
+  {
+    "id": "100894",
+    "name": "KYANKYANI - K/GIDAN M.UNGUWA",
+    "registration_area_id": "5132",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/29/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5132",
+    "ward_name": "YARADAU/TABANNI",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8858107,
+      "longitude": 7.573478299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.88716052989272,
+          "lng": 7.574828129892721
+        },
+        "southwest": {
+          "lat": 12.88446087010728,
+          "lng": 7.572128470107277
+        }
+      },
+      "formatted_address": "VHXR+MHM, 820102, Batagarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8858107,7.573478299999999",
+      "google_place_id": "ChIJ7azaoYU6sBERvhyNTxP4GxQ"
+    }
+  },
+  {
+    "id": "100895",
+    "name": "SABON GIDA  / PRI.SCHOOL",
+    "registration_area_id": "5132",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/29/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5132",
+    "ward_name": "YARADAU/TABANNI",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9146494,
+      "longitude": 7.6344554,
+      "viewport": {
+        "northeast": {
+          "lat": 12.91600002989272,
+          "lng": 7.635881379892722
+        },
+        "southwest": {
+          "lat": 12.91330037010728,
+          "lng": 7.633181720107277
+        }
+      },
+      "formatted_address": "Kabukawa Sabon Gida Primary School, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9146494,7.6344554",
+      "google_place_id": "ChIJ8Y4wHFMlsBERLWlmdxm2BBI"
+    }
+  },
+  {
+    "id": "100896",
+    "name": "RINJIN SAMU - DANDALI",
+    "registration_area_id": "5132",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/29/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5132",
+    "ward_name": "YARADAU/TABANNI",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8858107,
+      "longitude": 7.573478299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.88716052989272,
+          "lng": 7.574828129892721
+        },
+        "southwest": {
+          "lat": 12.88446087010728,
+          "lng": 7.572128470107277
+        }
+      },
+      "formatted_address": "VHXR+MHM, 820102, Batagarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8858107,7.573478299999999",
+      "google_place_id": "ChIJ7azaoYU6sBERvhyNTxP4GxQ"
+    }
+  },
+  {
+    "id": "100897",
+    "name": "TABANNI II  / TABANNI PRI.SCHOOL",
+    "registration_area_id": "5132",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/29/05/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5132",
+    "ward_name": "YARADAU/TABANNI",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9919807,
+      "longitude": 7.5984096,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99326747989272,
+          "lng": 7.599764229892722
+        },
+        "southwest": {
+          "lat": 12.99056782010728,
+          "lng": 7.597064570107278
+        }
+      },
+      "formatted_address": "820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9919807,7.5984096",
+      "google_place_id": "ChIJxXBXXLg8sBEREHcdu6AGHBw"
+    }
+  },
+  {
+    "id": "100898",
+    "name": "GIDAN DARHO -G/DARHO PRI SCH",
+    "registration_area_id": "5132",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "20/29/05/012",
+    "remark": "NEW PU",
+    "ward_id": "5132",
+    "ward_name": "YARADAU/TABANNI",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  }
+]

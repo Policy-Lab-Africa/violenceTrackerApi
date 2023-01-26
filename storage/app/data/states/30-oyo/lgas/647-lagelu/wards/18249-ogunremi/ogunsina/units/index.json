@@ -1,0 +1,301 @@
+[
+  {
+    "id": "356713",
+    "name": "OGUNREMI VILLAGE",
+    "registration_area_id": "18249",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "30/20/12/001",
+    "remark": "EXISTING PU",
+    "ward_id": "18249",
+    "ward_name": "OGUNREMI/OGUNSINA",
+    "local_government_id": "647",
+    "local_government_name": "LAGELU",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.6050798,
+      "longitude": 4.0570902,
+      "viewport": {
+        "northeast": {
+          "lat": 7.606284329892722,
+          "lng": 4.058355829892722
+        },
+        "southwest": {
+          "lat": 7.603584670107278,
+          "lng": 4.055656170107278
+        }
+      },
+      "formatted_address": "200105, Ogunremi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6050798,4.0570902",
+      "google_place_id": "ChIJraMMoe_nORARpVxzGl34tKs"
+    }
+  },
+  {
+    "id": "356714",
+    "name": "OGUNSINA VILLAGE",
+    "registration_area_id": "18249",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "30/20/12/002",
+    "remark": "EXISTING PU",
+    "ward_id": "18249",
+    "ward_name": "OGUNREMI/OGUNSINA",
+    "local_government_id": "647",
+    "local_government_name": "LAGELU",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.5289084,
+      "longitude": 4.0075385,
+      "viewport": {
+        "northeast": {
+          "lat": 7.530162829892722,
+          "lng": 4.008784779892722
+        },
+        "southwest": {
+          "lat": 7.527463170107279,
+          "lng": 4.006085120107278
+        }
+      },
+      "formatted_address": "200137, Ogunsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5289084,4.0075385",
+      "google_place_id": "ChIJAYzW8T_pORARjbYdGZPeg3A"
+    }
+  },
+  {
+    "id": "356715",
+    "name": "ST. JAMES SCHOOL, DAGBOLU",
+    "registration_area_id": "18249",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "30/20/12/003",
+    "remark": "EXISTING PU",
+    "ward_id": "18249",
+    "ward_name": "OGUNREMI/OGUNSINA",
+    "local_government_id": "647",
+    "local_government_name": "LAGELU",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.585303,
+      "longitude": 4.041069999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.586652829892722,
+          "lng": 4.042419829892721
+        },
+        "southwest": {
+          "lat": 7.583953170107278,
+          "lng": 4.039720170107278
+        }
+      },
+      "formatted_address": "6FV6H2PR+4CG, 12 Dagbolu Road, Ward 200105, Alade, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.585303,4.041069999999999",
+      "google_place_id": "ChIJB6dgfRLpORARUwZ56SM9Lpc"
+    }
+  },
+  {
+    "id": "356716",
+    "name": "ALATARE VILLAGE",
+    "registration_area_id": "18249",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "30/20/12/004",
+    "remark": "EXISTING PU",
+    "ward_id": "18249",
+    "ward_name": "OGUNREMI/OGUNSINA",
+    "local_government_id": "647",
+    "local_government_name": "LAGELU",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.579835499999999,
+      "longitude": 4.0269227,
+      "viewport": {
+        "northeast": {
+          "lat": 7.588535100000001,
+          "lng": 4.030213
+        },
+        "southwest": {
+          "lat": 7.577701999999999,
+          "lng": 4.026324
+        }
+      },
+      "formatted_address": "200105, Alatare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.579835499999999,4.0269227",
+      "google_place_id": "ChIJM4DA84foORARzRFdXif8i8I"
+    }
+  },
+  {
+    "id": "356717",
+    "name": "OGUNSOWO VILLAGE",
+    "registration_area_id": "18249",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "30/20/12/005",
+    "remark": "EXISTING PU",
+    "ward_id": "18249",
+    "ward_name": "OGUNREMI/OGUNSINA",
+    "local_government_id": "647",
+    "local_government_name": "LAGELU",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.410151699999998,
+      "longitude": 3.9162943,
+      "viewport": {
+        "northeast": {
+          "lat": 7.411320479892722,
+          "lng": 3.917307529892722
+        },
+        "southwest": {
+          "lat": 7.408620820107278,
+          "lng": 3.914607870107278
+        }
+      },
+      "formatted_address": "University of Ibadan, behind Idia Hall, 200005, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.410151699999998,3.9162943",
+      "google_place_id": "ChIJnTZf6liTORARihlu_CITu64"
+    }
+  },
+  {
+    "id": "356718",
+    "name": "ELERUKO VILLAGE",
+    "registration_area_id": "18249",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "30/20/12/006",
+    "remark": "EXISTING PU",
+    "ward_id": "18249",
+    "ward_name": "OGUNREMI/OGUNSINA",
+    "local_government_id": "647",
+    "local_government_name": "LAGELU",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "356719",
+    "name": "C.A.C. PRIMARY SCHOOL, MOROLA",
+    "registration_area_id": "18249",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "30/20/12/007",
+    "remark": "EXISTING PU",
+    "ward_id": "18249",
+    "ward_name": "OGUNREMI/OGUNSINA",
+    "local_government_id": "647",
+    "local_government_name": "LAGELU",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.532511,
+      "longitude": 3.9743834,
+      "viewport": {
+        "northeast": {
+          "lat": 7.533829629892724,
+          "lng": 3.975729029892721
+        },
+        "southwest": {
+          "lat": 7.53112997010728,
+          "lng": 3.973029370107278
+        }
+      },
+      "formatted_address": "GXMF+2Q2, Olufana Rd, 200137, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.532511,3.9743834",
+      "google_place_id": "ChIJnfC0ksbuORAReRtDdAqeAoU"
+    }
+  },
+  {
+    "id": "356720",
+    "name": "ST. MATTHEW SCHOOL, AGBEDEYI",
+    "registration_area_id": "18249",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "30/20/12/008",
+    "remark": "EXISTING PU",
+    "ward_id": "18249",
+    "ward_name": "OGUNREMI/OGUNSINA",
+    "local_government_id": "647",
+    "local_government_name": "LAGELU",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "356721",
+    "name": "OMIYO VILLAGE",
+    "registration_area_id": "18249",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "30/20/12/009",
+    "remark": "EXISTING PU",
+    "ward_id": "18249",
+    "ward_name": "OGUNREMI/OGUNSINA",
+    "local_government_id": "647",
+    "local_government_name": "LAGELU",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "356722",
+    "name": "ONISANGO VILLAGE",
+    "registration_area_id": "18249",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "30/20/12/010",
+    "remark": "EXISTING PU",
+    "ward_id": "18249",
+    "ward_name": "OGUNREMI/OGUNSINA",
+    "local_government_id": "647",
+    "local_government_name": "LAGELU",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.5929375,
+      "longitude": 4.0448774,
+      "viewport": {
+        "northeast": {
+          "lat": 7.594329829892723,
+          "lng": 4.046146379892722
+        },
+        "southwest": {
+          "lat": 7.591630170107279,
+          "lng": 4.043446720107278
+        }
+      },
+      "formatted_address": "200103, Onisango, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5929375,4.0448774",
+      "google_place_id": "ChIJm1SdWd_nORARqL3q6A4lMvw"
+    }
+  },
+  {
+    "id": "356723",
+    "name": "ISAGADE VILLAGE",
+    "registration_area_id": "18249",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "30/20/12/011",
+    "remark": "EXISTING PU",
+    "ward_id": "18249",
+    "ward_name": "OGUNREMI/OGUNSINA",
+    "local_government_id": "647",
+    "local_government_name": "LAGELU",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  }
+]

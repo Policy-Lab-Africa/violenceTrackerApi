@@ -1,0 +1,532 @@
+[
+  {
+    "id": "348746",
+    "name": "COURT HALL I, BEHIND ARAB BANK, ODE-OMU",
+    "registration_area_id": "17727",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "29/03/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17727",
+    "ward_name": "IJEGBE/OKE-ESO/OKE-OWU IJUGBE",
+    "local_government_id": "602",
+    "local_government_name": "AYEDAADE",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "348747",
+    "name": "COURT HALL II, BEHIND ARAB BANK ODE-OMU",
+    "registration_area_id": "17727",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "29/03/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17727",
+    "ward_name": "IJEGBE/OKE-ESO/OKE-OWU IJUGBE",
+    "local_government_id": "602",
+    "local_government_name": "AYEDAADE",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "348748",
+    "name": "D.C. SCHOOL, OKE ESO, OKE ESO, AREA ODE OMU",
+    "registration_area_id": "17727",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "29/03/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17727",
+    "ward_name": "IJEGBE/OKE-ESO/OKE-OWU IJUGBE",
+    "local_government_id": "602",
+    "local_government_name": "AYEDAADE",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.540581,
+      "longitude": 4.402803899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.541755179892722,
+          "lng": 4.404138179892722
+        },
+        "southwest": {
+          "lat": 7.539055520107278,
+          "lng": 4.401438520107278
+        }
+      },
+      "formatted_address": "3 Oke Eso St, 233111, Ode Omu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.540581,4.402803899999999",
+      "google_place_id": "ChIJLYsQrBEzOBARu9h2-PgYCKI"
+    }
+  },
+  {
+    "id": "348749",
+    "name": "D.C. SCHOOL, OKE ESO, OKE ESO AREA ODEOMU",
+    "registration_area_id": "17727",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "29/03/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17727",
+    "ward_name": "IJEGBE/OKE-ESO/OKE-OWU IJUGBE",
+    "local_government_id": "602",
+    "local_government_name": "AYEDAADE",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.540581,
+      "longitude": 4.402803899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.541755179892722,
+          "lng": 4.404138179892722
+        },
+        "southwest": {
+          "lat": 7.539055520107278,
+          "lng": 4.401438520107278
+        }
+      },
+      "formatted_address": "3 Oke Eso St, 233111, Ode Omu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.540581,4.402803899999999",
+      "google_place_id": "ChIJLYsQrBEzOBARu9h2-PgYCKI"
+    }
+  },
+  {
+    "id": "348750",
+    "name": "IGBIRA ISALE AREA, IGBIRA VILLAGE ODE OMU",
+    "registration_area_id": "17727",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "29/03/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17727",
+    "ward_name": "IJEGBE/OKE-ESO/OKE-OWU IJUGBE",
+    "local_government_id": "602",
+    "local_government_name": "AYEDAADE",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4804486,
+      "longitude": 4.5720696,
+      "viewport": {
+        "northeast": {
+          "lat": 7.481815679892724,
+          "lng": 4.573336229892722
+        },
+        "southwest": {
+          "lat": 7.47911602010728,
+          "lng": 4.570636570107278
+        }
+      },
+      "formatted_address": "FHJC+5QP, 220112, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4804486,4.5720696",
+      "google_place_id": "ChIJY_nG5-c5OBAR4Rjbvo1v9Yg"
+    }
+  },
+  {
+    "id": "348751",
+    "name": "ST. DAVID'S GRAMMAR SCHOOL, IWO ROAD, ODE OMU",
+    "registration_area_id": "17727",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "29/03/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17727",
+    "ward_name": "IJEGBE/OKE-ESO/OKE-OWU IJUGBE",
+    "local_government_id": "602",
+    "local_government_name": "AYEDAADE",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5412481,
+      "longitude": 4.3864552,
+      "viewport": {
+        "northeast": {
+          "lat": 7.542594279892723,
+          "lng": 4.387827429892722
+        },
+        "southwest": {
+          "lat": 7.53989462010728,
+          "lng": 4.385127770107278
+        }
+      },
+      "formatted_address": "G9RP+FH, 220104, Ode Omu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5412481,4.3864552",
+      "google_place_id": "ChIJ64y35_vNORARawQfk8czg1Y"
+    }
+  },
+  {
+    "id": "348752",
+    "name": "A.U.D. OKE ODE AREA OKE ODE AREA ODE OMU",
+    "registration_area_id": "17727",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "29/03/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17727",
+    "ward_name": "IJEGBE/OKE-ESO/OKE-OWU IJUGBE",
+    "local_government_id": "602",
+    "local_government_name": "AYEDAADE",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.530083999999999,
+      "longitude": 4.3719303,
+      "viewport": {
+        "northeast": {
+          "lat": 7.5649915,
+          "lng": 4.401339
+        },
+        "southwest": {
+          "lat": 7.502634,
+          "lng": 4.3535606
+        }
+      },
+      "formatted_address": "Ijegbe/Oke-Eso/Oke-Owu Ijugbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.530083999999999,4.3719303",
+      "google_place_id": "ChIJwchGmcLMORARds7a5IQcEmo"
+    }
+  },
+  {
+    "id": "348753",
+    "name": "OKE-OWU HALL I, OKE OWU AREA ODEOMU",
+    "registration_area_id": "17727",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "29/03/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17727",
+    "ward_name": "IJEGBE/OKE-ESO/OKE-OWU IJUGBE",
+    "local_government_id": "602",
+    "local_government_name": "AYEDAADE",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.829650000000001,
+      "longitude": 4.097664,
+      "viewport": {
+        "northeast": {
+          "lat": 7.830793779892724,
+          "lng": 4.098904679892721
+        },
+        "southwest": {
+          "lat": 7.82809412010728,
+          "lng": 4.096205020107277
+        }
+      },
+      "formatted_address": "Ife Odan Rd, 232119, Owu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.829650000000001,4.097664",
+      "google_place_id": "ChIJpX8AGEthNxARx-KfTDuxis0"
+    }
+  },
+  {
+    "id": "348754",
+    "name": "OKE-OWU HALL II, OKE-OWU AREA ODEOMU",
+    "registration_area_id": "17727",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "29/03/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17727",
+    "ward_name": "IJEGBE/OKE-ESO/OKE-OWU IJUGBE",
+    "local_government_id": "602",
+    "local_government_name": "AYEDAADE",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.829650000000001,
+      "longitude": 4.097664,
+      "viewport": {
+        "northeast": {
+          "lat": 7.830793779892724,
+          "lng": 4.098904679892721
+        },
+        "southwest": {
+          "lat": 7.82809412010728,
+          "lng": 4.096205020107277
+        }
+      },
+      "formatted_address": "Ife Odan Rd, 232119, Owu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.829650000000001,4.097664",
+      "google_place_id": "ChIJpX8AGEthNxARx-KfTDuxis0"
+    }
+  },
+  {
+    "id": "348755",
+    "name": "OKE-OWU HALL III, OKE-OWU AREA, ODE-OMU",
+    "registration_area_id": "17727",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "29/03/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17727",
+    "ward_name": "IJEGBE/OKE-ESO/OKE-OWU IJUGBE",
+    "local_government_id": "602",
+    "local_government_name": "AYEDAADE",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "348756",
+    "name": "ILE OSO ARO AREA, ILE OSO ARO, ODE OMU",
+    "registration_area_id": "17727",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "29/03/05/011",
+    "remark": "EXISTING PU",
+    "ward_id": "17727",
+    "ward_name": "IJEGBE/OKE-ESO/OKE-OWU IJUGBE",
+    "local_government_id": "602",
+    "local_government_name": "AYEDAADE",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5327343,
+      "longitude": 4.420481,
+      "viewport": {
+        "northeast": {
+          "lat": 7.534079529892721,
+          "lng": 4.421799429892721
+        },
+        "southwest": {
+          "lat": 7.531379870107277,
+          "lng": 4.419099770107278
+        }
+      },
+      "formatted_address": "Ile Osoaro, Ode Omu Rd, Ode Omu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5327343,4.420481",
+      "google_place_id": "ChIJL15E-P4zOBARLU251Dg5pWA"
+    }
+  },
+  {
+    "id": "348757",
+    "name": "OLUSUNDE AREA, OLUSUNDE COMP. ODEOMU",
+    "registration_area_id": "17727",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "29/03/05/012",
+    "remark": "EXISTING PU",
+    "ward_id": "17727",
+    "ward_name": "IJEGBE/OKE-ESO/OKE-OWU IJUGBE",
+    "local_government_id": "602",
+    "local_government_name": "AYEDAADE",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5393623,
+      "longitude": 4.3960827,
+      "viewport": {
+        "northeast": {
+          "lat": 7.540670329892722,
+          "lng": 4.397436429892721
+        },
+        "southwest": {
+          "lat": 7.537970670107279,
+          "lng": 4.394736770107277
+        }
+      },
+      "formatted_address": "G9QW+QC8, 220104, Ode Omu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5393623,4.3960827",
+      "google_place_id": "ChIJnw0sftHMORARPzpLTfzvv0E"
+    }
+  },
+  {
+    "id": "348758",
+    "name": "KETU AREA, KETU AREA ODE OMU",
+    "registration_area_id": "17727",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "29/03/05/013",
+    "remark": "EXISTING PU",
+    "ward_id": "17727",
+    "ward_name": "IJEGBE/OKE-ESO/OKE-OWU IJUGBE",
+    "local_government_id": "602",
+    "local_government_name": "AYEDAADE",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.553431600000001,
+      "longitude": 3.804642,
+      "viewport": {
+        "northeast": {
+          "lat": 7.555202,
+          "lng": 3.8082691
+        },
+        "southwest": {
+          "lat": 7.552145999999999,
+          "lng": 3.803824
+        }
+      },
+      "formatted_address": "Ketu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.553431600000001,3.804642",
+      "google_place_id": "ChIJid7JSCD3ORAR41c3w1dPbrk"
+    }
+  },
+  {
+    "id": "348759",
+    "name": "OLUSEYI HALL, FAJOB'S COMP. ODE-OMU",
+    "registration_area_id": "17727",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "29/03/05/014",
+    "remark": "EXISTING PU",
+    "ward_id": "17727",
+    "ward_name": "IJEGBE/OKE-ESO/OKE-OWU IJUGBE",
+    "local_government_id": "602",
+    "local_government_name": "AYEDAADE",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5393623,
+      "longitude": 4.3960827,
+      "viewport": {
+        "northeast": {
+          "lat": 7.540670329892722,
+          "lng": 4.397436429892721
+        },
+        "southwest": {
+          "lat": 7.537970670107279,
+          "lng": 4.394736770107277
+        }
+      },
+      "formatted_address": "G9QW+QC8, 220104, Ode Omu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5393623,4.3960827",
+      "google_place_id": "ChIJnw0sftHMORARPzpLTfzvv0E"
+    }
+  },
+  {
+    "id": "348760",
+    "name": "ORONA AREA, ORONA COMP. ODE OMU",
+    "registration_area_id": "17727",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "29/03/05/015",
+    "remark": "EXISTING PU",
+    "ward_id": "17727",
+    "ward_name": "IJEGBE/OKE-ESO/OKE-OWU IJUGBE",
+    "local_government_id": "602",
+    "local_government_name": "AYEDAADE",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "348761",
+    "name": "IGBIRA OKE AREA, IGBIRA VILLAGE ODEOMU",
+    "registration_area_id": "17727",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "29/03/05/016",
+    "remark": "EXISTING PU",
+    "ward_id": "17727",
+    "ward_name": "IJEGBE/OKE-ESO/OKE-OWU IJUGBE",
+    "local_government_id": "602",
+    "local_government_name": "AYEDAADE",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.540581,
+      "longitude": 4.402803899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.541930829892721,
+          "lng": 4.404153729892721
+        },
+        "southwest": {
+          "lat": 7.539231170107278,
+          "lng": 4.401454070107278
+        }
+      },
+      "formatted_address": "local government, 39 OKE ODO MUNI ODEOMU, 221102, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.540581,4.402803899999999",
+      "google_place_id": "ChIJDXpgeF_NORARAq9R8qGwI-4"
+    }
+  },
+  {
+    "id": "348762",
+    "name": "BARA OLUEJU, COMP. ODE OMU",
+    "registration_area_id": "17727",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "29/03/05/017",
+    "remark": "EXISTING PU",
+    "ward_id": "17727",
+    "ward_name": "IJEGBE/OKE-ESO/OKE-OWU IJUGBE",
+    "local_government_id": "602",
+    "local_government_name": "AYEDAADE",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.535018999999999,
+      "longitude": 4.413899799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.536367429892723,
+          "lng": 4.415270129892721
+        },
+        "southwest": {
+          "lat": 7.533667770107279,
+          "lng": 4.412570470107277
+        }
+      },
+      "formatted_address": "GCP7+2H2, Road, 220104, Ode Omu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.535018999999999,4.413899799999999",
+      "google_place_id": "ChIJ6fqi4rgzOBAROjTpJtcYPhY"
+    }
+  },
+  {
+    "id": "348763",
+    "name": "BAPTIST HIGH SCHOOL, GBONGAN ROAD , ODE OMU",
+    "registration_area_id": "17727",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "29/03/05/018",
+    "remark": "NEW PU",
+    "ward_id": "17727",
+    "ward_name": "IJEGBE/OKE-ESO/OKE-OWU IJUGBE",
+    "local_government_id": "602",
+    "local_government_name": "AYEDAADE",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.720485800000001,
+      "longitude": 4.4486831,
+      "viewport": {
+        "northeast": {
+          "lat": 7.721798979892721,
+          "lng": 4.450000279892722
+        },
+        "southwest": {
+          "lat": 7.719099320107278,
+          "lng": 4.447300620107278
+        }
+      },
+      "formatted_address": "PCCX+5FV, 232101, Ede, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.720485800000001,4.4486831",
+      "google_place_id": "ChIJYU3AjFIqOBARzMhvHEzmIdo"
+    }
+  }
+]

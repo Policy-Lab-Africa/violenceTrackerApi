@@ -1,0 +1,169 @@
+[
+  {
+    "id": "32328",
+    "name": "MULIYE DANDAL",
+    "registration_area_id": "1742",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/08/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1742",
+    "ward_name": "MULIYE / JEMURI",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32329",
+    "name": "MULIYE PRI. SCH.",
+    "registration_area_id": "1742",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/08/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1742",
+    "ward_name": "MULIYE / JEMURI",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.0388489,
+      "longitude": 13.908033,
+      "viewport": {
+        "northeast": {
+          "lat": 12.04020772989272,
+          "lng": 13.90938022989272
+        },
+        "southwest": {
+          "lat": 12.03750807010728,
+          "lng": 13.90668057010728
+        }
+      },
+      "formatted_address": "2WQ5+G6M, 611101, Dikwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0388489,13.908033",
+      "google_place_id": "ChIJmUNZEuNBGxERj06rMx9AmB8"
+    }
+  },
+  {
+    "id": "32330",
+    "name": "MASA DANDAL  I",
+    "registration_area_id": "1742",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/08/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1742",
+    "ward_name": "MULIYE / JEMURI",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32331",
+    "name": "MASA DANDAL  II",
+    "registration_area_id": "1742",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/08/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1742",
+    "ward_name": "MULIYE / JEMURI",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32332",
+    "name": "NGUBDORI",
+    "registration_area_id": "1742",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/08/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1742",
+    "ward_name": "MULIYE / JEMURI",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.4746966,
+      "longitude": 13.814562,
+      "viewport": {
+        "northeast": {
+          "lat": 11.476313,
+          "lng": 13.81593132989272
+        },
+        "southwest": {
+          "lat": 11.473121,
+          "lng": 13.81323167010728
+        }
+      },
+      "formatted_address": "610102, Ngubdori, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4746966,13.814562",
+      "google_place_id": "ChIJa00BN_q7HBER64Byvj-Kx_I"
+    }
+  },
+  {
+    "id": "32333",
+    "name": "ADUSHE",
+    "registration_area_id": "1742",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/08/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1742",
+    "ward_name": "MULIYE / JEMURI",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32334",
+    "name": "DURBE",
+    "registration_area_id": "1742",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/08/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1742",
+    "ward_name": "MULIYE / JEMURI",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7195888,
+      "longitude": 14.0050582,
+      "viewport": {
+        "northeast": {
+          "lat": 11.722424,
+          "lng": 14.007158
+        },
+        "southwest": {
+          "lat": 11.7174239,
+          "lng": 14.003269
+        }
+      },
+      "formatted_address": "610108, Durbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7195888,14.0050582",
+      "google_place_id": "ChIJc0PT8ACeHBERk03ppGhuYuM"
+    }
+  }
+]

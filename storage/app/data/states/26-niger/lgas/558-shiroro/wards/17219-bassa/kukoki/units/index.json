@@ -1,0 +1,250 @@
+[
+  {
+    "id": "338790",
+    "name": "BASSA PRIMARY SCHOOL",
+    "registration_area_id": "17219",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/22/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17219",
+    "ward_name": "BASSA/KUKOKI",
+    "local_government_id": "558",
+    "local_government_name": "SHIRORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338791",
+    "name": "DURUMI",
+    "registration_area_id": "17219",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/22/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17219",
+    "ward_name": "BASSA/KUKOKI",
+    "local_government_id": "558",
+    "local_government_name": "SHIRORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.2384124,
+      "longitude": 6.4275338,
+      "viewport": {
+        "northeast": {
+          "lat": 10.239297,
+          "lng": 6.428520829892721
+        },
+        "southwest": {
+          "lat": 10.235758,
+          "lng": 6.425821170107278
+        }
+      },
+      "formatted_address": "921102, Durumi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2384124,6.4275338",
+      "google_place_id": "ChIJ83ZRYVygTBARsw4TPRRLn-Y"
+    }
+  },
+  {
+    "id": "338792",
+    "name": "KUKOKI",
+    "registration_area_id": "17219",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/22/03/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17219",
+    "ward_name": "BASSA/KUKOKI",
+    "local_government_id": "558",
+    "local_government_name": "SHIRORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1274503,
+      "longitude": 6.556988199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.3026466,
+          "lng": 6.7306371
+        },
+        "southwest": {
+          "lat": 10.0307786,
+          "lng": 6.410999299999999
+        }
+      },
+      "formatted_address": "Bassa/Kukoki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1274503,6.556988199999999",
+      "google_place_id": "ChIJgZz-hCOYTBARQeM6Wbd3W1w"
+    }
+  },
+  {
+    "id": "338793",
+    "name": "MAGUGA",
+    "registration_area_id": "17219",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/22/03/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17219",
+    "ward_name": "BASSA/KUKOKI",
+    "local_government_id": "558",
+    "local_government_name": "SHIRORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.0595391,
+      "longitude": 6.5246425,
+      "viewport": {
+        "northeast": {
+          "lat": 10.06071672989272,
+          "lng": 6.525563
+        },
+        "southwest": {
+          "lat": 10.05801707010728,
+          "lng": 6.522698
+        }
+      },
+      "formatted_address": "922103, Maguga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0595391,6.5246425",
+      "google_place_id": "ChIJHa4BbwibTBARC3T53b02i9M"
+    }
+  },
+  {
+    "id": "338794",
+    "name": "MASUKU",
+    "registration_area_id": "17219",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/22/03/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17219",
+    "ward_name": "BASSA/KUKOKI",
+    "local_government_id": "558",
+    "local_government_name": "SHIRORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.0977291,
+      "longitude": 6.5551537,
+      "viewport": {
+        "northeast": {
+          "lat": 10.101591,
+          "lng": 6.557157999999999
+        },
+        "southwest": {
+          "lat": 10.0968691,
+          "lng": 6.5523989
+        }
+      },
+      "formatted_address": "921102, Masuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0977291,6.5551537",
+      "google_place_id": "ChIJzczcLiKaTBARNGKpHnvnaqA"
+    }
+  },
+  {
+    "id": "338795",
+    "name": "RUMACHE",
+    "registration_area_id": "17219",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/22/03/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17219",
+    "ward_name": "BASSA/KUKOKI",
+    "local_government_id": "558",
+    "local_government_name": "SHIRORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.06317,
+      "longitude": 6.610084,
+      "viewport": {
+        "northeast": {
+          "lat": 10.06451982989272,
+          "lng": 6.611433829892722
+        },
+        "southwest": {
+          "lat": 10.06182017010728,
+          "lng": 6.608734170107279
+        }
+      },
+      "formatted_address": "7F283J76+728, Rumache, 921102, Bassa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.06317,6.610084",
+      "google_place_id": "ChIJ87rbQYuRTBARbnjn6hdzY9s"
+    }
+  },
+  {
+    "id": "338796",
+    "name": "TUDUN BATURIYA",
+    "registration_area_id": "17219",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/22/03/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17219",
+    "ward_name": "BASSA/KUKOKI",
+    "local_government_id": "558",
+    "local_government_name": "SHIRORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.10388,
+      "longitude": 6.631504,
+      "viewport": {
+        "northeast": {
+          "lat": 10.10522982989272,
+          "lng": 6.632853829892721
+        },
+        "southwest": {
+          "lat": 10.10253017010728,
+          "lng": 6.630154170107277
+        }
+      },
+      "formatted_address": "7F284J3J+HJ2 Tudun Baturiya Bassa /Kukoki shiroro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.10388,6.631504",
+      "google_place_id": "ChIJb0WIEzmXTBAR5irBCJsuvTY"
+    }
+  },
+  {
+    "id": "338797",
+    "name": "TUNGAN GORA",
+    "registration_area_id": "17219",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/22/03/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17219",
+    "ward_name": "BASSA/KUKOKI",
+    "local_government_id": "558",
+    "local_government_name": "SHIRORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1516766,
+      "longitude": 6.6937212,
+      "viewport": {
+        "northeast": {
+          "lat": 10.15288192989272,
+          "lng": 6.694892779892722
+        },
+        "southwest": {
+          "lat": 10.15018227010728,
+          "lng": 6.692193120107278
+        }
+      },
+      "formatted_address": "921102, Tungan Gora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1516766,6.6937212",
+      "google_place_id": "ChIJgTT8M7KVTBARcU0UFKOxCmU"
+    }
+  }
+]
