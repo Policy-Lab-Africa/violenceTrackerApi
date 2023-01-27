@@ -1,0 +1,583 @@
+[
+  {
+    "id": "352227",
+    "name": "NEAR MATANMI MOSQUE",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "29/30/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7665771,
+      "longitude": 4.5820185,
+      "viewport": {
+        "northeast": {
+          "lat": 7.767960779892721,
+          "lng": 4.583396429892721
+        },
+        "southwest": {
+          "lat": 7.765261120107278,
+          "lng": 4.580696770107277
+        }
+      },
+      "formatted_address": "QH8J+JRJ, 230284, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7665771,4.5820185",
+      "google_place_id": "ChIJDQyD8WiJNxARvc-uOGBIBoU"
+    }
+  },
+  {
+    "id": "352228",
+    "name": "13, AGBOYELE STREET",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "29/30/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.766706800000001,
+      "longitude": 4.5673398,
+      "viewport": {
+        "northeast": {
+          "lat": 7.768056629892722,
+          "lng": 4.568689629892721
+        },
+        "southwest": {
+          "lat": 7.765356970107279,
+          "lng": 4.565989970107277
+        }
+      },
+      "formatted_address": "Agboyele St, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.766706800000001,4.5673398",
+      "google_place_id": "ChIJ0RgH5AaINxARIzGULr8vWPU"
+    }
+  },
+  {
+    "id": "352229",
+    "name": "ORI ERU OKE BAALE",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "29/30/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7656885,
+      "longitude": 4.5722698,
+      "viewport": {
+        "northeast": {
+          "lat": 7.767052829892724,
+          "lng": 4.573577279892722
+        },
+        "southwest": {
+          "lat": 7.76435317010728,
+          "lng": 4.570877620107278
+        }
+      },
+      "formatted_address": "QH8C+7WC, Oke Baale Ln, 230284, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7656885,4.5722698",
+      "google_place_id": "ChIJ5ZMWauqJNxARrCBZ3lbtELY"
+    }
+  },
+  {
+    "id": "352230",
+    "name": "12, MATANMI STREET",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "29/30/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "352231",
+    "name": "24,OKOKI IFEDODUN",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "29/30/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "352232",
+    "name": "15, OROKI IFELODUN",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "29/30/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "352233",
+    "name": "12, OKE IMOLE STREET",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "29/30/11/007",
+    "remark": "EXISTING PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7657992,
+      "longitude": 4.5612432,
+      "viewport": {
+        "northeast": {
+          "lat": 7.767074129892721,
+          "lng": 4.562701129892722
+        },
+        "southwest": {
+          "lat": 7.764374470107277,
+          "lng": 4.560001470107278
+        }
+      },
+      "formatted_address": "QH86+8G6, Lajomo Estate, Oke-Onitii, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7657992,4.5612432",
+      "google_place_id": "ChIJM5C9DP6HNxAR8fMQ6QjpMas"
+    }
+  },
+  {
+    "id": "352234",
+    "name": "18, FAGBEMI STREET",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "29/30/11/008",
+    "remark": "EXISTING PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "352235",
+    "name": "ST. ANDREW PRY. SCHOOL",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "29/30/11/009",
+    "remark": "EXISTING PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7687398,
+      "longitude": 4.5722752,
+      "viewport": {
+        "northeast": {
+          "lat": 7.770049079892722,
+          "lng": 4.573758229892722
+        },
+        "southwest": {
+          "lat": 7.767349420107278,
+          "lng": 4.571058570107278
+        }
+      },
+      "formatted_address": "QH9C+FWR, Ifesowape St, 230284, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7687398,4.5722752",
+      "google_place_id": "ChIJZ0T3qh6JNxARDyIQzVHiibs"
+    }
+  },
+  {
+    "id": "352236",
+    "name": "OJUDE-OGA",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "29/30/11/010",
+    "remark": "EXISTING PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.0170988,
+      "longitude": 4.9041064,
+      "viewport": {
+        "northeast": {
+          "lat": 8.018445729892722,
+          "lng": 4.905450329892722
+        },
+        "southwest": {
+          "lat": 8.015746070107278,
+          "lng": 4.902750670107278
+        }
+      },
+      "formatted_address": "2W83+RJQ, ojude oba roundabout, Ila Orangun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0170988,4.9041064",
+      "google_place_id": "ChIJgdt_rOLlNxAR02a1Nbe2SpU"
+    }
+  },
+  {
+    "id": "352237",
+    "name": "OWOLABI STREET OBATEDO",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "29/30/11/011",
+    "remark": "EXISTING PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "352238",
+    "name": "FRONT OF ILE IDI-OKE",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "29/30/11/012",
+    "remark": "EXISTING PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7286765,
+      "longitude": 4.5222674,
+      "viewport": {
+        "northeast": {
+          "lat": 7.73025347989272,
+          "lng": 4.523304229892721
+        },
+        "southwest": {
+          "lat": 7.727553820107277,
+          "lng": 4.520604570107277
+        }
+      },
+      "formatted_address": "PGHC+FW6, 230284, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7286765,4.5222674",
+      "google_place_id": "ChIJVVVVVZWHNxARP75NGdfV558"
+    }
+  },
+  {
+    "id": "352239",
+    "name": "5, FAGBEMI STREET",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "29/30/11/013",
+    "remark": "EXISTING PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "352240",
+    "name": "OPP. 28 FAGBEMI",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "29/30/11/014",
+    "remark": "EXISTING PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "352241",
+    "name": "OKE-IMOLE  I",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "29/30/11/015",
+    "remark": "EXISTING PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7657992,
+      "longitude": 4.5612432,
+      "viewport": {
+        "northeast": {
+          "lat": 7.767074129892721,
+          "lng": 4.562701129892722
+        },
+        "southwest": {
+          "lat": 7.764374470107277,
+          "lng": 4.560001470107278
+        }
+      },
+      "formatted_address": "QH86+8G6, Lajomo Estate, Oke-Onitii, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7657992,4.5612432",
+      "google_place_id": "ChIJM5C9DP6HNxAR8fMQ6QjpMas"
+    }
+  },
+  {
+    "id": "352242",
+    "name": "13, AGBOYELE STREET",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "29/30/11/016",
+    "remark": "EXISTING PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.766706800000001,
+      "longitude": 4.5673398,
+      "viewport": {
+        "northeast": {
+          "lat": 7.768056629892722,
+          "lng": 4.568689629892721
+        },
+        "southwest": {
+          "lat": 7.765356970107279,
+          "lng": 4.565989970107277
+        }
+      },
+      "formatted_address": "Agboyele St, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.766706800000001,4.5673398",
+      "google_place_id": "ChIJ0RgH5AaINxARIzGULr8vWPU"
+    }
+  },
+  {
+    "id": "352243",
+    "name": "L.A. GBEJA",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "29/30/11/017",
+    "remark": "EXISTING PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.764506699999999,
+      "longitude": 4.571132,
+      "viewport": {
+        "northeast": {
+          "lat": 7.76576982989272,
+          "lng": 4.572631379892722
+        },
+        "southwest": {
+          "lat": 7.763070170107277,
+          "lng": 4.569931720107278
+        }
+      },
+      "formatted_address": "Primary School, Gbeja L.A, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.764506699999999,4.571132",
+      "google_place_id": "ChIJ177B4UOJNxARz2pPfk9whKM"
+    }
+  },
+  {
+    "id": "352244",
+    "name": "OKE-IMOLE  II",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "29/30/11/018",
+    "remark": "EXISTING PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7657992,
+      "longitude": 4.5612432,
+      "viewport": {
+        "northeast": {
+          "lat": 7.767074129892721,
+          "lng": 4.562701129892722
+        },
+        "southwest": {
+          "lat": 7.764374470107277,
+          "lng": 4.560001470107278
+        }
+      },
+      "formatted_address": "QH86+8G6, Lajomo Estate, Oke-Onitii, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7657992,4.5612432",
+      "google_place_id": "ChIJM5C9DP6HNxAR8fMQ6QjpMas"
+    }
+  },
+  {
+    "id": "352245",
+    "name": "OGIDAN GRAMMAR SCHOOL, SASA MARKET AREA, OKE-BAALE, OSOGBO",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "29/30/11/019",
+    "remark": "NEW PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.766922999999999,
+      "longitude": 4.5864145,
+      "viewport": {
+        "northeast": {
+          "lat": 7.768019229892722,
+          "lng": 4.587691329892722
+        },
+        "southwest": {
+          "lat": 7.765319570107278,
+          "lng": 4.584991670107278
+        }
+      },
+      "formatted_address": "QH8P+QH7, 230284, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.766922999999999,4.5864145",
+      "google_place_id": "ChIJsat-R3GJNxARoxbHjylyTfI"
+    }
+  },
+  {
+    "id": "352246",
+    "name": "OPEN SPACE, OPP. NIGERIAN  POLICE, OJA-OBA DIVISION , OKE BAALE, OSOGBO",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "29/30/11/020",
+    "remark": "NEW PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7656885,
+      "longitude": 4.5722698,
+      "viewport": {
+        "northeast": {
+          "lat": 7.767052829892724,
+          "lng": 4.573577279892722
+        },
+        "southwest": {
+          "lat": 7.76435317010728,
+          "lng": 4.570877620107278
+        }
+      },
+      "formatted_address": "QH8C+7WC, Oke Baale Ln, 230284, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7656885,4.5722698",
+      "google_place_id": "ChIJ5ZMWauqJNxARrCBZ3lbtELY"
+    }
+  },
+  {
+    "id": "352247",
+    "name": "OPEN SPACE, BOOSERE STREET JUNCTION, AROGUNMASA AREA, OSOGBO",
+    "registration_area_id": "18029",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "29/30/11/021",
+    "remark": "NEW PU",
+    "ward_id": "18029",
+    "ward_name": "BABA KEKERE",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7867545,
+      "longitude": 4.5579964,
+      "viewport": {
+        "northeast": {
+          "lat": 7.788105929892721,
+          "lng": 4.559334929892722
+        },
+        "southwest": {
+          "lat": 7.785406270107277,
+          "lng": 4.556635270107278
+        }
+      },
+      "formatted_address": "32 Agowade, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7867545,4.5579964",
+      "google_place_id": "ChIJF2fahd6HNxAR29D47yRapH8"
+    }
+  }
+]

@@ -1,0 +1,814 @@
+[
+  {
+    "id": "338484",
+    "name": "DISPENSARY KAGARA",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/20/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338485",
+    "name": "GUEST HOUSE KAGARA I",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/20/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1876746,
+      "longitude": 6.2548534,
+      "viewport": {
+        "northeast": {
+          "lat": 10.18895942989272,
+          "lng": 6.256380729892721
+        },
+        "southwest": {
+          "lat": 10.18625977010728,
+          "lng": 6.253681070107277
+        }
+      },
+      "formatted_address": "L2, Kagara/Kaduna Road, Kagara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1876746,6.2548534",
+      "google_place_id": "ChIJef1v9CRnSxAREmZ2ACqABfg"
+    }
+  },
+  {
+    "id": "338486",
+    "name": "GUEST HOUSE KAGARA  II",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/20/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1857143,
+      "longitude": 6.254747,
+      "viewport": {
+        "northeast": {
+          "lat": 10.18710572989272,
+          "lng": 6.255987329892723
+        },
+        "southwest": {
+          "lat": 10.18440607010728,
+          "lng": 6.253287670107279
+        }
+      },
+      "formatted_address": "Gidan Sarkin Kofar Fada's Palace, 922103, Kagara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1857143,6.254747",
+      "google_place_id": "ChIJp2g-4_dnSxAR9kt_JbySraI"
+    }
+  },
+  {
+    "id": "338487",
+    "name": "GIDAN ALI MAI-ANGUWA",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/20/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 12.1656666,
+      "longitude": 6.6602966,
+      "viewport": {
+        "northeast": {
+          "lat": 12.16702372989272,
+          "lng": 6.661705079892721
+        },
+        "southwest": {
+          "lat": 12.16432407010728,
+          "lng": 6.659005420107277
+        }
+      },
+      "formatted_address": "Kanwuri Rd, 632101, Gusau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1656666,6.6602966",
+      "google_place_id": "ChIJJW9STUxbsRER6DcjF5nYOcM"
+    }
+  },
+  {
+    "id": "338488",
+    "name": "GIDAN DANIEL",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/20/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 11.1034638,
+      "longitude": 7.7185215,
+      "viewport": {
+        "northeast": {
+          "lat": 11.10481362989272,
+          "lng": 7.719871329892723
+        },
+        "southwest": {
+          "lat": 11.10211397010728,
+          "lng": 7.717171670107279
+        }
+      },
+      "formatted_address": "1 Manchester Rd, Sabon Gari 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1034638,7.7185215",
+      "google_place_id": "ChIJo58KSMmDshER0o71xrr331c"
+    }
+  },
+  {
+    "id": "338489",
+    "name": "GIDAN GABIJO",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/20/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 12.0152549,
+      "longitude": 8.537201999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.01654282989272,
+          "lng": 8.53855417989272
+        },
+        "southwest": {
+          "lat": 12.01384317010728,
+          "lng": 8.535854520107277
+        }
+      },
+      "formatted_address": "Gidan Niger, 31 Niger Rd, Sabon Gari 700211, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0152549,8.537201999999999",
+      "google_place_id": "ChIJ-1BwYyOBrhERnMSIklPf1IQ"
+    }
+  },
+  {
+    "id": "338490",
+    "name": "GIDAN HASSAN PANGU",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/20/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 12.0156886,
+      "longitude": 8.5335974,
+      "viewport": {
+        "northeast": {
+          "lat": 12.01709162989272,
+          "lng": 8.534946079892723
+        },
+        "southwest": {
+          "lat": 12.01439197010728,
+          "lng": 8.53224642010728
+        }
+      },
+      "formatted_address": "NEAR POLICE, Jakara Road, Sabon Gari 700211, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0156886,8.5335974",
+      "google_place_id": "ChIJQ0jnpUCBrhER-CGAKMyP2JA"
+    }
+  },
+  {
+    "id": "338491",
+    "name": "GIDAN KARMA",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/20/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 13.4,
+      "longitude": 7.566667,
+      "viewport": {
+        "northeast": {
+          "lat": 13.410854,
+          "lng": 7.582674399999999
+        },
+        "southwest": {
+          "lat": 13.3891455,
+          "lng": 7.5506596
+        }
+      },
+      "formatted_address": "Gidan Karma, Niger",
+      "google_map_url": "https://maps.google.com?q=13.4,7.566667",
+      "google_place_id": "ChIJUdyiarMJsBER2crKddVrvzM"
+    }
+  },
+  {
+    "id": "338492",
+    "name": "KOFAR FADA",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "26/20/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 12.1656666,
+      "longitude": 6.6602966,
+      "viewport": {
+        "northeast": {
+          "lat": 12.16702372989272,
+          "lng": 6.661705079892721
+        },
+        "southwest": {
+          "lat": 12.16432407010728,
+          "lng": 6.659005420107277
+        }
+      },
+      "formatted_address": "Kanwuri Rd, 632101, Gusau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1656666,6.6602966",
+      "google_place_id": "ChIJJW9STUxbsRER6DcjF5nYOcM"
+    }
+  },
+  {
+    "id": "338493",
+    "name": "LAFENE PRIMARY SCHOOL",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "26/20/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.2266659,
+      "longitude": 6.401272899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.22801572989273,
+          "lng": 6.402622729892722
+        },
+        "southwest": {
+          "lat": 10.22531607010728,
+          "lng": 6.399923070107278
+        }
+      },
+      "formatted_address": "7F286CG2+MFH Farar Kasa Sabon Gari rafi Niger, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2266659,6.401272899999999",
+      "google_place_id": "ChIJqYJ7pdVfSxAREL0zxSPzUgU"
+    }
+  },
+  {
+    "id": "338494",
+    "name": "P.H.C. KAGARA",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "26/20/08/011",
+    "remark": "EXISTING PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1916036,
+      "longitude": 6.2579221,
+      "viewport": {
+        "northeast": {
+          "lat": 10.19317942989272,
+          "lng": 6.258807629892722
+        },
+        "southwest": {
+          "lat": 10.19047977010728,
+          "lng": 6.256107970107278
+        }
+      },
+      "formatted_address": "57R5+J5V, Kaduna-Birnin Gwari-Kagara Road, 922103, Kagara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1916036,6.2579221",
+      "google_place_id": "ChIJNXbeJjpnSxARNmj7FlM7QIg"
+    }
+  },
+  {
+    "id": "338495",
+    "name": "SABON FADA",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "26/20/08/012",
+    "remark": "EXISTING PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 11.1765614,
+      "longitude": 7.6765157,
+      "viewport": {
+        "northeast": {
+          "lat": 11.2669019,
+          "lng": 7.7824811
+        },
+        "southwest": {
+          "lat": 11.084595,
+          "lng": 7.5708845
+        }
+      },
+      "formatted_address": "Sabon Gari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1765614,7.6765157",
+      "google_place_id": "ChIJ5eXh4r-GshER9WA7OPiYic0"
+    }
+  },
+  {
+    "id": "338496",
+    "name": "SARKIN MAKANGARA",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "26/20/08/013",
+    "remark": "EXISTING PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.2417394,
+      "longitude": 6.2994984,
+      "viewport": {
+        "northeast": {
+          "lat": 10.24308922989272,
+          "lng": 6.300848229892722
+        },
+        "southwest": {
+          "lat": 10.24038957010728,
+          "lng": 6.298148570107278
+        }
+      },
+      "formatted_address": "7F2867RX+MQW Unguwan sarkin fulani, Sabon Gari 922103, Gidan Karauku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2417394,6.2994984",
+      "google_place_id": "ChIJPYsi4YRdSxARi94o2bmwBEo"
+    }
+  },
+  {
+    "id": "338497",
+    "name": "SARKIN OGU",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "26/20/08/014",
+    "remark": "EXISTING PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 12.0264044,
+      "longitude": 8.530985,
+      "viewport": {
+        "northeast": {
+          "lat": 12.02782272989272,
+          "lng": 8.532336479892722
+        },
+        "southwest": {
+          "lat": 12.02512307010728,
+          "lng": 8.529636820107278
+        }
+      },
+      "formatted_address": "Sarkin Yaki Rd, Sabon Gari 700271, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0264044,8.530985",
+      "google_place_id": "ChIJjR8l_GGBrhERSoNK_14tr4M"
+    }
+  },
+  {
+    "id": "338498",
+    "name": "UNG. MA'AJI",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "26/20/08/015",
+    "remark": "EXISTING PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338499",
+    "name": "UNG. BADUKU",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "26/20/08/016",
+    "remark": "EXISTING PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338500",
+    "name": "WAYAM  PRIMARY SCHOOL",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "26/20/08/017",
+    "remark": "EXISTING PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 12.5785803,
+      "longitude": 6.5745395,
+      "viewport": {
+        "northeast": {
+          "lat": 12.57995542989272,
+          "lng": 6.575764179892722
+        },
+        "southwest": {
+          "lat": 12.57725577010728,
+          "lng": 6.573064520107279
+        }
+      },
+      "formatted_address": "HHHF+CRM, 631101, Kaura Namoda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5785803,6.5745395",
+      "google_place_id": "ChIJtbha9IYvsRERu4tSWpOuxpg"
+    }
+  },
+  {
+    "id": "338501",
+    "name": "BORE HOLE GIDAN MINISTAN GERO",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "26/20/08/018",
+    "remark": "NEW PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338502",
+    "name": "KOFAR AUDUN BATTERY",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "26/20/08/019",
+    "remark": "NEW PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 12.0145948,
+      "longitude": 8.5296189,
+      "viewport": {
+        "northeast": {
+          "lat": 12.01594497989272,
+          "lng": 8.530916429892718
+        },
+        "southwest": {
+          "lat": 12.01324532010728,
+          "lng": 8.528216770107274
+        }
+      },
+      "formatted_address": "2G7H+RVM, France Road, Sabon Gari 700211, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0145948,8.5296189",
+      "google_place_id": "ChIJv2g5wSCBrhERn8I6jnGi9zI"
+    }
+  },
+  {
+    "id": "338503",
+    "name": "L.E.A",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "26/20/08/020",
+    "remark": "NEW PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 11.1225113,
+      "longitude": 7.7332556,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12371532989272,
+          "lng": 7.734649629892722
+        },
+        "southwest": {
+          "lat": 11.12101567010728,
+          "lng": 7.731949970107278
+        }
+      },
+      "formatted_address": "4PFM+27H, Sabon Gari 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1225113,7.7332556",
+      "google_place_id": "ChIJIfdy47CDshERni4p1Hv5mv8"
+    }
+  },
+  {
+    "id": "338504",
+    "name": "DADIN KOWA DISPENSARY",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "26/20/08/021",
+    "remark": "NEW PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 12.0152549,
+      "longitude": 8.537201999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.01654282989272,
+          "lng": 8.53855417989272
+        },
+        "southwest": {
+          "lat": 12.01384317010728,
+          "lng": 8.535854520107277
+        }
+      },
+      "formatted_address": "7a, Niger Rd, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0152549,8.537201999999999",
+      "google_place_id": "ChIJj-9kYyOBrhERJMnPm0CGvkA"
+    }
+  },
+  {
+    "id": "338505",
+    "name": "ROUND HEART",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "26/20/08/022",
+    "remark": "NEW PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338506",
+    "name": "SABON ABUJA",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "26/20/08/023",
+    "remark": "NEW PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 11.1231453,
+      "longitude": 7.732164800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.1276918,
+          "lng": 7.7374971
+        },
+        "southwest": {
+          "lat": 11.1183015,
+          "lng": 7.7280879
+        }
+      },
+      "formatted_address": "Sabon Gari, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1231453,7.732164800000001",
+      "google_place_id": "ChIJU3xl6LCDshERAOxxz-ZO5rU"
+    }
+  },
+  {
+    "id": "338507",
+    "name": "UNG. KATSINAWA",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "26/20/08/024",
+    "remark": "NEW PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.722051,
+      "longitude": 6.1112886,
+      "viewport": {
+        "northeast": {
+          "lat": 9.72350047989272,
+          "lng": 6.112644829892721
+        },
+        "southwest": {
+          "lat": 9.720800820107277,
+          "lng": 6.109945170107277
+        }
+      },
+      "formatted_address": "R 10, Minna-Bida Rd, Wushishi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.722051,6.1112886",
+      "google_place_id": "ChIJaWYxdg2ZSxARjdHE_UgE_Mo"
+    }
+  },
+  {
+    "id": "338508",
+    "name": "RAFIN SALELE",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "26/20/08/025",
+    "remark": "NEW PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338509",
+    "name": "BORE HOLE DIN UBALE",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "26/20/08/026",
+    "remark": "NEW PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338510",
+    "name": "UPPER SHARIA",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "26/20/08/027",
+    "remark": "NEW PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 11.0885927,
+      "longitude": 7.7046746,
+      "viewport": {
+        "northeast": {
+          "lat": 11.08994252989272,
+          "lng": 7.706024429892722
+        },
+        "southwest": {
+          "lat": 11.08724287010728,
+          "lng": 7.703324770107278
+        }
+      },
+      "formatted_address": "No. 4 Madarkachi Road, Gaskiya Rd, Layout, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0885927,7.7046746",
+      "google_place_id": "ChIJgzTTIGeDshERbiS1xBNI6aY"
+    }
+  },
+  {
+    "id": "338511",
+    "name": "SABON KASUWA",
+    "registration_area_id": "17202",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "26/20/08/028",
+    "remark": "NEW PU",
+    "ward_id": "17202",
+    "ward_name": "SABON GARI",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 11.1173874,
+      "longitude": 7.7375963,
+      "viewport": {
+        "northeast": {
+          "lat": 11.124151,
+          "lng": 7.74368
+        },
+        "southwest": {
+          "lat": 11.110803,
+          "lng": 7.729982
+        }
+      },
+      "formatted_address": "810103, Sabon Gari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1173874,7.7375963",
+      "google_place_id": "ChIJTbGU562DshERWGC52WvKv1I"
+    }
+  }
+]

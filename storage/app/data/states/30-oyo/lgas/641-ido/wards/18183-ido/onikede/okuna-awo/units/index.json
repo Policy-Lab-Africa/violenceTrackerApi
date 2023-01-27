@@ -1,0 +1,333 @@
+[
+  {
+    "id": "355758",
+    "name": "N.U.D. PRIMARY SCHOOL, IDO",
+    "registration_area_id": "18183",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "30/14/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "18183",
+    "ward_name": "IDO/ONIKEDE/OKUNA AWO",
+    "local_government_id": "641",
+    "local_government_name": "IDO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.405665,
+      "longitude": 3.9119652,
+      "viewport": {
+        "northeast": {
+          "lat": 7.407046679892721,
+          "lng": 3.913357479892722
+        },
+        "southwest": {
+          "lat": 7.404347020107277,
+          "lng": 3.910657820107279
+        }
+      },
+      "formatted_address": "21b Aba Akinjide Rd, Agodi 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.405665,3.9119652",
+      "google_place_id": "ChIJremQtv72ORAR3xAQOBXnhAU"
+    }
+  },
+  {
+    "id": "355759",
+    "name": "COURT HALL, IDO",
+    "registration_area_id": "18183",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "30/14/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "18183",
+    "ward_name": "IDO/ONIKEDE/OKUNA AWO",
+    "local_government_id": "641",
+    "local_government_name": "IDO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4734419,
+      "longitude": 3.7628804,
+      "viewport": {
+        "northeast": {
+          "lat": 7.474594979892723,
+          "lng": 3.764315679892722
+        },
+        "southwest": {
+          "lat": 7.471895320107279,
+          "lng": 3.761616020107278
+        }
+      },
+      "formatted_address": "Ibadan-Eruwa Expy, 200130, Ido, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4734419,3.7628804",
+      "google_place_id": "ChIJm9qZruP1ORAREwwD9A6cXqA"
+    }
+  },
+  {
+    "id": "355760",
+    "name": "ONIKEDE PRIMARY SCHOOL",
+    "registration_area_id": "18183",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "30/14/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "18183",
+    "ward_name": "IDO/ONIKEDE/OKUNA AWO",
+    "local_government_id": "641",
+    "local_government_name": "IDO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.467315,
+      "longitude": 3.756931999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.468653879892722,
+          "lng": 3.757926279892722
+        },
+        "southwest": {
+          "lat": 7.465954220107278,
+          "lng": 3.755226620107278
+        }
+      },
+      "formatted_address": "6FV5FQ84+WQF WARD 8 IDO ido Oyo Igbona, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.467315,3.756931999999999",
+      "google_place_id": "ChIJ-y78WGn1ORARaWHsTm1_Yt4"
+    }
+  },
+  {
+    "id": "355761",
+    "name": "OPEN SPACE, OKUNA AWO",
+    "registration_area_id": "18183",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "30/14/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "18183",
+    "ward_name": "IDO/ONIKEDE/OKUNA AWO",
+    "local_government_id": "641",
+    "local_government_name": "IDO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.476349899999999,
+      "longitude": 3.753666299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.5235172,
+          "lng": 3.7841586
+        },
+        "southwest": {
+          "lat": 7.4242722,
+          "lng": 3.739570099999999
+        }
+      },
+      "formatted_address": "Ido/Onikede/Okuna Awo, 200130, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.476349899999999,3.753666299999999",
+      "google_place_id": "ChIJP6ROV5j1ORARIYKefalkjjc"
+    }
+  },
+  {
+    "id": "355762",
+    "name": "N.U.D PRIMARY SCHOOL  II",
+    "registration_area_id": "18183",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "30/14/08/005",
+    "remark": "NEW PU",
+    "ward_id": "18183",
+    "ward_name": "IDO/ONIKEDE/OKUNA AWO",
+    "local_government_id": "641",
+    "local_government_name": "IDO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4692751,
+      "longitude": 3.756404,
+      "viewport": {
+        "northeast": {
+          "lat": 7.47061917989272,
+          "lng": 3.757627579892721
+        },
+        "southwest": {
+          "lat": 7.467919520107276,
+          "lng": 3.754927920107277
+        }
+      },
+      "formatted_address": "FQ94+PH6, 200130, Igbona, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4692751,3.756404",
+      "google_place_id": "ChIJuR_QXpz1ORARmXC75R-XEFY"
+    }
+  },
+  {
+    "id": "355763",
+    "name": "OPEN SPACE OGUNWENDE,UNDER TREE",
+    "registration_area_id": "18183",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "30/14/08/006",
+    "remark": "NEW PU",
+    "ward_id": "18183",
+    "ward_name": "IDO/ONIKEDE/OKUNA AWO",
+    "local_government_id": "641",
+    "local_government_name": "IDO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355764",
+    "name": "ABEGEDE BESIDE   AS-SALAM BLOCK INDUSTRY",
+    "registration_area_id": "18183",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "30/14/08/007",
+    "remark": "NEW PU",
+    "ward_id": "18183",
+    "ward_name": "IDO/ONIKEDE/OKUNA AWO",
+    "local_government_id": "641",
+    "local_government_name": "IDO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4019982,
+      "longitude": 3.870750499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.403213229892719,
+          "lng": 3.871992879892722
+        },
+        "southwest": {
+          "lat": 7.400513570107275,
+          "lng": 3.869293220107278
+        }
+      },
+      "formatted_address": "CV2C+Q7V, Olohunde estates ologuneru ibadan Zone c olounde estates off eruwa road, Eleyele- Ologuneru Rd, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4019982,3.870750499999999",
+      "google_place_id": "ChIJR-cTHrWNORARJ7Zlv9l23jA"
+    }
+  },
+  {
+    "id": "355765",
+    "name": "OPEN SPACE ,CAN IDO.",
+    "registration_area_id": "18183",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "30/14/08/008",
+    "remark": "NEW PU",
+    "ward_id": "18183",
+    "ward_name": "IDO/ONIKEDE/OKUNA AWO",
+    "local_government_id": "641",
+    "local_government_name": "IDO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.476349899999999,
+      "longitude": 3.753666299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.5235172,
+          "lng": 3.7841586
+        },
+        "southwest": {
+          "lat": 7.4242722,
+          "lng": 3.739570099999999
+        }
+      },
+      "formatted_address": "Ido/Onikede/Okuna Awo, 200130, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.476349899999999,3.753666299999999",
+      "google_place_id": "ChIJP6ROV5j1ORARIYKefalkjjc"
+    }
+  },
+  {
+    "id": "355766",
+    "name": "OPEN SPACE IDO GARAGE",
+    "registration_area_id": "18183",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "30/14/08/009",
+    "remark": "NEW PU",
+    "ward_id": "18183",
+    "ward_name": "IDO/ONIKEDE/OKUNA AWO",
+    "local_government_id": "641",
+    "local_government_name": "IDO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.393623099999999,
+      "longitude": 3.7512949,
+      "viewport": {
+        "northeast": {
+          "lat": 7.395052479892722,
+          "lng": 3.752599729892721
+        },
+        "southwest": {
+          "lat": 7.392352820107278,
+          "lng": 3.749900070107278
+        }
+      },
+      "formatted_address": "9QV2+CGV, 200131, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.393623099999999,3.7512949",
+      "google_place_id": "ChIJ5TRRZwiLORARE5sbm-07u7o"
+    }
+  },
+  {
+    "id": "355767",
+    "name": "OPEN SPACE DADA UNDER TREE",
+    "registration_area_id": "18183",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "30/14/08/010",
+    "remark": "NEW PU",
+    "ward_id": "18183",
+    "ward_name": "IDO/ONIKEDE/OKUNA AWO",
+    "local_government_id": "641",
+    "local_government_name": "IDO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "355768",
+    "name": "OPEN SPACE OKUNA AWO II",
+    "registration_area_id": "18183",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "30/14/08/011",
+    "remark": "NEW PU",
+    "ward_id": "18183",
+    "ward_name": "IDO/ONIKEDE/OKUNA AWO",
+    "local_government_id": "641",
+    "local_government_name": "IDO",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.476349899999999,
+      "longitude": 3.753666299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.5235172,
+          "lng": 3.7841586
+        },
+        "southwest": {
+          "lat": 7.4242722,
+          "lng": 3.739570099999999
+        }
+      },
+      "formatted_address": "Ido/Onikede/Okuna Awo, 200130, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.476349899999999,3.753666299999999",
+      "google_place_id": "ChIJP6ROV5j1ORARIYKefalkjjc"
+    }
+  }
+]

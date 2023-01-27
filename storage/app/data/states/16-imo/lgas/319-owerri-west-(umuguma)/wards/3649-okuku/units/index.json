@@ -1,0 +1,431 @@
+[
+  {
+    "id": "66706",
+    "name": "L.A. SCHOOL AMAPU",
+    "registration_area_id": "3649",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "16/27/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3649",
+    "ward_name": "OKUKU",
+    "local_government_id": "319",
+    "local_government_name": "OWERRI WEST (UMUGUMA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.477510100000001,
+      "longitude": 6.948240299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.478848279892722,
+          "lng": 6.949696279892722
+        },
+        "southwest": {
+          "lat": 5.476148620107278,
+          "lng": 6.946996620107278
+        }
+      },
+      "formatted_address": "FWHX+38C, Amapu Okuku, Owerri West LGA of, Obuogwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.477510100000001,6.948240299999999",
+      "google_place_id": "ChIJv-XZ4BxbQhARWGteoIaRArA"
+    }
+  },
+  {
+    "id": "66707",
+    "name": "COMM. SCHOOL OBOGWU",
+    "registration_area_id": "3649",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "16/27/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3649",
+    "ward_name": "OKUKU",
+    "local_government_id": "319",
+    "local_government_name": "OWERRI WEST (UMUGUMA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.4845204,
+      "longitude": 6.938580699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.485756329892722,
+          "lng": 6.939887429892722
+        },
+        "southwest": {
+          "lat": 5.483056670107278,
+          "lng": 6.937187770107278
+        }
+      },
+      "formatted_address": "FWMQ+RC4, Obogwu market, Okuku Owerri west LGA, Uborji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4845204,6.938580699999999",
+      "google_place_id": "ChIJJV3Cnt5aQhARnOUyqaDNbek"
+    }
+  },
+  {
+    "id": "66708",
+    "name": "PRIMARY SCHOOL UBORJI I",
+    "registration_area_id": "3649",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "16/27/03/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3649",
+    "ward_name": "OKUKU",
+    "local_government_id": "319",
+    "local_government_name": "OWERRI WEST (UMUGUMA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.4845204,
+      "longitude": 6.938580699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.485756329892722,
+          "lng": 6.939887429892722
+        },
+        "southwest": {
+          "lat": 5.483056670107278,
+          "lng": 6.937187770107278
+        }
+      },
+      "formatted_address": "FWMQ+RC4, Obogwu market, Okuku Owerri west LGA, Uborji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4845204,6.938580699999999",
+      "google_place_id": "ChIJJV3Cnt5aQhARnOUyqaDNbek"
+    }
+  },
+  {
+    "id": "66709",
+    "name": "MGBOLO VILLAGE SQUARE",
+    "registration_area_id": "3649",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "16/27/03/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3649",
+    "ward_name": "OKUKU",
+    "local_government_id": "319",
+    "local_government_name": "OWERRI WEST (UMUGUMA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.4802241,
+      "longitude": 6.917806,
+      "viewport": {
+        "northeast": {
+          "lat": 5.481556379892722,
+          "lng": 6.919194579892722
+        },
+        "southwest": {
+          "lat": 5.478856720107278,
+          "lng": 6.916494920107279
+        }
+      },
+      "formatted_address": "FWJ9+34M, 460117, Okuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4802241,6.917806",
+      "google_place_id": "ChIJAQAAcNVEQhARQDYoDW6oEOo"
+    }
+  },
+  {
+    "id": "66710",
+    "name": "CENTRAL SCHOOL OKUKU",
+    "registration_area_id": "3649",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "16/27/03/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3649",
+    "ward_name": "OKUKU",
+    "local_government_id": "319",
+    "local_government_name": "OWERRI WEST (UMUGUMA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.474688599999999,
+      "longitude": 6.951291700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.476060229892722,
+          "lng": 6.952642279892721
+        },
+        "southwest": {
+          "lat": 5.473360570107278,
+          "lng": 6.949942620107278
+        }
+      },
+      "formatted_address": "FXF2+VGF, Amapu Okuku, Owerri West LGA of, Obuogwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.474688599999999,6.951291700000001",
+      "google_place_id": "ChIJI4W8qMZbQhAR2aL16a9KVkc"
+    }
+  },
+  {
+    "id": "66711",
+    "name": "ODUGA/UMUGORI MARKET SQUARE",
+    "registration_area_id": "3649",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "16/27/03/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3649",
+    "ward_name": "OKUKU",
+    "local_government_id": "319",
+    "local_government_name": "OWERRI WEST (UMUGUMA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.4802241,
+      "longitude": 6.917806,
+      "viewport": {
+        "northeast": {
+          "lat": 5.481556379892722,
+          "lng": 6.919194579892722
+        },
+        "southwest": {
+          "lat": 5.478856720107278,
+          "lng": 6.916494920107279
+        }
+      },
+      "formatted_address": "FWJ9+34M, 460117, Okuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4802241,6.917806",
+      "google_place_id": "ChIJAQAAcNVEQhARQDYoDW6oEOo"
+    }
+  },
+  {
+    "id": "66712",
+    "name": "PRIMARY SCHOOL UBORJI II",
+    "registration_area_id": "3649",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "16/27/03/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3649",
+    "ward_name": "OKUKU",
+    "local_government_id": "319",
+    "local_government_name": "OWERRI WEST (UMUGUMA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.4845204,
+      "longitude": 6.938580699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.485756329892722,
+          "lng": 6.939887429892722
+        },
+        "southwest": {
+          "lat": 5.483056670107278,
+          "lng": 6.937187770107278
+        }
+      },
+      "formatted_address": "FWMQ+RC4, Obogwu market, Okuku Owerri west LGA, Uborji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4845204,6.938580699999999",
+      "google_place_id": "ChIJJV3Cnt5aQhARnOUyqaDNbek"
+    }
+  },
+  {
+    "id": "66713",
+    "name": "ARA SEC SCH OKUKU",
+    "registration_area_id": "3649",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "16/27/03/008",
+    "remark": "NEW PU",
+    "ward_id": "3649",
+    "ward_name": "OKUKU",
+    "local_government_id": "319",
+    "local_government_name": "OWERRI WEST (UMUGUMA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.474688599999999,
+      "longitude": 6.951291700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.476060229892722,
+          "lng": 6.952642279892721
+        },
+        "southwest": {
+          "lat": 5.473360570107278,
+          "lng": 6.949942620107278
+        }
+      },
+      "formatted_address": "FXF2+VGF, Amapu Okuku, Owerri West LGA of, Obuogwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.474688599999999,6.951291700000001",
+      "google_place_id": "ChIJI4W8qMZbQhAR2aL16a9KVkc"
+    }
+  },
+  {
+    "id": "66714",
+    "name": "UMUOKEH VILL SQ",
+    "registration_area_id": "3649",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "16/27/03/009",
+    "remark": "NEW PU",
+    "ward_id": "3649",
+    "ward_name": "OKUKU",
+    "local_government_id": "319",
+    "local_government_name": "OWERRI WEST (UMUGUMA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.479137199999999,
+      "longitude": 6.9189009,
+      "viewport": {
+        "northeast": {
+          "lat": 5.484924100000001,
+          "lng": 6.920769099999999
+        },
+        "southwest": {
+          "lat": 5.4725709,
+          "lng": 6.916324
+        }
+      },
+      "formatted_address": "460117, Okuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.479137199999999,6.9189009",
+      "google_place_id": "ChIJCYTDxitFQhARS6U9urGLqy8"
+    }
+  },
+  {
+    "id": "66715",
+    "name": "OBI UMUOGBOGA UBORJI",
+    "registration_area_id": "3649",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "16/27/03/010",
+    "remark": "NEW PU",
+    "ward_id": "3649",
+    "ward_name": "OKUKU",
+    "local_government_id": "319",
+    "local_government_name": "OWERRI WEST (UMUGUMA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.4845204,
+      "longitude": 6.938580699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.485756329892722,
+          "lng": 6.939887429892722
+        },
+        "southwest": {
+          "lat": 5.483056670107278,
+          "lng": 6.937187770107278
+        }
+      },
+      "formatted_address": "FWMQ+RC4, Obogwu market, Okuku Owerri west LGA, Uborji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4845204,6.938580699999999",
+      "google_place_id": "ChIJJV3Cnt5aQhARnOUyqaDNbek"
+    }
+  },
+  {
+    "id": "66716",
+    "name": "AMA UMUEHE VILL SQ. MGBOLO",
+    "registration_area_id": "3649",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "16/27/03/011",
+    "remark": "NEW PU",
+    "ward_id": "3649",
+    "ward_name": "OKUKU",
+    "local_government_id": "319",
+    "local_government_name": "OWERRI WEST (UMUGUMA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.4802241,
+      "longitude": 6.917806,
+      "viewport": {
+        "northeast": {
+          "lat": 5.481556379892722,
+          "lng": 6.919194579892722
+        },
+        "southwest": {
+          "lat": 5.478856720107278,
+          "lng": 6.916494920107279
+        }
+      },
+      "formatted_address": "FWJ9+34M, 460117, Okuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4802241,6.917806",
+      "google_place_id": "ChIJAQAAcNVEQhARQDYoDW6oEOo"
+    }
+  },
+  {
+    "id": "66717",
+    "name": "AMA UMOKE VILL SQ. UMUOKIRI OKUKU",
+    "registration_area_id": "3649",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "16/27/03/012",
+    "remark": "NEW PU",
+    "ward_id": "3649",
+    "ward_name": "OKUKU",
+    "local_government_id": "319",
+    "local_government_name": "OWERRI WEST (UMUGUMA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.4802241,
+      "longitude": 6.917806,
+      "viewport": {
+        "northeast": {
+          "lat": 5.481556379892722,
+          "lng": 6.919194579892722
+        },
+        "southwest": {
+          "lat": 5.478856720107278,
+          "lng": 6.916494920107279
+        }
+      },
+      "formatted_address": "FWJ9+34M, 460117, Okuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4802241,6.917806",
+      "google_place_id": "ChIJAQAAcNVEQhARQDYoDW6oEOo"
+    }
+  },
+  {
+    "id": "66718",
+    "name": "IBARI OBIEZE UMUNGORI UMUOKIRE",
+    "registration_area_id": "3649",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "16/27/03/013",
+    "remark": "NEW PU",
+    "ward_id": "3649",
+    "ward_name": "OKUKU",
+    "local_government_id": "319",
+    "local_government_name": "OWERRI WEST (UMUGUMA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.5096455,
+      "longitude": 7.0390904,
+      "viewport": {
+        "northeast": {
+          "lat": 5.511005629892722,
+          "lng": 7.040414079892722
+        },
+        "southwest": {
+          "lat": 5.508305970107278,
+          "lng": 7.037714420107278
+        }
+      },
+      "formatted_address": "West,, Owerri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5096455,7.0390904",
+      "google_place_id": "ChIJ2Sn4xqdbQhAR5XjmRYCnyk0"
+    }
+  }
+]

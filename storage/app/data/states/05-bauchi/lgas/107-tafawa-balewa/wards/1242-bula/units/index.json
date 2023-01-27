@@ -1,0 +1,663 @@
+[
+  {
+    "id": "22674",
+    "name": "JAMBIL,   JAMBIL PRIMARY SCHOOL",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "05/17/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "22675",
+    "name": "TENAM,   KOFAR SARKI",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "05/17/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
+  },
+  {
+    "id": "22676",
+    "name": "LATANGAL,   KOFAR SARKI",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "05/17/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.7560479,
+      "longitude": 9.556221899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.7807581,
+          "lng": 9.568546
+        },
+        "southwest": {
+          "lat": 9.7493689,
+          "lng": 9.534934999999999
+        }
+      },
+      "formatted_address": "741102, Tafawa Balewa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.7560479,9.556221899999999",
+      "google_place_id": "ChIJKdQ0o-ZfVBARe4hN81oru7Y"
+    }
+  },
+  {
+    "id": "22677",
+    "name": "TALKWASHAK,   KOFAR SARKI",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "05/17/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
+  },
+  {
+    "id": "22678",
+    "name": "WURO JABAN,   KOFAR SARKI",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "05/17/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
+  },
+  {
+    "id": "22679",
+    "name": "GITAL I,   GITAL PRIMARY SCHOOL",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "05/17/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.1068281,
+      "longitude": 9.6595649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.10837747989272,
+          "lng": 9.660903629892722
+        },
+        "southwest": {
+          "lat": 10.10567782010728,
+          "lng": 9.658203970107278
+        }
+      },
+      "formatted_address": "Bauchi-Tafawa Balewa Rd, 740102, Lugge, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1068281,9.6595649",
+      "google_place_id": "ChIJh8hk0dzpVBARryN4-iyq56s"
+    }
+  },
+  {
+    "id": "22680",
+    "name": "GITAL   II,   GITAL PRIMARY SCHOOL",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "05/17/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.7907449,
+      "longitude": 9.6025831,
+      "viewport": {
+        "northeast": {
+          "lat": 9.792132429892723,
+          "lng": 9.60394882989272
+        },
+        "southwest": {
+          "lat": 9.789432770107279,
+          "lng": 9.601249170107277
+        }
+      },
+      "formatted_address": "QJR3+72W, local, government area 741102, Tafawa Balewa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.7907449,9.6025831",
+      "google_place_id": "ChIJZ2-YpY1fVBARmZxq_OSkwe4"
+    }
+  },
+  {
+    "id": "22681",
+    "name": "GITAL   III,   GITAL PRIMARY SCHOOL",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "05/17/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.1068281,
+      "longitude": 9.6595649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.10837747989272,
+          "lng": 9.660903629892722
+        },
+        "southwest": {
+          "lat": 10.10567782010728,
+          "lng": 9.658203970107278
+        }
+      },
+      "formatted_address": "Bauchi-Tafawa Balewa Rd, 740102, Lugge, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1068281,9.6595649",
+      "google_place_id": "ChIJh8hk0dzpVBARryN4-iyq56s"
+    }
+  },
+  {
+    "id": "22682",
+    "name": "YAMGAN,   YAMGAN  PRIMARY SCHOOL",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "05/17/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.813988499999999,
+      "longitude": 9.5423019,
+      "viewport": {
+        "northeast": {
+          "lat": 9.815338329892722,
+          "lng": 9.543651729892721
+        },
+        "southwest": {
+          "lat": 9.812638670107278,
+          "lng": 9.540952070107277
+        }
+      },
+      "formatted_address": "RG7R+HWV, 741102, Tafawa Balewa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.813988499999999,9.5423019",
+      "google_place_id": "ChIJ850AViqLVBARchiAuGL1Vws"
+    }
+  },
+  {
+    "id": "22683",
+    "name": "YALWAN SAYAWA,     PRIMARY SCHOOL",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "05/17/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3323402,
+      "longitude": 9.8266861,
+      "viewport": {
+        "northeast": {
+          "lat": 10.33366502989272,
+          "lng": 9.828016829892723
+        },
+        "southwest": {
+          "lat": 10.33096537010728,
+          "lng": 9.82531717010728
+        }
+      },
+      "formatted_address": "Barrack Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3323402,9.8266861",
+      "google_place_id": "ChIJOYPW4T7XVBARJ_rbq-mLZZo"
+    }
+  },
+  {
+    "id": "22684",
+    "name": "PEKMAN,   KOFAR SARKI",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "05/17/08/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
+  },
+  {
+    "id": "22685",
+    "name": "SHALL,   SHALL PRIMARY SCHOOL",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "05/17/08/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.179334,
+      "longitude": 9.699277,
+      "viewport": {
+        "northeast": {
+          "lat": 10.18070327989272,
+          "lng": 9.700601929892724
+        },
+        "southwest": {
+          "lat": 10.17800362010728,
+          "lng": 9.697902270107278
+        }
+      },
+      "formatted_address": "5MHX+PPJ, Bauchi-Tafawa Balewa Rd, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.179334,9.699277",
+      "google_place_id": "ChIJOWGxvBXDVBARH37DqZW7mmE"
+    }
+  },
+  {
+    "id": "22686",
+    "name": "FULANIN KABBA,   SHALL DISPENSARY",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "05/17/08/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.6167,
+      "longitude": 9.416699999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.61804982989272,
+          "lng": 9.418049829892723
+        },
+        "southwest": {
+          "lat": 9.615350170107277,
+          "lng": 9.41535017010728
+        }
+      },
+      "formatted_address": "JC88+MMG, 741102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6167,9.416699999999999",
+      "google_place_id": "ChIJ91rYV59lVBARHMab6E2B_iU"
+    }
+  },
+  {
+    "id": "22687",
+    "name": "BUNDOT,   KOFAR SARKI",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "05/17/08/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
+  },
+  {
+    "id": "22688",
+    "name": "BULA,   BULA DISPENSARY",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "05/17/08/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.820950999999999,
+      "longitude": 9.6007348,
+      "viewport": {
+        "northeast": {
+          "lat": 9.911126699999999,
+          "lng": 9.6485401
+        },
+        "southwest": {
+          "lat": 9.747327,
+          "lng": 9.5028062
+        }
+      },
+      "formatted_address": "Bula B, 741102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.820950999999999,9.6007348",
+      "google_place_id": "ChIJBQRUTez0VBAREYS5NYG9v7c"
+    }
+  },
+  {
+    "id": "22689",
+    "name": "JAMBIL II",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "05/17/08/016",
+    "remark": "NEW PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.9735857,
+      "longitude": 9.6675486,
+      "viewport": {
+        "northeast": {
+          "lat": 10.0343388,
+          "lng": 9.792824699999999
+        },
+        "southwest": {
+          "lat": 9.9261013,
+          "lng": 9.5753252
+        }
+      },
+      "formatted_address": "Bula A, 741102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9735857,9.6675486",
+      "google_place_id": "ChIJreH83qvvVBARuqIbYnPHYFY"
+    }
+  },
+  {
+    "id": "22690",
+    "name": "GITAL NOMADIC",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "05/17/08/017",
+    "remark": "NEW PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3186111,
+      "longitude": 9.8461111,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31997317989272,
+          "lng": 9.847288079892722
+        },
+        "southwest": {
+          "lat": 10.31727352010728,
+          "lng": 9.844588420107279
+        }
+      },
+      "formatted_address": "8R9W+CCX, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3186111,9.8461111",
+      "google_place_id": "ChIJ_zH7LhbXVBAR94gwzDGjDX4"
+    }
+  },
+  {
+    "id": "22691",
+    "name": "GITAL PHC",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "05/17/08/018",
+    "remark": "NEW PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.31938,
+      "longitude": 9.828172,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32069917989272,
+          "lng": 9.82951487989272
+        },
+        "southwest": {
+          "lat": 10.31799952010728,
+          "lng": 9.826815220107276
+        }
+      },
+      "formatted_address": "1, Hospital Road, Yandoka Street, Bauchi BAU Nigeria, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.31938,9.828172",
+      "google_place_id": "ChIJZ9SNCkLXVBAR4-vYkr_PpOM"
+    }
+  },
+  {
+    "id": "22692",
+    "name": "YOLAN GITAL",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "05/17/08/019",
+    "remark": "NEW PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "22693",
+    "name": "TUDUN WADA",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "05/17/08/020",
+    "remark": "NEW PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.7560479,
+      "longitude": 9.556221899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.7807581,
+          "lng": 9.568546
+        },
+        "southwest": {
+          "lat": 9.7493689,
+          "lng": 9.534934999999999
+        }
+      },
+      "formatted_address": "741102, Tafawa Balewa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.7560479,9.556221899999999",
+      "google_place_id": "ChIJKdQ0o-ZfVBARe4hN81oru7Y"
+    }
+  },
+  {
+    "id": "22694",
+    "name": "BULA II",
+    "registration_area_id": "1242",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "05/17/08/021",
+    "remark": "NEW PU",
+    "ward_id": "1242",
+    "ward_name": "BULA",
+    "local_government_id": "107",
+    "local_government_name": "TAFAWA BALEWA",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.820950999999999,
+      "longitude": 9.6007348,
+      "viewport": {
+        "northeast": {
+          "lat": 9.911126699999999,
+          "lng": 9.6485401
+        },
+        "southwest": {
+          "lat": 9.747327,
+          "lng": 9.5028062
+        }
+      },
+      "formatted_address": "Bula B, 741102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.820950999999999,9.6007348",
+      "google_place_id": "ChIJBQRUTez0VBAREYS5NYG9v7c"
+    }
+  }
+]

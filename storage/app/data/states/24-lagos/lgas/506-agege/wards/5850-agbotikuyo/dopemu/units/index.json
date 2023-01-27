@@ -1,0 +1,2989 @@
+[
+  {
+    "id": "112052",
+    "name": "12, OPE-OLU STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "24/01/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6214939,
+      "longitude": 3.3075372,
+      "viewport": {
+        "northeast": {
+          "lat": 6.622852279892722,
+          "lng": 3.308847179892723
+        },
+        "southwest": {
+          "lat": 6.620152620107278,
+          "lng": 3.306147520107278
+        }
+      },
+      "formatted_address": "12 Opeolu St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6214939,3.3075372",
+      "google_place_id": "ChIJ_QYluBqROxARl0DSqLd4W6o"
+    }
+  },
+  {
+    "id": "112053",
+    "name": "10, OPE-OLU STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "24/01/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6214622,
+      "longitude": 3.3075283,
+      "viewport": {
+        "northeast": {
+          "lat": 6.622821179892721,
+          "lng": 3.308839529892722
+        },
+        "southwest": {
+          "lat": 6.620121520107277,
+          "lng": 3.306139870107278
+        }
+      },
+      "formatted_address": "10 Opeolu St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6214622,3.3075283",
+      "google_place_id": "ChIJqY4fuBqROxARbwt9TtIC6Do"
+    }
+  },
+  {
+    "id": "112054",
+    "name": "OYEWOLE ROAD I",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "24/01/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6209815,
+      "longitude": 3.3063755,
+      "viewport": {
+        "northeast": {
+          "lat": 6.63036305000005,
+          "lng": 3.308536549999999
+        },
+        "southwest": {
+          "lat": 6.611684449999948,
+          "lng": 3.30453875
+        }
+      },
+      "formatted_address": "Oyewole Road, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6209815,3.3063755",
+      "google_place_id": "EitPeWV3b2xlIFJvYWQsIE1hZ2JvbiAxMDIyMTIsIEFnZWdlLCBOaWdlcmlhIi4qLAoUChIJTxuo0xqROxAR7mETqSxOfOQSFAoSCVFYqUIPkTsQESb_EuuTUvZM"
+    }
+  },
+  {
+    "id": "112055",
+    "name": "OYEWOLE ROAD II",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "24/01/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6252948,
+      "longitude": 3.3133543,
+      "viewport": {
+        "northeast": {
+          "lat": 6.626658279892722,
+          "lng": 3.314668229892722
+        },
+        "southwest": {
+          "lat": 6.623958620107278,
+          "lng": 3.311968570107278
+        }
+      },
+      "formatted_address": "Dopemu Rd, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6252948,3.3133543",
+      "google_place_id": "ChIJTzkwWhGROxAR-BpHgoCCi8w"
+    }
+  },
+  {
+    "id": "112056",
+    "name": "15, OPAWALE STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "24/01/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.617708599999999,
+      "longitude": 3.3066763,
+      "viewport": {
+        "northeast": {
+          "lat": 6.619151329892721,
+          "lng": 3.308048229892722
+        },
+        "southwest": {
+          "lat": 6.616451670107277,
+          "lng": 3.305348570107277
+        }
+      },
+      "formatted_address": "15 Opawale St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.617708599999999,3.3066763",
+      "google_place_id": "EiwxNSBPcGF3YWxlIFN0LCBNYWdib24gMTAyMjEyLCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCX0J_aoFkTsQEeL94Bxy3OCkEA8qFAoSCXclQ6kFkTsQEYR7mWpxbj9X"
+    }
+  },
+  {
+    "id": "112057",
+    "name": "13, OPAWALE STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "24/01/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.617787100000001,
+      "longitude": 3.3066947,
+      "viewport": {
+        "northeast": {
+          "lat": 6.619190629892723,
+          "lng": 3.308057429892723
+        },
+        "southwest": {
+          "lat": 6.616490970107279,
+          "lng": 3.305357770107278
+        }
+      },
+      "formatted_address": "13 Opawale St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.617787100000001,3.3066947",
+      "google_place_id": "ChIJx8E0rwWROxAR80rRH7TRABQ"
+    }
+  },
+  {
+    "id": "112058",
+    "name": "18, BOLA-AYENI STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "24/01/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.625302899999999,
+      "longitude": 3.309923,
+      "viewport": {
+        "northeast": {
+          "lat": 6.62665272989272,
+          "lng": 3.311272829892722
+        },
+        "southwest": {
+          "lat": 6.623953070107276,
+          "lng": 3.308573170107278
+        }
+      },
+      "formatted_address": "18 Bola Ayeni St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.625302899999999,3.309923",
+      "google_place_id": "Ei8xOCBCb2xhIEF5ZW5pIFN0LCBNYWdib24gMTAyMjEyLCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCbdzSMUQkTsQEWhu-xIqls71EBIqFAoSCSvhf7gQkTsQEdcl1R7M8sSR"
+    }
+  },
+  {
+    "id": "112059",
+    "name": "BOLA-AYENI/MULERO JUNCTION",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "24/01/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6249921,
+      "longitude": 3.3078117,
+      "viewport": {
+        "northeast": {
+          "lat": 6.626341929892722,
+          "lng": 3.309161529892723
+        },
+        "southwest": {
+          "lat": 6.623642270107278,
+          "lng": 3.306461870107278
+        }
+      },
+      "formatted_address": "Mulero St & Bola Ayeni St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6249921,3.3078117",
+      "google_place_id": "EjhNdWxlcm8gU3QgJiBCb2xhIEF5ZW5pIFN0LCBNYWdib24gMTAyMjEyLCBBZ2VnZSwgTmlnZXJpYSJmImQKFAoSCRndpxMakTsQERK02dWB6OmbEhQKEgkZ3acTGpE7EBEStNnVgejpmxoUChIJAUlJxxqROxARleB7iFLsv-0aFAoSCSvhf7gQkTsQEdcl1R7M8sSRIgoNweTyAxVlu_gB"
+    }
+  },
+  {
+    "id": "112060",
+    "name": "13, EGBATEDO STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "24/01/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6249617,
+      "longitude": 3.3110308,
+      "viewport": {
+        "northeast": {
+          "lat": 6.626221079892721,
+          "lng": 3.312397129892722
+        },
+        "southwest": {
+          "lat": 6.623521420107277,
+          "lng": 3.309697470107277
+        }
+      },
+      "formatted_address": "13 Egbatedo St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6249617,3.3110308",
+      "google_place_id": "Ei0xMyBFZ2JhdGVkbyBTdCwgTWFnYm9uIDEwMjIxMiwgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEgkZPxToEJE7EBFmVTGf6CbNEBANKhQKEgmFuPiWEJE7EBE_BaBYijN3UA"
+    }
+  },
+  {
+    "id": "112061",
+    "name": "11, EGBATEDO STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "24/01/04/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.624962399999999,
+      "longitude": 3.3110572,
+      "viewport": {
+        "northeast": {
+          "lat": 6.626223729892723,
+          "lng": 3.312423229892722
+        },
+        "southwest": {
+          "lat": 6.623524070107279,
+          "lng": 3.309723570107277
+        }
+      },
+      "formatted_address": "11 Egbatedo St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.624962399999999,3.3110572",
+      "google_place_id": "ChIJM8mr3xCROxARnbl5WvcDnDk"
+    }
+  },
+  {
+    "id": "112062",
+    "name": "81, OLA-IYA STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "24/01/04/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6013332,
+      "longitude": 3.2929559,
+      "viewport": {
+        "northeast": {
+          "lat": 6.602683029892722,
+          "lng": 3.294305729892722
+        },
+        "southwest": {
+          "lat": 6.599983370107278,
+          "lng": 3.291606070107278
+        }
+      },
+      "formatted_address": "81 Olaiya St, Alimosho 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6013332,3.2929559",
+      "google_place_id": "Ei04MSBPbGFpeWEgU3QsIEFsaW1vc2hvIDEwMjIxMywgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEgmLlXeSUZA7EBGNPR5YCf0Z-xBRKhQKEgnNF-zEUZA7EBGcwjp5P5JLoA"
+    }
+  },
+  {
+    "id": "112063",
+    "name": "79, OLA-IYA STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "24/01/04/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6013332,
+      "longitude": 3.2929559,
+      "viewport": {
+        "northeast": {
+          "lat": 6.602683029892722,
+          "lng": 3.294305729892722
+        },
+        "southwest": {
+          "lat": 6.599983370107278,
+          "lng": 3.291606070107278
+        }
+      },
+      "formatted_address": "79 Olaiya St, Alimosho 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6013332,3.2929559",
+      "google_place_id": "Ei03OSBPbGFpeWEgU3QsIEFsaW1vc2hvIDEwMjIxMywgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEgmLlXeSUZA7EBGNPR5YCf0Z-xBPKhQKEgnNF-zEUZA7EBGcwjp5P5JLoA"
+    }
+  },
+  {
+    "id": "112064",
+    "name": "8, FASHOLA STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "24/01/04/013",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.623919799999999,
+      "longitude": 3.3120144,
+      "viewport": {
+        "northeast": {
+          "lat": 6.625152929892722,
+          "lng": 3.313352879892722
+        },
+        "southwest": {
+          "lat": 6.622453270107278,
+          "lng": 3.310653220107277
+        }
+      },
+      "formatted_address": "8 Fashola St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.623919799999999,3.3120144",
+      "google_place_id": "ChIJI_DVDhGROxARZkwwI2N6Wys"
+    }
+  },
+  {
+    "id": "112065",
+    "name": "26, FASHOLA STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "24/01/04/014",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.624255199999999,
+      "longitude": 3.3108606,
+      "viewport": {
+        "northeast": {
+          "lat": 6.625481129892722,
+          "lng": 3.312178329892722
+        },
+        "southwest": {
+          "lat": 6.622781470107278,
+          "lng": 3.309478670107277
+        }
+      },
+      "formatted_address": "26 Fashola St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.624255199999999,3.3108606",
+      "google_place_id": "ChIJkQeG5BCROxARId6ZfCdatho"
+    }
+  },
+  {
+    "id": "112066",
+    "name": "207, IPAJA ROAD",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "24/01/04/015",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.625991,
+      "longitude": 3.3101,
+      "viewport": {
+        "northeast": {
+          "lat": 6.627307379892723,
+          "lng": 3.311452629892722
+        },
+        "southwest": {
+          "lat": 6.624607720107279,
+          "lng": 3.308752970107278
+        }
+      },
+      "formatted_address": "207 Ipaja Rd, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.625991,3.3101",
+      "google_place_id": "ChIJ7zMdyxCROxAR-B6xUvdYBhU"
+    }
+  },
+  {
+    "id": "112067",
+    "name": "7, EBUN STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "24/01/04/016",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6230029,
+      "longitude": 3.3111752,
+      "viewport": {
+        "northeast": {
+          "lat": 6.624436329892721,
+          "lng": 3.312547679892722
+        },
+        "southwest": {
+          "lat": 6.621736670107278,
+          "lng": 3.309848020107278
+        }
+      },
+      "formatted_address": "7 Ebun St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6230029,3.3111752",
+      "google_place_id": "ChIJk1UtUxCROxAROrf9z8d8Fyk"
+    }
+  },
+  {
+    "id": "112068",
+    "name": "2, KUSORO STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "24/01/04/017",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6252948,
+      "longitude": 3.3133543,
+      "viewport": {
+        "northeast": {
+          "lat": 6.626658279892722,
+          "lng": 3.314668229892722
+        },
+        "southwest": {
+          "lat": 6.623958620107278,
+          "lng": 3.311968570107278
+        }
+      },
+      "formatted_address": "Dopemu Rd, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6252948,3.3133543",
+      "google_place_id": "ChIJTzkwWhGROxAR-BpHgoCCi8w"
+    }
+  },
+  {
+    "id": "112069",
+    "name": "4, KUSORO STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "24/01/04/018",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6252948,
+      "longitude": 3.3133543,
+      "viewport": {
+        "northeast": {
+          "lat": 6.626658279892722,
+          "lng": 3.314668229892722
+        },
+        "southwest": {
+          "lat": 6.623958620107278,
+          "lng": 3.311968570107278
+        }
+      },
+      "formatted_address": "Dopemu Rd, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6252948,3.3133543",
+      "google_place_id": "ChIJTzkwWhGROxAR-BpHgoCCi8w"
+    }
+  },
+  {
+    "id": "112070",
+    "name": "19, KAREEM-BABATUNDE STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "24/01/04/019",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.620494799999999,
+      "longitude": 3.3123158,
+      "viewport": {
+        "northeast": {
+          "lat": 6.621848779892722,
+          "lng": 3.313594829892722
+        },
+        "southwest": {
+          "lat": 6.619149120107278,
+          "lng": 3.310895170107277
+        }
+      },
+      "formatted_address": "19 Kareem Babatunde St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.620494799999999,3.3123158",
+      "google_place_id": "ChIJXdaTIQ6ROxARYiI0KNPesW4"
+    }
+  },
+  {
+    "id": "112071",
+    "name": "165, IPAJA ROAD",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "24/01/04/020",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6255792,
+      "longitude": 3.3123158,
+      "viewport": {
+        "northeast": {
+          "lat": 6.626980379892722,
+          "lng": 3.313711029892722
+        },
+        "southwest": {
+          "lat": 6.624280720107278,
+          "lng": 3.311011370107277
+        }
+      },
+      "formatted_address": "165 Ipaja Rd, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6255792,3.3123158",
+      "google_place_id": "ChIJQcatNxGROxARs9Nw9w_2fzQ"
+    }
+  },
+  {
+    "id": "112072",
+    "name": "29, DOPEMU ROAD",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "24/01/04/021",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.622514199999999,
+      "longitude": 3.3125958,
+      "viewport": {
+        "northeast": {
+          "lat": 6.623872229892721,
+          "lng": 3.314019629892722
+        },
+        "southwest": {
+          "lat": 6.621172570107277,
+          "lng": 3.311319970107278
+        }
+      },
+      "formatted_address": "29 Dopemu Rd, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.622514199999999,3.3125958",
+      "google_place_id": "ChIJ4R9elhGROxAR2iOiSwJq6UU"
+    }
+  },
+  {
+    "id": "112073",
+    "name": "117, DOPEMU ROAD",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "24/01/04/022",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.616830299999999,
+      "longitude": 3.3125906,
+      "viewport": {
+        "northeast": {
+          "lat": 6.618158729892722,
+          "lng": 3.314023729892722
+        },
+        "southwest": {
+          "lat": 6.615459070107278,
+          "lng": 3.311324070107278
+        }
+      },
+      "formatted_address": "117 Dopemu Rd, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.616830299999999,3.3125906",
+      "google_place_id": "ChIJ0Qt6lQ6ROxARn-4ppgXbruE"
+    }
+  },
+  {
+    "id": "112074",
+    "name": "59, DOPEMU ROAD",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "24/01/04/023",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.620467499999999,
+      "longitude": 3.3127299,
+      "viewport": {
+        "northeast": {
+          "lat": 6.621813429892721,
+          "lng": 3.314140529892722
+        },
+        "southwest": {
+          "lat": 6.619113770107277,
+          "lng": 3.311440870107278
+        }
+      },
+      "formatted_address": "59 Dopemu Rd, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.620467499999999,3.3127299",
+      "google_place_id": "ChIJFZsX4RGROxARui5SKJmOf5M"
+    }
+  },
+  {
+    "id": "112075",
+    "name": "SURA-OGUNMAKIN/AKINREMI JUNCTION",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "24/01/04/024",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.622945199999999,
+      "longitude": 3.3085251,
+      "viewport": {
+        "northeast": {
+          "lat": 6.62429502989272,
+          "lng": 3.309874929892722
+        },
+        "southwest": {
+          "lat": 6.621595370107277,
+          "lng": 3.307175270107277
+        }
+      },
+      "formatted_address": "Akinremi St & Suraogumakin St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.622945199999999,3.3085251",
+      "google_place_id": "EjxBa2lucmVtaSBTdCAmIFN1cmFvZ3VtYWtpbiBTdCwgTWFnYm9uIDEwMjIxMiwgQWdlZ2UsIE5pZ2VyaWEiZiJkChQKEgmVk-WCGpE7EBET1PCl0AbBoRIUChIJlZPlghqROxARE9TwpdAGwaEaFAoSCRklUXAQkTsQEQ_WM9h1SwYvGhQKEglvv1-tGpE7EBHSHrA0IqPr3iIKDcyU8gMVQ9f4AQ"
+    }
+  },
+  {
+    "id": "112076",
+    "name": "12, OLADEYI-OPU-FA STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "24/01/04/025",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6252948,
+      "longitude": 3.3133543,
+      "viewport": {
+        "northeast": {
+          "lat": 6.626658279892722,
+          "lng": 3.314668229892722
+        },
+        "southwest": {
+          "lat": 6.623958620107278,
+          "lng": 3.311968570107278
+        }
+      },
+      "formatted_address": "Dopemu Rd, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6252948,3.3133543",
+      "google_place_id": "ChIJTzkwWhGROxAR-BpHgoCCi8w"
+    }
+  },
+  {
+    "id": "112077",
+    "name": "14, ABIBATU STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "24/01/04/026",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6211363,
+      "longitude": 3.3109711,
+      "viewport": {
+        "northeast": {
+          "lat": 6.622594279892721,
+          "lng": 3.312308729892722
+        },
+        "southwest": {
+          "lat": 6.619894620107277,
+          "lng": 3.309609070107277
+        }
+      },
+      "formatted_address": "14 Abibatu St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6211363,3.3109711",
+      "google_place_id": "EiwxNCBBYmliYXR1IFN0LCBNYWdib24gMTAyMjEyLCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCcPFpy8QkTsQERMnTIdVtlAIEA4qFAoSCQEIDw4QkTsQEXHT-eAq2Mc1"
+    }
+  },
+  {
+    "id": "112078",
+    "name": "15, BAKARE-OPESA STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "24/01/04/027",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6209573,
+      "longitude": 3.3101231,
+      "viewport": {
+        "northeast": {
+          "lat": 6.622210579892723,
+          "lng": 3.311458129892722
+        },
+        "southwest": {
+          "lat": 6.619510920107279,
+          "lng": 3.308758470107278
+        }
+      },
+      "formatted_address": "15 Bakare Opesha St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6209573,3.3101231",
+      "google_place_id": "ChIJBaCdIRCROxARtK7GtbMQwSU"
+    }
+  },
+  {
+    "id": "112079",
+    "name": "13, BAKARE-OPESA STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "24/01/04/028",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.620931,
+      "longitude": 3.3102924,
+      "viewport": {
+        "northeast": {
+          "lat": 6.622184629892723,
+          "lng": 3.311627479892722
+        },
+        "southwest": {
+          "lat": 6.619484970107279,
+          "lng": 3.308927820107277
+        }
+      },
+      "formatted_address": "13 Bakare Opesha St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.620931,3.3102924",
+      "google_place_id": "ChIJFyMmJxCROxARTP3q1J5eEEo"
+    }
+  },
+  {
+    "id": "112080",
+    "name": "JUNCTION OF OLUMO/BAKARE-OPESA",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "24/01/04/029",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6252948,
+      "longitude": 3.3133543,
+      "viewport": {
+        "northeast": {
+          "lat": 6.626658279892722,
+          "lng": 3.314668229892722
+        },
+        "southwest": {
+          "lat": 6.623958620107278,
+          "lng": 3.311968570107278
+        }
+      },
+      "formatted_address": "Dopemu Rd, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6252948,3.3133543",
+      "google_place_id": "ChIJTzkwWhGROxAR-BpHgoCCi8w"
+    }
+  },
+  {
+    "id": "112081",
+    "name": "21, EFUNSETAN STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "24/01/04/030",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6252948,
+      "longitude": 3.3133543,
+      "viewport": {
+        "northeast": {
+          "lat": 6.626658279892722,
+          "lng": 3.314668229892722
+        },
+        "southwest": {
+          "lat": 6.623958620107278,
+          "lng": 3.311968570107278
+        }
+      },
+      "formatted_address": "Dopemu Rd, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6252948,3.3133543",
+      "google_place_id": "ChIJTzkwWhGROxAR-BpHgoCCi8w"
+    }
+  },
+  {
+    "id": "112082",
+    "name": "41, EFUNSETAN STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "24/01/04/031",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6252948,
+      "longitude": 3.3133543,
+      "viewport": {
+        "northeast": {
+          "lat": 6.626658279892722,
+          "lng": 3.314668229892722
+        },
+        "southwest": {
+          "lat": 6.623958620107278,
+          "lng": 3.311968570107278
+        }
+      },
+      "formatted_address": "Dopemu Rd, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6252948,3.3133543",
+      "google_place_id": "ChIJTzkwWhGROxAR-BpHgoCCi8w"
+    }
+  },
+  {
+    "id": "112083",
+    "name": "20, KAREEM-OYELADE STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "24/01/04/032",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6194522,
+      "longitude": 3.306925,
+      "viewport": {
+        "northeast": {
+          "lat": 6.620800029892722,
+          "lng": 3.308379329892722
+        },
+        "southwest": {
+          "lat": 6.618100370107278,
+          "lng": 3.305679670107278
+        }
+      },
+      "formatted_address": "20 Kareem Oyelade St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6194522,3.306925",
+      "google_place_id": "ChIJx6-IEwWROxAR4y-MYDEaZqk"
+    }
+  },
+  {
+    "id": "112084",
+    "name": "12, KELANI STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "24/01/04/033",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6158556,
+      "longitude": 3.3080682,
+      "viewport": {
+        "northeast": {
+          "lat": 6.61714132989272,
+          "lng": 3.309462929892722
+        },
+        "southwest": {
+          "lat": 6.614441670107277,
+          "lng": 3.306763270107277
+        }
+      },
+      "formatted_address": "12 Kelani St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6158556,3.3080682",
+      "google_place_id": "ChIJgRBL-wWROxARlQM_ECdDDFU"
+    }
+  },
+  {
+    "id": "112085",
+    "name": "1, KELANI STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "24/01/04/034",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6165143,
+      "longitude": 3.3092874,
+      "viewport": {
+        "northeast": {
+          "lat": 6.617888629892721,
+          "lng": 3.310524229892723
+        },
+        "southwest": {
+          "lat": 6.615188970107277,
+          "lng": 3.307824570107278
+        }
+      },
+      "formatted_address": "1 Kelani St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6165143,3.3092874",
+      "google_place_id": "ChIJJc6zXA-ROxAR7UTntg-Eyyo"
+    }
+  },
+  {
+    "id": "112086",
+    "name": "34, OYINLOLA STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "24/01/04/035",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.614574999999999,
+      "longitude": 3.3072297,
+      "viewport": {
+        "northeast": {
+          "lat": 6.615844779892722,
+          "lng": 3.308634529892723
+        },
+        "southwest": {
+          "lat": 6.613145120107278,
+          "lng": 3.305934870107278
+        }
+      },
+      "formatted_address": "34 Oyinlola St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.614574999999999,3.3072297",
+      "google_place_id": "ChIJ7RJbbAaROxAR7f1KE2UAFuY"
+    }
+  },
+  {
+    "id": "112087",
+    "name": "9, ADEALU STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "036",
+    "units": "036",
+    "delimitation": "24/01/04/036",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6151176,
+      "longitude": 3.3098527,
+      "viewport": {
+        "northeast": {
+          "lat": 6.616467429892722,
+          "lng": 3.311202529892722
+        },
+        "southwest": {
+          "lat": 6.613767770107279,
+          "lng": 3.308502870107278
+        }
+      },
+      "formatted_address": "9 Adealu St, Orile Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6151176,3.3098527",
+      "google_place_id": "Ei85IEFkZWFsdSBTdCwgT3JpbGUgQWdlZ2UgMTAyMjEyLCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCQ3TqSIGkTsQEc4DeBriMr4eEAkqFAoSCX-72ikJkTsQEcql7fnjgXyy"
+    }
+  },
+  {
+    "id": "112088",
+    "name": "7, ADEALU STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "037",
+    "units": "037",
+    "delimitation": "24/01/04/037",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6150442,
+      "longitude": 3.310093,
+      "viewport": {
+        "northeast": {
+          "lat": 6.616451279892722,
+          "lng": 3.311434829892722
+        },
+        "southwest": {
+          "lat": 6.613751620107278,
+          "lng": 3.308735170107277
+        }
+      },
+      "formatted_address": "7 Adealu St, Dopemu 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6150442,3.310093",
+      "google_place_id": "ChIJM12cyQiROxARYhBptO0fH_o"
+    }
+  },
+  {
+    "id": "112089",
+    "name": "30, ADEALU STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "038",
+    "units": "038",
+    "delimitation": "24/01/04/038",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6140634,
+      "longitude": 3.307805,
+      "viewport": {
+        "northeast": {
+          "lat": 6.615378029892723,
+          "lng": 3.309176529892722
+        },
+        "southwest": {
+          "lat": 6.612678370107279,
+          "lng": 3.306476870107277
+        }
+      },
+      "formatted_address": "30 Adealu St, Orile Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6140634,3.307805",
+      "google_place_id": "ChIJ4aHqPQaROxARr0M_jldbRys"
+    }
+  },
+  {
+    "id": "112090",
+    "name": "28, ADEALU STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "039",
+    "units": "039",
+    "delimitation": "24/01/04/039",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6141904,
+      "longitude": 3.3078322,
+      "viewport": {
+        "northeast": {
+          "lat": 6.615464929892721,
+          "lng": 3.309228529892722
+        },
+        "southwest": {
+          "lat": 6.612765270107277,
+          "lng": 3.306528870107277
+        }
+      },
+      "formatted_address": "28 Adealu St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6141904,3.3078322",
+      "google_place_id": "ChIJg6M7FgaROxARaCKTOTyubr4"
+    }
+  },
+  {
+    "id": "112091",
+    "name": "10, ADEBAYO-JOHNSON STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "040",
+    "units": "040",
+    "delimitation": "24/01/04/040",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6117332,
+      "longitude": 3.3076356,
+      "viewport": {
+        "northeast": {
+          "lat": 6.613029979892721,
+          "lng": 3.309027379892723
+        },
+        "southwest": {
+          "lat": 6.610330320107277,
+          "lng": 3.306327720107278
+        }
+      },
+      "formatted_address": "10 Adebayo Johnson St, Dopemu 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6117332,3.3076356",
+      "google_place_id": "ChIJVQk-wQeROxARlgkDgOPk93E"
+    }
+  },
+  {
+    "id": "112092",
+    "name": "ADEALU B/STOP ABEOKUTA EXPRESS WAY I",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "041",
+    "units": "041",
+    "delimitation": "24/01/04/041",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.612751100000001,
+      "longitude": 3.3050287,
+      "viewport": {
+        "northeast": {
+          "lat": 6.614098379892722,
+          "lng": 3.306372179892722
+        },
+        "southwest": {
+          "lat": 6.611398720107278,
+          "lng": 3.303672520107277
+        }
+      },
+      "formatted_address": "Abeokuta Express Way, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.612751100000001,3.3050287",
+      "google_place_id": "ChIJiyzPHweROxARjgVYGQE9Z2o"
+    }
+  },
+  {
+    "id": "112093",
+    "name": "ADEALU B/STOP ABEOKUTA EXPRESS WAY II",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "042",
+    "units": "042",
+    "delimitation": "24/01/04/042",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.612751100000001,
+      "longitude": 3.3050287,
+      "viewport": {
+        "northeast": {
+          "lat": 6.614098379892722,
+          "lng": 3.306372179892722
+        },
+        "southwest": {
+          "lat": 6.611398720107278,
+          "lng": 3.303672520107277
+        }
+      },
+      "formatted_address": "Abeokuta Express Way, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.612751100000001,3.3050287",
+      "google_place_id": "ChIJiyzPHweROxARjgVYGQE9Z2o"
+    }
+  },
+  {
+    "id": "112094",
+    "name": "IBUKUN-OLU PRY. SCHOOL",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "043",
+    "units": "043",
+    "delimitation": "24/01/04/043",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6157976,
+      "longitude": 3.3122196,
+      "viewport": {
+        "northeast": {
+          "lat": 6.617159029892722,
+          "lng": 3.313508079892722
+        },
+        "southwest": {
+          "lat": 6.614459370107278,
+          "lng": 3.310808420107278
+        }
+      },
+      "formatted_address": "5 Ogunjebe St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6157976,3.3122196",
+      "google_place_id": "ChIJ_SmEyQ6ROxARp2kv26CZkzc"
+    }
+  },
+  {
+    "id": "112095",
+    "name": "15, OGUNJEBE STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "044",
+    "units": "044",
+    "delimitation": "24/01/04/044",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.617722400000001,
+      "longitude": 3.3124928,
+      "viewport": {
+        "northeast": {
+          "lat": 6.619088629892723,
+          "lng": 3.313724129892722
+        },
+        "southwest": {
+          "lat": 6.616388970107279,
+          "lng": 3.311024470107277
+        }
+      },
+      "formatted_address": "15 Ogunjebe St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.617722400000001,3.3124928",
+      "google_place_id": "ChIJs6KxjA6ROxARarVlBN5sxz4"
+    }
+  },
+  {
+    "id": "112096",
+    "name": "12, IFEKOYA STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "045",
+    "units": "045",
+    "delimitation": "24/01/04/045",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.615863699999999,
+      "longitude": 3.3106457,
+      "viewport": {
+        "northeast": {
+          "lat": 6.617213379892722,
+          "lng": 3.312008279892723
+        },
+        "southwest": {
+          "lat": 6.614513720107278,
+          "lng": 3.309308620107278
+        }
+      },
+      "formatted_address": "12 Ifekoya St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.615863699999999,3.3106457",
+      "google_place_id": "ChIJs0gTzQiROxARU4qVSmY3be0"
+    }
+  },
+  {
+    "id": "112097",
+    "name": "10, IFEKOYA STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "046",
+    "units": "046",
+    "delimitation": "24/01/04/046",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.615449799999999,
+      "longitude": 3.3104974,
+      "viewport": {
+        "northeast": {
+          "lat": 6.616776879892721,
+          "lng": 3.311921179892722
+        },
+        "southwest": {
+          "lat": 6.614077220107277,
+          "lng": 3.309221520107277
+        }
+      },
+      "formatted_address": "10 Ifekoya St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.615449799999999,3.3104974",
+      "google_place_id": "ChIJC-G0Mg-ROxARwMgMKYjgbvM"
+    }
+  },
+  {
+    "id": "112098",
+    "name": "20, SAWYER STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "047",
+    "units": "047",
+    "delimitation": "24/01/04/047",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.613078799999999,
+      "longitude": 3.308838,
+      "viewport": {
+        "northeast": {
+          "lat": 6.61442862989272,
+          "lng": 3.310187829892722
+        },
+        "southwest": {
+          "lat": 6.611728970107277,
+          "lng": 3.307488170107277
+        }
+      },
+      "formatted_address": "20 Sawyerr St, Dopemu 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.613078799999999,3.308838",
+      "google_place_id": "EiwyMCBTYXd5ZXJyIFN0LCBEb3BlbXUgMTAyMjEyLCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCWGDL34IkTsQEb82aGC01m5mEBQqFAoSCePetnAIkTsQEUG6w1VnPhH3"
+    }
+  },
+  {
+    "id": "112099",
+    "name": "STATE PRY. SCHOOL",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "048",
+    "units": "048",
+    "delimitation": "24/01/04/048",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6120114,
+      "longitude": 3.3124058,
+      "viewport": {
+        "northeast": {
+          "lat": 6.613438929892721,
+          "lng": 3.313717879892722
+        },
+        "southwest": {
+          "lat": 6.610739270107278,
+          "lng": 3.311018220107278
+        }
+      },
+      "formatted_address": "Dopemu, 6 Surulere Street, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6120114,3.3124058",
+      "google_place_id": "ChIJ20RGvQmROxARbtKjzOvKA_0"
+    }
+  },
+  {
+    "id": "112100",
+    "name": "3, OLANREWAJU STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "049",
+    "units": "049",
+    "delimitation": "24/01/04/049",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6171167,
+      "longitude": 3.3109089,
+      "viewport": {
+        "northeast": {
+          "lat": 6.618458929892722,
+          "lng": 3.312255729892723
+        },
+        "southwest": {
+          "lat": 6.615759270107278,
+          "lng": 3.309556070107278
+        }
+      },
+      "formatted_address": "3 Olanrewaju St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6171167,3.3109089",
+      "google_place_id": "ChIJl1YCHA-ROxAR0kej1LDtcCI"
+    }
+  },
+  {
+    "id": "112101",
+    "name": "5, OLANREWAJU STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "050",
+    "units": "050",
+    "delimitation": "24/01/04/050",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.617074499999999,
+      "longitude": 3.3109081,
+      "viewport": {
+        "northeast": {
+          "lat": 6.618424329892721,
+          "lng": 3.312257929892723
+        },
+        "southwest": {
+          "lat": 6.615724670107277,
+          "lng": 3.309558270107278
+        }
+      },
+      "formatted_address": "5 Olanrewaju St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.617074499999999,3.3109081",
+      "google_place_id": "Ei41IE9sYW5yZXdhanUgU3QsIE1hZ2JvbiAxMDIyMTIsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJu1e5Hg-ROxARd677-A-gzJ4QBSoUChIJ-UVGHg-ROxARgUQJwIH1DoE"
+    }
+  },
+  {
+    "id": "112102",
+    "name": "20, HASSAN-ADEJOBI STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "051",
+    "units": "051",
+    "delimitation": "24/01/04/051",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6200987,
+      "longitude": 3.3092087,
+      "viewport": {
+        "northeast": {
+          "lat": 6.621532729892722,
+          "lng": 3.310574779892722
+        },
+        "southwest": {
+          "lat": 6.618833070107278,
+          "lng": 3.307875120107278
+        }
+      },
+      "formatted_address": "20 Hassanadejobi St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6200987,3.3092087",
+      "google_place_id": "ChIJd-9z8A-ROxARK5dA9kP8iro"
+    }
+  },
+  {
+    "id": "112103",
+    "name": "31, RAJI STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "052",
+    "units": "052",
+    "delimitation": "24/01/04/052",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.61944,
+      "longitude": 3.310702,
+      "viewport": {
+        "northeast": {
+          "lat": 6.620784429892722,
+          "lng": 3.312073279892722
+        },
+        "southwest": {
+          "lat": 6.618084770107278,
+          "lng": 3.309373620107277
+        }
+      },
+      "formatted_address": "31 Raji St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.61944,3.310702",
+      "google_place_id": "ChIJE-vItw-ROxARHnTCIWW4NMQ"
+    }
+  },
+  {
+    "id": "112104",
+    "name": "17, OLAFIMIHAN STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "053",
+    "units": "053",
+    "delimitation": "24/01/04/053",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6177202,
+      "longitude": 3.3096807,
+      "viewport": {
+        "northeast": {
+          "lat": 6.61908487989272,
+          "lng": 3.311097979892722
+        },
+        "southwest": {
+          "lat": 6.616385220107277,
+          "lng": 3.308398320107278
+        }
+      },
+      "formatted_address": "17 Olafimihan St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6177202,3.3096807",
+      "google_place_id": "ChIJe9btcw-ROxARPWBsgpm7ANw"
+    }
+  },
+  {
+    "id": "112105",
+    "name": "10, KOLAWOLE STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "054",
+    "units": "054",
+    "delimitation": "24/01/04/054",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6193928,
+      "longitude": 3.3088154,
+      "viewport": {
+        "northeast": {
+          "lat": 6.620737479892721,
+          "lng": 3.310076079892722
+        },
+        "southwest": {
+          "lat": 6.618037820107277,
+          "lng": 3.307376420107278
+        }
+      },
+      "formatted_address": "10 Kolawole St, Papa Ashafa 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6193928,3.3088154",
+      "google_place_id": "ChIJUaPdig-ROxARo5Rox9sYJH4"
+    }
+  },
+  {
+    "id": "112106",
+    "name": "36, KOLAWOLE STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "055",
+    "units": "055",
+    "delimitation": "24/01/04/055",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6192414,
+      "longitude": 3.3086502,
+      "viewport": {
+        "northeast": {
+          "lat": 6.620591229892723,
+          "lng": 3.310000029892722
+        },
+        "southwest": {
+          "lat": 6.617891570107279,
+          "lng": 3.307300370107278
+        }
+      },
+      "formatted_address": "36 Kolawole St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6192414,3.3086502",
+      "google_place_id": "Ei0zNiBLb2xhd29sZSBTdCwgTWFnYm9uIDEwMjIxMiwgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEgmhASxgBZE7EBHFmOO9RviM0hAkKhQKEgmdxzOID5E7EBEhlUfTrP65Ew"
+    }
+  },
+  {
+    "id": "112107",
+    "name": "14, FOWOTADE",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "056",
+    "units": "056",
+    "delimitation": "24/01/04/056",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.619635799999999,
+      "longitude": 3.3098773,
+      "viewport": {
+        "northeast": {
+          "lat": 6.620906229892722,
+          "lng": 3.311213279892722
+        },
+        "southwest": {
+          "lat": 6.618206570107279,
+          "lng": 3.308513620107278
+        }
+      },
+      "formatted_address": "14 Fowotade St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.619635799999999,3.3098773",
+      "google_place_id": "ChIJr3pk6g-ROxARMipRqRNMsTo"
+    }
+  },
+  {
+    "id": "112108",
+    "name": "12, FOWOTADE",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "057",
+    "units": "057",
+    "delimitation": "24/01/04/057",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6193459,
+      "longitude": 3.309602,
+      "viewport": {
+        "northeast": {
+          "lat": 6.620780079892722,
+          "lng": 3.310966529892722
+        },
+        "southwest": {
+          "lat": 6.618080420107278,
+          "lng": 3.308266870107278
+        }
+      },
+      "formatted_address": "12 Fowotade St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6193459,3.309602",
+      "google_place_id": "ChIJn_Bokw-ROxARvIKQJiUPLsA"
+    }
+  },
+  {
+    "id": "112109",
+    "name": "1, ADEBAMBO STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "058",
+    "units": "058",
+    "delimitation": "24/01/04/058",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.618689499999999,
+      "longitude": 3.3089096,
+      "viewport": {
+        "northeast": {
+          "lat": 6.620045829892721,
+          "lng": 3.310279629892722
+        },
+        "southwest": {
+          "lat": 6.617346170107277,
+          "lng": 3.307579970107278
+        }
+      },
+      "formatted_address": "1 Adebambo St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.618689499999999,3.3089096",
+      "google_place_id": "ChIJp8FBhg-ROxARP3Qpcr7jA4k"
+    }
+  },
+  {
+    "id": "112110",
+    "name": "34, ADEBAMBO STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "059",
+    "units": "059",
+    "delimitation": "24/01/04/059",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6165864,
+      "longitude": 3.3094152,
+      "viewport": {
+        "northeast": {
+          "lat": 6.617935329892722,
+          "lng": 3.310803779892722
+        },
+        "southwest": {
+          "lat": 6.615235670107278,
+          "lng": 3.308104120107278
+        }
+      },
+      "formatted_address": "34 Adebambo St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6165864,3.3094152",
+      "google_place_id": "ChIJJzYbQw-ROxAR4dku0pWvH0k"
+    }
+  },
+  {
+    "id": "112111",
+    "name": "32, ADEBAMBO STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "060",
+    "units": "060",
+    "delimitation": "24/01/04/060",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6166391,
+      "longitude": 3.3093267,
+      "viewport": {
+        "northeast": {
+          "lat": 6.617987379892722,
+          "lng": 3.310760129892722
+        },
+        "southwest": {
+          "lat": 6.615287720107278,
+          "lng": 3.308060470107277
+        }
+      },
+      "formatted_address": "32 Adebambo St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6166391,3.3093267",
+      "google_place_id": "ChIJIYzTQg-ROxARGmBrrvqGaPk"
+    }
+  },
+  {
+    "id": "112112",
+    "name": "16, OLAMIKO STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "061",
+    "units": "061",
+    "delimitation": "24/01/04/061",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.612490699999999,
+      "longitude": 3.309661,
+      "viewport": {
+        "northeast": {
+          "lat": 6.613838029892722,
+          "lng": 3.310901729892722
+        },
+        "southwest": {
+          "lat": 6.611138370107278,
+          "lng": 3.308202070107277
+        }
+      },
+      "formatted_address": "16 Olamiko St, Dopemu 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.612490699999999,3.309661",
+      "google_place_id": "ChIJeQNaYQiROxAR8SsSKxgXNb4"
+    }
+  },
+  {
+    "id": "112113",
+    "name": "14, OLAMIKO STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "062",
+    "units": "062",
+    "delimitation": "24/01/04/062",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6123765,
+      "longitude": 3.3095922,
+      "viewport": {
+        "northeast": {
+          "lat": 6.613724629892721,
+          "lng": 3.310868629892723
+        },
+        "southwest": {
+          "lat": 6.611024970107278,
+          "lng": 3.308168970107278
+        }
+      },
+      "formatted_address": "14 Olamiko St, Dopemu 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6123765,3.3095922",
+      "google_place_id": "ChIJBeMYZAiROxARUJjFdgKuaZ0"
+    }
+  },
+  {
+    "id": "112114",
+    "name": "24, KELANI STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "063",
+    "units": "063",
+    "delimitation": "24/01/04/063",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.615401899999999,
+      "longitude": 3.3073603,
+      "viewport": {
+        "northeast": {
+          "lat": 6.616675579892721,
+          "lng": 3.308763529892722
+        },
+        "southwest": {
+          "lat": 6.613975920107277,
+          "lng": 3.306063870107277
+        }
+      },
+      "formatted_address": "24 Kelani St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.615401899999999,3.3073603",
+      "google_place_id": "ChIJiQVAdQaROxARA7pjjPwXgSA"
+    }
+  },
+  {
+    "id": "112115",
+    "name": "22, KELANI STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "064",
+    "units": "064",
+    "delimitation": "24/01/04/064",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.615443099999999,
+      "longitude": 3.3074389,
+      "viewport": {
+        "northeast": {
+          "lat": 6.616721179892722,
+          "lng": 3.308838979892722
+        },
+        "southwest": {
+          "lat": 6.614021520107278,
+          "lng": 3.306139320107277
+        }
+      },
+      "formatted_address": "22 Kelani St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.615443099999999,3.3074389",
+      "google_place_id": "ChIJw7mvCgaROxARMBe5i9egC4s"
+    }
+  },
+  {
+    "id": "112116",
+    "name": "16, ADEBARI STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "065",
+    "units": "065",
+    "delimitation": "24/01/04/065",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6085889,
+      "longitude": 3.3247217,
+      "viewport": {
+        "northeast": {
+          "lat": 6.609806229892722,
+          "lng": 3.326076379892722
+        },
+        "southwest": {
+          "lat": 6.607106570107278,
+          "lng": 3.323376720107277
+        }
+      },
+      "formatted_address": "16 Adebari St, Dopemu 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6085889,3.3247217",
+      "google_place_id": "ChIJCWAgwp2ROxARXf1gmlwCYZU"
+    }
+  },
+  {
+    "id": "112117",
+    "name": "27, ADEWUNMI-ADEBIYI STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "066",
+    "units": "066",
+    "delimitation": "24/01/04/066",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6163723,
+      "longitude": 3.30598,
+      "viewport": {
+        "northeast": {
+          "lat": 6.617797179892722,
+          "lng": 3.307294829892722
+        },
+        "southwest": {
+          "lat": 6.615097520107278,
+          "lng": 3.304595170107278
+        }
+      },
+      "formatted_address": "27 Adewunmi Adebiyi St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6163723,3.30598",
+      "google_place_id": "ChIJ5e2jMwSROxARJlc3QNWFThg"
+    }
+  },
+  {
+    "id": "112118",
+    "name": "25, ADEWUNMI-ADEBIYI STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "067",
+    "units": "067",
+    "delimitation": "24/01/04/067",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6164725,
+      "longitude": 3.3064439,
+      "viewport": {
+        "northeast": {
+          "lat": 6.617902629892722,
+          "lng": 3.307802779892722
+        },
+        "southwest": {
+          "lat": 6.615202970107278,
+          "lng": 3.305103120107277
+        }
+      },
+      "formatted_address": "25 Adewunmi Adebiyi St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6164725,3.3064439",
+      "google_place_id": "EjUyNSBBZGV3dW5taSBBZGViaXlpIFN0LCBNYWdib24gMTAyMjEyLCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCc-6UM8FkTsQEc8tVYyo75H-EBkqFAoSCacfRNQFkTsQEUIxXbyr9_kM"
+    }
+  },
+  {
+    "id": "112119",
+    "name": "4, ADEWUNMI-ADEBIYI STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "068",
+    "units": "068",
+    "delimitation": "24/01/04/068",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6163135,
+      "longitude": 3.3081468,
+      "viewport": {
+        "northeast": {
+          "lat": 6.617599629892721,
+          "lng": 3.309435729892722
+        },
+        "southwest": {
+          "lat": 6.614899970107277,
+          "lng": 3.306736070107277
+        }
+      },
+      "formatted_address": "4 Adewunmi Adebiyi St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6163135,3.3081468",
+      "google_place_id": "ChIJ27Wx8QWROxARaU7i-F5B7VM"
+    }
+  },
+  {
+    "id": "112120",
+    "name": "15, ABUSATU STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "069",
+    "units": "069",
+    "delimitation": "24/01/04/069",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6149115,
+      "longitude": 3.3059052,
+      "viewport": {
+        "northeast": {
+          "lat": 6.616336729892722,
+          "lng": 3.307197079892723
+        },
+        "southwest": {
+          "lat": 6.613637070107278,
+          "lng": 3.304497420107278
+        }
+      },
+      "formatted_address": "15 Abusatu St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6149115,3.3059052",
+      "google_place_id": "ChIJuZVuhgaROxAR_R7LMsQa7c4"
+    }
+  },
+  {
+    "id": "112121",
+    "name": "28, ABIODUN-SADIKU STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "070",
+    "units": "070",
+    "delimitation": "24/01/04/070",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.613395300000001,
+      "longitude": 3.3083435,
+      "viewport": {
+        "northeast": {
+          "lat": 6.614811829892723,
+          "lng": 3.309651479892722
+        },
+        "southwest": {
+          "lat": 6.612112170107279,
+          "lng": 3.306951820107277
+        }
+      },
+      "formatted_address": "28 Abiodun Sadiku St, Dopemu 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.613395300000001,3.3083435",
+      "google_place_id": "ChIJwwE0LwaROxARy9829AOSWt4"
+    }
+  },
+  {
+    "id": "112122",
+    "name": "10, ABIODUN-SADIKU STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "071",
+    "units": "071",
+    "delimitation": "24/01/04/071",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.612241900000001,
+      "longitude": 3.3065483,
+      "viewport": {
+        "northeast": {
+          "lat": 6.613637729892721,
+          "lng": 3.307889379892722
+        },
+        "southwest": {
+          "lat": 6.610938070107277,
+          "lng": 3.305189720107278
+        }
+      },
+      "formatted_address": "10 Abiodun Sadiku St, Dopemu 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.612241900000001,3.3065483",
+      "google_place_id": "ChIJTXzfrgeROxAR_yPseG03PGY"
+    }
+  },
+  {
+    "id": "112123",
+    "name": "19, KAREEM-BABATUNDE STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "072",
+    "units": "072",
+    "delimitation": "24/01/04/072",
+    "remark": "EXISTING PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.620494799999999,
+      "longitude": 3.3123158,
+      "viewport": {
+        "northeast": {
+          "lat": 6.621848779892722,
+          "lng": 3.313594829892722
+        },
+        "southwest": {
+          "lat": 6.619149120107278,
+          "lng": 3.310895170107277
+        }
+      },
+      "formatted_address": "19 Kareem Babatunde St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.620494799999999,3.3123158",
+      "google_place_id": "ChIJXdaTIQ6ROxARYiI0KNPesW4"
+    }
+  },
+  {
+    "id": "112124",
+    "name": "2, SERIKI STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "073",
+    "units": "073",
+    "delimitation": "24/01/04/073",
+    "remark": "NEW PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.620151,
+      "longitude": 3.308561,
+      "viewport": {
+        "northeast": {
+          "lat": 6.621483229892721,
+          "lng": 3.309907329892722
+        },
+        "southwest": {
+          "lat": 6.618783570107277,
+          "lng": 3.307207670107278
+        }
+      },
+      "formatted_address": "2 Seriki St, Papa Ashafa 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.620151,3.308561",
+      "google_place_id": "ChIJU2GPVwWROxARjdBLQjYKoJQ"
+    }
+  },
+  {
+    "id": "112125",
+    "name": "22, OLAOLUWA STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "074",
+    "units": "074",
+    "delimitation": "24/01/04/074",
+    "remark": "NEW PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.623733499999999,
+      "longitude": 3.3126381,
+      "viewport": {
+        "northeast": {
+          "lat": 6.625044429892721,
+          "lng": 3.313986829892722
+        },
+        "southwest": {
+          "lat": 6.622344770107278,
+          "lng": 3.311287170107277
+        }
+      },
+      "formatted_address": "22 Ola Oluwa St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.623733499999999,3.3126381",
+      "google_place_id": "ChIJ8-tkdBGROxAR5FCqxAoB59E"
+    }
+  },
+  {
+    "id": "112126",
+    "name": "5, BOLA AYENI STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "075",
+    "units": "075",
+    "delimitation": "24/01/04/075",
+    "remark": "NEW PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6252529,
+      "longitude": 3.3107992,
+      "viewport": {
+        "northeast": {
+          "lat": 6.626677879892722,
+          "lng": 3.312142029892722
+        },
+        "southwest": {
+          "lat": 6.623978220107278,
+          "lng": 3.309442370107278
+        }
+      },
+      "formatted_address": "5 Bola Ayeni St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6252529,3.3107992",
+      "google_place_id": "ChIJHR7b2xCROxARItM3jcPmHvQ"
+    }
+  },
+  {
+    "id": "112127",
+    "name": "8, AKINTUNDE STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "076",
+    "units": "076",
+    "delimitation": "24/01/04/076",
+    "remark": "NEW PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6219204,
+      "longitude": 3.3110179,
+      "viewport": {
+        "northeast": {
+          "lat": 6.623245179892722,
+          "lng": 3.312453229892722
+        },
+        "southwest": {
+          "lat": 6.620545520107278,
+          "lng": 3.309753570107278
+        }
+      },
+      "formatted_address": "8 Akintunde St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6219204,3.3110179",
+      "google_place_id": "ChIJnXZYNBCROxARiYAreLYMvmE"
+    }
+  },
+  {
+    "id": "112128",
+    "name": "9, KUSORO STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "077",
+    "units": "077",
+    "delimitation": "24/01/04/077",
+    "remark": "NEW PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6252948,
+      "longitude": 3.3133543,
+      "viewport": {
+        "northeast": {
+          "lat": 6.626658279892722,
+          "lng": 3.314668229892722
+        },
+        "southwest": {
+          "lat": 6.623958620107278,
+          "lng": 3.311968570107278
+        }
+      },
+      "formatted_address": "Dopemu Rd, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6252948,3.3133543",
+      "google_place_id": "ChIJTzkwWhGROxAR-BpHgoCCi8w"
+    }
+  },
+  {
+    "id": "112129",
+    "name": "3, ADEBAYO LANE",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "078",
+    "units": "078",
+    "delimitation": "24/01/04/078",
+    "remark": "NEW PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.618898799999999,
+      "longitude": 3.3121733,
+      "viewport": {
+        "northeast": {
+          "lat": 6.620248629892722,
+          "lng": 3.313523129892722
+        },
+        "southwest": {
+          "lat": 6.617548970107278,
+          "lng": 3.310823470107278
+        }
+      },
+      "formatted_address": "3 Adebayo Ln, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.618898799999999,3.3121733",
+      "google_place_id": "EiszIEFkZWJheW8gTG4sIE1hZ2JvbiAxMDIyMTIsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJob-YRA6ROxARiCFbvzCG36UQAyoUChIJNa0RQw6ROxARylHBrXRmJ1k"
+    }
+  },
+  {
+    "id": "112130",
+    "name": "16, KIBISHILE STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "079",
+    "units": "079",
+    "delimitation": "24/01/04/079",
+    "remark": "NEW PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.622349,
+      "longitude": 3.3123549,
+      "viewport": {
+        "northeast": {
+          "lat": 6.623707679892723,
+          "lng": 3.313574029892723
+        },
+        "southwest": {
+          "lat": 6.621008020107279,
+          "lng": 3.310874370107278
+        }
+      },
+      "formatted_address": "16 Kibishile St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.622349,3.3123549",
+      "google_place_id": "ChIJCwBCvhGROxARefIv7QaN9P4"
+    }
+  },
+  {
+    "id": "112131",
+    "name": "127, DOPEMU RD",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "080",
+    "units": "080",
+    "delimitation": "24/01/04/080",
+    "remark": "NEW PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.615359,
+      "longitude": 3.3125329,
+      "viewport": {
+        "northeast": {
+          "lat": 6.616696629892722,
+          "lng": 3.313942329892722
+        },
+        "southwest": {
+          "lat": 6.613996970107278,
+          "lng": 3.311242670107278
+        }
+      },
+      "formatted_address": "127 Dopemu Rd, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.615359,3.3125329",
+      "google_place_id": "ChIJsYPASgmROxARuoLhlwBMxjQ"
+    }
+  },
+  {
+    "id": "112132",
+    "name": "19, SURA OGUNMAKIN",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "081",
+    "units": "081",
+    "delimitation": "24/01/04/081",
+    "remark": "NEW PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.622035899999999,
+      "longitude": 3.308364,
+      "viewport": {
+        "northeast": {
+          "lat": 6.623398579892721,
+          "lng": 3.309658979892722
+        },
+        "southwest": {
+          "lat": 6.620698920107277,
+          "lng": 3.306959320107278
+        }
+      },
+      "formatted_address": "19 Suraogumakin St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.622035899999999,3.308364",
+      "google_place_id": "ChIJ5SUgghqROxARgiN3fLN42sg"
+    }
+  },
+  {
+    "id": "112133",
+    "name": "59,ADEBAMBO STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "082",
+    "units": "082",
+    "delimitation": "24/01/04/082",
+    "remark": "NEW PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.614674,
+      "longitude": 3.3100645,
+      "viewport": {
+        "northeast": {
+          "lat": 6.616012479892722,
+          "lng": 3.311348829892721
+        },
+        "southwest": {
+          "lat": 6.613312820107278,
+          "lng": 3.308649170107277
+        }
+      },
+      "formatted_address": "59 Adebambo St, Dopemu 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.614674,3.3100645",
+      "google_place_id": "Ei01OSBBZGViYW1ibyBTdCwgRG9wZW11IDEwMjIxMiwgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEgkRKTTHCJE7EBHFeejToogUEBA7KhQKEgkdYruzCJE7EBHOJmLYaF_0mw"
+    }
+  },
+  {
+    "id": "112134",
+    "name": "42,ADEALU STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "083",
+    "units": "083",
+    "delimitation": "24/01/04/083",
+    "remark": "NEW PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6134486,
+      "longitude": 3.3065737,
+      "viewport": {
+        "northeast": {
+          "lat": 6.61473142989272,
+          "lng": 3.307960329892722
+        },
+        "southwest": {
+          "lat": 6.612031770107277,
+          "lng": 3.305260670107278
+        }
+      },
+      "formatted_address": "42 Adealu St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6134486,3.3065737",
+      "google_place_id": "ChIJv5idUAaROxARUaWYmjqA36Y"
+    }
+  },
+  {
+    "id": "112135",
+    "name": "56,OGUNJEBE STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "084",
+    "units": "084",
+    "delimitation": "24/01/04/084",
+    "remark": "NEW PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6144472,
+      "longitude": 3.3115194,
+      "viewport": {
+        "northeast": {
+          "lat": 6.615780329892722,
+          "lng": 3.312918079892722
+        },
+        "southwest": {
+          "lat": 6.613080670107277,
+          "lng": 3.310218420107278
+        }
+      },
+      "formatted_address": "56 Ogunjebe St, Dopemu 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6144472,3.3115194",
+      "google_place_id": "ChIJ4-EBJAmROxARaSojqN_7Lyc"
+    }
+  },
+  {
+    "id": "112136",
+    "name": "STATE PRIMARY SCHOOL",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "085",
+    "units": "085",
+    "delimitation": "24/01/04/085",
+    "remark": "NEW PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6095314,
+      "longitude": 3.3223662,
+      "viewport": {
+        "northeast": {
+          "lat": 6.610765029892723,
+          "lng": 3.323788679892722
+        },
+        "southwest": {
+          "lat": 6.608065370107278,
+          "lng": 3.321089020107277
+        }
+      },
+      "formatted_address": "State Primary School, Dopemu 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6095314,3.3223662",
+      "google_place_id": "ChIJUf-dJ56ROxARURWyctoJPOA"
+    }
+  },
+  {
+    "id": "112137",
+    "name": "26,OGUNNAIKE STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "086",
+    "units": "086",
+    "delimitation": "24/01/04/086",
+    "remark": "NEW PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6148339,
+      "longitude": 3.3113326,
+      "viewport": {
+        "northeast": {
+          "lat": 6.616199629892722,
+          "lng": 3.312584279892723
+        },
+        "southwest": {
+          "lat": 6.613499970107278,
+          "lng": 3.309884620107278
+        }
+      },
+      "formatted_address": "26 Ogunnaike St, Dopemu 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6148339,3.3113326",
+      "google_place_id": "ChIJGQxeKAmROxARzLWdfSrEjHI"
+    }
+  },
+  {
+    "id": "112138",
+    "name": "15, RAJI STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "087",
+    "units": "087",
+    "delimitation": "24/01/04/087",
+    "remark": "NEW PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6198834,
+      "longitude": 3.3109508,
+      "viewport": {
+        "northeast": {
+          "lat": 6.621242329892722,
+          "lng": 3.312259629892722
+        },
+        "southwest": {
+          "lat": 6.618542670107278,
+          "lng": 3.309559970107278
+        }
+      },
+      "formatted_address": "15 Raji St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6198834,3.3109508",
+      "google_place_id": "ChIJOWs5zA-ROxARWEaUxqpRNlw"
+    }
+  },
+  {
+    "id": "112139",
+    "name": "5, OLAFIMIHAN STREET",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "088",
+    "units": "088",
+    "delimitation": "24/01/04/088",
+    "remark": "NEW PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6185756,
+      "longitude": 3.3095037,
+      "viewport": {
+        "northeast": {
+          "lat": 6.619939229892722,
+          "lng": 3.310913079892722
+        },
+        "southwest": {
+          "lat": 6.617239570107277,
+          "lng": 3.308213420107278
+        }
+      },
+      "formatted_address": "5 Olafimihan St, Magbon 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6185756,3.3095037",
+      "google_place_id": "ChIJaSCnmw-ROxARhF9VCwvcg5c"
+    }
+  },
+  {
+    "id": "112140",
+    "name": "5,ENILOBO STREET`",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "089",
+    "units": "089",
+    "delimitation": "24/01/04/089",
+    "remark": "NEW PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6252948,
+      "longitude": 3.3133543,
+      "viewport": {
+        "northeast": {
+          "lat": 6.626658279892722,
+          "lng": 3.314668229892722
+        },
+        "southwest": {
+          "lat": 6.623958620107278,
+          "lng": 3.311968570107278
+        }
+      },
+      "formatted_address": "Dopemu Rd, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6252948,3.3133543",
+      "google_place_id": "ChIJTzkwWhGROxAR-BpHgoCCi8w"
+    }
+  },
+  {
+    "id": "112141",
+    "name": "4,ANJORIN/SABITU CLOSE",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "090",
+    "units": "090",
+    "delimitation": "24/01/04/090",
+    "remark": "NEW PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "112142",
+    "name": "19,ABIODUN SADIKU STR",
+    "registration_area_id": "5850",
+    "precise_location": null,
+    "abbreviation": "091",
+    "units": "091",
+    "delimitation": "24/01/04/091",
+    "remark": "NEW PU",
+    "ward_id": "5850",
+    "ward_name": "AGBOTIKUYO/DOPEMU",
+    "local_government_id": "506",
+    "local_government_name": "AGEGE",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.613117099999999,
+      "longitude": 3.307853,
+      "viewport": {
+        "northeast": {
+          "lat": 6.614519279892721,
+          "lng": 3.309170479892722
+        },
+        "southwest": {
+          "lat": 6.611819620107277,
+          "lng": 3.306470820107277
+        }
+      },
+      "formatted_address": "19 Abiodun Sadiku St, Dopemu 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.613117099999999,3.307853",
+      "google_place_id": "EjMxOSBBYmlvZHVuIFNhZGlrdSBTdCwgRG9wZW11IDEwMjIxMiwgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEgn7onovBpE7EBHPIWQpyzUasxATKhQKEgmxAHhjCJE7EBHrT1D8JmSJSg"
+    }
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "id": "39342",
+    "name": "EGBUNE P/S - OGBE-UTU QUARTERS I",
+    "registration_area_id": "2169",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "10/01/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2169",
+    "ward_name": "ISSELE UKU I",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "39343",
+    "name": "EGBUNE P/S - OGBE-UTU QUARTERS II",
+    "registration_area_id": "2169",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "10/01/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2169",
+    "ward_name": "ISSELE UKU I",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.3262277,
+      "longitude": 6.4675429,
+      "viewport": {
+        "northeast": {
+          "lat": 6.327450529892721,
+          "lng": 6.469489429892721
+        },
+        "southwest": {
+          "lat": 6.324750870107278,
+          "lng": 6.466789770107277
+        }
+      },
+      "formatted_address": "8FG9+F2V, 320111, Issele-Uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3262277,6.4675429",
+      "google_place_id": "ChIJt-M8FR7_QxARCDpyCOGjGhA"
+    }
+  },
+  {
+    "id": "39344",
+    "name": "BURR P/S - IDUMU AHABA QUARTERS I",
+    "registration_area_id": "2169",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "10/01/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2169",
+    "ward_name": "ISSELE UKU I",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "39345",
+    "name": "BURR P/S - IDUMU AHABA QUARTERS II",
+    "registration_area_id": "2169",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "10/01/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2169",
+    "ward_name": "ISSELE UKU I",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.3177125,
+      "longitude": 6.483981399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.31914162989272,
+          "lng": 6.485319379892722
+        },
+        "southwest": {
+          "lat": 6.316441970107276,
+          "lng": 6.482619720107278
+        }
+      },
+      "formatted_address": "8F9M+3HQ, Issele Mkpitime Road, 320111, Issele-Uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3177125,6.483981399999999",
+      "google_place_id": "ChIJ53d-vfT_QxARGX_Y_pZba5A"
+    }
+  },
+  {
+    "id": "39346",
+    "name": "BURR P/S - UKPAI  QUARTERS",
+    "registration_area_id": "2169",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "10/01/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2169",
+    "ward_name": "ISSELE UKU I",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.326628299999999,
+      "longitude": 6.4689554,
+      "viewport": {
+        "northeast": {
+          "lat": 6.327971579892722,
+          "lng": 6.470347329892721
+        },
+        "southwest": {
+          "lat": 6.325271920107278,
+          "lng": 6.467647670107278
+        }
+      },
+      "formatted_address": "8FG9+MH4, Issele-Uku Rd, 320111, Issele-Uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.326628299999999,6.4689554",
+      "google_place_id": "ChIJseXl8sH-QxARC6wDZHcLMcc"
+    }
+  },
+  {
+    "id": "39347",
+    "name": "OGBE UTU P/S - IDUMU INEI QUARTERS",
+    "registration_area_id": "2169",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "10/01/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2169",
+    "ward_name": "ISSELE UKU I",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "39348",
+    "name": "OGBE UTU P/S - OGBE UTU QUARTERS I",
+    "registration_area_id": "2169",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "10/01/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2169",
+    "ward_name": "ISSELE UKU I",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.3092628,
+      "longitude": 6.4744341,
+      "viewport": {
+        "northeast": {
+          "lat": 6.310876429892722,
+          "lng": 6.475815429892722
+        },
+        "southwest": {
+          "lat": 6.308176770107278,
+          "lng": 6.473115770107278
+        }
+      },
+      "formatted_address": "8F5F+PQ3, 320111, Issele-Uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3092628,6.4744341",
+      "google_place_id": "ChIJXSWC0MP-QxARzFtHY9osWd8"
+    }
+  },
+  {
+    "id": "39349",
+    "name": "OGBE UTU P/S - OGBE UTU QUARTERS II",
+    "registration_area_id": "2169",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "10/01/06/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2169",
+    "ward_name": "ISSELE UKU I",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.3092628,
+      "longitude": 6.4744341,
+      "viewport": {
+        "northeast": {
+          "lat": 6.310876429892722,
+          "lng": 6.475815429892722
+        },
+        "southwest": {
+          "lat": 6.308176770107278,
+          "lng": 6.473115770107278
+        }
+      },
+      "formatted_address": "8F5F+PQ3, 320111, Issele-Uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3092628,6.4744341",
+      "google_place_id": "ChIJXSWC0MP-QxARzFtHY9osWd8"
+    }
+  },
+  {
+    "id": "39350",
+    "name": "OGBE UTU P/S - OGBEIDIBO  QUARTERS",
+    "registration_area_id": "2169",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "10/01/06/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2169",
+    "ward_name": "ISSELE UKU I",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.3092628,
+      "longitude": 6.4744341,
+      "viewport": {
+        "northeast": {
+          "lat": 6.310876429892722,
+          "lng": 6.475815429892722
+        },
+        "southwest": {
+          "lat": 6.308176770107278,
+          "lng": 6.473115770107278
+        }
+      },
+      "formatted_address": "8F5F+PQ3, 320111, Issele-Uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3092628,6.4744341",
+      "google_place_id": "ChIJXSWC0MP-QxARzFtHY9osWd8"
+    }
+  },
+  {
+    "id": "39351",
+    "name": "POST OFFICE, OGBE UTU QTRS I",
+    "registration_area_id": "2169",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "10/01/06/010",
+    "remark": "NEW PU",
+    "ward_id": "2169",
+    "ward_name": "ISSELE UKU I",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.3172911,
+      "longitude": 6.4760463,
+      "viewport": {
+        "northeast": {
+          "lat": 6.318667379892722,
+          "lng": 6.477381429892721
+        },
+        "southwest": {
+          "lat": 6.315967720107278,
+          "lng": 6.474681770107277
+        }
+      },
+      "formatted_address": "8F8G+VCR, Old Asaba-Lagos Rd, 320111, Issele-Uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3172911,6.4760463",
+      "google_place_id": "ChIJ70HwY9z-QxAR7T2GX-N4DSQ"
+    }
+  },
+  {
+    "id": "39352",
+    "name": "POST OFFICE, OGBE UTU QTRS II",
+    "registration_area_id": "2169",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "10/01/06/011",
+    "remark": "NEW PU",
+    "ward_id": "2169",
+    "ward_name": "ISSELE UKU I",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.305962099999999,
+      "longitude": 6.4691358,
+      "viewport": {
+        "northeast": {
+          "lat": 6.307228079892723,
+          "lng": 6.470653879892721
+        },
+        "southwest": {
+          "lat": 6.304528420107279,
+          "lng": 6.467954220107277
+        }
+      },
+      "formatted_address": "8F49+9JQ, Issele-Uku Rd, 320111, Issele-Uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.305962099999999,6.4691358",
+      "google_place_id": "ChIJvVGT0y__QxARv22jWyHVU_E"
+    }
+  },
+  {
+    "id": "39353",
+    "name": "POST OFFICE OGBE-UTU QTRS 1",
+    "registration_area_id": "2169",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "10/01/06/012",
+    "remark": "NEW PU",
+    "ward_id": "2169",
+    "ward_name": "ISSELE UKU I",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.3172911,
+      "longitude": 6.4760463,
+      "viewport": {
+        "northeast": {
+          "lat": 6.318667379892722,
+          "lng": 6.477381429892721
+        },
+        "southwest": {
+          "lat": 6.315967720107278,
+          "lng": 6.474681770107277
+        }
+      },
+      "formatted_address": "8F8G+VCR, Old Asaba-Lagos Rd, 320111, Issele-Uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3172911,6.4760463",
+      "google_place_id": "ChIJ70HwY9z-QxAR7T2GX-N4DSQ"
+    }
+  },
+  {
+    "id": "39354",
+    "name": "OGBE UTU PRY SCH, IDUMU INEI QTRS",
+    "registration_area_id": "2169",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "10/01/06/013",
+    "remark": "NEW PU",
+    "ward_id": "2169",
+    "ward_name": "ISSELE UKU I",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.3092628,
+      "longitude": 6.4744341,
+      "viewport": {
+        "northeast": {
+          "lat": 6.310876429892722,
+          "lng": 6.475815429892722
+        },
+        "southwest": {
+          "lat": 6.308176770107278,
+          "lng": 6.473115770107278
+        }
+      },
+      "formatted_address": "8F5F+PQ3, 320111, Issele-Uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3092628,6.4744341",
+      "google_place_id": "ChIJXSWC0MP-QxARzFtHY9osWd8"
+    }
+  },
+  {
+    "id": "39355",
+    "name": "EGBUNE P/S OGBEIDIBO QTRS",
+    "registration_area_id": "2169",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "10/01/06/014",
+    "remark": "NEW PU",
+    "ward_id": "2169",
+    "ward_name": "ISSELE UKU I",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.3177125,
+      "longitude": 6.483981399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.31914162989272,
+          "lng": 6.485319379892722
+        },
+        "southwest": {
+          "lat": 6.316441970107276,
+          "lng": 6.482619720107278
+        }
+      },
+      "formatted_address": "8F9M+3HQ, Issele Mkpitime Road, 320111, Issele-Uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3177125,6.483981399999999",
+      "google_place_id": "ChIJ53d-vfT_QxARGX_Y_pZba5A"
+    }
+  },
+  {
+    "id": "39356",
+    "name": "BURR PRY SCH, UKPAI QTRS",
+    "registration_area_id": "2169",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "10/01/06/015",
+    "remark": "NEW PU",
+    "ward_id": "2169",
+    "ward_name": "ISSELE UKU I",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.317593899999999,
+      "longitude": 6.4694533,
+      "viewport": {
+        "northeast": {
+          "lat": 6.319159679892722,
+          "lng": 6.470824279892721
+        },
+        "southwest": {
+          "lat": 6.316460020107278,
+          "lng": 6.468124620107277
+        }
+      },
+      "formatted_address": "8F99+2QP, 320111, Issele-Uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.317593899999999,6.4694533",
+      "google_place_id": "ChIJwTE-COf-QxAR1rC6plxvLs0"
+    }
+  },
+  {
+    "id": "39357",
+    "name": "BURR PRY SCH, IDUMU AHABA QTRS I",
+    "registration_area_id": "2169",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "10/01/06/016",
+    "remark": "NEW PU",
+    "ward_id": "2169",
+    "ward_name": "ISSELE UKU I",
+    "local_government_id": "187",
+    "local_government_name": "ANIOCHA NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.3177125,
+      "longitude": 6.483981399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.31914162989272,
+          "lng": 6.485319379892722
+        },
+        "southwest": {
+          "lat": 6.316441970107276,
+          "lng": 6.482619720107278
+        }
+      },
+      "formatted_address": "8F9M+3HQ, Issele Mkpitime Road, 320111, Issele-Uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3177125,6.483981399999999",
+      "google_place_id": "ChIJ53d-vfT_QxARGX_Y_pZba5A"
+    }
+  }
+]

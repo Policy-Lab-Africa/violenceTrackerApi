@@ -1,0 +1,531 @@
+[
+  {
+    "id": "55143",
+    "name": "IHUIBE PRIMARY SCHOOL OKPANKU I",
+    "registration_area_id": "2983",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "14/01/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2983",
+    "ward_name": "OKPANKU",
+    "local_government_id": "259",
+    "local_government_name": "ANINRI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": null
+  },
+  {
+    "id": "55144",
+    "name": "IHUIBE PRIMARY SCHOOL OKPANKU II",
+    "registration_area_id": "2983",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "14/01/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2983",
+    "ward_name": "OKPANKU",
+    "local_government_id": "259",
+    "local_government_name": "ANINRI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 5.9477999,
+      "longitude": 7.674560400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.949655629892721,
+          "lng": 7.675417850000001
+        },
+        "southwest": {
+          "lat": 5.946955970107277,
+          "lng": 7.67198805
+        }
+      },
+      "formatted_address": "WMXF+4R7, 402141, Okpanku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9477999,7.674560400000001",
+      "google_place_id": "ChIJz-YB8MA2QxAR0m_qsP23yl8"
+    }
+  },
+  {
+    "id": "55145",
+    "name": "CENTRAL SCHOOL AMABIRIBA",
+    "registration_area_id": "2983",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "14/01/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2983",
+    "ward_name": "OKPANKU",
+    "local_government_id": "259",
+    "local_government_name": "ANINRI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 5.9521163,
+      "longitude": 7.6695782,
+      "viewport": {
+        "northeast": {
+          "lat": 5.953375229892722,
+          "lng": 7.671007479892722
+        },
+        "southwest": {
+          "lat": 5.950675570107278,
+          "lng": 7.668307820107279
+        }
+      },
+      "formatted_address": "XM29+RRW, 402141, Okpanku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9521163,7.6695782",
+      "google_place_id": "ChIJF-2cwek2QxARhc40nRGEqSU"
+    }
+  },
+  {
+    "id": "55146",
+    "name": "AMAEZE PRIMARY SCHOOL I",
+    "registration_area_id": "2983",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "14/01/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2983",
+    "ward_name": "OKPANKU",
+    "local_government_id": "259",
+    "local_government_name": "ANINRI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 5.9469995,
+      "longitude": 7.667985,
+      "viewport": {
+        "northeast": {
+          "lat": 5.948248979892722,
+          "lng": 7.669661079892721
+        },
+        "southwest": {
+          "lat": 5.945549320107278,
+          "lng": 7.666961420107277
+        }
+      },
+      "formatted_address": "WMW9+Q5X, 402141, Okpanku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9469995,7.667985",
+      "google_place_id": "ChIJCfycc8M2QxARU0iucqCGhOc"
+    }
+  },
+  {
+    "id": "55147",
+    "name": "AMOGUDU  PRIMARY SCHOOL I",
+    "registration_area_id": "2983",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "14/01/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2983",
+    "ward_name": "OKPANKU",
+    "local_government_id": "259",
+    "local_government_name": "ANINRI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 5.9469995,
+      "longitude": 7.667985,
+      "viewport": {
+        "northeast": {
+          "lat": 5.948248979892722,
+          "lng": 7.669661079892721
+        },
+        "southwest": {
+          "lat": 5.945549320107278,
+          "lng": 7.666961420107277
+        }
+      },
+      "formatted_address": "WMW9+Q5X, 402141, Okpanku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9469995,7.667985",
+      "google_place_id": "ChIJCfycc8M2QxARU0iucqCGhOc"
+    }
+  },
+  {
+    "id": "55148",
+    "name": "OKPU PRIMARY SCHOOL I",
+    "registration_area_id": "2983",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "14/01/09/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2983",
+    "ward_name": "OKPANKU",
+    "local_government_id": "259",
+    "local_government_name": "ANINRI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": null
+  },
+  {
+    "id": "55149",
+    "name": "UHUEZEOKE COMM. PRI. SCH",
+    "registration_area_id": "2983",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "14/01/09/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2983",
+    "ward_name": "OKPANKU",
+    "local_government_id": "259",
+    "local_government_name": "ANINRI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 5.954678299999999,
+      "longitude": 7.6817172,
+      "viewport": {
+        "northeast": {
+          "lat": 5.955789979892721,
+          "lng": 7.683218929892721
+        },
+        "southwest": {
+          "lat": 5.953090320107277,
+          "lng": 7.680519270107277
+        }
+      },
+      "formatted_address": "XM3J+VMG, amagu, Okpanku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.954678299999999,7.6817172",
+      "google_place_id": "ChIJJboJIZQ2QxARgq25CerRoUQ"
+    }
+  },
+  {
+    "id": "55150",
+    "name": "AMAEZE PRI. SCHL. II",
+    "registration_area_id": "2983",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "14/01/09/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2983",
+    "ward_name": "OKPANKU",
+    "local_government_id": "259",
+    "local_government_name": "ANINRI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 5.9477999,
+      "longitude": 7.674560400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.949655629892721,
+          "lng": 7.675417850000001
+        },
+        "southwest": {
+          "lat": 5.946955970107277,
+          "lng": 7.67198805
+        }
+      },
+      "formatted_address": "WMXF+4R7, 402141, Okpanku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9477999,7.674560400000001",
+      "google_place_id": "ChIJz-YB8MA2QxAR0m_qsP23yl8"
+    }
+  },
+  {
+    "id": "55151",
+    "name": "CENTRAL SCHL. AMABIRIBA II",
+    "registration_area_id": "2983",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "14/01/09/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2983",
+    "ward_name": "OKPANKU",
+    "local_government_id": "259",
+    "local_government_name": "ANINRI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 5.9521163,
+      "longitude": 7.6695782,
+      "viewport": {
+        "northeast": {
+          "lat": 5.953375229892722,
+          "lng": 7.671007479892722
+        },
+        "southwest": {
+          "lat": 5.950675570107278,
+          "lng": 7.668307820107279
+        }
+      },
+      "formatted_address": "XM29+RRW, 402141, Okpanku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9521163,7.6695782",
+      "google_place_id": "ChIJF-2cwek2QxARhc40nRGEqSU"
+    }
+  },
+  {
+    "id": "55152",
+    "name": "AMOGUDU  PRIMARY SCHOOL II",
+    "registration_area_id": "2983",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "14/01/09/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2983",
+    "ward_name": "OKPANKU",
+    "local_government_id": "259",
+    "local_government_name": "ANINRI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 5.9469995,
+      "longitude": 7.667985,
+      "viewport": {
+        "northeast": {
+          "lat": 5.948248979892722,
+          "lng": 7.669661079892721
+        },
+        "southwest": {
+          "lat": 5.945549320107278,
+          "lng": 7.666961420107277
+        }
+      },
+      "formatted_address": "WMW9+Q5X, 402141, Okpanku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9469995,7.667985",
+      "google_place_id": "ChIJCfycc8M2QxARU0iucqCGhOc"
+    }
+  },
+  {
+    "id": "55153",
+    "name": "OKPU PRIMARY SCHOOL II",
+    "registration_area_id": "2983",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "14/01/09/011",
+    "remark": "EXISTING PU",
+    "ward_id": "2983",
+    "ward_name": "OKPANKU",
+    "local_government_id": "259",
+    "local_government_name": "ANINRI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 5.9477999,
+      "longitude": 7.674560400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.949655629892721,
+          "lng": 7.675417850000001
+        },
+        "southwest": {
+          "lat": 5.946955970107277,
+          "lng": 7.67198805
+        }
+      },
+      "formatted_address": "WMXF+4R7, 402141, Okpanku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9477999,7.674560400000001",
+      "google_place_id": "ChIJz-YB8MA2QxAR0m_qsP23yl8"
+    }
+  },
+  {
+    "id": "55154",
+    "name": "AGBADA UHUEZEOKE",
+    "registration_area_id": "2983",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "14/01/09/012",
+    "remark": "EXISTING PU",
+    "ward_id": "2983",
+    "ward_name": "OKPANKU",
+    "local_government_id": "259",
+    "local_government_name": "ANINRI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 5.9642598,
+      "longitude": 7.6677167,
+      "viewport": {
+        "northeast": {
+          "lat": 5.965615979892721,
+          "lng": 7.669338779892722
+        },
+        "southwest": {
+          "lat": 5.962916320107277,
+          "lng": 7.666639120107277
+        }
+      },
+      "formatted_address": "XM79+P34, 402141, Okpanku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9642598,7.6677167",
+      "google_place_id": "ChIJc1ED-PA2QxAR33gat71kBbY"
+    }
+  },
+  {
+    "id": "55155",
+    "name": "OKPANKU VILLAGE OKPANKU",
+    "registration_area_id": "2983",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "14/01/09/013",
+    "remark": "NEW PU",
+    "ward_id": "2983",
+    "ward_name": "OKPANKU",
+    "local_government_id": "259",
+    "local_government_name": "ANINRI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 5.961626799999999,
+      "longitude": 7.665662500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.9854729,
+          "lng": 7.7339457
+        },
+        "southwest": {
+          "lat": 5.9239228,
+          "lng": 7.615585400000001
+        }
+      },
+      "formatted_address": "Okpanku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.961626799999999,7.665662500000001",
+      "google_place_id": "ChIJ19bsE-s2QxARVy1cYP83uIw"
+    }
+  },
+  {
+    "id": "55156",
+    "name": "IHUBE TOWN HALL OKPANKU",
+    "registration_area_id": "2983",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "14/01/09/014",
+    "remark": "NEW PU",
+    "ward_id": "2983",
+    "ward_name": "OKPANKU",
+    "local_government_id": "259",
+    "local_government_name": "ANINRI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 5.961626799999999,
+      "longitude": 7.665662500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.9854729,
+          "lng": 7.7339457
+        },
+        "southwest": {
+          "lat": 5.9239228,
+          "lng": 7.615585400000001
+        }
+      },
+      "formatted_address": "Okpanku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.961626799999999,7.665662500000001",
+      "google_place_id": "ChIJ19bsE-s2QxARVy1cYP83uIw"
+    }
+  },
+  {
+    "id": "55157",
+    "name": "OKPANKU HIGH SCHOOL OKPANKU",
+    "registration_area_id": "2983",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "14/01/09/015",
+    "remark": "NEW PU",
+    "ward_id": "2983",
+    "ward_name": "OKPANKU",
+    "local_government_id": "259",
+    "local_government_name": "ANINRI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 5.9477999,
+      "longitude": 7.674560400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.949655629892721,
+          "lng": 7.675417850000001
+        },
+        "southwest": {
+          "lat": 5.946955970107277,
+          "lng": 7.67198805
+        }
+      },
+      "formatted_address": "WMXF+4R7, 402141, Okpanku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9477999,7.674560400000001",
+      "google_place_id": "ChIJz-YB8MA2QxAR0m_qsP23yl8"
+    }
+  },
+  {
+    "id": "55158",
+    "name": "COMMUNITY PRIMARY SCHOOL AMAGU I OKPANKU",
+    "registration_area_id": "2983",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "14/01/09/016",
+    "remark": "NEW PU",
+    "ward_id": "2983",
+    "ward_name": "OKPANKU",
+    "local_government_id": "259",
+    "local_government_name": "ANINRI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 5.954678299999999,
+      "longitude": 7.6817172,
+      "viewport": {
+        "northeast": {
+          "lat": 5.955789979892721,
+          "lng": 7.683218929892721
+        },
+        "southwest": {
+          "lat": 5.953090320107277,
+          "lng": 7.680519270107277
+        }
+      },
+      "formatted_address": "XM3J+VMG, amagu, Okpanku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.954678299999999,7.6817172",
+      "google_place_id": "ChIJJboJIZQ2QxARgq25CerRoUQ"
+    }
+  },
+  {
+    "id": "55159",
+    "name": "COMMUNITY SCHOOL AMAGU II OKPANKU",
+    "registration_area_id": "2983",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "14/01/09/017",
+    "remark": "NEW PU",
+    "ward_id": "2983",
+    "ward_name": "OKPANKU",
+    "local_government_id": "259",
+    "local_government_name": "ANINRI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 5.954678299999999,
+      "longitude": 7.6817172,
+      "viewport": {
+        "northeast": {
+          "lat": 5.955789979892721,
+          "lng": 7.683218929892721
+        },
+        "southwest": {
+          "lat": 5.953090320107277,
+          "lng": 7.680519270107277
+        }
+      },
+      "formatted_address": "XM3J+VMG, amagu, Okpanku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.954678299999999,7.6817172",
+      "google_place_id": "ChIJJboJIZQ2QxARgq25CerRoUQ"
+    }
+  }
+]

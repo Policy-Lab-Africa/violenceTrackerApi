@@ -1,0 +1,813 @@
+[
+  {
+    "id": "102155",
+    "name": "SARKI SANI MODEL PRI. SCHOOL",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "21/03/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7401806,
+      "longitude": 4.5230252,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74153252989272,
+          "lng": 4.524333429892722
+        },
+        "southwest": {
+          "lat": 12.73883287010728,
+          "lng": 4.521633770107278
+        }
+      },
+      "formatted_address": "PGRF+36C, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7401806,4.5230252",
+      "google_place_id": "ChIJ5SDkRB6tyRERcK-bAh5O-yQ"
+    }
+  },
+  {
+    "id": "102156",
+    "name": "OLD PRISON",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "21/03/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7494537,
+      "longitude": 4.5368014,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75067297989272,
+          "lng": 4.538229279892722
+        },
+        "southwest": {
+          "lat": 12.74797332010728,
+          "lng": 4.535529620107278
+        }
+      },
+      "formatted_address": "PGXP+QMF, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7494537,4.5368014",
+      "google_place_id": "ChIJAQAAADytyRERFkP0WK0jHAI"
+    }
+  },
+  {
+    "id": "102157",
+    "name": "DOGO KAFI MARI AREA",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "21/03/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102158",
+    "name": "LOCAL GOVERNMENT IST GATE",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "21/03/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.45432,
+      "longitude": 4.1888184,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45565147989272,
+          "lng": 4.190097379892721
+        },
+        "southwest": {
+          "lat": 12.45295182010728,
+          "lng": 4.187397720107278
+        }
+      },
+      "formatted_address": "F53Q+PGG, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.45432,4.1888184",
+      "google_place_id": "ChIJ68p-S6oTyRERSplVwRSaYkE"
+    }
+  },
+  {
+    "id": "102159",
+    "name": "MOH'D MERA MODEL PRIMARY SCHOOL",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "21/03/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7397484,
+      "longitude": 4.527496600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74117987989272,
+          "lng": 4.528856679892723
+        },
+        "southwest": {
+          "lat": 12.73848022010728,
+          "lng": 4.526157020107279
+        }
+      },
+      "formatted_address": "PGQG+WX5, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7397484,4.527496600000001",
+      "google_place_id": "ChIJHa6qPxmtyRERHfY00QU4j1c"
+    }
+  },
+  {
+    "id": "102160",
+    "name": "BAYA TA HAIFU (AREA)",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "21/03/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102161",
+    "name": "MATAN FADA AREA",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "21/03/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7494718,
+      "longitude": 4.5366582,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7707581,
+          "lng": 4.5621581
+        },
+        "southwest": {
+          "lat": 12.705247,
+          "lng": 4.506880000000001
+        }
+      },
+      "formatted_address": "Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7494718,4.5366582",
+      "google_place_id": "ChIJjzeXyOOsyRERSuUITCTrbiY"
+    }
+  },
+  {
+    "id": "102162",
+    "name": "GARKAR S/SHANU B/ KASUWA",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "21/03/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102163",
+    "name": "RIJYAR BARGA (AREA)",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "21/03/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7449575,
+      "longitude": 4.5291764,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74631192989272,
+          "lng": 4.530446829892721
+        },
+        "southwest": {
+          "lat": 12.74361227010728,
+          "lng": 4.527747170107277
+        }
+      },
+      "formatted_address": "Rijiyar barga , Dan tabo family house, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7449575,4.5291764",
+      "google_place_id": "ChIJ1Zc_GkityRERVLw8qMIr94Y"
+    }
+  },
+  {
+    "id": "102164",
+    "name": "SABON GARIN GOBIRAWA",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "21/03/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102165",
+    "name": "GARKAR MAKAMA",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "21/03/07/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7494537,
+      "longitude": 4.5368014,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75067297989272,
+          "lng": 4.538229279892722
+        },
+        "southwest": {
+          "lat": 12.74797332010728,
+          "lng": 4.535529620107278
+        }
+      },
+      "formatted_address": "PGXP+QMF, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7494537,4.5368014",
+      "google_place_id": "ChIJAQAAADytyRERFkP0WK0jHAI"
+    }
+  },
+  {
+    "id": "102166",
+    "name": "BAYAN GIDAN RUWA",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "21/03/07/012",
+    "remark": "NEW PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7549279,
+      "longitude": 4.5414989,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75628397989272,
+          "lng": 4.542860629892722
+        },
+        "southwest": {
+          "lat": 12.75358432010728,
+          "lng": 4.540160970107278
+        }
+      },
+      "formatted_address": "Km 4 Argungu Sokoto Road, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7549279,4.5414989",
+      "google_place_id": "ChIJaUfu_ZStyRERNgqDANzkgzg"
+    }
+  },
+  {
+    "id": "102167",
+    "name": "SLAMIYA ASSALAMU ALAIKUM",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "21/03/07/013",
+    "remark": "NEW PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7420198,
+      "longitude": 4.525436,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74323532989272,
+          "lng": 4.526770529892721
+        },
+        "southwest": {
+          "lat": 12.74053567010728,
+          "lng": 4.524070870107277
+        }
+      },
+      "formatted_address": "Ahmadu Bello way, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7420198,4.525436",
+      "google_place_id": "ChIJ07-XuLStyRERIf0jBKLBfyE"
+    }
+  },
+  {
+    "id": "102168",
+    "name": "DAN SHAFARMA GIDAN TANKI",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "21/03/07/014",
+    "remark": "NEW PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7420198,
+      "longitude": 4.525436,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74323532989272,
+          "lng": 4.526770529892721
+        },
+        "southwest": {
+          "lat": 12.74053567010728,
+          "lng": 4.524070870107277
+        }
+      },
+      "formatted_address": "Ahmadu Bello way, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7420198,4.525436",
+      "google_place_id": "ChIJ07-XuLStyRERIf0jBKLBfyE"
+    }
+  },
+  {
+    "id": "102169",
+    "name": "G KYABUDU RIJIYA",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "21/03/07/015",
+    "remark": "NEW PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7494537,
+      "longitude": 4.5368014,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75067297989272,
+          "lng": 4.538229279892722
+        },
+        "southwest": {
+          "lat": 12.74797332010728,
+          "lng": 4.535529620107278
+        }
+      },
+      "formatted_address": "PGXP+QMF, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7494537,4.5368014",
+      "google_place_id": "ChIJAQAAADytyRERFkP0WK0jHAI"
+    }
+  },
+  {
+    "id": "102170",
+    "name": "LUNGUN ZABARMAWA",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "21/03/07/016",
+    "remark": "NEW PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7420198,
+      "longitude": 4.525436,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74323532989272,
+          "lng": 4.526770529892721
+        },
+        "southwest": {
+          "lat": 12.74053567010728,
+          "lng": 4.524070870107277
+        }
+      },
+      "formatted_address": "Ahmadu Bello way, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7420198,4.525436",
+      "google_place_id": "ChIJ07-XuLStyRERIf0jBKLBfyE"
+    }
+  },
+  {
+    "id": "102171",
+    "name": "MAGAJIN MATAN FADA",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "21/03/07/017",
+    "remark": "NEW PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7420198,
+      "longitude": 4.525436,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74323532989272,
+          "lng": 4.526770529892721
+        },
+        "southwest": {
+          "lat": 12.74053567010728,
+          "lng": 4.524070870107277
+        }
+      },
+      "formatted_address": "Ahmadu Bello way, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7420198,4.525436",
+      "google_place_id": "ChIJ07-XuLStyRERIf0jBKLBfyE"
+    }
+  },
+  {
+    "id": "102172",
+    "name": "RIJIYAN ALHAJI YUSUF",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "21/03/07/018",
+    "remark": "NEW PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102173",
+    "name": "SABON GARIN KANTA MPS.",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "21/03/07/019",
+    "remark": "NEW PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7420198,
+      "longitude": 4.525436,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74323532989272,
+          "lng": 4.526770529892721
+        },
+        "southwest": {
+          "lat": 12.74053567010728,
+          "lng": 4.524070870107277
+        }
+      },
+      "formatted_address": "Ahmadu Bello way, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7420198,4.525436",
+      "google_place_id": "ChIJ07-XuLStyRERIf0jBKLBfyE"
+    }
+  },
+  {
+    "id": "102174",
+    "name": "UNWALA TANKI",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "21/03/07/020",
+    "remark": "NEW PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7549279,
+      "longitude": 4.5414989,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75628397989272,
+          "lng": 4.542860629892722
+        },
+        "southwest": {
+          "lat": 12.75358432010728,
+          "lng": 4.540160970107278
+        }
+      },
+      "formatted_address": "Km 4 Argungu Sokoto Road, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7549279,4.5414989",
+      "google_place_id": "ChIJaUfu_ZStyRERNgqDANzkgzg"
+    }
+  },
+  {
+    "id": "102175",
+    "name": "LUNGUN MALLAMAI",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "21/03/07/021",
+    "remark": "NEW PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7420198,
+      "longitude": 4.525436,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74323532989272,
+          "lng": 4.526770529892721
+        },
+        "southwest": {
+          "lat": 12.74053567010728,
+          "lng": 4.524070870107277
+        }
+      },
+      "formatted_address": "Ahmadu Bello way, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7420198,4.525436",
+      "google_place_id": "ChIJ07-XuLStyRERIf0jBKLBfyE"
+    }
+  },
+  {
+    "id": "102176",
+    "name": "GANGAREN MATAN FADA MTN",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "21/03/07/022",
+    "remark": "NEW PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7494537,
+      "longitude": 4.5368014,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75067297989272,
+          "lng": 4.538229279892722
+        },
+        "southwest": {
+          "lat": 12.74797332010728,
+          "lng": 4.535529620107278
+        }
+      },
+      "formatted_address": "PGXP+QMF, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7494537,4.5368014",
+      "google_place_id": "ChIJAQAAADytyRERFkP0WK0jHAI"
+    }
+  },
+  {
+    "id": "102177",
+    "name": "TASHAR BAYAWA",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "21/03/07/023",
+    "remark": "NEW PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7420198,
+      "longitude": 4.525436,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74323532989272,
+          "lng": 4.526770529892721
+        },
+        "southwest": {
+          "lat": 12.74053567010728,
+          "lng": 4.524070870107277
+        }
+      },
+      "formatted_address": "Ahmadu Bello way, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7420198,4.525436",
+      "google_place_id": "ChIJ07-XuLStyRERIf0jBKLBfyE"
+    }
+  },
+  {
+    "id": "102178",
+    "name": "MAMMAN DAN KAFINTA",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "21/03/07/024",
+    "remark": "NEW PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7494537,
+      "longitude": 4.5368014,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75067297989272,
+          "lng": 4.538229279892722
+        },
+        "southwest": {
+          "lat": 12.74797332010728,
+          "lng": 4.535529620107278
+        }
+      },
+      "formatted_address": "PGXP+QMF, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7494537,4.5368014",
+      "google_place_id": "ChIJAQAAADytyRERFkP0WK0jHAI"
+    }
+  },
+  {
+    "id": "102179",
+    "name": "GAMDI BAKIN RUWA",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "21/03/07/025",
+    "remark": "NEW PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7420198,
+      "longitude": 4.525436,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74323532989272,
+          "lng": 4.526770529892721
+        },
+        "southwest": {
+          "lat": 12.74053567010728,
+          "lng": 4.524070870107277
+        }
+      },
+      "formatted_address": "Ahmadu Bello way, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7420198,4.525436",
+      "google_place_id": "ChIJ07-XuLStyRERIf0jBKLBfyE"
+    }
+  },
+  {
+    "id": "102180",
+    "name": "BAKIN GIDAN ALKALI G.R.A",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "21/03/07/026",
+    "remark": "NEW PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7420198,
+      "longitude": 4.525436,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74323532989272,
+          "lng": 4.526770529892721
+        },
+        "southwest": {
+          "lat": 12.74053567010728,
+          "lng": 4.524070870107277
+        }
+      },
+      "formatted_address": "Ahmadu Bello way, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7420198,4.525436",
+      "google_place_id": "ChIJ07-XuLStyRERIf0jBKLBfyE"
+    }
+  },
+  {
+    "id": "102181",
+    "name": "BAYAN J.N.I",
+    "registration_area_id": "5217",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "21/03/07/027",
+    "remark": "NEW PU",
+    "ward_id": "5217",
+    "ward_name": "KOKANI NORTH",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7420198,
+      "longitude": 4.525436,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74323532989272,
+          "lng": 4.526770529892721
+        },
+        "southwest": {
+          "lat": 12.74053567010728,
+          "lng": 4.524070870107277
+        }
+      },
+      "formatted_address": "Ahmadu Bello way, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7420198,4.525436",
+      "google_place_id": "ChIJ07-XuLStyRERIf0jBKLBfyE"
+    }
+  }
+]

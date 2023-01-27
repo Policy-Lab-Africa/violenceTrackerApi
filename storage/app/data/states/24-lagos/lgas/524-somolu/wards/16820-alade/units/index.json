@@ -1,0 +1,883 @@
+[
+  {
+    "id": "330082",
+    "name": "BAILEY ST. IN FRONT OF HOUSE NO. 2",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "24/19/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330083",
+    "name": "BAILEY ST. IN FRONT OF HOUSE NO. 11",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "24/19/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330084",
+    "name": "S.S. PETER & PAUL PRY. SCH.",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "24/19/03/003",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 42.963047,
+      "longitude": -78.74917219999999,
+      "viewport": {
+        "northeast": {
+          "lat": 42.96432717989272,
+          "lng": -78.74798032010727
+        },
+        "southwest": {
+          "lat": 42.96162752010728,
+          "lng": -78.75067997989271
+        }
+      },
+      "formatted_address": "5480 Main St, Williamsville, NY 14221, United States",
+      "google_map_url": "https://maps.google.com?q=42.963047,-78.74917219999999",
+      "google_place_id": "ChIJc0Xe3X1z04kR1ET49FQ-KTA"
+    }
+  },
+  {
+    "id": "330085",
+    "name": "OLABIRAN ST. B/W HOUSE NOS. 4&6",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "24/19/03/004",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330086",
+    "name": "OLABIRAN ST. IN FRONT OF HOUSE NO. 52",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "24/19/03/005",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330087",
+    "name": "EYIOWUNAWI ST. IN FRONT OF HOUSE NO. 13",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "24/19/03/006",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.531714699999999,
+      "longitude": 3.3743025,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533074429892721,
+          "lng": 3.375722479892722
+        },
+        "southwest": {
+          "lat": 6.530374770107278,
+          "lng": 3.373022820107277
+        }
+      },
+      "formatted_address": "13 Alade St, Igbobi 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.531714699999999,3.3743025",
+      "google_place_id": "ChIJPXWEMqmNOxAREZFhHCT3L4o"
+    }
+  },
+  {
+    "id": "330088",
+    "name": "EYIOWUNAWI ST. IN FRONT OF HOUSE NO. 15",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "24/19/03/007",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.531209,
+      "longitude": 3.3745049,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532558829892722,
+          "lng": 3.375854729892722
+        },
+        "southwest": {
+          "lat": 6.529859170107279,
+          "lng": 3.373155070107277
+        }
+      },
+      "formatted_address": "15 Alade St, Igbobi 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.531209,3.3745049",
+      "google_place_id": "EioxNSBBbGFkZSBTdCwgSWdib2JpIDEwMjIxNiwgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEgkN4oJLqY07EBFIxRuudz1iLxAPKhQKEglFB2g0qY07EBHQ-YjvxsXB8Q"
+    }
+  },
+  {
+    "id": "330089",
+    "name": "ODUBANJO ST. IN FRONT OF HOUSE NO. 6",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "24/19/03/008",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5312891,
+      "longitude": 3.3743245,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532643629892722,
+          "lng": 3.375762129892722
+        },
+        "southwest": {
+          "lat": 6.529943970107278,
+          "lng": 3.373062470107277
+        }
+      },
+      "formatted_address": "6 Alade St, Igbobi 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5312891,3.3743245",
+      "google_place_id": "ChIJ8SHILKmNOxARf86iU9gHYHM"
+    }
+  },
+  {
+    "id": "330090",
+    "name": "SALAMI ST. IN FRONT OF HOUSE NO. 9",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "24/19/03/009",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5316079,
+      "longitude": 3.3742404,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532972979892723,
+          "lng": 3.375698279892722
+        },
+        "southwest": {
+          "lat": 6.530273320107279,
+          "lng": 3.372998620107278
+        }
+      },
+      "formatted_address": "9 Alade St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5316079,3.3742404",
+      "google_place_id": "ChIJAUXdMqmNOxAR9OuBJoz0szk"
+    }
+  },
+  {
+    "id": "330091",
+    "name": "FADIPE ST. IN FRONT OF HOUSE NO. 14",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "24/19/03/010",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330092",
+    "name": "AJOSE ST. IN FRONT OF HOUSE NO. 8",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "24/19/03/011",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5319541,
+      "longitude": 3.3742927,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533312129892723,
+          "lng": 3.375700679892722
+        },
+        "southwest": {
+          "lat": 6.530612470107278,
+          "lng": 3.373001020107277
+        }
+      },
+      "formatted_address": "8 Alade St, Igbobi 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5319541,3.3742927",
+      "google_place_id": "ChIJp83xLKmNOxARNxKoQPdWQpo"
+    }
+  },
+  {
+    "id": "330093",
+    "name": "ODUNLADE PRY. SCH. ODUNLADE ST. I",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "24/19/03/012",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5360416,
+      "longitude": 3.3754307,
+      "viewport": {
+        "northeast": {
+          "lat": 6.537369729892722,
+          "lng": 3.376846229892723
+        },
+        "southwest": {
+          "lat": 6.534670070107278,
+          "lng": 3.374146570107278
+        }
+      },
+      "formatted_address": "Odunlade St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5360416,3.3754307",
+      "google_place_id": "ChIJ53tyJaaNOxARqKHEuiefDLQ"
+    }
+  },
+  {
+    "id": "330094",
+    "name": "ODUNLADE PRY. SCH. ODUNLADE ST. II",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "24/19/03/013",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5360416,
+      "longitude": 3.3754307,
+      "viewport": {
+        "northeast": {
+          "lat": 6.537369729892722,
+          "lng": 3.376846229892723
+        },
+        "southwest": {
+          "lat": 6.534670070107278,
+          "lng": 3.374146570107278
+        }
+      },
+      "formatted_address": "Odunlade St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5360416,3.3754307",
+      "google_place_id": "ChIJ53tyJaaNOxARqKHEuiefDLQ"
+    }
+  },
+  {
+    "id": "330095",
+    "name": "ODUNLADE ST. B/W HOUSE NOS. 49 & 51",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "24/19/03/014",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330096",
+    "name": "BALOGUN ST. B/W HOUSE NOS. 5 & 7 (ODD NO.)",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "24/19/03/015",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6556967,
+      "longitude": 3.3235478,
+      "viewport": {
+        "northeast": {
+          "lat": 6.657046979892722,
+          "lng": 3.324838029892723
+        },
+        "southwest": {
+          "lat": 6.654347320107278,
+          "lng": 3.322138370107278
+        }
+      },
+      "formatted_address": "Shop No. 10, Broadway Plaza, 138 Iju Rd, Fagba 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6556967,3.3235478",
+      "google_place_id": "ChIJ94oqf7SWOxARS-gXV2zETXw"
+    }
+  },
+  {
+    "id": "330097",
+    "name": "BALOGUN ST. B/W HOUSE NOS. 33 & 35",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "24/19/03/016",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6556967,
+      "longitude": 3.3235478,
+      "viewport": {
+        "northeast": {
+          "lat": 6.657046979892722,
+          "lng": 3.324838029892723
+        },
+        "southwest": {
+          "lat": 6.654347320107278,
+          "lng": 3.322138370107278
+        }
+      },
+      "formatted_address": "Shop No. 10, Broadway Plaza, 138 Iju Rd, Fagba 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6556967,3.3235478",
+      "google_place_id": "ChIJ94oqf7SWOxARS-gXV2zETXw"
+    }
+  },
+  {
+    "id": "330098",
+    "name": "APATA ST. B/W HOUSE NOS. 32 & 34",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "24/19/03/017",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330099",
+    "name": "FAGBEYIRO ST. IN FRONT OF HOUSE NO. 30",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "24/19/03/018",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330100",
+    "name": "CRAIG ST. IN FRONT OF HOUSE NO. 6",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "24/19/03/019",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5312891,
+      "longitude": 3.3743245,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532643629892722,
+          "lng": 3.375762129892722
+        },
+        "southwest": {
+          "lat": 6.529943970107278,
+          "lng": 3.373062470107277
+        }
+      },
+      "formatted_address": "6 Alade St, Igbobi 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5312891,3.3743245",
+      "google_place_id": "ChIJ8SHILKmNOxARf86iU9gHYHM"
+    }
+  },
+  {
+    "id": "330101",
+    "name": "ANIFOWOSE ST. IN FRONT OF HOUSE NO. 40",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "24/19/03/020",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5369514,
+      "longitude": 3.3770715,
+      "viewport": {
+        "northeast": {
+          "lat": 6.538320379892721,
+          "lng": 3.378381279892722
+        },
+        "southwest": {
+          "lat": 6.535620720107278,
+          "lng": 3.375681620107278
+        }
+      },
+      "formatted_address": "40, Anifowose Street, Off Oja Alade B/stop, Shomolu, Somolu, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5369514,3.3770715",
+      "google_place_id": "ChIJh6qQFC6NOxARQzPRO9MmPlE"
+    }
+  },
+  {
+    "id": "330102",
+    "name": "ANIFOWOSE ST. IN FRONT OF HOUSE NO. 51",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "24/19/03/021",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330103",
+    "name": "ANIFOWOSE ST. IN FRONT OF HOUSE NO. 12",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "24/19/03/022",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5329524,
+      "longitude": 3.3758391,
+      "viewport": {
+        "northeast": {
+          "lat": 6.534302129892722,
+          "lng": 3.377189729892723
+        },
+        "southwest": {
+          "lat": 6.531602470107278,
+          "lng": 3.374490070107278
+        }
+      },
+      "formatted_address": "7 Adebiyi St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5329524,3.3758391",
+      "google_place_id": "ChIJ2W_K_9uNOxARaB5RzGu8fgA"
+    }
+  },
+  {
+    "id": "330104",
+    "name": "ANIFOWOSE ST. IN FRONT OF HOUSE NO. 3",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "24/19/03/023",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.532296,
+      "longitude": 3.3744994,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533636379892722,
+          "lng": 3.375782179892722
+        },
+        "southwest": {
+          "lat": 6.530936720107278,
+          "lng": 3.373082520107277
+        }
+      },
+      "formatted_address": "3 Alade St, Igbobi 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.532296,3.3744994",
+      "google_place_id": "ChIJ9ZaSKamNOxARf4N0lEkd8Yk"
+    }
+  },
+  {
+    "id": "330105",
+    "name": "SODIMU ST. B/W HOUSE NOS. 6 & 8",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "24/19/03/024",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330106",
+    "name": "SODIMU ST. B/W HOUSE NOS. 2 & 4",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "24/19/03/025",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330107",
+    "name": "SODIMU ST. B/W HOUSE NOS. 14 & 16",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "24/19/03/026",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330108",
+    "name": "SODIMU ST.  IN FRONT OF HOUSE NO. 20",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "24/19/03/027",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5310905,
+      "longitude": 3.3743025,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532445879892722,
+          "lng": 3.375756429892722
+        },
+        "southwest": {
+          "lat": 6.529746220107278,
+          "lng": 3.373056770107278
+        }
+      },
+      "formatted_address": "20 Alade St, Igbobi 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5310905,3.3743025",
+      "google_place_id": "ChIJ-0d_NamNOxARFurIniZ_k2g"
+    }
+  },
+  {
+    "id": "330109",
+    "name": "APATA/FADIPE ST. JUNCTION (EVEN NOS.) I",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "24/19/03/028",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5331641,
+      "longitude": 3.3736,
+      "viewport": {
+        "northeast": {
+          "lat": 6.534505579892721,
+          "lng": 3.374898779892723
+        },
+        "southwest": {
+          "lat": 6.531805920107277,
+          "lng": 3.372199120107278
+        }
+      },
+      "formatted_address": "Morocco Rd, Ifako-Ijaiye 100242, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5331641,3.3736",
+      "google_place_id": "ChIJc_bOJfeTOxAR-G-62bse5Ik"
+    }
+  },
+  {
+    "id": "330110",
+    "name": "APATA/FADIPE ST. JUNCTION (EVEN NOS.) II",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "24/19/03/029",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5331641,
+      "longitude": 3.3736,
+      "viewport": {
+        "northeast": {
+          "lat": 6.534505579892721,
+          "lng": 3.374898779892723
+        },
+        "southwest": {
+          "lat": 6.531805920107277,
+          "lng": 3.372199120107278
+        }
+      },
+      "formatted_address": "Morocco Rd, Ifako-Ijaiye 100242, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5331641,3.3736",
+      "google_place_id": "ChIJc_bOJfeTOxAR-G-62bse5Ik"
+    }
+  },
+  {
+    "id": "330111",
+    "name": "MOSALASHI ST. IN FRONT OF HOUSE NO. 26",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "24/19/03/030",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5316081,
+      "longitude": 3.3889241,
+      "viewport": {
+        "northeast": {
+          "lat": 6.53295792989272,
+          "lng": 3.390273929892722
+        },
+        "southwest": {
+          "lat": 6.530258270107276,
+          "lng": 3.387574270107277
+        }
+      },
+      "formatted_address": "Abayomi St, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5316081,3.3889241",
+      "google_place_id": "ChIJ80Sy2RqNOxAR9vV3v8-xqtA"
+    }
+  },
+  {
+    "id": "330112",
+    "name": "MARKET ST./MOSALASHI ST. JUNCTION (ODD NOS.",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "24/19/03/031",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.533716099999999,
+      "longitude": 3.3766105,
+      "viewport": {
+        "northeast": {
+          "lat": 6.535027679892722,
+          "lng": 3.377958879892723
+        },
+        "southwest": {
+          "lat": 6.532328020107278,
+          "lng": 3.375259220107278
+        }
+      },
+      "formatted_address": "G9MG+FJQ, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.533716099999999,3.3766105",
+      "google_place_id": "ChIJy2SRiqiNOxARuhlW5OmH0ic"
+    }
+  },
+  {
+    "id": "330113",
+    "name": "AWOSEYIN LANE, IN FRONT OF HOUSE NO. 5",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "24/19/03/032",
+    "remark": "EXISTING PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5321709,
+      "longitude": 3.3745388,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533509779892722,
+          "lng": 3.375811029892722
+        },
+        "southwest": {
+          "lat": 6.530810120107278,
+          "lng": 3.373111370107277
+        }
+      },
+      "formatted_address": "5 Alade St, Igbobi 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5321709,3.3745388",
+      "google_place_id": "ChIJL15rKamNOxARZjuA6cAUNSQ"
+    }
+  },
+  {
+    "id": "330114",
+    "name": "PRIMARY HEALTH CENTRE, 19, ANIFOWOSHE STREET",
+    "registration_area_id": "16820",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "24/19/03/033",
+    "remark": "NEW PU",
+    "ward_id": "16820",
+    "ward_name": "ALADE",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  }
+]

@@ -1,0 +1,534 @@
+[
+  {
+    "id": "331880",
+    "name": "K/MADAUCHI OP",
+    "registration_area_id": "16870",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "25/03/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "16870",
+    "ward_name": "MADAUCHI",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.3866944,
+      "longitude": 8.3509004,
+      "viewport": {
+        "northeast": {
+          "lat": 8.388184279892721,
+          "lng": 8.352363729892723
+        },
+        "southwest": {
+          "lat": 8.385484620107277,
+          "lng": 8.349664070107277
+        }
+      },
+      "formatted_address": "99P2+M9M, 950103, Doma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3866944,8.3509004",
+      "google_place_id": "ChIJZ0z4T3NTUBARLmXB5J1hcXA"
+    }
+  },
+  {
+    "id": "331881",
+    "name": "K/LIMAN BAKASHI OP",
+    "registration_area_id": "16870",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "25/03/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "16870",
+    "ward_name": "MADAUCHI",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "331882",
+    "name": "K/MASSALACHI OP",
+    "registration_area_id": "16870",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "25/03/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "16870",
+    "ward_name": "MADAUCHI",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.3866944,
+      "longitude": 8.3509004,
+      "viewport": {
+        "northeast": {
+          "lat": 8.388184279892721,
+          "lng": 8.352363729892723
+        },
+        "southwest": {
+          "lat": 8.385484620107277,
+          "lng": 8.349664070107277
+        }
+      },
+      "formatted_address": "99P2+M9M, 950103, Doma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3866944,8.3509004",
+      "google_place_id": "ChIJZ0z4T3NTUBARLmXB5J1hcXA"
+    }
+  },
+  {
+    "id": "331883",
+    "name": "K/MALLAM YARO OP",
+    "registration_area_id": "16870",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "25/03/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "16870",
+    "ward_name": "MADAUCHI",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.400857,
+      "longitude": 8.3581343,
+      "viewport": {
+        "northeast": {
+          "lat": 8.402291429892722,
+          "lng": 8.359534379892722
+        },
+        "southwest": {
+          "lat": 8.399591770107278,
+          "lng": 8.356834720107278
+        }
+      },
+      "formatted_address": "General hospital, 950103, Doma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.400857,8.3581343",
+      "google_place_id": "ChIJe6YKZ1-tURAROMo1gq0lmLE"
+    }
+  },
+  {
+    "id": "331884",
+    "name": "K/PAKACHIN DOMA",
+    "registration_area_id": "16870",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "25/03/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "16870",
+    "ward_name": "MADAUCHI",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.400857,
+      "longitude": 8.3581343,
+      "viewport": {
+        "northeast": {
+          "lat": 8.402291429892722,
+          "lng": 8.359534379892722
+        },
+        "southwest": {
+          "lat": 8.399591770107278,
+          "lng": 8.356834720107278
+        }
+      },
+      "formatted_address": "General hospital, 950103, Doma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.400857,8.3581343",
+      "google_place_id": "ChIJe6YKZ1-tURAROMo1gq0lmLE"
+    }
+  },
+  {
+    "id": "331885",
+    "name": "KAURAN SARKI OP",
+    "registration_area_id": "16870",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "25/03/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "16870",
+    "ward_name": "MADAUCHI",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "331886",
+    "name": "K/MALLAM ABOKI OP",
+    "registration_area_id": "16870",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "25/03/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "16870",
+    "ward_name": "MADAUCHI",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "331887",
+    "name": "K/LIMAN GARI OP",
+    "registration_area_id": "16870",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "25/03/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "16870",
+    "ward_name": "MADAUCHI",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "331888",
+    "name": "K/BABAJI OP",
+    "registration_area_id": "16870",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "25/03/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "16870",
+    "ward_name": "MADAUCHI",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.392973099999999,
+      "longitude": 8.36558,
+      "viewport": {
+        "northeast": {
+          "lat": 8.394080629892722,
+          "lng": 8.367154629892722
+        },
+        "southwest": {
+          "lat": 8.391380970107278,
+          "lng": 8.364454970107278
+        }
+      },
+      "formatted_address": "99V8+783, 950103, Doma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.392973099999999,8.36558",
+      "google_place_id": "ChIJvUX3n_RTUBARk3R-uvIg0Lg"
+    }
+  },
+  {
+    "id": "331889",
+    "name": "K/ADARA OLOKPA OP",
+    "registration_area_id": "16870",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "25/03/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "16870",
+    "ward_name": "MADAUCHI",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.3866944,
+      "longitude": 8.3509004,
+      "viewport": {
+        "northeast": {
+          "lat": 8.388184279892721,
+          "lng": 8.352363729892723
+        },
+        "southwest": {
+          "lat": 8.385484620107277,
+          "lng": 8.349664070107277
+        }
+      },
+      "formatted_address": "99P2+M9M, 950103, Doma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3866944,8.3509004",
+      "google_place_id": "ChIJZ0z4T3NTUBARLmXB5J1hcXA"
+    }
+  },
+  {
+    "id": "331890",
+    "name": "K/ALH.ADAMU UNG. NUPAWA OP",
+    "registration_area_id": "16870",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "25/03/08/011",
+    "remark": "EXISTING PU",
+    "ward_id": "16870",
+    "ward_name": "MADAUCHI",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "331891",
+    "name": "K/OSOGBE OP",
+    "registration_area_id": "16870",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "25/03/08/012",
+    "remark": "EXISTING PU",
+    "ward_id": "16870",
+    "ward_name": "MADAUCHI",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.392973099999999,
+      "longitude": 8.36558,
+      "viewport": {
+        "northeast": {
+          "lat": 8.394080629892722,
+          "lng": 8.367154629892722
+        },
+        "southwest": {
+          "lat": 8.391380970107278,
+          "lng": 8.364454970107278
+        }
+      },
+      "formatted_address": "99V8+783, 950103, Doma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.392973099999999,8.36558",
+      "google_place_id": "ChIJvUX3n_RTUBARk3R-uvIg0Lg"
+    }
+  },
+  {
+    "id": "331892",
+    "name": "KOFAR ALHAJI RILWANU OP",
+    "registration_area_id": "16870",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "25/03/08/013",
+    "remark": "EXISTING PU",
+    "ward_id": "16870",
+    "ward_name": "MADAUCHI",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 7.9197075,
+      "longitude": 8.320575,
+      "viewport": {
+        "northeast": {
+          "lat": 7.921057079892721,
+          "lng": 8.32192907989272
+        },
+        "southwest": {
+          "lat": 7.918357420107277,
+          "lng": 8.319229420107277
+        }
+      },
+      "formatted_address": "950103, Akpetiche, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9197075,8.320575",
+      "google_place_id": "ChIJI86Z4ndlUBARvj_yx1yCB_I"
+    }
+  },
+  {
+    "id": "331893",
+    "name": "DAMPANI -OP",
+    "registration_area_id": "16870",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "25/03/08/014",
+    "remark": "NEW PU",
+    "ward_id": "16870",
+    "ward_name": "MADAUCHI",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "331894",
+    "name": "KWATA DOMA -OP",
+    "registration_area_id": "16870",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "25/03/08/015",
+    "remark": "NEW PU",
+    "ward_id": "16870",
+    "ward_name": "MADAUCHI",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.400857,
+      "longitude": 8.358134399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.4244991,
+          "lng": 8.386521
+        },
+        "southwest": {
+          "lat": 8.377151999999999,
+          "lng": 8.3238881
+        }
+      },
+      "formatted_address": "950103, Doma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.400857,8.358134399999999",
+      "google_place_id": "ChIJPdrw-b9SUBARluMaZOdql3c"
+    }
+  },
+  {
+    "id": "331895",
+    "name": "DOMA EAST PRI. SCH. II -PB",
+    "registration_area_id": "16870",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "25/03/08/016",
+    "remark": "NEW PU",
+    "ward_id": "16870",
+    "ward_name": "MADAUCHI",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.3895386,
+      "longitude": 8.370951999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.390932979892723,
+          "lng": 8.37224362989272
+        },
+        "southwest": {
+          "lat": 8.388233320107277,
+          "lng": 8.369543970107276
+        }
+      },
+      "formatted_address": "99QC+R98, Agyaragu Road, Doma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3895386,8.370951999999999",
+      "google_place_id": "ChIJLy6_dNFTUBAREsToXG67r5k"
+    }
+  },
+  {
+    "id": "331896",
+    "name": "DOMA EAST PRI. SCH. I (PB)",
+    "registration_area_id": "16870",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "25/03/08/017",
+    "remark": "NEW PU",
+    "ward_id": "16870",
+    "ward_name": "MADAUCHI",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.3849521,
+      "longitude": 8.3485462,
+      "viewport": {
+        "northeast": {
+          "lat": 8.386253929892723,
+          "lng": 8.349921229892722
+        },
+        "southwest": {
+          "lat": 8.383554270107277,
+          "lng": 8.347221570107278
+        }
+      },
+      "formatted_address": "98MX+XCM, 950103, Doma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3849521,8.3485462",
+      "google_place_id": "ChIJo-425h1TUBAR6XusPTqprjo"
+    }
+  },
+  {
+    "id": "331897",
+    "name": "KOFAR MALLAM ABOKI II (OP)",
+    "registration_area_id": "16870",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "25/03/08/018",
+    "remark": "NEW PU",
+    "ward_id": "16870",
+    "ward_name": "MADAUCHI",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "331898",
+    "name": "KOFAR BABAJI II (OP)",
+    "registration_area_id": "16870",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "25/03/08/019",
+    "remark": "NEW PU",
+    "ward_id": "16870",
+    "ward_name": "MADAUCHI",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.392973099999999,
+      "longitude": 8.36558,
+      "viewport": {
+        "northeast": {
+          "lat": 8.394080629892722,
+          "lng": 8.367154629892722
+        },
+        "southwest": {
+          "lat": 8.391380970107278,
+          "lng": 8.364454970107278
+        }
+      },
+      "formatted_address": "99V8+783, 950103, Doma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.392973099999999,8.36558",
+      "google_place_id": "ChIJvUX3n_RTUBARk3R-uvIg0Lg"
+    }
+  },
+  {
+    "id": "331899",
+    "name": "UNG. SARKI IDADU -OP",
+    "registration_area_id": "16870",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "25/03/08/020",
+    "remark": "NEW PU",
+    "ward_id": "16870",
+    "ward_name": "MADAUCHI",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  }
+]

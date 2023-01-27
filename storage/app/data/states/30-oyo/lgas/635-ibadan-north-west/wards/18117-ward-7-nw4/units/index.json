@@ -1,0 +1,486 @@
+[
+  {
+    "id": "354248",
+    "name": "ARENA CLUB, LEMOMU STREET I",
+    "registration_area_id": "18117",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "30/08/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "18117",
+    "ward_name": "WARD 7 NW4",
+    "local_government_id": "635",
+    "local_government_name": "IBADAN NORTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.387730599999999,
+      "longitude": 3.8817469,
+      "viewport": {
+        "northeast": {
+          "lat": 7.389188879892722,
+          "lng": 3.882907829892722
+        },
+        "southwest": {
+          "lat": 7.386489220107278,
+          "lng": 3.880208170107278
+        }
+      },
+      "formatted_address": "AJE House, 200211, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.387730599999999,3.8817469",
+      "google_place_id": "ChIJBXVs_6aNORARXcxfQ0S3rlE"
+    }
+  },
+  {
+    "id": "354249",
+    "name": "ARENA CLUB, LEMOMU STREET II",
+    "registration_area_id": "18117",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "30/08/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "18117",
+    "ward_name": "WARD 7 NW4",
+    "local_government_id": "635",
+    "local_government_name": "IBADAN NORTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3901222,
+      "longitude": 3.8843457,
+      "viewport": {
+        "northeast": {
+          "lat": 7.391472029892721,
+          "lng": 3.885695529892723
+        },
+        "southwest": {
+          "lat": 7.388772370107278,
+          "lng": 3.882995870107279
+        }
+      },
+      "formatted_address": "Lemomu Street, 200284, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3901222,3.8843457",
+      "google_place_id": "ChIJVSQ16xKNORARQCowNLLUezQ"
+    }
+  },
+  {
+    "id": "354250",
+    "name": "IN FRONT AKINSANMI'S HOUSE, EKOTEDO I",
+    "registration_area_id": "18117",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "30/08/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "18117",
+    "ward_name": "WARD 7 NW4",
+    "local_government_id": "635",
+    "local_government_name": "IBADAN NORTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "354251",
+    "name": "IN FRONT AKINSANMI'S HOUSE, EKOTEDO II",
+    "registration_area_id": "18117",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "30/08/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "18117",
+    "ward_name": "WARD 7 NW4",
+    "local_government_id": "635",
+    "local_government_name": "IBADAN NORTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "354252",
+    "name": "IN FRONT OF ONI'S HOUSE, EKOTEDO I",
+    "registration_area_id": "18117",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "30/08/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "18117",
+    "ward_name": "WARD 7 NW4",
+    "local_government_id": "635",
+    "local_government_name": "IBADAN NORTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "354253",
+    "name": "IN FRONT OF ONI'S HOUSE, EKOTEDO II",
+    "registration_area_id": "18117",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "30/08/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "18117",
+    "ward_name": "WARD 7 NW4",
+    "local_government_id": "635",
+    "local_government_name": "IBADAN NORTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "354254",
+    "name": "IN FRONT OF QUEENS CINEMA, EKOTEDO I",
+    "registration_area_id": "18117",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "30/08/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "18117",
+    "ward_name": "WARD 7 NW4",
+    "local_government_id": "635",
+    "local_government_name": "IBADAN NORTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "354255",
+    "name": "IN FRONT OF QUEENS CINEMA, EKOTEDO II",
+    "registration_area_id": "18117",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "30/08/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "18117",
+    "ward_name": "WARD 7 NW4",
+    "local_government_id": "635",
+    "local_government_name": "IBADAN NORTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "354256",
+    "name": "IYA OLOBE JUNCTION",
+    "registration_area_id": "18117",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "30/08/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "18117",
+    "ward_name": "WARD 7 NW4",
+    "local_government_id": "635",
+    "local_government_name": "IBADAN NORTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.390844799999999,
+      "longitude": 3.8827369,
+      "viewport": {
+        "northeast": {
+          "lat": 7.39218902989272,
+          "lng": 3.884105529892722
+        },
+        "southwest": {
+          "lat": 7.389489370107277,
+          "lng": 3.881405870107278
+        }
+      },
+      "formatted_address": "LW 352 Ekotedo Iya Olobe Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.390844799999999,3.8827369",
+      "google_place_id": "ChIJF7hnf5uNORARe4Pf5XthUJA"
+    }
+  },
+  {
+    "id": "354257",
+    "name": "LATE BAALE OMOLE'S HOUSE IDI-ORO",
+    "registration_area_id": "18117",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "30/08/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "18117",
+    "ward_name": "WARD 7 NW4",
+    "local_government_id": "635",
+    "local_government_name": "IBADAN NORTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.368682400000001,
+      "longitude": 3.908249,
+      "viewport": {
+        "northeast": {
+          "lat": 7.370032229892723,
+          "lng": 3.909598829892721
+        },
+        "southwest": {
+          "lat": 7.367332570107279,
+          "lng": 3.906899170107277
+        }
+      },
+      "formatted_address": "Idi Oro Street, 200263, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.368682400000001,3.908249",
+      "google_place_id": "ChIJaxkhSXiSORARkuBtnH70YQs"
+    }
+  },
+  {
+    "id": "354258",
+    "name": "OPEN SPACE IDI-ORO, EKOTEDO",
+    "registration_area_id": "18117",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "30/08/07/011",
+    "remark": "EXISTING PU",
+    "ward_id": "18117",
+    "ward_name": "WARD 7 NW4",
+    "local_government_id": "635",
+    "local_government_name": "IBADAN NORTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "354259",
+    "name": "OPPOSITE AGIP PETROL STATION, OKE PADRE",
+    "registration_area_id": "18117",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "30/08/07/012",
+    "remark": "EXISTING PU",
+    "ward_id": "18117",
+    "ward_name": "WARD 7 NW4",
+    "local_government_id": "635",
+    "local_government_name": "IBADAN NORTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3928122,
+      "longitude": 3.9042234,
+      "viewport": {
+        "northeast": {
+          "lat": 7.394181879892721,
+          "lng": 3.905529729892722
+        },
+        "southwest": {
+          "lat": 7.391482220107277,
+          "lng": 3.902830070107278
+        }
+      },
+      "formatted_address": "9WV3+4MH, 200258, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3928122,3.9042234",
+      "google_place_id": "ChIJr23JN2KNORARjWHcUvC0R-8"
+    }
+  },
+  {
+    "id": "354260",
+    "name": "U.N.A. SCHOOL, EKOTEDO I",
+    "registration_area_id": "18117",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "30/08/07/013",
+    "remark": "EXISTING PU",
+    "ward_id": "18117",
+    "ward_name": "WARD 7 NW4",
+    "local_government_id": "635",
+    "local_government_name": "IBADAN NORTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "354261",
+    "name": "U.N.A. SCHOOL, EKOTEDO II",
+    "registration_area_id": "18117",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "30/08/07/014",
+    "remark": "EXISTING PU",
+    "ward_id": "18117",
+    "ward_name": "WARD 7 NW4",
+    "local_government_id": "635",
+    "local_government_name": "IBADAN NORTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "354262",
+    "name": "OPEN SPACE AT MORET JUNIOR SCHOOL",
+    "registration_area_id": "18117",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "30/08/07/015",
+    "remark": "NEW PU",
+    "ward_id": "18117",
+    "ward_name": "WARD 7 NW4",
+    "local_government_id": "635",
+    "local_government_name": "IBADAN NORTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.392015,
+      "longitude": 3.885341,
+      "viewport": {
+        "northeast": {
+          "lat": 7.393411379892723,
+          "lng": 3.886724129892722
+        },
+        "southwest": {
+          "lat": 7.390711720107279,
+          "lng": 3.884024470107278
+        }
+      },
+      "formatted_address": "6FV59VRP+R44 EKOTEDO, Idi Oro Street, 200284, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.392015,3.885341",
+      "google_place_id": "ChIJWwFRprSNORARtuWpDiw-QIo"
+    }
+  },
+  {
+    "id": "354263",
+    "name": "OGANLA HEALTH CENTRE",
+    "registration_area_id": "18117",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "30/08/07/016",
+    "remark": "NEW PU",
+    "ward_id": "18117",
+    "ward_name": "WARD 7 NW4",
+    "local_government_id": "635",
+    "local_government_name": "IBADAN NORTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4107438,
+      "longitude": 3.9098496,
+      "viewport": {
+        "northeast": {
+          "lat": 7.412078179892723,
+          "lng": 3.911239079892721
+        },
+        "southwest": {
+          "lat": 7.409378520107279,
+          "lng": 3.908539420107278
+        }
+      },
+      "formatted_address": "CW65+8W4, Agric Rd, Mokola Hill 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4107438,3.9098496",
+      "google_place_id": "ChIJS2IyHzqTORARvLqDT2zIo14"
+    }
+  },
+  {
+    "id": "354264",
+    "name": "OPEN SPACE OPPOSITE ZION COMPLEX EKOTEDO",
+    "registration_area_id": "18117",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "30/08/07/017",
+    "remark": "NEW PU",
+    "ward_id": "18117",
+    "ward_name": "WARD 7 NW4",
+    "local_government_id": "635",
+    "local_government_name": "IBADAN NORTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "354265",
+    "name": "GEORGE STREET, IDI ORO",
+    "registration_area_id": "18117",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "30/08/07/018",
+    "remark": "NEW PU",
+    "ward_id": "18117",
+    "ward_name": "WARD 7 NW4",
+    "local_government_id": "635",
+    "local_government_name": "IBADAN NORTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.388371299999999,
+      "longitude": 3.8836948,
+      "viewport": {
+        "northeast": {
+          "lat": 7.389692429892722,
+          "lng": 3.885019379892722
+        },
+        "southwest": {
+          "lat": 7.386992770107279,
+          "lng": 3.882319720107278
+        }
+      },
+      "formatted_address": "9VQM+8FW, Ogunpa-Oyo Road, 200284, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.388371299999999,3.8836948",
+      "google_place_id": "ChIJv1fJVaiNORAR5XyARIW2pFE"
+    }
+  },
+  {
+    "id": "354266",
+    "name": "OPEN SPACE AT OGUNPA OKE PADRE MARKET",
+    "registration_area_id": "18117",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "30/08/07/019",
+    "remark": "NEW PU",
+    "ward_id": "18117",
+    "ward_name": "WARD 7 NW4",
+    "local_government_id": "635",
+    "local_government_name": "IBADAN NORTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "354267",
+    "name": "OPEN SPACE AT IDI ORO JUNCTION",
+    "registration_area_id": "18117",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "30/08/07/020",
+    "remark": "NEW PU",
+    "ward_id": "18117",
+    "ward_name": "WARD 7 NW4",
+    "local_government_id": "635",
+    "local_government_name": "IBADAN NORTH WEST",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.368682400000001,
+      "longitude": 3.908249,
+      "viewport": {
+        "northeast": {
+          "lat": 7.370032229892723,
+          "lng": 3.909598829892721
+        },
+        "southwest": {
+          "lat": 7.367332570107279,
+          "lng": 3.906899170107277
+        }
+      },
+      "formatted_address": "Idi Oro Street, 200263, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.368682400000001,3.908249",
+      "google_place_id": "ChIJaxkhSXiSORARkuBtnH70YQs"
+    }
+  }
+]

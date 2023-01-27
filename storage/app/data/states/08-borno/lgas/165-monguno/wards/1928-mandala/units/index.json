@@ -1,0 +1,102 @@
+[
+  {
+    "id": "35530",
+    "name": "MANDALA I",
+    "registration_area_id": "1928",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/24/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1928",
+    "ward_name": "MANDALA",
+    "local_government_id": "165",
+    "local_government_name": "MONGUNO",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.4795337,
+      "longitude": 13.6131203,
+      "viewport": {
+        "northeast": {
+          "lat": 12.5633903,
+          "lng": 13.6739225
+        },
+        "southwest": {
+          "lat": 12.4369458,
+          "lng": 13.5611303
+        }
+      },
+      "formatted_address": "Mandala, 612101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4795337,13.6131203",
+      "google_place_id": "ChIJKzfZasvVGhERL4Z1wWH_FMI"
+    }
+  },
+  {
+    "id": "35531",
+    "name": "MANDALA II",
+    "registration_area_id": "1928",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/24/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1928",
+    "ward_name": "MANDALA",
+    "local_government_id": "165",
+    "local_government_name": "MONGUNO",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.4795337,
+      "longitude": 13.6131203,
+      "viewport": {
+        "northeast": {
+          "lat": 12.5633903,
+          "lng": 13.6739225
+        },
+        "southwest": {
+          "lat": 12.4369458,
+          "lng": 13.5611303
+        }
+      },
+      "formatted_address": "Mandala, 612101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4795337,13.6131203",
+      "google_place_id": "ChIJKzfZasvVGhERL4Z1wWH_FMI"
+    }
+  },
+  {
+    "id": "35532",
+    "name": "MALLAM SHISHI",
+    "registration_area_id": "1928",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/24/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1928",
+    "ward_name": "MANDALA",
+    "local_government_id": "165",
+    "local_government_name": "MONGUNO",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35533",
+    "name": "TA'ANGO",
+    "registration_area_id": "1928",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/24/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1928",
+    "ward_name": "MANDALA",
+    "local_government_id": "165",
+    "local_government_name": "MONGUNO",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  }
+]

@@ -1,0 +1,827 @@
+[
+  {
+    "id": "332663",
+    "name": "KOFAR GORIYA - OP",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "25/06/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8415432,
+      "longitude": 7.885413199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.842925379892721,
+          "lng": 7.886800929892723
+        },
+        "southwest": {
+          "lat": 8.840225720107277,
+          "lng": 7.884101270107279
+        }
+      },
+      "formatted_address": "RVRP+M59, East, 961101, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8415432,7.885413199999999",
+      "google_place_id": "ChIJWyi6Yx3kURAR9WvwhxLw9zs"
+    }
+  },
+  {
+    "id": "332664",
+    "name": "KOFAR KOKONA - OP",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "25/06/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8469641,
+      "longitude": 7.908910299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.848314979892722,
+          "lng": 7.910255929892722
+        },
+        "southwest": {
+          "lat": 8.845615320107278,
+          "lng": 7.907556270107278
+        }
+      },
+      "formatted_address": "Agwan Ga Road, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8469641,7.908910299999999",
+      "google_place_id": "ChIJaxCtDWHlURARUSjz0AIuTNw"
+    }
+  },
+  {
+    "id": "332665",
+    "name": "G.T.C. GATE - OP",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "25/06/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8470861,
+      "longitude": 7.877618799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.848300629892721,
+          "lng": 7.879032079892722
+        },
+        "southwest": {
+          "lat": 8.845600970107277,
+          "lng": 7.876332420107278
+        }
+      },
+      "formatted_address": "RVWH+R2X, 961101, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8470861,7.877618799999999",
+      "google_place_id": "ChIJL4gK-T7lURAR7uAPpbT0RrY"
+    }
+  },
+  {
+    "id": "332666",
+    "name": "ST.PETERS - PB",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "25/06/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8412122,
+      "longitude": 7.884263499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.842596229892722,
+          "lng": 7.885618429892722
+        },
+        "southwest": {
+          "lat": 8.839896570107278,
+          "lng": 7.882918770107278
+        }
+      },
+      "formatted_address": "RVRM+FPJ, 961101, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8412122,7.884263499999999",
+      "google_place_id": "ChIJ45rl8afmURARZLdW3il9gpA"
+    }
+  },
+  {
+    "id": "332667",
+    "name": "HOSPITAL GATE - OP",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "25/06/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8441771,
+      "longitude": 7.862099799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.845550979892723,
+          "lng": 7.863490529892723
+        },
+        "southwest": {
+          "lat": 8.842851320107279,
+          "lng": 7.860790870107279
+        }
+      },
+      "formatted_address": "RVV6+MRH, Unnamed Road, 961101, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8441771,7.862099799999999",
+      "google_place_id": "ChIJMTIfJf3jURARz61aH1PCgoU"
+    }
+  },
+  {
+    "id": "332668",
+    "name": "BAPTIST PRI.SCHOOL - PB",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "25/06/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8463501,
+      "longitude": 7.882591,
+      "viewport": {
+        "northeast": {
+          "lat": 8.847726029892721,
+          "lng": 7.884014079892722
+        },
+        "southwest": {
+          "lat": 8.845026370107277,
+          "lng": 7.881314420107278
+        }
+      },
+      "formatted_address": "RVWM+H4G, 961101, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8463501,7.882591",
+      "google_place_id": "ChIJ_7VmUgPkURARSAi5iPyLl-o"
+    }
+  },
+  {
+    "id": "332669",
+    "name": "SABON LAYI TA GABAS - OP",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "25/06/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8471213,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 8.848300629892721,
+          "lng": 7.879032079892722
+        },
+        "southwest": {
+          "lat": 8.845600970107277,
+          "lng": 7.876332420107278
+        }
+      },
+      "formatted_address": "NASARAWA STATE UNIVERSITY, 911019, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8471213,7.8776023",
+      "google_place_id": "ChIJeyBwSijkURARPVbSxse_J90"
+    }
+  },
+  {
+    "id": "332670",
+    "name": "ANG. NEPA - OP",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "25/06/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8471213,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 8.848300629892721,
+          "lng": 7.879032079892722
+        },
+        "southwest": {
+          "lat": 8.845600970107277,
+          "lng": 7.876332420107278
+        }
+      },
+      "formatted_address": "NASARAWA STATE UNIVERSITY, 911019, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8471213,7.8776023",
+      "google_place_id": "ChIJeyBwSijkURARPVbSxse_J90"
+    }
+  },
+  {
+    "id": "332671",
+    "name": "ABDU ZANGA",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "25/06/05/009",
+    "remark": "NEW PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8444175,
+      "longitude": 7.881084899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.845743829892722,
+          "lng": 7.882426729892722
+        },
+        "southwest": {
+          "lat": 8.843044170107278,
+          "lng": 7.879727070107278
+        }
+      },
+      "formatted_address": "RVVJ+QCW, 961101, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8444175,7.881084899999999",
+      "google_place_id": "ChIJU8u2n-jlURARivGdYP71rfA"
+    }
+  },
+  {
+    "id": "332672",
+    "name": "GUNDURU",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "25/06/05/010",
+    "remark": "NEW PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8415432,
+      "longitude": 7.885413199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.842925379892721,
+          "lng": 7.886800929892723
+        },
+        "southwest": {
+          "lat": 8.840225720107277,
+          "lng": 7.884101270107279
+        }
+      },
+      "formatted_address": "RVRP+M59, East, 961101, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8415432,7.885413199999999",
+      "google_place_id": "ChIJWyi6Yx3kURAR9WvwhxLw9zs"
+    }
+  },
+  {
+    "id": "332673",
+    "name": "KOFAR GIDAN MAL. YUSUF GANGAREN MAYANKA (BOLA)",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "25/06/05/011",
+    "remark": "NEW PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.844481199999999,
+      "longitude": 7.8874591,
+      "viewport": {
+        "northeast": {
+          "lat": 8.845822429892722,
+          "lng": 7.888761679892725
+        },
+        "southwest": {
+          "lat": 8.843122770107279,
+          "lng": 7.886062020107281
+        }
+      },
+      "formatted_address": "RVVP+QXW, 961101, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.844481199999999,7.8874591",
+      "google_place_id": "ChIJvx0XNBzkURAROFopqFYl7xA"
+    }
+  },
+  {
+    "id": "332674",
+    "name": "MAYANKA (KOFAR MAI ANGWA)",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "25/06/05/012",
+    "remark": "NEW PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8471213,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 8.848300629892721,
+          "lng": 7.879032079892722
+        },
+        "southwest": {
+          "lat": 8.845600970107277,
+          "lng": 7.876332420107278
+        }
+      },
+      "formatted_address": "NASARAWA STATE UNIVERSITY, 911019, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8471213,7.8776023",
+      "google_place_id": "ChIJeyBwSijkURARPVbSxse_J90"
+    }
+  },
+  {
+    "id": "332675",
+    "name": "KOFAR ALH. RAJAB NUHU",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "25/06/05/013",
+    "remark": "NEW PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8471213,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 8.848300629892721,
+          "lng": 7.879032079892722
+        },
+        "southwest": {
+          "lat": 8.845600970107277,
+          "lng": 7.876332420107278
+        }
+      },
+      "formatted_address": "NASARAWA STATE UNIVERSITY, 911019, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8471213,7.8776023",
+      "google_place_id": "ChIJeyBwSijkURARPVbSxse_J90"
+    }
+  },
+  {
+    "id": "332676",
+    "name": "KOFAR SARKIN MAKERA (DRS QUARTERS)",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "25/06/05/014",
+    "remark": "NEW PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8471213,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 8.848300629892721,
+          "lng": 7.879032079892722
+        },
+        "southwest": {
+          "lat": 8.845600970107277,
+          "lng": 7.876332420107278
+        }
+      },
+      "formatted_address": "NASARAWA STATE UNIVERSITY, 911019, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8471213,7.8776023",
+      "google_place_id": "ChIJeyBwSijkURARPVbSxse_J90"
+    }
+  },
+  {
+    "id": "332677",
+    "name": "KOFAR ALKALI MODIBBO",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "25/06/05/015",
+    "remark": "NEW PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8471213,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 8.848300629892721,
+          "lng": 7.879032079892722
+        },
+        "southwest": {
+          "lat": 8.845600970107277,
+          "lng": 7.876332420107278
+        }
+      },
+      "formatted_address": "NASARAWA STATE UNIVERSITY, 911019, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8471213,7.8776023",
+      "google_place_id": "ChIJeyBwSijkURARPVbSxse_J90"
+    }
+  },
+  {
+    "id": "332678",
+    "name": "FGC GATE",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "25/06/05/016",
+    "remark": "NEW PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.866774999999999,
+      "longitude": 7.8667495,
+      "viewport": {
+        "northeast": {
+          "lat": 8.868228779892721,
+          "lng": 7.868079229892722
+        },
+        "southwest": {
+          "lat": 8.865529120107277,
+          "lng": 7.865379570107278
+        }
+      },
+      "formatted_address": "VV88+MPR, Along, Bagaji Road, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.866774999999999,7.8667495",
+      "google_place_id": "ChIJC4dON0_jURAR4IvPGTRhXXU"
+    }
+  },
+  {
+    "id": "332679",
+    "name": "KOFAR ALH. YAHAYA",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "25/06/05/017",
+    "remark": "NEW PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8470861,
+      "longitude": 7.877618799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.848300629892721,
+          "lng": 7.879032079892722
+        },
+        "southwest": {
+          "lat": 8.845600970107277,
+          "lng": 7.876332420107278
+        }
+      },
+      "formatted_address": "RVWH+R2X, 961101, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8470861,7.877618799999999",
+      "google_place_id": "ChIJL4gK-T7lURAR7uAPpbT0RrY"
+    }
+  },
+  {
+    "id": "332680",
+    "name": "KOFAR MAI ANGWA DAN-GWARI",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "25/06/05/018",
+    "remark": "NEW PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.844481199999999,
+      "longitude": 7.8874591,
+      "viewport": {
+        "northeast": {
+          "lat": 8.845822429892722,
+          "lng": 7.888761679892725
+        },
+        "southwest": {
+          "lat": 8.843122770107279,
+          "lng": 7.886062020107281
+        }
+      },
+      "formatted_address": "RVVP+QXW, 961101, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.844481199999999,7.8874591",
+      "google_place_id": "ChIJvx0XNBzkURAROFopqFYl7xA"
+    }
+  },
+  {
+    "id": "332681",
+    "name": "KOFAR ALH. SANI JANWE",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "25/06/05/019",
+    "remark": "NEW PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8471213,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 8.848300629892721,
+          "lng": 7.879032079892722
+        },
+        "southwest": {
+          "lat": 8.845600970107277,
+          "lng": 7.876332420107278
+        }
+      },
+      "formatted_address": "NASARAWA STATE UNIVERSITY, 911019, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8471213,7.8776023",
+      "google_place_id": "ChIJeyBwSijkURARPVbSxse_J90"
+    }
+  },
+  {
+    "id": "332682",
+    "name": "ST. WILLIAMS PRI. SCH.",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "25/06/05/020",
+    "remark": "NEW PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8471213,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 8.848300629892721,
+          "lng": 7.879032079892722
+        },
+        "southwest": {
+          "lat": 8.845600970107277,
+          "lng": 7.876332420107278
+        }
+      },
+      "formatted_address": "NASARAWA STATE UNIVERSITY, 911019, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8471213,7.8776023",
+      "google_place_id": "ChIJeyBwSijkURARPVbSxse_J90"
+    }
+  },
+  {
+    "id": "332683",
+    "name": "ANGWAN NEPA",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "25/06/05/021",
+    "remark": "NEW PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.840069699999999,
+      "longitude": 7.8845229,
+      "viewport": {
+        "northeast": {
+          "lat": 8.841439329892722,
+          "lng": 7.885953379892722
+        },
+        "southwest": {
+          "lat": 8.838739670107278,
+          "lng": 7.883253720107279
+        }
+      },
+      "formatted_address": "Angwan NEPA, 961101, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.840069699999999,7.8845229",
+      "google_place_id": "ChIJcU3w2XrnURARlPhMU_b0UXM"
+    }
+  },
+  {
+    "id": "332684",
+    "name": "KOFAR ALH. MUSA ALIYU KEFFI",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "25/06/05/022",
+    "remark": "NEW PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8471213,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 8.848300629892721,
+          "lng": 7.879032079892722
+        },
+        "southwest": {
+          "lat": 8.845600970107277,
+          "lng": 7.876332420107278
+        }
+      },
+      "formatted_address": "NASARAWA STATE UNIVERSITY, 911019, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8471213,7.8776023",
+      "google_place_id": "ChIJeyBwSijkURARPVbSxse_J90"
+    }
+  },
+  {
+    "id": "332685",
+    "name": "KOFAR MAI ANGWA MAL. ALIYU",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "25/06/05/023",
+    "remark": "NEW PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8471213,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 8.848300629892721,
+          "lng": 7.879032079892722
+        },
+        "southwest": {
+          "lat": 8.845600970107277,
+          "lng": 7.876332420107278
+        }
+      },
+      "formatted_address": "NASARAWA STATE UNIVERSITY, 911019, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8471213,7.8776023",
+      "google_place_id": "ChIJeyBwSijkURARPVbSxse_J90"
+    }
+  },
+  {
+    "id": "332686",
+    "name": "BAPTIST PRI. SCH. II",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "25/06/05/024",
+    "remark": "NEW PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8463501,
+      "longitude": 7.882591,
+      "viewport": {
+        "northeast": {
+          "lat": 8.847726029892721,
+          "lng": 7.884014079892722
+        },
+        "southwest": {
+          "lat": 8.845026370107277,
+          "lng": 7.881314420107278
+        }
+      },
+      "formatted_address": "RVWM+H4G, 961101, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8463501,7.882591",
+      "google_place_id": "ChIJ_7VmUgPkURARSAi5iPyLl-o"
+    }
+  },
+  {
+    "id": "332687",
+    "name": "KOFAR BABA TANIMU",
+    "registration_area_id": "16898",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "25/06/05/025",
+    "remark": "NEW PU",
+    "ward_id": "16898",
+    "ward_name": "KEFFI TOWN EAST / KOFAR GORIYA",
+    "local_government_id": "531",
+    "local_government_name": "KEFFI",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8415432,
+      "longitude": 7.885413199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.842925379892721,
+          "lng": 7.886800929892723
+        },
+        "southwest": {
+          "lat": 8.840225720107277,
+          "lng": 7.884101270107279
+        }
+      },
+      "formatted_address": "RVRP+M59, East, 961101, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8415432,7.885413199999999",
+      "google_place_id": "ChIJWyi6Yx3kURAR9WvwhxLw9zs"
+    }
+  }
+]

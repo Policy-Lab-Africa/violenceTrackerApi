@@ -1,0 +1,317 @@
+[
+  {
+    "id": "100369",
+    "name": "BAGIWA/TUMURZAWA - BAGIWA PRI.SCHOOL",
+    "registration_area_id": "5099",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/26/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5099",
+    "ward_name": "BAGIWA",
+    "local_government_id": "439",
+    "local_government_name": "MANI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8615445,
+      "longitude": 7.877502,
+      "viewport": {
+        "northeast": {
+          "lat": 12.86308487989272,
+          "lng": 7.878774079892721
+        },
+        "southwest": {
+          "lat": 12.86038522010728,
+          "lng": 7.876074420107277
+        }
+      },
+      "formatted_address": "Opposite General Hospital, 823101, Mani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8615445,7.877502",
+      "google_place_id": "ChIJpRjjSFjRrxERARTIQCuOusc"
+    }
+  },
+  {
+    "id": "100370",
+    "name": "FARFARU - G/UNGUWA",
+    "registration_area_id": "5099",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/26/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5099",
+    "ward_name": "BAGIWA",
+    "local_government_id": "439",
+    "local_government_name": "MANI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100371",
+    "name": "DURU - DURU PRI.SCHOOL",
+    "registration_area_id": "5099",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/26/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5099",
+    "ward_name": "BAGIWA",
+    "local_government_id": "439",
+    "local_government_name": "MANI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8573583,
+      "longitude": 7.899630800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.85875327989272,
+          "lng": 7.901026629892723
+        },
+        "southwest": {
+          "lat": 12.85605362010728,
+          "lng": 7.898326970107279
+        }
+      },
+      "formatted_address": "Duru Primary School, 823101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8573583,7.899630800000001",
+      "google_place_id": "ChIJ8Q7Qy5DQrxERU7VJ-12oV0c"
+    }
+  },
+  {
+    "id": "100372",
+    "name": "MAHUTA - AJIYA PRI.SCHOOL",
+    "registration_area_id": "5099",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/26/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5099",
+    "ward_name": "BAGIWA",
+    "local_government_id": "439",
+    "local_government_name": "MANI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8456189,
+      "longitude": 7.7952445,
+      "viewport": {
+        "northeast": {
+          "lat": 12.84698442989272,
+          "lng": 7.796622329892725
+        },
+        "southwest": {
+          "lat": 12.84428477010728,
+          "lng": 7.793922670107281
+        }
+      },
+      "formatted_address": "RQWW+63X, Mani Rd, 823101, Jani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8456189,7.7952445",
+      "google_place_id": "ChIJ1XuAGgnXrxERDsrEUr7EOqg"
+    }
+  },
+  {
+    "id": "100373",
+    "name": "NASARAWA - G/UNG",
+    "registration_area_id": "5099",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/26/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5099",
+    "ward_name": "BAGIWA",
+    "local_government_id": "439",
+    "local_government_name": "MANI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8882654,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 12.9174143,
+          "lng": 7.914026
+        },
+        "southwest": {
+          "lat": 12.8457922,
+          "lng": 7.849799
+        }
+      },
+      "formatted_address": "Bagiwa, 823101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8882654,7.8776023",
+      "google_place_id": "ChIJtZdGRgXarxER5pOGfWdT-38"
+    }
+  },
+  {
+    "id": "100374",
+    "name": "YALLI - G/UNG",
+    "registration_area_id": "5099",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/26/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5099",
+    "ward_name": "BAGIWA",
+    "local_government_id": "439",
+    "local_government_name": "MANI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8882654,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 12.9174143,
+          "lng": 7.914026
+        },
+        "southwest": {
+          "lat": 12.8457922,
+          "lng": 7.849799
+        }
+      },
+      "formatted_address": "Bagiwa, 823101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8882654,7.8776023",
+      "google_place_id": "ChIJtZdGRgXarxER5pOGfWdT-38"
+    }
+  },
+  {
+    "id": "100375",
+    "name": "TUDUN-WADA G/UNG",
+    "registration_area_id": "5099",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/26/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5099",
+    "ward_name": "BAGIWA",
+    "local_government_id": "439",
+    "local_government_name": "MANI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8617034,
+      "longitude": 7.880101100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.86301652989272,
+          "lng": 7.881284679892723
+        },
+        "southwest": {
+          "lat": 12.86031687010728,
+          "lng": 7.878585020107279
+        }
+      },
+      "formatted_address": "VV6J+M2Q, 823101, Mani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8617034,7.880101100000001",
+      "google_place_id": "ChIJgQCXTa7QrxERC1DGzF3q6yA"
+    }
+  },
+  {
+    "id": "100376",
+    "name": "SAMARU - G/UNG",
+    "registration_area_id": "5099",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/26/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5099",
+    "ward_name": "BAGIWA",
+    "local_government_id": "439",
+    "local_government_name": "MANI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8882654,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 12.9174143,
+          "lng": 7.914026
+        },
+        "southwest": {
+          "lat": 12.8457922,
+          "lng": 7.849799
+        }
+      },
+      "formatted_address": "Bagiwa, 823101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8882654,7.8776023",
+      "google_place_id": "ChIJtZdGRgXarxER5pOGfWdT-38"
+    }
+  },
+  {
+    "id": "100377",
+    "name": "NASARAWA - K/UNGUWA",
+    "registration_area_id": "5099",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/26/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5099",
+    "ward_name": "BAGIWA",
+    "local_government_id": "439",
+    "local_government_name": "MANI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9698014,
+      "longitude": 7.612455499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97118102989272,
+          "lng": 7.613799179892721
+        },
+        "southwest": {
+          "lat": 12.96848137010728,
+          "lng": 7.611099520107278
+        }
+      },
+      "formatted_address": "XJ96+WX4, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9698014,7.612455499999999",
+      "google_place_id": "ChIJ86UzMv4lsBEREc_UP56pdJ8"
+    }
+  },
+  {
+    "id": "100378",
+    "name": "TUMURZAWA K/GIDAN MAI UNGUWA",
+    "registration_area_id": "5099",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/26/04/010",
+    "remark": "NEW PU",
+    "ward_id": "5099",
+    "ward_name": "BAGIWA",
+    "local_government_id": "439",
+    "local_government_name": "MANI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100379",
+    "name": "BURJAWA KOFAR GIDAN MAI UNGUWA",
+    "registration_area_id": "5099",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/26/04/011",
+    "remark": "NEW PU",
+    "ward_id": "5099",
+    "ward_name": "BAGIWA",
+    "local_government_id": "439",
+    "local_government_name": "MANI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  }
+]

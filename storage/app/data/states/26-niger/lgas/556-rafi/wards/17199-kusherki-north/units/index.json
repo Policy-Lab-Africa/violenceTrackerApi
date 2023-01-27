@@ -1,0 +1,585 @@
+[
+  {
+    "id": "338430",
+    "name": "GIDAN ALLARAMMA",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/20/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.5810136,
+      "longitude": 6.499944999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.582343079892722,
+          "lng": 6.501318479892721
+        },
+        "southwest": {
+          "lat": 9.579643420107278,
+          "lng": 6.498618820107278
+        }
+      },
+      "formatted_address": "6FX8HFJX+CX4 Gidan Alura, Minna South, Baganakwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5810136,6.499944999999999",
+      "google_place_id": "ChIJbwEXcc9xTBARdYJVi0UmXWY"
+    }
+  },
+  {
+    "id": "338431",
+    "name": "GIDAN GYRA (UNG. HALIMA)",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/20/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.5116925,
+      "longitude": 6.4297017,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51304992989272,
+          "lng": 6.431030229892722
+        },
+        "southwest": {
+          "lat": 10.51035027010728,
+          "lng": 6.428330570107278
+        }
+      },
+      "formatted_address": "L4, Pandogari/Kaduna Road, Kagara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5116925,6.4297017",
+      "google_place_id": "ChIJr9GK-bGrTBAR2tSJrwWzPr0"
+    }
+  },
+  {
+    "id": "338432",
+    "name": "GIDAN DABO",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/20/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338433",
+    "name": "HAYIN GANDU",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/20/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338434",
+    "name": "KOFAR GIDAN ABDUL MADAKI  I",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/20/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338435",
+    "name": "KOFAR GIDAN ABDULMADAKI  II",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/20/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338436",
+    "name": "KOFAR GIDAN MAIWAINA S. LAYI",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/20/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338437",
+    "name": "KUSHERKI PRIMARY SCHOOL",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/20/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338438",
+    "name": "KOFAR GIDAN GA-ALLAH",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "26/20/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338439",
+    "name": "KASUWA GIDIGORI",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "26/20/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.5319895,
+      "longitude": 6.429036,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6132322,
+          "lng": 6.5475606
+        },
+        "southwest": {
+          "lat": 10.3775285,
+          "lng": 6.280767399999999
+        }
+      },
+      "formatted_address": "Kusherki North, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5319895,6.429036",
+      "google_place_id": "ChIJMVwJI3GqTBARJ8JM1DAsKi4"
+    }
+  },
+  {
+    "id": "338440",
+    "name": "UKUSU PRIMARY SCHOOL",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "26/20/05/011",
+    "remark": "EXISTING PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.5116925,
+      "longitude": 6.4297017,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51304992989272,
+          "lng": 6.431030229892722
+        },
+        "southwest": {
+          "lat": 10.51035027010728,
+          "lng": 6.428330570107278
+        }
+      },
+      "formatted_address": "Old Kukoki Village, Pandogari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5116925,6.4297017",
+      "google_place_id": "ChIJVfpQdVqrTBAR3m6HTjdoE-Y"
+    }
+  },
+  {
+    "id": "338441",
+    "name": "UNG. DAN - AZUMI",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "26/20/05/012",
+    "remark": "EXISTING PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.56591,
+      "longitude": 6.501717,
+      "viewport": {
+        "northeast": {
+          "lat": 10.56725982989272,
+          "lng": 6.503066829892722
+        },
+        "southwest": {
+          "lat": 10.56456017010728,
+          "lng": 6.500367170107277
+        }
+      },
+      "formatted_address": "7F28HG82+9M8 Unguwan danazumi, Kurmaza Kasa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.56591,6.501717",
+      "google_place_id": "ChIJuR0paCdTsxER-XJiFS-XhJA"
+    }
+  },
+  {
+    "id": "338442",
+    "name": "UNG. JAKIRI",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "26/20/05/013",
+    "remark": "EXISTING PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338443",
+    "name": "UNG. DAN MAYANA",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "26/20/05/014",
+    "remark": "EXISTING PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338444",
+    "name": "UNG. GALADIMA",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "26/20/05/015",
+    "remark": "EXISTING PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338445",
+    "name": "UNG. SANI",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "26/20/05/016",
+    "remark": "EXISTING PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.5116925,
+      "longitude": 6.4297017,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51304992989272,
+          "lng": 6.431030229892722
+        },
+        "southwest": {
+          "lat": 10.51035027010728,
+          "lng": 6.428330570107278
+        }
+      },
+      "formatted_address": "R4, Pandogari/Kaduna Road, Kagara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5116925,6.4297017",
+      "google_place_id": "ChIJH6t7fW6rTBAR4pD368yre2g"
+    }
+  },
+  {
+    "id": "338446",
+    "name": "UNG. ADARAWA",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "26/20/05/017",
+    "remark": "EXISTING PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1836722,
+      "longitude": 6.2698826,
+      "viewport": {
+        "northeast": {
+          "lat": 10.18497327989272,
+          "lng": 6.271177429892722
+        },
+        "southwest": {
+          "lat": 10.18227362010728,
+          "lng": 6.268477770107278
+        }
+      },
+      "formatted_address": "7F2857M9+FWG sabongari sabongari, 922103, Kagara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1836722,6.2698826",
+      "google_place_id": "ChIJIyy7fBVnSxARRBDEmen4j-s"
+    }
+  },
+  {
+    "id": "338447",
+    "name": "KASUWAN ZARA",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "26/20/05/018",
+    "remark": "NEW PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 43.3259421,
+      "longitude": -79.82042899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.32756957989272,
+          "lng": -79.8179732
+        },
+        "southwest": {
+          "lat": 43.32486992010728,
+          "lng": -79.82124759999998
+        }
+      },
+      "formatted_address": "Maple Ave #900, Burlington, ON L7S 2J8, Canada",
+      "google_map_url": "https://maps.google.com?q=43.3259421,-79.82042899999999",
+      "google_place_id": "ChIJC_Ixuw-eLIgRElbdGIVqj0E"
+    }
+  },
+  {
+    "id": "338448",
+    "name": "DISPENSARY KUSHERKI",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "26/20/05/019",
+    "remark": "NEW PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 43.467299,
+      "longitude": -80.52329800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 43.46868722989272,
+          "lng": -80.52178887010727
+        },
+        "southwest": {
+          "lat": 43.46598757010727,
+          "lng": -80.52448852989272
+        }
+      },
+      "formatted_address": "71 King St N, Waterloo, ON N2J 2X2, Canada",
+      "google_map_url": "https://maps.google.com?q=43.467299,-80.52329800000001",
+      "google_place_id": "ChIJmd9ZziP1K4gRijXWDeYBaag"
+    }
+  },
+  {
+    "id": "338449",
+    "name": "SABON KASUWAN KUSHERKI",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "26/20/05/020",
+    "remark": "NEW PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338450",
+    "name": "SABON LAYI",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "26/20/05/021",
+    "remark": "NEW PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.8377647,
+      "longitude": 6.7126096,
+      "viewport": {
+        "northeast": {
+          "lat": 10.8396461,
+          "lng": 6.714352
+        },
+        "southwest": {
+          "lat": 10.835159,
+          "lng": 6.7085461
+        }
+      },
+      "formatted_address": "800108, Sabon Layi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8377647,6.7126096",
+      "google_place_id": "ChIJNxx9fN5AsxER1UQ0MQJvLtI"
+    }
+  },
+  {
+    "id": "338451",
+    "name": "UNG. MARKE",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "26/20/05/022",
+    "remark": "NEW PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.5116925,
+      "longitude": 6.4297017,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51304992989272,
+          "lng": 6.431030229892722
+        },
+        "southwest": {
+          "lat": 10.51035027010728,
+          "lng": 6.428330570107278
+        }
+      },
+      "formatted_address": "Market Road, 922104, Pandogari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5116925,6.4297017",
+      "google_place_id": "ChIJr7dEyjCrTBARzxPOgZBX-T0"
+    }
+  },
+  {
+    "id": "338452",
+    "name": "KASUWA KUNNAU",
+    "registration_area_id": "17199",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "26/20/05/023",
+    "remark": "NEW PU",
+    "ward_id": "17199",
+    "ward_name": "KUSHERKI NORTH",
+    "local_government_id": "556",
+    "local_government_name": "RAFI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.5319895,
+      "longitude": 6.429036,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6132322,
+          "lng": 6.5475606
+        },
+        "southwest": {
+          "lat": 10.3775285,
+          "lng": 6.280767399999999
+        }
+      },
+      "formatted_address": "Kusherki North, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5319895,6.429036",
+      "google_place_id": "ChIJMVwJI3GqTBARJ8JM1DAsKi4"
+    }
+  }
+]

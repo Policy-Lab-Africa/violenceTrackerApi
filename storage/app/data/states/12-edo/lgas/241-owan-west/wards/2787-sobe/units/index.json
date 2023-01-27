@@ -1,0 +1,629 @@
+[
+  {
+    "id": "52411",
+    "name": "ST STEPHEN'S P/SCHOOL,  SOBE",
+    "registration_area_id": "2787",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "12/17/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2787",
+    "ward_name": "SOBE",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.849400999999999,
+      "longitude": 5.773696000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.850699629892723,
+          "lng": 5.775023879892722
+        },
+        "southwest": {
+          "lat": 6.847999970107279,
+          "lng": 5.772324220107278
+        }
+      },
+      "formatted_address": "RQXF+QF8, 313109, Sobe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.849400999999999,5.773696000000001",
+      "google_place_id": "ChIJuRRGIwLjRhARTVS7NTqkwlg"
+    }
+  },
+  {
+    "id": "52412",
+    "name": "ALIFAN BY RIGHT, SOBE",
+    "registration_area_id": "2787",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "12/17/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2787",
+    "ward_name": "SOBE",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.8527441,
+      "longitude": 5.776072399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.854169529892722,
+          "lng": 5.777623929892722
+        },
+        "southwest": {
+          "lat": 6.851469870107278,
+          "lng": 5.774924270107278
+        }
+      },
+      "formatted_address": "VQ3G+3CW, 313109, Sobe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8527441,5.776072399999999",
+      "google_place_id": "ChIJ9Y6SYJ3jRhARSuHoG0mZrF8"
+    }
+  },
+  {
+    "id": "52413",
+    "name": "TOWN HALL,  SOBE",
+    "registration_area_id": "2787",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "12/17/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2787",
+    "ward_name": "SOBE",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.847968499999999,
+      "longitude": 5.7775855,
+      "viewport": {
+        "northeast": {
+          "lat": 6.849361829892722,
+          "lng": 5.778919429892722
+        },
+        "southwest": {
+          "lat": 6.846662170107278,
+          "lng": 5.776219770107278
+        }
+      },
+      "formatted_address": "RQXH+52P, A122, 313109, Sobe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.847968499999999,5.7775855",
+      "google_place_id": "ChIJBXZdsgbjRhARQGi5Lz8EW_U"
+    }
+  },
+  {
+    "id": "52414",
+    "name": "NEAR ODIGIE'S HOUSE,  SOBE",
+    "registration_area_id": "2787",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "12/17/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2787",
+    "ward_name": "SOBE",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.8527441,
+      "longitude": 5.776072399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.854169529892722,
+          "lng": 5.777623929892722
+        },
+        "southwest": {
+          "lat": 6.851469870107278,
+          "lng": 5.774924270107278
+        }
+      },
+      "formatted_address": "VQ3G+3CW, 313109, Sobe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8527441,5.776072399999999",
+      "google_place_id": "ChIJ9Y6SYJ3jRhARSuHoG0mZrF8"
+    }
+  },
+  {
+    "id": "52415",
+    "name": "NEAR EGUABOR'S HOUSE BY RIGHT,  SOBE",
+    "registration_area_id": "2787",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "12/17/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2787",
+    "ward_name": "SOBE",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.9010969,
+      "longitude": 5.9294981,
+      "viewport": {
+        "northeast": {
+          "lat": 6.902481779892722,
+          "lng": 5.930821179892723
+        },
+        "southwest": {
+          "lat": 6.899782120107278,
+          "lng": 5.928121520107279
+        }
+      },
+      "formatted_address": "WW2H+CQQ, Road, 313109, Uzebba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9010969,5.9294981",
+      "google_place_id": "ChIJOVD17jnwRhARe88NxjccFcc"
+    }
+  },
+  {
+    "id": "52416",
+    "name": "ALUFE ST. BY RIGHT,  SOBE",
+    "registration_area_id": "2787",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "12/17/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2787",
+    "ward_name": "SOBE",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.9010969,
+      "longitude": 5.9294981,
+      "viewport": {
+        "northeast": {
+          "lat": 6.902481779892722,
+          "lng": 5.930821179892723
+        },
+        "southwest": {
+          "lat": 6.899782120107278,
+          "lng": 5.928121520107279
+        }
+      },
+      "formatted_address": "WW2H+CQQ, Road, 313109, Uzebba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9010969,5.9294981",
+      "google_place_id": "ChIJOVD17jnwRhARe88NxjccFcc"
+    }
+  },
+  {
+    "id": "52417",
+    "name": "L.A. SCHOOL,  SOBE",
+    "registration_area_id": "2787",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "12/17/11/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2787",
+    "ward_name": "SOBE",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.851342,
+      "longitude": 5.773993,
+      "viewport": {
+        "northeast": {
+          "lat": 6.852677379892722,
+          "lng": 5.775348979892723
+        },
+        "southwest": {
+          "lat": 6.849977720107277,
+          "lng": 5.772649320107279
+        }
+      },
+      "formatted_address": "VQ2F+GHQ, 313109, Sobe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.851342,5.773993",
+      "google_place_id": "ChIJv_RCWALjRhARjR63DpSM4_k"
+    }
+  },
+  {
+    "id": "52418",
+    "name": "ST STEPHEN'S P/SCHOOL,  SOBE",
+    "registration_area_id": "2787",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "12/17/11/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2787",
+    "ward_name": "SOBE",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.849400999999999,
+      "longitude": 5.773696000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.850699629892723,
+          "lng": 5.775023879892722
+        },
+        "southwest": {
+          "lat": 6.847999970107279,
+          "lng": 5.772324220107278
+        }
+      },
+      "formatted_address": "RQXF+QF8, 313109, Sobe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.849400999999999,5.773696000000001",
+      "google_place_id": "ChIJuRRGIwLjRhARTVS7NTqkwlg"
+    }
+  },
+  {
+    "id": "52419",
+    "name": "ST. EUGENE P/SCHOOL,  SOBE",
+    "registration_area_id": "2787",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "12/17/11/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2787",
+    "ward_name": "SOBE",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.855499,
+      "longitude": 5.777108999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.856847429892722,
+          "lng": 5.778771529892722
+        },
+        "southwest": {
+          "lat": 6.854147770107278,
+          "lng": 5.776071870107279
+        }
+      },
+      "formatted_address": "VQ4G+5RX, A122, 313109, Sobe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.855499,5.777108999999999",
+      "google_place_id": "ChIJzbc-nxzjRhAR556RCcSXATo"
+    }
+  },
+  {
+    "id": "52420",
+    "name": "GOLD HOUSE BY RIGHT,  SOBE",
+    "registration_area_id": "2787",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "12/17/11/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2787",
+    "ward_name": "SOBE",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.9010969,
+      "longitude": 5.9294981,
+      "viewport": {
+        "northeast": {
+          "lat": 6.902481779892722,
+          "lng": 5.930821179892723
+        },
+        "southwest": {
+          "lat": 6.899782120107278,
+          "lng": 5.928121520107279
+        }
+      },
+      "formatted_address": "WW2H+CQQ, Road, 313109, Uzebba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9010969,5.9294981",
+      "google_place_id": "ChIJOVD17jnwRhARe88NxjccFcc"
+    }
+  },
+  {
+    "id": "52421",
+    "name": "OPPOSITE MAGOUS HOUSE,  SOBE",
+    "registration_area_id": "2787",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "12/17/11/011",
+    "remark": "EXISTING PU",
+    "ward_id": "2787",
+    "ward_name": "SOBE",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.8527441,
+      "longitude": 5.776072399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.854169529892722,
+          "lng": 5.777623929892722
+        },
+        "southwest": {
+          "lat": 6.851469870107278,
+          "lng": 5.774924270107278
+        }
+      },
+      "formatted_address": "VQ3G+3CW, 313109, Sobe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8527441,5.776072399999999",
+      "google_place_id": "ChIJ9Y6SYJ3jRhARSuHoG0mZrF8"
+    }
+  },
+  {
+    "id": "52422",
+    "name": "AT UDOGIE BY RIGHT,  SOBE I",
+    "registration_area_id": "2787",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "12/17/11/012",
+    "remark": "EXISTING PU",
+    "ward_id": "2787",
+    "ward_name": "SOBE",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.9010969,
+      "longitude": 5.9294981,
+      "viewport": {
+        "northeast": {
+          "lat": 6.902481779892722,
+          "lng": 5.930821179892723
+        },
+        "southwest": {
+          "lat": 6.899782120107278,
+          "lng": 5.928121520107279
+        }
+      },
+      "formatted_address": "WW2H+CQQ, Road, 313109, Uzebba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9010969,5.9294981",
+      "google_place_id": "ChIJOVD17jnwRhARe88NxjccFcc"
+    }
+  },
+  {
+    "id": "52423",
+    "name": "AT UDOGIE BY RIGHT,  SOBE  II",
+    "registration_area_id": "2787",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "12/17/11/013",
+    "remark": "EXISTING PU",
+    "ward_id": "2787",
+    "ward_name": "SOBE",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.9010969,
+      "longitude": 5.9294981,
+      "viewport": {
+        "northeast": {
+          "lat": 6.902481779892722,
+          "lng": 5.930821179892723
+        },
+        "southwest": {
+          "lat": 6.899782120107278,
+          "lng": 5.928121520107279
+        }
+      },
+      "formatted_address": "WW2H+CQQ, Road, 313109, Uzebba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9010969,5.9294981",
+      "google_place_id": "ChIJOVD17jnwRhARe88NxjccFcc"
+    }
+  },
+  {
+    "id": "52424",
+    "name": "IFIDON BY RIGHT,  SOBE",
+    "registration_area_id": "2787",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "12/17/11/014",
+    "remark": "EXISTING PU",
+    "ward_id": "2787",
+    "ward_name": "SOBE",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.9010969,
+      "longitude": 5.9294981,
+      "viewport": {
+        "northeast": {
+          "lat": 6.902481779892722,
+          "lng": 5.930821179892723
+        },
+        "southwest": {
+          "lat": 6.899782120107278,
+          "lng": 5.928121520107279
+        }
+      },
+      "formatted_address": "WW2H+CQQ, Road, 313109, Uzebba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9010969,5.9294981",
+      "google_place_id": "ChIJOVD17jnwRhARe88NxjccFcc"
+    }
+  },
+  {
+    "id": "52425",
+    "name": "AT UWOLO BY RGHT,  SOBE",
+    "registration_area_id": "2787",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "12/17/11/015",
+    "remark": "EXISTING PU",
+    "ward_id": "2787",
+    "ward_name": "SOBE",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.9010969,
+      "longitude": 5.9294981,
+      "viewport": {
+        "northeast": {
+          "lat": 6.902481779892722,
+          "lng": 5.930821179892723
+        },
+        "southwest": {
+          "lat": 6.899782120107278,
+          "lng": 5.928121520107279
+        }
+      },
+      "formatted_address": "WW2H+CQQ, Road, 313109, Uzebba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9010969,5.9294981",
+      "google_place_id": "ChIJOVD17jnwRhARe88NxjccFcc"
+    }
+  },
+  {
+    "id": "52426",
+    "name": "ISIKHALA BY RIGHT,  SOBE   I",
+    "registration_area_id": "2787",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "12/17/11/016",
+    "remark": "EXISTING PU",
+    "ward_id": "2787",
+    "ward_name": "SOBE",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.8527441,
+      "longitude": 5.776072399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.854169529892722,
+          "lng": 5.777623929892722
+        },
+        "southwest": {
+          "lat": 6.851469870107278,
+          "lng": 5.774924270107278
+        }
+      },
+      "formatted_address": "VQ3G+3CW, 313109, Sobe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8527441,5.776072399999999",
+      "google_place_id": "ChIJ9Y6SYJ3jRhARSuHoG0mZrF8"
+    }
+  },
+  {
+    "id": "52427",
+    "name": "ISIKHALA BY RIGHT,  SOBE   II",
+    "registration_area_id": "2787",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "12/17/11/017",
+    "remark": "EXISTING PU",
+    "ward_id": "2787",
+    "ward_name": "SOBE",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.8527441,
+      "longitude": 5.776072399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.854169529892722,
+          "lng": 5.777623929892722
+        },
+        "southwest": {
+          "lat": 6.851469870107278,
+          "lng": 5.774924270107278
+        }
+      },
+      "formatted_address": "VQ3G+3CW, 313109, Sobe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8527441,5.776072399999999",
+      "google_place_id": "ChIJ9Y6SYJ3jRhARSuHoG0mZrF8"
+    }
+  },
+  {
+    "id": "52428",
+    "name": "U.P.E. P/SCHOOL FARM SETTLEMENT,  SOBE",
+    "registration_area_id": "2787",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "12/17/11/018",
+    "remark": "EXISTING PU",
+    "ward_id": "2787",
+    "ward_name": "SOBE",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.8527441,
+      "longitude": 5.776072399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.854169529892722,
+          "lng": 5.777623929892722
+        },
+        "southwest": {
+          "lat": 6.851469870107278,
+          "lng": 5.774924270107278
+        }
+      },
+      "formatted_address": "VQ3G+3CW, 313109, Sobe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8527441,5.776072399999999",
+      "google_place_id": "ChIJ9Y6SYJ3jRhARSuHoG0mZrF8"
+    }
+  },
+  {
+    "id": "52429",
+    "name": "NEAR ODEBAH HOUSE SOBE",
+    "registration_area_id": "2787",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "12/17/11/019",
+    "remark": "EXISTING PU",
+    "ward_id": "2787",
+    "ward_name": "SOBE",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.8527441,
+      "longitude": 5.776072399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.854169529892722,
+          "lng": 5.777623929892722
+        },
+        "southwest": {
+          "lat": 6.851469870107278,
+          "lng": 5.774924270107278
+        }
+      },
+      "formatted_address": "VQ3G+3CW, 313109, Sobe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8527441,5.776072399999999",
+      "google_place_id": "ChIJ9Y6SYJ3jRhARSuHoG0mZrF8"
+    }
+  }
+]

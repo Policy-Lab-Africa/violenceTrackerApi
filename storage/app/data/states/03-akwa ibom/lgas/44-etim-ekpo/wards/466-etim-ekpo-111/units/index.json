@@ -1,0 +1,367 @@
+[
+  {
+    "id": "8910",
+    "name": "V/HALL, IKOT MBOHO",
+    "registration_area_id": "466",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "03/06/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "466",
+    "ward_name": "ETIM EKPO 111",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "8911",
+    "name": "SEC SCH ETOK URUK ESHIET",
+    "registration_area_id": "466",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "03/06/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "466",
+    "ward_name": "ETIM EKPO 111",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0136725,
+      "longitude": 7.613920899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.014765529892722,
+          "lng": 7.615210129892723
+        },
+        "southwest": {
+          "lat": 5.012065870107278,
+          "lng": 7.612510470107279
+        }
+      },
+      "formatted_address": "Ekabong, Etim Ekpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0136725,7.613920899999999",
+      "google_place_id": "ChIJrTVHugADaBAReXj0FkxaehY"
+    }
+  },
+  {
+    "id": "8912",
+    "name": "PRY SCH, UTU IKOT IMONTE",
+    "registration_area_id": "466",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "03/06/03/003",
+    "remark": "EXISTING PU",
+    "ward_id": "466",
+    "ward_name": "ETIM EKPO 111",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.9974891,
+      "longitude": 7.6135582,
+      "viewport": {
+        "northeast": {
+          "lat": 4.998821979892723,
+          "lng": 7.614862279892721
+        },
+        "southwest": {
+          "lat": 4.996122320107279,
+          "lng": 7.612162620107277
+        }
+      },
+      "formatted_address": "XJW7+XCV, 532108, Utu Etim Ekpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9974891,7.6135582",
+      "google_place_id": "ChIJVR1U_bQCaBAR28piicyVgU8"
+    }
+  },
+  {
+    "id": "8913",
+    "name": "V/HALL, UTU IDUNG AKPAN UDOM",
+    "registration_area_id": "466",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "03/06/03/004",
+    "remark": "EXISTING PU",
+    "ward_id": "466",
+    "ward_name": "ETIM EKPO 111",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "8914",
+    "name": "VILLAGE SQUARE, URUK ATA IKOT EKPOR",
+    "registration_area_id": "466",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "03/06/03/005",
+    "remark": "EXISTING PU",
+    "ward_id": "466",
+    "ward_name": "ETIM EKPO 111",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "8915",
+    "name": "PRY SCH 1, UTU IKOT EKPO",
+    "registration_area_id": "466",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "03/06/03/006",
+    "remark": "EXISTING PU",
+    "ward_id": "466",
+    "ward_name": "ETIM EKPO 111",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.9974891,
+      "longitude": 7.6135582,
+      "viewport": {
+        "northeast": {
+          "lat": 4.998821979892723,
+          "lng": 7.614862279892721
+        },
+        "southwest": {
+          "lat": 4.996122320107279,
+          "lng": 7.612162620107277
+        }
+      },
+      "formatted_address": "XJW7+XCV, 532108, Utu Etim Ekpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9974891,7.6135582",
+      "google_place_id": "ChIJVR1U_bQCaBAR28piicyVgU8"
+    }
+  },
+  {
+    "id": "8916",
+    "name": "PRY SCH, ATAI NTO OBO",
+    "registration_area_id": "466",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "03/06/03/007",
+    "remark": "EXISTING PU",
+    "ward_id": "466",
+    "ward_name": "ETIM EKPO 111",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.9974891,
+      "longitude": 7.6135582,
+      "viewport": {
+        "northeast": {
+          "lat": 4.998821979892723,
+          "lng": 7.614862279892721
+        },
+        "southwest": {
+          "lat": 4.996122320107279,
+          "lng": 7.612162620107277
+        }
+      },
+      "formatted_address": "XJW7+XCV, 532108, Utu Etim Ekpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9974891,7.6135582",
+      "google_place_id": "ChIJVR1U_bQCaBAR28piicyVgU8"
+    }
+  },
+  {
+    "id": "8917",
+    "name": "PRY SCH 11, UTU IKOT EKPO",
+    "registration_area_id": "466",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "03/06/03/008",
+    "remark": "EXISTING PU",
+    "ward_id": "466",
+    "ward_name": "ETIM EKPO 111",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.9974891,
+      "longitude": 7.6135582,
+      "viewport": {
+        "northeast": {
+          "lat": 4.998821979892723,
+          "lng": 7.614862279892721
+        },
+        "southwest": {
+          "lat": 4.996122320107279,
+          "lng": 7.612162620107277
+        }
+      },
+      "formatted_address": "XJW7+XCV, 532108, Utu Etim Ekpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9974891,7.6135582",
+      "google_place_id": "ChIJVR1U_bQCaBAR28piicyVgU8"
+    }
+  },
+  {
+    "id": "8918",
+    "name": "VILLAGE SQUARE, UTU IKOT EKPO",
+    "registration_area_id": "466",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "03/06/03/009",
+    "remark": "EXISTING PU",
+    "ward_id": "466",
+    "ward_name": "ETIM EKPO 111",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0136725,
+      "longitude": 7.613920899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.015023879892722,
+          "lng": 7.615312929892722
+        },
+        "southwest": {
+          "lat": 5.012324220107278,
+          "lng": 7.612613270107278
+        }
+      },
+      "formatted_address": "532108, Etim Ekpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0136725,7.613920899999999",
+      "google_place_id": "ChIJYfgH96oCaBAR6RrTjlKIlzQ"
+    }
+  },
+  {
+    "id": "8919",
+    "name": "VILLAGE COUNCIL HALL,ETOK URUK ESHIET",
+    "registration_area_id": "466",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "03/06/03/010",
+    "remark": "NEW PU",
+    "ward_id": "466",
+    "ward_name": "ETIM EKPO 111",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "8920",
+    "name": "COMMUNITY HALL, OLD MARKET SQUARE",
+    "registration_area_id": "466",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "03/06/03/011",
+    "remark": "NEW PU",
+    "ward_id": "466",
+    "ward_name": "ETIM EKPO 111",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.9938596,
+      "longitude": 7.605702399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.995042729892722,
+          "lng": 7.606847679892722
+        },
+        "southwest": {
+          "lat": 4.992343070107278,
+          "lng": 7.604148020107278
+        }
+      },
+      "formatted_address": "XJV4+G7W, 532108, Utu Etim Ekpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9938596,7.605702399999999",
+      "google_place_id": "ChIJPf-PCzYdaBARRqrpox3NRjI"
+    }
+  },
+  {
+    "id": "8921",
+    "name": "GOVERNMENT PRIMARY SCHOOL, UTU ETIM EKPO",
+    "registration_area_id": "466",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "03/06/03/012",
+    "remark": "NEW PU",
+    "ward_id": "466",
+    "ward_name": "ETIM EKPO 111",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.9946291,
+      "longitude": 7.633112999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.997191699999999,
+          "lng": 7.63460427989272
+        },
+        "southwest": {
+          "lat": 4.9937749,
+          "lng": 7.631904620107276
+        }
+      },
+      "formatted_address": "XJVM+V65, Utu Ikot Ekpo, Utu Ikot Onko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9946291,7.633112999999999",
+      "google_place_id": "ChIJ4XxmUTMDaBAR0wL3hJUmzE4"
+    }
+  },
+  {
+    "id": "8922",
+    "name": "VILLAGE HALL, IKOT NKIM, UTU CLAN",
+    "registration_area_id": "466",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "03/06/03/013",
+    "remark": "NEW PU",
+    "ward_id": "466",
+    "ward_name": "ETIM EKPO 111",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.926476099999999,
+      "longitude": 7.6123358,
+      "viewport": {
+        "northeast": {
+          "lat": 4.927822479892722,
+          "lng": 7.613688029892722
+        },
+        "southwest": {
+          "lat": 4.925122820107278,
+          "lng": 7.610988370107278
+        }
+      },
+      "formatted_address": "WJG6+HWW, Abak-Ikot Akpa Nkuk Road, 533102, Utu Etim Ekpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.926476099999999,7.6123358",
+      "google_place_id": "ChIJzRMUx6wEaBARjsEiq1r7aNU"
+    }
+  }
+]

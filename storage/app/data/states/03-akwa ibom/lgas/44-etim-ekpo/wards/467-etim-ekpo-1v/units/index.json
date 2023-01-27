@@ -1,0 +1,269 @@
+[
+  {
+    "id": "8923",
+    "name": "VILLAGE SQUARE, OBONG UTIT IDIM",
+    "registration_area_id": "467",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "03/06/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "467",
+    "ward_name": "ETIM EKPO 1V",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "8924",
+    "name": "V/HALL, URUK ATA IKOT AKPAKPAN",
+    "registration_area_id": "467",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "03/06/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "467",
+    "ward_name": "ETIM EKPO 1V",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "8925",
+    "name": "G/SCH, NKWOT IKOT EBO",
+    "registration_area_id": "467",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "03/06/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "467",
+    "ward_name": "ETIM EKPO 1V",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "8926",
+    "name": "PRY SCH, NTO UNANG",
+    "registration_area_id": "467",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "03/06/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "467",
+    "ward_name": "ETIM EKPO 1V",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.9556084,
+      "longitude": 7.565185199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.957212529892723,
+          "lng": 7.566240879892721
+        },
+        "southwest": {
+          "lat": 4.954512870107279,
+          "lng": 7.563541220107277
+        }
+      },
+      "formatted_address": "Obong Ntak, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9556084,7.565185199999999",
+      "google_place_id": "ChIJtWdsbGAcaBARppG2LtcKmiU"
+    }
+  },
+  {
+    "id": "8927",
+    "name": "Q.I.C SCH, IKOT EDET",
+    "registration_area_id": "467",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "03/06/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "467",
+    "ward_name": "ETIM EKPO 1V",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.9482788,
+      "longitude": 7.588941699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.949519529892722,
+          "lng": 7.59012457989272
+        },
+        "southwest": {
+          "lat": 4.946819870107278,
+          "lng": 7.587424920107276
+        }
+      },
+      "formatted_address": "WHXQ+8H8, 532107, Utu Etim Ekpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9482788,7.588941699999999",
+      "google_place_id": "ChIJMyQPD5YcaBARQe1rE-Pea88"
+    }
+  },
+  {
+    "id": "8928",
+    "name": "ST JOSEPH SCH, IKOT EDET",
+    "registration_area_id": "467",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "03/06/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "467",
+    "ward_name": "ETIM EKPO 1V",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.952641,
+      "longitude": 7.610400999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.953977929892721,
+          "lng": 7.611755579892722
+        },
+        "southwest": {
+          "lat": 4.951278270107277,
+          "lng": 7.609055920107278
+        }
+      },
+      "formatted_address": "XJ36+352, 532107, Utu Etim Ekpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.952641,7.610400999999999",
+      "google_place_id": "ChIJf-SsRrUcaBAR5PLoB5Bah78"
+    }
+  },
+  {
+    "id": "8929",
+    "name": "VILLAGE HALL URUK ATA, IKOT AKPAN",
+    "registration_area_id": "467",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "03/06/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "467",
+    "ward_name": "ETIM EKPO 1V",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.9951045,
+      "longitude": 7.6390079,
+      "viewport": {
+        "northeast": {
+          "lat": 4.996381629892721,
+          "lng": 7.640326779892721
+        },
+        "southwest": {
+          "lat": 4.993681970107277,
+          "lng": 7.637627120107277
+        }
+      },
+      "formatted_address": "XJWQ+2JR, 532108, Utu Etim Ekpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9951045,7.6390079",
+      "google_place_id": "ChIJ3x_yUJMCaBARO6TXD1esquQ"
+    }
+  },
+  {
+    "id": "8930",
+    "name": "V/HALL, NUNG OKU IKOT",
+    "registration_area_id": "467",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "03/06/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "467",
+    "ward_name": "ETIM EKPO 1V",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "8931",
+    "name": "SEC SCH, IKOT EDET",
+    "registration_area_id": "467",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "03/06/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "467",
+    "ward_name": "ETIM EKPO 1V",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.9590219,
+      "longitude": 7.609530899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.960115429892721,
+          "lng": 7.610904079892721
+        },
+        "southwest": {
+          "lat": 4.957415770107278,
+          "lng": 7.608204420107277
+        }
+      },
+      "formatted_address": "XJ55+JR2, 532107, Utu Etim Ekpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9590219,7.609530899999999",
+      "google_place_id": "ChIJ0R_xnMwcaBARfn4yedIcd_k"
+    }
+  },
+  {
+    "id": "8932",
+    "name": "NTO AKPAN INYANG HALL, NKWOT IKOT EBO",
+    "registration_area_id": "467",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "03/06/04/010",
+    "remark": "NEW PU",
+    "ward_id": "467",
+    "ward_name": "ETIM EKPO 1V",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "8933",
+    "name": "OPEN SPACE,IKOT EDET MISSION JUNCTION",
+    "registration_area_id": "467",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "03/06/04/011",
+    "remark": "NEW PU",
+    "ward_id": "467",
+    "ward_name": "ETIM EKPO 1V",
+    "local_government_id": "44",
+    "local_government_name": "ETIM EKPO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  }
+]

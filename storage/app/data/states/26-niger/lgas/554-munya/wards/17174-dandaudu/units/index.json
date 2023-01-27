@@ -1,0 +1,252 @@
+[
+  {
+    "id": "338005",
+    "name": "DANDAUDU PRIMARY SCHOOL",
+    "registration_area_id": "17174",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/18/02/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17174",
+    "ward_name": "DANDAUDU",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338006",
+    "name": "MAI UNGUWAN DANDAUDU",
+    "registration_area_id": "17174",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/18/02/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17174",
+    "ward_name": "DANDAUDU",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338007",
+    "name": "MAI UNGUWAN MANGOROTA",
+    "registration_area_id": "17174",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/18/02/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17174",
+    "ward_name": "DANDAUDU",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 11.203411,
+      "longitude": 7.1128059,
+      "viewport": {
+        "northeast": {
+          "lat": 11.20482432989272,
+          "lng": 7.114112779892722
+        },
+        "southwest": {
+          "lat": 11.20212467010728,
+          "lng": 7.111413120107278
+        }
+      },
+      "formatted_address": "800115, Gidan Mai Ungwan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.203411,7.1128059",
+      "google_place_id": "ChIJWxyuvjf-shER8c1KJRhamiM"
+    }
+  },
+  {
+    "id": "338008",
+    "name": "AMUZHIBUI",
+    "registration_area_id": "17174",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/18/02/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17174",
+    "ward_name": "DANDAUDU",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338009",
+    "name": "TABWARE",
+    "registration_area_id": "17174",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/18/02/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17174",
+    "ward_name": "DANDAUDU",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6355758,
+      "longitude": 6.545088499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.636925629892723,
+          "lng": 6.546438329892721
+        },
+        "southwest": {
+          "lat": 9.634225970107279,
+          "lng": 6.543738670107277
+        }
+      },
+      "formatted_address": "F-Layout Road, Minna 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6355758,6.545088499999999",
+      "google_place_id": "ChIJZYgywFxwTBARb5ebZHls5wE"
+    }
+  },
+  {
+    "id": "338010",
+    "name": "GWAIZO",
+    "registration_area_id": "17174",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/18/02/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17174",
+    "ward_name": "DANDAUDU",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338011",
+    "name": "MARARRABA",
+    "registration_area_id": "17174",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/18/02/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17174",
+    "ward_name": "DANDAUDU",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.7055891,
+      "longitude": 6.842983599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.707408079892723,
+          "lng": 6.844129329892723
+        },
+        "southwest": {
+          "lat": 9.704708420107279,
+          "lng": 6.841429670107279
+        }
+      },
+      "formatted_address": "6FX8PR4V+754 Mararaba Dandaudu munya Niger, Gwadnami, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.7055891,6.842983599999999",
+      "google_place_id": "ChIJ68KeZu1bTBAR70GTXSOjl60"
+    }
+  },
+  {
+    "id": "338012",
+    "name": "AYINTAYI",
+    "registration_area_id": "17174",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/18/02/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17174",
+    "ward_name": "DANDAUDU",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6355758,
+      "longitude": 6.545088499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.636925629892723,
+          "lng": 6.546438329892721
+        },
+        "southwest": {
+          "lat": 9.634225970107279,
+          "lng": 6.543738670107277
+        }
+      },
+      "formatted_address": "F-Layout Road, Minna 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6355758,6.545088499999999",
+      "google_place_id": "ChIJZYgywFxwTBARb5ebZHls5wE"
+    }
+  },
+  {
+    "id": "338013",
+    "name": "DISPENSARY",
+    "registration_area_id": "17174",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "26/18/02/009",
+    "remark": "NEW PU",
+    "ward_id": "17174",
+    "ward_name": "DANDAUDU",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 44.37976450000001,
+      "longitude": -79.7133102,
+      "viewport": {
+        "northeast": {
+          "lat": 44.38111982989273,
+          "lng": -79.71209892010728
+        },
+        "southwest": {
+          "lat": 44.37842017010728,
+          "lng": -79.71479857989272
+        }
+      },
+      "formatted_address": "15 Cedar Pointe Dr, Barrie, ON L4N 5R7, Canada",
+      "google_map_url": "https://maps.google.com?q=44.37976450000001,-79.7133102",
+      "google_place_id": "ChIJ0SGQig29KogRzg4aXvKgWhA"
+    }
+  },
+  {
+    "id": "338014",
+    "name": "ANGUWAN BAUCHI",
+    "registration_area_id": "17174",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "26/18/02/010",
+    "remark": "NEW PU",
+    "ward_id": "17174",
+    "ward_name": "DANDAUDU",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  }
+]

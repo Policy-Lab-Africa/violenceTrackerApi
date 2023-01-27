@@ -1,0 +1,254 @@
+[
+  {
+    "id": "4748",
+    "name": "FAWAIRE / KOFAR JAURO DUNIYA",
+    "registration_area_id": "220",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "02/04/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "220",
+    "ward_name": "GERENG",
+    "local_government_id": "21",
+    "local_government_name": "GIRE 1",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "4749",
+    "name": "GERENG 'I' / GERENG 'I' PRY. SCH.",
+    "registration_area_id": "220",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "02/04/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "220",
+    "ward_name": "GERENG",
+    "local_government_id": "21",
+    "local_government_name": "GIRE 1",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "4750",
+    "name": "GERENG 'II' / GERENG 'II' PRY. SCH.",
+    "registration_area_id": "220",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "02/04/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "220",
+    "ward_name": "GERENG",
+    "local_government_id": "21",
+    "local_government_name": "GIRE 1",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 43.720253,
+      "longitude": -79.4134179,
+      "viewport": {
+        "northeast": {
+          "lat": 43.72177387989273,
+          "lng": -79.41263557010727
+        },
+        "southwest": {
+          "lat": 43.71907422010728,
+          "lng": -79.41533522989272
+        }
+      },
+      "formatted_address": "1451 Avenue Rd, North York, ON M5N 2H9, Canada",
+      "google_map_url": "https://maps.google.com?q=43.720253,-79.4134179",
+      "google_place_id": "ChIJA-LzJP0yK4gRWZVjDHaQNm8"
+    }
+  },
+  {
+    "id": "4751",
+    "name": "JAURO DAGIYA / DAGIYA PRY. SCH.",
+    "registration_area_id": "220",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "02/04/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "220",
+    "ward_name": "GERENG",
+    "local_government_id": "21",
+    "local_government_name": "GIRE 1",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "4752",
+    "name": "KANGLING / KANGLING PRY. SCH.",
+    "registration_area_id": "220",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "02/04/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "220",
+    "ward_name": "GERENG",
+    "local_government_id": "21",
+    "local_government_name": "GIRE 1",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2279977,
+      "longitude": 12.5133453,
+      "viewport": {
+        "northeast": {
+          "lat": 9.22941997989272,
+          "lng": 12.51485557989272
+        },
+        "southwest": {
+          "lat": 9.226720320107276,
+          "lng": 12.51215592010728
+        }
+      },
+      "formatted_address": "6GH7+5C4, 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2279977,12.5133453",
+      "google_place_id": "ChIJG9_hkQ5s_BARkj8ZrtKsVQM"
+    }
+  },
+  {
+    "id": "4753",
+    "name": "KOFAR ARNADO / KOFAR JONAH",
+    "registration_area_id": "220",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "02/04/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "220",
+    "ward_name": "GERENG",
+    "local_government_id": "21",
+    "local_government_name": "GIRE 1",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "4754",
+    "name": "KOFAR JAURO JATAU / VUDEITU - NO -INE",
+    "registration_area_id": "220",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "02/04/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "220",
+    "ward_name": "GERENG",
+    "local_government_id": "21",
+    "local_government_name": "GIRE 1",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "4755",
+    "name": "KOFAR JAURO KALIFA / GERENG 'B' PRY. SCH.",
+    "registration_area_id": "220",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "02/04/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "220",
+    "ward_name": "GERENG",
+    "local_government_id": "21",
+    "local_government_name": "GIRE 1",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "4756",
+    "name": "KOFAR NASARA KWAHA LUMO",
+    "registration_area_id": "220",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "02/04/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "220",
+    "ward_name": "GERENG",
+    "local_government_id": "21",
+    "local_government_name": "GIRE 1",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "4757",
+    "name": "KANGLING CLINIC",
+    "registration_area_id": "220",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "02/04/05/010",
+    "remark": "NEW PU",
+    "ward_id": "220",
+    "ward_name": "GERENG",
+    "local_government_id": "21",
+    "local_government_name": "GIRE 1",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "4758",
+    "name": "G.D.S.S KOH",
+    "registration_area_id": "220",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "02/04/05/011",
+    "remark": "NEW PU",
+    "ward_id": "220",
+    "ward_name": "GERENG",
+    "local_government_id": "21",
+    "local_government_name": "GIRE 1",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6047581,
+      "longitude": 11.7980382,
+      "viewport": {
+        "northeast": {
+          "lat": 9.606111979892722,
+          "lng": 11.79931617989272
+        },
+        "southwest": {
+          "lat": 9.603412320107278,
+          "lng": 11.79661652010728
+        }
+      },
+      "formatted_address": "JQ3X+V4P, beside Hadiyo road, 642114, Lamurde, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6047581,11.7980382",
+      "google_place_id": "ChIJIc-b4QGM_hARez4A8xJIE6Y"
+    }
+  },
+  {
+    "id": "4759",
+    "name": "KWAHAMADAN",
+    "registration_area_id": "220",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "02/04/05/012",
+    "remark": "NEW PU",
+    "ward_id": "220",
+    "ward_name": "GERENG",
+    "local_government_id": "21",
+    "local_government_name": "GIRE 1",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  }
+]

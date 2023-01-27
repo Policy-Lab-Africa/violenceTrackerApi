@@ -1,0 +1,168 @@
+[
+  {
+    "id": "111237",
+    "name": "KIBENFADI KLGEA SCH",
+    "registration_area_id": "5785",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "23/11/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5785",
+    "ward_name": "KEMANJI",
+    "local_government_id": "500",
+    "local_government_name": "KAIAMA",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111238",
+    "name": "KPEDEZIN KLGEA SCH",
+    "registration_area_id": "5785",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "23/11/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5785",
+    "ward_name": "KEMANJI",
+    "local_government_id": "500",
+    "local_government_name": "KAIAMA",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.6007585,
+      "longitude": 3.9390973,
+      "viewport": {
+        "northeast": {
+          "lat": 9.60212212989272,
+          "lng": 3.940454779892721
+        },
+        "southwest": {
+          "lat": 9.599422470107276,
+          "lng": 3.937755120107278
+        }
+      },
+      "formatted_address": "School, A7, 242101, Kaiama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6007585,3.9390973",
+      "google_place_id": "ChIJUU5Ly6dtNBARdtz_ip41ViY"
+    }
+  },
+  {
+    "id": "111239",
+    "name": "BABETE NOMADIC SCH",
+    "registration_area_id": "5785",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "23/11/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5785",
+    "ward_name": "KEMANJI",
+    "local_government_id": "500",
+    "local_government_name": "KAIAMA",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.599233100000001,
+      "longitude": 3.9390797,
+      "viewport": {
+        "northeast": {
+          "lat": 9.600606129892721,
+          "lng": 3.940429779892721
+        },
+        "southwest": {
+          "lat": 9.597906470107278,
+          "lng": 3.937730120107278
+        }
+      },
+      "formatted_address": "A7, 242101, Kaiama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.599233100000001,3.9390797",
+      "google_place_id": "ChIJYdXqCWptNBARybAmeHaeHXo"
+    }
+  },
+  {
+    "id": "111240",
+    "name": "TENEBO KLGEA SCH",
+    "registration_area_id": "5785",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "23/11/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5785",
+    "ward_name": "KEMANJI",
+    "local_government_id": "500",
+    "local_government_name": "KAIAMA",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.6007585,
+      "longitude": 3.9390973,
+      "viewport": {
+        "northeast": {
+          "lat": 9.60212212989272,
+          "lng": 3.940454779892721
+        },
+        "southwest": {
+          "lat": 9.599422470107276,
+          "lng": 3.937755120107278
+        }
+      },
+      "formatted_address": "School, A7, 242101, Kaiama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6007585,3.9390973",
+      "google_place_id": "ChIJUU5Ly6dtNBARdtz_ip41ViY"
+    }
+  },
+  {
+    "id": "111241",
+    "name": "TUNGA SABARMA OPEN SPACE",
+    "registration_area_id": "5785",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "23/11/09/005",
+    "remark": "NEW PU",
+    "ward_id": "5785",
+    "ward_name": "KEMANJI",
+    "local_government_id": "500",
+    "local_government_name": "KAIAMA",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.580578,
+      "longitude": 3.9265729,
+      "viewport": {
+        "northeast": {
+          "lat": 9.58203057989272,
+          "lng": 3.927706529892722
+        },
+        "southwest": {
+          "lat": 9.579330920107276,
+          "lng": 3.925006870107278
+        }
+      },
+      "formatted_address": "HWJG+6JP, Kisi, road, Kaiama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.580578,3.9265729",
+      "google_place_id": "ChIJBS5o2JdtNBAR9GmT8Wjjof0"
+    }
+  },
+  {
+    "id": "111242",
+    "name": "TUNGA GARUWA CENTRAL MRKT",
+    "registration_area_id": "5785",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "23/11/09/006",
+    "remark": "NEW PU",
+    "ward_id": "5785",
+    "ward_name": "KEMANJI",
+    "local_government_id": "500",
+    "local_government_name": "KAIAMA",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  }
+]

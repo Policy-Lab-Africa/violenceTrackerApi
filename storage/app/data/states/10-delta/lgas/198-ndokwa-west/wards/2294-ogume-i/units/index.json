@@ -1,0 +1,481 @@
+[
+  {
+    "id": "41678",
+    "name": "EZEDOGUME PRIMARY SCHOOL - OGBE  INOTU OGUME I",
+    "registration_area_id": "2294",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "10/12/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2294",
+    "ward_name": "OGUME  I",
+    "local_government_id": "198",
+    "local_government_name": "NDOKWA WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7532998,
+      "longitude": 6.3260999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.754724079892722,
+          "lng": 6.327230129892722
+        },
+        "southwest": {
+          "lat": 5.752024420107278,
+          "lng": 6.324530470107278
+        }
+      },
+      "formatted_address": "Q83G+8C9, 322105, Ogume, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7532998,6.3260999",
+      "google_place_id": "ChIJhWXYjst-QRARME9wHox0CWQ"
+    }
+  },
+  {
+    "id": "41679",
+    "name": "EZEDOGUME PRIMARY SCHOOL - OGBE  INOTU OGUME II",
+    "registration_area_id": "2294",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "10/12/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2294",
+    "ward_name": "OGUME  I",
+    "local_government_id": "198",
+    "local_government_name": "NDOKWA WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7532998,
+      "longitude": 6.3260999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.754724079892722,
+          "lng": 6.327230129892722
+        },
+        "southwest": {
+          "lat": 5.752024420107278,
+          "lng": 6.324530470107278
+        }
+      },
+      "formatted_address": "Q83G+8C9, 322105, Ogume, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7532998,6.3260999",
+      "google_place_id": "ChIJhWXYjst-QRARME9wHox0CWQ"
+    }
+  },
+  {
+    "id": "41680",
+    "name": "EZEDOGUME PRIMARY SCHOOL - OGBE  UKU",
+    "registration_area_id": "2294",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "10/12/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2294",
+    "ward_name": "OGUME  I",
+    "local_government_id": "198",
+    "local_government_name": "NDOKWA WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.722453199999999,
+      "longitude": 6.3955639,
+      "viewport": {
+        "northeast": {
+          "lat": 5.724372729892721,
+          "lng": 6.396978329892722
+        },
+        "southwest": {
+          "lat": 5.721673070107277,
+          "lng": 6.394278670107278
+        }
+      },
+      "formatted_address": "P9CW+X6P, 322101, Utagba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.722453199999999,6.3955639",
+      "google_place_id": "ChIJzSz_6MR_QRARssHrMBcPhuQ"
+    }
+  },
+  {
+    "id": "41681",
+    "name": "DISPENSARY - OGBE ODUA/ODOLU I",
+    "registration_area_id": "2294",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "10/12/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2294",
+    "ward_name": "OGUME  I",
+    "local_government_id": "198",
+    "local_government_name": "NDOKWA WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "41682",
+    "name": "OLD TOWN HALL  -  OGBE  ANOKA/ACHI I",
+    "registration_area_id": "2294",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "10/12/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2294",
+    "ward_name": "OGUME  I",
+    "local_government_id": "198",
+    "local_government_name": "NDOKWA WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.694899899999999,
+      "longitude": 6.4129095,
+      "viewport": {
+        "northeast": {
+          "lat": 5.696270679892721,
+          "lng": 6.414286829892721
+        },
+        "southwest": {
+          "lat": 5.693571020107277,
+          "lng": 6.411587170107278
+        }
+      },
+      "formatted_address": "MCV7+X53, 322101, Utagba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.694899899999999,6.4129095",
+      "google_place_id": "ChIJ--lZqFTVQxARcXMt7mtlaVo"
+    }
+  },
+  {
+    "id": "41683",
+    "name": "OBIOGWA - OGBE ASHAKA/ACHI",
+    "registration_area_id": "2294",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "10/12/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2294",
+    "ward_name": "OGUME  I",
+    "local_government_id": "198",
+    "local_government_name": "NDOKWA WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1694039,
+      "longitude": 6.5583224,
+      "viewport": {
+        "northeast": {
+          "lat": 6.1806649,
+          "lng": 6.5738691
+        },
+        "southwest": {
+          "lat": 6.1441409,
+          "lng": 6.5448771
+        }
+      },
+      "formatted_address": "Aboh Ogwashi Ukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1694039,6.5583224",
+      "google_place_id": "ChIJ6_X5mGzlQxARpR1uLpMZKtg"
+    }
+  },
+  {
+    "id": "41684",
+    "name": "IGBE PRIMARY SCHOOL - OGBE OKOH/OLILE/AWAEKA II",
+    "registration_area_id": "2294",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "10/12/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2294",
+    "ward_name": "OGUME  I",
+    "local_government_id": "198",
+    "local_government_name": "NDOKWA WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.722453199999999,
+      "longitude": 6.3955639,
+      "viewport": {
+        "northeast": {
+          "lat": 5.724372729892721,
+          "lng": 6.396978329892722
+        },
+        "southwest": {
+          "lat": 5.721673070107277,
+          "lng": 6.394278670107278
+        }
+      },
+      "formatted_address": "P9CW+X6P, 322101, Utagba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.722453199999999,6.3955639",
+      "google_place_id": "ChIJzSz_6MR_QRARssHrMBcPhuQ"
+    }
+  },
+  {
+    "id": "41685",
+    "name": "ISHIENI PRIMARY SCHOOL - OGBE OFU  UTUE/ONICHA",
+    "registration_area_id": "2294",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "10/12/06/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2294",
+    "ward_name": "OGUME  I",
+    "local_government_id": "198",
+    "local_government_name": "NDOKWA WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.722453199999999,
+      "longitude": 6.3955639,
+      "viewport": {
+        "northeast": {
+          "lat": 5.724372729892721,
+          "lng": 6.396978329892722
+        },
+        "southwest": {
+          "lat": 5.721673070107277,
+          "lng": 6.394278670107278
+        }
+      },
+      "formatted_address": "P9CW+X6P, 322101, Utagba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.722453199999999,6.3955639",
+      "google_place_id": "ChIJzSz_6MR_QRARssHrMBcPhuQ"
+    }
+  },
+  {
+    "id": "41686",
+    "name": "IGBE PRIMARY SCHOOL - OGBE OKOH/OLILE/AWAEKE",
+    "registration_area_id": "2294",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "10/12/06/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2294",
+    "ward_name": "OGUME  I",
+    "local_government_id": "198",
+    "local_government_name": "NDOKWA WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.722453199999999,
+      "longitude": 6.3955639,
+      "viewport": {
+        "northeast": {
+          "lat": 5.724372729892721,
+          "lng": 6.396978329892722
+        },
+        "southwest": {
+          "lat": 5.721673070107277,
+          "lng": 6.394278670107278
+        }
+      },
+      "formatted_address": "P9CW+X6P, 322101, Utagba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.722453199999999,6.3955639",
+      "google_place_id": "ChIJzSz_6MR_QRARssHrMBcPhuQ"
+    }
+  },
+  {
+    "id": "41687",
+    "name": "IGBE PRIMARY SCHOOL - OGBE OSAKWENIKE",
+    "registration_area_id": "2294",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "10/12/06/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2294",
+    "ward_name": "OGUME  I",
+    "local_government_id": "198",
+    "local_government_name": "NDOKWA WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7469017,
+      "longitude": 6.3404393,
+      "viewport": {
+        "northeast": {
+          "lat": 5.748265079892722,
+          "lng": 6.341860229892722
+        },
+        "southwest": {
+          "lat": 5.745565420107278,
+          "lng": 6.339160570107278
+        }
+      },
+      "formatted_address": "Amai-Ogume-Kwale Road, 322121, Ogbole-Ogume, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7469017,6.3404393",
+      "google_place_id": "ChIJAx31XbB_QRAREKNv2dKLej0"
+    }
+  },
+  {
+    "id": "41688",
+    "name": "ISHIENI PRIMARY SCHOOL - UTUE - AKA/OSUOGBE",
+    "registration_area_id": "2294",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "10/12/06/011",
+    "remark": "EXISTING PU",
+    "ward_id": "2294",
+    "ward_name": "OGUME  I",
+    "local_government_id": "198",
+    "local_government_name": "NDOKWA WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7893652,
+      "longitude": 6.1022694,
+      "viewport": {
+        "northeast": {
+          "lat": 5.790513629892722,
+          "lng": 6.103660079892722
+        },
+        "southwest": {
+          "lat": 5.787813970107278,
+          "lng": 6.100960420107278
+        }
+      },
+      "formatted_address": "4 Jehovah St, 330105, Abraka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7893652,6.1022694",
+      "google_place_id": "ChIJibfGUxKdQRAR6E8GiC8XZXE"
+    }
+  },
+  {
+    "id": "41689",
+    "name": "TOWN  HALL - OGBE  ANOKA/ACHI II",
+    "registration_area_id": "2294",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "10/12/06/012",
+    "remark": "EXISTING PU",
+    "ward_id": "2294",
+    "ward_name": "OGUME  I",
+    "local_government_id": "198",
+    "local_government_name": "NDOKWA WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.694899899999999,
+      "longitude": 6.4129095,
+      "viewport": {
+        "northeast": {
+          "lat": 5.696270679892721,
+          "lng": 6.414286829892721
+        },
+        "southwest": {
+          "lat": 5.693571020107277,
+          "lng": 6.411587170107278
+        }
+      },
+      "formatted_address": "MCV7+X53, 322101, Utagba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.694899899999999,6.4129095",
+      "google_place_id": "ChIJ--lZqFTVQxARcXMt7mtlaVo"
+    }
+  },
+  {
+    "id": "41690",
+    "name": "DISPENSARY - OGBE ODUA/ODOLU II",
+    "registration_area_id": "2294",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "10/12/06/013",
+    "remark": "EXISTING PU",
+    "ward_id": "2294",
+    "ward_name": "OGUME  I",
+    "local_government_id": "198",
+    "local_government_name": "NDOKWA WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.755493599999999,
+      "longitude": 6.3305831,
+      "viewport": {
+        "northeast": {
+          "lat": 5.767329,
+          "lng": 6.338346
+        },
+        "southwest": {
+          "lat": 5.74008,
+          "lng": 6.317184
+        }
+      },
+      "formatted_address": "Ogume, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.755493599999999,6.3305831",
+      "google_place_id": "ChIJyZAKVMl-QRARkP7_Gw1ZDJs"
+    }
+  },
+  {
+    "id": "41691",
+    "name": "OBIOGWA UTUE-OGUME",
+    "registration_area_id": "2294",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "10/12/06/014",
+    "remark": "NEW PU",
+    "ward_id": "2294",
+    "ward_name": "OGUME  I",
+    "local_government_id": "198",
+    "local_government_name": "NDOKWA WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7152673,
+      "longitude": 6.297357,
+      "viewport": {
+        "northeast": {
+          "lat": 5.723256000000001,
+          "lng": 6.303966
+        },
+        "southwest": {
+          "lat": 5.7108891,
+          "lng": 6.2934041
+        }
+      },
+      "formatted_address": "322105, Utue-Ogume, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7152673,6.297357",
+      "google_place_id": "ChIJAQEqKOt4QRARJJsc2PmuxoY"
+    }
+  },
+  {
+    "id": "41692",
+    "name": "UTUE-OGUME PHC",
+    "registration_area_id": "2294",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "10/12/06/015",
+    "remark": "NEW PU",
+    "ward_id": "2294",
+    "ward_name": "OGUME  I",
+    "local_government_id": "198",
+    "local_government_name": "NDOKWA WEST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7152673,
+      "longitude": 6.297357,
+      "viewport": {
+        "northeast": {
+          "lat": 5.723256000000001,
+          "lng": 6.303966
+        },
+        "southwest": {
+          "lat": 5.7108891,
+          "lng": 6.2934041
+        }
+      },
+      "formatted_address": "322105, Utue-Ogume, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7152673,6.297357",
+      "google_place_id": "ChIJAQEqKOt4QRARJJsc2PmuxoY"
+    }
+  }
+]

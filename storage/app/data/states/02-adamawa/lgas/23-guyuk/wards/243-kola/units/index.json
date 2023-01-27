@@ -1,0 +1,449 @@
+[
+  {
+    "id": "5124",
+    "name": "HALAUNG/ KERAU PRY. SCH.",
+    "registration_area_id": "243",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "02/06/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "243",
+    "ward_name": "KOLA",
+    "local_government_id": "23",
+    "local_government_name": "GUYUK",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6504206,
+      "longitude": 11.8216176,
+      "viewport": {
+        "northeast": {
+          "lat": 9.651774829892723,
+          "lng": 11.82296182989272
+        },
+        "southwest": {
+          "lat": 9.64907517010728,
+          "lng": 11.82026217010728
+        }
+      },
+      "formatted_address": "Lafia, 642117, Lamurde, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6504206,11.8216176",
+      "google_place_id": "ChIJEyl5_x6J_hAR5ixqyrxeV3o"
+    }
+  },
+  {
+    "id": "5125",
+    "name": "KERAU/ K/DAGACIN KERAU",
+    "registration_area_id": "243",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "02/06/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "243",
+    "ward_name": "KOLA",
+    "local_government_id": "23",
+    "local_government_name": "GUYUK",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "5126",
+    "name": "KOLA DUTSE/ K/DAGACIN KOLA",
+    "registration_area_id": "243",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "02/06/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "243",
+    "ward_name": "KOLA",
+    "local_government_id": "23",
+    "local_government_name": "GUYUK",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6797303,
+      "longitude": 11.9690458,
+      "viewport": {
+        "northeast": {
+          "lat": 9.759947,
+          "lng": 12.0709409
+        },
+        "southwest": {
+          "lat": 9.6419534,
+          "lng": 11.8794501
+        }
+      },
+      "formatted_address": "Kola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6797303,11.9690458",
+      "google_place_id": "ChIJE_HBrvx9_hARdzfIxR5Ldf4"
+    }
+  },
+  {
+    "id": "5127",
+    "name": "KOLA MISSION/ KOLA PRY. SCH.",
+    "registration_area_id": "243",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "02/06/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "243",
+    "ward_name": "KOLA",
+    "local_government_id": "23",
+    "local_government_name": "GUYUK",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6797303,
+      "longitude": 11.9690458,
+      "viewport": {
+        "northeast": {
+          "lat": 9.759947,
+          "lng": 12.0709409
+        },
+        "southwest": {
+          "lat": 9.6419534,
+          "lng": 11.8794501
+        }
+      },
+      "formatted_address": "Kola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6797303,11.9690458",
+      "google_place_id": "ChIJE_HBrvx9_hARdzfIxR5Ldf4"
+    }
+  },
+  {
+    "id": "5128",
+    "name": "KRISTA/ PONDIWE PRY. SCH.",
+    "registration_area_id": "243",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "02/06/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "243",
+    "ward_name": "KOLA",
+    "local_government_id": "23",
+    "local_government_name": "GUYUK",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.7351127,
+      "longitude": 11.9332914,
+      "viewport": {
+        "northeast": {
+          "lat": 9.736344729892723,
+          "lng": 11.93469222989272
+        },
+        "southwest": {
+          "lat": 9.733645070107277,
+          "lng": 11.93199257010728
+        }
+      },
+      "formatted_address": "Pondiwe Primary School, 643111, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.7351127,11.9332914",
+      "google_place_id": "ChIJj7ZRPQB9_hARJUsnvoYNmA4"
+    }
+  },
+  {
+    "id": "5129",
+    "name": "LUMBUR/ K/M LUMBUR",
+    "registration_area_id": "243",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "02/06/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "243",
+    "ward_name": "KOLA",
+    "local_government_id": "23",
+    "local_government_name": "GUYUK",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6866642,
+      "longitude": 11.8996258,
+      "viewport": {
+        "northeast": {
+          "lat": 9.688007779892722,
+          "lng": 11.90097437989272
+        },
+        "southwest": {
+          "lat": 9.685308120107278,
+          "lng": 11.89827472010728
+        }
+      },
+      "formatted_address": "MVPX+MVP, 643111, Magesu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6866642,11.8996258",
+      "google_place_id": "ChIJOayhEfqH_hARvGCab-QRjSg"
+    }
+  },
+  {
+    "id": "5130",
+    "name": "MARARABAR KOLA/ KOLA II PRY. SCH.",
+    "registration_area_id": "243",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "02/06/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "243",
+    "ward_name": "KOLA",
+    "local_government_id": "23",
+    "local_government_name": "GUYUK",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "5131",
+    "name": "PONDIWE/ K/M PONDIWE",
+    "registration_area_id": "243",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "02/06/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "243",
+    "ward_name": "KOLA",
+    "local_government_id": "23",
+    "local_government_name": "GUYUK",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.7351127,
+      "longitude": 11.9332914,
+      "viewport": {
+        "northeast": {
+          "lat": 9.736344729892723,
+          "lng": 11.93469222989272
+        },
+        "southwest": {
+          "lat": 9.733645070107277,
+          "lng": 11.93199257010728
+        }
+      },
+      "formatted_address": "Pondiwe Primary School, 643111, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.7351127,11.9332914",
+      "google_place_id": "ChIJj7ZRPQB9_hARJUsnvoYNmA4"
+    }
+  },
+  {
+    "id": "5132",
+    "name": "THEBLE/ THEBLE PRY. SCH.",
+    "registration_area_id": "243",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "02/06/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "243",
+    "ward_name": "KOLA",
+    "local_government_id": "23",
+    "local_government_name": "GUYUK",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6945952,
+      "longitude": 11.9169339,
+      "viewport": {
+        "northeast": {
+          "lat": 9.69592047989272,
+          "lng": 11.91827302989272
+        },
+        "southwest": {
+          "lat": 9.693220820107276,
+          "lng": 11.91557337010728
+        }
+      },
+      "formatted_address": "Theble Primary School, 643111, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6945952,11.9169339",
+      "google_place_id": "ChIJQ2KmmmF9_hARyV_VEzTCbek"
+    }
+  },
+  {
+    "id": "5133",
+    "name": "YATSIRELIYE/ K/M YATSIRELIYE",
+    "registration_area_id": "243",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "02/06/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "243",
+    "ward_name": "KOLA",
+    "local_government_id": "23",
+    "local_government_name": "GUYUK",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "5134",
+    "name": "KERAU DISPENSARY",
+    "registration_area_id": "243",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "02/06/08/011",
+    "remark": "NEW PU",
+    "ward_id": "243",
+    "ward_name": "KOLA",
+    "local_government_id": "23",
+    "local_government_name": "GUYUK",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.919657899999999,
+      "longitude": 11.9403547,
+      "viewport": {
+        "northeast": {
+          "lat": 9.92089812989272,
+          "lng": 11.94170997989272
+        },
+        "southwest": {
+          "lat": 9.918198470107276,
+          "lng": 11.93901032010728
+        }
+      },
+      "formatted_address": "WW9R+V49, 643101, Guyok, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.919657899999999,11.9403547",
+      "google_place_id": "ChIJn_CmBItx_hARg1oo_2CleXA"
+    }
+  },
+  {
+    "id": "5135",
+    "name": "YATSIRILIYE FOOTBALL FIELD",
+    "registration_area_id": "243",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "02/06/08/012",
+    "remark": "NEW PU",
+    "ward_id": "243",
+    "ward_name": "KOLA",
+    "local_government_id": "23",
+    "local_government_name": "GUYUK",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4568087,
+      "longitude": 12.0538902,
+      "viewport": {
+        "northeast": {
+          "lat": 9.458104329892722,
+          "lng": 12.05511677989272
+        },
+        "southwest": {
+          "lat": 9.455404670107278,
+          "lng": 12.05241712010728
+        }
+      },
+      "formatted_address": "Yola-Numan Rd, 643108, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4568087,12.0538902",
+      "google_place_id": "ChIJEYY4OJed_hARCyXedERsinA"
+    }
+  },
+  {
+    "id": "5136",
+    "name": "GDSS KOLA",
+    "registration_area_id": "243",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "02/06/08/013",
+    "remark": "NEW PU",
+    "ward_id": "243",
+    "ward_name": "KOLA",
+    "local_government_id": "23",
+    "local_government_name": "GUYUK",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6504206,
+      "longitude": 11.8216176,
+      "viewport": {
+        "northeast": {
+          "lat": 9.651774829892723,
+          "lng": 11.82296182989272
+        },
+        "southwest": {
+          "lat": 9.64907517010728,
+          "lng": 11.82026217010728
+        }
+      },
+      "formatted_address": "Lafia, 642117, Lamurde, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6504206,11.8216176",
+      "google_place_id": "ChIJEyl5_x6J_hAR5ixqyrxeV3o"
+    }
+  },
+  {
+    "id": "5137",
+    "name": "KOLA CLINIC",
+    "registration_area_id": "243",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "02/06/08/014",
+    "remark": "NEW PU",
+    "ward_id": "243",
+    "ward_name": "KOLA",
+    "local_government_id": "23",
+    "local_government_name": "GUYUK",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6797303,
+      "longitude": 11.9690458,
+      "viewport": {
+        "northeast": {
+          "lat": 9.759947,
+          "lng": 12.0709409
+        },
+        "southwest": {
+          "lat": 9.6419534,
+          "lng": 11.8794501
+        }
+      },
+      "formatted_address": "Kola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6797303,11.9690458",
+      "google_place_id": "ChIJE_HBrvx9_hARdzfIxR5Ldf4"
+    }
+  },
+  {
+    "id": "5138",
+    "name": "PONDIWE DISPENSARY",
+    "registration_area_id": "243",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "02/06/08/015",
+    "remark": "NEW PU",
+    "ward_id": "243",
+    "ward_name": "KOLA",
+    "local_government_id": "23",
+    "local_government_name": "GUYUK",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.919657899999999,
+      "longitude": 11.9403547,
+      "viewport": {
+        "northeast": {
+          "lat": 9.92089812989272,
+          "lng": 11.94170997989272
+        },
+        "southwest": {
+          "lat": 9.918198470107276,
+          "lng": 11.93901032010728
+        }
+      },
+      "formatted_address": "WW9R+V49, 643101, Guyok, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.919657899999999,11.9403547",
+      "google_place_id": "ChIJn_CmBItx_hARg1oo_2CleXA"
+    }
+  }
+]

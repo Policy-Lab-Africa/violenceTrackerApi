@@ -1,0 +1,299 @@
+[
+  {
+    "id": "111095",
+    "name": "COURT AREA OPEN SPACE",
+    "registration_area_id": "5772",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "23/10/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5772",
+    "ward_name": "OWU ISIN",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.34032,
+      "longitude": 5.142196,
+      "viewport": {
+        "northeast": {
+          "lat": 8.341440729892723,
+          "lng": 5.144252500000001
+        },
+        "southwest": {
+          "lat": 8.338741070107279,
+          "lng": 5.141510499999999
+        }
+      },
+      "formatted_address": "84RR+4VG, 251105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.34032,5.142196",
+      "google_place_id": "ChIJozxzsP8pSBARw3b504904cM"
+    }
+  },
+  {
+    "id": "111096",
+    "name": "ILE OBA OWU OPEN SPACE I",
+    "registration_area_id": "5772",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "23/10/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5772",
+    "ward_name": "OWU ISIN",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.34032,
+      "longitude": 5.142196,
+      "viewport": {
+        "northeast": {
+          "lat": 8.341440729892723,
+          "lng": 5.144252500000001
+        },
+        "southwest": {
+          "lat": 8.338741070107279,
+          "lng": 5.141510499999999
+        }
+      },
+      "formatted_address": "84RR+4VG, 251105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.34032,5.142196",
+      "google_place_id": "ChIJozxzsP8pSBARw3b504904cM"
+    }
+  },
+  {
+    "id": "111097",
+    "name": "ILE OBA OWU OPEN SPACE II",
+    "registration_area_id": "5772",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "23/10/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5772",
+    "ward_name": "OWU ISIN",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.34032,
+      "longitude": 5.142196,
+      "viewport": {
+        "northeast": {
+          "lat": 8.341440729892723,
+          "lng": 5.144252500000001
+        },
+        "southwest": {
+          "lat": 8.338741070107279,
+          "lng": 5.141510499999999
+        }
+      },
+      "formatted_address": "84RR+4VG, 251105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.34032,5.142196",
+      "google_place_id": "ChIJozxzsP8pSBARw3b504904cM"
+    }
+  },
+  {
+    "id": "111098",
+    "name": "LGEA SCH OWU",
+    "registration_area_id": "5772",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "23/10/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5772",
+    "ward_name": "OWU ISIN",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2289073,
+      "longitude": 5.0828142,
+      "viewport": {
+        "northeast": {
+          "lat": 8.230265429892722,
+          "lng": 5.084176529892722
+        },
+        "southwest": {
+          "lat": 8.227565770107278,
+          "lng": 5.081476870107278
+        }
+      },
+      "formatted_address": "63HM+H3H, 251106, Isanlu Isin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2289073,5.0828142",
+      "google_place_id": "ChIJHQULDQsnSBARkuVRm_Tj6lw"
+    }
+  },
+  {
+    "id": "111099",
+    "name": "LGEA SCH  IJI-ISIN I",
+    "registration_area_id": "5772",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "23/10/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5772",
+    "ward_name": "OWU ISIN",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.271384,
+      "longitude": 5.012095,
+      "viewport": {
+        "northeast": {
+          "lat": 8.272730879892723,
+          "lng": 5.013666429892722
+        },
+        "southwest": {
+          "lat": 8.27003122010728,
+          "lng": 5.010966770107278
+        }
+      },
+      "formatted_address": "Oke Onigbin-Odo Ore, 251105, Owu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.271384,5.012095",
+      "google_place_id": "ChIJDW1VT9HZNxARB19_nZiow8U"
+    }
+  },
+  {
+    "id": "111100",
+    "name": "LGEA SCH  IJI-ISIN II",
+    "registration_area_id": "5772",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "23/10/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5772",
+    "ward_name": "OWU ISIN",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.271384,
+      "longitude": 5.012095,
+      "viewport": {
+        "northeast": {
+          "lat": 8.272730879892723,
+          "lng": 5.013666429892722
+        },
+        "southwest": {
+          "lat": 8.27003122010728,
+          "lng": 5.010966770107278
+        }
+      },
+      "formatted_address": "Oke Onigbin-Odo Ore, 251105, Owu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.271384,5.012095",
+      "google_place_id": "ChIJDW1VT9HZNxARB19_nZiow8U"
+    }
+  },
+  {
+    "id": "111101",
+    "name": "MARKET CENTRE KUDU",
+    "registration_area_id": "5772",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "23/10/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5772",
+    "ward_name": "OWU ISIN",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2829114,
+      "longitude": 5.020129799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.284176929892723,
+          "lng": 5.021528279892721
+        },
+        "southwest": {
+          "lat": 8.28147727010728,
+          "lng": 5.018828620107278
+        }
+      },
+      "formatted_address": "72MC+536, 251105, OWU-ISIN, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2829114,5.020129799999999",
+      "google_place_id": "ChIJ3cEDiIHXNxARLDUitirMsxU"
+    }
+  },
+  {
+    "id": "111102",
+    "name": "MARKET CENTRE OYI",
+    "registration_area_id": "5772",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "23/10/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5772",
+    "ward_name": "OWU ISIN",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2829114,
+      "longitude": 5.020129799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.284176929892723,
+          "lng": 5.021528279892721
+        },
+        "southwest": {
+          "lat": 8.28147727010728,
+          "lng": 5.018828620107278
+        }
+      },
+      "formatted_address": "72MC+536, 251105, OWU-ISIN, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2829114,5.020129799999999",
+      "google_place_id": "ChIJ3cEDiIHXNxARLDUitirMsxU"
+    }
+  },
+  {
+    "id": "111103",
+    "name": "MODEL PRIMARY HEALTH CENTRE OWU-ISIN",
+    "registration_area_id": "5772",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "23/10/07/009",
+    "remark": "NEW PU",
+    "ward_id": "5772",
+    "ward_name": "OWU ISIN",
+    "local_government_id": "499",
+    "local_government_name": "ISIN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2787845,
+      "longitude": 5.0206846,
+      "viewport": {
+        "northeast": {
+          "lat": 8.28026262989272,
+          "lng": 5.021922379892721
+        },
+        "southwest": {
+          "lat": 8.277562970107276,
+          "lng": 5.019222720107277
+        }
+      },
+      "formatted_address": "72HC+G77, 251105, OWU-ISIN, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2787845,5.0206846",
+      "google_place_id": "ChIJCc3UX4DXNxAR4f4KDlr5q2g"
+    }
+  }
+]

@@ -1,0 +1,467 @@
+[
+  {
+    "id": "95918",
+    "name": "DANKUM PRI. SCHOOL",
+    "registration_area_id": "4872",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/04/12/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4872",
+    "ward_name": "AGALA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8219477,
+      "longitude": 8.6878238,
+      "viewport": {
+        "northeast": {
+          "lat": 12.82334847989272,
+          "lng": 8.689145529892722
+        },
+        "southwest": {
+          "lat": 12.82064882010728,
+          "lng": 8.686445870107278
+        }
+      },
+      "formatted_address": "Agala Habe Primary School, 824105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8219477,8.6878238",
+      "google_place_id": "ChIJ_cEkpuwarxERcrWq9VlTmn8"
+    }
+  },
+  {
+    "id": "95919",
+    "name": "KAFIN KWANCE PRIMARY SCHOOL",
+    "registration_area_id": "4872",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/04/12/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4872",
+    "ward_name": "AGALA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7907208,
+      "longitude": 8.720222099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.79207502989272,
+          "lng": 8.72157877989272
+        },
+        "southwest": {
+          "lat": 12.78937537010728,
+          "lng": 8.718879120107276
+        }
+      },
+      "formatted_address": "Kafin Kwance Primary School, 824105, Kafankonce Buba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7907208,8.720222099999999",
+      "google_place_id": "ChIJeWypLrEbrxERnmaPoodqDWI"
+    }
+  },
+  {
+    "id": "95920",
+    "name": "AGALA HABE PRIMARY SCHOOL",
+    "registration_area_id": "4872",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/04/12/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4872",
+    "ward_name": "AGALA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8219477,
+      "longitude": 8.6878238,
+      "viewport": {
+        "northeast": {
+          "lat": 12.82334847989272,
+          "lng": 8.689145529892722
+        },
+        "southwest": {
+          "lat": 12.82064882010728,
+          "lng": 8.686445870107278
+        }
+      },
+      "formatted_address": "Agala Habe Primary School, 824105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8219477,8.6878238",
+      "google_place_id": "ChIJ_cEkpuwarxERcrWq9VlTmn8"
+    }
+  },
+  {
+    "id": "95921",
+    "name": "AGALA FULANI - KOFAR HARDO",
+    "registration_area_id": "4872",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/04/12/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4872",
+    "ward_name": "AGALA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95922",
+    "name": "HUSAMAWA",
+    "registration_area_id": "4872",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/04/12/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4872",
+    "ward_name": "AGALA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95923",
+    "name": "DOROWA GOMA - PRI. SCHOOL",
+    "registration_area_id": "4872",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/04/12/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4872",
+    "ward_name": "AGALA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95924",
+    "name": "KIROWA / PRY. SCH.",
+    "registration_area_id": "4872",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/04/12/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4872",
+    "ward_name": "AGALA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8105455,
+      "longitude": 8.7150562,
+      "viewport": {
+        "northeast": {
+          "lat": 12.81189772989272,
+          "lng": 8.716399579892721
+        },
+        "southwest": {
+          "lat": 12.80919807010728,
+          "lng": 8.713699920107278
+        }
+      },
+      "formatted_address": "RP68+62G, 824105, Baure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8105455,8.7150562",
+      "google_place_id": "ChIJ1zXLqloarxERyPfowTpdTsI"
+    }
+  },
+  {
+    "id": "95925",
+    "name": "GALADIMAWA - CIKIN GARI",
+    "registration_area_id": "4872",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/04/12/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4872",
+    "ward_name": "AGALA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7681201,
+      "longitude": 9.014365699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.76946597989272,
+          "lng": 9.015696879892722
+        },
+        "southwest": {
+          "lat": 12.76676632010728,
+          "lng": 9.012997220107279
+        }
+      },
+      "formatted_address": "Q297+6PX, 732104, Babura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7681201,9.014365699999999",
+      "google_place_id": "ChIJecwFz3ovrxER3jRNkuTu-Lc"
+    }
+  },
+  {
+    "id": "95926",
+    "name": "MAKANWACI - CIKIN GARI",
+    "registration_area_id": "4872",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/04/12/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4872",
+    "ward_name": "AGALA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0157691,
+      "longitude": 7.6255954,
+      "viewport": {
+        "northeast": {
+          "lat": 13.01726582989272,
+          "lng": 7.62683892989272
+        },
+        "southwest": {
+          "lat": 13.01456617010728,
+          "lng": 7.624139270107277
+        }
+      },
+      "formatted_address": "2J8G+865, Ring Riad, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0157691,7.6255954",
+      "google_place_id": "ChIJ9yZEgtgisBERjpBiqfY6jOI"
+    }
+  },
+  {
+    "id": "95927",
+    "name": "MAIMAKWAMI - CIKIN GARI",
+    "registration_area_id": "4872",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/04/12/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4872",
+    "ward_name": "AGALA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95928",
+    "name": "KAFIN KWANCE - PRI.SCHOOL",
+    "registration_area_id": "4872",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/04/12/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4872",
+    "ward_name": "AGALA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7907208,
+      "longitude": 8.720222099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.79207502989272,
+          "lng": 8.72157877989272
+        },
+        "southwest": {
+          "lat": 12.78937537010728,
+          "lng": 8.718879120107276
+        }
+      },
+      "formatted_address": "Kafin Kwance Primary School, 824105, Kafankonce Buba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7907208,8.720222099999999",
+      "google_place_id": "ChIJeWypLrEbrxERnmaPoodqDWI"
+    }
+  },
+  {
+    "id": "95929",
+    "name": "BURMAWA",
+    "registration_area_id": "4872",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "20/04/12/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4872",
+    "ward_name": "AGALA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7200727,
+      "longitude": 8.633343199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.72141272989272,
+          "lng": 8.634896379892721
+        },
+        "southwest": {
+          "lat": 12.71871307010728,
+          "lng": 8.632196720107277
+        }
+      },
+      "formatted_address": "705102, Burmawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7200727,8.633343199999999",
+      "google_place_id": "ChIJbdqhrQADrxERU07ejW_9PZY"
+    }
+  },
+  {
+    "id": "95930",
+    "name": "AYA",
+    "registration_area_id": "4872",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "20/04/12/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4872",
+    "ward_name": "AGALA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95931",
+    "name": "TSAMIYAR FULANI",
+    "registration_area_id": "4872",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "20/04/12/014",
+    "remark": "NEW PU",
+    "ward_id": "4872",
+    "ward_name": "AGALA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.0388164,
+      "longitude": 8.4771967,
+      "viewport": {
+        "northeast": {
+          "lat": 12.04012592989272,
+          "lng": 8.47855802989272
+        },
+        "southwest": {
+          "lat": 12.03742627010728,
+          "lng": 8.475858370107277
+        }
+      },
+      "formatted_address": "2FQG+GVG, Tudun Fulani (B, Kofar Lunkdi 700281, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0388164,8.4771967",
+      "google_place_id": "ChIJVe5HPdF9rhERTbcJfCJKKCw"
+    }
+  },
+  {
+    "id": "95932",
+    "name": "AGALA HABE B",
+    "registration_area_id": "4872",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "20/04/12/015",
+    "remark": "NEW PU",
+    "ward_id": "4872",
+    "ward_name": "AGALA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8219477,
+      "longitude": 8.6878238,
+      "viewport": {
+        "northeast": {
+          "lat": 12.82334847989272,
+          "lng": 8.689145529892722
+        },
+        "southwest": {
+          "lat": 12.82064882010728,
+          "lng": 8.686445870107278
+        }
+      },
+      "formatted_address": "Agala Habe Primary School, 824105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8219477,8.6878238",
+      "google_place_id": "ChIJ_cEkpuwarxERcrWq9VlTmn8"
+    }
+  },
+  {
+    "id": "95933",
+    "name": "HUSAMAWA B",
+    "registration_area_id": "4872",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "20/04/12/016",
+    "remark": "NEW PU",
+    "ward_id": "4872",
+    "ward_name": "AGALA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0157691,
+      "longitude": 7.6255954,
+      "viewport": {
+        "northeast": {
+          "lat": 13.01726582989272,
+          "lng": 7.62683892989272
+        },
+        "southwest": {
+          "lat": 13.01456617010728,
+          "lng": 7.624139270107277
+        }
+      },
+      "formatted_address": "2J8G+865, Ring Riad, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0157691,7.6255954",
+      "google_place_id": "ChIJ9yZEgtgisBERjpBiqfY6jOI"
+    }
+  },
+  {
+    "id": "95934",
+    "name": "MAIMAKWAMI B",
+    "registration_area_id": "4872",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "20/04/12/017",
+    "remark": "NEW PU",
+    "ward_id": "4872",
+    "ward_name": "AGALA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  }
+]

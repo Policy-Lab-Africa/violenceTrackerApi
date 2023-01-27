@@ -1,0 +1,549 @@
+[
+  {
+    "id": "68210",
+    "name": "KARGO PRI. SCH. /KARGO  I",
+    "registration_area_id": "3727",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "17/07/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3727",
+    "ward_name": "KARGO",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4946784,
+      "longitude": 9.0909245,
+      "viewport": {
+        "northeast": {
+          "lat": 12.49601862989272,
+          "lng": 9.092303879892722
+        },
+        "southwest": {
+          "lat": 12.49331897010728,
+          "lng": 9.089604220107278
+        }
+      },
+      "formatted_address": "F3VR+V9F, 733101, Kargo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4946784,9.0909245",
+      "google_place_id": "ChIJ-2HijY3RrhERyQdyElnI0V4"
+    }
+  },
+  {
+    "id": "68211",
+    "name": "KARGO PRI. SCH. /KARGO  II",
+    "registration_area_id": "3727",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "17/07/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3727",
+    "ward_name": "KARGO",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4946784,
+      "longitude": 9.0909245,
+      "viewport": {
+        "northeast": {
+          "lat": 12.49601862989272,
+          "lng": 9.092303879892722
+        },
+        "southwest": {
+          "lat": 12.49331897010728,
+          "lng": 9.089604220107278
+        }
+      },
+      "formatted_address": "F3VR+V9F, 733101, Kargo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4946784,9.0909245",
+      "google_place_id": "ChIJ-2HijY3RrhERyQdyElnI0V4"
+    }
+  },
+  {
+    "id": "68212",
+    "name": "UNG. BAKO PRI. SCH./ UNGUWAR BAKO",
+    "registration_area_id": "3727",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "17/07/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3727",
+    "ward_name": "KARGO",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.435423,
+      "longitude": 9.191404,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43678007989272,
+          "lng": 9.192807529892724
+        },
+        "southwest": {
+          "lat": 12.43408042010728,
+          "lng": 9.19010787010728
+        }
+      },
+      "formatted_address": "C5PR+5H6, 733101, Garki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.435423,9.191404",
+      "google_place_id": "ChIJ17u7l8wyqRERx1dl86MoHCQ"
+    }
+  },
+  {
+    "id": "68213",
+    "name": "NASAKAR PRI. SCH./NASAKAR",
+    "registration_area_id": "3727",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "17/07/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3727",
+    "ward_name": "KARGO",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4199997,
+      "longitude": 9.1686585,
+      "viewport": {
+        "northeast": {
+          "lat": 12.42126252989272,
+          "lng": 9.17001122989272
+        },
+        "southwest": {
+          "lat": 12.41856287010728,
+          "lng": 9.167311570107277
+        }
+      },
+      "formatted_address": "C599+XFV, kwanar, Garki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4199997,9.1686585",
+      "google_place_id": "ChIJB6nPbJvNrhERsZg082ePSB8"
+    }
+  },
+  {
+    "id": "68214",
+    "name": "DUNKUMI PRI. SCH/DUNKAUMI",
+    "registration_area_id": "3727",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "17/07/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3727",
+    "ward_name": "KARGO",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4199997,
+      "longitude": 9.1686585,
+      "viewport": {
+        "northeast": {
+          "lat": 12.42126252989272,
+          "lng": 9.17001122989272
+        },
+        "southwest": {
+          "lat": 12.41856287010728,
+          "lng": 9.167311570107277
+        }
+      },
+      "formatted_address": "C599+XFV, kwanar, Garki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4199997,9.1686585",
+      "google_place_id": "ChIJB6nPbJvNrhERsZg082ePSB8"
+    }
+  },
+  {
+    "id": "68215",
+    "name": "GIDAN DOGO PRI. SCH./GIDAN DOGO",
+    "registration_area_id": "3727",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "17/07/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3727",
+    "ward_name": "KARGO",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.9517985,
+      "longitude": 8.5474329,
+      "viewport": {
+        "northeast": {
+          "lat": 11.95313142989272,
+          "lng": 8.54878802989272
+        },
+        "southwest": {
+          "lat": 11.95043177010728,
+          "lng": 8.546088370107276
+        }
+      },
+      "formatted_address": "Gidan Dogon Driver, Ungwa Uku 700101, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9517985,8.5474329",
+      "google_place_id": "ChIJEeowm_iBrhERQSfEz4Lz9SY"
+    }
+  },
+  {
+    "id": "68216",
+    "name": "GALADIMAWA PRI.SCH/GALADIMAWA",
+    "registration_area_id": "3727",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "17/07/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3727",
+    "ward_name": "KARGO",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5202967,
+      "longitude": 9.0495474,
+      "viewport": {
+        "northeast": {
+          "lat": 12.52164952989272,
+          "lng": 9.050893179892721
+        },
+        "southwest": {
+          "lat": 12.51894987010728,
+          "lng": 9.048193520107278
+        }
+      },
+      "formatted_address": "G2CX+4R7, 733101, Kargo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5202967,9.0495474",
+      "google_place_id": "ChIJT5I3Y_nQrhERTPo8-wBYSuA"
+    }
+  },
+  {
+    "id": "68217",
+    "name": "TANKARI PRI. SCH/TANKARI",
+    "registration_area_id": "3727",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "17/07/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3727",
+    "ward_name": "KARGO",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4199997,
+      "longitude": 9.1686585,
+      "viewport": {
+        "northeast": {
+          "lat": 12.42126252989272,
+          "lng": 9.17001122989272
+        },
+        "southwest": {
+          "lat": 12.41856287010728,
+          "lng": 9.167311570107277
+        }
+      },
+      "formatted_address": "C599+XFV, kwanar, Garki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4199997,9.1686585",
+      "google_place_id": "ChIJB6nPbJvNrhERsZg082ePSB8"
+    }
+  },
+  {
+    "id": "68218",
+    "name": "KAYA PRI. SCH/KAYA  I",
+    "registration_area_id": "3727",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "17/07/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3727",
+    "ward_name": "KARGO",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.777034,
+      "longitude": 9.5409089,
+      "viewport": {
+        "northeast": {
+          "lat": 11.77933935,
+          "lng": 9.54214682989272
+        },
+        "southwest": {
+          "lat": 11.77626555,
+          "lng": 9.539447170107277
+        }
+      },
+      "formatted_address": "QGGR+R97, 720102, Kiyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.777034,9.5409089",
+      "google_place_id": "ChIJzSQnIH_nqxERnT32wbhPUsI"
+    }
+  },
+  {
+    "id": "68219",
+    "name": "KAYA PRI. SCH/KAYA  II",
+    "registration_area_id": "3727",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "17/07/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3727",
+    "ward_name": "KARGO",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.777034,
+      "longitude": 9.5409089,
+      "viewport": {
+        "northeast": {
+          "lat": 11.77933935,
+          "lng": 9.54214682989272
+        },
+        "southwest": {
+          "lat": 11.77626555,
+          "lng": 9.539447170107277
+        }
+      },
+      "formatted_address": "QGGR+R97, 720102, Kiyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.777034,9.5409089",
+      "google_place_id": "ChIJzSQnIH_nqxERnT32wbhPUsI"
+    }
+  },
+  {
+    "id": "68220",
+    "name": "KOGURAN PRI. SCH./KOGURAN",
+    "registration_area_id": "3727",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "17/07/07/011",
+    "remark": "EXISTING PU",
+    "ward_id": "3727",
+    "ward_name": "KARGO",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.435423,
+      "longitude": 9.191404,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43678007989272,
+          "lng": 9.192807529892724
+        },
+        "southwest": {
+          "lat": 12.43408042010728,
+          "lng": 9.19010787010728
+        }
+      },
+      "formatted_address": "C5PR+5H6, 733101, Garki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.435423,9.191404",
+      "google_place_id": "ChIJ17u7l8wyqRERx1dl86MoHCQ"
+    }
+  },
+  {
+    "id": "68221",
+    "name": "MASHEME PRI. SCH/MASHEME",
+    "registration_area_id": "3727",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "17/07/07/012",
+    "remark": "EXISTING PU",
+    "ward_id": "3727",
+    "ward_name": "KARGO",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4199997,
+      "longitude": 9.1686585,
+      "viewport": {
+        "northeast": {
+          "lat": 12.42126252989272,
+          "lng": 9.17001122989272
+        },
+        "southwest": {
+          "lat": 12.41856287010728,
+          "lng": 9.167311570107277
+        }
+      },
+      "formatted_address": "C599+XFV, kwanar, Garki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4199997,9.1686585",
+      "google_place_id": "ChIJB6nPbJvNrhERsZg082ePSB8"
+    }
+  },
+  {
+    "id": "68222",
+    "name": "POLLING SHADE - DUHUWAR DINYA",
+    "registration_area_id": "3727",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "17/07/07/013",
+    "remark": "EXISTING PU",
+    "ward_id": "3727",
+    "ward_name": "KARGO",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68223",
+    "name": "TANKARI PS",
+    "registration_area_id": "3727",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "17/07/07/014",
+    "remark": "NEW PU",
+    "ward_id": "3727",
+    "ward_name": "KARGO",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68224",
+    "name": "NASAKAR PS",
+    "registration_area_id": "3727",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "17/07/07/015",
+    "remark": "NEW PU",
+    "ward_id": "3727",
+    "ward_name": "KARGO",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4933708,
+      "longitude": 9.0927413,
+      "viewport": {
+        "northeast": {
+          "lat": 12.49708265000005,
+          "lng": 9.099492099999999
+        },
+        "southwest": {
+          "lat": 12.49017524999995,
+          "lng": 9.084386100000001
+        }
+      },
+      "formatted_address": "Jigawa-Nasakar Rd, Kargo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4933708,9.0927413",
+      "google_place_id": "EiFKaWdhd2EtTmFzYWthciBSZCwgS2FyZ28sIE5pZ2VyaWEiLiosChQKEgmTT2LZSteuERGKxvqoElLJURIUChIJwyocy43RrhERc-qQBO4KJGM"
+    }
+  },
+  {
+    "id": "68225",
+    "name": "KARGO PS I",
+    "registration_area_id": "3727",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "17/07/07/016",
+    "remark": "NEW PU",
+    "ward_id": "3727",
+    "ward_name": "KARGO",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68226",
+    "name": "KARGO PS I",
+    "registration_area_id": "3727",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "17/07/07/017",
+    "remark": "NEW PU",
+    "ward_id": "3727",
+    "ward_name": "KARGO",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68227",
+    "name": "KARGO PS II",
+    "registration_area_id": "3727",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "17/07/07/018",
+    "remark": "NEW PU",
+    "ward_id": "3727",
+    "ward_name": "KARGO",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68228",
+    "name": "UNG BAKO PS PHC  UNG BAKO",
+    "registration_area_id": "3727",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "17/07/07/019",
+    "remark": "NEW PU",
+    "ward_id": "3727",
+    "ward_name": "KARGO",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7887051,
+      "longitude": 9.6022746,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79032667989272,
+          "lng": 9.603207479892722
+        },
+        "southwest": {
+          "lat": 11.78762702010728,
+          "lng": 9.600507820107278
+        }
+      },
+      "formatted_address": "QJQ2+FWJ, Kiyawa-Majiri-Kafin Hausa Rd, 720102, Kiyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7887051,9.6022746",
+      "google_place_id": "ChIJWyiV8FTdqxERNG9InEz4YkQ"
+    }
+  }
+]

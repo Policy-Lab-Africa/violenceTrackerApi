@@ -15,4 +15,9 @@ class NgWard extends Model
         'abbreviation',
         'local_government_id',
     ];
+
+    public function pollingUnits()
+    {
+        return $this->hasMany(NgPollingUnit::class, 'ward_id', 'data_id');
+    }
 }

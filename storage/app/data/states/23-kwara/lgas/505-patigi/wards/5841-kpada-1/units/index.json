@@ -1,0 +1,321 @@
+[
+  {
+    "id": "111790",
+    "name": "BASIC HEALTH CENTRE",
+    "registration_area_id": "5841",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "23/16/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5841",
+    "ward_name": "KPADA 1",
+    "local_government_id": "505",
+    "local_government_name": "PATIGI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.720374099999999,
+      "longitude": 5.7514031,
+      "viewport": {
+        "northeast": {
+          "lat": 8.722018329892721,
+          "lng": 5.752721629892721
+        },
+        "southwest": {
+          "lat": 8.719318670107278,
+          "lng": 5.750021970107277
+        }
+      },
+      "formatted_address": "PQC2+4HR, Pategi-Ofi Road, 243105, Pategi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.720374099999999,5.7514031",
+      "google_place_id": "ChIJv0PhVj0KSRARISf1X4wIwEI"
+    }
+  },
+  {
+    "id": "111791",
+    "name": "DURO LGEA SCH",
+    "registration_area_id": "5841",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "23/16/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5841",
+    "ward_name": "KPADA 1",
+    "local_government_id": "505",
+    "local_government_name": "PATIGI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111792",
+    "name": "EMIWOROGI LGEA SCH",
+    "registration_area_id": "5841",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "23/16/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5841",
+    "ward_name": "KPADA 1",
+    "local_government_id": "505",
+    "local_government_name": "PATIGI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111793",
+    "name": "GAKPAN LGEA SCH",
+    "registration_area_id": "5841",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "23/16/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5841",
+    "ward_name": "KPADA 1",
+    "local_government_id": "505",
+    "local_government_name": "PATIGI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111794",
+    "name": "GULUGI LGEA SCH",
+    "registration_area_id": "5841",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "23/16/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5841",
+    "ward_name": "KPADA 1",
+    "local_government_id": "505",
+    "local_government_name": "PATIGI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111795",
+    "name": "KAJITA LGEA SCH",
+    "registration_area_id": "5841",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "23/16/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5841",
+    "ward_name": "KPADA 1",
+    "local_government_id": "505",
+    "local_government_name": "PATIGI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111796",
+    "name": "KPADA MARKET SQUARE",
+    "registration_area_id": "5841",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "23/16/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5841",
+    "ward_name": "KPADA 1",
+    "local_government_id": "505",
+    "local_government_name": "PATIGI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111797",
+    "name": "KPADA  S.I.M SCH",
+    "registration_area_id": "5841",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "23/16/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5841",
+    "ward_name": "KPADA 1",
+    "local_government_id": "505",
+    "local_government_name": "PATIGI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111798",
+    "name": "TSABAN LGEA SCH",
+    "registration_area_id": "5841",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "23/16/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5841",
+    "ward_name": "KPADA 1",
+    "local_government_id": "505",
+    "local_government_name": "PATIGI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111799",
+    "name": "WAKO LGEA SCH",
+    "registration_area_id": "5841",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "23/16/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5841",
+    "ward_name": "KPADA 1",
+    "local_government_id": "505",
+    "local_government_name": "PATIGI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111800",
+    "name": "EBU L.G.E.A. SCHOOL",
+    "registration_area_id": "5841",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "23/16/05/011",
+    "remark": "NEW PU",
+    "ward_id": "5841",
+    "ward_name": "KPADA 1",
+    "local_government_id": "505",
+    "local_government_name": "PATIGI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.7235774,
+      "longitude": 5.7558925,
+      "viewport": {
+        "northeast": {
+          "lat": 8.724924729892722,
+          "lng": 5.757208579892723
+        },
+        "southwest": {
+          "lat": 8.722225070107278,
+          "lng": 5.754508920107279
+        }
+      },
+      "formatted_address": "PQF4+C9J, 243105, Pategi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7235774,5.7558925",
+      "google_place_id": "ChIJU0rG1j4KSRARl2rpyq-ZNXs"
+    }
+  },
+  {
+    "id": "111801",
+    "name": "KPATA EGBAN L.G.E.A. SCHOOL",
+    "registration_area_id": "5841",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "23/16/05/012",
+    "remark": "NEW PU",
+    "ward_id": "5841",
+    "ward_name": "KPADA 1",
+    "local_government_id": "505",
+    "local_government_name": "PATIGI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "111802",
+    "name": "BABOGI L.G.E.A. PRIMARY SCHOOL",
+    "registration_area_id": "5841",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "23/16/05/013",
+    "remark": "NEW PU",
+    "ward_id": "5841",
+    "ward_name": "KPADA 1",
+    "local_government_id": "505",
+    "local_government_name": "PATIGI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.7235774,
+      "longitude": 5.7558925,
+      "viewport": {
+        "northeast": {
+          "lat": 8.724924729892722,
+          "lng": 5.757208579892723
+        },
+        "southwest": {
+          "lat": 8.722225070107278,
+          "lng": 5.754508920107279
+        }
+      },
+      "formatted_address": "PQF4+C9J, 243105, Pategi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7235774,5.7558925",
+      "google_place_id": "ChIJU0rG1j4KSRARl2rpyq-ZNXs"
+    }
+  },
+  {
+    "id": "111803",
+    "name": "MA'AJI L.G.E.A. PRIMARY SCHOOL",
+    "registration_area_id": "5841",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "23/16/05/014",
+    "remark": "NEW PU",
+    "ward_id": "5841",
+    "ward_name": "KPADA 1",
+    "local_government_id": "505",
+    "local_government_name": "PATIGI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.7235774,
+      "longitude": 5.7558925,
+      "viewport": {
+        "northeast": {
+          "lat": 8.724924729892722,
+          "lng": 5.757208579892723
+        },
+        "southwest": {
+          "lat": 8.722225070107278,
+          "lng": 5.754508920107279
+        }
+      },
+      "formatted_address": "PQF4+C9J, 243105, Pategi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7235774,5.7558925",
+      "google_place_id": "ChIJU0rG1j4KSRARl2rpyq-ZNXs"
+    }
+  },
+  {
+    "id": "111804",
+    "name": "SHAABA OPEN SPACE",
+    "registration_area_id": "5841",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "23/16/05/015",
+    "remark": "NEW PU",
+    "ward_id": "5841",
+    "ward_name": "KPADA 1",
+    "local_government_id": "505",
+    "local_government_name": "PATIGI",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  }
+]

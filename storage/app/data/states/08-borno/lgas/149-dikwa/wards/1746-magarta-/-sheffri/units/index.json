@@ -1,0 +1,152 @@
+[
+  {
+    "id": "32360",
+    "name": "MAGARTA PRI. SCH.",
+    "registration_area_id": "1746",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/08/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1746",
+    "ward_name": "MAGARTA / SHEFFRI",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.0388489,
+      "longitude": 13.908033,
+      "viewport": {
+        "northeast": {
+          "lat": 12.04020772989272,
+          "lng": 13.90938022989272
+        },
+        "southwest": {
+          "lat": 12.03750807010728,
+          "lng": 13.90668057010728
+        }
+      },
+      "formatted_address": "2WQ5+G6M, 611101, Dikwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0388489,13.908033",
+      "google_place_id": "ChIJmUNZEuNBGxERj06rMx9AmB8"
+    }
+  },
+  {
+    "id": "32361",
+    "name": "JINGORI",
+    "registration_area_id": "1746",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/08/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1746",
+    "ward_name": "MAGARTA / SHEFFRI",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.0419812,
+      "longitude": 13.9172992,
+      "viewport": {
+        "northeast": {
+          "lat": 12.046239,
+          "lng": 13.9281571
+        },
+        "southwest": {
+          "lat": 12.0274239,
+          "lng": 13.896213
+        }
+      },
+      "formatted_address": "611101, Dikwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0419812,13.9172992",
+      "google_place_id": "ChIJSd7MnmhqGxERHvso8Mm5jBM"
+    }
+  },
+  {
+    "id": "32362",
+    "name": "GIMEYE",
+    "registration_area_id": "1746",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/08/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1746",
+    "ward_name": "MAGARTA / SHEFFRI",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32363",
+    "name": "DALORI KURA",
+    "registration_area_id": "1746",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/08/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1746",
+    "ward_name": "MAGARTA / SHEFFRI",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8829021,
+      "longitude": 14.1643987,
+      "viewport": {
+        "northeast": {
+          "lat": 11.88432982989272,
+          "lng": 14.16572992989272
+        },
+        "southwest": {
+          "lat": 11.88163017010728,
+          "lng": 14.16303027010728
+        }
+      },
+      "formatted_address": "611101, Dalori, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8829021,14.1643987",
+      "google_place_id": "ChIJ5SxGG3J6GxERJTRvTm_Cqos"
+    }
+  },
+  {
+    "id": "32364",
+    "name": "JEJEME",
+    "registration_area_id": "1746",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/08/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1746",
+    "ward_name": "MAGARTA / SHEFFRI",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32365",
+    "name": "GOSOMA",
+    "registration_area_id": "1746",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/08/09/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1746",
+    "ward_name": "MAGARTA / SHEFFRI",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  }
+]

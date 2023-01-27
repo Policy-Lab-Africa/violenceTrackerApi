@@ -1,0 +1,185 @@
+[
+  {
+    "id": "34239",
+    "name": "MASU PRIMARY SCHOOL",
+    "registration_area_id": "1870",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/19/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1870",
+    "ward_name": "MASU",
+    "local_government_id": "160",
+    "local_government_name": "MAFA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.2052372,
+      "longitude": 13.3039597,
+      "viewport": {
+        "northeast": {
+          "lat": 12.20663412989272,
+          "lng": 13.30535462989272
+        },
+        "southwest": {
+          "lat": 12.20393447010728,
+          "lng": 13.30265497010728
+        }
+      },
+      "formatted_address": "Masu Primary School, 611104, Masu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2052372,13.3039597",
+      "google_place_id": "ChIJTTUFtSnEBBERSVl2FcIkIOE"
+    }
+  },
+  {
+    "id": "34240",
+    "name": "CHINGOWA",
+    "registration_area_id": "1870",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/19/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1870",
+    "ward_name": "MASU",
+    "local_government_id": "160",
+    "local_government_name": "MAFA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.307425,
+      "longitude": 13.2583523,
+      "viewport": {
+        "northeast": {
+          "lat": 12.30877482989272,
+          "lng": 13.25970212989272
+        },
+        "southwest": {
+          "lat": 12.30607517010728,
+          "lng": 13.25700247010728
+        }
+      },
+      "formatted_address": "8745+X89, 612103, Mige, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.307425,13.2583523",
+      "google_place_id": "ChIJ15dFhaXcBBERl_2NBWncb9g"
+    }
+  },
+  {
+    "id": "34241",
+    "name": "MA'A FAINDE",
+    "registration_area_id": "1870",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/19/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1870",
+    "ward_name": "MASU",
+    "local_government_id": "160",
+    "local_government_name": "MAFA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
+  },
+  {
+    "id": "34242",
+    "name": "MA'A   SHERIFFTI",
+    "registration_area_id": "1870",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/19/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1870",
+    "ward_name": "MASU",
+    "local_government_id": "160",
+    "local_government_name": "MAFA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "34243",
+    "name": "MA'A BURNI",
+    "registration_area_id": "1870",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/19/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1870",
+    "ward_name": "MASU",
+    "local_government_id": "160",
+    "local_government_name": "MAFA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "34244",
+    "name": "MBUTTA PRI. SCH.",
+    "registration_area_id": "1870",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/19/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1870",
+    "ward_name": "MASU",
+    "local_government_id": "160",
+    "local_government_name": "MAFA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8332864,
+      "longitude": 13.1867236,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83436902989272,
+          "lng": 13.18809572989272
+        },
+        "southwest": {
+          "lat": 11.83166937010728,
+          "lng": 13.18539607010728
+        }
+      },
+      "formatted_address": "R5MP+8M9, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8332864,13.1867236",
+      "google_place_id": "ChIJDTQMlOihBBERKpA91hyD_94"
+    }
+  },
+  {
+    "id": "34245",
+    "name": "MA'A BURNI VILLAGE",
+    "registration_area_id": "1870",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/19/10/007",
+    "remark": "NEW PU",
+    "ward_id": "1870",
+    "ward_name": "MASU",
+    "local_government_id": "160",
+    "local_government_name": "MAFA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  }
+]

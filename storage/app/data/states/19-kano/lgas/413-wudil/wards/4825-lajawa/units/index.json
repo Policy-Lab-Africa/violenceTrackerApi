@@ -1,0 +1,465 @@
+[
+  {
+    "id": "94967",
+    "name": "DADIN KOWA - OPEN SPACE",
+    "registration_area_id": "4825",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/44/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4825",
+    "ward_name": "LAJAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "94968",
+    "name": "KAUYAWA - PRIMARY SCHOOL I",
+    "registration_area_id": "4825",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/44/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4825",
+    "ward_name": "LAJAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "94969",
+    "name": "KAUYAWA - PRIMARY SCHOOL II",
+    "registration_area_id": "4825",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/44/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4825",
+    "ward_name": "LAJAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8551342,
+      "longitude": 8.9352888,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85651947989272,
+          "lng": 8.936662979892722
+        },
+        "southwest": {
+          "lat": 11.85381982010728,
+          "lng": 8.933963320107278
+        }
+      },
+      "formatted_address": "7F3CVW4P+343, Kauyaws 713101, Lajawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8551342,8.9352888",
+      "google_place_id": "ChIJJSQMqNkdrBERUrJ3VvWTtP0"
+    }
+  },
+  {
+    "id": "94970",
+    "name": "LAJAWA - PRIMARY SCHOOL I",
+    "registration_area_id": "4825",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/44/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4825",
+    "ward_name": "LAJAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8730135,
+      "longitude": 8.9227724,
+      "viewport": {
+        "northeast": {
+          "lat": 11.877702,
+          "lng": 8.927991
+        },
+        "southwest": {
+          "lat": 11.86548,
+          "lng": 8.9177129
+        }
+      },
+      "formatted_address": "713101, Lajawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8730135,8.9227724",
+      "google_place_id": "ChIJC0lU3JoerBERkbJIrDYvhJo"
+    }
+  },
+  {
+    "id": "94971",
+    "name": "LAJAWA - PRIMARY SCHOOL II",
+    "registration_area_id": "4825",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/44/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4825",
+    "ward_name": "LAJAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8730135,
+      "longitude": 8.9227724,
+      "viewport": {
+        "northeast": {
+          "lat": 11.877702,
+          "lng": 8.927991
+        },
+        "southwest": {
+          "lat": 11.86548,
+          "lng": 8.9177129
+        }
+      },
+      "formatted_address": "713101, Lajawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8730135,8.9227724",
+      "google_place_id": "ChIJC0lU3JoerBERkbJIrDYvhJo"
+    }
+  },
+  {
+    "id": "94972",
+    "name": "MAKERA DISPENSARY",
+    "registration_area_id": "4825",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/44/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4825",
+    "ward_name": "LAJAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9015895,
+      "longitude": 8.8932682,
+      "viewport": {
+        "northeast": {
+          "lat": 11.90287042989272,
+          "lng": 8.894597379892721
+        },
+        "southwest": {
+          "lat": 11.90017077010728,
+          "lng": 8.891897720107277
+        }
+      },
+      "formatted_address": "WV2V+J8J, 713101, Lajawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9015895,8.8932682",
+      "google_place_id": "ChIJkyOfxkUerBERtKQrQttK5Ek"
+    }
+  },
+  {
+    "id": "94973",
+    "name": "MAZARE - PRIMARY SCHOOL",
+    "registration_area_id": "4825",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/44/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4825",
+    "ward_name": "LAJAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8621518,
+      "longitude": 8.9090656,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86348367989272,
+          "lng": 8.910411829892722
+        },
+        "southwest": {
+          "lat": 11.86078402010728,
+          "lng": 8.907712170107278
+        }
+      },
+      "formatted_address": "7F3CVW65+RJ6 Lajawa Mazare Kano, Lajawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8621518,8.9090656",
+      "google_place_id": "ChIJIZlw7r0erBER7a8sdypfbuk"
+    }
+  },
+  {
+    "id": "94974",
+    "name": "SAGAME - PRIMARY SCHOOL",
+    "registration_area_id": "4825",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/44/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4825",
+    "ward_name": "LAJAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8777836,
+      "longitude": 8.9006498,
+      "viewport": {
+        "northeast": {
+          "lat": 11.87911857989272,
+          "lng": 8.902010879892721
+        },
+        "southwest": {
+          "lat": 11.87641892010728,
+          "lng": 8.899311220107277
+        }
+      },
+      "formatted_address": "Sagame Primary School, 713101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8777836,8.9006498",
+      "google_place_id": "ChIJrfe-EPMerBERSxXGGuq4Bas"
+    }
+  },
+  {
+    "id": "94975",
+    "name": "YANDAMA - PRIMARY SCHOOL",
+    "registration_area_id": "4825",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/44/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4825",
+    "ward_name": "LAJAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8352006,
+      "longitude": 8.9162974,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83683907989272,
+          "lng": 8.917537429892722
+        },
+        "southwest": {
+          "lat": 11.83413942010728,
+          "lng": 8.914837770107278
+        }
+      },
+      "formatted_address": "RWP8+3GM, Gaya-Wudil Rd, 713102, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8352006,8.9162974",
+      "google_place_id": "ChIJNWTnMlIZrBER_MyydZoMRCA"
+    }
+  },
+  {
+    "id": "94976",
+    "name": "TSOHO GARU - PRIMARY SCHOOL",
+    "registration_area_id": "4825",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "19/44/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4825",
+    "ward_name": "LAJAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8352006,
+      "longitude": 8.9162974,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83683907989272,
+          "lng": 8.917537429892722
+        },
+        "southwest": {
+          "lat": 11.83413942010728,
+          "lng": 8.914837770107278
+        }
+      },
+      "formatted_address": "RWP8+3GM, Gaya-Wudil Rd, 713102, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8352006,8.9162974",
+      "google_place_id": "ChIJNWTnMlIZrBER_MyydZoMRCA"
+    }
+  },
+  {
+    "id": "94977",
+    "name": "YANDOJI - PRIMARY SCHOOL I",
+    "registration_area_id": "4825",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "19/44/07/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4825",
+    "ward_name": "LAJAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8352006,
+      "longitude": 8.9162974,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83683907989272,
+          "lng": 8.917537429892722
+        },
+        "southwest": {
+          "lat": 11.83413942010728,
+          "lng": 8.914837770107278
+        }
+      },
+      "formatted_address": "RWP8+3GM, Gaya-Wudil Rd, 713102, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8352006,8.9162974",
+      "google_place_id": "ChIJNWTnMlIZrBER_MyydZoMRCA"
+    }
+  },
+  {
+    "id": "94978",
+    "name": "YANDOJI - PRIMARY SCHOOL II",
+    "registration_area_id": "4825",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "19/44/07/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4825",
+    "ward_name": "LAJAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7913,
+      "longitude": 8.8391729,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79264492989272,
+          "lng": 8.84051317989272
+        },
+        "southwest": {
+          "lat": 11.78994527010728,
+          "lng": 8.837813520107277
+        }
+      },
+      "formatted_address": "QRRQ+GMF, Wudil Rd, 713101, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7913,8.8391729",
+      "google_place_id": "ChIJmTXkKnkYrBERjVit4KcRGPs"
+    }
+  },
+  {
+    "id": "94979",
+    "name": "YANDUWATSU - PRIMARY SCHOOL",
+    "registration_area_id": "4825",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "19/44/07/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4825",
+    "ward_name": "LAJAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8352006,
+      "longitude": 8.9162974,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83683907989272,
+          "lng": 8.917537429892722
+        },
+        "southwest": {
+          "lat": 11.83413942010728,
+          "lng": 8.914837770107278
+        }
+      },
+      "formatted_address": "RWP8+3GM, Gaya-Wudil Rd, 713102, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8352006,8.9162974",
+      "google_place_id": "ChIJNWTnMlIZrBER_MyydZoMRCA"
+    }
+  },
+  {
+    "id": "94980",
+    "name": "LAJAWA PRIMARY SCHOOL III",
+    "registration_area_id": "4825",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "19/44/07/014",
+    "remark": "NEW PU",
+    "ward_id": "4825",
+    "ward_name": "LAJAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8730135,
+      "longitude": 8.9227724,
+      "viewport": {
+        "northeast": {
+          "lat": 11.877702,
+          "lng": 8.927991
+        },
+        "southwest": {
+          "lat": 11.86548,
+          "lng": 8.9177129
+        }
+      },
+      "formatted_address": "713101, Lajawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8730135,8.9227724",
+      "google_place_id": "ChIJC0lU3JoerBERkbJIrDYvhJo"
+    }
+  },
+  {
+    "id": "94981",
+    "name": "SAGEME PRIMRY SCHOOL",
+    "registration_area_id": "4825",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "19/44/07/015",
+    "remark": "NEW PU",
+    "ward_id": "4825",
+    "ward_name": "LAJAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8352006,
+      "longitude": 8.9162974,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83683907989272,
+          "lng": 8.917537429892722
+        },
+        "southwest": {
+          "lat": 11.83413942010728,
+          "lng": 8.914837770107278
+        }
+      },
+      "formatted_address": "RWP8+3GM, Gaya-Wudil Rd, 713102, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8352006,8.9162974",
+      "google_place_id": "ChIJNWTnMlIZrBER_MyydZoMRCA"
+    }
+  }
+]

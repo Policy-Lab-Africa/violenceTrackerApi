@@ -1,0 +1,301 @@
+[
+  {
+    "id": "348233",
+    "name": "COURT HALL/OTURU LEFT & RIGHT",
+    "registration_area_id": "17688",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "28/17/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17688",
+    "ward_name": "IMORU/ARIMOGIJA",
+    "local_government_id": "598",
+    "local_government_name": "OSE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 44.9251695,
+      "longitude": -93.158209,
+      "viewport": {
+        "northeast": {
+          "lat": 44.92651467989272,
+          "lng": -93.15732507010728
+        },
+        "southwest": {
+          "lat": 44.92381502010728,
+          "lng": -93.16002472989273
+        }
+      },
+      "formatted_address": "550 S Albert St, St Paul, MN 55116, United States",
+      "google_map_url": "https://maps.google.com?q=44.9251695,-93.158209",
+      "google_place_id": "ChIJKYRlajYq9ocRS_mEbpoyncc"
+    }
+  },
+  {
+    "id": "348234",
+    "name": "COURT HALL/OTURU LEFT",
+    "registration_area_id": "17688",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "28/17/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17688",
+    "ward_name": "IMORU/ARIMOGIJA",
+    "local_government_id": "598",
+    "local_government_name": "OSE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "348235",
+    "name": "OJUMU STREET, C & S PRY SCH",
+    "registration_area_id": "17688",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "28/17/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17688",
+    "ward_name": "IMORU/ARIMOGIJA",
+    "local_government_id": "598",
+    "local_government_name": "OSE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 33.8497539,
+      "longitude": -84.21276999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 33.85109937989272,
+          "lng": -84.21156022010727
+        },
+        "southwest": {
+          "lat": 33.84839972010728,
+          "lng": -84.21425987989272
+        }
+      },
+      "formatted_address": "2227 Idlewood Rd Suite 1, Tucker, GA 30084, United States",
+      "google_map_url": "https://maps.google.com?q=33.8497539,-84.21276999999999",
+      "google_place_id": "ChIJCbIXB1mn9YgRmczCKHk9nmY"
+    }
+  },
+  {
+    "id": "348236",
+    "name": "OMI-OBI/AKORI, OMI OBI PRY SCH",
+    "registration_area_id": "17688",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "28/17/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17688",
+    "ward_name": "IMORU/ARIMOGIJA",
+    "local_government_id": "598",
+    "local_government_name": "OSE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "348237",
+    "name": "OLIKEN QTRS, ST. PAULS PRY SCH",
+    "registration_area_id": "17688",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "28/17/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17688",
+    "ward_name": "IMORU/ARIMOGIJA",
+    "local_government_id": "598",
+    "local_government_name": "OSE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.1114273,
+      "longitude": 5.1137844,
+      "viewport": {
+        "northeast": {
+          "lat": 7.112840379892721,
+          "lng": 5.115048579892722
+        },
+        "southwest": {
+          "lat": 7.110140720107277,
+          "lng": 5.112348920107278
+        }
+      },
+      "formatted_address": "4467+HGF, 340108, Idanre, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1114273,5.1137844",
+      "google_place_id": "ChIJGS8W7wiBRxARxtS6skAuWts"
+    }
+  },
+  {
+    "id": "348238",
+    "name": "ODOMORU/AGBAKAN, ST. MARYS PRY SCH",
+    "registration_area_id": "17688",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "28/17/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17688",
+    "ward_name": "IMORU/ARIMOGIJA",
+    "local_government_id": "598",
+    "local_government_name": "OSE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.4552649,
+      "longitude": 5.7961619,
+      "viewport": {
+        "northeast": {
+          "lat": 7.456538879892721,
+          "lng": 5.797564029892722
+        },
+        "southwest": {
+          "lat": 7.453839220107278,
+          "lng": 5.794864370107279
+        }
+      },
+      "formatted_address": "FQ4W+4FF, 342107, Oka Akoko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4552649,5.7961619",
+      "google_place_id": "ChIJA-YVzDk0RhAR8Q6FnHyAegI"
+    }
+  },
+  {
+    "id": "348239",
+    "name": "NEW BAALE BY RIGHT, L.A. COMM PRY SCH",
+    "registration_area_id": "17688",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "28/17/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17688",
+    "ward_name": "IMORU/ARIMOGIJA",
+    "local_government_id": "598",
+    "local_government_name": "OSE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "348240",
+    "name": "NEW BAALE BY RIGHT, L.A. COMM PRY SCH",
+    "registration_area_id": "17688",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "28/17/10/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17688",
+    "ward_name": "IMORU/ARIMOGIJA",
+    "local_government_id": "598",
+    "local_government_name": "OSE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "348241",
+    "name": "NEW CHURCH PRY SCHOOL",
+    "registration_area_id": "17688",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "28/17/10/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17688",
+    "ward_name": "IMORU/ARIMOGIJA",
+    "local_government_id": "598",
+    "local_government_name": "OSE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.461464500000001,
+      "longitude": 5.8583307,
+      "viewport": {
+        "northeast": {
+          "lat": 7.462802479892721,
+          "lng": 5.859689729892723
+        },
+        "southwest": {
+          "lat": 7.460102820107277,
+          "lng": 5.856990070107279
+        }
+      },
+      "formatted_address": "FV65+H8P, 342109, Ekpemi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.461464500000001,5.8583307",
+      "google_place_id": "ChIJW3gHTR43RhARaCjPkL-h1Sg"
+    }
+  },
+  {
+    "id": "348242",
+    "name": "EVENING MARKET AREA I",
+    "registration_area_id": "17688",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "28/17/10/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17688",
+    "ward_name": "IMORU/ARIMOGIJA",
+    "local_government_id": "598",
+    "local_government_name": "OSE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.2642947,
+      "longitude": 4.6849431,
+      "viewport": {
+        "northeast": {
+          "lat": 6.265645179892722,
+          "lng": 4.686313679892722
+        },
+        "southwest": {
+          "lat": 6.262945520107278,
+          "lng": 4.683614020107278
+        }
+      },
+      "formatted_address": "7M7M+PX8, 352118, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2642947,4.6849431",
+      "google_place_id": "ChIJgxvMNf82PxARfByWfkQerf4"
+    }
+  },
+  {
+    "id": "348243",
+    "name": "EVENING MARKET AREA II",
+    "registration_area_id": "17688",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "28/17/10/011",
+    "remark": "EXISTING PU",
+    "ward_id": "17688",
+    "ward_name": "IMORU/ARIMOGIJA",
+    "local_government_id": "598",
+    "local_government_name": "OSE",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.2642947,
+      "longitude": 4.6849431,
+      "viewport": {
+        "northeast": {
+          "lat": 6.265645179892722,
+          "lng": 4.686313679892722
+        },
+        "southwest": {
+          "lat": 6.262945520107278,
+          "lng": 4.683614020107278
+        }
+      },
+      "formatted_address": "7M7M+PX8, 352118, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2642947,4.6849431",
+      "google_place_id": "ChIJgxvMNf82PxARfByWfkQerf4"
+    }
+  }
+]

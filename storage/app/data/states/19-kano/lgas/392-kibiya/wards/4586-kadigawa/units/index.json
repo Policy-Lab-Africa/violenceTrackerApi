@@ -1,0 +1,218 @@
+[
+  {
+    "id": "89766",
+    "name": "KADIGAWA C/GARI",
+    "registration_area_id": "4586",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/23/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4586",
+    "ward_name": "KADIGAWA",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5576044,
+      "longitude": 8.7426101,
+      "viewport": {
+        "northeast": {
+          "lat": 11.592154,
+          "lng": 8.7700065
+        },
+        "southwest": {
+          "lat": 11.5347141,
+          "lng": 8.725565399999999
+        }
+      },
+      "formatted_address": "Kadigawa, 710102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5576044,8.7426101",
+      "google_place_id": "ChIJt5oArFJHrBERNSIeEpcLHIU"
+    }
+  },
+  {
+    "id": "89767",
+    "name": "KADIGAWA K/AREWA PRIMARY SCH.",
+    "registration_area_id": "4586",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/23/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4586",
+    "ward_name": "KADIGAWA",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5289658,
+      "longitude": 8.662135,
+      "viewport": {
+        "northeast": {
+          "lat": 11.53025462989272,
+          "lng": 8.663382379892722
+        },
+        "southwest": {
+          "lat": 11.52755497010728,
+          "lng": 8.660682720107278
+        }
+      },
+      "formatted_address": "7F3CGMH6+HVJ Kibiya Kibiya1 Kano, Kibiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5289658,8.662135",
+      "google_place_id": "ChIJJ7ie7OJHrBERd1KVtPMdo8w"
+    }
+  },
+  {
+    "id": "89768",
+    "name": "KADIGAWA K/GABAS BARE-BARE",
+    "registration_area_id": "4586",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/23/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4586",
+    "ward_name": "KADIGAWA",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "89769",
+    "name": "KADIGANA BUSAWA",
+    "registration_area_id": "4586",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/23/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4586",
+    "ward_name": "KADIGAWA",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "89770",
+    "name": "KADIGAWA KULUKI",
+    "registration_area_id": "4586",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/23/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4586",
+    "ward_name": "KADIGAWA",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5648606,
+      "longitude": 8.7360992,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56621242989272,
+          "lng": 8.737477879892724
+        },
+        "southwest": {
+          "lat": 11.56351277010728,
+          "lng": 8.73477822010728
+        }
+      },
+      "formatted_address": "7F3CHP7P+WFV Kuluki KADIGAWA Kano Durba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5648606,8.7360992",
+      "google_place_id": "ChIJNXv1Dq5HrBERn3NZv-N6WmA"
+    }
+  },
+  {
+    "id": "89771",
+    "name": "KADIGAWA KAYANGA",
+    "registration_area_id": "4586",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/23/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4586",
+    "ward_name": "KADIGAWA",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5576044,
+      "longitude": 8.7426101,
+      "viewport": {
+        "northeast": {
+          "lat": 11.592154,
+          "lng": 8.7700065
+        },
+        "southwest": {
+          "lat": 11.5347141,
+          "lng": 8.725565399999999
+        }
+      },
+      "formatted_address": "Kadigawa, 710102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5576044,8.7426101",
+      "google_place_id": "ChIJt5oArFJHrBERNSIeEpcLHIU"
+    }
+  },
+  {
+    "id": "89772",
+    "name": "KADIGAWA KULUKI KAYANGA",
+    "registration_area_id": "4586",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/23/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4586",
+    "ward_name": "KADIGAWA",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "89773",
+    "name": "KADIGAWA U/JARMAI",
+    "registration_area_id": "4586",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/23/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4586",
+    "ward_name": "KADIGAWA",
+    "local_government_id": "392",
+    "local_government_name": "KIBIYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5576044,
+      "longitude": 8.7426101,
+      "viewport": {
+        "northeast": {
+          "lat": 11.592154,
+          "lng": 8.7700065
+        },
+        "southwest": {
+          "lat": 11.5347141,
+          "lng": 8.725565399999999
+        }
+      },
+      "formatted_address": "Kadigawa, 710102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5576044,8.7426101",
+      "google_place_id": "ChIJt5oArFJHrBERNSIeEpcLHIU"
+    }
+  }
+]

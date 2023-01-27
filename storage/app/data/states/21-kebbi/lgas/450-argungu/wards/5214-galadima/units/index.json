@@ -1,0 +1,369 @@
+[
+  {
+    "id": "102106",
+    "name": "OLD POST OFFICE",
+    "registration_area_id": "5214",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "21/03/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5214",
+    "ward_name": "GALADIMA",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102107",
+    "name": "BARIKIN GARI",
+    "registration_area_id": "5214",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "21/03/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5214",
+    "ward_name": "GALADIMA",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102108",
+    "name": "KABANCHI DISPLAY AREA",
+    "registration_area_id": "5214",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "21/03/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5214",
+    "ward_name": "GALADIMA",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102109",
+    "name": "MARINAR KAURA",
+    "registration_area_id": "5214",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "21/03/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5214",
+    "ward_name": "GALADIMA",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7420198,
+      "longitude": 4.525436,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74323532989272,
+          "lng": 4.526770529892721
+        },
+        "southwest": {
+          "lat": 12.74053567010728,
+          "lng": 4.524070870107277
+        }
+      },
+      "formatted_address": "Ahmadu Bello way, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7420198,4.525436",
+      "google_place_id": "ChIJ07-XuLStyRERIf0jBKLBfyE"
+    }
+  },
+  {
+    "id": "102110",
+    "name": "KOFAR TUDU",
+    "registration_area_id": "5214",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "21/03/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5214",
+    "ward_name": "GALADIMA",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7420198,
+      "longitude": 4.525436,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74323532989272,
+          "lng": 4.526770529892721
+        },
+        "southwest": {
+          "lat": 12.74053567010728,
+          "lng": 4.524070870107277
+        }
+      },
+      "formatted_address": "Ahmadu Bello way, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7420198,4.525436",
+      "google_place_id": "ChIJ07-XuLStyRERIf0jBKLBfyE"
+    }
+  },
+  {
+    "id": "102111",
+    "name": "FORESTRY I AREA",
+    "registration_area_id": "5214",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "21/03/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5214",
+    "ward_name": "GALADIMA",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7523028,
+      "longitude": 4.5370404,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75356462989272,
+          "lng": 4.538391479892722
+        },
+        "southwest": {
+          "lat": 12.75086497010728,
+          "lng": 4.535691820107278
+        }
+      },
+      "formatted_address": "QG2P+WRF, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7523028,4.5370404",
+      "google_place_id": "ChIJI7gENPytyRERdk0s20BERjo"
+    }
+  },
+  {
+    "id": "102112",
+    "name": "BARIKIN GARI/ YAN LEMU",
+    "registration_area_id": "5214",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "21/03/04/007",
+    "remark": "NEW PU",
+    "ward_id": "5214",
+    "ward_name": "GALADIMA",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.1247243,
+      "longitude": 7.725376,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12605937989272,
+          "lng": 7.726866129892722
+        },
+        "southwest": {
+          "lat": 11.12335972010728,
+          "lng": 7.724166470107278
+        }
+      },
+      "formatted_address": "Yan Lemu, Randan Kano, off First prestige, Sabon Gari, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1247243,7.725376",
+      "google_place_id": "ChIJMforF_eDshERy7s8JabK0AY"
+    }
+  },
+  {
+    "id": "102113",
+    "name": "MERAWA/RIJIYAR KUNGIYA",
+    "registration_area_id": "5214",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "21/03/04/008",
+    "remark": "NEW PU",
+    "ward_id": "5214",
+    "ward_name": "GALADIMA",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102114",
+    "name": "MERAWA WURIYA",
+    "registration_area_id": "5214",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "21/03/04/009",
+    "remark": "NEW PU",
+    "ward_id": "5214",
+    "ward_name": "GALADIMA",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7341937,
+      "longitude": 4.5852511,
+      "viewport": {
+        "northeast": {
+          "lat": 12.73581352989272,
+          "lng": 4.586728329892722
+        },
+        "southwest": {
+          "lat": 12.73311387010728,
+          "lng": 4.584028670107278
+        }
+      },
+      "formatted_address": "861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7341937,4.5852511",
+      "google_place_id": "ChIJWxb_Iu2yyRERxbYpOKetMXI"
+    }
+  },
+  {
+    "id": "102115",
+    "name": "YARI BAGAYA",
+    "registration_area_id": "5214",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "21/03/04/010",
+    "remark": "NEW PU",
+    "ward_id": "5214",
+    "ward_name": "GALADIMA",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102116",
+    "name": "KOFAR TUDU / MERAWA",
+    "registration_area_id": "5214",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "21/03/04/011",
+    "remark": "NEW PU",
+    "ward_id": "5214",
+    "ward_name": "GALADIMA",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102117",
+    "name": "MARINAR KAURA/ BAKIN RUWA",
+    "registration_area_id": "5214",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "21/03/04/012",
+    "remark": "NEW PU",
+    "ward_id": "5214",
+    "ward_name": "GALADIMA",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102118",
+    "name": "BAKIN GARI 2/ GARKAR SARAKI",
+    "registration_area_id": "5214",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "21/03/04/013",
+    "remark": "NEW PU",
+    "ward_id": "5214",
+    "ward_name": "GALADIMA",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102119",
+    "name": "KABANCHI/DAN DURUMI",
+    "registration_area_id": "5214",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "21/03/04/014",
+    "remark": "NEW PU",
+    "ward_id": "5214",
+    "ward_name": "GALADIMA",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7420198,
+      "longitude": 4.525436,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74323532989272,
+          "lng": 4.526770529892721
+        },
+        "southwest": {
+          "lat": 12.74053567010728,
+          "lng": 4.524070870107277
+        }
+      },
+      "formatted_address": "Ahmadu Bello way, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7420198,4.525436",
+      "google_place_id": "ChIJ07-XuLStyRERIf0jBKLBfyE"
+    }
+  },
+  {
+    "id": "102120",
+    "name": "KANTA MUSEUM",
+    "registration_area_id": "5214",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "21/03/04/015",
+    "remark": "NEW PU",
+    "ward_id": "5214",
+    "ward_name": "GALADIMA",
+    "local_government_id": "450",
+    "local_government_name": "ARGUNGU",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7494537,
+      "longitude": 4.5368014,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75067297989272,
+          "lng": 4.538229279892722
+        },
+        "southwest": {
+          "lat": 12.74797332010728,
+          "lng": 4.535529620107278
+        }
+      },
+      "formatted_address": "PGXP+QMF, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7494537,4.5368014",
+      "google_place_id": "ChIJAQAAADytyRERFkP0WK0jHAI"
+    }
+  }
+]

@@ -1,0 +1,481 @@
+[
+  {
+    "id": "87170",
+    "name": "BARAWA",
+    "registration_area_id": "4480",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/13/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4480",
+    "ward_name": "JODA",
+    "local_government_id": "382",
+    "local_government_name": "GABASAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.1805847,
+      "longitude": 8.9121169,
+      "viewport": {
+        "northeast": {
+          "lat": 12.1865911,
+          "lng": 8.916602
+        },
+        "southwest": {
+          "lat": 12.173813,
+          "lng": 8.9057689
+        }
+      },
+      "formatted_address": "702102, Gabasawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1805847,8.9121169",
+      "google_place_id": "ChIJba4WNgy8rhERGLDE2RWeYAM"
+    }
+  },
+  {
+    "id": "87171",
+    "name": "DORINAWA",
+    "registration_area_id": "4480",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/13/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4480",
+    "ward_name": "JODA",
+    "local_government_id": "382",
+    "local_government_name": "GABASAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0894389,
+      "longitude": 8.432131,
+      "viewport": {
+        "northeast": {
+          "lat": 12.1043684,
+          "lng": 8.447628
+        },
+        "southwest": {
+          "lat": 12.0777636,
+          "lng": 8.4136391
+        }
+      },
+      "formatted_address": "Dawanau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0894389,8.432131",
+      "google_place_id": "ChIJP44n5_h8rhERK9v7egOMHmk"
+    }
+  },
+  {
+    "id": "87172",
+    "name": "FANTEKU",
+    "registration_area_id": "4480",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/13/03/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4480",
+    "ward_name": "JODA",
+    "local_government_id": "382",
+    "local_government_name": "GABASAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.1721899,
+      "longitude": 8.9019961,
+      "viewport": {
+        "northeast": {
+          "lat": 12.17352662989272,
+          "lng": 8.903353929892722
+        },
+        "southwest": {
+          "lat": 12.17082697010728,
+          "lng": 8.900654270107278
+        }
+      },
+      "formatted_address": "5WC2+VQH, GUMEL ROAD, beside OLD BUS STOP, opposite TOWN ENTERING, 702102, Gabasawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1721899,8.9019961",
+      "google_place_id": "ChIJE4AbEu-9rhERN75UFFfTMNA"
+    }
+  },
+  {
+    "id": "87173",
+    "name": "HUNBINARE",
+    "registration_area_id": "4480",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/13/03/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4480",
+    "ward_name": "JODA",
+    "local_government_id": "382",
+    "local_government_name": "GABASAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.1721899,
+      "longitude": 8.9019961,
+      "viewport": {
+        "northeast": {
+          "lat": 12.17352662989272,
+          "lng": 8.903353929892722
+        },
+        "southwest": {
+          "lat": 12.17082697010728,
+          "lng": 8.900654270107278
+        }
+      },
+      "formatted_address": "5WC2+VQH, GUMEL ROAD, beside OLD BUS STOP, opposite TOWN ENTERING, 702102, Gabasawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1721899,8.9019961",
+      "google_place_id": "ChIJE4AbEu-9rhERN75UFFfTMNA"
+    }
+  },
+  {
+    "id": "87174",
+    "name": "JIGAWAR BUYA",
+    "registration_area_id": "4480",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/13/03/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4480",
+    "ward_name": "JODA",
+    "local_government_id": "382",
+    "local_government_name": "GABASAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.96772,
+      "longitude": 8.57878,
+      "viewport": {
+        "northeast": {
+          "lat": 11.96904062989272,
+          "lng": 8.58011107989272
+        },
+        "southwest": {
+          "lat": 11.96634097010728,
+          "lng": 8.577411420107277
+        }
+      },
+      "formatted_address": "Opposite NNPC 2nd Gate, Maiduguri Road, P.O.Box 5286 Kano, Hotoro, Kano, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.96772,8.57878",
+      "google_place_id": "ChIJG--r6yOCrhERkCBSyM5zEvM"
+    }
+  },
+  {
+    "id": "87175",
+    "name": "JODA CIKIN GARI",
+    "registration_area_id": "4480",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/13/03/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4480",
+    "ward_name": "JODA",
+    "local_government_id": "382",
+    "local_government_name": "GABASAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9664686,
+      "longitude": 8.5406184,
+      "viewport": {
+        "northeast": {
+          "lat": 11.96764742989272,
+          "lng": 8.541790429892723
+        },
+        "southwest": {
+          "lat": 11.96494777010728,
+          "lng": 8.53909077010728
+        }
+      },
+      "formatted_address": "XG8R+J73, Saja, Garba Street, Gyadi Gyadi, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9664686,8.5406184",
+      "google_place_id": "ChIJXZG89NSBrhERzdEACvJQCRs"
+    }
+  },
+  {
+    "id": "87176",
+    "name": "MARAYAR KUKA",
+    "registration_area_id": "4480",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/13/03/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4480",
+    "ward_name": "JODA",
+    "local_government_id": "382",
+    "local_government_name": "GABASAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0063534,
+      "longitude": 8.5037358,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00768967989272,
+          "lng": 8.505042579892722
+        },
+        "southwest": {
+          "lat": 12.00499002010728,
+          "lng": 8.502342920107278
+        }
+      },
+      "formatted_address": "2G43+GFC, City, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0063534,8.5037358",
+      "google_place_id": "ChIJxcCloI2BrhER-kewtN7Pv1E"
+    }
+  },
+  {
+    "id": "87177",
+    "name": "SANTSI,  CIKIN GARI",
+    "registration_area_id": "4480",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/13/03/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4480",
+    "ward_name": "JODA",
+    "local_government_id": "382",
+    "local_government_name": "GABASAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "87178",
+    "name": "SANTSI GANDE",
+    "registration_area_id": "4480",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/13/03/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4480",
+    "ward_name": "JODA",
+    "local_government_id": "382",
+    "local_government_name": "GABASAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9900543,
+      "longitude": 8.5455948,
+      "viewport": {
+        "northeast": {
+          "lat": 11.99137317989272,
+          "lng": 8.54695052989272
+        },
+        "southwest": {
+          "lat": 11.98867352010728,
+          "lng": 8.544250870107277
+        }
+      },
+      "formatted_address": "XGRW+26H, jigawa gabasawa, 702102, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9900543,8.5455948",
+      "google_place_id": "ChIJ-3DleMSBrhERo5FJRMonBxI"
+    }
+  },
+  {
+    "id": "87179",
+    "name": "TUMBAU JODA",
+    "registration_area_id": "4480",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "19/13/03/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4480",
+    "ward_name": "JODA",
+    "local_government_id": "382",
+    "local_government_name": "GABASAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9986064,
+      "longitude": 8.874187,
+      "viewport": {
+        "northeast": {
+          "lat": 12.006591,
+          "lng": 8.8816021
+        },
+        "southwest": {
+          "lat": 11.997146,
+          "lng": 8.8663241
+        }
+      },
+      "formatted_address": "702102, Joda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9986064,8.874187",
+      "google_place_id": "ChIJ2a9t2ZihrhERFluISRIeh7k"
+    }
+  },
+  {
+    "id": "87180",
+    "name": "YANGIZO",
+    "registration_area_id": "4480",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "19/13/03/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4480",
+    "ward_name": "JODA",
+    "local_government_id": "382",
+    "local_government_name": "GABASAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9986064,
+      "longitude": 8.874187,
+      "viewport": {
+        "northeast": {
+          "lat": 12.006591,
+          "lng": 8.8816021
+        },
+        "southwest": {
+          "lat": 11.997146,
+          "lng": 8.8663241
+        }
+      },
+      "formatted_address": "702102, Joda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9986064,8.874187",
+      "google_place_id": "ChIJ2a9t2ZihrhERFluISRIeh7k"
+    }
+  },
+  {
+    "id": "87181",
+    "name": "YANGWAN,  CIKIN GARI",
+    "registration_area_id": "4480",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "19/13/03/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4480",
+    "ward_name": "JODA",
+    "local_government_id": "382",
+    "local_government_name": "GABASAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9664686,
+      "longitude": 8.5406184,
+      "viewport": {
+        "northeast": {
+          "lat": 11.96764742989272,
+          "lng": 8.541790429892723
+        },
+        "southwest": {
+          "lat": 11.96494777010728,
+          "lng": 8.53909077010728
+        }
+      },
+      "formatted_address": "XG8R+J73, Saja, Garba Street, Gyadi Gyadi, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9664686,8.5406184",
+      "google_place_id": "ChIJXZG89NSBrhERzdEACvJQCRs"
+    }
+  },
+  {
+    "id": "87182",
+    "name": "WASARDE,  CIKIN GARI",
+    "registration_area_id": "4480",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "19/13/03/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4480",
+    "ward_name": "JODA",
+    "local_government_id": "382",
+    "local_government_name": "GABASAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.1721899,
+      "longitude": 8.9019961,
+      "viewport": {
+        "northeast": {
+          "lat": 12.17352662989272,
+          "lng": 8.903353929892722
+        },
+        "southwest": {
+          "lat": 12.17082697010728,
+          "lng": 8.900654270107278
+        }
+      },
+      "formatted_address": "5WC2+VQH, GUMEL ROAD, beside OLD BUS STOP, opposite TOWN ENTERING, 702102, Gabasawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1721899,8.9019961",
+      "google_place_id": "ChIJE4AbEu-9rhERN75UFFfTMNA"
+    }
+  },
+  {
+    "id": "87183",
+    "name": "WASARDE,  LUNKUI",
+    "registration_area_id": "4480",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "19/13/03/014",
+    "remark": "EXISTING PU",
+    "ward_id": "4480",
+    "ward_name": "JODA",
+    "local_government_id": "382",
+    "local_government_name": "GABASAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.1721899,
+      "longitude": 8.9019961,
+      "viewport": {
+        "northeast": {
+          "lat": 12.17352662989272,
+          "lng": 8.903353929892722
+        },
+        "southwest": {
+          "lat": 12.17082697010728,
+          "lng": 8.900654270107278
+        }
+      },
+      "formatted_address": "5WC2+VQH, GUMEL ROAD, beside OLD BUS STOP, opposite TOWN ENTERING, 702102, Gabasawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1721899,8.9019961",
+      "google_place_id": "ChIJE4AbEu-9rhERN75UFFfTMNA"
+    }
+  },
+  {
+    "id": "87184",
+    "name": "JODA CIKIN GARI II",
+    "registration_area_id": "4480",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "19/13/03/015",
+    "remark": "NEW PU",
+    "ward_id": "4480",
+    "ward_name": "JODA",
+    "local_government_id": "382",
+    "local_government_name": "GABASAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9664686,
+      "longitude": 8.5406184,
+      "viewport": {
+        "northeast": {
+          "lat": 11.96764742989272,
+          "lng": 8.541790429892723
+        },
+        "southwest": {
+          "lat": 11.96494777010728,
+          "lng": 8.53909077010728
+        }
+      },
+      "formatted_address": "XG8R+J73, Saja, Garba Street, Gyadi Gyadi, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9664686,8.5406184",
+      "google_place_id": "ChIJXZG89NSBrhERzdEACvJQCRs"
+    }
+  }
+]

@@ -1,0 +1,319 @@
+[
+  {
+    "id": "49214",
+    "name": "IDOA-IDOA PRIMARY SCHOOL",
+    "registration_area_id": "2659",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "12/06/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2659",
+    "ward_name": "EGORO/IDOA/UKHUN",
+    "local_government_id": "230",
+    "local_government_name": "ESAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": null
+  },
+  {
+    "id": "49215",
+    "name": "UKHUN - UKHUN PRIMARY SCHOOL",
+    "registration_area_id": "2659",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "12/06/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2659",
+    "ward_name": "EGORO/IDOA/UKHUN",
+    "local_government_id": "230",
+    "local_government_name": "ESAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.805295,
+      "longitude": 6.1760665,
+      "viewport": {
+        "northeast": {
+          "lat": 6.806550129892722,
+          "lng": 6.177565279892722
+        },
+        "southwest": {
+          "lat": 6.803850470107278,
+          "lng": 6.174865620107278
+        }
+      },
+      "formatted_address": "Ukhun Primary School, 310103, Ukhun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.805295,6.1760665",
+      "google_place_id": "ChIJicu1mDeRRhARX8lDvgbaFr4"
+    }
+  },
+  {
+    "id": "49216",
+    "name": "UKHUN - FARM SETTLEMENT",
+    "registration_area_id": "2659",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "12/06/03/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2659",
+    "ward_name": "EGORO/IDOA/UKHUN",
+    "local_government_id": "230",
+    "local_government_name": "ESAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": null
+  },
+  {
+    "id": "49217",
+    "name": "EGORO- EGORO NAOKA PRIMARY SCHOOL I",
+    "registration_area_id": "2659",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "12/06/03/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2659",
+    "ward_name": "EGORO/IDOA/UKHUN",
+    "local_government_id": "230",
+    "local_government_name": "ESAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.7858401,
+      "longitude": 6.120892599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.8417438,
+          "lng": 6.250657800000001
+        },
+        "southwest": {
+          "lat": 6.595249399999999,
+          "lng": 6.0510873
+        }
+      },
+      "formatted_address": "Egoro/Idoa/Ukhun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7858401,6.120892599999999",
+      "google_place_id": "ChIJ_cTMpf2VRhARcNVnV_7nGa4"
+    }
+  },
+  {
+    "id": "49218",
+    "name": "EGORO - EGORO NAOKA PRIMARY SCHOOL II",
+    "registration_area_id": "2659",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "12/06/03/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2659",
+    "ward_name": "EGORO/IDOA/UKHUN",
+    "local_government_id": "230",
+    "local_government_name": "ESAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.7858401,
+      "longitude": 6.120892599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.8417438,
+          "lng": 6.250657800000001
+        },
+        "southwest": {
+          "lat": 6.595249399999999,
+          "lng": 6.0510873
+        }
+      },
+      "formatted_address": "Egoro/Idoa/Ukhun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7858401,6.120892599999999",
+      "google_place_id": "ChIJ_cTMpf2VRhARcNVnV_7nGa4"
+    }
+  },
+  {
+    "id": "49219",
+    "name": "EGORO -EGUARE PRIMARY SCHOOL I",
+    "registration_area_id": "2659",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "12/06/03/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2659",
+    "ward_name": "EGORO/IDOA/UKHUN",
+    "local_government_id": "230",
+    "local_government_name": "ESAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": null
+  },
+  {
+    "id": "49220",
+    "name": "EGORO - AMEDE PRIMARY SCHOOL II",
+    "registration_area_id": "2659",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "12/06/03/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2659",
+    "ward_name": "EGORO/IDOA/UKHUN",
+    "local_government_id": "230",
+    "local_government_name": "ESAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.7549525,
+      "longitude": 6.0521968,
+      "viewport": {
+        "northeast": {
+          "lat": 6.756307279892723,
+          "lng": 6.053510879892722
+        },
+        "southwest": {
+          "lat": 6.753607620107278,
+          "lng": 6.050811220107279
+        }
+      },
+      "formatted_address": "Uhum Idumu, Iruekpen Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7549525,6.0521968",
+      "google_place_id": "ChIJXeBmmZnrRhARDIbPd2vZaHM"
+    }
+  },
+  {
+    "id": "49221",
+    "name": "EGORO - IKHIDUE HALL",
+    "registration_area_id": "2659",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "12/06/03/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2659",
+    "ward_name": "EGORO/IDOA/UKHUN",
+    "local_government_id": "230",
+    "local_government_name": "ESAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": null
+  },
+  {
+    "id": "49222",
+    "name": "EGORO - ORE EDE-OLE",
+    "registration_area_id": "2659",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "12/06/03/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2659",
+    "ward_name": "EGORO/IDOA/UKHUN",
+    "local_government_id": "230",
+    "local_government_name": "ESAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": null
+  },
+  {
+    "id": "49223",
+    "name": "OPEN SPACE -ATOUGUA QUARTERS BY TRANSFORMER, IDOA",
+    "registration_area_id": "2659",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "12/06/03/010",
+    "remark": "NEW PU",
+    "ward_id": "2659",
+    "ward_name": "EGORO/IDOA/UKHUN",
+    "local_government_id": "230",
+    "local_government_name": "ESAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.411003099999999,
+      "longitude": 5.680389799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.412424179892722,
+          "lng": 5.681858329892721
+        },
+        "southwest": {
+          "lat": 6.409724520107278,
+          "lng": 5.679158670107277
+        }
+      },
+      "formatted_address": "Iwogban-Omoregie-Ute Road, 301112, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.411003099999999,5.680389799999999",
+      "google_place_id": "ChIJj-VG5wUrRxAR6ek1faGsWXE"
+    }
+  },
+  {
+    "id": "49224",
+    "name": "OPEN SPACE OFIEL QUARTERS, IDOA",
+    "registration_area_id": "2659",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "12/06/03/011",
+    "remark": "NEW PU",
+    "ward_id": "2659",
+    "ward_name": "EGORO/IDOA/UKHUN",
+    "local_government_id": "230",
+    "local_government_name": "ESAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": null
+  },
+  {
+    "id": "49225",
+    "name": "OGBETA TOWN HALL, OGBETA QUARTERS.UKHUN",
+    "registration_area_id": "2659",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "12/06/03/012",
+    "remark": "NEW PU",
+    "ward_id": "2659",
+    "ward_name": "EGORO/IDOA/UKHUN",
+    "local_government_id": "230",
+    "local_government_name": "ESAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.8128503,
+      "longitude": 6.221048199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.814203579892721,
+          "lng": 6.222388379892721
+        },
+        "southwest": {
+          "lat": 6.811503920107278,
+          "lng": 6.219688720107277
+        }
+      },
+      "formatted_address": "R67C+4CV, 310103, Idoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8128503,6.221048199999999",
+      "google_place_id": "ChIJ5YxpnQKbRhARLKuoUvAShcE"
+    }
+  },
+  {
+    "id": "49226",
+    "name": "EGORO-AMEDE PRY SCH LL",
+    "registration_area_id": "2659",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "12/06/03/013",
+    "remark": "NEW PU",
+    "ward_id": "2659",
+    "ward_name": "EGORO/IDOA/UKHUN",
+    "local_government_id": "230",
+    "local_government_name": "ESAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": null
+  }
+]

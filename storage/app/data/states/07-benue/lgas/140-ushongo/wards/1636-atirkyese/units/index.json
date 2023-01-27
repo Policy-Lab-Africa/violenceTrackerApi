@@ -1,0 +1,663 @@
+[
+  {
+    "id": "30425",
+    "name": "LGEA SCHOOL GE-MBAYEM",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "07/22/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.956801199999999,
+      "longitude": 9.2593718,
+      "viewport": {
+        "northeast": {
+          "lat": 6.958321579892721,
+          "lng": 9.260106299999999
+        },
+        "southwest": {
+          "lat": 6.955621920107277,
+          "lng": 9.2571683
+        }
+      },
+      "formatted_address": "X745+PPH, 982104, Manor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.956801199999999,9.2593718",
+      "google_place_id": "ChIJkaNIBt9-WRAR2_hXCfjQJBw"
+    }
+  },
+  {
+    "id": "30426",
+    "name": "GSS ALU",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "07/22/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.956801199999999,
+      "longitude": 9.2593718,
+      "viewport": {
+        "northeast": {
+          "lat": 6.958321579892721,
+          "lng": 9.260106299999999
+        },
+        "southwest": {
+          "lat": 6.955621920107277,
+          "lng": 9.2571683
+        }
+      },
+      "formatted_address": "X745+PPH, 982104, Manor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.956801199999999,9.2593718",
+      "google_place_id": "ChIJkaNIBt9-WRAR2_hXCfjQJBw"
+    }
+  },
+  {
+    "id": "30427",
+    "name": "LGEA SCHOOL, KWAGHBULA",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "07/22/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.956801199999999,
+      "longitude": 9.2593718,
+      "viewport": {
+        "northeast": {
+          "lat": 6.958321579892721,
+          "lng": 9.260106299999999
+        },
+        "southwest": {
+          "lat": 6.955621920107277,
+          "lng": 9.2571683
+        }
+      },
+      "formatted_address": "X745+PPH, 982104, Manor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.956801199999999,9.2593718",
+      "google_place_id": "ChIJkaNIBt9-WRAR2_hXCfjQJBw"
+    }
+  },
+  {
+    "id": "30428",
+    "name": "LGEA SCHOOL, BOOR I",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "07/22/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.956801199999999,
+      "longitude": 9.2593718,
+      "viewport": {
+        "northeast": {
+          "lat": 6.958321579892721,
+          "lng": 9.260106299999999
+        },
+        "southwest": {
+          "lat": 6.955621920107277,
+          "lng": 9.2571683
+        }
+      },
+      "formatted_address": "X745+PPH, 982104, Manor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.956801199999999,9.2593718",
+      "google_place_id": "ChIJkaNIBt9-WRAR2_hXCfjQJBw"
+    }
+  },
+  {
+    "id": "30429",
+    "name": "AKOKO AMINDE VILLAGE SQUARE",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "07/22/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "30430",
+    "name": "NKST SCHOOL, TYAM",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "07/22/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.056672100000001,
+      "longitude": 9.0914556,
+      "viewport": {
+        "northeast": {
+          "lat": 7.057978479892722,
+          "lng": 9.092764279892721
+        },
+        "southwest": {
+          "lat": 7.055278820107278,
+          "lng": 9.090064620107277
+        }
+      },
+      "formatted_address": "334R+MH8, 981117, Lessel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.056672100000001,9.0914556",
+      "google_place_id": "ChIJSakCv3osWhARqnG7h-W8oJI"
+    }
+  },
+  {
+    "id": "30431",
+    "name": "RCM. SCHOOL, NGAVAN",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "07/22/01/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.1119965,
+      "longitude": 9.0649331,
+      "viewport": {
+        "northeast": {
+          "lat": 7.113354079892721,
+          "lng": 9.066427829892723
+        },
+        "southwest": {
+          "lat": 7.110654420107277,
+          "lng": 9.063728170107279
+        }
+      },
+      "formatted_address": "6FVF4367+QXX Atirkyese Atirkyese, Lessel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1119965,9.0649331",
+      "google_place_id": "ChIJXy3if0IvWhARAwPlQCr7Q9U"
+    }
+  },
+  {
+    "id": "30432",
+    "name": "ADIKPO MARKET SQUARE",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "07/22/01/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.887796,
+      "longitude": 9.2314492,
+      "viewport": {
+        "northeast": {
+          "lat": 6.889132729892722,
+          "lng": 9.232796129892725
+        },
+        "southwest": {
+          "lat": 6.886433070107278,
+          "lng": 9.23009647010728
+        }
+      },
+      "formatted_address": "V6QJ+4H8, Mbaagwa Atyirkyese, 982104, Adikpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.887796,9.2314492",
+      "google_place_id": "ChIJGQZQ7lt9WRARoX3UKQHMn-A"
+    }
+  },
+  {
+    "id": "30433",
+    "name": "LGEA SCHOOL AHOOL",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "07/22/01/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.795696,
+      "longitude": 9.058444999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.797045879892723,
+          "lng": 9.059794779892721
+        },
+        "southwest": {
+          "lat": 6.794346220107279,
+          "lng": 9.057095120107277
+        }
+      },
+      "formatted_address": "Q3W5+79G, 982106, Vande Ikya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.795696,9.058444999999999",
+      "google_place_id": "ChIJjWnln1XaWxAREWYrVb_Wf0M"
+    }
+  },
+  {
+    "id": "30434",
+    "name": "AHURA AGBOOKO VILLAGE SQUARE",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "07/22/01/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "30435",
+    "name": "UGOHO MARKET SQUARE",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "07/22/01/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.887796,
+      "longitude": 9.2314492,
+      "viewport": {
+        "northeast": {
+          "lat": 6.889132729892722,
+          "lng": 9.232796129892725
+        },
+        "southwest": {
+          "lat": 6.886433070107278,
+          "lng": 9.23009647010728
+        }
+      },
+      "formatted_address": "V6QJ+4H8, Mbaagwa Atyirkyese, 982104, Adikpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.887796,9.2314492",
+      "google_place_id": "ChIJGQZQ7lt9WRARoX3UKQHMn-A"
+    }
+  },
+  {
+    "id": "30436",
+    "name": "ORTESE UGEE MARKET SQUARE",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "07/22/01/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.1314096,
+      "longitude": 9.024492799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.132751029892723,
+          "lng": 9.02572457989272
+        },
+        "southwest": {
+          "lat": 7.130051370107279,
+          "lng": 9.023024920107277
+        }
+      },
+      "formatted_address": "42JF+HQ9, 981116, Lessel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1314096,9.024492799999999",
+      "google_place_id": "ChIJYynBhTIuWhARHv_z9iNVSSw"
+    }
+  },
+  {
+    "id": "30437",
+    "name": "RCM SCH. AYEV ATOZA 1",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "07/22/01/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.776839,
+      "longitude": 9.2884262,
+      "viewport": {
+        "northeast": {
+          "lat": 6.778559629892722,
+          "lng": 9.28997452989272
+        },
+        "southwest": {
+          "lat": 6.775859970107279,
+          "lng": 9.287274870107277
+        }
+      },
+      "formatted_address": "6FRFQ7GQ+P97, MBAHURA, 982104, Adikpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.776839,9.2884262",
+      "google_place_id": "ChIJhWPrdTdlWRAR7bs8N5PgMYU"
+    }
+  },
+  {
+    "id": "30438",
+    "name": "RCM. SCHOOL HINDAN",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "07/22/01/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.1119965,
+      "longitude": 9.0649331,
+      "viewport": {
+        "northeast": {
+          "lat": 7.113354079892721,
+          "lng": 9.066427829892723
+        },
+        "southwest": {
+          "lat": 7.110654420107277,
+          "lng": 9.063728170107279
+        }
+      },
+      "formatted_address": "6FVF4367+QXX Atirkyese Atirkyese, Lessel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1119965,9.0649331",
+      "google_place_id": "ChIJXy3if0IvWhARAwPlQCr7Q9U"
+    }
+  },
+  {
+    "id": "30439",
+    "name": "RCM SCHOOL AYEV ATOZA II",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "07/22/01/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.776839,
+      "longitude": 9.2884262,
+      "viewport": {
+        "northeast": {
+          "lat": 6.778559629892722,
+          "lng": 9.28997452989272
+        },
+        "southwest": {
+          "lat": 6.775859970107279,
+          "lng": 9.287274870107277
+        }
+      },
+      "formatted_address": "6FRFQ7GQ+P97, MBAHURA, 982104, Adikpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.776839,9.2884262",
+      "google_place_id": "ChIJhWPrdTdlWRAR7bs8N5PgMYU"
+    }
+  },
+  {
+    "id": "30440",
+    "name": "L.G.E.A. SCHOOL, BOOR II",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "07/22/01/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.956801199999999,
+      "longitude": 9.2593718,
+      "viewport": {
+        "northeast": {
+          "lat": 6.958321579892721,
+          "lng": 9.260106299999999
+        },
+        "southwest": {
+          "lat": 6.955621920107277,
+          "lng": 9.2571683
+        }
+      },
+      "formatted_address": "X745+PPH, 982104, Manor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.956801199999999,9.2593718",
+      "google_place_id": "ChIJkaNIBt9-WRAR2_hXCfjQJBw"
+    }
+  },
+  {
+    "id": "30441",
+    "name": "AJAVER MARKET SQUARE",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "07/22/01/017",
+    "remark": "NEW PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.887796,
+      "longitude": 9.2314492,
+      "viewport": {
+        "northeast": {
+          "lat": 6.889132729892722,
+          "lng": 9.232796129892725
+        },
+        "southwest": {
+          "lat": 6.886433070107278,
+          "lng": 9.23009647010728
+        }
+      },
+      "formatted_address": "V6QJ+4H8, Mbaagwa Atyirkyese, 982104, Adikpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.887796,9.2314492",
+      "google_place_id": "ChIJGQZQ7lt9WRARoX3UKQHMn-A"
+    }
+  },
+  {
+    "id": "30442",
+    "name": "JOO-GBENDA MARKET SQUARE",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "07/22/01/018",
+    "remark": "NEW PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.5932808,
+      "longitude": 8.6347507,
+      "viewport": {
+        "northeast": {
+          "lat": 7.594624329892722,
+          "lng": 8.636111279892722
+        },
+        "southwest": {
+          "lat": 7.591924670107278,
+          "lng": 8.633411620107278
+        }
+      },
+      "formatted_address": "Makurdi, Old Otukpo Road, Ikpayongo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5932808,8.6347507",
+      "google_place_id": "ChIJJ5AdDhB7WhARZN9U7lPvHQw"
+    }
+  },
+  {
+    "id": "30443",
+    "name": "TSE BUA FRUITS MARKETS SQUARE",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "07/22/01/019",
+    "remark": "NEW PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.1264901,
+      "longitude": 9.0190095,
+      "viewport": {
+        "northeast": {
+          "lat": 7.127844579892723,
+          "lng": 9.020472129892722
+        },
+        "southwest": {
+          "lat": 7.125144920107279,
+          "lng": 9.017772470107278
+        }
+      },
+      "formatted_address": "981116, Lessel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1264901,9.0190095",
+      "google_place_id": "ChIJ1bIPwC4uWhARMcackoFfmbo"
+    }
+  },
+  {
+    "id": "30444",
+    "name": "LGEA PRIMARY SCHOOL  ANGWE",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "07/22/01/020",
+    "remark": "NEW PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.140847,
+      "longitude": 9.07871,
+      "viewport": {
+        "northeast": {
+          "lat": 7.142093329892722,
+          "lng": 9.07984682989272
+        },
+        "southwest": {
+          "lat": 7.139393670107278,
+          "lng": 9.077147170107276
+        }
+      },
+      "formatted_address": "6FVF43RH+8FP Atirkyese Atirkyese, Lessel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.140847,9.07871",
+      "google_place_id": "ChIJJYJ6kAwvWhARsm-xN6XI9N8"
+    }
+  },
+  {
+    "id": "30445",
+    "name": "LGEA PRIMARY SCHOOL UGEE",
+    "registration_area_id": "1636",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "07/22/01/021",
+    "remark": "NEW PU",
+    "ward_id": "1636",
+    "ward_name": "ATIRKYESE",
+    "local_government_id": "140",
+    "local_government_name": "USHONGO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.341433999999999,
+      "longitude": 8.990352,
+      "viewport": {
+        "northeast": {
+          "lat": 7.342880879892721,
+          "lng": 8.99182217989272
+        },
+        "southwest": {
+          "lat": 7.340181220107276,
+          "lng": 8.989122520107276
+        }
+      },
+      "formatted_address": "6FVC8XRR+H4H GBUUSHI, TOWNSHIP, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.341433999999999,8.990352",
+      "google_place_id": "ChIJvZ0yxSY9WhARTJj1am7Nf98"
+    }
+  }
+]

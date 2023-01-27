@@ -1,0 +1,484 @@
+[
+  {
+    "id": "21316",
+    "name": "BUSKURI  PRIMARY SCHOOL,    PRIMARY SCHOOL",
+    "registration_area_id": "1186",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "05/12/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1186",
+    "ward_name": "BUSKURI",
+    "local_government_id": "102",
+    "local_government_name": "KATAGUM",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6502121,
+      "longitude": 10.3203215,
+      "viewport": {
+        "northeast": {
+          "lat": 11.653688,
+          "lng": 10.324658
+        },
+        "southwest": {
+          "lat": 11.646591,
+          "lng": 10.3185831
+        }
+      },
+      "formatted_address": "751102, Buskuri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6502121,10.3203215",
+      "google_place_id": "ChIJHYhCbeQWqhERFW5lhgRx4YI"
+    }
+  },
+  {
+    "id": "21317",
+    "name": "BUSKURI  FADA,    KOFAR FADA",
+    "registration_area_id": "1186",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "05/12/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1186",
+    "ward_name": "BUSKURI",
+    "local_government_id": "102",
+    "local_government_name": "KATAGUM",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3096986,
+      "longitude": 9.854311,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31108947989272,
+          "lng": 9.85565812989272
+        },
+        "southwest": {
+          "lat": 10.30838982010728,
+          "lng": 9.852958470107277
+        }
+      },
+      "formatted_address": "8V53+VPF, Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3096986,9.854311",
+      "google_place_id": "ChIJn1cnUn7XVBARzZSQiuX5vKg"
+    }
+  },
+  {
+    "id": "21318",
+    "name": "GADAWA,    KOFAR JAURO",
+    "registration_area_id": "1186",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "05/12/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1186",
+    "ward_name": "BUSKURI",
+    "local_government_id": "102",
+    "local_government_name": "KATAGUM",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21319",
+    "name": "ADABASHA,    KOFAR JAURO",
+    "registration_area_id": "1186",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "05/12/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1186",
+    "ward_name": "BUSKURI",
+    "local_government_id": "102",
+    "local_government_name": "KATAGUM",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21320",
+    "name": "WALOWA,    KOFAR JAURO",
+    "registration_area_id": "1186",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "05/12/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1186",
+    "ward_name": "BUSKURI",
+    "local_government_id": "102",
+    "local_government_name": "KATAGUM",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21321",
+    "name": "JUGGA,    KOFAR JAURO",
+    "registration_area_id": "1186",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "05/12/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1186",
+    "ward_name": "BUSKURI",
+    "local_government_id": "102",
+    "local_government_name": "KATAGUM",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21322",
+    "name": "BIMADIYEL,    KOFAR JAURO",
+    "registration_area_id": "1186",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "05/12/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1186",
+    "ward_name": "BUSKURI",
+    "local_government_id": "102",
+    "local_government_name": "KATAGUM",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
+  },
+  {
+    "id": "21323",
+    "name": "DARGAZU,    KOFAR JAURO",
+    "registration_area_id": "1186",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "05/12/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1186",
+    "ward_name": "BUSKURI",
+    "local_government_id": "102",
+    "local_government_name": "KATAGUM",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
+  },
+  {
+    "id": "21324",
+    "name": "MAUDI,    KOFAR JAURO",
+    "registration_area_id": "1186",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "05/12/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1186",
+    "ward_name": "BUSKURI",
+    "local_government_id": "102",
+    "local_government_name": "KATAGUM",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
+  },
+  {
+    "id": "21325",
+    "name": "MALURI,    KOFAR JAURO",
+    "registration_area_id": "1186",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "05/12/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1186",
+    "ward_name": "BUSKURI",
+    "local_government_id": "102",
+    "local_government_name": "KATAGUM",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21326",
+    "name": "JATAM,    KOFAR JAURO",
+    "registration_area_id": "1186",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "05/12/05/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1186",
+    "ward_name": "BUSKURI",
+    "local_government_id": "102",
+    "local_government_name": "KATAGUM",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21327",
+    "name": "GURWARI,    KOFAR JAURO",
+    "registration_area_id": "1186",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "05/12/05/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1186",
+    "ward_name": "BUSKURI",
+    "local_government_id": "102",
+    "local_government_name": "KATAGUM",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "21328",
+    "name": "SALERI,    KOFAR JAURO",
+    "registration_area_id": "1186",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "05/12/05/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1186",
+    "ward_name": "BUSKURI",
+    "local_government_id": "102",
+    "local_government_name": "KATAGUM",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6917408,
+      "longitude": 10.1825893,
+      "viewport": {
+        "northeast": {
+          "lat": 11.69311672989272,
+          "lng": 10.18393777989272
+        },
+        "southwest": {
+          "lat": 11.69041707010728,
+          "lng": 10.18123812010728
+        }
+      },
+      "formatted_address": "Yana-Azare Rd, 751101, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6917408,10.1825893",
+      "google_place_id": "ChIJb0YqObs8qhER7jz89kR0ET4"
+    }
+  },
+  {
+    "id": "21329",
+    "name": "BARKEJI,    KOFAR JAURO",
+    "registration_area_id": "1186",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "05/12/05/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1186",
+    "ward_name": "BUSKURI",
+    "local_government_id": "102",
+    "local_government_name": "KATAGUM",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
+  },
+  {
+    "id": "21330",
+    "name": "GABA'I,    KOFAR JAURO",
+    "registration_area_id": "1186",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "05/12/05/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1186",
+    "ward_name": "BUSKURI",
+    "local_government_id": "102",
+    "local_government_name": "KATAGUM",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6917408,
+      "longitude": 10.1825893,
+      "viewport": {
+        "northeast": {
+          "lat": 11.69311672989272,
+          "lng": 10.18393777989272
+        },
+        "southwest": {
+          "lat": 11.69041707010728,
+          "lng": 10.18123812010728
+        }
+      },
+      "formatted_address": "Yana-Azare Rd, 751101, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6917408,10.1825893",
+      "google_place_id": "ChIJb0YqObs8qhER7jz89kR0ET4"
+    }
+  },
+  {
+    "id": "21331",
+    "name": "JAJIBALI,    KOFAR JAURO",
+    "registration_area_id": "1186",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "05/12/05/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1186",
+    "ward_name": "BUSKURI",
+    "local_government_id": "102",
+    "local_government_name": "KATAGUM",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
+  },
+  {
+    "id": "21332",
+    "name": "BUSKURI DISPENSARY",
+    "registration_area_id": "1186",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "05/12/05/017",
+    "remark": "NEW PU",
+    "ward_id": "1186",
+    "ward_name": "BUSKURI",
+    "local_government_id": "102",
+    "local_government_name": "KATAGUM",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6485257,
+      "longitude": 10.322242,
+      "viewport": {
+        "northeast": {
+          "lat": 11.64997597989272,
+          "lng": 10.32366077989272
+        },
+        "southwest": {
+          "lat": 11.64727632010728,
+          "lng": 10.32096112010728
+        }
+      },
+      "formatted_address": "J8XC+9W6, 751102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6485257,10.322242",
+      "google_place_id": "ChIJH-icfOYWqhERmjLLbjkLjIM"
+    }
+  },
+  {
+    "id": "21333",
+    "name": "BUSKURI JUNIOR SEC. SCH",
+    "registration_area_id": "1186",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "05/12/05/018",
+    "remark": "NEW PU",
+    "ward_id": "1186",
+    "ward_name": "BUSKURI",
+    "local_government_id": "102",
+    "local_government_name": "KATAGUM",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6857225,
+      "longitude": 10.2146104,
+      "viewport": {
+        "northeast": {
+          "lat": 11.68705932989272,
+          "lng": 10.21593322989272
+        },
+        "southwest": {
+          "lat": 11.68435967010728,
+          "lng": 10.21323357010728
+        }
+      },
+      "formatted_address": "M6P7+7QP, Giade Road, 751101, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6857225,10.2146104",
+      "google_place_id": "ChIJVV3De389qhEROW_MeTVl_Vs"
+    }
+  }
+]

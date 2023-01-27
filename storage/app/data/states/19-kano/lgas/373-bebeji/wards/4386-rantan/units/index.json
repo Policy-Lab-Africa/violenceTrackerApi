@@ -1,0 +1,119 @@
+[
+  {
+    "id": "84551",
+    "name": "AGALAWA",
+    "registration_area_id": "4386",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/04/12/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4386",
+    "ward_name": "RANTAN",
+    "local_government_id": "373",
+    "local_government_name": "BEBEJI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "84552",
+    "name": "RANTAN CIKIN GARI",
+    "registration_area_id": "4386",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/04/12/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4386",
+    "ward_name": "RANTAN",
+    "local_government_id": "373",
+    "local_government_name": "BEBEJI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5189396,
+      "longitude": 8.3764446,
+      "viewport": {
+        "northeast": {
+          "lat": 11.52023597989272,
+          "lng": 8.37783882989272
+        },
+        "southwest": {
+          "lat": 11.51753632010728,
+          "lng": 8.375139170107277
+        }
+      },
+      "formatted_address": "7F3CG99G+JH7 Rantan cikin gari Rantan Kano Ranian, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5189396,8.3764446",
+      "google_place_id": "ChIJl3ANX9q3rRERzwdqBqcknPc"
+    }
+  },
+  {
+    "id": "84553",
+    "name": "SINDIJE",
+    "registration_area_id": "4386",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/04/12/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4386",
+    "ward_name": "RANTAN",
+    "local_government_id": "373",
+    "local_government_name": "BEBEJI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "84554",
+    "name": "UNGUWAR ALHAJI",
+    "registration_area_id": "4386",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/04/12/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4386",
+    "ward_name": "RANTAN",
+    "local_government_id": "373",
+    "local_government_name": "BEBEJI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "84555",
+    "name": "ZANGERE",
+    "registration_area_id": "4386",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/04/12/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4386",
+    "ward_name": "RANTAN",
+    "local_government_id": "373",
+    "local_government_name": "BEBEJI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4917456,
+      "longitude": 8.416195,
+      "viewport": {
+        "northeast": {
+          "lat": 11.49294082989272,
+          "lng": 8.417674329892723
+        },
+        "southwest": {
+          "lat": 11.49024117010728,
+          "lng": 8.414974670107279
+        }
+      },
+      "formatted_address": "710101, Zangere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4917456,8.416195",
+      "google_place_id": "ChIJlVmvBPWzrRERgw0YoW9_P10"
+    }
+  }
+]

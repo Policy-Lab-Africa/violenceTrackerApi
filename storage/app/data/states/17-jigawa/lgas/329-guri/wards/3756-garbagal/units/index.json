@@ -1,0 +1,185 @@
+[
+  {
+    "id": "68518",
+    "name": "GARBAGAL PRI. SCH. GARBAGAL  I",
+    "registration_area_id": "3756",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "17/10/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3756",
+    "ward_name": "GARBAGAL",
+    "local_government_id": "329",
+    "local_government_name": "GURI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7388486,
+      "longitude": 10.7966423,
+      "viewport": {
+        "northeast": {
+          "lat": 11.74015152989272,
+          "lng": 10.8008417
+        },
+        "southwest": {
+          "lat": 11.73745187010728,
+          "lng": 10.7952425
+        }
+      },
+      "formatted_address": "PQQW+GMJ, 752102, Dagauda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7388486,10.7966423",
+      "google_place_id": "ChIJ2zo88iiuABERBPSnTj4t0F4"
+    }
+  },
+  {
+    "id": "68519",
+    "name": "GARBAGAL PRI. SCH. GARBAGAL  II",
+    "registration_area_id": "3756",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "17/10/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3756",
+    "ward_name": "GARBAGAL",
+    "local_government_id": "329",
+    "local_government_name": "GURI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7388486,
+      "longitude": 10.7966423,
+      "viewport": {
+        "northeast": {
+          "lat": 11.74015152989272,
+          "lng": 10.8008417
+        },
+        "southwest": {
+          "lat": 11.73745187010728,
+          "lng": 10.7952425
+        }
+      },
+      "formatted_address": "PQQW+GMJ, 752102, Dagauda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7388486,10.7966423",
+      "google_place_id": "ChIJ2zo88iiuABERBPSnTj4t0F4"
+    }
+  },
+  {
+    "id": "68520",
+    "name": "GARMAKUWAN YAMMA  GARMAKUWAN",
+    "registration_area_id": "3756",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "17/10/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3756",
+    "ward_name": "GARBAGAL",
+    "local_government_id": "329",
+    "local_government_name": "GURI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68521",
+    "name": "GARMAKUWAN GABAS GARMAKUWAN GABAS",
+    "registration_area_id": "3756",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "17/10/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3756",
+    "ward_name": "GARBAGAL",
+    "local_government_id": "329",
+    "local_government_name": "GURI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68522",
+    "name": "KUBULU/KUBULU",
+    "registration_area_id": "3756",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "17/10/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3756",
+    "ward_name": "GARBAGAL",
+    "local_government_id": "329",
+    "local_government_name": "GURI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68523",
+    "name": "GARMAGUWAN YAMMA PRI. HEALTH CARE",
+    "registration_area_id": "3756",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "17/10/04/006",
+    "remark": "NEW PU",
+    "ward_id": "3756",
+    "ward_name": "GARBAGAL",
+    "local_government_id": "329",
+    "local_government_name": "GURI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6936654,
+      "longitude": 10.2541497,
+      "viewport": {
+        "northeast": {
+          "lat": 12.69501647989272,
+          "lng": 10.25551612989272
+        },
+        "southwest": {
+          "lat": 12.69231682010728,
+          "lng": 10.25281647010728
+        }
+      },
+      "formatted_address": "Nguru-Hadejia Rd, 731104, Kirikasama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6936654,10.2541497",
+      "google_place_id": "ChIJ3-somSNLqBER6ryhINKESC8"
+    }
+  },
+  {
+    "id": "68524",
+    "name": "GARMAGUWAN GABAS PRI. SCH.",
+    "registration_area_id": "3756",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "17/10/04/007",
+    "remark": "NEW PU",
+    "ward_id": "3756",
+    "ward_name": "GARBAGAL",
+    "local_government_id": "329",
+    "local_government_name": "GURI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7388486,
+      "longitude": 10.7966423,
+      "viewport": {
+        "northeast": {
+          "lat": 11.74015152989272,
+          "lng": 10.8008417
+        },
+        "southwest": {
+          "lat": 11.73745187010728,
+          "lng": 10.7952425
+        }
+      },
+      "formatted_address": "PQQW+GMJ, 752102, Dagauda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7388486,10.7966423",
+      "google_place_id": "ChIJ2zo88iiuABERBPSnTj4t0F4"
+    }
+  }
+]

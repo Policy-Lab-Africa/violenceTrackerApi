@@ -1,0 +1,814 @@
+[
+  {
+    "id": "353313",
+    "name": "AFIKU COMPOJND",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "30/06/02/001",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353314",
+    "name": "APOSTOLIC PRIMARY SCHOOL",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "30/06/02/002",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3611391,
+      "longitude": 3.8816416,
+      "viewport": {
+        "northeast": {
+          "lat": 7.362442829892723,
+          "lng": 3.882944329892721
+        },
+        "southwest": {
+          "lat": 7.359743170107279,
+          "lng": 3.880244670107277
+        }
+      },
+      "formatted_address": "9V6J+FM2, Lodge St, 200273, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3611391,3.8816416",
+      "google_place_id": "ChIJ_5SBA7yNORAR6vUo_ezZCrM"
+    }
+  },
+  {
+    "id": "353315",
+    "name": "AYEGUN MOSQUE",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "30/06/02/003",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3905293,
+      "longitude": 3.892945999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.39186167989272,
+          "lng": 3.894261879892722
+        },
+        "southwest": {
+          "lat": 7.389162020107277,
+          "lng": 3.891562220107278
+        }
+      },
+      "formatted_address": "9VRV+658, 200284, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3905293,3.892945999999999",
+      "google_place_id": "ChIJKTZFT26NORAR4QxVSXV-c5Y"
+    }
+  },
+  {
+    "id": "353316",
+    "name": "BOLA STREET",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "30/06/02/004",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3965189,
+      "longitude": 3.8921697,
+      "viewport": {
+        "northeast": {
+          "lat": 7.397866379892721,
+          "lng": 3.89364475
+        },
+        "southwest": {
+          "lat": 7.395166720107277,
+          "lng": 3.890474149999999
+        }
+      },
+      "formatted_address": "Bola Street, 200284, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3965189,3.8921697",
+      "google_place_id": "EiRCb2xhIFN0cmVldCwgMjAwMjg0LCBJYmFkYW4sIE5pZ2VyaWEiLiosChQKEgk9cPJzaY05EBGxNrq3jqHhJRIUChIJzWdHPm-NORARU1FwiyiNBbQ"
+    }
+  },
+  {
+    "id": "353317",
+    "name": "BOLANTA SAPATI I",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "30/06/02/005",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353318",
+    "name": "BOLANTA SAPATI II",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "30/06/02/006",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353319",
+    "name": "EBENEZER PRIMARY SCHOOL",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "30/06/02/007",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.391975899999999,
+      "longitude": 3.8875616,
+      "viewport": {
+        "northeast": {
+          "lat": 7.393325029892722,
+          "lng": 3.888949129892721
+        },
+        "southwest": {
+          "lat": 7.390625370107278,
+          "lng": 3.886249470107277
+        }
+      },
+      "formatted_address": "Ward 8 Nw5, 200284, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.391975899999999,3.8875616",
+      "google_place_id": "ChIJY2asJaONORARKDQ5KDWIMKA"
+    }
+  },
+  {
+    "id": "353320",
+    "name": "I.M.G. SCHOOL, NALENDE",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "30/06/02/008",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.391820800000001,
+      "longitude": 3.8949198,
+      "viewport": {
+        "northeast": {
+          "lat": 7.393170679892723,
+          "lng": 3.896468529892722
+        },
+        "southwest": {
+          "lat": 7.390471020107279,
+          "lng": 3.893768870107278
+        }
+      },
+      "formatted_address": "6FV59VRV+PXC 2 ONIYANRIN, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.391820800000001,3.8949198",
+      "google_place_id": "ChIJez18GSqNORARGkQO9A5yKPk"
+    }
+  },
+  {
+    "id": "353321",
+    "name": "INALENDE MARKET",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "30/06/02/009",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.392707799999999,
+      "longitude": 3.8910802,
+      "viewport": {
+        "northeast": {
+          "lat": 7.394108629892723,
+          "lng": 3.892415779892721
+        },
+        "southwest": {
+          "lat": 7.391408970107279,
+          "lng": 3.889716120107277
+        }
+      },
+      "formatted_address": "9VVR+3CG, 200284, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.392707799999999,3.8910802",
+      "google_place_id": "ChIJO_mmmG6NORAR862DB421c9I"
+    }
+  },
+  {
+    "id": "353322",
+    "name": "IRE AKARI",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "30/06/02/010",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.398913999999999,
+      "longitude": 3.8918742,
+      "viewport": {
+        "northeast": {
+          "lat": 7.400263829892722,
+          "lng": 3.893224029892723
+        },
+        "southwest": {
+          "lat": 7.397564170107279,
+          "lng": 3.890524370107279
+        }
+      },
+      "formatted_address": "Ire-Akari St, 200284, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.398913999999999,3.8918742",
+      "google_place_id": "ChIJ4ae66GmNORAREylDH2fIjGg"
+    }
+  },
+  {
+    "id": "353323",
+    "name": "JODAT",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "30/06/02/011",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353324",
+    "name": "NALENDE MOSQUE",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "30/06/02/012",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.378754900000001,
+      "longitude": 3.8909538,
+      "viewport": {
+        "northeast": {
+          "lat": 7.380119429892721,
+          "lng": 3.891727079892723
+        },
+        "southwest": {
+          "lat": 7.377419770107277,
+          "lng": 3.889027420107279
+        }
+      },
+      "formatted_address": "2 Foko St, 200284, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.378754900000001,3.8909538",
+      "google_place_id": "ChIJZwll0Y6NORARGb0DdJ-Jhh8"
+    }
+  },
+  {
+    "id": "353325",
+    "name": "NAWAR-DEEN SCHOOL",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "30/06/02/013",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.422426,
+      "longitude": 3.8802143,
+      "viewport": {
+        "northeast": {
+          "lat": 7.42374797989272,
+          "lng": 3.881599029892722
+        },
+        "southwest": {
+          "lat": 7.421048320107277,
+          "lng": 3.878899370107278
+        }
+      },
+      "formatted_address": "CVCJ+X3G, Sango Eleyele Road, 200116, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.422426,3.8802143",
+      "google_place_id": "ChIJi1Jto8zyORARX7rwYv2R0XU"
+    }
+  },
+  {
+    "id": "353326",
+    "name": "ODE OLO",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "30/06/02/014",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.397599700000001,
+      "longitude": 3.9186401,
+      "viewport": {
+        "northeast": {
+          "lat": 7.398938929892721,
+          "lng": 3.919970829892722
+        },
+        "southwest": {
+          "lat": 7.396239270107277,
+          "lng": 3.917271170107278
+        }
+      },
+      "formatted_address": "Gate, Local Government Secretariat Oyo, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.397599700000001,3.9186401",
+      "google_place_id": "ChIJafrLxOqSORARnIU4_sRBd2Y"
+    }
+  },
+  {
+    "id": "353327",
+    "name": "OJO-ONIRO COMPOUND",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "30/06/02/015",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353328",
+    "name": "OKE-OLORO",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "30/06/02/016",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.397599700000001,
+      "longitude": 3.9186401,
+      "viewport": {
+        "northeast": {
+          "lat": 7.398938929892721,
+          "lng": 3.919970829892722
+        },
+        "southwest": {
+          "lat": 7.396239270107277,
+          "lng": 3.917271170107278
+        }
+      },
+      "formatted_address": "Gate, Local Government Secretariat Oyo, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.397599700000001,3.9186401",
+      "google_place_id": "ChIJafrLxOqSORARnIU4_sRBd2Y"
+    }
+  },
+  {
+    "id": "353329",
+    "name": "OPOYEOSA/ONIYANRIN JUNCTION",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "30/06/02/017",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353330",
+    "name": "OPPOSITE NALENDE MOSQUE",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "30/06/02/018",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.384034300000001,
+      "longitude": 3.903493,
+      "viewport": {
+        "northeast": {
+          "lat": 7.385556879892722,
+          "lng": 3.904660979892721
+        },
+        "southwest": {
+          "lat": 7.382857220107278,
+          "lng": 3.901961320107278
+        }
+      },
+      "formatted_address": "9WM3+J98, Ogunmola St, 200258, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.384034300000001,3.903493",
+      "google_place_id": "ChIJQTADMnyNORARk9wLzGhJ9D4"
+    }
+  },
+  {
+    "id": "353331",
+    "name": "OPPOSITE NITEL ONIYANRIN",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "30/06/02/019",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": null
+  },
+  {
+    "id": "353332",
+    "name": "ST. JOHN PRIMARY SCHOOL",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "30/06/02/020",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.399660999999999,
+      "longitude": 3.8936579,
+      "viewport": {
+        "northeast": {
+          "lat": 7.400879929892722,
+          "lng": 3.894986979892722
+        },
+        "southwest": {
+          "lat": 7.398180270107278,
+          "lng": 3.892287320107279
+        }
+      },
+      "formatted_address": "6FV59VXV+RCQ 2 INALENDE, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.399660999999999,3.8936579",
+      "google_place_id": "ChIJcdnm5meNORAR_Za2eX4EMpI"
+    }
+  },
+  {
+    "id": "353333",
+    "name": "ST. PETER SCHOOL",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "30/06/02/021",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3851507,
+      "longitude": 3.8971151,
+      "viewport": {
+        "northeast": {
+          "lat": 7.386362929892722,
+          "lng": 3.898510529892722
+        },
+        "southwest": {
+          "lat": 7.383663270107278,
+          "lng": 3.895810870107278
+        }
+      },
+      "formatted_address": "6FV59VPW+3VM Peters School, 1 Oke Are Rd, 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3851507,3.8971151",
+      "google_place_id": "ChIJw20M9AaNORAR9BrB6PKsl4Q"
+    }
+  },
+  {
+    "id": "353334",
+    "name": "ST. STEPHEN SCHOOL. I",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "30/06/02/022",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.395125299999999,
+      "longitude": 3.893630599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.396127929892721,
+          "lng": 3.894974129892722
+        },
+        "southwest": {
+          "lat": 7.393428270107277,
+          "lng": 3.892274470107278
+        }
+      },
+      "formatted_address": "6FV59VWV+3FC 2 INALENDE, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.395125299999999,3.893630599999999",
+      "google_place_id": "ChIJJ7POW3SNORAR53LexgxqKXU"
+    }
+  },
+  {
+    "id": "353335",
+    "name": "ST. STEPHEN SCHOOL II",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "30/06/02/023",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.395125299999999,
+      "longitude": 3.893630599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.396127929892721,
+          "lng": 3.894974129892722
+        },
+        "southwest": {
+          "lat": 7.393428270107277,
+          "lng": 3.892274470107278
+        }
+      },
+      "formatted_address": "6FV59VWV+3FC 2 INALENDE, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.395125299999999,3.893630599999999",
+      "google_place_id": "ChIJJ7POW3SNORAR53LexgxqKXU"
+    }
+  },
+  {
+    "id": "353336",
+    "name": "ST. STEPHEN SCHOOL III",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "30/06/02/024",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.395125299999999,
+      "longitude": 3.893630599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.396127929892721,
+          "lng": 3.894974129892722
+        },
+        "southwest": {
+          "lat": 7.393428270107277,
+          "lng": 3.892274470107278
+        }
+      },
+      "formatted_address": "6FV59VWV+3FC 2 INALENDE, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.395125299999999,3.893630599999999",
+      "google_place_id": "ChIJJ7POW3SNORAR53LexgxqKXU"
+    }
+  },
+  {
+    "id": "353337",
+    "name": "IN FRONT OF BOROKINI HOUSE",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "30/06/02/025",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.397599700000001,
+      "longitude": 3.9186401,
+      "viewport": {
+        "northeast": {
+          "lat": 7.398938929892721,
+          "lng": 3.919970829892722
+        },
+        "southwest": {
+          "lat": 7.396239270107277,
+          "lng": 3.917271170107278
+        }
+      },
+      "formatted_address": "Gate, Local Government Secretariat Oyo, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.397599700000001,3.9186401",
+      "google_place_id": "ChIJafrLxOqSORARnIU4_sRBd2Y"
+    }
+  },
+  {
+    "id": "353338",
+    "name": "ELELEDE COMPOUND",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "30/06/02/026",
+    "remark": "EXISTING PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.397599700000001,
+      "longitude": 3.9186401,
+      "viewport": {
+        "northeast": {
+          "lat": 7.398938929892721,
+          "lng": 3.919970829892722
+        },
+        "southwest": {
+          "lat": 7.396239270107277,
+          "lng": 3.917271170107278
+        }
+      },
+      "formatted_address": "Gate, Local Government Secretariat Oyo, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.397599700000001,3.9186401",
+      "google_place_id": "ChIJafrLxOqSORARnIU4_sRBd2Y"
+    }
+  },
+  {
+    "id": "353339",
+    "name": "OPEN SPACE CLOSE TO BOLA MOSQUE",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "30/06/02/027",
+    "remark": "NEW PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3843941,
+      "longitude": 3.8933261,
+      "viewport": {
+        "northeast": {
+          "lat": 7.385751429892721,
+          "lng": 3.894623629892722
+        },
+        "southwest": {
+          "lat": 7.383051770107278,
+          "lng": 3.891923970107278
+        }
+      },
+      "formatted_address": "9VMV+Q83, Oopo, Balogun Ibikunle Rd, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3843941,3.8933261",
+      "google_place_id": "ChIJH7WfTo2NORARLnk5wvp88Rc"
+    }
+  },
+  {
+    "id": "353340",
+    "name": "BESIDE ST STEPHEN CHURCH",
+    "registration_area_id": "18088",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "30/06/02/028",
+    "remark": "NEW PU",
+    "ward_id": "18088",
+    "ward_name": "WARD II, N3",
+    "local_government_id": "633",
+    "local_government_name": "IBADAN NORTH",
+    "state_id": "30",
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3956229,
+      "longitude": 3.8929546,
+      "viewport": {
+        "northeast": {
+          "lat": 7.396976479892722,
+          "lng": 3.894255529892722
+        },
+        "southwest": {
+          "lat": 7.394276820107279,
+          "lng": 3.891555870107278
+        }
+      },
+      "formatted_address": "9VWV+66X, 200284, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3956229,3.8929546",
+      "google_place_id": "ChIJ5ZabGGmNORARAB25Ny4e3y0"
+    }
+  }
+]

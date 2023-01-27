@@ -1,0 +1,201 @@
+[
+  {
+    "id": "90045",
+    "name": "BABEDAWA",
+    "registration_area_id": "4604",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/24/12/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4604",
+    "ward_name": "TSAUDAWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0006033,
+      "longitude": 8.485408099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00185872989272,
+          "lng": 8.486975579892723
+        },
+        "southwest": {
+          "lat": 11.99915907010728,
+          "lng": 8.48427592010728
+        }
+      },
+      "formatted_address": "Kofar Kansakali 700282, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0006033,8.485408099999999",
+      "google_place_id": "ChIJYVv9SJ2ArhERvzK0oc7eZpY"
+    }
+  },
+  {
+    "id": "90046",
+    "name": "LAMIN KWAI",
+    "registration_area_id": "4604",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/24/12/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4604",
+    "ward_name": "TSAUDAWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6746694,
+      "longitude": 8.1878653,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67603327989272,
+          "lng": 8.189316429892722
+        },
+        "southwest": {
+          "lat": 11.67333362010728,
+          "lng": 8.186616770107278
+        }
+      },
+      "formatted_address": "7F3CM5FQ+V49 Laminkwai Tsaudawa Kano Yako, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6746694,8.1878653",
+      "google_place_id": "ChIJj8vwy57BrRERiqRmmttLNSc"
+    }
+  },
+  {
+    "id": "90047",
+    "name": "TSAUDAWA C/GARI I",
+    "registration_area_id": "4604",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/24/12/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4604",
+    "ward_name": "TSAUDAWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "90048",
+    "name": "TSAUDAWA C/GARI II",
+    "registration_area_id": "4604",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/24/12/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4604",
+    "ward_name": "TSAUDAWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "90049",
+    "name": "UNGUWAR/ MAZA",
+    "registration_area_id": "4604",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/24/12/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4604",
+    "ward_name": "TSAUDAWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.665241,
+      "longitude": 8.1687928,
+      "viewport": {
+        "northeast": {
+          "lat": 11.66662732989272,
+          "lng": 8.170033379892722
+        },
+        "southwest": {
+          "lat": 11.66392767010728,
+          "lng": 8.167333720107278
+        }
+      },
+      "formatted_address": "7F3CM589+3GV Unguwar maza Tsaudawa Kano Yako, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.665241,8.1687928",
+      "google_place_id": "ChIJEQPHsUzBrRERzDFLfmC7ung"
+    }
+  },
+  {
+    "id": "90050",
+    "name": "BABEDAWA ISLAMIYA",
+    "registration_area_id": "4604",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/24/12/006",
+    "remark": "NEW PU",
+    "ward_id": "4604",
+    "ward_name": "TSAUDAWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2044463,
+      "longitude": 8.6929631,
+      "viewport": {
+        "northeast": {
+          "lat": 12.20580332989272,
+          "lng": 8.69433657989272
+        },
+        "southwest": {
+          "lat": 12.20310367010728,
+          "lng": 8.691636920107277
+        }
+      },
+      "formatted_address": "7F4C6M3V+Q6M, Kawo 702103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2044463,8.6929631",
+      "google_place_id": "ChIJK2LoPOiRrhERdO62BpZ_tvU"
+    }
+  },
+  {
+    "id": "90051",
+    "name": "LAMIN KWAI II",
+    "registration_area_id": "4604",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/24/12/007",
+    "remark": "NEW PU",
+    "ward_id": "4604",
+    "ward_name": "TSAUDAWA",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6746694,
+      "longitude": 8.1878653,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67603327989272,
+          "lng": 8.189316429892722
+        },
+        "southwest": {
+          "lat": 11.67333362010728,
+          "lng": 8.186616770107278
+        }
+      },
+      "formatted_address": "7F3CM5FQ+V49 Laminkwai Tsaudawa Kano Yako, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6746694,8.1878653",
+      "google_place_id": "ChIJj8vwy57BrRERiqRmmttLNSc"
+    }
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "id": "33619",
+    "name": "JARAWA",
+    "registration_area_id": "1823",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/15/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1823",
+    "ward_name": "JARAWA/SANGAYA",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.9054119,
+      "longitude": 14.3559158,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0279049,
+          "lng": 14.431656
+        },
+        "southwest": {
+          "lat": 11.82796,
+          "lng": 14.3059296
+        }
+      },
+      "formatted_address": "Jarawa/Sangaya, 611103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9054119,14.3559158",
+      "google_place_id": "ChIJm_62Q32cGxERWC-s6KDWarg"
+    }
+  },
+  {
+    "id": "33620",
+    "name": "MALARI",
+    "registration_area_id": "1823",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/15/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1823",
+    "ward_name": "JARAWA/SANGAYA",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5683996,
+      "longitude": 13.6091417,
+      "viewport": {
+        "northeast": {
+          "lat": 12.56960732989272,
+          "lng": 13.61072982989272
+        },
+        "southwest": {
+          "lat": 12.56690767010728,
+          "lng": 13.60803017010728
+        }
+      },
+      "formatted_address": "612101, Dasaa Malari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5683996,13.6091417",
+      "google_place_id": "ChIJk9MRl5XTGhERIDvOM2dNrXo"
+    }
+  },
+  {
+    "id": "33621",
+    "name": "TIWA",
+    "registration_area_id": "1823",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/15/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1823",
+    "ward_name": "JARAWA/SANGAYA",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.9942373,
+      "longitude": 14.3526429,
+      "viewport": {
+        "northeast": {
+          "lat": 11.99530187989272,
+          "lng": 14.35420187989272
+        },
+        "southwest": {
+          "lat": 11.99260222010728,
+          "lng": 14.35150222010728
+        }
+      },
+      "formatted_address": "611103, Tiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9942373,14.3526429",
+      "google_place_id": "ChIJTSOZ15SeGxERsm1Hr2XTsmE"
+    }
+  },
+  {
+    "id": "33622",
+    "name": "KHULIBARI",
+    "registration_area_id": "1823",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/15/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1823",
+    "ward_name": "JARAWA/SANGAYA",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33623",
+    "name": "SABBA",
+    "registration_area_id": "1823",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/15/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1823",
+    "ward_name": "JARAWA/SANGAYA",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.9073171,
+      "longitude": 14.379555,
+      "viewport": {
+        "northeast": {
+          "lat": 11.90835772989272,
+          "lng": 14.3813241
+        },
+        "southwest": {
+          "lat": 11.90565807010728,
+          "lng": 14.3777131
+        }
+      },
+      "formatted_address": "611103, Sabba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9073171,14.379555",
+      "google_place_id": "ChIJm6Sv1GGbGxERIbDgh5OgoiA"
+    }
+  },
+  {
+    "id": "33624",
+    "name": "SANGAYA",
+    "registration_area_id": "1823",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/15/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1823",
+    "ward_name": "JARAWA/SANGAYA",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.9054119,
+      "longitude": 14.3559158,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0279049,
+          "lng": 14.431656
+        },
+        "southwest": {
+          "lat": 11.82796,
+          "lng": 14.3059296
+        }
+      },
+      "formatted_address": "Jarawa/Sangaya, 611103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9054119,14.3559158",
+      "google_place_id": "ChIJm_62Q32cGxERWC-s6KDWarg"
+    }
+  },
+  {
+    "id": "33625",
+    "name": "JARAWA PRIMARY SCHOOL",
+    "registration_area_id": "1823",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/15/04/007",
+    "remark": "NEW PU",
+    "ward_id": "1823",
+    "ward_name": "JARAWA/SANGAYA",
+    "local_government_id": "156",
+    "local_government_name": "KALA BALGE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  }
+]

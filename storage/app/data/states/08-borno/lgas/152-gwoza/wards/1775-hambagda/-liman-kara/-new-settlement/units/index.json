@@ -1,0 +1,817 @@
+[
+  {
+    "id": "32748",
+    "name": "JAJE PRI. SCH.",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/11/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.9712959,
+      "longitude": 13.5839966,
+      "viewport": {
+        "northeast": {
+          "lat": 10.97220662989272,
+          "lng": 13.58489912989272
+        },
+        "southwest": {
+          "lat": 10.96950697010728,
+          "lng": 13.58219947010728
+        }
+      },
+      "formatted_address": "XHCM+GH9, 610106, Gori Limankare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.9712959,13.5839966",
+      "google_place_id": "ChIJJfFKdAwrHREROxEVqMg2Uus"
+    }
+  },
+  {
+    "id": "32749",
+    "name": "BULAMA TELA",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/11/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
+  },
+  {
+    "id": "32750",
+    "name": "LIMAN KARA PRI. SCH.",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/11/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.9676152,
+      "longitude": 13.6651257,
+      "viewport": {
+        "northeast": {
+          "lat": 10.96900267989272,
+          "lng": 13.66655697989272
+        },
+        "southwest": {
+          "lat": 10.96630302010728,
+          "lng": 13.66385732010728
+        }
+      },
+      "formatted_address": "Liman Kara Primary School, A 13, 610106, Limankara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.9676152,13.6651257",
+      "google_place_id": "ChIJRS6dIBQpHRER_8KOK-dowt8"
+    }
+  },
+  {
+    "id": "32751",
+    "name": "WAKILI SULE ARDO",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/11/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32752",
+    "name": "ISHAKU HUMBA",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/11/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32753",
+    "name": "UVAHA PRI. SCH.",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/11/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32754",
+    "name": "ABUBAKAR GARBA",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/11/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.090852,
+      "longitude": 13.683019,
+      "viewport": {
+        "northeast": {
+          "lat": 11.09214557989272,
+          "lng": 13.68444922989272
+        },
+        "southwest": {
+          "lat": 11.08944592010728,
+          "lng": 13.68174957010728
+        }
+      },
+      "formatted_address": "NO 2 BABA AFRO SHOP, adjacent MARARRABA ROUND ABOUT#GWOZA TOWN, Gwoza, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.090852,13.683019",
+      "google_place_id": "ChIJJw9hoxDXHBERuvB9eAndz4U"
+    }
+  },
+  {
+    "id": "32755",
+    "name": "LAWAN YERIMA",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "08/11/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32756",
+    "name": "AHMADU GWEME",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "08/11/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32757",
+    "name": "GALTHA CHAIRMAN",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "08/11/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32758",
+    "name": "PATAWE PRI. SCH.",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "08/11/08/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.0318902,
+      "longitude": 13.6469215,
+      "viewport": {
+        "northeast": {
+          "lat": 11.03324002989272,
+          "lng": 13.64827132989272
+        },
+        "southwest": {
+          "lat": 11.03054037010728,
+          "lng": 13.64557167010728
+        }
+      },
+      "formatted_address": "2JJW+QQ3, 610106, Kasa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0318902,13.6469215",
+      "google_place_id": "ChIJVTBwuQLWHBER8c7zOX9Ufpc"
+    }
+  },
+  {
+    "id": "32759",
+    "name": "HARUNA GARANDAWA",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "08/11/08/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32760",
+    "name": "HUDUGUM PRI. SCH.",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "08/11/08/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.124305,
+      "longitude": 13.783825,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12510242989272,
+          "lng": 13.7882869
+        },
+        "southwest": {
+          "lat": 11.12240277010728,
+          "lng": 13.7823377
+        }
+      },
+      "formatted_address": "4QFM+PGG, 610106, Ngoshe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.124305,13.783825",
+      "google_place_id": "ChIJHftlK87bHBERh5rt8Tn0p8c"
+    }
+  },
+  {
+    "id": "32761",
+    "name": "LAWAN MUSA",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "08/11/08/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
+  },
+  {
+    "id": "32762",
+    "name": "SALIHU MBIMBA",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "08/11/08/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32763",
+    "name": "UMARU TOKO",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "08/11/08/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.9037291,
+      "longitude": 13.0920648,
+      "viewport": {
+        "northeast": {
+          "lat": 11.90510942989272,
+          "lng": 13.09339212989272
+        },
+        "southwest": {
+          "lat": 11.90240977010728,
+          "lng": 13.09069247010727
+        }
+      },
+      "formatted_address": "W33R+FRW, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9037291,13.0920648",
+      "google_place_id": "ChIJlQ_1IIOZBBERlHhobOKqUNM"
+    }
+  },
+  {
+    "id": "32764",
+    "name": "SABON GARI ZAWVA",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "08/11/08/017",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8256868,
+      "longitude": 13.1614064,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82702957989272,
+          "lng": 13.16258157989272
+        },
+        "southwest": {
+          "lat": 11.82432992010728,
+          "lng": 13.15988192010728
+        }
+      },
+      "formatted_address": "layin mai dara sabon gari, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8256868,13.1614064",
+      "google_place_id": "ChIJb1n9Ac6fBBERTtPykj5PNHQ"
+    }
+  },
+  {
+    "id": "32765",
+    "name": "TASHAN GWEGWE",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "08/11/08/018",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32766",
+    "name": "LOKODISA",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "08/11/08/019",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.1097041,
+      "longitude": 13.5614067,
+      "viewport": {
+        "northeast": {
+          "lat": 11.1119359,
+          "lng": 13.564982
+        },
+        "southwest": {
+          "lat": 11.107754,
+          "lng": 13.558189
+        }
+      },
+      "formatted_address": "610106, Lokodisa Adamu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1097041,13.5614067",
+      "google_place_id": "ChIJr1FThLzUHBERE8NBKh4A-6c"
+    }
+  },
+  {
+    "id": "32767",
+    "name": "GAVA  WEST I",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "08/11/08/020",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.0786919,
+      "longitude": 13.5212794,
+      "viewport": {
+        "northeast": {
+          "lat": 11.08271,
+          "lng": 13.523045
+        },
+        "southwest": {
+          "lat": 11.076328,
+          "lng": 13.519986
+        }
+      },
+      "formatted_address": "610106, Gava West II, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0786919,13.5212794",
+      "google_place_id": "ChIJy8ul6d8qAxERiPe3Pu1juek"
+    }
+  },
+  {
+    "id": "32768",
+    "name": "GAVA WEST II",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "08/11/08/021",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.0786919,
+      "longitude": 13.5212794,
+      "viewport": {
+        "northeast": {
+          "lat": 11.08271,
+          "lng": 13.523045
+        },
+        "southwest": {
+          "lat": 11.076328,
+          "lng": 13.519986
+        }
+      },
+      "formatted_address": "610106, Gava West II, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0786919,13.5212794",
+      "google_place_id": "ChIJy8ul6d8qAxERiPe3Pu1juek"
+    }
+  },
+  {
+    "id": "32769",
+    "name": "UMARU TSAKALA",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "08/11/08/022",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32770",
+    "name": "VALENGEDE",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "08/11/08/023",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
+  },
+  {
+    "id": "32771",
+    "name": "MODU HUSSAINI",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "08/11/08/024",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
+  },
+  {
+    "id": "32772",
+    "name": "BLA WAZIRI",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "08/11/08/025",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32773",
+    "name": "LEMU",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "08/11/08/026",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
+  },
+  {
+    "id": "32774",
+    "name": "GORI",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "08/11/08/027",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.9719983,
+      "longitude": 13.5816558,
+      "viewport": {
+        "northeast": {
+          "lat": 10.974924,
+          "lng": 13.584935
+        },
+        "southwest": {
+          "lat": 10.969924,
+          "lng": 13.579658
+        }
+      },
+      "formatted_address": "610106, Gori Limankare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.9719983,13.5816558",
+      "google_place_id": "ChIJeedgdZgrHRERy8YhCcMgYsc"
+    }
+  },
+  {
+    "id": "32775",
+    "name": "BULAMA BAKERI",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "08/11/08/028",
+    "remark": "EXISTING PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32776",
+    "name": "LIMANKARA VEIWING CENTER",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "08/11/08/029",
+    "remark": "NEW PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8198225,
+      "longitude": 13.0814681,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82117622989272,
+          "lng": 13.08282307989272
+        },
+        "southwest": {
+          "lat": 11.81847657010728,
+          "lng": 13.08012342010728
+        }
+      },
+      "formatted_address": "R39J+WHF, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8198225,13.0814681",
+      "google_place_id": "ChIJ8yPN0CmcBBERPix6yaJuq3M"
+    }
+  },
+  {
+    "id": "32777",
+    "name": "KOFAN HARUNA NGUBDO",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "08/11/08/030",
+    "remark": "NEW PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32778",
+    "name": "HUDUGUM VIEWING CENTRE",
+    "registration_area_id": "1775",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "08/11/08/031",
+    "remark": "NEW PU",
+    "ward_id": "1775",
+    "ward_name": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
+    "local_government_id": "152",
+    "local_government_name": "GWOZA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
+  }
+]

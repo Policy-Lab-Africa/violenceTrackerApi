@@ -1,0 +1,433 @@
+[
+  {
+    "id": "31277",
+    "name": "ANDARA  I",
+    "registration_area_id": "1682",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/03/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1682",
+    "ward_name": "ANDARA / AJIRI /WULBA",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.3753305,
+      "longitude": 14.3093759,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4920302,
+          "lng": 14.4579249
+        },
+        "southwest": {
+          "lat": 11.2416959,
+          "lng": 14.1696254
+        }
+      },
+      "formatted_address": "Andara / Ajiri /Wulba, 610103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3753305,14.3093759",
+      "google_place_id": "ChIJL45aNWxgHBER4bNu5Q34pas"
+    }
+  },
+  {
+    "id": "31278",
+    "name": "ANDARA  II",
+    "registration_area_id": "1682",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/03/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1682",
+    "ward_name": "ANDARA / AJIRI /WULBA",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.3753305,
+      "longitude": 14.3093759,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4920302,
+          "lng": 14.4579249
+        },
+        "southwest": {
+          "lat": 11.2416959,
+          "lng": 14.1696254
+        }
+      },
+      "formatted_address": "Andara / Ajiri /Wulba, 610103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3753305,14.3093759",
+      "google_place_id": "ChIJL45aNWxgHBER4bNu5Q34pas"
+    }
+  },
+  {
+    "id": "31279",
+    "name": "TANGALANGA",
+    "registration_area_id": "1682",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/03/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1682",
+    "ward_name": "ANDARA / AJIRI /WULBA",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.3102147,
+      "longitude": 14.2486784,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3118619,
+          "lng": 14.25010287989272
+        },
+        "southwest": {
+          "lat": 11.3086139,
+          "lng": 14.24740322010728
+        }
+      },
+      "formatted_address": "610103, Tangalanga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3102147,14.2486784",
+      "google_place_id": "ChIJK2tJSaj1HBERChI9h1mj_4k"
+    }
+  },
+  {
+    "id": "31280",
+    "name": "KODO DAUDABE",
+    "registration_area_id": "1682",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/03/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1682",
+    "ward_name": "ANDARA / AJIRI /WULBA",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8163176,
+      "longitude": 13.1414268,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81764547989272,
+          "lng": 13.14275357989272
+        },
+        "southwest": {
+          "lat": 11.81494582010728,
+          "lng": 13.14005392010728
+        }
+      },
+      "formatted_address": "600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8163176,13.1414268",
+      "google_place_id": "ChIJCbHaD4GfBBERiCC70Igu9EE"
+    }
+  },
+  {
+    "id": "31281",
+    "name": "MADAWAYA",
+    "registration_area_id": "1682",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/03/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1682",
+    "ward_name": "ANDARA / AJIRI /WULBA",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8163176,
+      "longitude": 13.1414268,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81764547989272,
+          "lng": 13.14275357989272
+        },
+        "southwest": {
+          "lat": 11.81494582010728,
+          "lng": 13.14005392010728
+        }
+      },
+      "formatted_address": "600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8163176,13.1414268",
+      "google_place_id": "ChIJCbHaD4GfBBERiCC70Igu9EE"
+    }
+  },
+  {
+    "id": "31282",
+    "name": "TARMUA GANA",
+    "registration_area_id": "1682",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/03/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1682",
+    "ward_name": "ANDARA / AJIRI /WULBA",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8163176,
+      "longitude": 13.1414268,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81764547989272,
+          "lng": 13.14275357989272
+        },
+        "southwest": {
+          "lat": 11.81494582010728,
+          "lng": 13.14005392010728
+        }
+      },
+      "formatted_address": "600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8163176,13.1414268",
+      "google_place_id": "ChIJCbHaD4GfBBERiCC70Igu9EE"
+    }
+  },
+  {
+    "id": "31283",
+    "name": "WULBA KURA",
+    "registration_area_id": "1682",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/03/01/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1682",
+    "ward_name": "ANDARA / AJIRI /WULBA",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31284",
+    "name": "KODO MUKDO KURA",
+    "registration_area_id": "1682",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "08/03/01/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1682",
+    "ward_name": "ANDARA / AJIRI /WULBA",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8163176,
+      "longitude": 13.1414268,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81764547989272,
+          "lng": 13.14275357989272
+        },
+        "southwest": {
+          "lat": 11.81494582010728,
+          "lng": 13.14005392010728
+        }
+      },
+      "formatted_address": "600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8163176,13.1414268",
+      "google_place_id": "ChIJCbHaD4GfBBERiCC70Igu9EE"
+    }
+  },
+  {
+    "id": "31285",
+    "name": "NDABAZA KURA",
+    "registration_area_id": "1682",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "08/03/01/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1682",
+    "ward_name": "ANDARA / AJIRI /WULBA",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8163176,
+      "longitude": 13.1414268,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81764547989272,
+          "lng": 13.14275357989272
+        },
+        "southwest": {
+          "lat": 11.81494582010728,
+          "lng": 13.14005392010728
+        }
+      },
+      "formatted_address": "600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8163176,13.1414268",
+      "google_place_id": "ChIJCbHaD4GfBBERiCC70Igu9EE"
+    }
+  },
+  {
+    "id": "31286",
+    "name": "BEM, BEM",
+    "registration_area_id": "1682",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "08/03/01/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1682",
+    "ward_name": "ANDARA / AJIRI /WULBA",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.4190747,
+      "longitude": 14.3233727,
+      "viewport": {
+        "northeast": {
+          "lat": 11.42016322989272,
+          "lng": 14.32489637989272
+        },
+        "southwest": {
+          "lat": 11.41746357010728,
+          "lng": 14.32219672010728
+        }
+      },
+      "formatted_address": "610103, Bembem, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4190747,14.3233727",
+      "google_place_id": "ChIJe7sfgqJhHBERSWMehf-omJc"
+    }
+  },
+  {
+    "id": "31287",
+    "name": "KESH, KESH",
+    "registration_area_id": "1682",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "08/03/01/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1682",
+    "ward_name": "ANDARA / AJIRI /WULBA",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31288",
+    "name": "MAGARIBU",
+    "registration_area_id": "1682",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "08/03/01/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1682",
+    "ward_name": "ANDARA / AJIRI /WULBA",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8163176,
+      "longitude": 13.1414268,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81764547989272,
+          "lng": 13.14275357989272
+        },
+        "southwest": {
+          "lat": 11.81494582010728,
+          "lng": 13.14005392010728
+        }
+      },
+      "formatted_address": "600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8163176,13.1414268",
+      "google_place_id": "ChIJCbHaD4GfBBERiCC70Igu9EE"
+    }
+  },
+  {
+    "id": "31289",
+    "name": "BARKARI",
+    "registration_area_id": "1682",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "08/03/01/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1682",
+    "ward_name": "ANDARA / AJIRI /WULBA",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31290",
+    "name": "AJIRI",
+    "registration_area_id": "1682",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "08/03/01/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1682",
+    "ward_name": "ANDARA / AJIRI /WULBA",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31291",
+    "name": "GALA  GANA",
+    "registration_area_id": "1682",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "08/03/01/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1682",
+    "ward_name": "ANDARA / AJIRI /WULBA",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.3266462,
+      "longitude": 14.2094386,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3290911,
+          "lng": 14.2124351
+        },
+        "southwest": {
+          "lat": 11.3246459,
+          "lng": 14.2068801
+        }
+      },
+      "formatted_address": "610103, Galagana, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3266462,14.2094386",
+      "google_place_id": "ChIJoW1bkJH0HBERugi9Kr5XMcE"
+    }
+  }
+]

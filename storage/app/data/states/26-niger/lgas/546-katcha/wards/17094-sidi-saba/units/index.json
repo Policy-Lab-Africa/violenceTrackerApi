@@ -1,0 +1,316 @@
+[
+  {
+    "id": "336531",
+    "name": "SIDI-SABA PRIMARY SCHOOL",
+    "registration_area_id": "17094",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/10/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17094",
+    "ward_name": "SIDI SABA",
+    "local_government_id": "546",
+    "local_government_name": "KATCHA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9608439,
+      "longitude": 6.1416793,
+      "viewport": {
+        "northeast": {
+          "lat": 8.962154679892722,
+          "lng": 6.143287579892722
+        },
+        "southwest": {
+          "lat": 8.959455020107278,
+          "lng": 6.140587920107278
+        }
+      },
+      "formatted_address": "X46R+8MM, 912104, Denchita, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9608439,6.1416793",
+      "google_place_id": "ChIJSwFIXE1DSRAR-tEH9N-OaGE"
+    }
+  },
+  {
+    "id": "336532",
+    "name": "ALKUSU",
+    "registration_area_id": "17094",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/10/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17094",
+    "ward_name": "SIDI SABA",
+    "local_government_id": "546",
+    "local_government_name": "KATCHA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9905043,
+      "longitude": 6.1553084,
+      "viewport": {
+        "northeast": {
+          "lat": 8.991813629892722,
+          "lng": 6.156641279892721
+        },
+        "southwest": {
+          "lat": 8.989113970107278,
+          "lng": 6.153941620107277
+        }
+      },
+      "formatted_address": "Alkusu Primary School, 912104, Tswangulu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9905043,6.1553084",
+      "google_place_id": "ChIJfVsnNWJbSRARMPS96lEwWyU"
+    }
+  },
+  {
+    "id": "336533",
+    "name": "EMI RANI",
+    "registration_area_id": "17094",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/10/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17094",
+    "ward_name": "SIDI SABA",
+    "local_government_id": "546",
+    "local_government_name": "KATCHA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9849304,
+      "longitude": 6.1161393,
+      "viewport": {
+        "northeast": {
+          "lat": 8.986280229892722,
+          "lng": 6.117489129892721
+        },
+        "southwest": {
+          "lat": 8.983580570107279,
+          "lng": 6.114789470107277
+        }
+      },
+      "formatted_address": "X4M8+XFC, 912104, Shidisaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9849304,6.1161393",
+      "google_place_id": "ChIJX8GOUOdcSRARzb06VAdjAzE"
+    }
+  },
+  {
+    "id": "336534",
+    "name": "EBGANTI-TWAKI",
+    "registration_area_id": "17094",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/10/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17094",
+    "ward_name": "SIDI SABA",
+    "local_government_id": "546",
+    "local_government_name": "KATCHA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9608439,
+      "longitude": 6.1416793,
+      "viewport": {
+        "northeast": {
+          "lat": 8.962154679892722,
+          "lng": 6.143287579892722
+        },
+        "southwest": {
+          "lat": 8.959455020107278,
+          "lng": 6.140587920107278
+        }
+      },
+      "formatted_address": "X46R+8MM, 912104, Denchita, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9608439,6.1416793",
+      "google_place_id": "ChIJSwFIXE1DSRAR-tEH9N-OaGE"
+    }
+  },
+  {
+    "id": "336535",
+    "name": "SOMAJIN",
+    "registration_area_id": "17094",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/10/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17094",
+    "ward_name": "SIDI SABA",
+    "local_government_id": "546",
+    "local_government_name": "KATCHA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336536",
+    "name": "UBE PRIMARY SCHOOL TSWA-ANGULU",
+    "registration_area_id": "17094",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/10/10/006",
+    "remark": "NEW PU",
+    "ward_id": "17094",
+    "ward_name": "SIDI SABA",
+    "local_government_id": "546",
+    "local_government_name": "KATCHA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9608439,
+      "longitude": 6.1416793,
+      "viewport": {
+        "northeast": {
+          "lat": 8.962154679892722,
+          "lng": 6.143287579892722
+        },
+        "southwest": {
+          "lat": 8.959455020107278,
+          "lng": 6.140587920107278
+        }
+      },
+      "formatted_address": "X46R+8MM, 912104, Denchita, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9608439,6.1416793",
+      "google_place_id": "ChIJSwFIXE1DSRAR-tEH9N-OaGE"
+    }
+  },
+  {
+    "id": "336537",
+    "name": "BAISA PRIMARY SCHOOL",
+    "registration_area_id": "17094",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/10/10/007",
+    "remark": "NEW PU",
+    "ward_id": "17094",
+    "ward_name": "SIDI SABA",
+    "local_government_id": "546",
+    "local_government_name": "KATCHA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9608439,
+      "longitude": 6.1416793,
+      "viewport": {
+        "northeast": {
+          "lat": 8.962154679892722,
+          "lng": 6.143287579892722
+        },
+        "southwest": {
+          "lat": 8.959455020107278,
+          "lng": 6.140587920107278
+        }
+      },
+      "formatted_address": "X46R+8MM, 912104, Denchita, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9608439,6.1416793",
+      "google_place_id": "ChIJSwFIXE1DSRAR-tEH9N-OaGE"
+    }
+  },
+  {
+    "id": "336538",
+    "name": "GUBAGI PRIMARY SCHOOL",
+    "registration_area_id": "17094",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/10/10/008",
+    "remark": "NEW PU",
+    "ward_id": "17094",
+    "ward_name": "SIDI SABA",
+    "local_government_id": "546",
+    "local_government_name": "KATCHA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9505721,
+      "longitude": 6.1571924,
+      "viewport": {
+        "northeast": {
+          "lat": 8.951921929892723,
+          "lng": 6.158542229892722
+        },
+        "southwest": {
+          "lat": 8.94922227010728,
+          "lng": 6.155842570107279
+        }
+      },
+      "formatted_address": "6FW8X524+6RQ gubagi sidisaba, Denchita, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9505721,6.1571924",
+      "google_place_id": "ChIJCe8YNSpFSRAR57yZuUIA9fU"
+    }
+  },
+  {
+    "id": "336539",
+    "name": "EMI-TSOWA PRIMARY SCHOOL",
+    "registration_area_id": "17094",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "26/10/10/009",
+    "remark": "NEW PU",
+    "ward_id": "17094",
+    "ward_name": "SIDI SABA",
+    "local_government_id": "546",
+    "local_government_name": "KATCHA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9608439,
+      "longitude": 6.1416793,
+      "viewport": {
+        "northeast": {
+          "lat": 8.962154679892722,
+          "lng": 6.143287579892722
+        },
+        "southwest": {
+          "lat": 8.959455020107278,
+          "lng": 6.140587920107278
+        }
+      },
+      "formatted_address": "X46R+8MM, 912104, Denchita, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9608439,6.1416793",
+      "google_place_id": "ChIJSwFIXE1DSRAR-tEH9N-OaGE"
+    }
+  },
+  {
+    "id": "336540",
+    "name": "EGBANTI TSWADUKO",
+    "registration_area_id": "17094",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "26/10/10/010",
+    "remark": "NEW PU",
+    "ward_id": "17094",
+    "ward_name": "SIDI SABA",
+    "local_government_id": "546",
+    "local_government_name": "KATCHA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9608439,
+      "longitude": 6.1416793,
+      "viewport": {
+        "northeast": {
+          "lat": 8.962154679892722,
+          "lng": 6.143287579892722
+        },
+        "southwest": {
+          "lat": 8.959455020107278,
+          "lng": 6.140587920107278
+        }
+      },
+      "formatted_address": "X46R+8MM, 912104, Denchita, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9608439,6.1416793",
+      "google_place_id": "ChIJSwFIXE1DSRAR-tEH9N-OaGE"
+    }
+  }
+]

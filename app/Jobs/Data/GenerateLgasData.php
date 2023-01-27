@@ -47,7 +47,7 @@ class GenerateLgasData implements ShouldQueue
                         'data_id' => $lga->id,
                         'name' => $lga->name,
                         'abbreviation' => $lga->abbreviation,
-                        'state_id' => $lga->state_id,
+                        'state_id' => $this->findCorrectStateId($lga->state_name),
                     ]);
                 }
 
@@ -55,5 +55,12 @@ class GenerateLgasData implements ShouldQueue
             }
         }
 
+    }
+
+    private function findCorrectStateId($name)
+    {
+        $statesData = collect(json_decode(Storage::get(config('inecdata.path').'index.json')));
+
+        return $state = $statesData->where('name', $name)->first()->id;
     }
 }

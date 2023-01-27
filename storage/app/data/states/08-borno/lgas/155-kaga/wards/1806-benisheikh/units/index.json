@@ -1,0 +1,565 @@
+[
+  {
+    "id": "33497",
+    "name": "MALLAMTI",
+    "registration_area_id": "1806",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/14/02/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1806",
+    "ward_name": "BENISHEIKH",
+    "local_government_id": "155",
+    "local_government_name": "KAGA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8092089,
+      "longitude": 12.4941427,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81046137989272,
+          "lng": 12.49567942989272
+        },
+        "southwest": {
+          "lat": 11.80776172010728,
+          "lng": 12.49297977010728
+        }
+      },
+      "formatted_address": "RF5V+MMJ, 601105, Beni Sheik, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8092089,12.4941427",
+      "google_place_id": "ChIJzeOsa5p1BBERHVfqaSiqW8A"
+    }
+  },
+  {
+    "id": "33498",
+    "name": "BENISHEIKH GANA",
+    "registration_area_id": "1806",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/14/02/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1806",
+    "ward_name": "BENISHEIKH",
+    "local_government_id": "155",
+    "local_government_name": "KAGA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.804149,
+      "longitude": 12.5183307,
+      "viewport": {
+        "northeast": {
+          "lat": 11.8725319,
+          "lng": 12.6043047
+        },
+        "southwest": {
+          "lat": 11.7664189,
+          "lng": 12.3970627
+        }
+      },
+      "formatted_address": "Benisheikh, 601105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.804149,12.5183307",
+      "google_place_id": "ChIJq8wiL7x1BBERIqrGDmL0YCo"
+    }
+  },
+  {
+    "id": "33499",
+    "name": "DISTRICT HEAD OFFICE I",
+    "registration_area_id": "1806",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/14/02/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1806",
+    "ward_name": "BENISHEIKH",
+    "local_government_id": "155",
+    "local_government_name": "KAGA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8064338,
+      "longitude": 12.4926943,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80777227989272,
+          "lng": 12.49401297989272
+        },
+        "southwest": {
+          "lat": 11.80507262010728,
+          "lng": 12.49131332010728
+        }
+      },
+      "formatted_address": "RF4V+H3G, 601105, Beni Sheik, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8064338,12.4926943",
+      "google_place_id": "ChIJMbMf35p1BBERgkXFwWpKLKQ"
+    }
+  },
+  {
+    "id": "33500",
+    "name": "LOW COST PRIMARY SCHOOL I",
+    "registration_area_id": "1806",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/14/02/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1806",
+    "ward_name": "BENISHEIKH",
+    "local_government_id": "155",
+    "local_government_name": "KAGA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33501",
+    "name": "MAGISTRATE COURT",
+    "registration_area_id": "1806",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/14/02/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1806",
+    "ward_name": "BENISHEIKH",
+    "local_government_id": "155",
+    "local_government_name": "KAGA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33502",
+    "name": "WAKILTI PALACE",
+    "registration_area_id": "1806",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/14/02/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1806",
+    "ward_name": "BENISHEIKH",
+    "local_government_id": "155",
+    "local_government_name": "KAGA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8686135,
+      "longitude": 13.1759454,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86982707989272,
+          "lng": 13.17710982989272
+        },
+        "southwest": {
+          "lat": 11.86712742010728,
+          "lng": 13.17441017010728
+        }
+      },
+      "formatted_address": "V59G+C9W, Unnamed Road, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8686135,13.1759454",
+      "google_place_id": "ChIJ4XrACuijBBER0ivTIVZP7Q0"
+    }
+  },
+  {
+    "id": "33503",
+    "name": "VIEWING CENTRE",
+    "registration_area_id": "1806",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/14/02/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1806",
+    "ward_name": "BENISHEIKH",
+    "local_government_id": "155",
+    "local_government_name": "KAGA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.807761,
+      "longitude": 12.49011,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80909342989272,
+          "lng": 12.49144997989272
+        },
+        "southwest": {
+          "lat": 11.80639377010728,
+          "lng": 12.48875032010728
+        }
+      },
+      "formatted_address": "RF5R+425, 601105, Beni Sheik, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.807761,12.49011",
+      "google_place_id": "ChIJIwPCe5t1BBERfwkp-O_DJmE"
+    }
+  },
+  {
+    "id": "33504",
+    "name": "CENTRAL PRIMARY SCHOOL",
+    "registration_area_id": "1806",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "08/14/02/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1806",
+    "ward_name": "BENISHEIKH",
+    "local_government_id": "155",
+    "local_government_name": "KAGA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8066532,
+      "longitude": 12.4894762,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80795292989272,
+          "lng": 12.49085897989272
+        },
+        "southwest": {
+          "lat": 11.80525327010728,
+          "lng": 12.48815932010728
+        }
+      },
+      "formatted_address": "RF4Q+MMF Kaga Central Primary School, 601105, Beni Sheik, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8066532,12.4894762",
+      "google_place_id": "ChIJU97koJx1BBERRVfmYikYc6E"
+    }
+  },
+  {
+    "id": "33505",
+    "name": "ADULT EDUCATION OFFICE",
+    "registration_area_id": "1806",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "08/14/02/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1806",
+    "ward_name": "BENISHEIKH",
+    "local_government_id": "155",
+    "local_government_name": "KAGA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.832231,
+      "longitude": 13.1204711,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83417082989272,
+          "lng": 13.12188652989272
+        },
+        "southwest": {
+          "lat": 11.83147117010727,
+          "lng": 13.11918687010728
+        }
+      },
+      "formatted_address": "R4JC+V5Q, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.832231,13.1204711",
+      "google_place_id": "ChIJ36o6YeeeBBERCPFnj9wxWqk"
+    }
+  },
+  {
+    "id": "33506",
+    "name": "LAWANTI PALACE I",
+    "registration_area_id": "1806",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "08/14/02/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1806",
+    "ward_name": "BENISHEIKH",
+    "local_government_id": "155",
+    "local_government_name": "KAGA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8480551,
+      "longitude": 13.1601207,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84925562989272,
+          "lng": 13.16143352989272
+        },
+        "southwest": {
+          "lat": 11.84655597010728,
+          "lng": 13.15873387010728
+        }
+      },
+      "formatted_address": "Sultan's Palace, Shehuri 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8480551,13.1601207",
+      "google_place_id": "ChIJJ_e8pKufBBERNowBeI_ax6A"
+    }
+  },
+  {
+    "id": "33507",
+    "name": "SHOPPING COMPLEX  I",
+    "registration_area_id": "1806",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "08/14/02/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1806",
+    "ward_name": "BENISHEIKH",
+    "local_government_id": "155",
+    "local_government_name": "KAGA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8092089,
+      "longitude": 12.4941427,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81046137989272,
+          "lng": 12.49567942989272
+        },
+        "southwest": {
+          "lat": 11.80776172010728,
+          "lng": 12.49297977010728
+        }
+      },
+      "formatted_address": "RF5V+MMJ, 601105, Beni Sheik, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8092089,12.4941427",
+      "google_place_id": "ChIJzeOsa5p1BBERHVfqaSiqW8A"
+    }
+  },
+  {
+    "id": "33508",
+    "name": "SHOPPING COMPLEX   II",
+    "registration_area_id": "1806",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "08/14/02/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1806",
+    "ward_name": "BENISHEIKH",
+    "local_government_id": "155",
+    "local_government_name": "KAGA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8092089,
+      "longitude": 12.4941427,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81046137989272,
+          "lng": 12.49567942989272
+        },
+        "southwest": {
+          "lat": 11.80776172010728,
+          "lng": 12.49297977010728
+        }
+      },
+      "formatted_address": "RF5V+MMJ, 601105, Beni Sheik, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8092089,12.4941427",
+      "google_place_id": "ChIJzeOsa5p1BBERHVfqaSiqW8A"
+    }
+  },
+  {
+    "id": "33509",
+    "name": "TAMANDARA",
+    "registration_area_id": "1806",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "08/14/02/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1806",
+    "ward_name": "BENISHEIKH",
+    "local_government_id": "155",
+    "local_government_name": "KAGA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33510",
+    "name": "DISTRICT HEAD OFFICE II",
+    "registration_area_id": "1806",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "08/14/02/014",
+    "remark": "NEW PU",
+    "ward_id": "1806",
+    "ward_name": "BENISHEIKH",
+    "local_government_id": "155",
+    "local_government_name": "KAGA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8064338,
+      "longitude": 12.4926943,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80777227989272,
+          "lng": 12.49401297989272
+        },
+        "southwest": {
+          "lat": 11.80507262010728,
+          "lng": 12.49131332010728
+        }
+      },
+      "formatted_address": "RF4V+H3G, 601105, Beni Sheik, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8064338,12.4926943",
+      "google_place_id": "ChIJMbMf35p1BBERgkXFwWpKLKQ"
+    }
+  },
+  {
+    "id": "33511",
+    "name": "LOW COST PRIMARY SCHOOL II",
+    "registration_area_id": "1806",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "08/14/02/015",
+    "remark": "NEW PU",
+    "ward_id": "1806",
+    "ward_name": "BENISHEIKH",
+    "local_government_id": "155",
+    "local_government_name": "KAGA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8596809,
+      "longitude": 13.1597704,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86088467989272,
+          "lng": 13.16121942989272
+        },
+        "southwest": {
+          "lat": 11.85818502010728,
+          "lng": 13.15851977010728
+        }
+      },
+      "formatted_address": "V555+VWC, Gamboru 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8596809,13.1597704",
+      "google_place_id": "ChIJJZRknrGYBBERtjiouCqIxCI"
+    }
+  },
+  {
+    "id": "33512",
+    "name": "LAWANTI PALACE II",
+    "registration_area_id": "1806",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "08/14/02/016",
+    "remark": "NEW PU",
+    "ward_id": "1806",
+    "ward_name": "BENISHEIKH",
+    "local_government_id": "155",
+    "local_government_name": "KAGA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33513",
+    "name": "SHOPPING COMPLEX III",
+    "registration_area_id": "1806",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "08/14/02/017",
+    "remark": "NEW PU",
+    "ward_id": "1806",
+    "ward_name": "BENISHEIKH",
+    "local_government_id": "155",
+    "local_government_name": "KAGA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8092089,
+      "longitude": 12.4941427,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81046137989272,
+          "lng": 12.49567942989272
+        },
+        "southwest": {
+          "lat": 11.80776172010728,
+          "lng": 12.49297977010728
+        }
+      },
+      "formatted_address": "RF5V+MMJ, 601105, Beni Sheik, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8092089,12.4941427",
+      "google_place_id": "ChIJzeOsa5p1BBERHVfqaSiqW8A"
+    }
+  },
+  {
+    "id": "33514",
+    "name": "SHOPPING COMPLEX IV",
+    "registration_area_id": "1806",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "08/14/02/018",
+    "remark": "NEW PU",
+    "ward_id": "1806",
+    "ward_name": "BENISHEIKH",
+    "local_government_id": "155",
+    "local_government_name": "KAGA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8092089,
+      "longitude": 12.4941427,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81046137989272,
+          "lng": 12.49567942989272
+        },
+        "southwest": {
+          "lat": 11.80776172010728,
+          "lng": 12.49297977010728
+        }
+      },
+      "formatted_address": "RF5V+MMJ, 601105, Beni Sheik, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8092089,12.4941427",
+      "google_place_id": "ChIJzeOsa5p1BBERHVfqaSiqW8A"
+    }
+  },
+  {
+    "id": "33515",
+    "name": "TAMANDARA PRI. SCH.",
+    "registration_area_id": "1806",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "08/14/02/019",
+    "remark": "NEW PU",
+    "ward_id": "1806",
+    "ward_name": "BENISHEIKH",
+    "local_government_id": "155",
+    "local_government_name": "KAGA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8372624,
+      "longitude": 13.1433734,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83843587989272,
+          "lng": 13.14473802989272
+        },
+        "southwest": {
+          "lat": 11.83573622010728,
+          "lng": 13.14203837010728
+        }
+      },
+      "formatted_address": "R4PV+W89, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8372624,13.1433734",
+      "google_place_id": "ChIJV4RgiTufBBEROZiqC2vPaj0"
+    }
+  }
+]

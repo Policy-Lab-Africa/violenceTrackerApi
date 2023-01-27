@@ -1,0 +1,350 @@
+[
+  {
+    "id": "38895",
+    "name": "PCN PRIMARY SCHOOL I",
+    "registration_area_id": "2144",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "09/17/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2144",
+    "ward_name": "IDOMI",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "38896",
+    "name": "PCN PRIMARY SCHOOL II",
+    "registration_area_id": "2144",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "09/17/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2144",
+    "ward_name": "IDOMI",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "38897",
+    "name": "EGBIZUM TOWN HALL",
+    "registration_area_id": "2144",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "09/17/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2144",
+    "ward_name": "IDOMI",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.8122029,
+      "longitude": 8.0732683,
+      "viewport": {
+        "northeast": {
+          "lat": 5.813664879892722,
+          "lng": 8.074635979892722
+        },
+        "southwest": {
+          "lat": 5.810965220107278,
+          "lng": 8.071936320107278
+        }
+      },
+      "formatted_address": "R36F+V8J, 543105, Ugep, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8122029,8.0732683",
+      "google_place_id": "ChIJw0MPuO3cXBARoKL7NHUxwqs"
+    }
+  },
+  {
+    "id": "38898",
+    "name": "EGBIZUM PLAY GROUND",
+    "registration_area_id": "2144",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "09/17/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2144",
+    "ward_name": "IDOMI",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.883892299999999,
+      "longitude": 7.9394073,
+      "viewport": {
+        "northeast": {
+          "lat": 5.885255929892722,
+          "lng": 7.940757279892722
+        },
+        "southwest": {
+          "lat": 5.882556270107278,
+          "lng": 7.938057620107278
+        }
+      },
+      "formatted_address": "VWMQ+HQ3, 490103, Afikpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.883892299999999,7.9394073",
+      "google_place_id": "ChIJqVrl2p_PXBARojOakJJ4tWQ"
+    }
+  },
+  {
+    "id": "38899",
+    "name": "OTALOSI TOWN HALL",
+    "registration_area_id": "2144",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "09/17/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2144",
+    "ward_name": "IDOMI",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.9757165,
+      "longitude": 8.3417006,
+      "viewport": {
+        "northeast": {
+          "lat": 4.977015229892721,
+          "lng": 8.343239729892721
+        },
+        "southwest": {
+          "lat": 4.974315570107278,
+          "lng": 8.340540070107277
+        }
+      },
+      "formatted_address": "X8GR+7MP, Leopad Town 540281, Calabar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9757165,8.3417006",
+      "google_place_id": "ChIJs64PyICHZxARsKn7FczgBfY"
+    }
+  },
+  {
+    "id": "38900",
+    "name": "OTALOSI PLAY GROUND",
+    "registration_area_id": "2144",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "09/17/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2144",
+    "ward_name": "IDOMI",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.883892299999999,
+      "longitude": 7.9394073,
+      "viewport": {
+        "northeast": {
+          "lat": 5.885255929892722,
+          "lng": 7.940757279892722
+        },
+        "southwest": {
+          "lat": 5.882556270107278,
+          "lng": 7.938057620107278
+        }
+      },
+      "formatted_address": "VWMQ+HQ3, 490103, Afikpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.883892299999999,7.9394073",
+      "google_place_id": "ChIJqVrl2p_PXBARojOakJJ4tWQ"
+    }
+  },
+  {
+    "id": "38901",
+    "name": "OKOM TOWN HALL",
+    "registration_area_id": "2144",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "09/17/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2144",
+    "ward_name": "IDOMI",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.263678899999999,
+      "longitude": 7.3938962,
+      "viewport": {
+        "northeast": {
+          "lat": 5.265027379892722,
+          "lng": 7.395239029892721
+        },
+        "southwest": {
+          "lat": 5.262327720107278,
+          "lng": 7.392539370107277
+        }
+      },
+      "formatted_address": "451114, Umuenege, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.263678899999999,7.3938962",
+      "google_place_id": "ChIJ3w3ziYCWQhARm6DABrJyNhw"
+    }
+  },
+  {
+    "id": "38902",
+    "name": "KEKOWA PLAY GROUND",
+    "registration_area_id": "2144",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "09/17/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2144",
+    "ward_name": "IDOMI",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.883892299999999,
+      "longitude": 7.9394073,
+      "viewport": {
+        "northeast": {
+          "lat": 5.885255929892722,
+          "lng": 7.940757279892722
+        },
+        "southwest": {
+          "lat": 5.882556270107278,
+          "lng": 7.938057620107278
+        }
+      },
+      "formatted_address": "VWMQ+HQ3, 490103, Afikpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.883892299999999,7.9394073",
+      "google_place_id": "ChIJqVrl2p_PXBARojOakJJ4tWQ"
+    }
+  },
+  {
+    "id": "38903",
+    "name": "LEBOLKOM/OKOM OLD TOWN",
+    "registration_area_id": "2144",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "09/17/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2144",
+    "ward_name": "IDOMI",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.9944837,
+      "longitude": 8.3555587,
+      "viewport": {
+        "northeast": {
+          "lat": 4.995811029892723,
+          "lng": 8.356945679892721
+        },
+        "southwest": {
+          "lat": 4.993111370107279,
+          "lng": 8.354246020107277
+        }
+      },
+      "formatted_address": "Plot 70 Asari Eso, Off Mcc Rd, Layout 540222, Calabar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9944837,8.3555587",
+      "google_place_id": "ChIJRUX1gkyGZxARY0uFznYssJ8"
+    }
+  },
+  {
+    "id": "38904",
+    "name": "PCN PRIMARY SCHOOL, IDOMI",
+    "registration_area_id": "2144",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "09/17/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2144",
+    "ward_name": "IDOMI",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "38905",
+    "name": "APOSTOLIC PRIMARY SCHOOL, KEKOWA",
+    "registration_area_id": "2144",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "09/17/05/011",
+    "remark": "NEW PU",
+    "ward_id": "2144",
+    "ward_name": "IDOMI",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5862691,
+      "longitude": 7.931752699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.587524179892722,
+          "lng": 7.933085879892722
+        },
+        "southwest": {
+          "lat": 5.584824520107278,
+          "lng": 7.930386220107279
+        }
+      },
+      "formatted_address": "HWPJ+GPR, Calabar Road, 542109, Biakpan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5862691,7.931752699999999",
+      "google_place_id": "ChIJK8WkF2svXRARsvJMj81oZaY"
+    }
+  },
+  {
+    "id": "38906",
+    "name": "ST. JOSEPH'S PRIMARY SCHOOL, KEDONG",
+    "registration_area_id": "2144",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "09/17/05/012",
+    "remark": "NEW PU",
+    "ward_id": "2144",
+    "ward_name": "IDOMI",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.699126199999999,
+      "longitude": 8.7845356,
+      "viewport": {
+        "northeast": {
+          "lat": 6.700403679892721,
+          "lng": 8.785940079892724
+        },
+        "southwest": {
+          "lat": 6.697704020107278,
+          "lng": 8.78324042010728
+        }
+      },
+      "formatted_address": "MQXM+MR3, 550112, Okuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.699126199999999,8.7845356",
+      "google_place_id": "ChIJy6SU7ey_WxARMLZmeL4ss8Y"
+    }
+  }
+]

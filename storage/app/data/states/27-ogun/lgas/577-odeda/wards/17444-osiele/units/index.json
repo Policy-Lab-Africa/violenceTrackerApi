@@ -1,0 +1,747 @@
+[
+  {
+    "id": "343780",
+    "name": "ST. MARY'S PRY. SCH., I, OSIELE",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "27/16/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1912198,
+      "longitude": 3.4452988,
+      "viewport": {
+        "northeast": {
+          "lat": 7.192562979892723,
+          "lng": 3.446625329892723
+        },
+        "southwest": {
+          "lat": 7.189863320107279,
+          "lng": 3.443925670107278
+        }
+      },
+      "formatted_address": "6FV55CRW+F42, 110121, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1912198,3.4452988",
+      "google_place_id": "ChIJAwYqrso3OhAR6YH7FaVXdYQ"
+    }
+  },
+  {
+    "id": "343781",
+    "name": "ST. MARY'S PRY. SCH.,II, OSIELE",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "27/16/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": null
+  },
+  {
+    "id": "343782",
+    "name": "CAMP VILLAGE",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "27/16/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1863701,
+      "longitude": 3.4329319,
+      "viewport": {
+        "northeast": {
+          "lat": 7.187719929892721,
+          "lng": 3.434281729892722
+        },
+        "southwest": {
+          "lat": 7.185020270107278,
+          "lng": 3.431582070107277
+        }
+      },
+      "formatted_address": "Camp, 110121, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1863701,3.4329319",
+      "google_place_id": "ChIJDR57MBY2OhAR1kELXK9eTPo"
+    }
+  },
+  {
+    "id": "343783",
+    "name": "APAKILA VILLAGE",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "27/16/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.186674499999999,
+      "longitude": 3.4347939,
+      "viewport": {
+        "northeast": {
+          "lat": 7.188026179892723,
+          "lng": 3.436155679892722
+        },
+        "southwest": {
+          "lat": 7.185326520107279,
+          "lng": 3.433456020107278
+        }
+      },
+      "formatted_address": "110121, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.186674499999999,3.4347939",
+      "google_place_id": "ChIJnzm84RU2OhARkMIN839BVeQ"
+    }
+  },
+  {
+    "id": "343784",
+    "name": "IDI-AKA VILLAGE",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "27/16/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1793045,
+      "longitude": 3.4643699,
+      "viewport": {
+        "northeast": {
+          "lat": 7.180685879892723,
+          "lng": 3.465772929892723
+        },
+        "southwest": {
+          "lat": 7.177986220107279,
+          "lng": 3.463073270107278
+        }
+      },
+      "formatted_address": "5FH7+PPH, Idi Aka, Alapara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1793045,3.4643699",
+      "google_place_id": "ChIJuaITeYs3OhARgl-zmNBUrMU"
+    }
+  },
+  {
+    "id": "343785",
+    "name": "C.P.S. IWO ALLI",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "27/16/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1924834,
+      "longitude": 3.4460886,
+      "viewport": {
+        "northeast": {
+          "lat": 7.193810529892724,
+          "lng": 3.447460429892723
+        },
+        "southwest": {
+          "lat": 7.19111087010728,
+          "lng": 3.444760770107278
+        }
+      },
+      "formatted_address": "5CRW+XCW, 110121, Abẹ́òkúta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1924834,3.4460886",
+      "google_place_id": "ChIJneBHjUM2OhARCytsJhouY80"
+    }
+  },
+  {
+    "id": "343786",
+    "name": "OGBOJA PRY. SCHOOL",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "27/16/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.182244099999998,
+      "longitude": 3.4763559,
+      "viewport": {
+        "northeast": {
+          "lat": 7.183619679892722,
+          "lng": 3.477676229892722
+        },
+        "southwest": {
+          "lat": 7.180920020107278,
+          "lng": 3.474976570107277
+        }
+      },
+      "formatted_address": "Alli Osiele odeda Ogun, 6FV55FJG+VHG Iwo, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.182244099999998,3.4763559",
+      "google_place_id": "ChIJyRKgTRc3OhARt7NRBBQgvEE"
+    }
+  },
+  {
+    "id": "343787",
+    "name": "O.L.G. ITESI AJEGUNLE  I",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "27/16/06/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.2093141,
+      "longitude": 3.4781342,
+      "viewport": {
+        "northeast": {
+          "lat": 7.210554379892721,
+          "lng": 3.479422529892723
+        },
+        "southwest": {
+          "lat": 7.207854720107277,
+          "lng": 3.476722870107278
+        }
+      },
+      "formatted_address": "6F5H+Q78, 110121, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2093141,3.4781342",
+      "google_place_id": "ChIJEYYF2h83OhARAjHuWcXmgH4"
+    }
+  },
+  {
+    "id": "343788",
+    "name": "JAGUN AKINFENWA",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "27/16/06/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": null
+  },
+  {
+    "id": "343789",
+    "name": "OPEN SPACE IN FRONT OF FCE  GATE OSIELE",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "27/16/06/010",
+    "remark": "NEW PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.189798599999999,
+      "longitude": 3.4370059,
+      "viewport": {
+        "northeast": {
+          "lat": 7.191156279892721,
+          "lng": 3.438299379892722
+        },
+        "southwest": {
+          "lat": 7.188456620107277,
+          "lng": 3.435599720107278
+        }
+      },
+      "formatted_address": "5CQP+QQV, Alabata Road, 110121, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.189798599999999,3.4370059",
+      "google_place_id": "ChIJJ4Z_Uj42OhARoMOd45clvQU"
+    }
+  },
+  {
+    "id": "343790",
+    "name": "OPEN SPACE FRONT OF OSIELE PRIMARY HEALTH CENTRE",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "27/16/06/011",
+    "remark": "NEW PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1908606,
+      "longitude": 3.4498725,
+      "viewport": {
+        "northeast": {
+          "lat": 7.192240329892722,
+          "lng": 3.451085529892722
+        },
+        "southwest": {
+          "lat": 7.189540670107278,
+          "lng": 3.448385870107278
+        }
+      },
+      "formatted_address": "5CRX+8WX, Osiele, 110121, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1908606,3.4498725",
+      "google_place_id": "ChIJs-4q01w2OhAR92SX__54-cg"
+    }
+  },
+  {
+    "id": "343791",
+    "name": "OPEN FIELD AT IFESOWAPO ABATA COMMUNITY",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "27/16/06/012",
+    "remark": "NEW PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.189798599999999,
+      "longitude": 3.4370059,
+      "viewport": {
+        "northeast": {
+          "lat": 7.191156279892721,
+          "lng": 3.438299379892722
+        },
+        "southwest": {
+          "lat": 7.188456620107277,
+          "lng": 3.435599720107278
+        }
+      },
+      "formatted_address": "5CQP+QQV, Alabata Road, 110121, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.189798599999999,3.4370059",
+      "google_place_id": "ChIJJ4Z_Uj42OhARoMOd45clvQU"
+    }
+  },
+  {
+    "id": "343792",
+    "name": "OPEN FIELD AT AGBETU VILLAGE",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "27/16/06/013",
+    "remark": "NEW PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.2050399,
+      "longitude": 3.4716999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.206115729892722,
+          "lng": 3.473097879892722
+        },
+        "southwest": {
+          "lat": 7.203416070107278,
+          "lng": 3.470398220107278
+        }
+      },
+      "formatted_address": "Abeokuta-Ibadan Rd, 110121, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2050399,3.4716999",
+      "google_place_id": "ChIJ-bzy8ks3OhARZ6FxZe50DHI"
+    }
+  },
+  {
+    "id": "343793",
+    "name": "OPEN FIELD OPP SURULERE, SAWMILL",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "27/16/06/014",
+    "remark": "NEW PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 8.5372781,
+      "longitude": 4.5444192,
+      "viewport": {
+        "northeast": {
+          "lat": 8.538693929892721,
+          "lng": 4.545776829892722
+        },
+        "southwest": {
+          "lat": 8.535994270107278,
+          "lng": 4.543077170107278
+        }
+      },
+      "formatted_address": "240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5372781,4.5444192",
+      "google_place_id": "ChIJQY9UKbRTNhARcMi7MvyR_CM"
+    }
+  },
+  {
+    "id": "343794",
+    "name": "OPEN FIELD AT FATOLA ESTATE",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "27/16/06/015",
+    "remark": "NEW PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.2257765,
+      "longitude": 3.450542,
+      "viewport": {
+        "northeast": {
+          "lat": 7.227126329892722,
+          "lng": 3.451891829892723
+        },
+        "southwest": {
+          "lat": 7.224426670107278,
+          "lng": 3.449192170107278
+        }
+      },
+      "formatted_address": "Alabata Road, 110122, Alabata, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2257765,3.450542",
+      "google_place_id": "ChIJW8yeVqI3OhARymEor5lq7ws"
+    }
+  },
+  {
+    "id": "343795",
+    "name": "SUEULERE COMMUNITY TOWN HALL",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "27/16/06/016",
+    "remark": "NEW PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.148673199999999,
+      "longitude": 3.3498038,
+      "viewport": {
+        "northeast": {
+          "lat": 7.150083129892723,
+          "lng": 3.351179179892722
+        },
+        "southwest": {
+          "lat": 7.147383470107279,
+          "lng": 3.348479520107277
+        }
+      },
+      "formatted_address": "48XX+FW7, Nawair-Ud-Deen Road, Oke-Bode, Isabo, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.148673199999999,3.3498038",
+      "google_place_id": "ChIJuSppmu1LOhARaqkwIUI_t5E"
+    }
+  },
+  {
+    "id": "343796",
+    "name": "OLD NITEL BUILDING I",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "27/16/06/017",
+    "remark": "NEW PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.189798599999999,
+      "longitude": 3.4370059,
+      "viewport": {
+        "northeast": {
+          "lat": 7.191156279892721,
+          "lng": 3.438299379892722
+        },
+        "southwest": {
+          "lat": 7.188456620107277,
+          "lng": 3.435599720107278
+        }
+      },
+      "formatted_address": "5CQP+QQV, Alabata Road, 110121, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.189798599999999,3.4370059",
+      "google_place_id": "ChIJJ4Z_Uj42OhARoMOd45clvQU"
+    }
+  },
+  {
+    "id": "343797",
+    "name": "OLD NITEL BUILDING II",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "27/16/06/018",
+    "remark": "NEW PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.189798599999999,
+      "longitude": 3.4370059,
+      "viewport": {
+        "northeast": {
+          "lat": 7.191156279892721,
+          "lng": 3.438299379892722
+        },
+        "southwest": {
+          "lat": 7.188456620107277,
+          "lng": 3.435599720107278
+        }
+      },
+      "formatted_address": "5CQP+QQV, Alabata Road, 110121, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.189798599999999,3.4370059",
+      "google_place_id": "ChIJJ4Z_Uj42OhARoMOd45clvQU"
+    }
+  },
+  {
+    "id": "343798",
+    "name": "OPEN SPACE AT WONDERLAND ESTATE",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "27/16/06/019",
+    "remark": "NEW PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 9.016193099999999,
+      "longitude": 7.434689799999998,
+      "viewport": {
+        "northeast": {
+          "lat": 9.017538829892723,
+          "lng": 7.436034829892722
+        },
+        "southwest": {
+          "lat": 9.01483917010728,
+          "lng": 7.433335170107278
+        }
+      },
+      "formatted_address": "Wonderland Estate, Kwaba 900108, Abuja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.016193099999999,7.434689799999998",
+      "google_place_id": "ChIJcYiyIVJzThARs9n8Jf4VfMY"
+    }
+  },
+  {
+    "id": "343799",
+    "name": "FCE SCHOOL GATE II",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "27/16/06/020",
+    "remark": "NEW PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1935251,
+      "longitude": 3.448594,
+      "viewport": {
+        "northeast": {
+          "lat": 7.194906379892721,
+          "lng": 3.449942279892722
+        },
+        "southwest": {
+          "lat": 7.192206720107277,
+          "lng": 3.447242620107278
+        }
+      },
+      "formatted_address": "Osiele, 110121, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1935251,3.448594",
+      "google_place_id": "ChIJIet700A2OhARpCR9OIVql2E"
+    }
+  },
+  {
+    "id": "343800",
+    "name": "OPEN SPACE  AT ARAROMI IDERA COMMUNITY  I",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "27/16/06/021",
+    "remark": "NEW PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": null
+  },
+  {
+    "id": "343801",
+    "name": "OPEN SPACE  AT ARAROMI IDERA COMMUNITY   II",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "27/16/06/022",
+    "remark": "NEW PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": null
+  },
+  {
+    "id": "343802",
+    "name": "JUNCTION BESIDE ALADO BLOCK INDUSTRY VIA HARMONY ESTATE POLICE",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "27/16/06/023",
+    "remark": "NEW PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.186457499999999,
+      "longitude": 3.4329093,
+      "viewport": {
+        "northeast": {
+          "lat": 7.187764629892723,
+          "lng": 3.434273529892722
+        },
+        "southwest": {
+          "lat": 7.18506497010728,
+          "lng": 3.431573870107277
+        }
+      },
+      "formatted_address": "APAKILA VILLAGE ROAD, Camp, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.186457499999999,3.4329093",
+      "google_place_id": "ChIJZajX85o3OhAR0A1UmCgI8NE"
+    }
+  },
+  {
+    "id": "343803",
+    "name": "OLUJA  JUNCTION ALANCO OSIELE",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "27/16/06/024",
+    "remark": "NEW PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.189798599999999,
+      "longitude": 3.4370059,
+      "viewport": {
+        "northeast": {
+          "lat": 7.191156279892721,
+          "lng": 3.438299379892722
+        },
+        "southwest": {
+          "lat": 7.188456620107277,
+          "lng": 3.435599720107278
+        }
+      },
+      "formatted_address": "5CQP+QQV, Alabata Road, 110121, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.189798599999999,3.4370059",
+      "google_place_id": "ChIJJ4Z_Uj42OhARoMOd45clvQU"
+    }
+  },
+  {
+    "id": "343804",
+    "name": "OPEN FIELD OPPOSITE MIN OF AGRIC LESHO",
+    "registration_area_id": "17444",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "27/16/06/025",
+    "remark": "NEW PU",
+    "ward_id": "17444",
+    "ward_name": "OSIELE",
+    "local_government_id": "577",
+    "local_government_name": "ODEDA",
+    "state_id": "27",
+    "state_name": "OGUN",
+    "location": null
+  }
+]

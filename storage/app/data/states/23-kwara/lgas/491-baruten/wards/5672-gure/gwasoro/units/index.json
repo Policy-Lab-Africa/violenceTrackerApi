@@ -1,0 +1,951 @@
+[
+  {
+    "id": "109144",
+    "name": "MONRE  L.G.E.A.SCH",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "23/02/02/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.6799543,
+      "longitude": 3.3557318,
+      "viewport": {
+        "northeast": {
+          "lat": 9.68131682989272,
+          "lng": 3.357071979892722
+        },
+        "southwest": {
+          "lat": 9.678617170107277,
+          "lng": 3.354372320107278
+        }
+      },
+      "formatted_address": "M9H4+X7Q, Sanre, Sare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6799543,3.3557318",
+      "google_place_id": "ChIJXRQy9v69MxAR-9MPtoAJp1c"
+    }
+  },
+  {
+    "id": "109145",
+    "name": "MOSHI  L.G.E.A.SCH",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "23/02/02/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109146",
+    "name": "BWEREGURU  L.G.E.A.SCH",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "23/02/02/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109147",
+    "name": "KURABARU  L.G.E.A.SCH",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "23/02/02/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109148",
+    "name": "TUGA  L.G.E.A.SCH",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "23/02/02/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109149",
+    "name": "GWASORO  L.G.E.A.SCH",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "23/02/02/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.4388316,
+      "longitude": 3.5003454,
+      "viewport": {
+        "northeast": {
+          "lat": 9.711233,
+          "lng": 3.8161498
+        },
+        "southwest": {
+          "lat": 9.1655398,
+          "lng": 3.2043898
+        }
+      },
+      "formatted_address": "Gure/Gwasoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4388316,3.5003454",
+      "google_place_id": "ChIJXzPTBqjuMxARQIgFtaMECM4"
+    }
+  },
+  {
+    "id": "109150",
+    "name": "GWANE  L.G.E.A.SCH",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "23/02/02/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109151",
+    "name": "SABO SARE",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "23/02/02/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.4679237,
+      "longitude": 3.1831527,
+      "viewport": {
+        "northeast": {
+          "lat": 9.4758441,
+          "lng": 3.1914491
+        },
+        "southwest": {
+          "lat": 9.462701899999999,
+          "lng": 3.1774349
+        }
+      },
+      "formatted_address": "242102, Suya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4679237,3.1831527",
+      "google_place_id": "ChIJnfx0v1_JMxARIsc_RmX-byQ"
+    }
+  },
+  {
+    "id": "109152",
+    "name": "YANRI  L.G.E.A.SCH",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "23/02/02/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109153",
+    "name": "AJEGUNLE/GURE NEW MRKET",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "23/02/02/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.4388316,
+      "longitude": 3.5003454,
+      "viewport": {
+        "northeast": {
+          "lat": 9.711233,
+          "lng": 3.8161498
+        },
+        "southwest": {
+          "lat": 9.1655398,
+          "lng": 3.2043898
+        }
+      },
+      "formatted_address": "Gure/Gwasoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4388316,3.5003454",
+      "google_place_id": "ChIJXzPTBqjuMxARQIgFtaMECM4"
+    }
+  },
+  {
+    "id": "109154",
+    "name": "BANIKANI/GURE OPEN SPACE",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "23/02/02/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109155",
+    "name": "GURE OLD MARKET",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "23/02/02/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.4388316,
+      "longitude": 3.5003454,
+      "viewport": {
+        "northeast": {
+          "lat": 9.711233,
+          "lng": 3.8161498
+        },
+        "southwest": {
+          "lat": 9.1655398,
+          "lng": 3.2043898
+        }
+      },
+      "formatted_address": "Gure/Gwasoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4388316,3.5003454",
+      "google_place_id": "ChIJXzPTBqjuMxARQIgFtaMECM4"
+    }
+  },
+  {
+    "id": "109156",
+    "name": "GURE  L.G.E.A.SCH",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "23/02/02/013",
+    "remark": "EXISTING PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.4388316,
+      "longitude": 3.5003454,
+      "viewport": {
+        "northeast": {
+          "lat": 9.711233,
+          "lng": 3.8161498
+        },
+        "southwest": {
+          "lat": 9.1655398,
+          "lng": 3.2043898
+        }
+      },
+      "formatted_address": "Gure/Gwasoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4388316,3.5003454",
+      "google_place_id": "ChIJXzPTBqjuMxARQIgFtaMECM4"
+    }
+  },
+  {
+    "id": "109157",
+    "name": "SINAGURU  L.G.E.A.SCH",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "23/02/02/014",
+    "remark": "EXISTING PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109158",
+    "name": "KOSUBOSU AREA COURT",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "23/02/02/015",
+    "remark": "EXISTING PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.5443284,
+      "longitude": 3.2240555,
+      "viewport": {
+        "northeast": {
+          "lat": 9.545647979892722,
+          "lng": 3.225464829892723
+        },
+        "southwest": {
+          "lat": 9.542948320107278,
+          "lng": 3.222765170107278
+        }
+      },
+      "formatted_address": "G6VF+PJM, 242102, Kosubosu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5443284,3.2240555",
+      "google_place_id": "ChIJi2feMiC3MxARCybVxMepdCA"
+    }
+  },
+  {
+    "id": "109159",
+    "name": "KOSUBOSU  L.G.E.A.SCH",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "23/02/02/016",
+    "remark": "EXISTING PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109160",
+    "name": "MOSHIKPEKU MOORE II",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "23/02/02/017",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109161",
+    "name": "MOSHI GBOFA CENT. MARKET",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "23/02/02/018",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4926961,
+      "longitude": 4.5498405,
+      "viewport": {
+        "northeast": {
+          "lat": 8.494046979892723,
+          "lng": 4.551214329892721
+        },
+        "southwest": {
+          "lat": 8.491347320107279,
+          "lng": 4.548514670107277
+        }
+      },
+      "formatted_address": "FGVX+3XF, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4926961,4.5498405",
+      "google_place_id": "ChIJg0GTsY9SNhARsyY38bMF2xA"
+    }
+  },
+  {
+    "id": "109162",
+    "name": "BWEREGURU II OPP.MTN MAST",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "23/02/02/019",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.212752,
+      "longitude": 3.2021904,
+      "viewport": {
+        "northeast": {
+          "lat": 9.214228279892723,
+          "lng": 3.203717079892722
+        },
+        "southwest": {
+          "lat": 9.211528620107279,
+          "lng": 3.201017420107278
+        }
+      },
+      "formatted_address": "6672+4V4, 242105, Okuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.212752,3.2021904",
+      "google_place_id": "ChIJbZqkblzWMxAR0ijcXSuL0dE"
+    }
+  },
+  {
+    "id": "109163",
+    "name": "DADIN KOWA KURABARU",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "23/02/02/020",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 10.3211931,
+      "longitude": 11.481479,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32254292989272,
+          "lng": 11.48282882989272
+        },
+        "southwest": {
+          "lat": 10.31984327010728,
+          "lng": 11.48012917010728
+        }
+      },
+      "formatted_address": "8FCJ+FHH, 761121, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3211931,11.481479",
+      "google_place_id": "ChIJizCa3Sov_hARsDXXGp4Bwto"
+    }
+  },
+  {
+    "id": "109164",
+    "name": "OKADA GARAGE TUKA",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "23/02/02/021",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109165",
+    "name": "BLGA DISPENSARY GWANE RD",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "23/02/02/022",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109166",
+    "name": "CAMP BESIDE POL. STATION",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "23/02/02/023",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.8273946,
+      "longitude": 5.0891534,
+      "viewport": {
+        "northeast": {
+          "lat": 8.831344850000002,
+          "lng": 5.090879379892723
+        },
+        "southwest": {
+          "lat": 8.826077849999997,
+          "lng": 5.088179720107279
+        }
+      },
+      "formatted_address": "Lafiagi-Share Road, 243103, Yikpata, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8273946,5.0891534",
+      "google_place_id": "ChIJ0yegHEPgSRARtjED41LeE9Y"
+    }
+  },
+  {
+    "id": "109167",
+    "name": "GURU BOREHOLE GWANE",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "23/02/02/024",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.8924088,
+      "longitude": 3.1453487,
+      "viewport": {
+        "northeast": {
+          "lat": 8.895243200000001,
+          "lng": 3.146497029892722
+        },
+        "southwest": {
+          "lat": 8.891464,
+          "lng": 3.143797370107278
+        }
+      },
+      "formatted_address": "V4RW+X49, Ilesha Ibariba-Gbararo-Tabira Road, 242104, Gwanara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8924088,3.1453487",
+      "google_place_id": "ChIJ5W0IAjd0MRARCyHmRUFTftE"
+    }
+  },
+  {
+    "id": "109168",
+    "name": "TONNA TANGE LGEA SCH.",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "23/02/02/025",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109169",
+    "name": "SERESEKIRI LGEA SCHPPL",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "23/02/02/026",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.8251239,
+      "longitude": 3.3653512,
+      "viewport": {
+        "northeast": {
+          "lat": 9.826351879892721,
+          "lng": 3.366621579892723
+        },
+        "southwest": {
+          "lat": 9.823652220107277,
+          "lng": 3.363921920107278
+        }
+      },
+      "formatted_address": "Road, 242102, Chikanda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.8251239,3.3653512",
+      "google_place_id": "ChIJpbyhFyKhMxARsyYSMhsE0Ws"
+    }
+  },
+  {
+    "id": "109170",
+    "name": "SABO SARE II",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "23/02/02/027",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109171",
+    "name": "TAKISARIRU YANRI OPEN SPACE",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "23/02/02/028",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109172",
+    "name": "GRA GURE OPEN SPACE",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "23/02/02/029",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.6799543,
+      "longitude": 3.3557318,
+      "viewport": {
+        "northeast": {
+          "lat": 9.68131682989272,
+          "lng": 3.357071979892722
+        },
+        "southwest": {
+          "lat": 9.678617170107277,
+          "lng": 3.354372320107278
+        }
+      },
+      "formatted_address": "M9H4+X7Q, Sanre, Sare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6799543,3.3557318",
+      "google_place_id": "ChIJXRQy9v69MxAR-9MPtoAJp1c"
+    }
+  },
+  {
+    "id": "109173",
+    "name": "KPAWULU GURE OPEN SPACE",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "23/02/02/030",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.7099782,
+      "longitude": 4.4665529,
+      "viewport": {
+        "northeast": {
+          "lat": 8.711309179892723,
+          "lng": 4.467928229892721
+        },
+        "southwest": {
+          "lat": 8.708609520107279,
+          "lng": 4.465228570107278
+        }
+      },
+      "formatted_address": "Kwara State University Rd, 241103, Malete, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7099782,4.4665529",
+      "google_place_id": "ChIJZ4XvVUVZNhAR1COy1xSUoPU"
+    }
+  },
+  {
+    "id": "109174",
+    "name": "OKADA GARAGE YONGUREGI GURE",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "23/02/02/031",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109175",
+    "name": "ALLAH YA BADA SA'A GURE",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "23/02/02/032",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109176",
+    "name": "DAAGURU GURE OPEN SPACE",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "23/02/02/033",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.4388316,
+      "longitude": 3.5003454,
+      "viewport": {
+        "northeast": {
+          "lat": 9.711233,
+          "lng": 3.8161498
+        },
+        "southwest": {
+          "lat": 9.1655398,
+          "lng": 3.2043898
+        }
+      },
+      "formatted_address": "Gure/Gwasoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4388316,3.5003454",
+      "google_place_id": "ChIJXzPTBqjuMxARQIgFtaMECM4"
+    }
+  },
+  {
+    "id": "109177",
+    "name": "GAA PUMP OPEN SPACE",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "23/02/02/034",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4949291,
+      "longitude": 4.498851699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.496289929892722,
+          "lng": 4.500254329892721
+        },
+        "southwest": {
+          "lat": 8.493590270107278,
+          "lng": 4.497554670107277
+        }
+      },
+      "formatted_address": "Itamo, Ogundele Road, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4949291,4.498851699999999",
+      "google_place_id": "ChIJmd5vYQlTNhAR6sOXc9RQSgM"
+    }
+  },
+  {
+    "id": "109178",
+    "name": "NASARAWA AREA KOSUBOSU",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "23/02/02/035",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.3493393,
+      "longitude": 3.5812692,
+      "viewport": {
+        "northeast": {
+          "lat": 10.1787432,
+          "lng": 3.8225287
+        },
+        "southwest": {
+          "lat": 8.5614444,
+          "lng": 2.7288395
+        }
+      },
+      "formatted_address": "Baruten, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3493393,3.5812692",
+      "google_place_id": "ChIJ4Zp5IUHFMxARzOLY7pC8TFc"
+    }
+  },
+  {
+    "id": "109179",
+    "name": "KIRUKUNKPARU KOSUBOSU",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "036",
+    "units": "036",
+    "delimitation": "23/02/02/036",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.5443284,
+      "longitude": 3.2240555,
+      "viewport": {
+        "northeast": {
+          "lat": 9.545647979892722,
+          "lng": 3.225464829892723
+        },
+        "southwest": {
+          "lat": 9.542948320107278,
+          "lng": 3.222765170107278
+        }
+      },
+      "formatted_address": "G6VF+PJM, 242102, Kosubosu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5443284,3.2240555",
+      "google_place_id": "ChIJi2feMiC3MxARCybVxMepdCA"
+    }
+  },
+  {
+    "id": "109180",
+    "name": "NURTW GARAGE KOSUBOSU",
+    "registration_area_id": "5672",
+    "precise_location": null,
+    "abbreviation": "037",
+    "units": "037",
+    "delimitation": "23/02/02/037",
+    "remark": "NEW PU",
+    "ward_id": "5672",
+    "ward_name": "GURE/GWASORO",
+    "local_government_id": "491",
+    "local_government_name": "BARUTEN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.587892400000001,
+      "longitude": 3.9313097,
+      "viewport": {
+        "northeast": {
+          "lat": 9.58933862989272,
+          "lng": 3.932502129892722
+        },
+        "southwest": {
+          "lat": 9.586638970107277,
+          "lng": 3.929802470107278
+        }
+      },
+      "formatted_address": "HWQJ+5G3, 242101, Kaiama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.587892400000001,3.9313097",
+      "google_place_id": "ChIJicS57IBtNBARv2iw4jDZ1B0"
+    }
+  }
+]

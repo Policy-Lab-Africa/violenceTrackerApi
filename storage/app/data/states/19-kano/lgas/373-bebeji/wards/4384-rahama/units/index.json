@@ -1,0 +1,266 @@
+[
+  {
+    "id": "84528",
+    "name": "CUTAR BIKI",
+    "registration_area_id": "4384",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/04/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4384",
+    "ward_name": "RAHAMA",
+    "local_government_id": "373",
+    "local_government_name": "BEBEJI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4289163,
+      "longitude": 8.3064365,
+      "viewport": {
+        "northeast": {
+          "lat": 11.43076337989272,
+          "lng": 8.309066700000002
+        },
+        "southwest": {
+          "lat": 11.42806372010728,
+          "lng": 8.305559899999995
+        }
+      },
+      "formatted_address": "7F3CC8H4+HHH Biki Rahama Kano, Cutar, 711104, Gajale, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4289163,8.3064365",
+      "google_place_id": "ChIJ-3fWEs27rREReOjL9c-POfY"
+    }
+  },
+  {
+    "id": "84529",
+    "name": "MALMO",
+    "registration_area_id": "4384",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/04/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4384",
+    "ward_name": "RAHAMA",
+    "local_government_id": "373",
+    "local_government_name": "BEBEJI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3882282,
+      "longitude": 8.289342399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.392754,
+          "lng": 8.2904311
+        },
+        "southwest": {
+          "lat": 11.3876741,
+          "lng": 8.287597
+        }
+      },
+      "formatted_address": "711104, Malmo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3882282,8.289342399999999",
+      "google_place_id": "ChIJ3WTX0UClrRERXoRJsS-dfCs"
+    }
+  },
+  {
+    "id": "84530",
+    "name": "MALMO GARKUWA",
+    "registration_area_id": "4384",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/04/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4384",
+    "ward_name": "RAHAMA",
+    "local_government_id": "373",
+    "local_government_name": "BEBEJI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3774719,
+      "longitude": 8.3401602,
+      "viewport": {
+        "northeast": {
+          "lat": 11.37891287989272,
+          "lng": 8.341423779892722
+        },
+        "southwest": {
+          "lat": 11.37621322010728,
+          "lng": 8.338724120107278
+        }
+      },
+      "formatted_address": "711104, Garkuwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3774719,8.3401602",
+      "google_place_id": "ChIJUarqI7qvrRERCefsWbS7O9I"
+    }
+  },
+  {
+    "id": "84531",
+    "name": "RAHAMA",
+    "registration_area_id": "4384",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/04/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4384",
+    "ward_name": "RAHAMA",
+    "local_government_id": "373",
+    "local_government_name": "BEBEJI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3906034,
+      "longitude": 8.292421299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4499951,
+          "lng": 8.343695199999999
+        },
+        "southwest": {
+          "lat": 11.3445526,
+          "lng": 8.264489
+        }
+      },
+      "formatted_address": "Rahama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3906034,8.292421299999999",
+      "google_place_id": "ChIJC4z6R1elrRERVrU1R13rJ54"
+    }
+  },
+  {
+    "id": "84532",
+    "name": "RAHAMA, CIKIN GARI I",
+    "registration_area_id": "4384",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/04/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4384",
+    "ward_name": "RAHAMA",
+    "local_government_id": "373",
+    "local_government_name": "BEBEJI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9435852,
+      "longitude": 8.6120098,
+      "viewport": {
+        "northeast": {
+          "lat": 11.94496202989272,
+          "lng": 8.613236929892722
+        },
+        "southwest": {
+          "lat": 11.94226237010728,
+          "lng": 8.610537270107278
+        }
+      },
+      "formatted_address": "700104, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9435852,8.6120098",
+      "google_place_id": "ChIJQzIX6n6CrhERvm_ekQ9LYrM"
+    }
+  },
+  {
+    "id": "84533",
+    "name": "RAHAMA CIKIN GARI II",
+    "registration_area_id": "4384",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/04/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4384",
+    "ward_name": "RAHAMA",
+    "local_government_id": "373",
+    "local_government_name": "BEBEJI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9435852,
+      "longitude": 8.6120098,
+      "viewport": {
+        "northeast": {
+          "lat": 11.94496202989272,
+          "lng": 8.613236929892722
+        },
+        "southwest": {
+          "lat": 11.94226237010728,
+          "lng": 8.610537270107278
+        }
+      },
+      "formatted_address": "700104, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9435852,8.6120098",
+      "google_place_id": "ChIJQzIX6n6CrhERvm_ekQ9LYrM"
+    }
+  },
+  {
+    "id": "84534",
+    "name": "UNGUWAR YAKUBU",
+    "registration_area_id": "4384",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/04/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4384",
+    "ward_name": "RAHAMA",
+    "local_government_id": "373",
+    "local_government_name": "BEBEJI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3705382,
+      "longitude": 8.3149427,
+      "viewport": {
+        "northeast": {
+          "lat": 11.37180382989272,
+          "lng": 8.31629967989272
+        },
+        "southwest": {
+          "lat": 11.36910417010728,
+          "lng": 8.313600020107277
+        }
+      },
+      "formatted_address": "7F3C98C7+6X8, 711104, Ungwan Arna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3705382,8.3149427",
+      "google_place_id": "ChIJKy0jRjmvrRER3E-FWXvrZgk"
+    }
+  },
+  {
+    "id": "84535",
+    "name": "UNGUWAR YAKUBU II",
+    "registration_area_id": "4384",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/04/10/008",
+    "remark": "NEW PU",
+    "ward_id": "4384",
+    "ward_name": "RAHAMA",
+    "local_government_id": "373",
+    "local_government_name": "BEBEJI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3705382,
+      "longitude": 8.3149427,
+      "viewport": {
+        "northeast": {
+          "lat": 11.37180382989272,
+          "lng": 8.31629967989272
+        },
+        "southwest": {
+          "lat": 11.36910417010728,
+          "lng": 8.313600020107277
+        }
+      },
+      "formatted_address": "7F3C98C7+6X8, 711104, Ungwan Arna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3705382,8.3149427",
+      "google_place_id": "ChIJKy0jRjmvrRER3E-FWXvrZgk"
+    }
+  }
+]

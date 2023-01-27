@@ -1,0 +1,316 @@
+[
+  {
+    "id": "58775",
+    "name": "PREMIER PRIMARY SCHOOL UMUABI",
+    "registration_area_id": "3202",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "14/16/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3202",
+    "ward_name": "UMUABI",
+    "local_government_id": "274",
+    "local_government_name": "UDI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3183055,
+      "longitude": 7.367862400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.319535579892722,
+          "lng": 7.369165729892722
+        },
+        "southwest": {
+          "lat": 6.316835920107278,
+          "lng": 7.366466070107278
+        }
+      },
+      "formatted_address": "40, Amokwe Station, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3183055,7.367862400000001",
+      "google_place_id": "ChIJ7Z9s0ANhQxARqNWb6jI3G58"
+    }
+  },
+  {
+    "id": "58776",
+    "name": "COMMUNITY PRIMARY SCHOOL ENUGU UMUABI",
+    "registration_area_id": "3202",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "14/16/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3202",
+    "ward_name": "UMUABI",
+    "local_government_id": "274",
+    "local_government_name": "UDI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.4447131,
+      "longitude": 7.501360500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.446084829892722,
+          "lng": 7.502679679892723
+        },
+        "southwest": {
+          "lat": 6.443385170107278,
+          "lng": 7.499980020107279
+        }
+      },
+      "formatted_address": "CGV2+VHC, Udi Rd, Achara 400102, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4447131,7.501360500000001",
+      "google_place_id": "ChIJP6Nxzt2jRBARTOGkU3x_zg8"
+    }
+  },
+  {
+    "id": "58777",
+    "name": "CENTRAL SCHOOL UMUABI",
+    "registration_area_id": "3202",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "14/16/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3202",
+    "ward_name": "UMUABI",
+    "local_government_id": "274",
+    "local_government_name": "UDI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.2864927,
+      "longitude": 7.378668900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.287846479892721,
+          "lng": 7.380022579892723
+        },
+        "southwest": {
+          "lat": 6.285146820107277,
+          "lng": 7.377322920107279
+        }
+      },
+      "formatted_address": "79PH+HFV, Umuaga road, 400001, Umuabi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2864927,7.378668900000001",
+      "google_place_id": "ChIJUx-VzmJhQxARXEYMgVzLuUE"
+    }
+  },
+  {
+    "id": "58778",
+    "name": "COMMUNITY PRIMARY SCHOOL ABAUGULU UMUABI",
+    "registration_area_id": "3202",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "14/16/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3202",
+    "ward_name": "UMUABI",
+    "local_government_id": "274",
+    "local_government_name": "UDI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3386907,
+      "longitude": 7.380108,
+      "viewport": {
+        "northeast": {
+          "lat": 6.340133479892722,
+          "lng": 7.381437029892722
+        },
+        "southwest": {
+          "lat": 6.337433820107278,
+          "lng": 7.378737370107278
+        }
+      },
+      "formatted_address": "89QJ+F2H, 401108, Amokwe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3386907,7.380108",
+      "google_place_id": "ChIJGfZBmMZhQxARBzFFFioQ7UU"
+    }
+  },
+  {
+    "id": "58779",
+    "name": "COMMUNITY PRIMARY SCHOOL ABAOZO",
+    "registration_area_id": "3202",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "14/16/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3202",
+    "ward_name": "UMUABI",
+    "local_government_id": "274",
+    "local_government_name": "UDI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.294393599999999,
+      "longitude": 7.388546400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.296046029892723,
+          "lng": 7.389959079892722
+        },
+        "southwest": {
+          "lat": 6.293346370107279,
+          "lng": 7.387259420107278
+        }
+      },
+      "formatted_address": "79VQ+R8G, 401102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.294393599999999,7.388546400000001",
+      "google_place_id": "ChIJbYl6IRlhQxARq8uNDLeewZ0"
+    }
+  },
+  {
+    "id": "58780",
+    "name": "INENWE VILLAGE SQUARE UMABI",
+    "registration_area_id": "3202",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "14/16/04/006",
+    "remark": "NEW PU",
+    "ward_id": "3202",
+    "ward_name": "UMUABI",
+    "local_government_id": "274",
+    "local_government_name": "UDI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.2864927,
+      "longitude": 7.378668900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.2957581,
+          "lng": 7.389380000000001
+        },
+        "southwest": {
+          "lat": 6.256886000000001,
+          "lng": 7.3676349
+        }
+      },
+      "formatted_address": "Umuabi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2864927,7.378668900000001",
+      "google_place_id": "ChIJwz9N8cpmQxARAgQXeK3Zalc"
+    }
+  },
+  {
+    "id": "58781",
+    "name": "CUSTOMARY COURT UMABI",
+    "registration_area_id": "3202",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "14/16/04/007",
+    "remark": "NEW PU",
+    "ward_id": "3202",
+    "ward_name": "UMUABI",
+    "local_government_id": "274",
+    "local_government_name": "UDI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.2864927,
+      "longitude": 7.378668900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.287846479892721,
+          "lng": 7.380022579892723
+        },
+        "southwest": {
+          "lat": 6.285146820107277,
+          "lng": 7.377322920107279
+        }
+      },
+      "formatted_address": "79PH+HFV, Umuaga road, 400001, Umuabi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2864927,7.378668900000001",
+      "google_place_id": "ChIJUx-VzmJhQxARXEYMgVzLuUE"
+    }
+  },
+  {
+    "id": "58782",
+    "name": "OBODO OCHA AMAJI VILLAGE  HALL",
+    "registration_area_id": "3202",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "14/16/04/008",
+    "remark": "NEW PU",
+    "ward_id": "3202",
+    "ward_name": "UMUABI",
+    "local_government_id": "274",
+    "local_government_name": "UDI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": null
+  },
+  {
+    "id": "58783",
+    "name": "OBODO OMASHI VILLAGE SQUARE UMABI",
+    "registration_area_id": "3202",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "14/16/04/009",
+    "remark": "NEW PU",
+    "ward_id": "3202",
+    "ward_name": "UMUABI",
+    "local_government_id": "274",
+    "local_government_name": "UDI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.2864927,
+      "longitude": 7.378668900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.287846479892721,
+          "lng": 7.380022579892723
+        },
+        "southwest": {
+          "lat": 6.285146820107277,
+          "lng": 7.377322920107279
+        }
+      },
+      "formatted_address": "79PH+HFV, Umuaga road, 400001, Umuabi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2864927,7.378668900000001",
+      "google_place_id": "ChIJUx-VzmJhQxARXEYMgVzLuUE"
+    }
+  },
+  {
+    "id": "58784",
+    "name": "UMUANI VILLAGE SQUARE UMABI",
+    "registration_area_id": "3202",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "14/16/04/010",
+    "remark": "NEW PU",
+    "ward_id": "3202",
+    "ward_name": "UMUABI",
+    "local_government_id": "274",
+    "local_government_name": "UDI",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.2864927,
+      "longitude": 7.378668900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.2957581,
+          "lng": 7.389380000000001
+        },
+        "southwest": {
+          "lat": 6.256886000000001,
+          "lng": 7.3676349
+        }
+      },
+      "formatted_address": "Umuabi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2864927,7.378668900000001",
+      "google_place_id": "ChIJwz9N8cpmQxARAgQXeK3Zalc"
+    }
+  }
+]

@@ -1,0 +1,850 @@
+[
+  {
+    "id": "12251",
+    "name": "PRY SCH, IFA ATAI I",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "03/31/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.9792292,
+      "longitude": 7.990997999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.980511329892722,
+          "lng": 7.992281029892723
+        },
+        "southwest": {
+          "lat": 4.977811670107278,
+          "lng": 7.989581370107279
+        }
+      },
+      "formatted_address": "Ifa Atai, Uyo-Oron Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9792292,7.990997999999999",
+      "google_place_id": "ChIJ8UYcwlz3ZxARc4BDldUDU7A"
+    }
+  },
+  {
+    "id": "12252",
+    "name": "PRY SCH, IFA ATAI II",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "03/31/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.9792292,
+      "longitude": 7.990997999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.980511329892722,
+          "lng": 7.992281029892723
+        },
+        "southwest": {
+          "lat": 4.977811670107278,
+          "lng": 7.989581370107279
+        }
+      },
+      "formatted_address": "Ifa Atai, Uyo-Oron Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9792292,7.990997999999999",
+      "google_place_id": "ChIJ8UYcwlz3ZxARc4BDldUDU7A"
+    }
+  },
+  {
+    "id": "12253",
+    "name": "COOP HALL, IFA IKOT IDANG",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "03/31/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.962462599999999,
+      "longitude": 7.9810513,
+      "viewport": {
+        "northeast": {
+          "lat": 4.963802129892722,
+          "lng": 7.982392079892723
+        },
+        "southwest": {
+          "lat": 4.961102470107278,
+          "lng": 7.979692420107279
+        }
+      },
+      "formatted_address": "1 Udosen stret, off ifa Ikot Abia ntuen village hall, road, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.962462599999999,7.9810513",
+      "google_place_id": "ChIJT8j2jVL3ZxARUmaIOJhjVBg"
+    }
+  },
+  {
+    "id": "12254",
+    "name": "VILLAGE SQUARE , IFA IKOT IDANG",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "03/31/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0206399,
+      "longitude": 7.9387279,
+      "viewport": {
+        "northeast": {
+          "lat": 5.022041229892722,
+          "lng": 7.940047729892719
+        },
+        "southwest": {
+          "lat": 5.019341570107278,
+          "lng": 7.937348070107276
+        }
+      },
+      "formatted_address": "2WCQ+6GG, Udo Inyang Close, Ewet Housing Estate 520102, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0206399,7.9387279",
+      "google_place_id": "ChIJZSGTYBVXXRARAbcCUdh3t0M"
+    }
+  },
+  {
+    "id": "12255",
+    "name": "COOP HALL, IFA IKOT AKPAN",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "03/31/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "12256",
+    "name": "PRY SCH, MBAK IKOT EBO",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "03/31/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0218541,
+      "longitude": 7.922816,
+      "viewport": {
+        "northeast": {
+          "lat": 5.023170929892722,
+          "lng": 7.924210929892721
+        },
+        "southwest": {
+          "lat": 5.020471270107278,
+          "lng": 7.921511270107277
+        }
+      },
+      "formatted_address": "107 Aka Rd, 520241, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0218541,7.922816",
+      "google_place_id": "ChIJuejQVp_jZxARd-74tkhz7-4"
+    }
+  },
+  {
+    "id": "12257",
+    "name": "MARKET SQUARE, MBAK AKPAN EKPEYONG",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "03/31/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0254635,
+      "longitude": 7.9622938,
+      "viewport": {
+        "northeast": {
+          "lat": 5.026813329892724,
+          "lng": 7.963643629892722
+        },
+        "southwest": {
+          "lat": 5.02411367010728,
+          "lng": 7.960943970107278
+        }
+      },
+      "formatted_address": "Mbak Rd, 520101, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0254635,7.9622938",
+      "google_place_id": "ChIJ2xrINxxYXRARvo0JUv-UrUA"
+    }
+  },
+  {
+    "id": "12258",
+    "name": "PRY SCH, MBAK IKOT ABASI",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "03/31/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "12259",
+    "name": "PRY SCH, OBOT OBOM",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "03/31/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0013304,
+      "longitude": 7.993774999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.002792729892722,
+          "lng": 7.995152179892722
+        },
+        "southwest": {
+          "lat": 5.000093070107278,
+          "lng": 7.992452520107278
+        }
+      },
+      "formatted_address": "2X2V+GF9, Ifa ikot okpon,Etoi, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0013304,7.993774999999999",
+      "google_place_id": "ChIJFasoMuX3ZxARGFtO90sFyOg"
+    }
+  },
+  {
+    "id": "12260",
+    "name": "PRY SCH, IKOT INYANG IDUNG",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "03/31/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0218541,
+      "longitude": 7.922816,
+      "viewport": {
+        "northeast": {
+          "lat": 5.023170929892722,
+          "lng": 7.924210929892721
+        },
+        "southwest": {
+          "lat": 5.020471270107278,
+          "lng": 7.921511270107277
+        }
+      },
+      "formatted_address": "107 Aka Rd, 520241, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0218541,7.922816",
+      "google_place_id": "ChIJl4rHzzniZxARjHIJmHoSdiE"
+    }
+  },
+  {
+    "id": "12261",
+    "name": "VILLAGE SQUARE, IFA IKOT ABIA NTUEN",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "03/31/05/011",
+    "remark": "EXISTING PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.962462599999999,
+      "longitude": 7.9810513,
+      "viewport": {
+        "northeast": {
+          "lat": 4.963802129892722,
+          "lng": 7.982392079892723
+        },
+        "southwest": {
+          "lat": 4.961102470107278,
+          "lng": 7.979692420107279
+        }
+      },
+      "formatted_address": "1 Udosen stret, off ifa Ikot Abia ntuen village hall, road, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.962462599999999,7.9810513",
+      "google_place_id": "ChIJT8j2jVL3ZxARUmaIOJhjVBg"
+    }
+  },
+  {
+    "id": "12262",
+    "name": "PRY SCH, IFA IKOT OBONG I",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "03/31/05/012",
+    "remark": "EXISTING PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.002558000000001,
+      "longitude": 7.978658,
+      "viewport": {
+        "northeast": {
+          "lat": 5.003764479892721,
+          "lng": 7.980168729892723
+        },
+        "southwest": {
+          "lat": 5.001064820107278,
+          "lng": 7.977469070107279
+        }
+      },
+      "formatted_address": "2X3H+2FF, 520102, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.002558000000001,7.978658",
+      "google_place_id": "ChIJl_h-A6T3ZxARk0HmRwusU_Q"
+    }
+  },
+  {
+    "id": "12263",
+    "name": "PRY SCH, IFA IKOT OBONG II",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "03/31/05/013",
+    "remark": "EXISTING PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.002558000000001,
+      "longitude": 7.978658,
+      "viewport": {
+        "northeast": {
+          "lat": 5.003764479892721,
+          "lng": 7.980168729892723
+        },
+        "southwest": {
+          "lat": 5.001064820107278,
+          "lng": 7.977469070107279
+        }
+      },
+      "formatted_address": "2X3H+2FF, 520102, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.002558000000001,7.978658",
+      "google_place_id": "ChIJl_h-A6T3ZxARk0HmRwusU_Q"
+    }
+  },
+  {
+    "id": "12264",
+    "name": "VILLAGE HALL,IKOT AKPABIO",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "03/31/05/014",
+    "remark": "EXISTING PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0554597,
+      "longitude": 7.877428500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.056805679892722,
+          "lng": 7.878773729892722
+        },
+        "southwest": {
+          "lat": 5.054106020107278,
+          "lng": 7.876074070107278
+        }
+      },
+      "formatted_address": "3V4G+5XM, Ikot Ekpene Rd, 531116, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0554597,7.877428500000001",
+      "google_place_id": "ChIJbW6nzYBWXRAROal-UbQ1GUM"
+    }
+  },
+  {
+    "id": "12265",
+    "name": "VILLAGE HALL, IFA IKOT ABIA MKPO",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "03/31/05/015",
+    "remark": "EXISTING PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.962462599999999,
+      "longitude": 7.9810513,
+      "viewport": {
+        "northeast": {
+          "lat": 4.963802129892722,
+          "lng": 7.982392079892723
+        },
+        "southwest": {
+          "lat": 4.961102470107278,
+          "lng": 7.979692420107279
+        }
+      },
+      "formatted_address": "1 Udosen stret, off ifa Ikot Abia ntuen village hall, road, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.962462599999999,7.9810513",
+      "google_place_id": "ChIJT8j2jVL3ZxARUmaIOJhjVBg"
+    }
+  },
+  {
+    "id": "12266",
+    "name": "VILLAGE HALL, IFA ATAI I",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "03/31/05/016",
+    "remark": "NEW PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.976823,
+      "longitude": 7.9936187,
+      "viewport": {
+        "northeast": {
+          "lat": 4.978132079892721,
+          "lng": 7.994907629892722
+        },
+        "southwest": {
+          "lat": 4.975432420107277,
+          "lng": 7.992207970107278
+        }
+      },
+      "formatted_address": "Ifa Atai, Uyo-Oron Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.976823,7.9936187",
+      "google_place_id": "ChIJ9TrrT4T3ZxAR_bhIyNO45dE"
+    }
+  },
+  {
+    "id": "12267",
+    "name": "IFA ATAI HEALTH CENTRE",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "03/31/05/017",
+    "remark": "NEW PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.025799999999999,
+      "longitude": 7.938400000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.027206729892721,
+          "lng": 7.939797879892724
+        },
+        "southwest": {
+          "lat": 5.024507070107277,
+          "lng": 7.93709822010728
+        }
+      },
+      "formatted_address": "2WGQ+89C, 520103, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.025799999999999,7.938400000000001",
+      "google_place_id": "ChIJiVN2wulXXRARh03ImLb1QeU"
+    }
+  },
+  {
+    "id": "12268",
+    "name": "MARKET SQUARE IFA ATAI ETOI",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "03/31/05/018",
+    "remark": "NEW PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.976823,
+      "longitude": 7.9936187,
+      "viewport": {
+        "northeast": {
+          "lat": 4.978132079892721,
+          "lng": 7.994907629892722
+        },
+        "southwest": {
+          "lat": 4.975432420107277,
+          "lng": 7.992207970107278
+        }
+      },
+      "formatted_address": "Ifa Atai, Uyo-Oron Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.976823,7.9936187",
+      "google_place_id": "ChIJ9TrrT4T3ZxAR_bhIyNO45dE"
+    }
+  },
+  {
+    "id": "12269",
+    "name": "OPEN SPACE NO 14 IFA IKOT OKPON ROAD",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "03/31/05/019",
+    "remark": "NEW PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "12270",
+    "name": "OPEN SPACE, OROK STR, IFA IKOT IDANG",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "03/31/05/020",
+    "remark": "NEW PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.982460199999999,
+      "longitude": 7.9725074,
+      "viewport": {
+        "northeast": {
+          "lat": 4.983847229892722,
+          "lng": 7.973895579892724
+        },
+        "southwest": {
+          "lat": 4.981147570107278,
+          "lng": 7.97119592010728
+        }
+      },
+      "formatted_address": "XXJF+X2, 520102, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.982460199999999,7.9725074",
+      "google_place_id": "ChIJrzaUfe73ZxARHTembzVoiig"
+    }
+  },
+  {
+    "id": "12271",
+    "name": "URUA MBONG, IFA IKOT IDANG",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "03/31/05/021",
+    "remark": "NEW PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "12272",
+    "name": "OPEN SPACE, MARKET SQUARE, IFA IKOT AKPAN",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "03/31/05/022",
+    "remark": "NEW PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "12273",
+    "name": "OPEN SPACE, URUA UKO, MBAK IKOT EBO",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "03/31/05/023",
+    "remark": "NEW PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "12274",
+    "name": "OPEN SPACE, ARAN JUNCTION MBAK IKOT EBO",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "03/31/05/024",
+    "remark": "NEW PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "12275",
+    "name": "OPEN SPACE, IKIM STREET",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "03/31/05/025",
+    "remark": "NEW PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "12276",
+    "name": "OPEN SPACE, IKOT UDO AYAI, MBAK IKOT ABASI",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "03/31/05/026",
+    "remark": "NEW PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "12277",
+    "name": "COMMUNITY SEC. SCH. MBAK ETOI",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "03/31/05/027",
+    "remark": "NEW PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.9864136,
+      "longitude": 7.982161499999998,
+      "viewport": {
+        "northeast": {
+          "lat": 4.987729979892721,
+          "lng": 7.983625179892721
+        },
+        "southwest": {
+          "lat": 4.985030320107278,
+          "lng": 7.980925520107277
+        }
+      },
+      "formatted_address": "XXPJ+HV7, 520102, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9864136,7.982161499999998",
+      "google_place_id": "ChIJg3g6FL73ZxARzGMHUoXwTVg"
+    }
+  },
+  {
+    "id": "12278",
+    "name": "OPEN SPACE BY TRANSFORMER ATAI, OBOT OBON",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "03/31/05/028",
+    "remark": "NEW PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "12279",
+    "name": "OPEN SPACE UFET ITA EDET, IKOT INYANG IDUNG",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "03/31/05/029",
+    "remark": "NEW PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "12280",
+    "name": "OPEN SPACE, AMBROSE IBE SQUARE",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "03/31/05/030",
+    "remark": "NEW PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.000401099999999,
+      "longitude": 8.013793999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.027050399999999,
+          "lng": 8.03516
+        },
+        "southwest": {
+          "lat": 4.968735199999999,
+          "lng": 7.974371499999999
+        }
+      },
+      "formatted_address": "Etoi 11, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.000401099999999,8.013793999999999",
+      "google_place_id": "ChIJE_p3HTP2ZxARPP23ioPn-LQ"
+    }
+  },
+  {
+    "id": "12281",
+    "name": "OPEN SPACE BY MTN MAST, AKPASAK ESTATE, IFA IKOT AKPABIO",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "03/31/05/031",
+    "remark": "NEW PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "12282",
+    "name": "OPEN SPACE BY TRANSFORMER, BASSEY UMOH STR. IFA IKOT NKPO",
+    "registration_area_id": "733",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "03/31/05/032",
+    "remark": "NEW PU",
+    "ward_id": "733",
+    "ward_name": "ETOI 11",
+    "local_government_id": "69",
+    "local_government_name": "UYO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  }
+]

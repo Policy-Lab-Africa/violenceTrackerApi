@@ -1,0 +1,350 @@
+[
+  {
+    "id": "5819",
+    "name": "DUWALA/ DUWALA PRY. SCH.",
+    "registration_area_id": "283",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "02/10/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "283",
+    "ward_name": "K/WURO NGAYANDI",
+    "local_government_id": "27",
+    "local_government_name": "MADAGALI",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.8133681,
+      "longitude": 13.462007,
+      "viewport": {
+        "northeast": {
+          "lat": 10.81490177989272,
+          "lng": 13.46347762989272
+        },
+        "southwest": {
+          "lat": 10.81220212010728,
+          "lng": 13.46077797010728
+        }
+      },
+      "formatted_address": "RF76+8RR, 651110, Gulak, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8133681,13.462007",
+      "google_place_id": "ChIJk5oy5S3MAhERWgLFYtIOqtk"
+    }
+  },
+  {
+    "id": "5820",
+    "name": "ELIYASU/ PHC KOPA",
+    "registration_area_id": "283",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "02/10/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "283",
+    "ward_name": "K/WURO NGAYANDI",
+    "local_government_id": "27",
+    "local_government_name": "MADAGALI",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.8872819,
+      "longitude": 13.6338977,
+      "viewport": {
+        "northeast": {
+          "lat": 10.88847057989272,
+          "lng": 13.63507242989272
+        },
+        "southwest": {
+          "lat": 10.88577092010728,
+          "lng": 13.63237277010728
+        }
+      },
+      "formatted_address": "VJPM+WH6, 651102, Madagali, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8872819,13.6338977",
+      "google_place_id": "ChIJFf41LtgtHRER_QgMA8ouqyw"
+    }
+  },
+  {
+    "id": "5821",
+    "name": "GWAZU/ MARADI PRY. SCH.",
+    "registration_area_id": "283",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "02/10/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "283",
+    "ward_name": "K/WURO NGAYANDI",
+    "local_government_id": "27",
+    "local_government_name": "MADAGALI",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.8444955,
+      "longitude": 13.4816903,
+      "viewport": {
+        "northeast": {
+          "lat": 10.84585242989272,
+          "lng": 13.48304092989272
+        },
+        "southwest": {
+          "lat": 10.84315277010728,
+          "lng": 13.48034127010728
+        }
+      },
+      "formatted_address": "RFVJ+QMW, 651110, Chambula, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8444955,13.4816903",
+      "google_place_id": "ChIJ1yJUyJbNAhERU1ZcDtUti7k"
+    }
+  },
+  {
+    "id": "5822",
+    "name": "KIRCHINGA I/ GDSS KIRCHINGA",
+    "registration_area_id": "283",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "02/10/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "283",
+    "ward_name": "K/WURO NGAYANDI",
+    "local_government_id": "27",
+    "local_government_name": "MADAGALI",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.7370077,
+      "longitude": 13.5688018,
+      "viewport": {
+        "northeast": {
+          "lat": 10.73832267989272,
+          "lng": 13.57014937989272
+        },
+        "southwest": {
+          "lat": 10.73562302010728,
+          "lng": 13.56744972010728
+        }
+      },
+      "formatted_address": "PHP9+RG3, 651112, Damai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7370077,13.5688018",
+      "google_place_id": "ChIJ78mzceg0HRERp2PESukfdhg"
+    }
+  },
+  {
+    "id": "5823",
+    "name": "KIRCHINGA II/ GDSS KIRCHINGA",
+    "registration_area_id": "283",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "02/10/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "283",
+    "ward_name": "K/WURO NGAYANDI",
+    "local_government_id": "27",
+    "local_government_name": "MADAGALI",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "5824",
+    "name": "KO'E/ KOPA CENT. PRY. SCH.",
+    "registration_area_id": "283",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "02/10/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "283",
+    "ward_name": "K/WURO NGAYANDI",
+    "local_government_id": "27",
+    "local_government_name": "MADAGALI",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "5825",
+    "name": "KOPA LADAN/ KOPA PRY. SCH.",
+    "registration_area_id": "283",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "02/10/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "283",
+    "ward_name": "K/WURO NGAYANDI",
+    "local_government_id": "27",
+    "local_government_name": "MADAGALI",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.319409499999999,
+      "longitude": 12.44379,
+      "viewport": {
+        "northeast": {
+          "lat": 9.320700229892722,
+          "lng": 12.44508997989272
+        },
+        "southwest": {
+          "lat": 9.318000570107278,
+          "lng": 12.44239032010728
+        }
+      },
+      "formatted_address": "8C9V+QG7, 652101, Damare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.319409499999999,12.44379",
+      "google_place_id": "ChIJVVVVValq_BARJvoCfTnhgZo"
+    }
+  },
+  {
+    "id": "5826",
+    "name": "KUDA WURO/ WURO NGANYADI PRY. SCH.",
+    "registration_area_id": "283",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "02/10/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "283",
+    "ward_name": "K/WURO NGAYANDI",
+    "local_government_id": "27",
+    "local_government_name": "MADAGALI",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.8790338,
+      "longitude": 13.5559906,
+      "viewport": {
+        "northeast": {
+          "lat": 10.88038157989272,
+          "lng": 13.55733742989272
+        },
+        "southwest": {
+          "lat": 10.87768192010728,
+          "lng": 13.55463777010728
+        }
+      },
+      "formatted_address": "VHH4+J99, along maiduguri road, Madagali, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8790338,13.5559906",
+      "google_place_id": "ChIJ8SQPDW4tHRERdrhkM5ndRZQ"
+    }
+  },
+  {
+    "id": "5827",
+    "name": "MAIGANAMARGI/ AT SHUWARI PRY SCHOOL",
+    "registration_area_id": "283",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "02/10/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "283",
+    "ward_name": "K/WURO NGAYANDI",
+    "local_government_id": "27",
+    "local_government_name": "MADAGALI",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "5828",
+    "name": "NASARAWO/ GADAMAYE PRY. SCH.",
+    "registration_area_id": "283",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "02/10/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "283",
+    "ward_name": "K/WURO NGAYANDI",
+    "local_government_id": "27",
+    "local_government_name": "MADAGALI",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.8361516,
+      "longitude": 13.5569889,
+      "viewport": {
+        "northeast": {
+          "lat": 10.83750477989272,
+          "lng": 13.55835852989272
+        },
+        "southwest": {
+          "lat": 10.83480512010728,
+          "lng": 13.55565887010728
+        }
+      },
+      "formatted_address": "RHP4+FQ9, 651112, Madagali, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8361516,13.5569889",
+      "google_place_id": "ChIJp3gLiscyHRER6NBOUpPPQnc"
+    }
+  },
+  {
+    "id": "5829",
+    "name": "MARADI PRI SCH",
+    "registration_area_id": "283",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "02/10/05/011",
+    "remark": "NEW PU",
+    "ward_id": "283",
+    "ward_name": "K/WURO NGAYANDI",
+    "local_government_id": "27",
+    "local_government_name": "MADAGALI",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.8790338,
+      "longitude": 13.5559906,
+      "viewport": {
+        "northeast": {
+          "lat": 10.88038157989272,
+          "lng": 13.55733742989272
+        },
+        "southwest": {
+          "lat": 10.87768192010728,
+          "lng": 13.55463777010728
+        }
+      },
+      "formatted_address": "VHH4+J99, along maiduguri road, Madagali, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8790338,13.5559906",
+      "google_place_id": "ChIJ8SQPDW4tHRERdrhkM5ndRZQ"
+    }
+  },
+  {
+    "id": "5830",
+    "name": "DUWALA PRI SCH",
+    "registration_area_id": "283",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "02/10/05/012",
+    "remark": "NEW PU",
+    "ward_id": "283",
+    "ward_name": "K/WURO NGAYANDI",
+    "local_government_id": "27",
+    "local_government_name": "MADAGALI",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.8133681,
+      "longitude": 13.462007,
+      "viewport": {
+        "northeast": {
+          "lat": 10.81490177989272,
+          "lng": 13.46347762989272
+        },
+        "southwest": {
+          "lat": 10.81220212010728,
+          "lng": 13.46077797010728
+        }
+      },
+      "formatted_address": "RF76+8RR, 651110, Gulak, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8133681,13.462007",
+      "google_place_id": "ChIJk5oy5S3MAhERWgLFYtIOqtk"
+    }
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "98537",
+    "name": "KAITA A - T.V CENTRE",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/18/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0755668,
+      "longitude": 7.762041199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 13.07692492989272,
+          "lng": 7.763412579892722
+        },
+        "southwest": {
+          "lat": 13.07422527010728,
+          "lng": 7.760712920107278
+        }
+      },
+      "formatted_address": "3QG6+6RF, 820103, Kaita, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0755668,7.762041199999999",
+      "google_place_id": "ChIJhyOKvZQfsBER_POZOpMRD0Y"
+    }
+  },
+  {
+    "id": "98538",
+    "name": "KAITA 'B' - WORKS DEPT.",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/18/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9706998,
+      "longitude": 7.6190802,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97202432989272,
+          "lng": 7.620410779892723
+        },
+        "southwest": {
+          "lat": 12.96932467010728,
+          "lng": 7.61771112010728
+        }
+      },
+      "formatted_address": "Garba Ja Abdulkadir State Secretariat Complex, No. 88 IBB Way, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9706998,7.6190802",
+      "google_place_id": "ChIJ3QblLlYjsBERiqK77YXE8vA"
+    }
+  },
+  {
+    "id": "98539",
+    "name": "KAITA C - KAITA PRI.CSCHOOL",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/18/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9823052,
+      "longitude": 7.607147299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98363282989272,
+          "lng": 7.608503029892722
+        },
+        "southwest": {
+          "lat": 12.98093317010728,
+          "lng": 7.605803370107278
+        }
+      },
+      "formatted_address": "XJJ4+WVC, Unnamed Road, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9823052,7.607147299999999",
+      "google_place_id": "ChIJ53uiC7I8sBERu9jKnBQ4Zcs"
+    }
+  },
+  {
+    "id": "98540",
+    "name": "KAITA D - KAITA PRI.SCHOOL",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/18/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9823052,
+      "longitude": 7.607147299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98363282989272,
+          "lng": 7.608503029892722
+        },
+        "southwest": {
+          "lat": 12.98093317010728,
+          "lng": 7.605803370107278
+        }
+      },
+      "formatted_address": "XJJ4+WVC, Unnamed Road, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9823052,7.607147299999999",
+      "google_place_id": "ChIJ53uiC7I8sBERu9jKnBQ4Zcs"
+    }
+  },
+  {
+    "id": "98541",
+    "name": "KAITA E UNG. MAKERA KAITA",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/18/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.1954564,
+      "longitude": 7.741670300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 13.3326754,
+          "lng": 7.911215100000001
+        },
+        "southwest": {
+          "lat": 13.0184922,
+          "lng": 7.492987599999999
+        }
+      },
+      "formatted_address": "kaita, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.1954564,7.741670300000001",
+      "google_place_id": "ChIJIexk7HQcsBERKCjMhoicJSQ"
+    }
+  },
+  {
+    "id": "98542",
+    "name": "KAITA F - K/GIDAN ALH.KADO",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/18/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.4375656,
+      "longitude": 7.489248300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43891652989272,
+          "lng": 7.490549329892723
+        },
+        "southwest": {
+          "lat": 12.43621687010728,
+          "lng": 7.487849670107279
+        }
+      },
+      "formatted_address": "821101, Dutsin-Ma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4375656,7.489248300000001",
+      "google_place_id": "ChIJB8YigtDGsRERb2cwvJzaT10"
+    }
+  },
+  {
+    "id": "98543",
+    "name": "GANDE GARI 'A' - K/GIDAN MAI UNG",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/18/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.1911,
+      "longitude": 7.7689,
+      "viewport": {
+        "northeast": {
+          "lat": 13.19245117989272,
+          "lng": 7.770262879892721
+        },
+        "southwest": {
+          "lat": 13.18975152010728,
+          "lng": 7.767563220107277
+        }
+      },
+      "formatted_address": "5QR9+CHR, 820103, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.1911,7.7689",
+      "google_place_id": "ChIJUQISKJwdsBERlcewjJE164U"
+    }
+  },
+  {
+    "id": "98544",
+    "name": "GANDE GARI 'B' PRI.SCHOOL",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/18/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9842154,
+      "longitude": 7.604135999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98542927989272,
+          "lng": 7.605382779892722
+        },
+        "southwest": {
+          "lat": 12.98272962010728,
+          "lng": 7.602683120107278
+        }
+      },
+      "formatted_address": "XJM3+MMJ, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9842154,7.604135999999999",
+      "google_place_id": "ChIJYfjVurE8sBERxy8dVa1YaWM"
+    }
+  },
+  {
+    "id": "98545",
+    "name": "GANDE FULANI - AT YARA",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/18/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 27.9456221,
+      "longitude": -82.4583076,
+      "viewport": {
+        "northeast": {
+          "lat": 27.94670187989272,
+          "lng": -82.45683437010727
+        },
+        "southwest": {
+          "lat": 27.94400222010728,
+          "lng": -82.45953402989271
+        }
+      },
+      "formatted_address": "100 N Tampa St, Tampa, FL 33602, United States",
+      "google_map_url": "https://maps.google.com?q=27.9456221,-82.4583076",
+      "google_place_id": "ChIJ6bLm1VfFwogRgUHaNaoeh8A"
+    }
+  },
+  {
+    "id": "98546",
+    "name": "DABAWA GARI - K/GIDAN MAI UNG",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/18/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98547",
+    "name": "GIRMAWA - NEAR GIDAN ALH. BALA",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/18/07/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98548",
+    "name": "DABA 'A - DABA PRI.SCHOOL",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "20/18/07/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.1472081,
+      "longitude": 7.7470601,
+      "viewport": {
+        "northeast": {
+          "lat": 13.14860067989272,
+          "lng": 7.748435829892721
+        },
+        "southwest": {
+          "lat": 13.14590102010728,
+          "lng": 7.745736170107278
+        }
+      },
+      "formatted_address": "Daba A Primary School, 820103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.1472081,7.7470601",
+      "google_place_id": "ChIJifQ1LX8esBER1X4uWE81rJM"
+    }
+  },
+  {
+    "id": "98549",
+    "name": "DABA GARI 'B' - K/GIDAN MAI UNG",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "20/18/07/013",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.1911,
+      "longitude": 7.7689,
+      "viewport": {
+        "northeast": {
+          "lat": 13.19245117989272,
+          "lng": 7.770262879892721
+        },
+        "southwest": {
+          "lat": 13.18975152010728,
+          "lng": 7.767563220107277
+        }
+      },
+      "formatted_address": "5QR9+CHR, 820103, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.1911,7.7689",
+      "google_place_id": "ChIJUQISKJwdsBERlcewjJE164U"
+    }
+  },
+  {
+    "id": "98550",
+    "name": "KWANAR SHAGARI - K/GIDAN MAI. LAWAL",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "20/18/07/014",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.003545,
+      "longitude": 7.582923999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 13.00489717989272,
+          "lng": 7.584209279892724
+        },
+        "southwest": {
+          "lat": 13.00219752010728,
+          "lng": 7.58150962010728
+        }
+      },
+      "formatted_address": "2H3M+C57, Along Gidan Kwakwa Road, Dutsen-Safe Low Coast, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.003545,7.582923999999999",
+      "google_place_id": "ChIJu3FuiDg9sBERQvWZkXn8PBU"
+    }
+  },
+  {
+    "id": "98551",
+    "name": "DOROYI - AT FAGE DOROYI",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "20/18/07/015",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0890054,
+      "longitude": 7.737266099999998,
+      "viewport": {
+        "northeast": {
+          "lat": 13.09030132989272,
+          "lng": 7.739123579892722
+        },
+        "southwest": {
+          "lat": 13.08760167010728,
+          "lng": 7.736423920107278
+        }
+      },
+      "formatted_address": "3PQP+JW2, 820103, Kaita, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0890054,7.737266099999998",
+      "google_place_id": "ChIJdyGedocfsBERlmSDqaQcWWw"
+    }
+  },
+  {
+    "id": "98552",
+    "name": "TSAUNIN AUTA - KOFAR GIDAN AUTA",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "20/18/07/016",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98553",
+    "name": "MODIBAWA 'A' - K/GIDAN MAI UNG",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "20/18/07/017",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.1281597,
+      "longitude": 7.7276671,
+      "viewport": {
+        "northeast": {
+          "lat": 13.12958797989272,
+          "lng": 7.729032579892722
+        },
+        "southwest": {
+          "lat": 13.12688832010728,
+          "lng": 7.726332920107279
+        }
+      },
+      "formatted_address": "Modibawa Primary School, 820103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.1281597,7.7276671",
+      "google_place_id": "ChIJiUoKJJMesBERx4lGfBPUqL0"
+    }
+  },
+  {
+    "id": "98554",
+    "name": "MODIBAWA 'B' - MODIBAWA PRI.SCHOOL",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "20/18/07/018",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.4375656,
+      "longitude": 7.489248300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43891652989272,
+          "lng": 7.490549329892723
+        },
+        "southwest": {
+          "lat": 12.43621687010728,
+          "lng": 7.487849670107279
+        }
+      },
+      "formatted_address": "821101, Dutsin-Ma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4375656,7.489248300000001",
+      "google_place_id": "ChIJB8YigtDGsRERb2cwvJzaT10"
+    }
+  },
+  {
+    "id": "98555",
+    "name": "MODIBAWA 'C' AT BADOLE",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "20/18/07/019",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.1281597,
+      "longitude": 7.7276671,
+      "viewport": {
+        "northeast": {
+          "lat": 13.12958797989272,
+          "lng": 7.729032579892722
+        },
+        "southwest": {
+          "lat": 13.12688832010728,
+          "lng": 7.726332920107279
+        }
+      },
+      "formatted_address": "Modibawa Primary School, 820103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.1281597,7.7276671",
+      "google_place_id": "ChIJiUoKJJMesBERx4lGfBPUqL0"
+    }
+  },
+  {
+    "id": "98556",
+    "name": "KOKAYA / WAILA - AT NEAR KOYA",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "20/18/07/020",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.4375656,
+      "longitude": 7.489248300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43891652989272,
+          "lng": 7.490549329892723
+        },
+        "southwest": {
+          "lat": 12.43621687010728,
+          "lng": 7.487849670107279
+        }
+      },
+      "formatted_address": "821101, Dutsin-Ma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4375656,7.489248300000001",
+      "google_place_id": "ChIJB8YigtDGsRERb2cwvJzaT10"
+    }
+  },
+  {
+    "id": "98557",
+    "name": "KAITA'G' - WORKS DEPT.",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "20/18/07/021",
+    "remark": "EXISTING PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.1756562,
+      "longitude": 7.686013699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 13.1784456,
+          "lng": 7.691287999999999
+        },
+        "southwest": {
+          "lat": 13.1705062,
+          "lng": 7.682318699999999
+        }
+      },
+      "formatted_address": "820103, Kaita, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.1756562,7.686013699999999",
+      "google_place_id": "ChIJ5WIQrZIbsBERR0k-iiGZl7Q"
+    }
+  },
+  {
+    "id": "98558",
+    "name": "TSOHUWAR KOTU KAITA",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "20/18/07/022",
+    "remark": "NEW PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.1954564,
+      "longitude": 7.741670300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 13.3326754,
+          "lng": 7.911215100000001
+        },
+        "southwest": {
+          "lat": 13.0184922,
+          "lng": 7.492987599999999
+        }
+      },
+      "formatted_address": "kaita, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.1954564,7.741670300000001",
+      "google_place_id": "ChIJIexk7HQcsBERKCjMhoicJSQ"
+    }
+  },
+  {
+    "id": "98559",
+    "name": "DISPENSARY",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "20/18/07/023",
+    "remark": "NEW PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0856882,
+      "longitude": 7.7379459,
+      "viewport": {
+        "northeast": {
+          "lat": 13.08700642989272,
+          "lng": 7.739285929892721
+        },
+        "southwest": {
+          "lat": 13.08430677010728,
+          "lng": 7.736586270107277
+        }
+      },
+      "formatted_address": "Bakin kasuwa, Kaita Street, local government, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0856882,7.7379459",
+      "google_place_id": "ChIJi0n4I98fsBERhOylPhGv4m0"
+    }
+  },
+  {
+    "id": "98560",
+    "name": "PILOT PRI. SCH.",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "20/18/07/024",
+    "remark": "NEW PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0136451,
+      "longitude": 7.622961699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 13.01519427989272,
+          "lng": 7.624441079892722
+        },
+        "southwest": {
+          "lat": 13.01249462010728,
+          "lng": 7.621741420107278
+        }
+      },
+      "formatted_address": "2J7F+F54, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0136451,7.622961699999999",
+      "google_place_id": "ChIJe8OwWrMjsBERzAaQj_oR8Jk"
+    }
+  },
+  {
+    "id": "98561",
+    "name": "OLD READING ROOM",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "20/18/07/025",
+    "remark": "NEW PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.4375656,
+      "longitude": 7.489248300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43891652989272,
+          "lng": 7.490549329892723
+        },
+        "southwest": {
+          "lat": 12.43621687010728,
+          "lng": 7.487849670107279
+        }
+      },
+      "formatted_address": "821101, Dutsin-Ma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4375656,7.489248300000001",
+      "google_place_id": "ChIJB8YigtDGsRERb2cwvJzaT10"
+    }
+  },
+  {
+    "id": "98562",
+    "name": "YARAR TUKUR",
+    "registration_area_id": "5017",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "20/18/07/026",
+    "remark": "NEW PU",
+    "ward_id": "5017",
+    "ward_name": "KAITA",
+    "local_government_id": "431",
+    "local_government_name": "KAITA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.4375656,
+      "longitude": 7.489248300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43891652989272,
+          "lng": 7.490549329892723
+        },
+        "southwest": {
+          "lat": 12.43621687010728,
+          "lng": 7.487849670107279
+        }
+      },
+      "formatted_address": "821101, Dutsin-Ma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4375656,7.489248300000001",
+      "google_place_id": "ChIJB8YigtDGsRERb2cwvJzaT10"
+    }
+  }
+]

@@ -1,0 +1,235 @@
+[
+  {
+    "id": "331825",
+    "name": "K/S AKPANAJA OP",
+    "registration_area_id": "16867",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "25/03/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "16867",
+    "ward_name": "AKPANAJA",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "331826",
+    "name": "DAN GALADIMA OP",
+    "registration_area_id": "16867",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "25/03/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "16867",
+    "ward_name": "AKPANAJA",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "331827",
+    "name": "LSB AKPANAJA PB",
+    "registration_area_id": "16867",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "25/03/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "16867",
+    "ward_name": "AKPANAJA",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.5344915,
+      "longitude": 7.701278499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.535957679892723,
+          "lng": 7.702755479892719
+        },
+        "southwest": {
+          "lat": 8.53325802010728,
+          "lng": 7.700055820107275
+        }
+      },
+      "formatted_address": "GPM2+QGR, 962101, Nasarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5344915,7.701278499999999",
+      "google_place_id": "ChIJDcv_gyspThARjvRVthx8g6k"
+    }
+  },
+  {
+    "id": "331828",
+    "name": "APRINGBO OP",
+    "registration_area_id": "16867",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "25/03/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "16867",
+    "ward_name": "AKPANAJA",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "331829",
+    "name": "OCHEPE OP",
+    "registration_area_id": "16867",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "25/03/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "16867",
+    "ward_name": "AKPANAJA",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 7.9197075,
+      "longitude": 8.320575,
+      "viewport": {
+        "northeast": {
+          "lat": 7.921057079892721,
+          "lng": 8.32192907989272
+        },
+        "southwest": {
+          "lat": 7.918357420107277,
+          "lng": 8.319229420107277
+        }
+      },
+      "formatted_address": "950103, Akpetiche, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9197075,8.320575",
+      "google_place_id": "ChIJI86Z4ndlUBARvj_yx1yCB_I"
+    }
+  },
+  {
+    "id": "331830",
+    "name": "OBENDO OP",
+    "registration_area_id": "16867",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "25/03/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "16867",
+    "ward_name": "AKPANAJA",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 7.9197075,
+      "longitude": 8.320575,
+      "viewport": {
+        "northeast": {
+          "lat": 7.921057079892721,
+          "lng": 8.32192907989272
+        },
+        "southwest": {
+          "lat": 7.918357420107277,
+          "lng": 8.319229420107277
+        }
+      },
+      "formatted_address": "950103, Akpetiche, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9197075,8.320575",
+      "google_place_id": "ChIJI86Z4ndlUBARvj_yx1yCB_I"
+    }
+  },
+  {
+    "id": "331831",
+    "name": "OLEGOKPA OP",
+    "registration_area_id": "16867",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "25/03/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "16867",
+    "ward_name": "AKPANAJA",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 7.9197075,
+      "longitude": 8.320575,
+      "viewport": {
+        "northeast": {
+          "lat": 7.921057079892721,
+          "lng": 8.32192907989272
+        },
+        "southwest": {
+          "lat": 7.918357420107277,
+          "lng": 8.319229420107277
+        }
+      },
+      "formatted_address": "950103, Akpetiche, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9197075,8.320575",
+      "google_place_id": "ChIJI86Z4ndlUBARvj_yx1yCB_I"
+    }
+  },
+  {
+    "id": "331832",
+    "name": "GIDAN BASSA AZAYA OP",
+    "registration_area_id": "16867",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "25/03/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "16867",
+    "ward_name": "AKPANAJA",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "331833",
+    "name": "PRI. SCHOOL OLEGOKPA (PB)",
+    "registration_area_id": "16867",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "25/03/05/009",
+    "remark": "NEW PU",
+    "ward_id": "16867",
+    "ward_name": "AKPANAJA",
+    "local_government_id": "528",
+    "local_government_name": "DOMA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.392973099999999,
+      "longitude": 8.36558,
+      "viewport": {
+        "northeast": {
+          "lat": 8.394080629892722,
+          "lng": 8.367154629892722
+        },
+        "southwest": {
+          "lat": 8.391380970107278,
+          "lng": 8.364454970107278
+        }
+      },
+      "formatted_address": "99V8+783, 950103, Doma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.392973099999999,8.36558",
+      "google_place_id": "ChIJvUX3n_RTUBARk3R-uvIg0Lg"
+    }
+  }
+]

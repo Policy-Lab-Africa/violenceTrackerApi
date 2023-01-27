@@ -1,0 +1,851 @@
+[
+  {
+    "id": "23150",
+    "name": "BANGON  TAMA,   PRIMARY SCHOOL",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "05/18/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.053928,
+      "longitude": 9.0646836,
+      "viewport": {
+        "northeast": {
+          "lat": 10.05528857989272,
+          "lng": 9.066036179892722
+        },
+        "southwest": {
+          "lat": 10.05258892010728,
+          "lng": 9.063336520107278
+        }
+      },
+      "formatted_address": "3337+GVV, 740103, Toro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.053928,9.0646836",
+      "google_place_id": "ChIJ0b4iFRJnUxARuq0Z9nhQAi4"
+    }
+  },
+  {
+    "id": "23151",
+    "name": "LAU UNGUWA AREWA  I,   PRIMARY SCHOOL",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "05/18/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0529969,
+      "longitude": 9.0718756,
+      "viewport": {
+        "northeast": {
+          "lat": 10.05438742989272,
+          "lng": 9.073232479892724
+        },
+        "southwest": {
+          "lat": 10.05168777010728,
+          "lng": 9.07053282010728
+        }
+      },
+      "formatted_address": "LGA, near Post office, 740103, Toro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0529969,9.0718756",
+      "google_place_id": "ChIJrVoJqGNnUxAR6zkWuvEhmlY"
+    }
+  },
+  {
+    "id": "23152",
+    "name": "LAU UNGUWA AREWA   II,   PRIMARY SCHOOL",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "05/18/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0529969,
+      "longitude": 9.0718756,
+      "viewport": {
+        "northeast": {
+          "lat": 10.05438742989272,
+          "lng": 9.073232479892724
+        },
+        "southwest": {
+          "lat": 10.05168777010728,
+          "lng": 9.07053282010728
+        }
+      },
+      "formatted_address": "LGA, near Post office, 740103, Toro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0529969,9.0718756",
+      "google_place_id": "ChIJrVoJqGNnUxAR6zkWuvEhmlY"
+    }
+  },
+  {
+    "id": "23153",
+    "name": "BAKARFA,   KOFAR SARKI",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "05/18/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23154",
+    "name": "KURI,   KOFAR SARKI",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "05/18/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23155",
+    "name": "NASARAWA RINJI NOMADIC PRI, SCH",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "05/18/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0573463,
+      "longitude": 9.0727384,
+      "viewport": {
+        "northeast": {
+          "lat": 10.05894072989272,
+          "lng": 9.073790429892721
+        },
+        "southwest": {
+          "lat": 10.05624107010728,
+          "lng": 9.071090770107277
+        }
+      },
+      "formatted_address": "Primary School, 740103, Toro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0573463,9.0727384",
+      "google_place_id": "ChIJnbhho5BmUxARJ2Wb28dM2lM"
+    }
+  },
+  {
+    "id": "23156",
+    "name": "TULU  SOUTH  I,  PRIMARY SCHOOL",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "05/18/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0573463,
+      "longitude": 9.0727384,
+      "viewport": {
+        "northeast": {
+          "lat": 10.05894072989272,
+          "lng": 9.073790429892721
+        },
+        "southwest": {
+          "lat": 10.05624107010728,
+          "lng": 9.071090770107277
+        }
+      },
+      "formatted_address": "Primary School, 740103, Toro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0573463,9.0727384",
+      "google_place_id": "ChIJnbhho5BmUxARJ2Wb28dM2lM"
+    }
+  },
+  {
+    "id": "23157",
+    "name": "TULU  SOUTH  II,  PRIMARY SCHOOL",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "05/18/10/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0573463,
+      "longitude": 9.0727384,
+      "viewport": {
+        "northeast": {
+          "lat": 10.05894072989272,
+          "lng": 9.073790429892721
+        },
+        "southwest": {
+          "lat": 10.05624107010728,
+          "lng": 9.071090770107277
+        }
+      },
+      "formatted_address": "Primary School, 740103, Toro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0573463,9.0727384",
+      "google_place_id": "ChIJnbhho5BmUxARJ2Wb28dM2lM"
+    }
+  },
+  {
+    "id": "23158",
+    "name": "TULU  NORTH ,   DISPENSARY",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "05/18/10/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23159",
+    "name": "TAMA,   DISTRICT HEAD OFFICE",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "05/18/10/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.7156388,
+      "longitude": 8.968701099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.8543517,
+          "lng": 9.122240099999999
+        },
+        "southwest": {
+          "lat": 10.4649311,
+          "lng": 8.7661696
+        }
+      },
+      "formatted_address": "Tama, 740118, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7156388,8.968701099999999",
+      "google_place_id": "ChIJrcInJL2wrBER6PnDFsTz6mI"
+    }
+  },
+  {
+    "id": "23160",
+    "name": "DINGA / TAURA BAKI,   BINYA PRIMARY SCHOOL",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "05/18/10/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23161",
+    "name": "TAURA   BABBA,  KOFAR SARKI",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "05/18/10/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23162",
+    "name": "SIYAYEL,    KOFAR SARKI",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "05/18/10/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0550559,
+      "longitude": 9.072370399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.05635372989272,
+          "lng": 9.073536179892724
+        },
+        "southwest": {
+          "lat": 10.05365407010728,
+          "lng": 9.07083652010728
+        }
+      },
+      "formatted_address": "Near L. G Secretariat, PMB No. 3, 740114, Toro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0550559,9.072370399999999",
+      "google_place_id": "ChIJVVVVVZBmUxAROOaT-qt3Keo"
+    }
+  },
+  {
+    "id": "23163",
+    "name": "GURUNGU,    KOFAR SARKI",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "05/18/10/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23164",
+    "name": "SABON GARIN  TULU I,   PRIMARY SCHOOL",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "05/18/10/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23165",
+    "name": "SABON GARIN  TULU  II,   PRIMARY SCHOOL",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "05/18/10/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23166",
+    "name": "SHIBI,  KOFAR SARKI",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "05/18/10/017",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23167",
+    "name": "ZUNA  I,  KOFAR SARKI",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "05/18/10/018",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23168",
+    "name": "ZUNA  II,  KOFAR SARKI",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "05/18/10/019",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23169",
+    "name": "TARKUNYAN BERI,    KOFAR SARKI",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "05/18/10/020",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0625099,
+      "longitude": 9.084349,
+      "viewport": {
+        "northeast": {
+          "lat": 10.06386037989272,
+          "lng": 9.08571447989272
+        },
+        "southwest": {
+          "lat": 10.06116072010728,
+          "lng": 9.083014820107277
+        }
+      },
+      "formatted_address": "337M+2P5, 740106, Toro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0625099,9.084349",
+      "google_place_id": "ChIJt_Jkrr5mUxAR9N0fG0IjIpU"
+    }
+  },
+  {
+    "id": "23170",
+    "name": "KURU  I, KOFAR SARKI",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "05/18/10/021",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23171",
+    "name": "UNGUWA MAGAJI,    KOFAR SARKI",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "05/18/10/022",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23172",
+    "name": "B /MAI LAMBA,    KOFAR SARKI",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "05/18/10/023",
+    "remark": "EXISTING PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23173",
+    "name": "TAURAN RINJI PRIM SCHOOL",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "05/18/10/024",
+    "remark": "NEW PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.075569,
+      "longitude": 9.0734889,
+      "viewport": {
+        "northeast": {
+          "lat": 10.07692947989272,
+          "lng": 9.074823179892721
+        },
+        "southwest": {
+          "lat": 10.07422982010728,
+          "lng": 9.072123520107278
+        }
+      },
+      "formatted_address": "Ribina Primary School, 740106, Toro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.075569,9.0734889",
+      "google_place_id": "ChIJZfA_rvdnUxARaR0lMIJTu6A"
+    }
+  },
+  {
+    "id": "23174",
+    "name": "GODIYA CLINIC HAYIN KANAWA",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "05/18/10/025",
+    "remark": "NEW PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0556979,
+      "longitude": 9.0417913,
+      "viewport": {
+        "northeast": {
+          "lat": 10.05692372989272,
+          "lng": 9.043175479892723
+        },
+        "southwest": {
+          "lat": 10.05422407010728,
+          "lng": 9.040475820107279
+        }
+      },
+      "formatted_address": "324R+7PF, 740103, Toro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0556979,9.0417913",
+      "google_place_id": "ChIJ4ftZonFmUxARFg71eqVeAdw"
+    }
+  },
+  {
+    "id": "23175",
+    "name": "GOVT DAY SEC SCH, TULU",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "05/18/10/026",
+    "remark": "NEW PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0595437,
+      "longitude": 9.0709783,
+      "viewport": {
+        "northeast": {
+          "lat": 10.06080877989272,
+          "lng": 9.072391379892721
+        },
+        "southwest": {
+          "lat": 10.05810912010728,
+          "lng": 9.069691720107278
+        }
+      },
+      "formatted_address": "Toro Local Government Education Authority, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0595437,9.0709783",
+      "google_place_id": "ChIJsSGX84tnUxARPjuFauEcLOc"
+    }
+  },
+  {
+    "id": "23176",
+    "name": "TULU SOUTH PRIMARY SCHOOL III",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "05/18/10/027",
+    "remark": "NEW PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0573463,
+      "longitude": 9.0727384,
+      "viewport": {
+        "northeast": {
+          "lat": 10.05894072989272,
+          "lng": 9.073790429892721
+        },
+        "southwest": {
+          "lat": 10.05624107010728,
+          "lng": 9.071090770107277
+        }
+      },
+      "formatted_address": "Primary School, 740103, Toro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0573463,9.0727384",
+      "google_place_id": "ChIJnbhho5BmUxARJ2Wb28dM2lM"
+    }
+  },
+  {
+    "id": "23177",
+    "name": "LUBAYYA 'B' PRIM SCHOOL",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "05/18/10/028",
+    "remark": "NEW PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0595898,
+      "longitude": 9.070970599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.06080877989272,
+          "lng": 9.072391379892721
+        },
+        "southwest": {
+          "lat": 10.05810912010728,
+          "lng": 9.069691720107278
+        }
+      },
+      "formatted_address": "After Local Government Secretariat, Toro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0595898,9.070970599999999",
+      "google_place_id": "ChIJnb38K_1nUxARWe_iPseVFrA"
+    }
+  },
+  {
+    "id": "23178",
+    "name": "DOKAN DORE PRIM SCHOOL",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "05/18/10/029",
+    "remark": "NEW PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.053928,
+      "longitude": 9.0646836,
+      "viewport": {
+        "northeast": {
+          "lat": 10.05528857989272,
+          "lng": 9.066036179892722
+        },
+        "southwest": {
+          "lat": 10.05258892010728,
+          "lng": 9.063336520107278
+        }
+      },
+      "formatted_address": "3337+GVV, 740103, Toro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.053928,9.0646836",
+      "google_place_id": "ChIJ0b4iFRJnUxARuq0Z9nhQAi4"
+    }
+  },
+  {
+    "id": "23179",
+    "name": "DINGA PRIMARY SCH",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "05/18/10/030",
+    "remark": "NEW PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.053928,
+      "longitude": 9.0646836,
+      "viewport": {
+        "northeast": {
+          "lat": 10.05528857989272,
+          "lng": 9.066036179892722
+        },
+        "southwest": {
+          "lat": 10.05258892010728,
+          "lng": 9.063336520107278
+        }
+      },
+      "formatted_address": "3337+GVV, 740103, Toro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.053928,9.0646836",
+      "google_place_id": "ChIJ0b4iFRJnUxARuq0Z9nhQAi4"
+    }
+  },
+  {
+    "id": "23180",
+    "name": "YAGO BOREHOLE TAURAN BABBA",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "05/18/10/031",
+    "remark": "NEW PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23181",
+    "name": "ANG. SULE PRI SCH",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "05/18/10/032",
+    "remark": "NEW PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0595437,
+      "longitude": 9.0709783,
+      "viewport": {
+        "northeast": {
+          "lat": 10.06080877989272,
+          "lng": 9.072391379892721
+        },
+        "southwest": {
+          "lat": 10.05810912010728,
+          "lng": 9.069691720107278
+        }
+      },
+      "formatted_address": "335C+R9Q, 740103, Toro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0595437,9.0709783",
+      "google_place_id": "ChIJJ7aUtTlnUxARuT_amRnsiKo"
+    }
+  },
+  {
+    "id": "23182",
+    "name": "DOKAN AUWALU PRIM SCH",
+    "registration_area_id": "1255",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "05/18/10/033",
+    "remark": "NEW PU",
+    "ward_id": "1255",
+    "ward_name": "TAMA",
+    "local_government_id": "108",
+    "local_government_name": "TORO",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0573463,
+      "longitude": 9.0727384,
+      "viewport": {
+        "northeast": {
+          "lat": 10.05894072989272,
+          "lng": 9.073790429892721
+        },
+        "southwest": {
+          "lat": 10.05624107010728,
+          "lng": 9.071090770107277
+        }
+      },
+      "formatted_address": "Primary School, 740103, Toro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0573463,9.0727384",
+      "google_place_id": "ChIJnbhho5BmUxARJ2Wb28dM2lM"
+    }
+  }
+]

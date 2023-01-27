@@ -1,0 +1,779 @@
+[
+  {
+    "id": "68866",
+    "name": "Z/NAGOGO PRI. SCH/ZANDAM NAGOGO I",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "17/11/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3276932,
+      "longitude": 9.8494493,
+      "viewport": {
+        "northeast": {
+          "lat": 11.32908147989272,
+          "lng": 9.850779279892722
+        },
+        "southwest": {
+          "lat": 11.32638182010728,
+          "lng": 9.848079620107278
+        }
+      },
+      "formatted_address": "8RHX+3QP, Kano-Kari Rd, 721102, Kila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3276932,9.8494493",
+      "google_place_id": "ChIJBUQKnQStqxER0-edz0Zgx5M"
+    }
+  },
+  {
+    "id": "68867",
+    "name": "Z/NAGOGO PRI. SCH/ZANDAM NAGOGO II",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "17/11/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3276932,
+      "longitude": 9.8494493,
+      "viewport": {
+        "northeast": {
+          "lat": 11.32908147989272,
+          "lng": 9.850779279892722
+        },
+        "southwest": {
+          "lat": 11.32638182010728,
+          "lng": 9.848079620107278
+        }
+      },
+      "formatted_address": "8RHX+3QP, Kano-Kari Rd, 721102, Kila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3276932,9.8494493",
+      "google_place_id": "ChIJBUQKnQStqxER0-edz0Zgx5M"
+    }
+  },
+  {
+    "id": "68868",
+    "name": "TSANGAYA YAMMA/S/GWARAM YAMMA",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "17/11/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3276932,
+      "longitude": 9.8494493,
+      "viewport": {
+        "northeast": {
+          "lat": 11.32908147989272,
+          "lng": 9.850779279892722
+        },
+        "southwest": {
+          "lat": 11.32638182010728,
+          "lng": 9.848079620107278
+        }
+      },
+      "formatted_address": "8RHX+3QP, Kano-Kari Rd, 721102, Kila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3276932,9.8494493",
+      "google_place_id": "ChIJBUQKnQStqxER0-edz0Zgx5M"
+    }
+  },
+  {
+    "id": "68869",
+    "name": "TSANGAYA  GABAS/ TSANGAYA  GABAS",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "17/11/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3496267,
+      "longitude": 9.8867567,
+      "viewport": {
+        "northeast": {
+          "lat": 11.35109157989272,
+          "lng": 9.888061779892722
+        },
+        "southwest": {
+          "lat": 11.34839192010728,
+          "lng": 9.885362120107278
+        }
+      },
+      "formatted_address": "Kano Rd, 721102, Zandan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3496267,9.8867567",
+      "google_place_id": "ChIJ_4XYrQ-tqxERXBgghhsasRs"
+    }
+  },
+  {
+    "id": "68870",
+    "name": "KUKA MAINONO/KUKA MAINONO",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "17/11/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68871",
+    "name": "SABUWAR GWARAM/SABUWAR GWARAM  I",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "17/11/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3262201,
+      "longitude": 9.8517762,
+      "viewport": {
+        "northeast": {
+          "lat": 11.32759572989272,
+          "lng": 9.853162229892723
+        },
+        "southwest": {
+          "lat": 11.32489607010728,
+          "lng": 9.850462570107279
+        }
+      },
+      "formatted_address": "local government, 721102, Gwaram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3262201,9.8517762",
+      "google_place_id": "ChIJA4f3DrKtqxERwk0c2GUUsSY"
+    }
+  },
+  {
+    "id": "68872",
+    "name": "SABUWAR GWARAM/SABUWAR GWARAM  II",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "17/11/11/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3262201,
+      "longitude": 9.8517762,
+      "viewport": {
+        "northeast": {
+          "lat": 11.32759572989272,
+          "lng": 9.853162229892723
+        },
+        "southwest": {
+          "lat": 11.32489607010728,
+          "lng": 9.850462570107279
+        }
+      },
+      "formatted_address": "local government, 721102, Gwaram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3262201,9.8517762",
+      "google_place_id": "ChIJA4f3DrKtqxERwk0c2GUUsSY"
+    }
+  },
+  {
+    "id": "68873",
+    "name": "KOFAR MAIUNGUWA/YELWA",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "17/11/11/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.329791,
+      "longitude": 9.8962279,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3814422,
+          "lng": 9.9985357
+        },
+        "southwest": {
+          "lat": 11.2260082,
+          "lng": 9.8042913
+        }
+      },
+      "formatted_address": "Zandam Nagogo, 721102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.329791,9.8962279",
+      "google_place_id": "ChIJHWLj0dKsqxERMHfO23un1-k"
+    }
+  },
+  {
+    "id": "68874",
+    "name": "KOFAR MAIUNGUWA/RIGAR MAMA",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "17/11/11/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68875",
+    "name": "KOFAR FADA/KOFAR FADA",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "17/11/11/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.667101,
+      "longitude": 9.9302555,
+      "viewport": {
+        "northeast": {
+          "lat": 11.66841987989272,
+          "lng": 9.93160002989272
+        },
+        "southwest": {
+          "lat": 11.66572022010728,
+          "lng": 9.928900370107277
+        }
+      },
+      "formatted_address": "751110, Jamaare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.667101,9.9302555",
+      "google_place_id": "ChIJ0QGDl9IzqhERzLEQLtmmKnM"
+    }
+  },
+  {
+    "id": "68876",
+    "name": "BABBAN KAFI/BABBAN KAFI",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "17/11/11/011",
+    "remark": "EXISTING PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68877",
+    "name": "MAKWALLA/MAKWALLA  I",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "17/11/11/012",
+    "remark": "EXISTING PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.2788975,
+      "longitude": 9.8836568,
+      "viewport": {
+        "northeast": {
+          "lat": 11.28024302989272,
+          "lng": 9.885075029892722
+        },
+        "southwest": {
+          "lat": 11.27754337010728,
+          "lng": 9.882375370107278
+        }
+      },
+      "formatted_address": "7VHM+HF3 Unguwar Makwalla Matsango, 721102, Gwaram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2788975,9.8836568",
+      "google_place_id": "ChIJNQpQBK2tqxERmcf7eRtB8D0"
+    }
+  },
+  {
+    "id": "68878",
+    "name": "MAKWALLA/MAKWALLA  II",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "17/11/11/013",
+    "remark": "EXISTING PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.2788975,
+      "longitude": 9.8836568,
+      "viewport": {
+        "northeast": {
+          "lat": 11.28024302989272,
+          "lng": 9.885075029892722
+        },
+        "southwest": {
+          "lat": 11.27754337010728,
+          "lng": 9.882375370107278
+        }
+      },
+      "formatted_address": "7VHM+HF3 Unguwar Makwalla Matsango, 721102, Gwaram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2788975,9.8836568",
+      "google_place_id": "ChIJNQpQBK2tqxERmcf7eRtB8D0"
+    }
+  },
+  {
+    "id": "68879",
+    "name": "KOFAR MAIUNGUWA/KUNDU WAJE",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "17/11/11/014",
+    "remark": "EXISTING PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3276932,
+      "longitude": 9.8494493,
+      "viewport": {
+        "northeast": {
+          "lat": 11.32908147989272,
+          "lng": 9.850779279892722
+        },
+        "southwest": {
+          "lat": 11.32638182010728,
+          "lng": 9.848079620107278
+        }
+      },
+      "formatted_address": "8RHX+3QP, Kano-Kari Rd, 721102, Kila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3276932,9.8494493",
+      "google_place_id": "ChIJBUQKnQStqxER0-edz0Zgx5M"
+    }
+  },
+  {
+    "id": "68880",
+    "name": "TSANGAYA/TSANGAYA Z/GABAS",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "17/11/11/015",
+    "remark": "EXISTING PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3276932,
+      "longitude": 9.8494493,
+      "viewport": {
+        "northeast": {
+          "lat": 11.32908147989272,
+          "lng": 9.850779279892722
+        },
+        "southwest": {
+          "lat": 11.32638182010728,
+          "lng": 9.848079620107278
+        }
+      },
+      "formatted_address": "8RHX+3QP, Kano-Kari Rd, 721102, Kila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3276932,9.8494493",
+      "google_place_id": "ChIJBUQKnQStqxER0-edz0Zgx5M"
+    }
+  },
+  {
+    "id": "68881",
+    "name": "MALAJI PRI. SCH./MALAJI GABAS",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "17/11/11/016",
+    "remark": "EXISTING PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3332,
+      "longitude": 9.859673299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.33452242989272,
+          "lng": 9.86098802989272
+        },
+        "southwest": {
+          "lat": 11.33182277010728,
+          "lng": 9.858288370107276
+        }
+      },
+      "formatted_address": "8VM5+7WV, Sabuwar, Gwaram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3332,9.859673299999999",
+      "google_place_id": "ChIJMcreVLytqxERSp46B1yBhbA"
+    }
+  },
+  {
+    "id": "68882",
+    "name": "MALAJI PRI. SCH./MALAJI  YAMMA",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "17/11/11/017",
+    "remark": "EXISTING PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3332,
+      "longitude": 9.859673299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.33452242989272,
+          "lng": 9.86098802989272
+        },
+        "southwest": {
+          "lat": 11.33182277010728,
+          "lng": 9.858288370107276
+        }
+      },
+      "formatted_address": "8VM5+7WV, Sabuwar, Gwaram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3332,9.859673299999999",
+      "google_place_id": "ChIJMcreVLytqxERSp46B1yBhbA"
+    }
+  },
+  {
+    "id": "68883",
+    "name": "SALMANDE/SALMANDE",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "17/11/11/018",
+    "remark": "EXISTING PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.329791,
+      "longitude": 9.8962279,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3814422,
+          "lng": 9.9985357
+        },
+        "southwest": {
+          "lat": 11.2260082,
+          "lng": 9.8042913
+        }
+      },
+      "formatted_address": "Zandam Nagogo, 721102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.329791,9.8962279",
+      "google_place_id": "ChIJHWLj0dKsqxERMHfO23un1-k"
+    }
+  },
+  {
+    "id": "68884",
+    "name": "KOFAR MAIUNGUWA/GUDUMA",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "17/11/11/019",
+    "remark": "EXISTING PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.329791,
+      "longitude": 9.8962279,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3814422,
+          "lng": 9.9985357
+        },
+        "southwest": {
+          "lat": 11.2260082,
+          "lng": 9.8042913
+        }
+      },
+      "formatted_address": "Zandam Nagogo, 721102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.329791,9.8962279",
+      "google_place_id": "ChIJHWLj0dKsqxERMHfO23un1-k"
+    }
+  },
+  {
+    "id": "68885",
+    "name": "KOFAR MAIUNGUWA GUDUMA",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "17/11/11/020",
+    "remark": "EXISTING PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.329791,
+      "longitude": 9.8962279,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3814422,
+          "lng": 9.9985357
+        },
+        "southwest": {
+          "lat": 11.2260082,
+          "lng": 9.8042913
+        }
+      },
+      "formatted_address": "Zandam Nagogo, 721102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.329791,9.8962279",
+      "google_place_id": "ChIJHWLj0dKsqxERMHfO23un1-k"
+    }
+  },
+  {
+    "id": "68886",
+    "name": "ZANDAN NAGOGO PRI. SCH. GABAS II",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "17/11/11/021",
+    "remark": "NEW PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3276932,
+      "longitude": 9.8494493,
+      "viewport": {
+        "northeast": {
+          "lat": 11.32908147989272,
+          "lng": 9.850779279892722
+        },
+        "southwest": {
+          "lat": 11.32638182010728,
+          "lng": 9.848079620107278
+        }
+      },
+      "formatted_address": "8RHX+3QP, Kano-Kari Rd, 721102, Kila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3276932,9.8494493",
+      "google_place_id": "ChIJBUQKnQStqxER0-edz0Zgx5M"
+    }
+  },
+  {
+    "id": "68887",
+    "name": "ZANDAN NAGOGO PRI. SCH. YAMMA III",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "17/11/11/022",
+    "remark": "NEW PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3276932,
+      "longitude": 9.8494493,
+      "viewport": {
+        "northeast": {
+          "lat": 11.32908147989272,
+          "lng": 9.850779279892722
+        },
+        "southwest": {
+          "lat": 11.32638182010728,
+          "lng": 9.848079620107278
+        }
+      },
+      "formatted_address": "8RHX+3QP, Kano-Kari Rd, 721102, Kila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3276932,9.8494493",
+      "google_place_id": "ChIJBUQKnQStqxER0-edz0Zgx5M"
+    }
+  },
+  {
+    "id": "68888",
+    "name": "TSANGAYA YAMMA S/GWARAM KOFAR DAGACHI II",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "17/11/11/023",
+    "remark": "NEW PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3276932,
+      "longitude": 9.8494493,
+      "viewport": {
+        "northeast": {
+          "lat": 11.32908147989272,
+          "lng": 9.850779279892722
+        },
+        "southwest": {
+          "lat": 11.32638182010728,
+          "lng": 9.848079620107278
+        }
+      },
+      "formatted_address": "8RHX+3QP, Kano-Kari Rd, 721102, Kila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3276932,9.8494493",
+      "google_place_id": "ChIJBUQKnQStqxER0-edz0Zgx5M"
+    }
+  },
+  {
+    "id": "68889",
+    "name": "SABUWAR GWARAM PRI. SCH. III",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "17/11/11/024",
+    "remark": "NEW PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3238059,
+      "longitude": 9.852343600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.32510967989272,
+          "lng": 9.853711179892723
+        },
+        "southwest": {
+          "lat": 11.32241002010728,
+          "lng": 9.85101152010728
+        }
+      },
+      "formatted_address": "8VF2+GWG, Close to Government Day Junior Arabic Sabuwar, Gwaram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3238059,9.852343600000001",
+      "google_place_id": "ChIJVVDTzSGtqxERTigRVd8ZeZs"
+    }
+  },
+  {
+    "id": "68890",
+    "name": "KOFAR FADA II",
+    "registration_area_id": "3773",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "17/11/11/025",
+    "remark": "NEW PU",
+    "ward_id": "3773",
+    "ward_name": "ZANDAN NAGOGO",
+    "local_government_id": "330",
+    "local_government_name": "GWARAM",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3276932,
+      "longitude": 9.8494493,
+      "viewport": {
+        "northeast": {
+          "lat": 11.32908147989272,
+          "lng": 9.850779279892722
+        },
+        "southwest": {
+          "lat": 11.32638182010728,
+          "lng": 9.848079620107278
+        }
+      },
+      "formatted_address": "8RHX+3QP, Kano-Kari Rd, 721102, Kila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3276932,9.8494493",
+      "google_place_id": "ChIJBUQKnQStqxER0-edz0Zgx5M"
+    }
+  }
+]

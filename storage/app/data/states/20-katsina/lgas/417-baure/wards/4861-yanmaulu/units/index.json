@@ -1,0 +1,536 @@
+[
+  {
+    "id": "95723",
+    "name": "DANGARBA/KOFAR MAIGARI",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/04/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95724",
+    "name": "UNG.TURAKI/PRIMARY SCHOOL",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/04/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.6685816,
+      "longitude": 10.1942538,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67011407989272,
+          "lng": 10.19555332989272
+        },
+        "southwest": {
+          "lat": 11.66741442010728,
+          "lng": 10.19285367010728
+        }
+      },
+      "formatted_address": "M59V+CP2, Odoji Azare 751101, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6685816,10.1942538",
+      "google_place_id": "ChIJXbKXcEk9qhERBMlhH2ymCCs"
+    }
+  },
+  {
+    "id": "95725",
+    "name": "HARUNA BABBA/PRIMARY SCHOOL",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/04/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7075589,
+      "longitude": 8.8687576,
+      "viewport": {
+        "northeast": {
+          "lat": 12.70890987989272,
+          "lng": 8.87014362989272
+        },
+        "southwest": {
+          "lat": 12.70621022010728,
+          "lng": 8.867443970107276
+        }
+      },
+      "formatted_address": "Haruna Babba Primary School, 824105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7075589,8.8687576",
+      "google_place_id": "ChIJPZpCDrIhrxERmZDr5IgU5F4"
+    }
+  },
+  {
+    "id": "95726",
+    "name": "KWASHI/PRIMARY SCHOOL",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/04/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7791184,
+      "longitude": 9.014322800000002,
+      "viewport": {
+        "northeast": {
+          "lat": 12.78027082989272,
+          "lng": 9.015690179892722
+        },
+        "southwest": {
+          "lat": 12.77757117010728,
+          "lng": 9.012990520107278
+        }
+      },
+      "formatted_address": "Q2H7+JPW, 732104, Babura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7791184,9.014322800000002",
+      "google_place_id": "ChIJcXklPXgvrxEREpJhzmDFbdU"
+    }
+  },
+  {
+    "id": "95727",
+    "name": "KOLORI/PRIMARY SCHOOL",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/04/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.733744,
+      "longitude": 8.9348406,
+      "viewport": {
+        "northeast": {
+          "lat": 12.73512462989272,
+          "lng": 8.936207829892721
+        },
+        "southwest": {
+          "lat": 12.73242497010728,
+          "lng": 8.933508170107277
+        }
+      },
+      "formatted_address": "Kolori Primary School, 824105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.733744,8.9348406",
+      "google_place_id": "ChIJcdzmEbAmrxERg31Qr4zvlqc"
+    }
+  },
+  {
+    "id": "95728",
+    "name": "KUMBI/KOFAR MAIGARI",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/04/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95729",
+    "name": "MAITSAIDAU/KOFAR MAIGARI",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/04/01/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95730",
+    "name": "DOLE/PRIMARY SCHOOL",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/04/01/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7588823,
+      "longitude": 8.8862451,
+      "viewport": {
+        "northeast": {
+          "lat": 12.76018927989272,
+          "lng": 8.88760977989272
+        },
+        "southwest": {
+          "lat": 12.75748962010728,
+          "lng": 8.884910120107277
+        }
+      },
+      "formatted_address": "QV5P+HF5, 824105, Yan Molo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7588823,8.8862451",
+      "google_place_id": "ChIJ1Y4o_NEjrxERfq4IW-85boU"
+    }
+  },
+  {
+    "id": "95731",
+    "name": "BAGENA/KOFAR MAIGARI",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/04/01/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95732",
+    "name": "MADATTA/KOFAR MAIGARI",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/04/01/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95733",
+    "name": "MANTAU/KOFAR MAIGARI",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/04/01/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95734",
+    "name": "DAGARA/KOFAR MAIGARI",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "20/04/01/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95735",
+    "name": "DANKWAITA/KOFAR MAIGARI",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "20/04/01/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95736",
+    "name": "LALLU/PRIMARY SCHOOL",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "20/04/01/014",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.754967,
+      "longitude": 8.919027,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75633192989272,
+          "lng": 8.920414729892721
+        },
+        "southwest": {
+          "lat": 12.75363227010728,
+          "lng": 8.917715070107278
+        }
+      },
+      "formatted_address": "QW39+XJJ, 824105, Yan Molo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.754967,8.919027",
+      "google_place_id": "ChIJE2AmfvkjrxERwtHnotlr1Lo"
+    }
+  },
+  {
+    "id": "95737",
+    "name": "UNGUWAR FARI/ADULT EDUCATION OFFICE",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "20/04/01/015",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.4380947,
+      "longitude": 7.4897894,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43945007989272,
+          "lng": 7.491139979892722
+        },
+        "southwest": {
+          "lat": 12.43675042010728,
+          "lng": 7.488440320107278
+        }
+      },
+      "formatted_address": "CFQQ+6WM, 821101, Dutsin-Ma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4380947,7.4897894",
+      "google_place_id": "ChIJ0y2ThtrGsRER7ZYU2J_GHXY"
+    }
+  },
+  {
+    "id": "95738",
+    "name": "KYARAS/PRIMARY SCHOOL",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "20/04/01/016",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7911262,
+      "longitude": 8.8804786,
+      "viewport": {
+        "northeast": {
+          "lat": 12.79241512989272,
+          "lng": 8.881803329892723
+        },
+        "southwest": {
+          "lat": 12.78971547010728,
+          "lng": 8.879103670107279
+        }
+      },
+      "formatted_address": "Kyaras Primary School, 824105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7911262,8.8804786",
+      "google_place_id": "ChIJ9exb06ojrxERbWF0Kuoa8k0"
+    }
+  },
+  {
+    "id": "95739",
+    "name": "BORO/KOFAR MAIGARI",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "20/04/01/017",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95740",
+    "name": "HARUNA TA KORAU/KOFAR MAIGARI",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "20/04/01/018",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95741",
+    "name": "YANMAULU BALA/KOFAR MAIGARI",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "20/04/01/019",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95742",
+    "name": "YANMAULU MAGAJI/T.V VIEWING CENTRE",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "20/04/01/020",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95743",
+    "name": "KUMBI FULANI/KOFAR HARDO",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "20/04/01/021",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9771627,
+      "longitude": 7.638197799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97805492989272,
+          "lng": 7.63987762989272
+        },
+        "southwest": {
+          "lat": 12.97535527010728,
+          "lng": 7.637177970107277
+        }
+      },
+      "formatted_address": "XJGQ+V78, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9771627,7.638197799999999",
+      "google_place_id": "ChIJEcs1mGYjsBERLlylGjIVr-M"
+    }
+  },
+  {
+    "id": "95744",
+    "name": "YANMAULU MAMMAN/DISPENSARY",
+    "registration_area_id": "4861",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "20/04/01/022",
+    "remark": "EXISTING PU",
+    "ward_id": "4861",
+    "ward_name": "YANMAULU",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.8047748,
+      "longitude": 7.621322200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80612497989272,
+          "lng": 7.622552979892722
+        },
+        "southwest": {
+          "lat": 11.80342532010728,
+          "lng": 7.619853320107278
+        }
+      },
+      "formatted_address": "RJ3C+WG4, yashe Road, Malumfashi, Funtua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8047748,7.621322200000001",
+      "google_place_id": "ChIJa4SgsEgFshERIU78nASRecU"
+    }
+  }
+]

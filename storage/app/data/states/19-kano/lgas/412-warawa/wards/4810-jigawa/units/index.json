@@ -1,0 +1,267 @@
+[
+  {
+    "id": "94765",
+    "name": "GADDIMA",
+    "registration_area_id": "4810",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/43/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4810",
+    "ward_name": "JIGAWA",
+    "local_government_id": "412",
+    "local_government_name": "WARAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8820771,
+      "longitude": 8.8332797,
+      "viewport": {
+        "northeast": {
+          "lat": 11.88342632989272,
+          "lng": 8.834618979892722
+        },
+        "southwest": {
+          "lat": 11.88072667010728,
+          "lng": 8.831919320107279
+        }
+      },
+      "formatted_address": "7F3CVRJM+R7G Gaddima Imawa Kano Gogel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8820771,8.8332797",
+      "google_place_id": "ChIJ0T0Tj5chrBEREFR_Sg56_PU"
+    }
+  },
+  {
+    "id": "94766",
+    "name": "JIGAWA I",
+    "registration_area_id": "4810",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/43/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4810",
+    "ward_name": "JIGAWA",
+    "local_government_id": "412",
+    "local_government_name": "WARAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8984364,
+      "longitude": 8.8473024,
+      "viewport": {
+        "northeast": {
+          "lat": 11.9272245,
+          "lng": 8.872259399999999
+        },
+        "southwest": {
+          "lat": 11.863712,
+          "lng": 8.8244519
+        }
+      },
+      "formatted_address": "Jigawa, 713105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8984364,8.8473024",
+      "google_place_id": "ChIJnwfMIJsfrBEREsaO4mdMqVk"
+    }
+  },
+  {
+    "id": "94767",
+    "name": "JIGAWA II",
+    "registration_area_id": "4810",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/43/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4810",
+    "ward_name": "JIGAWA",
+    "local_government_id": "412",
+    "local_government_name": "WARAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8984364,
+      "longitude": 8.8473024,
+      "viewport": {
+        "northeast": {
+          "lat": 11.9272245,
+          "lng": 8.872259399999999
+        },
+        "southwest": {
+          "lat": 11.863712,
+          "lng": 8.8244519
+        }
+      },
+      "formatted_address": "Jigawa, 713105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8984364,8.8473024",
+      "google_place_id": "ChIJnwfMIJsfrBEREsaO4mdMqVk"
+    }
+  },
+  {
+    "id": "94768",
+    "name": "LITAU/GANJIKAR",
+    "registration_area_id": "4810",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/43/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4810",
+    "ward_name": "JIGAWA",
+    "local_government_id": "412",
+    "local_government_name": "WARAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "94769",
+    "name": "MAJAWA",
+    "registration_area_id": "4810",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/43/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4810",
+    "ward_name": "JIGAWA",
+    "local_government_id": "412",
+    "local_government_name": "WARAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9036925,
+      "longitude": 8.8455557,
+      "viewport": {
+        "northeast": {
+          "lat": 11.90505347989272,
+          "lng": 8.84688557989272
+        },
+        "southwest": {
+          "lat": 11.90235382010728,
+          "lng": 8.844185920107277
+        }
+      },
+      "formatted_address": "7F3CWR3W+F64 Majawa Jigawa Kano Gogel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9036925,8.8455557",
+      "google_place_id": "ChIJ5ayoyvYfrBEReF864Ks1ZtQ"
+    }
+  },
+  {
+    "id": "94770",
+    "name": "MARAYA NAIRA",
+    "registration_area_id": "4810",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/43/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4810",
+    "ward_name": "JIGAWA",
+    "local_government_id": "412",
+    "local_government_name": "WARAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.989529,
+      "longitude": 8.552874599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0004917,
+          "lng": 8.5647058
+        },
+        "southwest": {
+          "lat": 11.9797535,
+          "lng": 8.5371806
+        }
+      },
+      "formatted_address": "Nassarawa, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.989529,8.552874599999999",
+      "google_place_id": "ChIJ3fX32nSBrhERFhShf03QNNo"
+    }
+  },
+  {
+    "id": "94771",
+    "name": "TOKEN",
+    "registration_area_id": "4810",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/43/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4810",
+    "ward_name": "JIGAWA",
+    "local_government_id": "412",
+    "local_government_name": "WARAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.888083,
+      "longitude": 8.8397212,
+      "viewport": {
+        "northeast": {
+          "lat": 11.892846,
+          "lng": 8.843546
+        },
+        "southwest": {
+          "lat": 11.885202,
+          "lng": 8.8368799
+        }
+      },
+      "formatted_address": "713105, Token, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.888083,8.8397212",
+      "google_place_id": "ChIJ45DzvoEfrBER7gvtmpdA-T0"
+    }
+  },
+  {
+    "id": "94772",
+    "name": "AMANA CITY ISLAMIYYA",
+    "registration_area_id": "4810",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/43/07/008",
+    "remark": "NEW PU",
+    "ward_id": "4810",
+    "ward_name": "JIGAWA",
+    "local_government_id": "412",
+    "local_government_name": "WARAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0055001,
+      "longitude": 8.5922825,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00685592989272,
+          "lng": 8.593664929892723
+        },
+        "southwest": {
+          "lat": 12.00415627010728,
+          "lng": 8.59096527010728
+        }
+      },
+      "formatted_address": "2H4R+6W3, Islamiyya Road, Kawo 700213, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0055001,8.5922825",
+      "google_place_id": "ChIJGWkiWcCDrhERRiUHYcE9Qu8"
+    }
+  },
+  {
+    "id": "94773",
+    "name": "LARABAR GADAR SARKI ISLAMIYYA",
+    "registration_area_id": "4810",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/43/07/009",
+    "remark": "NEW PU",
+    "ward_id": "4810",
+    "ward_name": "JIGAWA",
+    "local_government_id": "412",
+    "local_government_name": "WARAWA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  }
+]

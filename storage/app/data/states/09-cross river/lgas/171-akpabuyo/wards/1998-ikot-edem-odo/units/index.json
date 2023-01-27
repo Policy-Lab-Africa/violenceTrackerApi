@@ -1,0 +1,368 @@
+[
+  {
+    "id": "36417",
+    "name": "PLAYGROUND, IKOT EKONG",
+    "registration_area_id": "1998",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "09/03/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1998",
+    "ward_name": "IKOT EDEM ODO",
+    "local_government_id": "171",
+    "local_government_name": "AKPABUYO",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "36418",
+    "name": "PRIMARY SCHOOL, IKOT EDEM ODO",
+    "registration_area_id": "1998",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "09/03/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1998",
+    "ward_name": "IKOT EDEM ODO",
+    "local_government_id": "171",
+    "local_government_name": "AKPABUYO",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "36419",
+    "name": "TOWNHALL, IKOT EDEM ODO",
+    "registration_area_id": "1998",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "09/03/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1998",
+    "ward_name": "IKOT EDEM ODO",
+    "local_government_id": "171",
+    "local_government_name": "AKPABUYO",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.8928671,
+      "longitude": 8.385532,
+      "viewport": {
+        "northeast": {
+          "lat": 4.9137572,
+          "lng": 8.4610411
+        },
+        "southwest": {
+          "lat": 4.8464627,
+          "lng": 8.3463954
+        }
+      },
+      "formatted_address": "Ikot Edem Odo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8928671,8.385532",
+      "google_place_id": "ChIJcY7443iDZxARx8XmshfxlEE"
+    }
+  },
+  {
+    "id": "36420",
+    "name": "HEALTH CENTRE, IKOT EDEM ODO",
+    "registration_area_id": "1998",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "09/03/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1998",
+    "ward_name": "IKOT EDEM ODO",
+    "local_government_id": "171",
+    "local_government_name": "AKPABUYO",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.954863599999999,
+      "longitude": 8.3502774,
+      "viewport": {
+        "northeast": {
+          "lat": 4.956098229892722,
+          "lng": 8.351619879892722
+        },
+        "southwest": {
+          "lat": 4.953398570107278,
+          "lng": 8.348920220107278
+        }
+      },
+      "formatted_address": "University of Calabar Teaching Hospital, University of Calaba 540281, Calabar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.954863599999999,8.3502774",
+      "google_place_id": "ChIJhRZyqtKHZxAR-LOh4A5KWBU"
+    }
+  },
+  {
+    "id": "36421",
+    "name": "PRIMARY SCHOOL IKOT EFFIONG ESSIEN",
+    "registration_area_id": "1998",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "09/03/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1998",
+    "ward_name": "IKOT EDEM ODO",
+    "local_government_id": "171",
+    "local_government_name": "AKPABUYO",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.9600212,
+      "longitude": 8.414478599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.961451429892722,
+          "lng": 8.415890379892721
+        },
+        "southwest": {
+          "lat": 4.958751770107278,
+          "lng": 8.413190720107277
+        }
+      },
+      "formatted_address": "XC67+2Q5, 541104, Ikot Offiong, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9600212,8.414478599999999",
+      "google_place_id": "ChIJjZJ9aCGBZxARGPHPwp48cho"
+    }
+  },
+  {
+    "id": "36422",
+    "name": "PRIMARY SCHOOL ESUK MBAT",
+    "registration_area_id": "1998",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "09/03/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1998",
+    "ward_name": "IKOT EDEM ODO",
+    "local_government_id": "171",
+    "local_government_name": "AKPABUYO",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.856084,
+      "longitude": 8.5151594,
+      "viewport": {
+        "northeast": {
+          "lat": 4.857621679892722,
+          "lng": 8.516713929892722
+        },
+        "southwest": {
+          "lat": 4.854922020107278,
+          "lng": 8.514014270107278
+        }
+      },
+      "formatted_address": "Ikang-Ifiang Nsung-Ikot Okon Idem Rd, 541111, Ikot Edem Oku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.856084,8.5151594",
+      "google_place_id": "ChIJ3zSj7-F5ZxARW9NAao1C6sw"
+    }
+  },
+  {
+    "id": "36423",
+    "name": "PLAYGROUND EKPRI IKOT UMO",
+    "registration_area_id": "1998",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "09/03/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1998",
+    "ward_name": "IKOT EDEM ODO",
+    "local_government_id": "171",
+    "local_government_name": "AKPABUYO",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "36424",
+    "name": "PLAYGROUND EKPRI IKOT EDET ACHIBONG",
+    "registration_area_id": "1998",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "09/03/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1998",
+    "ward_name": "IKOT EDEM ODO",
+    "local_government_id": "171",
+    "local_government_name": "AKPABUYO",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "36425",
+    "name": "PLAYGROUND EKPRI IKOT EDET NSA",
+    "registration_area_id": "1998",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "09/03/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1998",
+    "ward_name": "IKOT EDEM ODO",
+    "local_government_id": "171",
+    "local_government_name": "AKPABUYO",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "36426",
+    "name": "PLAYGROUND USUNG IDIM YELLOW DUKE",
+    "registration_area_id": "1998",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "09/03/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1998",
+    "ward_name": "IKOT EDEM ODO",
+    "local_government_id": "171",
+    "local_government_name": "AKPABUYO",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.9360364,
+      "longitude": 8.3260478,
+      "viewport": {
+        "northeast": {
+          "lat": 4.937386229892723,
+          "lng": 8.327397629892722
+        },
+        "southwest": {
+          "lat": 4.934686570107279,
+          "lng": 8.324697970107279
+        }
+      },
+      "formatted_address": "Yellow Duke St, 540281, Calabar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9360364,8.3260478",
+      "google_place_id": "ChIJXdArFhKGZxARlQivjcpE-9I"
+    }
+  },
+  {
+    "id": "36427",
+    "name": "PLAY GROUND, ESUK MBA",
+    "registration_area_id": "1998",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "09/03/08/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1998",
+    "ward_name": "IKOT EDEM ODO",
+    "local_government_id": "171",
+    "local_government_name": "AKPABUYO",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "36428",
+    "name": "TOWNHALL, IKOT EKPO EYO",
+    "registration_area_id": "1998",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "09/03/08/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1998",
+    "ward_name": "IKOT EDEM ODO",
+    "local_government_id": "171",
+    "local_government_name": "AKPABUYO",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.0106061,
+      "longitude": 8.337887499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.011899579892723,
+          "lng": 8.339221479892723
+        },
+        "southwest": {
+          "lat": 5.009199920107279,
+          "lng": 8.33652182010728
+        }
+      },
+      "formatted_address": "286Q+752, Ikot Efa 540211, Calabar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0106061,8.337887499999999",
+      "google_place_id": "ChIJl-vqlWN9XRAR_A791gVjeJQ"
+    }
+  },
+  {
+    "id": "36429",
+    "name": "PRIMARY SCHOOL FIELD, IKOT EDEM ODO",
+    "registration_area_id": "1998",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "09/03/08/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1998",
+    "ward_name": "IKOT EDEM ODO",
+    "local_government_id": "171",
+    "local_government_name": "AKPABUYO",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.8928671,
+      "longitude": 8.385532,
+      "viewport": {
+        "northeast": {
+          "lat": 4.9137572,
+          "lng": 8.4610411
+        },
+        "southwest": {
+          "lat": 4.8464627,
+          "lng": 8.3463954
+        }
+      },
+      "formatted_address": "Ikot Edem Odo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8928671,8.385532",
+      "google_place_id": "ChIJcY7443iDZxARx8XmshfxlEE"
+    }
+  },
+  {
+    "id": "36430",
+    "name": "OPEN SPACE, IKOT EFFIONG ESSIEN",
+    "registration_area_id": "1998",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "09/03/08/014",
+    "remark": "NEW PU",
+    "ward_id": "1998",
+    "ward_name": "IKOT EDEM ODO",
+    "local_government_id": "171",
+    "local_government_name": "AKPABUYO",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.1425974,
+      "longitude": 8.5101399,
+      "viewport": {
+        "northeast": {
+          "lat": 5.14343,
+          "lng": 8.511289229892723
+        },
+        "southwest": {
+          "lat": 5.140099599999999,
+          "lng": 8.50858957010728
+        }
+      },
+      "formatted_address": "4GV6+23J, Aningeje Town, along Oban Road, Akamkpa LGA, Aningeje, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1425974,8.5101399",
+      "google_place_id": "ChIJ4cOda-yCXRARXnwRr4iUMZA"
+    }
+  }
+]

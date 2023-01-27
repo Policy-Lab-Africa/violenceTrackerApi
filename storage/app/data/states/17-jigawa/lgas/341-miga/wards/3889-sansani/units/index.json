@@ -1,0 +1,253 @@
+[
+  {
+    "id": "70640",
+    "name": "ATAFIYAWA  I",
+    "registration_area_id": "3889",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "17/22/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3889",
+    "ward_name": "SANSANI",
+    "local_government_id": "341",
+    "local_government_name": "MIGA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "70641",
+    "name": "ATAFIYAWA  II",
+    "registration_area_id": "3889",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "17/22/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3889",
+    "ward_name": "SANSANI",
+    "local_government_id": "341",
+    "local_government_name": "MIGA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "70642",
+    "name": "AIGWA",
+    "registration_area_id": "3889",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "17/22/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3889",
+    "ward_name": "SANSANI",
+    "local_government_id": "341",
+    "local_government_name": "MIGA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.2384087,
+      "longitude": 9.7107273,
+      "viewport": {
+        "northeast": {
+          "lat": 12.2422631,
+          "lng": 9.717991
+        },
+        "southwest": {
+          "lat": 12.2346459,
+          "lng": 9.7042851
+        }
+      },
+      "formatted_address": "720105, Miga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2384087,9.7107273",
+      "google_place_id": "ChIJUUILjmRtqRERj4o9I4dGktw"
+    }
+  },
+  {
+    "id": "70643",
+    "name": "SANSANI AREWA",
+    "registration_area_id": "3889",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "17/22/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3889",
+    "ward_name": "SANSANI",
+    "local_government_id": "341",
+    "local_government_name": "MIGA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.2515305,
+      "longitude": 9.779022699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.2852194,
+          "lng": 9.8248474
+        },
+        "southwest": {
+          "lat": 12.1890521,
+          "lng": 9.742752399999999
+        }
+      },
+      "formatted_address": "San Sani, 720105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2515305,9.779022699999999",
+      "google_place_id": "ChIJE2c_iBZzqREROMk10aVCPN8"
+    }
+  },
+  {
+    "id": "70644",
+    "name": "SANSANI C/GARI I",
+    "registration_area_id": "3889",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "17/22/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3889",
+    "ward_name": "SANSANI",
+    "local_government_id": "341",
+    "local_government_name": "MIGA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "70645",
+    "name": "SANSANI C / GARI II",
+    "registration_area_id": "3889",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "17/22/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3889",
+    "ward_name": "SANSANI",
+    "local_government_id": "341",
+    "local_government_name": "MIGA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "70646",
+    "name": "MADUGA PRI. SCH.  MADUGU C/GARI I",
+    "registration_area_id": "3889",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "17/22/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3889",
+    "ward_name": "SANSANI",
+    "local_government_id": "341",
+    "local_government_name": "MIGA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "70647",
+    "name": "MADUGA PRI. SCH.  MADUGU C/GARI  II",
+    "registration_area_id": "3889",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "17/22/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3889",
+    "ward_name": "SANSANI",
+    "local_government_id": "341",
+    "local_government_name": "MIGA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "70648",
+    "name": "MADUGA INARAWA",
+    "registration_area_id": "3889",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "17/22/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3889",
+    "ward_name": "SANSANI",
+    "local_government_id": "341",
+    "local_government_name": "MIGA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "70649",
+    "name": "MADUGU ZANGO",
+    "registration_area_id": "3889",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "17/22/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3889",
+    "ward_name": "SANSANI",
+    "local_government_id": "341",
+    "local_government_name": "MIGA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.4374238,
+      "longitude": 9.4739813,
+      "viewport": {
+        "northeast": {
+          "lat": 11.43873477989272,
+          "lng": 9.475406779892719
+        },
+        "southwest": {
+          "lat": 11.43603512010728,
+          "lng": 9.472707120107275
+        }
+      },
+      "formatted_address": "CFPF+XH9, 721101, Birnin Kudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4374238,9.4739813",
+      "google_place_id": "ChIJHztLMFuXqxER1n4B_u2zKpk"
+    }
+  },
+  {
+    "id": "70650",
+    "name": "SANSANI HEALTH CLINIC",
+    "registration_area_id": "3889",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "17/22/07/011",
+    "remark": "NEW PU",
+    "ward_id": "3889",
+    "ward_name": "SANSANI",
+    "local_government_id": "341",
+    "local_government_name": "MIGA",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5700351,
+      "longitude": 8.9400581,
+      "viewport": {
+        "northeast": {
+          "lat": 12.57130292989272,
+          "lng": 8.941421979892722
+        },
+        "southwest": {
+          "lat": 12.56860327010728,
+          "lng": 8.938722320107278
+        }
+      },
+      "formatted_address": "Medicare Supply Organisation(JIMSO, 733101, Jigawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5700351,8.9400581",
+      "google_place_id": "ChIJPySbOwPZrhERa9MntS0sOLo"
+    }
+  }
+]

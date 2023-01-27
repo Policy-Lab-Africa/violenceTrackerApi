@@ -2,28 +2,26 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\NgState;
+use App\Services\NgStateService;
+use App\Models\NgLocalGovernment;
+use Illuminate\Support\Facades\Log;
+use App\Http\Controllers\Controller;
+use App\Http\Resources\NgLgaCollection;
+use App\Http\Resources\NgWardCollection;
+use App\Services\NgLocalGovernmentService;
 use App\Http\Requests\StoreNgLocalGovernmentRequest;
 use App\Http\Requests\UpdateNgLocalGovernmentRequest;
-use App\Models\NgLocalGovernment;
 
 class NgLocalGovernmentController extends Controller
 {
     /**
-     * Display a listing of the resource.
+     * [DRAFT] Return Local Government Areas for a specified State
+     * [Note] Moved to NgStateController@showLgas
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
-    {
-        //
-    }
-
-    /**
-     * Show the form for creating a new resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
-    public function create()
+    public function index(int|string $ngState)
     {
         //
     }
@@ -51,14 +49,43 @@ class NgLocalGovernmentController extends Controller
     }
 
     /**
-     * Show the form for editing the specified resource.
+     * Fetch local government areas for a specified state
+     * 
+     * This endpoint returns an array of objects containing all the local government areas for a specific state identified by it's `ng_states.data_id`
      *
-     * @param  \App\Models\NgLocalGovernment  $ngLocalGovernment
-     * @return \Illuminate\Http\Response
+     * @urlParam ngState mixed required the `data_id` or `name` of the local government you want to fetch LGAs for.
+     * 
+     * @group INEC Location Data
+     * @subgroup Local Governments
+     *
+     * @param string|integer $ngState
+     * @return void
      */
-    public function edit(NgLocalGovernment $ngLocalGovernment)
+    public function showLgas(string|int $ngState)
     {
-        //
+
+        try{
+
+            return $this->sendResponse([
+                
+                'local_government_areas' => new NgLgaCollection(
+                    (new NgStateService)
+                    ->findState($ngState)
+                    ->getState()
+                    ->lgas
+                )
+            ]);
+        }catch(Exception $e)
+        {
+            Log::error('FetchStateLgasFailed', [
+                'Exception' => $e
+            ]);
+
+            return $this->sendError([
+                'error' => 'Something went wrong'
+            ]); 
+        }
+
     }
 
     /**

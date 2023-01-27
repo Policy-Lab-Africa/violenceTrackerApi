@@ -1,0 +1,233 @@
+[
+  {
+    "id": "20029",
+    "name": "DURR CENTRE,   DURR PRIMARY SCHOOL",
+    "registration_area_id": "1126",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "05/06/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1126",
+    "ward_name": "DURR",
+    "local_government_id": "96",
+    "local_government_name": "DASS",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.972976899999999,
+      "longitude": 9.4130301,
+      "viewport": {
+        "northeast": {
+          "lat": 9.97454627989272,
+          "lng": 9.414209279892724
+        },
+        "southwest": {
+          "lat": 9.971846620107277,
+          "lng": 9.41150962010728
+        }
+      },
+      "formatted_address": "XCF7+56R, 741109, Bundila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.972976899999999,9.4130301",
+      "google_place_id": "ChIJB8nn3bSRVBARebY1HC9di3I"
+    }
+  },
+  {
+    "id": "20030",
+    "name": "DURR CENTRE,   DURR DISPENSARY",
+    "registration_area_id": "1126",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "05/06/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1126",
+    "ward_name": "DURR",
+    "local_government_id": "96",
+    "local_government_name": "DASS",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.9728146,
+      "longitude": 9.4090083,
+      "viewport": {
+        "northeast": {
+          "lat": 9.974211479892721,
+          "lng": 9.410333129892722
+        },
+        "southwest": {
+          "lat": 9.971511820107278,
+          "lng": 9.407633470107278
+        }
+      },
+      "formatted_address": "XCF5+4JC, 741109, Bundila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9728146,9.4090083",
+      "google_place_id": "ChIJy4wVAEuQVBARf1eVgwIWr2o"
+    }
+  },
+  {
+    "id": "20031",
+    "name": "MADAKI/ZANDI,   KOFAR MADAKI",
+    "registration_area_id": "1126",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "05/06/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1126",
+    "ward_name": "DURR",
+    "local_government_id": "96",
+    "local_government_name": "DASS",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.6905048,
+      "longitude": 9.762868600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.69195562989272,
+          "lng": 9.764194079892722
+        },
+        "southwest": {
+          "lat": 10.68925597010728,
+          "lng": 9.761494420107278
+        }
+      },
+      "formatted_address": "MQR7+54H, Unnamed Road, 740111, Kafin Madaki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6905048,9.762868600000001",
+      "google_place_id": "ChIJjXbszj8lqxERBof2HPVSwB8"
+    }
+  },
+  {
+    "id": "20032",
+    "name": "LARGWAN/KUFAI,   KOFAR SARKIN TSAFI DURR",
+    "registration_area_id": "1126",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "05/06/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1126",
+    "ward_name": "DURR",
+    "local_government_id": "96",
+    "local_government_name": "DASS",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.9521379,
+      "longitude": 9.5078541,
+      "viewport": {
+        "northeast": {
+          "lat": 9.953624629892722,
+          "lng": 9.508641229892723
+        },
+        "southwest": {
+          "lat": 9.950924970107279,
+          "lng": 9.505941570107279
+        }
+      },
+      "formatted_address": "Bauchi-Tafawa Balewa Rd, 741101, Litir Hill, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9521379,9.5078541",
+      "google_place_id": "ChIJ9_l5QYSSVBAR3YnqvLi6qMU"
+    }
+  },
+  {
+    "id": "20033",
+    "name": "BABANG,   NEAR DADO MARKET",
+    "registration_area_id": "1126",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "05/06/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1126",
+    "ward_name": "DURR",
+    "local_government_id": "96",
+    "local_government_name": "DASS",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3160378,
+      "longitude": 9.846534199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31740557989272,
+          "lng": 9.848062179892722
+        },
+        "southwest": {
+          "lat": 10.31470592010728,
+          "lng": 9.845362520107278
+        }
+      },
+      "formatted_address": "Bauchi Central Market, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3160378,9.846534199999999",
+      "google_place_id": "ChIJYQFedK_XVBARm1A4sm_WY1c"
+    }
+  },
+  {
+    "id": "20034",
+    "name": "KWANGAL,   KOFAR S. KWANGAL",
+    "registration_area_id": "1126",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "05/06/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1126",
+    "ward_name": "DURR",
+    "local_government_id": "96",
+    "local_government_name": "DASS",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3096986,
+      "longitude": 9.854311,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31108947989272,
+          "lng": 9.85565812989272
+        },
+        "southwest": {
+          "lat": 10.30838982010728,
+          "lng": 9.852958470107277
+        }
+      },
+      "formatted_address": "8V53+VPF, Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3096986,9.854311",
+      "google_place_id": "ChIJn1cnUn7XVBARzZSQiuX5vKg"
+    }
+  },
+  {
+    "id": "20035",
+    "name": "DURR PRIMARY SCHOOL II",
+    "registration_area_id": "1126",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "05/06/07/007",
+    "remark": "NEW PU",
+    "ward_id": "1126",
+    "ward_name": "DURR",
+    "local_government_id": "96",
+    "local_government_name": "DASS",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.972976899999999,
+      "longitude": 9.4130301,
+      "viewport": {
+        "northeast": {
+          "lat": 9.97454627989272,
+          "lng": 9.414209279892724
+        },
+        "southwest": {
+          "lat": 9.971846620107277,
+          "lng": 9.41150962010728
+        }
+      },
+      "formatted_address": "XCF7+56R, 741109, Bundila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.972976899999999,9.4130301",
+      "google_place_id": "ChIJB8nn3bSRVBARebY1HC9di3I"
+    }
+  }
+]

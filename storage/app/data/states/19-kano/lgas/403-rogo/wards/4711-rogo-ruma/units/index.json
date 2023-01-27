@@ -1,0 +1,761 @@
+[
+  {
+    "id": "92577",
+    "name": "GANGARBI I",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/34/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5500439,
+      "longitude": 7.823124600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.55138842989272,
+          "lng": 7.824417279892722
+        },
+        "southwest": {
+          "lat": 11.54868877010728,
+          "lng": 7.821717620107278
+        }
+      },
+      "formatted_address": "HR2F+277, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5500439,7.823124600000001",
+      "google_place_id": "ChIJu9iyNkGLrRER-1ewv0s43cQ"
+    }
+  },
+  {
+    "id": "92578",
+    "name": "GANGARBI II",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/34/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5500439,
+      "longitude": 7.823124600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.55138842989272,
+          "lng": 7.824417279892722
+        },
+        "southwest": {
+          "lat": 11.54868877010728,
+          "lng": 7.821717620107278
+        }
+      },
+      "formatted_address": "HR2F+277, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5500439,7.823124600000001",
+      "google_place_id": "ChIJu9iyNkGLrRER-1ewv0s43cQ"
+    }
+  },
+  {
+    "id": "92579",
+    "name": "KUKKUBA",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/34/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6034186,
+      "longitude": 7.829486099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.60478557989272,
+          "lng": 7.830880429892722
+        },
+        "southwest": {
+          "lat": 11.60208592010728,
+          "lng": 7.828180770107278
+        }
+      },
+      "formatted_address": "7F39JR3H+9Q9, Yaimadaka, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6034186,7.829486099999999",
+      "google_place_id": "ChIJJ_GMAAj1rRERHE7cBvmeHEE"
+    }
+  },
+  {
+    "id": "92580",
+    "name": "ROGO K/GABAS/KALEKA I",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/34/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5500439,
+      "longitude": 7.823124600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.55138842989272,
+          "lng": 7.824417279892722
+        },
+        "southwest": {
+          "lat": 11.54868877010728,
+          "lng": 7.821717620107278
+        }
+      },
+      "formatted_address": "HR2F+277, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5500439,7.823124600000001",
+      "google_place_id": "ChIJu9iyNkGLrRER-1ewv0s43cQ"
+    }
+  },
+  {
+    "id": "92581",
+    "name": "ROGO K/GABAS/KALEKA II",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/34/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5500501,
+      "longitude": 7.823198199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.55138887989272,
+          "lng": 7.824425929892722
+        },
+        "southwest": {
+          "lat": 11.54868922010728,
+          "lng": 7.821726270107278
+        }
+      },
+      "formatted_address": "HR2F+27G, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5500501,7.823198199999999",
+      "google_place_id": "ChIJ08ysgOqLrRERl18MOELGaUM"
+    }
+  },
+  {
+    "id": "92582",
+    "name": "ROGO K/YAMMA",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/34/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5608021,
+      "longitude": 7.8205588,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56222377989272,
+          "lng": 7.821870779892724
+        },
+        "southwest": {
+          "lat": 11.55952412010728,
+          "lng": 7.81917112010728
+        }
+      },
+      "formatted_address": "7F39HR6C+86V Ruma Kano, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5608021,7.8205588",
+      "google_place_id": "ChIJfZOOWreLrRERchvau4y9ivg"
+    }
+  },
+  {
+    "id": "92583",
+    "name": "SABUWAR UNGUWA",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/34/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5608021,
+      "longitude": 7.8205588,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56222377989272,
+          "lng": 7.821870779892724
+        },
+        "southwest": {
+          "lat": 11.55952412010728,
+          "lng": 7.81917112010728
+        }
+      },
+      "formatted_address": "7F39HR6C+86V Ruma Kano, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5608021,7.8205588",
+      "google_place_id": "ChIJfZOOWreLrRERchvau4y9ivg"
+    }
+  },
+  {
+    "id": "92584",
+    "name": "TSAMIYAR MAI BABA",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/34/06/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5608021,
+      "longitude": 7.8205588,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56222377989272,
+          "lng": 7.821870779892724
+        },
+        "southwest": {
+          "lat": 11.55952412010728,
+          "lng": 7.81917112010728
+        }
+      },
+      "formatted_address": "7F39HR6C+86V Ruma Kano, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5608021,7.8205588",
+      "google_place_id": "ChIJfZOOWreLrRERchvau4y9ivg"
+    }
+  },
+  {
+    "id": "92585",
+    "name": "TSOHUWAR ROGO I",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/34/06/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5608021,
+      "longitude": 7.8205588,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56222377989272,
+          "lng": 7.821870779892724
+        },
+        "southwest": {
+          "lat": 11.55952412010728,
+          "lng": 7.81917112010728
+        }
+      },
+      "formatted_address": "7F39HR6C+86V Ruma Kano, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5608021,7.8205588",
+      "google_place_id": "ChIJfZOOWreLrRERchvau4y9ivg"
+    }
+  },
+  {
+    "id": "92586",
+    "name": "TSOHUWAR ROGO II",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "19/34/06/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5608021,
+      "longitude": 7.8205588,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56222377989272,
+          "lng": 7.821870779892724
+        },
+        "southwest": {
+          "lat": 11.55952412010728,
+          "lng": 7.81917112010728
+        }
+      },
+      "formatted_address": "7F39HR6C+86V Ruma Kano, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5608021,7.8205588",
+      "google_place_id": "ChIJfZOOWreLrRERchvau4y9ivg"
+    }
+  },
+  {
+    "id": "92587",
+    "name": "ZAGE-ZAGI",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "19/34/06/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5500501,
+      "longitude": 7.823198199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.55138887989272,
+          "lng": 7.824425929892722
+        },
+        "southwest": {
+          "lat": 11.54868922010728,
+          "lng": 7.821726270107278
+        }
+      },
+      "formatted_address": "HR2F+27G, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5500501,7.823198199999999",
+      "google_place_id": "ChIJ08ysgOqLrRERl18MOELGaUM"
+    }
+  },
+  {
+    "id": "92588",
+    "name": "ZAMFARAWA TUKURWA",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "19/34/06/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5672935,
+      "longitude": 7.7950774,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56860617989272,
+          "lng": 7.796441929892721
+        },
+        "southwest": {
+          "lat": 11.56590652010728,
+          "lng": 7.793742270107277
+        }
+      },
+      "formatted_address": "Zamfarawa Primary School, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5672935,7.7950774",
+      "google_place_id": "ChIJMenoToWKrRERHXZFx5XTlJg"
+    }
+  },
+  {
+    "id": "92589",
+    "name": "ROGO K / MAKERA",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "19/34/06/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5608021,
+      "longitude": 7.8205588,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56222377989272,
+          "lng": 7.821870779892724
+        },
+        "southwest": {
+          "lat": 11.55952412010728,
+          "lng": 7.81917112010728
+        }
+      },
+      "formatted_address": "7F39HR6C+86V Ruma Kano, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5608021,7.8205588",
+      "google_place_id": "ChIJfZOOWreLrRERchvau4y9ivg"
+    }
+  },
+  {
+    "id": "92590",
+    "name": "S/UNGUWA",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "19/34/06/014",
+    "remark": "NEW PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5608021,
+      "longitude": 7.8205588,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56222377989272,
+          "lng": 7.821870779892724
+        },
+        "southwest": {
+          "lat": 11.55952412010728,
+          "lng": 7.81917112010728
+        }
+      },
+      "formatted_address": "7F39HR6C+86V Ruma Kano, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5608021,7.8205588",
+      "google_place_id": "ChIJfZOOWreLrRERchvau4y9ivg"
+    }
+  },
+  {
+    "id": "92591",
+    "name": "K. GABAS",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "19/34/06/015",
+    "remark": "NEW PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5608021,
+      "longitude": 7.8205588,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56222377989272,
+          "lng": 7.821870779892724
+        },
+        "southwest": {
+          "lat": 11.55952412010728,
+          "lng": 7.81917112010728
+        }
+      },
+      "formatted_address": "7F39HR6C+86V Ruma Kano, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5608021,7.8205588",
+      "google_place_id": "ChIJfZOOWreLrRERchvau4y9ivg"
+    }
+  },
+  {
+    "id": "92592",
+    "name": "K. GABAS",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "19/34/06/016",
+    "remark": "NEW PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5608021,
+      "longitude": 7.8205588,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56222377989272,
+          "lng": 7.821870779892724
+        },
+        "southwest": {
+          "lat": 11.55952412010728,
+          "lng": 7.81917112010728
+        }
+      },
+      "formatted_address": "7F39HR6C+86V Ruma Kano, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5608021,7.8205588",
+      "google_place_id": "ChIJfZOOWreLrRERchvau4y9ivg"
+    }
+  },
+  {
+    "id": "92593",
+    "name": "K. GABAS",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "19/34/06/017",
+    "remark": "NEW PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5608021,
+      "longitude": 7.8205588,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56222377989272,
+          "lng": 7.821870779892724
+        },
+        "southwest": {
+          "lat": 11.55952412010728,
+          "lng": 7.81917112010728
+        }
+      },
+      "formatted_address": "7F39HR6C+86V Ruma Kano, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5608021,7.8205588",
+      "google_place_id": "ChIJfZOOWreLrRERchvau4y9ivg"
+    }
+  },
+  {
+    "id": "92594",
+    "name": "K/YAMMA",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "19/34/06/018",
+    "remark": "NEW PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5469276,
+      "longitude": 7.826696599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54832507989272,
+          "lng": 7.828018379892722
+        },
+        "southwest": {
+          "lat": 11.54562542010728,
+          "lng": 7.825318720107278
+        }
+      },
+      "formatted_address": "S Gari Kano, 7F39GRWG+QMQ bakin kasuwa, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5469276,7.826696599999999",
+      "google_place_id": "ChIJG2Ex4_GLrRER0toyWq2BLds"
+    }
+  },
+  {
+    "id": "92595",
+    "name": "UNG. TSAMIYA",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "19/34/06/019",
+    "remark": "NEW PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5465032,
+      "longitude": 7.830640400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54780587989272,
+          "lng": 7.832007679892722
+        },
+        "southwest": {
+          "lat": 11.54510622010728,
+          "lng": 7.829308020107278
+        }
+      },
+      "formatted_address": "S Gari Kano, 7F39GRWJ+J73 Rogo S Gari, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5465032,7.830640400000001",
+      "google_place_id": "ChIJ50xAAomLrRERgtiROBedXlI"
+    }
+  },
+  {
+    "id": "92596",
+    "name": "TSOHUUWAR DOGO I",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "19/34/06/020",
+    "remark": "NEW PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5608021,
+      "longitude": 7.8205588,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56222377989272,
+          "lng": 7.821870779892724
+        },
+        "southwest": {
+          "lat": 11.55952412010728,
+          "lng": 7.81917112010728
+        }
+      },
+      "formatted_address": "7F39HR6C+86V Ruma Kano, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5608021,7.8205588",
+      "google_place_id": "ChIJfZOOWreLrRERchvau4y9ivg"
+    }
+  },
+  {
+    "id": "92597",
+    "name": "RUMA TSOHUWAR",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "19/34/06/021",
+    "remark": "NEW PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5608021,
+      "longitude": 7.8205588,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56222377989272,
+          "lng": 7.821870779892724
+        },
+        "southwest": {
+          "lat": 11.55952412010728,
+          "lng": 7.81917112010728
+        }
+      },
+      "formatted_address": "7F39HR6C+86V Ruma Kano, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5608021,7.8205588",
+      "google_place_id": "ChIJfZOOWreLrRERchvau4y9ivg"
+    }
+  },
+  {
+    "id": "92598",
+    "name": "ZAMFARAWA",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "19/34/06/022",
+    "remark": "NEW PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5672935,
+      "longitude": 7.7950774,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56860617989272,
+          "lng": 7.796441929892721
+        },
+        "southwest": {
+          "lat": 11.56590652010728,
+          "lng": 7.793742270107277
+        }
+      },
+      "formatted_address": "Zamfarawa Primary School, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5672935,7.7950774",
+      "google_place_id": "ChIJMenoToWKrRERHXZFx5XTlJg"
+    }
+  },
+  {
+    "id": "92599",
+    "name": "ZAMFARAWA",
+    "registration_area_id": "4711",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "19/34/06/023",
+    "remark": "NEW PU",
+    "ward_id": "4711",
+    "ward_name": "ROGO RUMA",
+    "local_government_id": "403",
+    "local_government_name": "ROGO",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5672935,
+      "longitude": 7.7950774,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56860617989272,
+          "lng": 7.796441929892721
+        },
+        "southwest": {
+          "lat": 11.56590652010728,
+          "lng": 7.793742270107277
+        }
+      },
+      "formatted_address": "Zamfarawa Primary School, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5672935,7.7950774",
+      "google_place_id": "ChIJMenoToWKrRERHXZFx5XTlJg"
+    }
+  }
+]

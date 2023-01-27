@@ -1,0 +1,383 @@
+[
+  {
+    "id": "352261",
+    "name": "1 AKEPE STREET",
+    "registration_area_id": "18031",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "29/30/13/001",
+    "remark": "EXISTING PU",
+    "ward_id": "18031",
+    "ward_name": "EKETA",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.769036799999999,
+      "longitude": 4.5617455,
+      "viewport": {
+        "northeast": {
+          "lat": 7.770386629892721,
+          "lng": 4.563095329892722
+        },
+        "southwest": {
+          "lat": 7.767686970107277,
+          "lng": 4.560395670107277
+        }
+      },
+      "formatted_address": "Akepe St, 230103, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.769036799999999,4.5617455",
+      "google_place_id": "ChIJZ1hPmf2HNxARNeUXdAnR2pE"
+    }
+  },
+  {
+    "id": "352262",
+    "name": "22, AKEPE STREET",
+    "registration_area_id": "18031",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "29/30/13/002",
+    "remark": "EXISTING PU",
+    "ward_id": "18031",
+    "ward_name": "EKETA",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.769036799999999,
+      "longitude": 4.5617455,
+      "viewport": {
+        "northeast": {
+          "lat": 7.770386629892721,
+          "lng": 4.563095329892722
+        },
+        "southwest": {
+          "lat": 7.767686970107277,
+          "lng": 4.560395670107277
+        }
+      },
+      "formatted_address": "Akepe St, 230103, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.769036799999999,4.5617455",
+      "google_place_id": "ChIJZ1hPmf2HNxARNeUXdAnR2pE"
+    }
+  },
+  {
+    "id": "352263",
+    "name": "12, KUJENYO STREET",
+    "registration_area_id": "18031",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "29/30/13/003",
+    "remark": "EXISTING PU",
+    "ward_id": "18031",
+    "ward_name": "EKETA",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "352264",
+    "name": "10, KUJENYO STREET",
+    "registration_area_id": "18031",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "29/30/13/004",
+    "remark": "EXISTING PU",
+    "ward_id": "18031",
+    "ward_name": "EKETA",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7819176,
+      "longitude": 4.5690794,
+      "viewport": {
+        "northeast": {
+          "lat": 7.783298279892722,
+          "lng": 4.570451229892722
+        },
+        "southwest": {
+          "lat": 7.780598620107278,
+          "lng": 4.567751570107278
+        }
+      },
+      "formatted_address": "32 Asiwaju Hammed Omidiran Street, Orita, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7819176,4.5690794",
+      "google_place_id": "ChIJxerveFyJNxARNK1I_AjTXqw"
+    }
+  },
+  {
+    "id": "352265",
+    "name": "44, OLUSEGUN STREET",
+    "registration_area_id": "18031",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "29/30/13/005",
+    "remark": "EXISTING PU",
+    "ward_id": "18031",
+    "ward_name": "EKETA",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "352266",
+    "name": "OPP. 31, OLUGUN STREET",
+    "registration_area_id": "18031",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "29/30/13/006",
+    "remark": "EXISTING PU",
+    "ward_id": "18031",
+    "ward_name": "EKETA",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.769882,
+      "longitude": 4.565504,
+      "viewport": {
+        "northeast": {
+          "lat": 7.77119162989272,
+          "lng": 4.566870729892721
+        },
+        "southwest": {
+          "lat": 7.768491970107276,
+          "lng": 4.564171070107277
+        }
+      },
+      "formatted_address": "11 Owolabi St, 230103, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.769882,4.565504",
+      "google_place_id": "ChIJj6QRVxmJNxARr2hxUAtLW24"
+    }
+  },
+  {
+    "id": "352267",
+    "name": "25, AKEPE STREET",
+    "registration_area_id": "18031",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "29/30/13/007",
+    "remark": "EXISTING PU",
+    "ward_id": "18031",
+    "ward_name": "EKETA",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.769036799999999,
+      "longitude": 4.5617455,
+      "viewport": {
+        "northeast": {
+          "lat": 7.770386629892721,
+          "lng": 4.563095329892722
+        },
+        "southwest": {
+          "lat": 7.767686970107277,
+          "lng": 4.560395670107277
+        }
+      },
+      "formatted_address": "Akepe St, 230103, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.769036799999999,4.5617455",
+      "google_place_id": "ChIJZ1hPmf2HNxARNeUXdAnR2pE"
+    }
+  },
+  {
+    "id": "352268",
+    "name": "40, OLUGUN STREET",
+    "registration_area_id": "18031",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "29/30/13/008",
+    "remark": "EXISTING PU",
+    "ward_id": "18031",
+    "ward_name": "EKETA",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.770908899999999,
+      "longitude": 4.5623797,
+      "viewport": {
+        "northeast": {
+          "lat": 7.77336645000005,
+          "lng": 4.563579229892722
+        },
+        "southwest": {
+          "lat": 7.768503049999948,
+          "lng": 4.560879570107278
+        }
+      },
+      "formatted_address": "Olugun St, 230103, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.770908899999999,4.5623797",
+      "google_place_id": "EiJPbHVndW4gU3QsIDIzMDEwMywgT3NvZ2JvLCBOaWdlcmlhIi4qLAoUChIJSYLYWf2HNxARcj793kbbhSwSFAoSCYXDH2T9hzcQEUjz9Xzmjnxu"
+    }
+  },
+  {
+    "id": "352269",
+    "name": "20, OLUGUN STREET",
+    "registration_area_id": "18031",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "29/30/13/009",
+    "remark": "EXISTING PU",
+    "ward_id": "18031",
+    "ward_name": "EKETA",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.770908899999999,
+      "longitude": 4.5623797,
+      "viewport": {
+        "northeast": {
+          "lat": 7.77336645000005,
+          "lng": 4.563579229892722
+        },
+        "southwest": {
+          "lat": 7.768503049999948,
+          "lng": 4.560879570107278
+        }
+      },
+      "formatted_address": "Olugun St, 230103, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.770908899999999,4.5623797",
+      "google_place_id": "EiJPbHVndW4gU3QsIDIzMDEwMywgT3NvZ2JvLCBOaWdlcmlhIi4qLAoUChIJSYLYWf2HNxARcj793kbbhSwSFAoSCYXDH2T9hzcQEUjz9Xzmjnxu"
+    }
+  },
+  {
+    "id": "352270",
+    "name": "5, KUJENYO STREET",
+    "registration_area_id": "18031",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "29/30/13/010",
+    "remark": "EXISTING PU",
+    "ward_id": "18031",
+    "ward_name": "EKETA",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7834442,
+      "longitude": 4.5292258,
+      "viewport": {
+        "northeast": {
+          "lat": 7.784863279892721,
+          "lng": 4.530566629892722
+        },
+        "southwest": {
+          "lat": 7.782163620107276,
+          "lng": 4.527866970107278
+        }
+      },
+      "formatted_address": "Gbongan Road Osogbo,&nbsp, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7834442,4.5292258",
+      "google_place_id": "ChIJ5fqDh6KHNxARgoZLLi0x4KE"
+    }
+  },
+  {
+    "id": "352271",
+    "name": "22, OLUGUN STREET",
+    "registration_area_id": "18031",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "29/30/13/011",
+    "remark": "EXISTING PU",
+    "ward_id": "18031",
+    "ward_name": "EKETA",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.770908899999999,
+      "longitude": 4.5623797,
+      "viewport": {
+        "northeast": {
+          "lat": 7.77336645000005,
+          "lng": 4.563579229892722
+        },
+        "southwest": {
+          "lat": 7.768503049999948,
+          "lng": 4.560879570107278
+        }
+      },
+      "formatted_address": "Olugun St, 230103, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.770908899999999,4.5623797",
+      "google_place_id": "EiJPbHVndW4gU3QsIDIzMDEwMywgT3NvZ2JvLCBOaWdlcmlhIi4qLAoUChIJSYLYWf2HNxARcj793kbbhSwSFAoSCYXDH2T9hzcQEUjz9Xzmjnxu"
+    }
+  },
+  {
+    "id": "352272",
+    "name": "8, KUJENYO STREET",
+    "registration_area_id": "18031",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "29/30/13/012",
+    "remark": "EXISTING PU",
+    "ward_id": "18031",
+    "ward_name": "EKETA",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "352273",
+    "name": "18, AKEPE STREET",
+    "registration_area_id": "18031",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "29/30/13/013",
+    "remark": "EXISTING PU",
+    "ward_id": "18031",
+    "ward_name": "EKETA",
+    "local_government_id": "627",
+    "local_government_name": "OSOGBO",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.769036799999999,
+      "longitude": 4.5617455,
+      "viewport": {
+        "northeast": {
+          "lat": 7.770386629892721,
+          "lng": 4.563095329892722
+        },
+        "southwest": {
+          "lat": 7.767686970107277,
+          "lng": 4.560395670107277
+        }
+      },
+      "formatted_address": "Akepe St, 230103, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.769036799999999,4.5617455",
+      "google_place_id": "ChIJZ1hPmf2HNxARNeUXdAnR2pE"
+    }
+  }
+]

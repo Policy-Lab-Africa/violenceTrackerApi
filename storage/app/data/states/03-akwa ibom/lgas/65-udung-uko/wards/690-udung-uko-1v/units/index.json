@@ -1,0 +1,152 @@
+[
+  {
+    "id": "11643",
+    "name": "HEALTH CENTRE, EYOKPONUNG",
+    "registration_area_id": "690",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "03/27/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "690",
+    "ward_name": "UDUNG UKO 1V",
+    "local_government_id": "65",
+    "local_government_name": "UDUNG UKO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7657999,
+      "longitude": 8.240499999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.767021829892722,
+          "lng": 8.241964479892722
+        },
+        "southwest": {
+          "lat": 4.764322170107278,
+          "lng": 8.239264820107278
+        }
+      },
+      "formatted_address": "Q68R+859, 523105, Uboro Isong Inyang, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7657999,8.240499999999999",
+      "google_place_id": "ChIJSUcnLUqRZxAR2I0896bVaCs"
+    }
+  },
+  {
+    "id": "11644",
+    "name": "VILLAGE SQUARE , EYOKPONUNG",
+    "registration_area_id": "690",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "03/27/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "690",
+    "ward_name": "UDUNG UKO 1V",
+    "local_government_id": "65",
+    "local_government_name": "UDUNG UKO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "11645",
+    "name": "VILLAGE SQUARE , UDUNG ADATANG",
+    "registration_area_id": "690",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "03/27/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "690",
+    "ward_name": "UDUNG UKO 1V",
+    "local_government_id": "65",
+    "local_government_name": "UDUNG UKO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "11646",
+    "name": "VILLAGE SQUARE , USUNG UDUNG UKO",
+    "registration_area_id": "690",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "03/27/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "690",
+    "ward_name": "UDUNG UKO 1V",
+    "local_government_id": "65",
+    "local_government_name": "UDUNG UKO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7507369,
+      "longitude": 8.2541155,
+      "viewport": {
+        "northeast": {
+          "lat": 4.781293799999999,
+          "lng": 8.3168212
+        },
+        "southwest": {
+          "lat": 4.7199803,
+          "lng": 8.198616
+        }
+      },
+      "formatted_address": "Udung Uko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7507369,8.2541155",
+      "google_place_id": "ChIJTZozdtqWZxARTraa4BijiQ4"
+    }
+  },
+  {
+    "id": "11647",
+    "name": "PRIMARY SCHOOL, EYOKPONUNG",
+    "registration_area_id": "690",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "03/27/04/005",
+    "remark": "NEW PU",
+    "ward_id": "690",
+    "ward_name": "UDUNG UKO 1V",
+    "local_government_id": "65",
+    "local_government_name": "UDUNG UKO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7477472,
+      "longitude": 8.2312471,
+      "viewport": {
+        "northeast": {
+          "lat": 4.748942829892722,
+          "lng": 8.232616029892721
+        },
+        "southwest": {
+          "lat": 4.746243170107278,
+          "lng": 8.229916370107278
+        }
+      },
+      "formatted_address": "P6XJ+4F9, Eyosung, Udung Uko, Ediko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7477472,8.2312471",
+      "google_place_id": "ChIJq2OuxKSWZxARw4c35XERTb8"
+    }
+  },
+  {
+    "id": "11648",
+    "name": "OPEN SPACE  UDUNG EFAH, EYOKPONUNG",
+    "registration_area_id": "690",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "03/27/04/006",
+    "remark": "NEW PU",
+    "ward_id": "690",
+    "ward_name": "UDUNG UKO 1V",
+    "local_government_id": "65",
+    "local_government_name": "UDUNG UKO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  }
+]

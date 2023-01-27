@@ -1,0 +1,369 @@
+[
+  {
+    "id": "110918",
+    "name": "L.G.E.A. SCH AGBONDA",
+    "registration_area_id": "5756",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "23/09/02/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5756",
+    "ward_name": "AJASE IPO 11",
+    "local_government_id": "498",
+    "local_government_name": "IREPODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.126472099999999,
+      "longitude": 4.930626999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.127818279892722,
+          "lng": 4.932003829892722
+        },
+        "southwest": {
+          "lat": 8.125118620107278,
+          "lng": 4.929304170107278
+        }
+      },
+      "formatted_address": "251102, Omugo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.126472099999999,4.930626999999999",
+      "google_place_id": "ChIJIc3JTwvdNxARECRi9eT8FYw"
+    }
+  },
+  {
+    "id": "110919",
+    "name": "ILE OBALOKE AGBONDA",
+    "registration_area_id": "5756",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "23/09/02/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5756",
+    "ward_name": "AJASE IPO 11",
+    "local_government_id": "498",
+    "local_government_name": "IREPODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "110920",
+    "name": "NEAR OBA'S PALACE AGBONDA/ADIGUN",
+    "registration_area_id": "5756",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "23/09/02/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5756",
+    "ward_name": "AJASE IPO 11",
+    "local_government_id": "498",
+    "local_government_name": "IREPODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "110921",
+    "name": "AJENIPA'S QTRS SANMORA",
+    "registration_area_id": "5756",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "23/09/02/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5756",
+    "ward_name": "AJASE IPO 11",
+    "local_government_id": "498",
+    "local_government_name": "IREPODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "110922",
+    "name": "L.G.E.A SCH SANMORA",
+    "registration_area_id": "5756",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "23/09/02/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5756",
+    "ward_name": "AJASE IPO 11",
+    "local_government_id": "498",
+    "local_government_name": "IREPODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.126472099999999,
+      "longitude": 4.930626999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.127818279892722,
+          "lng": 4.932003829892722
+        },
+        "southwest": {
+          "lat": 8.125118620107278,
+          "lng": 4.929304170107278
+        }
+      },
+      "formatted_address": "251102, Omugo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.126472099999999,4.930626999999999",
+      "google_place_id": "ChIJIc3JTwvdNxARECRi9eT8FYw"
+    }
+  },
+  {
+    "id": "110923",
+    "name": "ST PAUL'S SCH AGBAMU I",
+    "registration_area_id": "5756",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "23/09/02/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5756",
+    "ward_name": "AJASE IPO 11",
+    "local_government_id": "498",
+    "local_government_name": "IREPODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "110924",
+    "name": "ST PAUL'S SCH AGBAMU II",
+    "registration_area_id": "5756",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "23/09/02/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5756",
+    "ward_name": "AJASE IPO 11",
+    "local_government_id": "498",
+    "local_government_name": "IREPODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "110925",
+    "name": "HEALTH CENTRE AGBAMU",
+    "registration_area_id": "5756",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "23/09/02/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5756",
+    "ward_name": "AJASE IPO 11",
+    "local_government_id": "498",
+    "local_government_name": "IREPODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1186251,
+      "longitude": 4.871249,
+      "viewport": {
+        "northeast": {
+          "lat": 8.11986572989272,
+          "lng": 4.872597179892722
+        },
+        "southwest": {
+          "lat": 8.117166070107276,
+          "lng": 4.869897520107278
+        }
+      },
+      "formatted_address": "4V9C+FF5, 251102, Agbamu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1186251,4.871249",
+      "google_place_id": "ChIJz4l5S5bCNxARc7dSTRr0S-U"
+    }
+  },
+  {
+    "id": "110926",
+    "name": "ILE BALE IGBONLA",
+    "registration_area_id": "5756",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "23/09/02/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5756",
+    "ward_name": "AJASE IPO 11",
+    "local_government_id": "498",
+    "local_government_name": "IREPODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1884616,
+      "longitude": 4.8328656,
+      "viewport": {
+        "northeast": {
+          "lat": 8.189798729892722,
+          "lng": 4.834238479892721
+        },
+        "southwest": {
+          "lat": 8.187099070107278,
+          "lng": 4.831538820107277
+        }
+      },
+      "formatted_address": "Ile Arika Mosque, Igbonla Road, 251102, Igbonla, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1884616,4.8328656",
+      "google_place_id": "ChIJ80tlE4vDNxARSGfMbsUNm_Y"
+    }
+  },
+  {
+    "id": "110927",
+    "name": "AGANJU IGBONLA",
+    "registration_area_id": "5756",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "23/09/02/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5756",
+    "ward_name": "AJASE IPO 11",
+    "local_government_id": "498",
+    "local_government_name": "IREPODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1271168,
+      "longitude": 4.8313257,
+      "viewport": {
+        "northeast": {
+          "lat": 8.253982299999999,
+          "lng": 4.9571903
+        },
+        "southwest": {
+          "lat": 8.053569699999999,
+          "lng": 4.768333
+        }
+      },
+      "formatted_address": "Ajase Ipo 11, 251102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1271168,4.8313257",
+      "google_place_id": "ChIJW_J9qRzDNxARVPG-RzM1C08"
+    }
+  },
+  {
+    "id": "110928",
+    "name": "L.G.E.A SCH OMIDO",
+    "registration_area_id": "5756",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "23/09/02/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5756",
+    "ward_name": "AJASE IPO 11",
+    "local_government_id": "498",
+    "local_government_name": "IREPODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "110929",
+    "name": "CENTRAL MARKET OMIDO",
+    "registration_area_id": "5756",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "23/09/02/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5756",
+    "ward_name": "AJASE IPO 11",
+    "local_government_id": "498",
+    "local_government_name": "IREPODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "110930",
+    "name": "NEAR OBA'S PALACE AJENGBE",
+    "registration_area_id": "5756",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "23/09/02/013",
+    "remark": "EXISTING PU",
+    "ward_id": "5756",
+    "ward_name": "AJASE IPO 11",
+    "local_government_id": "498",
+    "local_government_name": "IREPODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.0120053,
+      "longitude": 4.6551361,
+      "viewport": {
+        "northeast": {
+          "lat": 8.013423379892723,
+          "lng": 4.656491829892722
+        },
+        "southwest": {
+          "lat": 8.01072372010728,
+          "lng": 4.653792170107278
+        }
+      },
+      "formatted_address": "2M64+Q3R, 231102, Okuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0120053,4.6551361",
+      "google_place_id": "ChIJE6yV0uqTNxARFrHxZLbFUNk"
+    }
+  },
+  {
+    "id": "110931",
+    "name": "OLOTA'S COMPD ISALE-IJU ILUDUN",
+    "registration_area_id": "5756",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "23/09/02/014",
+    "remark": "EXISTING PU",
+    "ward_id": "5756",
+    "ward_name": "AJASE IPO 11",
+    "local_government_id": "498",
+    "local_government_name": "IREPODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "110932",
+    "name": "CENTRAL MARKET EGUDU",
+    "registration_area_id": "5756",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "23/09/02/015",
+    "remark": "EXISTING PU",
+    "ward_id": "5756",
+    "ward_name": "AJASE IPO 11",
+    "local_government_id": "498",
+    "local_government_name": "IREPODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2565587,
+      "longitude": 5.0267981,
+      "viewport": {
+        "northeast": {
+          "lat": 8.257904729892722,
+          "lng": 5.028116079892722
+        },
+        "southwest": {
+          "lat": 8.255205070107278,
+          "lng": 5.025416420107278
+        }
+      },
+      "formatted_address": "724G+JPF, 251105, Ijara Isin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2565587,5.0267981",
+      "google_place_id": "ChIJe419tzfYNxARXVt9ismz5nk"
+    }
+  }
+]

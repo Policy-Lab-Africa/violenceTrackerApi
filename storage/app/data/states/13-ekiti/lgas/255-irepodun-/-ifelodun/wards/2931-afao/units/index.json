@@ -1,0 +1,234 @@
+[
+  {
+    "id": "54434",
+    "name": "ST DAVID'S PRIMARY SCHOOL / MATERNITY AREA",
+    "registration_area_id": "2931",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "13/13/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2931",
+    "ward_name": "AFAO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.676658499999999,
+      "longitude": 5.2879381,
+      "viewport": {
+        "northeast": {
+          "lat": 7.67802827989272,
+          "lng": 5.289263329892721
+        },
+        "southwest": {
+          "lat": 7.675328620107276,
+          "lng": 5.286563670107277
+        }
+      },
+      "formatted_address": "Onala, Afao Road, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.676658499999999,5.2879381",
+      "google_place_id": "ChIJ-9ggYI3jRxARvGQ7grtsGyE"
+    }
+  },
+  {
+    "id": "54435",
+    "name": "FRONT OF MATERNITY / MATERNITY AREA",
+    "registration_area_id": "2931",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "13/13/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2931",
+    "ward_name": "AFAO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.682168499999999,
+      "longitude": 5.1245766,
+      "viewport": {
+        "northeast": {
+          "lat": 7.683467229892723,
+          "lng": 5.126022379892722
+        },
+        "southwest": {
+          "lat": 7.680767570107279,
+          "lng": 5.123322720107279
+        }
+      },
+      "formatted_address": "M4JF+VR8, igedora, Igede, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.682168499999999,5.1245766",
+      "google_place_id": "ChIJdfeL5Lj-RxARAnDE2TWNKQU"
+    }
+  },
+  {
+    "id": "54436",
+    "name": "EGBIRA FARM SETTLEMENT / EGBIRA FARM SETTLEMENT",
+    "registration_area_id": "2931",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "13/13/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2931",
+    "ward_name": "AFAO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": null
+  },
+  {
+    "id": "54437",
+    "name": "ADEOSUN COMPOUND / H. ADEOSUN 'S  COMPOUND I",
+    "registration_area_id": "2931",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "13/13/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2931",
+    "ward_name": "AFAO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": null
+  },
+  {
+    "id": "54438",
+    "name": "NEAR ADEOSUN COMPOUND / H. ADEOSUN 'S  COMPOUND II",
+    "registration_area_id": "2931",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "13/13/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2931",
+    "ward_name": "AFAO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.661991599999999,
+      "longitude": 5.1588657,
+      "viewport": {
+        "northeast": {
+          "lat": 7.663341179892722,
+          "lng": 5.160212329892722
+        },
+        "southwest": {
+          "lat": 7.660641520107278,
+          "lng": 5.157512670107279
+        }
+      },
+      "formatted_address": "M565+QGW, IRO QUARTERS ARAROMI LCDA, 362106, Iyin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.661991599999999,5.1588657",
+      "google_place_id": "ChIJ0eWFWGb7RxARifQdThCQC20"
+    }
+  },
+  {
+    "id": "54439",
+    "name": "FRONT OF OBA'S PALACE - ARAROMI OBO",
+    "registration_area_id": "2931",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "13/13/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2931",
+    "ward_name": "AFAO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.7110099,
+      "longitude": 5.2983965,
+      "viewport": {
+        "northeast": {
+          "lat": 7.712370579892721,
+          "lng": 5.299733729892721
+        },
+        "southwest": {
+          "lat": 7.709670920107278,
+          "lng": 5.297034070107277
+        }
+      },
+      "formatted_address": "P76X+C92, Afao Road, 362103, Are-Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7110099,5.2983965",
+      "google_place_id": "ChIJ530iwkrjRxARrol8D9d4MKs"
+    }
+  },
+  {
+    "id": "54440",
+    "name": "OPEN SPACE AT TEMIDIRE AREA",
+    "registration_area_id": "2931",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "13/13/01/007",
+    "remark": "NEW PU",
+    "ward_id": "2931",
+    "ward_name": "AFAO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.731258499999999,
+      "longitude": 5.2475518,
+      "viewport": {
+        "northeast": {
+          "lat": 7.790239799999999,
+          "lng": 5.416132
+        },
+        "southwest": {
+          "lat": 7.622909399999999,
+          "lng": 5.0990628
+        }
+      },
+      "formatted_address": "Irepodun/Ifelodun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.731258499999999,5.2475518",
+      "google_place_id": "ChIJ7YOS1hzjRxARBcWro8jaBjY"
+    }
+  },
+  {
+    "id": "54441",
+    "name": "OPEN SPACE AT OLORUNFEMI AREA",
+    "registration_area_id": "2931",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "13/13/01/008",
+    "remark": "NEW PU",
+    "ward_id": "2931",
+    "ward_name": "AFAO",
+    "local_government_id": "255",
+    "local_government_name": "IREPODUN / IFELODUN",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.731258499999999,
+      "longitude": 5.2475518,
+      "viewport": {
+        "northeast": {
+          "lat": 7.790239799999999,
+          "lng": 5.416132
+        },
+        "southwest": {
+          "lat": 7.622909399999999,
+          "lng": 5.0990628
+        }
+      },
+      "formatted_address": "Irepodun/Ifelodun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.731258499999999,5.2475518",
+      "google_place_id": "ChIJ7YOS1hzjRxARBcWro8jaBjY"
+    }
+  }
+]

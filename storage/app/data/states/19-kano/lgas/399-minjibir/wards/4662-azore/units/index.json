@@ -1,0 +1,333 @@
+[
+  {
+    "id": "91197",
+    "name": "AZOR,E AZORE PRIMARY SCHOOL",
+    "registration_area_id": "4662",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/30/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4662",
+    "ward_name": "AZORE",
+    "local_government_id": "399",
+    "local_government_name": "MINJIBIR",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.1540145,
+      "longitude": 8.6753822,
+      "viewport": {
+        "northeast": {
+          "lat": 12.15530482989272,
+          "lng": 8.67674367989272
+        },
+        "southwest": {
+          "lat": 12.15260517010728,
+          "lng": 8.674044020107276
+        }
+      },
+      "formatted_address": "7F4C5M3G+H4X WARD Kano, HAUSA, 702103, Minjibir, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1540145,8.6753822",
+      "google_place_id": "ChIJe7LZebuRrhERFEikm3if9DU"
+    }
+  },
+  {
+    "id": "91198",
+    "name": "DAUNI, DAUNI  PRIMARY SCHOOL",
+    "registration_area_id": "4662",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/30/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4662",
+    "ward_name": "AZORE",
+    "local_government_id": "399",
+    "local_government_name": "MINJIBIR",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.109322,
+      "longitude": 8.5948457,
+      "viewport": {
+        "northeast": {
+          "lat": 12.11072607989272,
+          "lng": 8.596080979892722
+        },
+        "southwest": {
+          "lat": 12.10802642010728,
+          "lng": 8.593381320107278
+        }
+      },
+      "formatted_address": "7F4C4H5V+PRH School, Dauni farakassa 702103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.109322,8.5948457",
+      "google_place_id": "ChIJM0QuHWiFrhERECS51HyJ--U"
+    }
+  },
+  {
+    "id": "91199",
+    "name": "FARAWA OPEN SPACE, (GIDAN MAI UNGUWA)",
+    "registration_area_id": "4662",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/30/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4662",
+    "ward_name": "AZORE",
+    "local_government_id": "399",
+    "local_government_name": "MINJIBIR",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "91200",
+    "name": "KOYA, KOYA PRIMARY SCHOOL",
+    "registration_area_id": "4662",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/30/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4662",
+    "ward_name": "AZORE",
+    "local_government_id": "399",
+    "local_government_name": "MINJIBIR",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.1245209,
+      "longitude": 8.6224211,
+      "viewport": {
+        "northeast": {
+          "lat": 12.12581252989272,
+          "lng": 8.623723129892722
+        },
+        "southwest": {
+          "lat": 12.12311287010728,
+          "lng": 8.621023470107279
+        }
+      },
+      "formatted_address": "7F4C4JFC+RX3 Koya me masalashi, 702103, Yada Kunya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1245209,8.6224211",
+      "google_place_id": "ChIJATPcTdKPrhERZqWDVnVIV4M"
+    }
+  },
+  {
+    "id": "91201",
+    "name": "SAMBAUNA, SAMBAUNA PRIMARY SCHOOL",
+    "registration_area_id": "4662",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/30/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4662",
+    "ward_name": "AZORE",
+    "local_government_id": "399",
+    "local_government_name": "MINJIBIR",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.1275775,
+      "longitude": 8.595354,
+      "viewport": {
+        "northeast": {
+          "lat": 12.12892752989272,
+          "lng": 8.596707179892721
+        },
+        "southwest": {
+          "lat": 12.12622787010728,
+          "lng": 8.594007520107278
+        }
+      },
+      "formatted_address": "7F4C4HHW+24F, Sambauna, 702103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1275775,8.595354",
+      "google_place_id": "ChIJrad0OVOPrhERFadGpmF5Y1k"
+    }
+  },
+  {
+    "id": "91202",
+    "name": "WAKAMAWA, GIDAN MAI UNGUWA I",
+    "registration_area_id": "4662",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/30/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4662",
+    "ward_name": "AZORE",
+    "local_government_id": "399",
+    "local_government_name": "MINJIBIR",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9327737,
+      "longitude": 8.561245699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.93413082989272,
+          "lng": 8.562597779892721
+        },
+        "southwest": {
+          "lat": 11.93143117010728,
+          "lng": 8.559898120107277
+        }
+      },
+      "formatted_address": "Nayibawa 700231, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9327737,8.561245699999999",
+      "google_place_id": "ChIJg6OFQSUrrBER83BCVqd23Gk"
+    }
+  },
+  {
+    "id": "91203",
+    "name": "WAKAMAWA GIDAN, MAI UNGUWA II",
+    "registration_area_id": "4662",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/30/01/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4662",
+    "ward_name": "AZORE",
+    "local_government_id": "399",
+    "local_government_name": "MINJIBIR",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9327737,
+      "longitude": 8.561245699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.93413082989272,
+          "lng": 8.562597779892721
+        },
+        "southwest": {
+          "lat": 11.93143117010728,
+          "lng": 8.559898120107277
+        }
+      },
+      "formatted_address": "Nayibawa 700231, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9327737,8.561245699999999",
+      "google_place_id": "ChIJg6OFQSUrrBER83BCVqd23Gk"
+    }
+  },
+  {
+    "id": "91204",
+    "name": "YABAWA, YABAWA PRIMARY SCHOOL",
+    "registration_area_id": "4662",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/30/01/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4662",
+    "ward_name": "AZORE",
+    "local_government_id": "399",
+    "local_government_name": "MINJIBIR",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.109435,
+      "longitude": 8.6161164,
+      "viewport": {
+        "northeast": {
+          "lat": 12.11078687989272,
+          "lng": 8.617476779892723
+        },
+        "southwest": {
+          "lat": 12.10808722010728,
+          "lng": 8.614777120107279
+        }
+      },
+      "formatted_address": "7F4C4J58+QCH, Yabawa, 702103, Yada Kunya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.109435,8.6161164",
+      "google_place_id": "ChIJtRE6FhaFrhERjn69O6mRaWk"
+    }
+  },
+  {
+    "id": "91205",
+    "name": "AZORE PRIMARY SCHOOL",
+    "registration_area_id": "4662",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/30/01/009",
+    "remark": "NEW PU",
+    "ward_id": "4662",
+    "ward_name": "AZORE",
+    "local_government_id": "399",
+    "local_government_name": "MINJIBIR",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "91206",
+    "name": "SAMBAUNA PRIMARY SCHOOL",
+    "registration_area_id": "4662",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "19/30/01/010",
+    "remark": "NEW PU",
+    "ward_id": "4662",
+    "ward_name": "AZORE",
+    "local_government_id": "399",
+    "local_government_name": "MINJIBIR",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.1275775,
+      "longitude": 8.595354,
+      "viewport": {
+        "northeast": {
+          "lat": 12.12892752989272,
+          "lng": 8.596707179892721
+        },
+        "southwest": {
+          "lat": 12.12622787010728,
+          "lng": 8.594007520107278
+        }
+      },
+      "formatted_address": "7F4C4HHW+24F, Sambauna, 702103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1275775,8.595354",
+      "google_place_id": "ChIJrad0OVOPrhERFadGpmF5Y1k"
+    }
+  },
+  {
+    "id": "91207",
+    "name": "YABAWA PRIMARY SCHOOL",
+    "registration_area_id": "4662",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "19/30/01/011",
+    "remark": "NEW PU",
+    "ward_id": "4662",
+    "ward_name": "AZORE",
+    "local_government_id": "399",
+    "local_government_name": "MINJIBIR",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.109435,
+      "longitude": 8.6161164,
+      "viewport": {
+        "northeast": {
+          "lat": 12.11078687989272,
+          "lng": 8.617476779892723
+        },
+        "southwest": {
+          "lat": 12.10808722010728,
+          "lng": 8.614777120107279
+        }
+      },
+      "formatted_address": "7F4C4J58+QCH, Yabawa, 702103, Yada Kunya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.109435,8.6161164",
+      "google_place_id": "ChIJtRE6FhaFrhERjn69O6mRaWk"
+    }
+  }
+]

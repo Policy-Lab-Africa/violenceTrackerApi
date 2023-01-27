@@ -1,0 +1,715 @@
+[
+  {
+    "id": "38924",
+    "name": "OLD MARKET ROAD OPPOSITE NKANU OKIO",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "09/17/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.9944837,
+      "longitude": 8.3555587,
+      "viewport": {
+        "northeast": {
+          "lat": 4.995811029892723,
+          "lng": 8.356945679892721
+        },
+        "southwest": {
+          "lat": 4.993111370107279,
+          "lng": 8.354246020107277
+        }
+      },
+      "formatted_address": "Plot 70 Asari Eso, Off Mcc Rd, Layout 540222, Calabar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9944837,8.3555587",
+      "google_place_id": "ChIJRUX1gkyGZxARY0uFznYssJ8"
+    }
+  },
+  {
+    "id": "38925",
+    "name": "ST. MARY'S PRIMARY SCHOOL, UGEP",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "09/17/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.8029474,
+      "longitude": 8.0740942,
+      "viewport": {
+        "northeast": {
+          "lat": 5.804306629892722,
+          "lng": 8.07552062989272
+        },
+        "southwest": {
+          "lat": 5.801606970107278,
+          "lng": 8.072820970107276
+        }
+      },
+      "formatted_address": "68 Ubana Okun St, 543105, Ugep, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8029474,8.0740942",
+      "google_place_id": "ChIJmb7gOE7dXBAR7N3TQevvUsQ"
+    }
+  },
+  {
+    "id": "38926",
+    "name": "OLD MARKET ROAD, BESIDE MAYGO",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "09/17/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "38927",
+    "name": "IJOM ST, BESIDE LATE ENO EKO",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "09/17/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "38928",
+    "name": "LEFT SIDE OF GENERAL HOSPITAL  GATE",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "09/17/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.8081659,
+      "longitude": 8.0726798,
+      "viewport": {
+        "northeast": {
+          "lat": 5.809500729892721,
+          "lng": 8.074067829892721
+        },
+        "southwest": {
+          "lat": 5.806801070107277,
+          "lng": 8.071368170107277
+        }
+      },
+      "formatted_address": "R35F+737, 543105, Ugep, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8081659,8.0726798",
+      "google_place_id": "ChIJ372fi-3cXBARUe7vMHSGXVQ"
+    }
+  },
+  {
+    "id": "38929",
+    "name": "IJOM TOWN HALL",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "09/17/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "38930",
+    "name": "ST. PETER'S PRIMARY SCHOOL, UGEP",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "09/17/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.8029474,
+      "longitude": 8.0740942,
+      "viewport": {
+        "northeast": {
+          "lat": 5.804306629892722,
+          "lng": 8.07552062989272
+        },
+        "southwest": {
+          "lat": 5.801606970107278,
+          "lng": 8.072820970107276
+        }
+      },
+      "formatted_address": "68 Ubana Okun St, 543105, Ugep, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8029474,8.0740942",
+      "google_place_id": "ChIJmb7gOE7dXBAR7N3TQevvUsQ"
+    }
+  },
+  {
+    "id": "38931",
+    "name": "EGEITI",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "09/17/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.8066339,
+      "longitude": 8.0765288,
+      "viewport": {
+        "northeast": {
+          "lat": 5.808026279892721,
+          "lng": 8.077966829892722
+        },
+        "southwest": {
+          "lat": 5.805326620107278,
+          "lng": 8.075267170107278
+        }
+      },
+      "formatted_address": "1 EGEITI FARM ROAD ANEJA IJOWI UGEP YAKURR LGA # UGEP Yakurr SOUTH SOUTH, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8066339,8.0765288",
+      "google_place_id": "ChIJ3yT1Jt_dXBARbeiDoED-jH8"
+    }
+  },
+  {
+    "id": "38932",
+    "name": "IKPA LANG, NEAR OF ELD OUT ARIKPO",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "09/17/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
+  },
+  {
+    "id": "38933",
+    "name": "NEAR CHIEF OKON OBETEN'S COMPOUND",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "09/17/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.9757165,
+      "longitude": 8.3417006,
+      "viewport": {
+        "northeast": {
+          "lat": 4.977015229892721,
+          "lng": 8.343239729892721
+        },
+        "southwest": {
+          "lat": 4.974315570107278,
+          "lng": 8.340540070107277
+        }
+      },
+      "formatted_address": "Leopad Town 540281, Calabar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9757165,8.3417006",
+      "google_place_id": "ChIJS3nwTiaHZxAROhUbcKKpaus"
+    }
+  },
+  {
+    "id": "38934",
+    "name": "KETABEBE PLAY GROUND",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "09/17/07/011",
+    "remark": "EXISTING PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.809428899999999,
+      "longitude": 8.0828808,
+      "viewport": {
+        "northeast": {
+          "lat": 5.810770279892722,
+          "lng": 8.08422692989272
+        },
+        "southwest": {
+          "lat": 5.808070620107278,
+          "lng": 8.081527270107276
+        }
+      },
+      "formatted_address": "R35M+Q52, 543105, Ugep, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.809428899999999,8.0828808",
+      "google_place_id": "ChIJFThPzOTcXBAR-u4OgoQQ-iM"
+    }
+  },
+  {
+    "id": "38935",
+    "name": "NEAR ELD. BASSEY UBI'S COUNPOUND",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "09/17/07/012",
+    "remark": "EXISTING PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.9944837,
+      "longitude": 8.3555587,
+      "viewport": {
+        "northeast": {
+          "lat": 4.995811029892723,
+          "lng": 8.356945679892721
+        },
+        "southwest": {
+          "lat": 4.993111370107279,
+          "lng": 8.354246020107277
+        }
+      },
+      "formatted_address": "Plot 70 Asari Eso, Off Mcc Rd, Layout 540222, Calabar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9944837,8.3555587",
+      "google_place_id": "ChIJRUX1gkyGZxARY0uFznYssJ8"
+    }
+  },
+  {
+    "id": "38936",
+    "name": "GOVERNMENT PRIMARY SCHOOL, UGEP",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "09/17/07/013",
+    "remark": "EXISTING PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.8045692,
+      "longitude": 8.080920599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.805925679892721,
+          "lng": 8.08225117989272
+        },
+        "southwest": {
+          "lat": 5.803226020107277,
+          "lng": 8.079551520107277
+        }
+      },
+      "formatted_address": "R33J+R9W, Idomi road, Ugep, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8045692,8.080920599999999",
+      "google_place_id": "ChIJPwBiSdTdXBARkBVK2U7ZXU8"
+    }
+  },
+  {
+    "id": "38937",
+    "name": "NEAR ONUN JOEL'S COMPOUND, NTIEFOLI",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "09/17/07/014",
+    "remark": "EXISTING PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "38938",
+    "name": "PRESBYTERIAN PRIMARY SCHOOL, UGEP",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "09/17/07/015",
+    "remark": "EXISTING PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.807750299999999,
+      "longitude": 8.0835963,
+      "viewport": {
+        "northeast": {
+          "lat": 5.809122729892721,
+          "lng": 8.084735829892724
+        },
+        "southwest": {
+          "lat": 5.806423070107277,
+          "lng": 8.08203617010728
+        }
+      },
+      "formatted_address": "R35M+4C5, 543105, Ugep, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.807750299999999,8.0835963",
+      "google_place_id": "ChIJrbJBavvcXBAROys21-x2KIQ"
+    }
+  },
+  {
+    "id": "38939",
+    "name": "ST. MARY'S PRIMARY SCHOOL, UGEP",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "09/17/07/016",
+    "remark": "NEW PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.8029474,
+      "longitude": 8.0740942,
+      "viewport": {
+        "northeast": {
+          "lat": 5.804306629892722,
+          "lng": 8.07552062989272
+        },
+        "southwest": {
+          "lat": 5.801606970107278,
+          "lng": 8.072820970107276
+        }
+      },
+      "formatted_address": "68 Ubana Okun St, 543105, Ugep, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8029474,8.0740942",
+      "google_place_id": "ChIJmb7gOE7dXBAR7N3TQevvUsQ"
+    }
+  },
+  {
+    "id": "38940",
+    "name": "ST. PEARSES PRIMARY SCHOOL",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "09/17/07/017",
+    "remark": "NEW PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.8066325,
+      "longitude": 8.0765273,
+      "viewport": {
+        "northeast": {
+          "lat": 5.808026279892721,
+          "lng": 8.077966829892722
+        },
+        "southwest": {
+          "lat": 5.805326620107278,
+          "lng": 8.075267170107278
+        }
+      },
+      "formatted_address": "R34G+MJ2, 543105, Ugep, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8066325,8.0765273",
+      "google_place_id": "ChIJAQAAAPHcXBARg3tFxZ8NoFo"
+    }
+  },
+  {
+    "id": "38941",
+    "name": "IN FRONT OF ECUMENICAL SCHOOL, ALONG RUKUS FARM ROAD",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "09/17/07/018",
+    "remark": "NEW PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "38942",
+    "name": "GIRLS SECONDARY SCHOOL BY OMINI OJI ROAD",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "09/17/07/019",
+    "remark": "NEW PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.798801099999999,
+      "longitude": 8.0712645,
+      "viewport": {
+        "northeast": {
+          "lat": 5.800112429892721,
+          "lng": 8.072688079892721
+        },
+        "southwest": {
+          "lat": 5.797412770107277,
+          "lng": 8.069988420107277
+        }
+      },
+      "formatted_address": "Q3XC+GGC, 543105, Ugep, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.798801099999999,8.0712645",
+      "google_place_id": "ChIJcQwifl_cXBARHtEjiOk-I7M"
+    }
+  },
+  {
+    "id": "38943",
+    "name": "IN FRONT OF ELDER EMMANUEL ABAM'S COMPOUND",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "09/17/07/020",
+    "remark": "NEW PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "38944",
+    "name": "OPEN SPACE NEAR CHIEF UBANA EWA'S FRONTAGE",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "09/17/07/021",
+    "remark": "NEW PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": null
+  },
+  {
+    "id": "38945",
+    "name": "VISSION COMMERCIAL SCHOOL, EGEITI",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "09/17/07/022",
+    "remark": "NEW PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.8176773,
+      "longitude": 8.0721267,
+      "viewport": {
+        "northeast": {
+          "lat": 5.819034129892722,
+          "lng": 8.073465729892721
+        },
+        "southwest": {
+          "lat": 5.816334470107278,
+          "lng": 8.070766070107277
+        }
+      },
+      "formatted_address": "R39C+3V7, 543105, Ugep, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8176773,8.0721267",
+      "google_place_id": "ChIJx1rfSOrcXBARj04NvdDF96k"
+    }
+  },
+  {
+    "id": "38946",
+    "name": "IN FRONT OF JESUS TRIUMPHANT FAITH MINISTRY",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "09/17/07/023",
+    "remark": "NEW PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.8110461,
+      "longitude": 8.068288599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.812336179892722,
+          "lng": 8.069779329892722
+        },
+        "southwest": {
+          "lat": 5.809636520107278,
+          "lng": 8.067079670107278
+        }
+      },
+      "formatted_address": "R369+C87, 543105, Ugep, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8110461,8.068288599999999",
+      "google_place_id": "ChIJvRy7zJLcXBAR-3htgONv5YY"
+    }
+  },
+  {
+    "id": "38947",
+    "name": "MOTOR PARK BY MARKET SQUARE, UGEP",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "09/17/07/024",
+    "remark": "NEW PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.8102862,
+      "longitude": 8.0852744,
+      "viewport": {
+        "northeast": {
+          "lat": 5.811562829892722,
+          "lng": 8.086637229892721
+        },
+        "southwest": {
+          "lat": 5.808863170107278,
+          "lng": 8.083937570107278
+        }
+      },
+      "formatted_address": "R36P+446, 543105, Ugep, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8102862,8.0852744",
+      "google_place_id": "ChIJsy0GneTcXBARRUF8V0TXjdI"
+    }
+  },
+  {
+    "id": "38948",
+    "name": "LUSANGHA BESIDE UBITEX HOTEL, UGEP",
+    "registration_area_id": "2146",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "09/17/07/025",
+    "remark": "NEW PU",
+    "ward_id": "2146",
+    "ward_name": "IJOM",
+    "local_government_id": "185",
+    "local_government_name": "YAKURR",
+    "state_id": "9",
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.8122029,
+      "longitude": 8.0732683,
+      "viewport": {
+        "northeast": {
+          "lat": 5.813664879892722,
+          "lng": 8.074635979892722
+        },
+        "southwest": {
+          "lat": 5.810965220107278,
+          "lng": 8.071936320107278
+        }
+      },
+      "formatted_address": "R36F+V8J, 543105, Ugep, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8122029,8.0732683",
+      "google_place_id": "ChIJw0MPuO3cXBARoKL7NHUxwqs"
+    }
+  }
+]

@@ -1,0 +1,779 @@
+[
+  {
+    "id": "26679",
+    "name": "MARKET SQUARE - MBAGELE",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "07/05/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.309701899999999,
+      "longitude": 8.9959771,
+      "viewport": {
+        "northeast": {
+          "lat": 7.311042579892721,
+          "lng": 8.997183179892723
+        },
+        "southwest": {
+          "lat": 7.308342920107276,
+          "lng": 8.994483520107279
+        }
+      },
+      "formatted_address": "8X5W+V9Q, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.309701899999999,8.9959771",
+      "google_place_id": "ChIJQXOgkSM9WhARr1fkwcR16jI"
+    }
+  },
+  {
+    "id": "26680",
+    "name": "LGEA PRIM. SCHOOL - YOHOL",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "07/05/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.329086699999999,
+      "longitude": 9.0007749,
+      "viewport": {
+        "northeast": {
+          "lat": 7.330401029892722,
+          "lng": 9.002065179892721
+        },
+        "southwest": {
+          "lat": 7.327701370107278,
+          "lng": 8.999365520107277
+        }
+      },
+      "formatted_address": "82H2+J7H, ANYIMAN, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.329086699999999,9.0007749",
+      "google_place_id": "ChIJh0v9OL49WhARt0VLV1b5vkg"
+    }
+  },
+  {
+    "id": "26681",
+    "name": "LGEA PRIM. SCHOOL - YAHIM I",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "07/05/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.329086699999999,
+      "longitude": 9.0007749,
+      "viewport": {
+        "northeast": {
+          "lat": 7.330401029892722,
+          "lng": 9.002065179892721
+        },
+        "southwest": {
+          "lat": 7.327701370107278,
+          "lng": 8.999365520107277
+        }
+      },
+      "formatted_address": "82H2+J7H, ANYIMAN, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.329086699999999,9.0007749",
+      "google_place_id": "ChIJh0v9OL49WhARt0VLV1b5vkg"
+    }
+  },
+  {
+    "id": "26682",
+    "name": "LGEA PRIM. SCHOOL - YAHIM II",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "07/05/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.329086699999999,
+      "longitude": 9.0007749,
+      "viewport": {
+        "northeast": {
+          "lat": 7.330401029892722,
+          "lng": 9.002065179892721
+        },
+        "southwest": {
+          "lat": 7.327701370107278,
+          "lng": 8.999365520107277
+        }
+      },
+      "formatted_address": "82H2+J7H, ANYIMAN, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.329086699999999,9.0007749",
+      "google_place_id": "ChIJh0v9OL49WhARt0VLV1b5vkg"
+    }
+  },
+  {
+    "id": "26683",
+    "name": "MBAANKU - NR TIVKAA I COMP.",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "07/05/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.2982285,
+      "longitude": 8.7934954,
+      "viewport": {
+        "northeast": {
+          "lat": 7.299587679892722,
+          "lng": 8.794848029892721
+        },
+        "southwest": {
+          "lat": 7.296888020107278,
+          "lng": 8.792148370107277
+        }
+      },
+      "formatted_address": "7QXV+79X, 981113, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2982285,8.7934954",
+      "google_place_id": "ChIJl4O0Sv1AWhARsL94hy7u97Y"
+    }
+  },
+  {
+    "id": "26684",
+    "name": "MBAANKU - NR TIVKAA II COMP.",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "07/05/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.2982285,
+      "longitude": 8.7934954,
+      "viewport": {
+        "northeast": {
+          "lat": 7.299587679892722,
+          "lng": 8.794848029892721
+        },
+        "southwest": {
+          "lat": 7.296888020107278,
+          "lng": 8.792148370107277
+        }
+      },
+      "formatted_address": "7QXV+79X, 981113, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2982285,8.7934954",
+      "google_place_id": "ChIJl4O0Sv1AWhARsL94hy7u97Y"
+    }
+  },
+  {
+    "id": "26685",
+    "name": "MBAANKU NEAR TSE MANTA",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "07/05/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.2982285,
+      "longitude": 8.7934954,
+      "viewport": {
+        "northeast": {
+          "lat": 7.299587679892722,
+          "lng": 8.794848029892721
+        },
+        "southwest": {
+          "lat": 7.296888020107278,
+          "lng": 8.792148370107277
+        }
+      },
+      "formatted_address": "7QXV+79X, 981113, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2982285,8.7934954",
+      "google_place_id": "ChIJl4O0Sv1AWhARsL94hy7u97Y"
+    }
+  },
+  {
+    "id": "26686",
+    "name": "MARKET SQUARE - TYOADO I",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "07/05/06/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.323364400000001,
+      "longitude": 9.001496099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.324733379892721,
+          "lng": 9.00288412989272
+        },
+        "southwest": {
+          "lat": 7.322033720107277,
+          "lng": 9.000184470107277
+        }
+      },
+      "formatted_address": "82F2+8HX, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.323364400000001,9.001496099999999",
+      "google_place_id": "ChIJ-_Cn1Dk9WhARzAK60RKj-Tw"
+    }
+  },
+  {
+    "id": "26687",
+    "name": "MARKET SQUARE - TYOADO II",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "07/05/06/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.323364400000001,
+      "longitude": 9.001496099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.324733379892721,
+          "lng": 9.00288412989272
+        },
+        "southwest": {
+          "lat": 7.322033720107277,
+          "lng": 9.000184470107277
+        }
+      },
+      "formatted_address": "82F2+8HX, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.323364400000001,9.001496099999999",
+      "google_place_id": "ChIJ-_Cn1Dk9WhARzAK60RKj-Tw"
+    }
+  },
+  {
+    "id": "26688",
+    "name": "MARKET SQUARE - NDUR",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "07/05/06/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3249966,
+      "longitude": 9.0050022,
+      "viewport": {
+        "northeast": {
+          "lat": 7.326289029892722,
+          "lng": 9.006389379892722
+        },
+        "southwest": {
+          "lat": 7.323589370107278,
+          "lng": 9.003689720107278
+        }
+      },
+      "formatted_address": "Benue Cement, 970222, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3249966,9.0050022",
+      "google_place_id": "ChIJh6OXNjY9WhAR-sMCwjo12w8"
+    }
+  },
+  {
+    "id": "26689",
+    "name": "RCM PRIM. SCHOOL - IORJAA",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "07/05/06/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.301682599999999,
+      "longitude": 8.9456404,
+      "viewport": {
+        "northeast": {
+          "lat": 7.303077079892722,
+          "lng": 8.94705457989272
+        },
+        "southwest": {
+          "lat": 7.300377420107278,
+          "lng": 8.944354920107276
+        }
+      },
+      "formatted_address": "6FVC8W2W+J7V, ABO MBAYION, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.301682599999999,8.9456404",
+      "google_place_id": "ChIJB-4nh709WhARMRU4Ym9Vbqk"
+    }
+  },
+  {
+    "id": "26690",
+    "name": "MARKET SQUARE - PIKA",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "07/05/06/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "26691",
+    "name": "MARKET SQUARE - UKULUGH",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "07/05/06/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.309701899999999,
+      "longitude": 8.9959771,
+      "viewport": {
+        "northeast": {
+          "lat": 7.311042579892721,
+          "lng": 8.997183179892723
+        },
+        "southwest": {
+          "lat": 7.308342920107276,
+          "lng": 8.994483520107279
+        }
+      },
+      "formatted_address": "8X5W+V9Q, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.309701899999999,8.9959771",
+      "google_place_id": "ChIJQXOgkSM9WhARr1fkwcR16jI"
+    }
+  },
+  {
+    "id": "26692",
+    "name": "MARKET SQUARE - UJON",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "07/05/06/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.323364400000001,
+      "longitude": 9.001496099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.324733379892721,
+          "lng": 9.00288412989272
+        },
+        "southwest": {
+          "lat": 7.322033720107277,
+          "lng": 9.000184470107277
+        }
+      },
+      "formatted_address": "82F2+8HX, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.323364400000001,9.001496099999999",
+      "google_place_id": "ChIJ-_Cn1Dk9WhARzAK60RKj-Tw"
+    }
+  },
+  {
+    "id": "26693",
+    "name": "OPEN SPACE - TSEHE IGYUNGU",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "07/05/06/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.307194600000001,
+      "longitude": 8.9702709,
+      "viewport": {
+        "northeast": {
+          "lat": 7.308637029892722,
+          "lng": 8.97161072989272
+        },
+        "southwest": {
+          "lat": 7.305937370107278,
+          "lng": 8.968911070107277
+        }
+      },
+      "formatted_address": "8X4C+V4C, near NKST NZUGUL, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.307194600000001,8.9702709",
+      "google_place_id": "ChIJa_WzQwA9WhART8aqtHBNJ8Y"
+    }
+  },
+  {
+    "id": "26694",
+    "name": "LGEA PRIM SCH. ORNGU DWEM",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "07/05/06/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.329086699999999,
+      "longitude": 9.0007749,
+      "viewport": {
+        "northeast": {
+          "lat": 7.330401029892722,
+          "lng": 9.002065179892721
+        },
+        "southwest": {
+          "lat": 7.327701370107278,
+          "lng": 8.999365520107277
+        }
+      },
+      "formatted_address": "82H2+J7H, ANYIMAN, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.329086699999999,9.0007749",
+      "google_place_id": "ChIJh0v9OL49WhARt0VLV1b5vkg"
+    }
+  },
+  {
+    "id": "26695",
+    "name": "MBAANKU - NR AKERA NAMBE COMP.",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "07/05/06/017",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "26696",
+    "name": "MBAANKU - NR SHIRGA COMP.",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "07/05/06/018",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "26697",
+    "name": "MBAANKU - AZAGA VILLAGE",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "07/05/06/019",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.307194600000001,
+      "longitude": 8.9702709,
+      "viewport": {
+        "northeast": {
+          "lat": 7.308637029892722,
+          "lng": 8.97161072989272
+        },
+        "southwest": {
+          "lat": 7.305937370107278,
+          "lng": 8.968911070107277
+        }
+      },
+      "formatted_address": "8X4C+V4C, near NKST NZUGUL, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.307194600000001,8.9702709",
+      "google_place_id": "ChIJa_WzQwA9WhART8aqtHBNJ8Y"
+    }
+  },
+  {
+    "id": "26698",
+    "name": "MARKET SQUARE - ABAV UGEDE",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "07/05/06/020",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7151777,
+      "longitude": 8.5032863,
+      "viewport": {
+        "northeast": {
+          "lat": 7.716579629892723,
+          "lng": 8.504661129892721
+        },
+        "southwest": {
+          "lat": 7.713879970107279,
+          "lng": 8.501961470107277
+        }
+      },
+      "formatted_address": "Margaret Ichen Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7151777,8.5032863",
+      "google_place_id": "ChIJob-ofrKBUBAReRno3Ox3FT0"
+    }
+  },
+  {
+    "id": "26699",
+    "name": "MARKET SQUARE WANINDYER",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "07/05/06/021",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.32248,
+      "longitude": 9.050586000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.323250829892721,
+          "lng": 9.052469879892723
+        },
+        "southwest": {
+          "lat": 7.320551170107277,
+          "lng": 9.049770220107279
+        }
+      },
+      "formatted_address": "OPPOSITE BRISTON GATE GBOKO BENUE STATE#, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.32248,9.050586000000001",
+      "google_place_id": "ChIJo5LqbgQjWhARtspsAeKWYQo"
+    }
+  },
+  {
+    "id": "26700",
+    "name": "MBAANKU - TAKPI VILLAGE",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "07/05/06/022",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.307194600000001,
+      "longitude": 8.9702709,
+      "viewport": {
+        "northeast": {
+          "lat": 7.308637029892722,
+          "lng": 8.97161072989272
+        },
+        "southwest": {
+          "lat": 7.305937370107278,
+          "lng": 8.968911070107277
+        }
+      },
+      "formatted_address": "8X4C+V4C, near NKST NZUGUL, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.307194600000001,8.9702709",
+      "google_place_id": "ChIJa_WzQwA9WhART8aqtHBNJ8Y"
+    }
+  },
+  {
+    "id": "26701",
+    "name": "LGEA PRIM. SCHOOL - AKYUMBUR",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "07/05/06/023",
+    "remark": "EXISTING PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.329086699999999,
+      "longitude": 9.0007749,
+      "viewport": {
+        "northeast": {
+          "lat": 7.330401029892722,
+          "lng": 9.002065179892721
+        },
+        "southwest": {
+          "lat": 7.327701370107278,
+          "lng": 8.999365520107277
+        }
+      },
+      "formatted_address": "82H2+J7H, ANYIMAN, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.329086699999999,9.0007749",
+      "google_place_id": "ChIJh0v9OL49WhARt0VLV1b5vkg"
+    }
+  },
+  {
+    "id": "26702",
+    "name": "MARKET SQUARE IEEKU",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "07/05/06/024",
+    "remark": "NEW PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.323364400000001,
+      "longitude": 9.001496099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.324733379892721,
+          "lng": 9.00288412989272
+        },
+        "southwest": {
+          "lat": 7.322033720107277,
+          "lng": 9.000184470107277
+        }
+      },
+      "formatted_address": "82F2+8HX, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.323364400000001,9.001496099999999",
+      "google_place_id": "ChIJ-_Cn1Dk9WhARzAK60RKj-Tw"
+    }
+  },
+  {
+    "id": "26703",
+    "name": "MARKET SQUARE ABAGEN",
+    "registration_area_id": "1432",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "07/05/06/025",
+    "remark": "NEW PU",
+    "ward_id": "1432",
+    "ward_name": "MBAANKU",
+    "local_government_id": "123",
+    "local_government_name": "GBOKO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.32248,
+      "longitude": 9.050586000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.323250829892721,
+          "lng": 9.052469879892723
+        },
+        "southwest": {
+          "lat": 7.320551170107277,
+          "lng": 9.049770220107279
+        }
+      },
+      "formatted_address": "OPPOSITE BRISTON GATE GBOKO BENUE STATE#, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.32248,9.050586000000001",
+      "google_place_id": "ChIJo5LqbgQjWhARtspsAeKWYQo"
+    }
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "id": "11574",
+    "name": "PRY SCH, IKOT OSUTE",
+    "registration_area_id": "684",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "03/26/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "684",
+    "ward_name": "ABAK MIDIM 1V",
+    "local_government_id": "64",
+    "local_government_name": "ORUK ANAM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.6790379,
+      "longitude": 7.611710899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.680056929892722,
+          "lng": 7.613347679892721
+        },
+        "southwest": {
+          "lat": 4.677357270107279,
+          "lng": 7.610648020107277
+        }
+      },
+      "formatted_address": "MJH6+JM8, 533112, Ikot Inuen, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.6790379,7.611710899999999",
+      "google_place_id": "ChIJrWEyIFxzaBARX79wbNGI360"
+    }
+  },
+  {
+    "id": "11575",
+    "name": "VILLAGE HALL, IKOT EDA",
+    "registration_area_id": "684",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "03/26/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "684",
+    "ward_name": "ABAK MIDIM 1V",
+    "local_government_id": "64",
+    "local_government_name": "ORUK ANAM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.6766239,
+      "longitude": 7.5621235,
+      "viewport": {
+        "northeast": {
+          "lat": 4.677944979892723,
+          "lng": 7.563466179892721
+        },
+        "southwest": {
+          "lat": 4.675245320107279,
+          "lng": 7.560766520107277
+        }
+      },
+      "formatted_address": "MHG6+JRX, 533114, Ikot Osute, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.6766239,7.5621235",
+      "google_place_id": "ChIJGYk0qNBsaBARREjBdrYuwG0"
+    }
+  },
+  {
+    "id": "11576",
+    "name": "VILLAGE SQUARE, IKOT OKO",
+    "registration_area_id": "684",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "03/26/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "684",
+    "ward_name": "ABAK MIDIM 1V",
+    "local_government_id": "64",
+    "local_government_name": "ORUK ANAM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "11577",
+    "name": "VILLAGE HALL, IKOT OTU",
+    "registration_area_id": "684",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "03/26/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "684",
+    "ward_name": "ABAK MIDIM 1V",
+    "local_government_id": "64",
+    "local_government_name": "ORUK ANAM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7031544,
+      "longitude": 7.5851092,
+      "viewport": {
+        "northeast": {
+          "lat": 4.704450729892722,
+          "lng": 7.586557729892723
+        },
+        "southwest": {
+          "lat": 4.701751070107278,
+          "lng": 7.583858070107279
+        }
+      },
+      "formatted_address": "PH3P+725, 533114, Ikot Osute, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7031544,7.5851092",
+      "google_place_id": "ChIJNbHtQsESaBAR8FU8W8DXyr8"
+    }
+  },
+  {
+    "id": "11578",
+    "name": "PRY SCH, IKOT UKPONG OBIO ESE",
+    "registration_area_id": "684",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "03/26/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "684",
+    "ward_name": "ABAK MIDIM 1V",
+    "local_government_id": "64",
+    "local_government_name": "ORUK ANAM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "11579",
+    "name": "PRY SCH, IKOT AKPAN UDO",
+    "registration_area_id": "684",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "03/26/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "684",
+    "ward_name": "ABAK MIDIM 1V",
+    "local_government_id": "64",
+    "local_government_name": "ORUK ANAM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7939489,
+      "longitude": 7.677914800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.794873879892722,
+          "lng": 7.679454329892723
+        },
+        "southwest": {
+          "lat": 4.792174220107278,
+          "lng": 7.676754670107279
+        }
+      },
+      "formatted_address": "Otung Akpan Ntia, Ikot Akpan Ntia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7939489,7.677914800000001",
+      "google_place_id": "ChIJDeH2p1cRaBAR8bg1gYpQdq0"
+    }
+  },
+  {
+    "id": "11580",
+    "name": "TOWN HALL, IKOT UTIAT",
+    "registration_area_id": "684",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "03/26/11/007",
+    "remark": "EXISTING PU",
+    "ward_id": "684",
+    "ward_name": "ABAK MIDIM 1V",
+    "local_government_id": "64",
+    "local_government_name": "ORUK ANAM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.668315,
+      "longitude": 7.577647999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.669665479892721,
+          "lng": 7.579016829892722
+        },
+        "southwest": {
+          "lat": 4.666965820107277,
+          "lng": 7.576317170107278
+        }
+      },
+      "formatted_address": "MH9H+83C, 533114, Ikot Osute, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.668315,7.577647999999999",
+      "google_place_id": "ChIJr1XA3SJtaBARctTVmQsF3vc"
+    }
+  },
+  {
+    "id": "11581",
+    "name": "VILLAGE SQUARE, UTE ETOK",
+    "registration_area_id": "684",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "03/26/11/008",
+    "remark": "EXISTING PU",
+    "ward_id": "684",
+    "ward_name": "ABAK MIDIM 1V",
+    "local_government_id": "64",
+    "local_government_name": "ORUK ANAM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0206399,
+      "longitude": 7.9387279,
+      "viewport": {
+        "northeast": {
+          "lat": 5.022041229892722,
+          "lng": 7.940047729892719
+        },
+        "southwest": {
+          "lat": 5.019341570107278,
+          "lng": 7.937348070107276
+        }
+      },
+      "formatted_address": "2WCQ+6GG, Udo Inyang Close, Ewet Housing Estate 520102, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0206399,7.9387279",
+      "google_place_id": "ChIJZSGTYBVXXRARAbcCUdh3t0M"
+    }
+  },
+  {
+    "id": "11582",
+    "name": "VILLAGE SQUARE,  IKOT INUEK",
+    "registration_area_id": "684",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "03/26/11/009",
+    "remark": "EXISTING PU",
+    "ward_id": "684",
+    "ward_name": "ABAK MIDIM 1V",
+    "local_government_id": "64",
+    "local_government_name": "ORUK ANAM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "11583",
+    "name": "VILLAGE SQUARE,  IKOT OBIO ATARA",
+    "registration_area_id": "684",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "03/26/11/010",
+    "remark": "EXISTING PU",
+    "ward_id": "684",
+    "ward_name": "ABAK MIDIM 1V",
+    "local_government_id": "64",
+    "local_government_name": "ORUK ANAM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "11584",
+    "name": "OPEN SPACE, IKOT OSUTE",
+    "registration_area_id": "684",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "03/26/11/011",
+    "remark": "NEW PU",
+    "ward_id": "684",
+    "ward_name": "ABAK MIDIM 1V",
+    "local_government_id": "64",
+    "local_government_name": "ORUK ANAM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.6893482,
+      "longitude": 7.565350199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.696013499999999,
+          "lng": 7.574388199999999
+        },
+        "southwest": {
+          "lat": 4.6798559,
+          "lng": 7.5580469
+        }
+      },
+      "formatted_address": "533114, Ikot Osute, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.6893482,7.565350199999999",
+      "google_place_id": "ChIJ74uUVNUSaBARijlefTfYRRM"
+    }
+  },
+  {
+    "id": "11585",
+    "name": "COMMUNITY SECONDARY COMMERCIAL SCHOOL, IKOT OSUTE",
+    "registration_area_id": "684",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "03/26/11/012",
+    "remark": "NEW PU",
+    "ward_id": "684",
+    "ward_name": "ABAK MIDIM 1V",
+    "local_government_id": "64",
+    "local_government_name": "ORUK ANAM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.6465877,
+      "longitude": 7.567712500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.647931329892722,
+          "lng": 7.569069779892723
+        },
+        "southwest": {
+          "lat": 4.645231670107278,
+          "lng": 7.566370120107279
+        }
+      },
+      "formatted_address": "JHW9+J3P, Ikot Akpan Ishiet, Ikot Akpan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.6465877,7.567712500000001",
+      "google_place_id": "ChIJYQhT1UttaBARbHCjKCW-mLw"
+    }
+  },
+  {
+    "id": "11586",
+    "name": "MARKET SQUARE, IKOT EDAH",
+    "registration_area_id": "684",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "03/26/11/013",
+    "remark": "NEW PU",
+    "ward_id": "684",
+    "ward_name": "ABAK MIDIM 1V",
+    "local_government_id": "64",
+    "local_government_name": "ORUK ANAM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "11587",
+    "name": "OPEN SPACE, IKOT OTU",
+    "registration_area_id": "684",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "03/26/11/014",
+    "remark": "NEW PU",
+    "ward_id": "684",
+    "ward_name": "ABAK MIDIM 1V",
+    "local_government_id": "64",
+    "local_government_name": "ORUK ANAM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "11588",
+    "name": "VILLAGE SQUARE, IKOT UKPONG OBIO ESE",
+    "registration_area_id": "684",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "03/26/11/015",
+    "remark": "NEW PU",
+    "ward_id": "684",
+    "ward_name": "ABAK MIDIM 1V",
+    "local_government_id": "64",
+    "local_government_name": "ORUK ANAM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "11589",
+    "name": "OPEN SPACE, IKOT AKPAN UDO",
+    "registration_area_id": "684",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "03/26/11/016",
+    "remark": "NEW PU",
+    "ward_id": "684",
+    "ward_name": "ABAK MIDIM 1V",
+    "local_government_id": "64",
+    "local_government_name": "ORUK ANAM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "11590",
+    "name": "MARKET SQUARE, IKOT UTIAT",
+    "registration_area_id": "684",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "03/26/11/017",
+    "remark": "NEW PU",
+    "ward_id": "684",
+    "ward_name": "ABAK MIDIM 1V",
+    "local_government_id": "64",
+    "local_government_name": "ORUK ANAM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.6128415,
+      "longitude": 7.355794299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.614164229892722,
+          "lng": 7.35710877989272
+        },
+        "southwest": {
+          "lat": 4.611464570107279,
+          "lng": 7.354409120107277
+        }
+      },
+      "formatted_address": "J974+48W, 502101, Bomu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.6128415,7.355794299999999",
+      "google_place_id": "ChIJl2-_HbhBaBARIm0FCNowYUE"
+    }
+  },
+  {
+    "id": "11591",
+    "name": "GOVERNMENT SCHL, UTE ETOK",
+    "registration_area_id": "684",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "03/26/11/018",
+    "remark": "NEW PU",
+    "ward_id": "684",
+    "ward_name": "ABAK MIDIM 1V",
+    "local_government_id": "64",
+    "local_government_name": "ORUK ANAM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.684704099999999,
+      "longitude": 7.561062700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.685947029892721,
+          "lng": 7.562274129892723
+        },
+        "southwest": {
+          "lat": 4.683247370107277,
+          "lng": 7.559574470107279
+        }
+      },
+      "formatted_address": "MHM6+VCP, 533114, Ikot Osute, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.684704099999999,7.561062700000001",
+      "google_place_id": "ChIJYYRFDNNsaBARweAxNU8i9D0"
+    }
+  },
+  {
+    "id": "11592",
+    "name": "OPEN SPACE, IKOT INUEK",
+    "registration_area_id": "684",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "03/26/11/019",
+    "remark": "NEW PU",
+    "ward_id": "684",
+    "ward_name": "ABAK MIDIM 1V",
+    "local_government_id": "64",
+    "local_government_name": "ORUK ANAM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "11593",
+    "name": "MARKET SQUARE, IKOT OBIO ATARA",
+    "registration_area_id": "684",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "03/26/11/020",
+    "remark": "NEW PU",
+    "ward_id": "684",
+    "ward_name": "ABAK MIDIM 1V",
+    "local_government_id": "64",
+    "local_government_name": "ORUK ANAM",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  }
+]

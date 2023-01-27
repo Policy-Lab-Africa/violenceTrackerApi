@@ -1,0 +1,482 @@
+[
+  {
+    "id": "11075",
+    "name": "ST JAMES SCH, OBUFI",
+    "registration_area_id": "645",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "03/23/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "645",
+    "ward_name": "NUNG ATAI/UBE 11",
+    "local_government_id": "61",
+    "local_government_name": "OKOBO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.851506,
+      "longitude": 8.169725999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.852715329892722,
+          "lng": 8.170884329892722
+        },
+        "southwest": {
+          "lat": 4.850015670107278,
+          "lng": 8.168184670107278
+        }
+      },
+      "formatted_address": "V529+JV5, 521101, Ataibang, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.851506,8.169725999999999",
+      "google_place_id": "ChIJS8mrrnuNZxARgINlU1LoIv4"
+    }
+  },
+  {
+    "id": "11076",
+    "name": "CO-OP HALL , OBUFI",
+    "registration_area_id": "645",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "03/23/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "645",
+    "ward_name": "NUNG ATAI/UBE 11",
+    "local_government_id": "61",
+    "local_government_name": "OKOBO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8367146,
+      "longitude": 8.129946,
+      "viewport": {
+        "northeast": {
+          "lat": 4.838051279892722,
+          "lng": 8.131306279892721
+        },
+        "southwest": {
+          "lat": 4.835351620107279,
+          "lng": 8.128606620107277
+        }
+      },
+      "formatted_address": "R4PH+MXJ, 521101, Okopedi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8367146,8.129946",
+      "google_place_id": "ChIJn79PSlLtZxAR6DbWC7xIjLk"
+    }
+  },
+  {
+    "id": "11077",
+    "name": "VILLAGE SQUARE, OBUFI",
+    "registration_area_id": "645",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "03/23/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "645",
+    "ward_name": "NUNG ATAI/UBE 11",
+    "local_government_id": "61",
+    "local_government_name": "OKOBO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0206399,
+      "longitude": 7.9387279,
+      "viewport": {
+        "northeast": {
+          "lat": 5.022041229892722,
+          "lng": 7.940047729892719
+        },
+        "southwest": {
+          "lat": 5.019341570107278,
+          "lng": 7.937348070107276
+        }
+      },
+      "formatted_address": "2WCQ+6GG, Udo Inyang Close, Ewet Housing Estate 520102, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0206399,7.9387279",
+      "google_place_id": "ChIJZSGTYBVXXRARAbcCUdh3t0M"
+    }
+  },
+  {
+    "id": "11078",
+    "name": "VILLAGE SQUARE, EBIGHI ETA",
+    "registration_area_id": "645",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "03/23/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "645",
+    "ward_name": "NUNG ATAI/UBE 11",
+    "local_government_id": "61",
+    "local_government_name": "OKOBO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8367146,
+      "longitude": 8.129946,
+      "viewport": {
+        "northeast": {
+          "lat": 4.838051279892722,
+          "lng": 8.131306279892721
+        },
+        "southwest": {
+          "lat": 4.835351620107279,
+          "lng": 8.128606620107277
+        }
+      },
+      "formatted_address": "R4PH+MXJ, 521101, Okopedi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8367146,8.129946",
+      "google_place_id": "ChIJn79PSlLtZxAR6DbWC7xIjLk"
+    }
+  },
+  {
+    "id": "11079",
+    "name": "ST PETER'S SCH, NUNG ATAI ETA",
+    "registration_area_id": "645",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "03/23/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "645",
+    "ward_name": "NUNG ATAI/UBE 11",
+    "local_government_id": "61",
+    "local_government_name": "OKOBO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "11080",
+    "name": "VILLAGE SQUARE, NUNG ATAI ETA",
+    "registration_area_id": "645",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "03/23/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "645",
+    "ward_name": "NUNG ATAI/UBE 11",
+    "local_government_id": "61",
+    "local_government_name": "OKOBO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8367146,
+      "longitude": 8.129946,
+      "viewport": {
+        "northeast": {
+          "lat": 4.838051279892722,
+          "lng": 8.131306279892721
+        },
+        "southwest": {
+          "lat": 4.835351620107279,
+          "lng": 8.128606620107277
+        }
+      },
+      "formatted_address": "R4PH+MXJ, 521101, Okopedi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8367146,8.129946",
+      "google_place_id": "ChIJn79PSlLtZxAR6DbWC7xIjLk"
+    }
+  },
+  {
+    "id": "11081",
+    "name": "ST PAUL'S SCH, NUNG UDOM ODOBO",
+    "registration_area_id": "645",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "03/23/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "645",
+    "ward_name": "NUNG ATAI/UBE 11",
+    "local_government_id": "61",
+    "local_government_name": "OKOBO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "11082",
+    "name": "METH. SCH, NUNG ATAI ODOBO",
+    "registration_area_id": "645",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "03/23/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "645",
+    "ward_name": "NUNG ATAI/UBE 11",
+    "local_government_id": "61",
+    "local_government_name": "OKOBO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.829485399999999,
+      "longitude": 8.1065516,
+      "viewport": {
+        "northeast": {
+          "lat": 4.8611526,
+          "lng": 8.1813471
+        },
+        "southwest": {
+          "lat": 4.813797999999999,
+          "lng": 8.0533501
+        }
+      },
+      "formatted_address": "Nung Atai/Ube 11, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.829485399999999,8.1065516",
+      "google_place_id": "ChIJp43oeFztZxARFjqGT1Qbl8o"
+    }
+  },
+  {
+    "id": "11083",
+    "name": "VILLAGE SQUARE, ATIPA ODOBO",
+    "registration_area_id": "645",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "03/23/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "645",
+    "ward_name": "NUNG ATAI/UBE 11",
+    "local_government_id": "61",
+    "local_government_name": "OKOBO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "11084",
+    "name": "VILLAGE SQUARE, AFAHA NSUNG EBIGHI ETA",
+    "registration_area_id": "645",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "03/23/04/010",
+    "remark": "NEW PU",
+    "ward_id": "645",
+    "ward_name": "NUNG ATAI/UBE 11",
+    "local_government_id": "61",
+    "local_government_name": "OKOBO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8367146,
+      "longitude": 8.129946,
+      "viewport": {
+        "northeast": {
+          "lat": 4.838051279892722,
+          "lng": 8.131306279892721
+        },
+        "southwest": {
+          "lat": 4.835351620107279,
+          "lng": 8.128606620107277
+        }
+      },
+      "formatted_address": "R4PH+MXJ, 521101, Okopedi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8367146,8.129946",
+      "google_place_id": "ChIJn79PSlLtZxAR6DbWC7xIjLk"
+    }
+  },
+  {
+    "id": "11085",
+    "name": "VILLAGE HALL, IBAPAN",
+    "registration_area_id": "645",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "03/23/04/011",
+    "remark": "NEW PU",
+    "ward_id": "645",
+    "ward_name": "NUNG ATAI/UBE 11",
+    "local_government_id": "61",
+    "local_government_name": "OKOBO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8367146,
+      "longitude": 8.129946,
+      "viewport": {
+        "northeast": {
+          "lat": 4.838051279892722,
+          "lng": 8.131306279892721
+        },
+        "southwest": {
+          "lat": 4.835351620107279,
+          "lng": 8.128606620107277
+        }
+      },
+      "formatted_address": "R4PH+MXJ, 521101, Okopedi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8367146,8.129946",
+      "google_place_id": "ChIJn79PSlLtZxAR6DbWC7xIjLk"
+    }
+  },
+  {
+    "id": "11086",
+    "name": "ST. PETER'S PRIMARY SCHOOL, NUNG ATAI ETA",
+    "registration_area_id": "645",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "03/23/04/012",
+    "remark": "NEW PU",
+    "ward_id": "645",
+    "ward_name": "NUNG ATAI/UBE 11",
+    "local_government_id": "61",
+    "local_government_name": "OKOBO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.6548848,
+      "longitude": 8.2489249,
+      "viewport": {
+        "northeast": {
+          "lat": 4.656142429892722,
+          "lng": 8.250170979892724
+        },
+        "southwest": {
+          "lat": 4.653442770107278,
+          "lng": 8.24747132010728
+        }
+      },
+      "formatted_address": "Uko Akpan, 523115, Enwang, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.6548848,8.2489249",
+      "google_place_id": "ChIJHTj3yDq9ZxAR4yaFxCZCe0U"
+    }
+  },
+  {
+    "id": "11087",
+    "name": "VILLAGE HALL, AFAHA NUNG ATAI ETA",
+    "registration_area_id": "645",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "03/23/04/013",
+    "remark": "NEW PU",
+    "ward_id": "645",
+    "ward_name": "NUNG ATAI/UBE 11",
+    "local_government_id": "61",
+    "local_government_name": "OKOBO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8367146,
+      "longitude": 8.129946,
+      "viewport": {
+        "northeast": {
+          "lat": 4.838051279892722,
+          "lng": 8.131306279892721
+        },
+        "southwest": {
+          "lat": 4.835351620107279,
+          "lng": 8.128606620107277
+        }
+      },
+      "formatted_address": "R4PH+MXJ, 521101, Okopedi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8367146,8.129946",
+      "google_place_id": "ChIJn79PSlLtZxAR6DbWC7xIjLk"
+    }
+  },
+  {
+    "id": "11088",
+    "name": "COMMUNITY HALL, NUNG UDOM ODOBO",
+    "registration_area_id": "645",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "03/23/04/014",
+    "remark": "NEW PU",
+    "ward_id": "645",
+    "ward_name": "NUNG ATAI/UBE 11",
+    "local_government_id": "61",
+    "local_government_name": "OKOBO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8367146,
+      "longitude": 8.129946,
+      "viewport": {
+        "northeast": {
+          "lat": 4.838051279892722,
+          "lng": 8.131306279892721
+        },
+        "southwest": {
+          "lat": 4.835351620107279,
+          "lng": 8.128606620107277
+        }
+      },
+      "formatted_address": "R4PH+MXJ, 521101, Okopedi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8367146,8.129946",
+      "google_place_id": "ChIJn79PSlLtZxAR6DbWC7xIjLk"
+    }
+  },
+  {
+    "id": "11089",
+    "name": "TOWN HALL, NUNG ATAI ODOBO",
+    "registration_area_id": "645",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "03/23/04/015",
+    "remark": "NEW PU",
+    "ward_id": "645",
+    "ward_name": "NUNG ATAI/UBE 11",
+    "local_government_id": "61",
+    "local_government_name": "OKOBO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8367146,
+      "longitude": 8.129946,
+      "viewport": {
+        "northeast": {
+          "lat": 4.838051279892722,
+          "lng": 8.131306279892721
+        },
+        "southwest": {
+          "lat": 4.835351620107279,
+          "lng": 8.128606620107277
+        }
+      },
+      "formatted_address": "R4PH+MXJ, 521101, Okopedi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8367146,8.129946",
+      "google_place_id": "ChIJn79PSlLtZxAR6DbWC7xIjLk"
+    }
+  },
+  {
+    "id": "11090",
+    "name": "VILLAGE HALL, AFAHA ABIDOM ATIPA ODOBO",
+    "registration_area_id": "645",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "03/23/04/016",
+    "remark": "NEW PU",
+    "ward_id": "645",
+    "ward_name": "NUNG ATAI/UBE 11",
+    "local_government_id": "61",
+    "local_government_name": "OKOBO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8367146,
+      "longitude": 8.129946,
+      "viewport": {
+        "northeast": {
+          "lat": 4.838051279892722,
+          "lng": 8.131306279892721
+        },
+        "southwest": {
+          "lat": 4.835351620107279,
+          "lng": 8.128606620107277
+        }
+      },
+      "formatted_address": "R4PH+MXJ, 521101, Okopedi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8367146,8.129946",
+      "google_place_id": "ChIJn79PSlLtZxAR6DbWC7xIjLk"
+    }
+  }
+]

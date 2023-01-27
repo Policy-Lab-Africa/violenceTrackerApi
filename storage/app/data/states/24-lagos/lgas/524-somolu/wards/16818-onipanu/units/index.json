@@ -1,0 +1,888 @@
+[
+  {
+    "id": "330004",
+    "name": "SANUSI ST. B/W HOUSE NOS. 18 & 20",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "24/19/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330005",
+    "name": "SANUSI ST. B/W HOUSE NOS.2 & 4",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "24/19/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330006",
+    "name": "APATA ST. (ODD NO.) BETWEEN HOUSE NOS. 13 & 15",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "24/19/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330007",
+    "name": "APATA ST. (ODD NO.) BETWEEN HOUSE NOS. 7 & 9",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "24/19/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330008",
+    "name": "ADEBIYI ST. BETWEEN HOUSE NO. 4 & 6",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "24/19/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6141139,
+      "longitude": 3.537038,
+      "viewport": {
+        "northeast": {
+          "lat": 6.615414279892721,
+          "lng": 3.538325929892722
+        },
+        "southwest": {
+          "lat": 6.612714620107277,
+          "lng": 3.535626270107277
+        }
+      },
+      "formatted_address": "4 Adebiyi Adedamilare Adebo St, Ikorodu 104101, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6141139,3.537038",
+      "google_place_id": "ChIJl9ltnUzvOxARyb6yNNUk06c"
+    }
+  },
+  {
+    "id": "330009",
+    "name": "ADEBIYI ST. BETWEEN HOUSE NO. 24 & 26",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "24/19/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330010",
+    "name": "AWOSEHIN ST. BETWEEN HOUSE NO. 24 & 26",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "24/19/01/007",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330011",
+    "name": "AWOSEHIN ST. BETWEEN HOUSE NO. 30 & 32",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "24/19/01/008",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330012",
+    "name": "OLALEYE ST. IN FRONT OF HOUSE NO. 3",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "24/19/01/009",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330013",
+    "name": "OLALEYE ST. IN FRONT OF HOUSE NO. 24",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "24/19/01/010",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330014",
+    "name": "OLALEYE ST. IN FRONT OF HOUSE NO. 39",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "24/19/01/011",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330015",
+    "name": "PRY. HEALTH CENTRE, OGUNTOLU ST.",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "24/19/01/012",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.536586199999999,
+      "longitude": 3.3723834,
+      "viewport": {
+        "northeast": {
+          "lat": 6.537993079892721,
+          "lng": 3.373732029892722
+        },
+        "southwest": {
+          "lat": 6.535293420107277,
+          "lng": 3.371032370107278
+        }
+      },
+      "formatted_address": "G9PC+JXJ, Oguntolu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.536586199999999,3.3723834",
+      "google_place_id": "ChIJLWYbvaWNOxAR7mp8IIZXolA"
+    }
+  },
+  {
+    "id": "330016",
+    "name": "BAPTIST PRY. SCH., AGUNBIADE",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "24/19/01/013",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5358917,
+      "longitude": 3.3700381,
+      "viewport": {
+        "northeast": {
+          "lat": 6.537263829892721,
+          "lng": 3.371458829892722
+        },
+        "southwest": {
+          "lat": 6.534564170107277,
+          "lng": 3.368759170107277
+        }
+      },
+      "formatted_address": "2/4 Agunbiade St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5358917,3.3700381",
+      "google_place_id": "ChIJ0wTIzzWNOxARq97x4PYTKG0"
+    }
+  },
+  {
+    "id": "330017",
+    "name": "PARTY ST. IN FRONT OF HOUSE NO. 1",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "24/19/01/014",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330018",
+    "name": "GEORGE ST. BESIDE HOUSE NO. 10",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "24/19/01/015",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330019",
+    "name": "SHIPEOLU ST. OPP HOUSE NO. 28",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "24/19/01/016",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5351659,
+      "longitude": 3.3685936,
+      "viewport": {
+        "northeast": {
+          "lat": 6.53999430000005,
+          "lng": 3.369943929892723
+        },
+        "southwest": {
+          "lat": 6.530401099999949,
+          "lng": 3.367244270107278
+        }
+      },
+      "formatted_address": "Shipeolu St, Somolu 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5351659,3.3685936",
+      "google_place_id": "EipTaGlwZW9sdSBTdCwgU29tb2x1IDEwMjIxNiwgTGFnb3MsIE5pZ2VyaWEiLiosChQKEgl37nYlu407EBHSZ95MXoQhcRIUChIJDXA-HK-NOxARiF0YaYh8cnU"
+    }
+  },
+  {
+    "id": "330020",
+    "name": "SHIPEOLU ST. IN FRONT OF HOUSE NO.15",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "24/19/01/017",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5359513,
+      "longitude": 3.3684597,
+      "viewport": {
+        "northeast": {
+          "lat": 6.537308329892722,
+          "lng": 3.369795829892722
+        },
+        "southwest": {
+          "lat": 6.534608670107279,
+          "lng": 3.367096170107278
+        }
+      },
+      "formatted_address": "15 Shipeolu St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5359513,3.3684597",
+      "google_place_id": "ChIJgatQB7CNOxARJ1BMhsdUHTA"
+    }
+  },
+  {
+    "id": "330021",
+    "name": "L.G. SEC. H/Q DUROSINMI ST.",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "24/19/01/018",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5350177,
+      "longitude": 3.3715839,
+      "viewport": {
+        "northeast": {
+          "lat": 6.536367529892721,
+          "lng": 3.372933729892721
+        },
+        "southwest": {
+          "lat": 6.533667870107277,
+          "lng": 3.370234070107276
+        }
+      },
+      "formatted_address": "Durosimi St, Somolu 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5350177,3.3715839",
+      "google_place_id": "ChIJq5SyeKWNOxAR4sGr6DEc1W8"
+    }
+  },
+  {
+    "id": "330022",
+    "name": "DUROSINMI ST. IN FRONT OF HOUSE NO. 18",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "24/19/01/019",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330023",
+    "name": "BOYLE ST. B/W HOUSE NOS. 6&8",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "24/19/01/020",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 53.5478907,
+      "longitude": -113.4946942,
+      "viewport": {
+        "northeast": {
+          "lat": 53.54919002989271,
+          "lng": -113.4933462701073
+        },
+        "southwest": {
+          "lat": 53.54649037010727,
+          "lng": -113.4960459298927
+        }
+      },
+      "formatted_address": "10116 105 Ave NW, Edmonton, AB T5H 0K2, Canada",
+      "google_map_url": "https://maps.google.com?q=53.5478907,-113.4946942",
+      "google_place_id": "ChIJz3eWiE4ioFMRqdOIrDEfn4c"
+    }
+  },
+  {
+    "id": "330024",
+    "name": "PETIT DAHO ST. IN FRONT OF HOUSE NOS. 5",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "24/19/01/021",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5368623,
+      "longitude": 3.3681579,
+      "viewport": {
+        "northeast": {
+          "lat": 6.538129579892722,
+          "lng": 3.369519279892722
+        },
+        "southwest": {
+          "lat": 6.535429920107278,
+          "lng": 3.366819620107278
+        }
+      },
+      "formatted_address": "G9P9+P7V, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5368623,3.3681579",
+      "google_place_id": "ChIJT8MqwrqNOxAR8IVUp9okTtk"
+    }
+  },
+  {
+    "id": "330025",
+    "name": "ALADE ST. B/W HOUSE NO. 6 & 8",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "24/19/01/022",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330026",
+    "name": "TESLIM AGE CLOSE IN FRONT OF HOUSE NO. 2",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "24/19/01/023",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330027",
+    "name": "ADEBIYI ST. B/W HOUSE NOS. 16 & 18",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "24/19/01/024",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330028",
+    "name": "ADEBIYI ST. B/W HOUSE NOS. 43 & 45",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "24/19/01/025",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330029",
+    "name": "MOSHALASHI ST. IN FRONT OF HOUSE NO. 14",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "24/19/01/026",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330030",
+    "name": "ALADE ST. B/W HOUSE NO. 24 & 26",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "24/19/01/027",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330031",
+    "name": "OPEN SPACE AT BASHUA ST./MORROCO RD. JUNCTION",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "24/19/01/028",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5366171,
+      "longitude": 3.371647,
+      "viewport": {
+        "northeast": {
+          "lat": 6.537993479892722,
+          "lng": 3.372998229892723
+        },
+        "southwest": {
+          "lat": 6.535293820107278,
+          "lng": 3.370298570107278
+        }
+      },
+      "formatted_address": "Off Shipeolu Street, Onipanu, 11 Oguntolu St, Somolu, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5366171,3.371647",
+      "google_place_id": "ChIJT9WWPaWNOxARBXtJYrLv8wI"
+    }
+  },
+  {
+    "id": "330032",
+    "name": "BASHUA ST. OPEN SPACE B/W HOUSE NOS. 24 & 26",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "24/19/01/029",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330033",
+    "name": "ALIFIA LANE, IN FRONT OF HOUSE NO. 3",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "24/19/01/030",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330034",
+    "name": "GEORGE ST., B/W NO. 24 & 26",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "24/19/01/031",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 43.46269059999999,
+      "longitude": -80.5183364,
+      "viewport": {
+        "northeast": {
+          "lat": 43.46404042989272,
+          "lng": -80.51698657010728
+        },
+        "southwest": {
+          "lat": 43.46134077010727,
+          "lng": -80.51968622989271
+        }
+      },
+      "formatted_address": "George St, Waterloo, ON, Canada",
+      "google_map_url": "https://maps.google.com?q=43.46269059999999,-80.5183364",
+      "google_place_id": "ChIJa7xDpm30K4gR91YoDxU2J98"
+    }
+  },
+  {
+    "id": "330035",
+    "name": "BAILEY STREET BETWEEN HOUSE NO. 6 & 8",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "24/19/01/032",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 49.7068694,
+      "longitude": -123.1595832,
+      "viewport": {
+        "northeast": {
+          "lat": 49.70821922989272,
+          "lng": -123.1582333701073
+        },
+        "southwest": {
+          "lat": 49.70551957010727,
+          "lng": -123.1609330298927
+        }
+      },
+      "formatted_address": "Bailey St, Squamish, BC, Canada",
+      "google_map_url": "https://maps.google.com?q=49.7068694,-123.1595832",
+      "google_place_id": "ChIJFwRM6j_4hlQRobY6Qbrf7i0"
+    }
+  },
+  {
+    "id": "330036",
+    "name": "AGUNBIADE PRY. SCH. AGUNBIADE ST.",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "24/19/01/033",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5358917,
+      "longitude": 3.3700382,
+      "viewport": {
+        "northeast": {
+          "lat": 6.537265929892722,
+          "lng": 3.371473629892723
+        },
+        "southwest": {
+          "lat": 6.534566270107278,
+          "lng": 3.368773970107278
+        }
+      },
+      "formatted_address": "2/4 Agunbiade St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5358917,3.3700382",
+      "google_place_id": "ChIJJ93g7DSNOxARlwF_TVd5eLs"
+    }
+  },
+  {
+    "id": "330037",
+    "name": "BAILEY STREET BETWEEN NO 6 & 8",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "24/19/01/034",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 49.7068694,
+      "longitude": -123.1595832,
+      "viewport": {
+        "northeast": {
+          "lat": 49.70821922989272,
+          "lng": -123.1582333701073
+        },
+        "southwest": {
+          "lat": 49.70551957010727,
+          "lng": -123.1609330298927
+        }
+      },
+      "formatted_address": "Bailey St, Squamish, BC, Canada",
+      "google_map_url": "https://maps.google.com?q=49.7068694,-123.1595832",
+      "google_place_id": "ChIJFwRM6j_4hlQRobY6Qbrf7i0"
+    }
+  },
+  {
+    "id": "330038",
+    "name": "AWOSEHIN ST. BETWEEN HOUSE NO. 4 & 6",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "24/19/01/035",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330039",
+    "name": "ADUROSAKIN ST. OPPOSITE HOUSE NO. 7",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "036",
+    "units": "036",
+    "delimitation": "24/19/01/036",
+    "remark": "EXISTING PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.532642399999999,
+      "longitude": 3.3754745,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533902279892723,
+          "lng": 3.3786841
+        },
+        "southwest": {
+          "lat": 6.531202620107279,
+          "lng": 3.3720397
+        }
+      },
+      "formatted_address": "Adurosakin St, Igbobi 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.532642399999999,3.3754745",
+      "google_place_id": "EixBZHVyb3Nha2luIFN0LCBJZ2JvYmkgMTAyMjE2LCBMYWdvcywgTmlnZXJpYSIuKiwKFAoSCXMdXuCojTsQEdTjP62I5F1SEhQKEgkNcD4cr407EBGIXRhpiHxydQ"
+    }
+  },
+  {
+    "id": "330040",
+    "name": "NUT SECRETARIAT",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "037",
+    "units": "037",
+    "delimitation": "24/19/01/037",
+    "remark": "NEW PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5483698,
+      "longitude": 3.361864,
+      "viewport": {
+        "northeast": {
+          "lat": 6.549714179892722,
+          "lng": 3.363159379892722
+        },
+        "southwest": {
+          "lat": 6.547014520107278,
+          "lng": 3.360459720107277
+        }
+      },
+      "formatted_address": "24 Coker Rd, Ilupeju 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5483698,3.361864",
+      "google_place_id": "ChIJ-0iDpPaNOxAR015k5oXPzPU"
+    }
+  },
+  {
+    "id": "330041",
+    "name": "OLAOLU PRIMARY SCH",
+    "registration_area_id": "16818",
+    "precise_location": null,
+    "abbreviation": "038",
+    "units": "038",
+    "delimitation": "24/19/01/038",
+    "remark": "NEW PU",
+    "ward_id": "16818",
+    "ward_name": "ONIPANU",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  }
+]

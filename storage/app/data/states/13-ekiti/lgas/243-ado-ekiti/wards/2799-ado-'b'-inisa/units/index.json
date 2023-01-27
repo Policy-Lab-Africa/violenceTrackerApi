@@ -1,0 +1,564 @@
+[
+  {
+    "id": "52599",
+    "name": "IN FRONT OF OISA FAMILY'S HOUSE / OISA , OKE INISA COMP.",
+    "registration_area_id": "2799",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "13/01/02/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2799",
+    "ward_name": "ADO 'B'  INISA",
+    "local_government_id": "243",
+    "local_government_name": "ADO EKITI",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": null
+  },
+  {
+    "id": "52600",
+    "name": "IN FRONT OF CHIEF ELEMO'S COMP. / ODO INISA/EMINIO COMP.",
+    "registration_area_id": "2799",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "13/01/02/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2799",
+    "ward_name": "ADO 'B'  INISA",
+    "local_government_id": "243",
+    "local_government_name": "ADO EKITI",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6435375,
+      "longitude": 5.1944704,
+      "viewport": {
+        "northeast": {
+          "lat": 7.644841629892721,
+          "lng": 5.195893329892723
+        },
+        "southwest": {
+          "lat": 7.642141970107277,
+          "lng": 5.193193670107279
+        }
+      },
+      "formatted_address": "New Iyin Rd - Ado Ekiti, 360102, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6435375,5.1944704",
+      "google_place_id": "ChIJyVmJXA37RxARAbK_kFbeyD0"
+    }
+  },
+  {
+    "id": "52601",
+    "name": "IN FRONT OF EJEMU'S COMP. / EJEMU, ARALOPON COMP.",
+    "registration_area_id": "2799",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "13/01/02/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2799",
+    "ward_name": "ADO 'B'  INISA",
+    "local_government_id": "243",
+    "local_government_name": "ADO EKITI",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.612512799999998,
+      "longitude": 5.2370788,
+      "viewport": {
+        "northeast": {
+          "lat": 7.613828479892722,
+          "lng": 5.238416379892723
+        },
+        "southwest": {
+          "lat": 7.611128820107278,
+          "lng": 5.235716720107278
+        }
+      },
+      "formatted_address": "J67P+2R4, 360101, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.612512799999998,5.2370788",
+      "google_place_id": "ChIJAQAAADDlRxAR-BQAQB76aO4"
+    }
+  },
+  {
+    "id": "52602",
+    "name": "AT ODO ADO MARKET AREA / ODO ADO MARKET , IYERE",
+    "registration_area_id": "2799",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "13/01/02/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2799",
+    "ward_name": "ADO 'B'  INISA",
+    "local_government_id": "243",
+    "local_government_name": "ADO EKITI",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6151127,
+      "longitude": 5.2329154,
+      "viewport": {
+        "northeast": {
+          "lat": 7.616475879892722,
+          "lng": 5.234294279892722
+        },
+        "southwest": {
+          "lat": 7.613776220107278,
+          "lng": 5.231594620107278
+        }
+      },
+      "formatted_address": "J68M+25V, Iyere Street, 360101, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6151127,5.2329154",
+      "google_place_id": "ChIJTSnXYC7lRxAR33a6CklTVuI"
+    }
+  },
+  {
+    "id": "52603",
+    "name": "IN FRONT OF ASAMO'S COMPOUND / ISAO ISAMO COMPOUND",
+    "registration_area_id": "2799",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "13/01/02/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2799",
+    "ward_name": "ADO 'B'  INISA",
+    "local_government_id": "243",
+    "local_government_name": "ADO EKITI",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": null
+  },
+  {
+    "id": "52604",
+    "name": "AROUND ORIMOLADE / EJEMU'S HOUSE, EJELU ILEGEMO COMP.",
+    "registration_area_id": "2799",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "13/01/02/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2799",
+    "ward_name": "ADO 'B'  INISA",
+    "local_government_id": "243",
+    "local_government_name": "ADO EKITI",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.612512799999998,
+      "longitude": 5.2370788,
+      "viewport": {
+        "northeast": {
+          "lat": 7.613828479892722,
+          "lng": 5.238416379892723
+        },
+        "southwest": {
+          "lat": 7.611128820107278,
+          "lng": 5.235716720107278
+        }
+      },
+      "formatted_address": "J67P+2R4, 360101, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.612512799999998,5.2370788",
+      "google_place_id": "ChIJAQAAADDlRxARlzHl6olSqLU"
+    }
+  },
+  {
+    "id": "52605",
+    "name": "IN FRONT OF AREMO'S PALACE / IREMO AREA",
+    "registration_area_id": "2799",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "13/01/02/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2799",
+    "ward_name": "ADO 'B'  INISA",
+    "local_government_id": "243",
+    "local_government_name": "ADO EKITI",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6216138,
+      "longitude": 5.222741099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.622883479892722,
+          "lng": 5.224089029892721
+        },
+        "southwest": {
+          "lat": 7.620183820107278,
+          "lng": 5.221389370107278
+        }
+      },
+      "formatted_address": "Ewi's Palace, 360101, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6216138,5.222741099999999",
+      "google_place_id": "ChIJ7bTSNmL7RxARgXxXonijDWo"
+    }
+  },
+  {
+    "id": "52606",
+    "name": "AT ODO ADO GRAMMAR SCH. / ADO GRAMMAR SCH.",
+    "registration_area_id": "2799",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "13/01/02/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2799",
+    "ward_name": "ADO 'B'  INISA",
+    "local_government_id": "243",
+    "local_government_name": "ADO EKITI",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6122308,
+      "longitude": 5.2471381,
+      "viewport": {
+        "northeast": {
+          "lat": 7.613656029892722,
+          "lng": 5.248423929892722
+        },
+        "southwest": {
+          "lat": 7.610956370107278,
+          "lng": 5.245724270107278
+        }
+      },
+      "formatted_address": "J66W+VVR, 360101, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6122308,5.2471381",
+      "google_place_id": "ChIJB6E_Uz3lRxARGQN4mFSacGU"
+    }
+  },
+  {
+    "id": "52607",
+    "name": "ST. PAULS ANG. PRY. SCH. / OWODE",
+    "registration_area_id": "2799",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "13/01/02/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2799",
+    "ward_name": "ADO 'B'  INISA",
+    "local_government_id": "243",
+    "local_government_name": "ADO EKITI",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6113403,
+      "longitude": 5.267178299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.612744229892722,
+          "lng": 5.268522379892721
+        },
+        "southwest": {
+          "lat": 7.610044570107278,
+          "lng": 5.265822720107277
+        }
+      },
+      "formatted_address": "J768+GVM, Ado - Ikare Rd, 360102, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6113403,5.267178299999999",
+      "google_place_id": "ChIJQXWwEgjlRxARLA7mgAP5WUk"
+    }
+  },
+  {
+    "id": "52608",
+    "name": "OLD YARWER COMP. / ADESOKAN , IGIRIGIRI RD.",
+    "registration_area_id": "2799",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "13/01/02/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2799",
+    "ward_name": "ADO 'B'  INISA",
+    "local_government_id": "243",
+    "local_government_name": "ADO EKITI",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6783302,
+      "longitude": 5.240991699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.67979922989272,
+          "lng": 5.242376579892722
+        },
+        "southwest": {
+          "lat": 7.677099570107276,
+          "lng": 5.239676920107279
+        }
+      },
+      "formatted_address": "M6HR+89H, Ado - Iworoko - Ifaki Road, 360102, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6783302,5.240991699999999",
+      "google_place_id": "ChIJi44Hbw_jRxARF9JYklOaZyY"
+    }
+  },
+  {
+    "id": "52609",
+    "name": "AT THE BACK OF ODO ADO DISPENSARY / OLORUNSOGO AYINSOLA COMP.",
+    "registration_area_id": "2799",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "13/01/02/011",
+    "remark": "EXISTING PU",
+    "ward_id": "2799",
+    "ward_name": "ADO 'B'  INISA",
+    "local_government_id": "243",
+    "local_government_name": "ADO EKITI",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.621685599999999,
+      "longitude": 5.223290899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.62290292989272,
+          "lng": 5.224632429892721
+        },
+        "southwest": {
+          "lat": 7.620203270107276,
+          "lng": 5.221932770107277
+        }
+      },
+      "formatted_address": "Suite 3 & 4 Fajuyi Hall, 54 Market Road, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.621685599999999,5.223290899999999",
+      "google_place_id": "ChIJWzlmvNX6RxARwdJPIJwgePM"
+    }
+  },
+  {
+    "id": "52610",
+    "name": "ST. PAULS ANG. PRY. SCH. / OWODE COMP.",
+    "registration_area_id": "2799",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "13/01/02/012",
+    "remark": "EXISTING PU",
+    "ward_id": "2799",
+    "ward_name": "ADO 'B'  INISA",
+    "local_government_id": "243",
+    "local_government_name": "ADO EKITI",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6113403,
+      "longitude": 5.267178299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.612744229892722,
+          "lng": 5.268522379892721
+        },
+        "southwest": {
+          "lat": 7.610044570107278,
+          "lng": 5.265822720107277
+        }
+      },
+      "formatted_address": "J768+GVM, Ado - Ikare Rd, 360102, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6113403,5.267178299999999",
+      "google_place_id": "ChIJQXWwEgjlRxARLA7mgAP5WUk"
+    }
+  },
+  {
+    "id": "52611",
+    "name": "OPEN SPACE BESIDE ADELEYES HOUSE OPP. BAYDOT GUEST HOUSE",
+    "registration_area_id": "2799",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "13/01/02/013",
+    "remark": "NEW PU",
+    "ward_id": "2799",
+    "ward_name": "ADO 'B'  INISA",
+    "local_government_id": "243",
+    "local_government_name": "ADO EKITI",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.612367399999998,
+      "longitude": 5.2371723,
+      "viewport": {
+        "northeast": {
+          "lat": 7.61371472989272,
+          "lng": 5.238486379892723
+        },
+        "southwest": {
+          "lat": 7.611015070107277,
+          "lng": 5.235786720107279
+        }
+      },
+      "formatted_address": "360101, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.612367399999998,5.2371723",
+      "google_place_id": "ChIJAQAAADDlRxARQVbl4A8KcCs"
+    }
+  },
+  {
+    "id": "52612",
+    "name": "OPEN SPACE AT FOWOWE CELINA TAYE HOUSE. T. JUNCTION, ILUPEJU AVENUE",
+    "registration_area_id": "2799",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "13/01/02/014",
+    "remark": "NEW PU",
+    "ward_id": "2799",
+    "ward_name": "ADO 'B'  INISA",
+    "local_government_id": "243",
+    "local_government_name": "ADO EKITI",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6174426,
+      "longitude": 5.2484838,
+      "viewport": {
+        "northeast": {
+          "lat": 7.618792429892721,
+          "lng": 5.249833629892722
+        },
+        "southwest": {
+          "lat": 7.616092770107278,
+          "lng": 5.247133970107278
+        }
+      },
+      "formatted_address": "Temidire Ave, 360101, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6174426,5.2484838",
+      "google_place_id": "ChIJC-_SCCPlRxARFIT64g3fDGI"
+    }
+  },
+  {
+    "id": "52613",
+    "name": "OPEN SPACE AT EYEBIOKIN AREA OPPOSITE ST. PAUL PRY. SCHOOL",
+    "registration_area_id": "2799",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "13/01/02/015",
+    "remark": "NEW PU",
+    "ward_id": "2799",
+    "ward_name": "ADO 'B'  INISA",
+    "local_government_id": "243",
+    "local_government_name": "ADO EKITI",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6113403,
+      "longitude": 5.267178299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.612744229892722,
+          "lng": 5.268522379892721
+        },
+        "southwest": {
+          "lat": 7.610044570107278,
+          "lng": 5.265822720107277
+        }
+      },
+      "formatted_address": "J768+GVM, Ado - Ikare Rd, 360102, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6113403,5.267178299999999",
+      "google_place_id": "ChIJQXWwEgjlRxARLA7mgAP5WUk"
+    }
+  },
+  {
+    "id": "52614",
+    "name": "OPEN SPACE INFRONT OF JEGEDES AREA NEW LOCAL GVT. / BY AKINYEDE ESTATE JUNCTION",
+    "registration_area_id": "2799",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "13/01/02/016",
+    "remark": "NEW PU",
+    "ward_id": "2799",
+    "ward_name": "ADO 'B'  INISA",
+    "local_government_id": "243",
+    "local_government_name": "ADO EKITI",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.621857800000001,
+      "longitude": 5.2486703,
+      "viewport": {
+        "northeast": {
+          "lat": 7.623248179892722,
+          "lng": 5.250042479892723
+        },
+        "southwest": {
+          "lat": 7.620548520107278,
+          "lng": 5.247342820107279
+        }
+      },
+      "formatted_address": "Odo Ado, Ijaw Road, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.621857800000001,5.2486703",
+      "google_place_id": "ChIJp1qEnLLlRxARxMVgd5o07xc"
+    }
+  },
+  {
+    "id": "52615",
+    "name": "OPEN SPACE INFRONT OF ADEGBITE AREA OLORUNSOGO STREET",
+    "registration_area_id": "2799",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "13/01/02/017",
+    "remark": "NEW PU",
+    "ward_id": "2799",
+    "ward_name": "ADO 'B'  INISA",
+    "local_government_id": "243",
+    "local_government_name": "ADO EKITI",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6783302,
+      "longitude": 5.240991699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.67979922989272,
+          "lng": 5.242376579892722
+        },
+        "southwest": {
+          "lat": 7.677099570107276,
+          "lng": 5.239676920107279
+        }
+      },
+      "formatted_address": "M6HR+89H, Ado - Iworoko - Ifaki Road, 360102, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6783302,5.240991699999999",
+      "google_place_id": "ChIJi44Hbw_jRxARF9JYklOaZyY"
+    }
+  },
+  {
+    "id": "52616",
+    "name": "OPEN SPACE OPPOSITE TASTY & SPICY OWODE",
+    "registration_area_id": "2799",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "13/01/02/018",
+    "remark": "NEW PU",
+    "ward_id": "2799",
+    "ward_name": "ADO 'B'  INISA",
+    "local_government_id": "243",
+    "local_government_name": "ADO EKITI",
+    "state_id": "13",
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 43.4391137,
+      "longitude": -80.56409049999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.44049367989272,
+          "lng": -80.56271042010728
+        },
+        "southwest": {
+          "lat": 43.43779402010728,
+          "lng": -80.56541007989273
+        }
+      },
+      "formatted_address": "1 The Boardwalk #400, Waterloo, ON N2T 0A6, Canada",
+      "google_map_url": "https://maps.google.com?q=43.4391137,-80.56409049999999",
+      "google_place_id": "ChIJPw2wIRP3K4gRih2y9e-Oj_s"
+    }
+  }
+]

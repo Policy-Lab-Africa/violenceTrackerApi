@@ -1,0 +1,997 @@
+[
+  {
+    "id": "31292",
+    "name": "BANKI MALARI",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/03/02/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31293",
+    "name": "BANKI  KURA",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/03/02/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31294",
+    "name": "BANKI DISPENSARY I",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/03/02/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8080937,
+      "longitude": 13.1806822,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80943812989272,
+          "lng": 13.18203587989272
+        },
+        "southwest": {
+          "lat": 11.80673847010728,
+          "lng": 13.17933622010728
+        }
+      },
+      "formatted_address": "R55J+67M, Fori Road, Tashan Bama, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8080937,13.1806822",
+      "google_place_id": "ChIJTQt-RdOhBBER-sG68Yet7ag"
+    }
+  },
+  {
+    "id": "31295",
+    "name": "BANKI DISPENSARY II",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/03/02/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8080937,
+      "longitude": 13.1806822,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80943812989272,
+          "lng": 13.18203587989272
+        },
+        "southwest": {
+          "lat": 11.80673847010728,
+          "lng": 13.17933622010728
+        }
+      },
+      "formatted_address": "R55J+67M, Fori Road, Tashan Bama, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8080937,13.1806822",
+      "google_place_id": "ChIJTQt-RdOhBBER-sG68Yet7ag"
+    }
+  },
+  {
+    "id": "31296",
+    "name": "BANKI BULA BULIN  I",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/03/02/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2959105,
+      "longitude": 14.1233667,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3721304,
+          "lng": 14.1824042
+        },
+        "southwest": {
+          "lat": 11.2324085,
+          "lng": 14.0461555
+        }
+      },
+      "formatted_address": "Buduwa / Bula Chirabe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2959105,14.1233667",
+      "google_place_id": "ChIJXyr4e27yHBEReQsYgLsFTpU"
+    }
+  },
+  {
+    "id": "31297",
+    "name": "BANKI BULA BULIN  II",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/03/02/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2959105,
+      "longitude": 14.1233667,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3721304,
+          "lng": 14.1824042
+        },
+        "southwest": {
+          "lat": 11.2324085,
+          "lng": 14.0461555
+        }
+      },
+      "formatted_address": "Buduwa / Bula Chirabe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2959105,14.1233667",
+      "google_place_id": "ChIJXyr4e27yHBEReQsYgLsFTpU"
+    }
+  },
+  {
+    "id": "31298",
+    "name": "TARA DAGAL  I",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/03/02/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31299",
+    "name": "TARA DAGAL  II",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "08/03/02/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31300",
+    "name": "YAKUWAMI",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "08/03/02/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2959105,
+      "longitude": 14.1233667,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3721304,
+          "lng": 14.1824042
+        },
+        "southwest": {
+          "lat": 11.2324085,
+          "lng": 14.0461555
+        }
+      },
+      "formatted_address": "Buduwa / Bula Chirabe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2959105,14.1233667",
+      "google_place_id": "ChIJXyr4e27yHBEReQsYgLsFTpU"
+    }
+  },
+  {
+    "id": "31301",
+    "name": "BANKI GONIRI",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "08/03/02/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31302",
+    "name": "BANKI  MALARI",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "08/03/02/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31303",
+    "name": "TARMUA KURA  I",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "08/03/02/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2959105,
+      "longitude": 14.1233667,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3721304,
+          "lng": 14.1824042
+        },
+        "southwest": {
+          "lat": 11.2324085,
+          "lng": 14.0461555
+        }
+      },
+      "formatted_address": "Buduwa / Bula Chirabe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2959105,14.1233667",
+      "google_place_id": "ChIJXyr4e27yHBEReQsYgLsFTpU"
+    }
+  },
+  {
+    "id": "31304",
+    "name": "TARMUA KURA  II",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "08/03/02/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2959105,
+      "longitude": 14.1233667,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3721304,
+          "lng": 14.1824042
+        },
+        "southwest": {
+          "lat": 11.2324085,
+          "lng": 14.0461555
+        }
+      },
+      "formatted_address": "Buduwa / Bula Chirabe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2959105,14.1233667",
+      "google_place_id": "ChIJXyr4e27yHBEReQsYgLsFTpU"
+    }
+  },
+  {
+    "id": "31305",
+    "name": "BANKI GONIRI",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "08/03/02/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31306",
+    "name": "ALHAJI YUSUF",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "08/03/02/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8525446,
+      "longitude": 13.1407922,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85383482989272,
+          "lng": 13.14217907989272
+        },
+        "southwest": {
+          "lat": 11.85113517010728,
+          "lng": 13.13947942010728
+        }
+      },
+      "formatted_address": "V43R+287, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8525446,13.1407922",
+      "google_place_id": "ChIJY0nhvzKfBBER3goqfaRwAMk"
+    }
+  },
+  {
+    "id": "31307",
+    "name": "ALHAJI BUKAR",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "08/03/02/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2959105,
+      "longitude": 14.1233667,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3721304,
+          "lng": 14.1824042
+        },
+        "southwest": {
+          "lat": 11.2324085,
+          "lng": 14.0461555
+        }
+      },
+      "formatted_address": "Buduwa / Bula Chirabe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2959105,14.1233667",
+      "google_place_id": "ChIJXyr4e27yHBEReQsYgLsFTpU"
+    }
+  },
+  {
+    "id": "31308",
+    "name": "BANKI PRI. SCH.",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "08/03/02/017",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.5194843,
+      "longitude": 13.6848882,
+      "viewport": {
+        "northeast": {
+          "lat": 11.52077047989272,
+          "lng": 13.68629072989272
+        },
+        "southwest": {
+          "lat": 11.51807082010728,
+          "lng": 13.68359107010728
+        }
+      },
+      "formatted_address": "GM9M+QXR, Mbusube road, beside UN humanitarian hub, 610101, Bama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5194843,13.6848882",
+      "google_place_id": "ChIJQ8D5eA6xHBERyAXtWskpgfQ"
+    }
+  },
+  {
+    "id": "31309",
+    "name": "ABBA ASHEMI  I",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "08/03/02/018",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31310",
+    "name": "ABBA ASHEMI  II",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "08/03/02/019",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
+  },
+  {
+    "id": "31311",
+    "name": "YAKWAMI",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "08/03/02/020",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2959105,
+      "longitude": 14.1233667,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3721304,
+          "lng": 14.1824042
+        },
+        "southwest": {
+          "lat": 11.2324085,
+          "lng": 14.0461555
+        }
+      },
+      "formatted_address": "Buduwa / Bula Chirabe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2959105,14.1233667",
+      "google_place_id": "ChIJXyr4e27yHBEReQsYgLsFTpU"
+    }
+  },
+  {
+    "id": "31312",
+    "name": "NARIKU",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "08/03/02/021",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2959105,
+      "longitude": 14.1233667,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3721304,
+          "lng": 14.1824042
+        },
+        "southwest": {
+          "lat": 11.2324085,
+          "lng": 14.0461555
+        }
+      },
+      "formatted_address": "Buduwa / Bula Chirabe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2959105,14.1233667",
+      "google_place_id": "ChIJXyr4e27yHBEReQsYgLsFTpU"
+    }
+  },
+  {
+    "id": "31313",
+    "name": "BUDUWA .B MALLAM",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "08/03/02/022",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2959105,
+      "longitude": 14.1233667,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3721304,
+          "lng": 14.1824042
+        },
+        "southwest": {
+          "lat": 11.2324085,
+          "lng": 14.0461555
+        }
+      },
+      "formatted_address": "Buduwa / Bula Chirabe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2959105,14.1233667",
+      "google_place_id": "ChIJXyr4e27yHBEReQsYgLsFTpU"
+    }
+  },
+  {
+    "id": "31314",
+    "name": "GALA B. KILADO",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "08/03/02/023",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8163176,
+      "longitude": 13.1414268,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81764547989272,
+          "lng": 13.14275357989272
+        },
+        "southwest": {
+          "lat": 11.81494582010728,
+          "lng": 13.14005392010728
+        }
+      },
+      "formatted_address": "600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8163176,13.1414268",
+      "google_place_id": "ChIJCbHaD4GfBBERiCC70Igu9EE"
+    }
+  },
+  {
+    "id": "31315",
+    "name": "AMCHIDE B. NANA  I",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "08/03/02/024",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31316",
+    "name": "AMCHIDE B. JONGOMA",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "08/03/02/025",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2959105,
+      "longitude": 14.1233667,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3721304,
+          "lng": 14.1824042
+        },
+        "southwest": {
+          "lat": 11.2324085,
+          "lng": 14.0461555
+        }
+      },
+      "formatted_address": "Buduwa / Bula Chirabe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2959105,14.1233667",
+      "google_place_id": "ChIJXyr4e27yHBEReQsYgLsFTpU"
+    }
+  },
+  {
+    "id": "31317",
+    "name": "AMCHIDE B. NANA  II",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "08/03/02/026",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2959105,
+      "longitude": 14.1233667,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3721304,
+          "lng": 14.1824042
+        },
+        "southwest": {
+          "lat": 11.2324085,
+          "lng": 14.0461555
+        }
+      },
+      "formatted_address": "Buduwa / Bula Chirabe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2959105,14.1233667",
+      "google_place_id": "ChIJXyr4e27yHBEReQsYgLsFTpU"
+    }
+  },
+  {
+    "id": "31318",
+    "name": "AMCHIDE B. BUKAR",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "08/03/02/027",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2959105,
+      "longitude": 14.1233667,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3721304,
+          "lng": 14.1824042
+        },
+        "southwest": {
+          "lat": 11.2324085,
+          "lng": 14.0461555
+        }
+      },
+      "formatted_address": "Buduwa / Bula Chirabe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2959105,14.1233667",
+      "google_place_id": "ChIJXyr4e27yHBEReQsYgLsFTpU"
+    }
+  },
+  {
+    "id": "31319",
+    "name": "WAJERE  B. UMAR I",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "08/03/02/028",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2959105,
+      "longitude": 14.1233667,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3721304,
+          "lng": 14.1824042
+        },
+        "southwest": {
+          "lat": 11.2324085,
+          "lng": 14.0461555
+        }
+      },
+      "formatted_address": "Buduwa / Bula Chirabe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2959105,14.1233667",
+      "google_place_id": "ChIJXyr4e27yHBEReQsYgLsFTpU"
+    }
+  },
+  {
+    "id": "31320",
+    "name": "WAJARE B. UMAR II",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "08/03/02/029",
+    "remark": "EXISTING PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2959105,
+      "longitude": 14.1233667,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3721304,
+          "lng": 14.1824042
+        },
+        "southwest": {
+          "lat": 11.2324085,
+          "lng": 14.0461555
+        }
+      },
+      "formatted_address": "Buduwa / Bula Chirabe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2959105,14.1233667",
+      "google_place_id": "ChIJXyr4e27yHBEReQsYgLsFTpU"
+    }
+  },
+  {
+    "id": "31321",
+    "name": "SHEIKH AL-AMIN",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "08/03/02/030",
+    "remark": "NEW PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31322",
+    "name": "BANKI DISPENSARY III",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "08/03/02/031",
+    "remark": "NEW PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8080937,
+      "longitude": 13.1806822,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80943812989272,
+          "lng": 13.18203587989272
+        },
+        "southwest": {
+          "lat": 11.80673847010728,
+          "lng": 13.17933622010728
+        }
+      },
+      "formatted_address": "R55J+67M, Fori Road, Tashan Bama, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8080937,13.1806822",
+      "google_place_id": "ChIJTQt-RdOhBBER-sG68Yet7ag"
+    }
+  },
+  {
+    "id": "31323",
+    "name": "DISTRICT HEAD",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "08/03/02/032",
+    "remark": "NEW PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2959105,
+      "longitude": 14.1233667,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3721304,
+          "lng": 14.1824042
+        },
+        "southwest": {
+          "lat": 11.2324085,
+          "lng": 14.0461555
+        }
+      },
+      "formatted_address": "Buduwa / Bula Chirabe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2959105,14.1233667",
+      "google_place_id": "ChIJXyr4e27yHBEReQsYgLsFTpU"
+    }
+  },
+  {
+    "id": "31324",
+    "name": "TARMUA PRI. SCH.",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "08/03/02/033",
+    "remark": "NEW PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.5194843,
+      "longitude": 13.6848882,
+      "viewport": {
+        "northeast": {
+          "lat": 11.52077047989272,
+          "lng": 13.68629072989272
+        },
+        "southwest": {
+          "lat": 11.51807082010728,
+          "lng": 13.68359107010728
+        }
+      },
+      "formatted_address": "GM9M+QXR, Mbusube road, beside UN humanitarian hub, 610101, Bama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5194843,13.6848882",
+      "google_place_id": "ChIJQ8D5eA6xHBERyAXtWskpgfQ"
+    }
+  },
+  {
+    "id": "31325",
+    "name": "ALHAJI DALA",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "08/03/02/034",
+    "remark": "NEW PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2959105,
+      "longitude": 14.1233667,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3721304,
+          "lng": 14.1824042
+        },
+        "southwest": {
+          "lat": 11.2324085,
+          "lng": 14.0461555
+        }
+      },
+      "formatted_address": "Buduwa / Bula Chirabe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2959105,14.1233667",
+      "google_place_id": "ChIJXyr4e27yHBEReQsYgLsFTpU"
+    }
+  },
+  {
+    "id": "31326",
+    "name": "WAJERE MOTOR PARK",
+    "registration_area_id": "1683",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "08/03/02/035",
+    "remark": "NEW PU",
+    "ward_id": "1683",
+    "ward_name": "BUDUWA / BULA CHIRABE",
+    "local_government_id": "144",
+    "local_government_name": "BAMA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8109722,
+      "longitude": 13.1819381,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81228882989272,
+          "lng": 13.18313372989272
+        },
+        "southwest": {
+          "lat": 11.80958917010728,
+          "lng": 13.18043407010728
+        }
+      },
+      "formatted_address": "R56J+9QP, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8109722,13.1819381",
+      "google_place_id": "ChIJh-3vtdOhBBERgcL7cFq48dk"
+    }
+  }
+]

@@ -1,0 +1,435 @@
+[
+  {
+    "id": "99007",
+    "name": "MACINJIM I&II PRI SCHOOL",
+    "registration_area_id": "5041",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/20/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5041",
+    "ward_name": "MAGAM/TSA",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "99008",
+    "name": "UNG TSA - K/G M/UNG",
+    "registration_area_id": "5041",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/20/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5041",
+    "ward_name": "MAGAM/TSA",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "99009",
+    "name": "ASAURARAR DANKAKA - K/G M/UNG",
+    "registration_area_id": "5041",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/20/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5041",
+    "ward_name": "MAGAM/TSA",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "99010",
+    "name": "ASAURARAR ILU - K/G M/UNG",
+    "registration_area_id": "5041",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/20/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5041",
+    "ward_name": "MAGAM/TSA",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.4735657,
+      "longitude": 7.873526099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.47492607989272,
+          "lng": 7.874906329892722
+        },
+        "southwest": {
+          "lat": 12.47222642010728,
+          "lng": 7.872206670107278
+        }
+      },
+      "formatted_address": "Kano-Kankia-Katsina Rd, 822102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4735657,7.873526099999999",
+      "google_place_id": "ChIJcT_fP9glrhER6oiJPE8mcmk"
+    }
+  },
+  {
+    "id": "99011",
+    "name": "FAN FARAUTA PRI.SCHOOL",
+    "registration_area_id": "5041",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/20/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5041",
+    "ward_name": "MAGAM/TSA",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.462174,
+      "longitude": 7.828637,
+      "viewport": {
+        "northeast": {
+          "lat": 12.46401315,
+          "lng": 7.829898479892721
+        },
+        "southwest": {
+          "lat": 12.45665655,
+          "lng": 7.827198820107277
+        }
+      },
+      "formatted_address": "FR6H+VF6, 822101, Machinjim, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.462174,7.828637",
+      "google_place_id": "ChIJA-sA9WYnrhERKFx0EG1iHy0"
+    }
+  },
+  {
+    "id": "99012",
+    "name": "TSA YAMMA PRI.SCHOOL",
+    "registration_area_id": "5041",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/20/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5041",
+    "ward_name": "MAGAM/TSA",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.462174,
+      "longitude": 7.828637,
+      "viewport": {
+        "northeast": {
+          "lat": 12.46401315,
+          "lng": 7.829898479892721
+        },
+        "southwest": {
+          "lat": 12.45665655,
+          "lng": 7.827198820107277
+        }
+      },
+      "formatted_address": "FR6H+VF6, 822101, Machinjim, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.462174,7.828637",
+      "google_place_id": "ChIJA-sA9WYnrhERKFx0EG1iHy0"
+    }
+  },
+  {
+    "id": "99013",
+    "name": "TSA GABAS - DISPENSARY",
+    "registration_area_id": "5041",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/20/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5041",
+    "ward_name": "MAGAM/TSA",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "99014",
+    "name": "TASHAR KARE K/G M/UNGUWA",
+    "registration_area_id": "5041",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/20/10/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5041",
+    "ward_name": "MAGAM/TSA",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "99015",
+    "name": "TASHAR GAMJI K/G M/UNGUWA",
+    "registration_area_id": "5041",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/20/10/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5041",
+    "ward_name": "MAGAM/TSA",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "99016",
+    "name": "MALAMAWA K/G M/UNGUWA",
+    "registration_area_id": "5041",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/20/10/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5041",
+    "ward_name": "MAGAM/TSA",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "99017",
+    "name": "AKUTTAI PRI.SCHOOL",
+    "registration_area_id": "5041",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/20/10/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5041",
+    "ward_name": "MAGAM/TSA",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.462174,
+      "longitude": 7.828637,
+      "viewport": {
+        "northeast": {
+          "lat": 12.46401315,
+          "lng": 7.829898479892721
+        },
+        "southwest": {
+          "lat": 12.45665655,
+          "lng": 7.827198820107277
+        }
+      },
+      "formatted_address": "FR6H+VF6, 822101, Machinjim, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.462174,7.828637",
+      "google_place_id": "ChIJA-sA9WYnrhERKFx0EG1iHy0"
+    }
+  },
+  {
+    "id": "99018",
+    "name": "MAGAM OPEN SPACE",
+    "registration_area_id": "5041",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "20/20/10/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5041",
+    "ward_name": "MAGAM/TSA",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 34.158165,
+      "longitude": 74.556219,
+      "viewport": {
+        "northeast": {
+          "lat": 34.15945302989272,
+          "lng": 74.55746952989273
+        },
+        "southwest": {
+          "lat": 34.15675337010727,
+          "lng": 74.55476987010728
+        }
+      },
+      "formatted_address": "HYDERIYA SHOPPING COMPLEX GULMARG ROAD, Magam, Jammu and Kashmir 193401",
+      "google_map_url": "https://maps.google.com?q=34.158165,74.556219",
+      "google_place_id": "ChIJYUrc-sSh4TgRgmhoC6EIUBc"
+    }
+  },
+  {
+    "id": "99019",
+    "name": "TSOGAWA OPEN SPACE",
+    "registration_area_id": "5041",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "20/20/10/013",
+    "remark": "EXISTING PU",
+    "ward_id": "5041",
+    "ward_name": "MAGAM/TSA",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.4735657,
+      "longitude": 7.873526099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.47492607989272,
+          "lng": 7.874906329892722
+        },
+        "southwest": {
+          "lat": 12.47222642010728,
+          "lng": 7.872206670107278
+        }
+      },
+      "formatted_address": "Kano-Kankia-Katsina Rd, 822102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4735657,7.873526099999999",
+      "google_place_id": "ChIJcT_fP9glrhER6oiJPE8mcmk"
+    }
+  },
+  {
+    "id": "99020",
+    "name": "KARTAWA OPEN SPACE",
+    "registration_area_id": "5041",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "20/20/10/014",
+    "remark": "EXISTING PU",
+    "ward_id": "5041",
+    "ward_name": "MAGAM/TSA",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.5513342,
+      "longitude": 7.839900699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.55259527989272,
+          "lng": 7.84131847989272
+        },
+        "southwest": {
+          "lat": 12.54989562010728,
+          "lng": 7.838618820107277
+        }
+      },
+      "formatted_address": "Kano-Kankia-Katsina Rd, 822101, Gaci, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5513342,7.839900699999999",
+      "google_place_id": "ChIJJcpHfkEprhERwq4gm4NqFGk"
+    }
+  },
+  {
+    "id": "99021",
+    "name": "DAN'IYA PRI.SCHOOL",
+    "registration_area_id": "5041",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "20/20/10/015",
+    "remark": "EXISTING PU",
+    "ward_id": "5041",
+    "ward_name": "MAGAM/TSA",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.462174,
+      "longitude": 7.828637,
+      "viewport": {
+        "northeast": {
+          "lat": 12.46401315,
+          "lng": 7.829898479892721
+        },
+        "southwest": {
+          "lat": 12.45665655,
+          "lng": 7.827198820107277
+        }
+      },
+      "formatted_address": "FR6H+VF6, 822101, Machinjim, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.462174,7.828637",
+      "google_place_id": "ChIJA-sA9WYnrhERKFx0EG1iHy0"
+    }
+  },
+  {
+    "id": "99022",
+    "name": "HEALTH CARE MACINJIM",
+    "registration_area_id": "5041",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "20/20/10/016",
+    "remark": "NEW PU",
+    "ward_id": "5041",
+    "ward_name": "MAGAM/TSA",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9767166,
+      "longitude": 7.6324748,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97803877989272,
+          "lng": 7.633809179892721
+        },
+        "southwest": {
+          "lat": 12.97533912010728,
+          "lng": 7.631109520107278
+        }
+      },
+      "formatted_address": "XJGJ+MXQ, Mani Rd, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9767166,7.6324748",
+      "google_place_id": "ChIJU31y8l0jsBER3dja32lYyeo"
+    }
+  },
+  {
+    "id": "99023",
+    "name": "TV CENTER MAGAM",
+    "registration_area_id": "5041",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "20/20/10/017",
+    "remark": "NEW PU",
+    "ward_id": "5041",
+    "ward_name": "MAGAM/TSA",
+    "local_government_id": "433",
+    "local_government_name": "KANKIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "id": "87733",
+    "name": "DARAI C/GARI",
+    "registration_area_id": "4512",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/16/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4512",
+    "ward_name": "GAMARYA",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "87734",
+    "name": "GAMARYA - PRI. SCHOOL",
+    "registration_area_id": "4512",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/16/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4512",
+    "ward_name": "GAMARYA",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9015455,
+      "longitude": 8.9246457,
+      "viewport": {
+        "northeast": {
+          "lat": 11.90301027989272,
+          "lng": 8.926132629892722
+        },
+        "southwest": {
+          "lat": 11.90031062010728,
+          "lng": 8.923432970107278
+        }
+      },
+      "formatted_address": "7F3CWW2F+JVC Gamarya Gamarya Kano Lajawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9015455,8.9246457",
+      "google_place_id": "ChIJo5ZppNMdrBERSJ0_qoi4FuY"
+    }
+  },
+  {
+    "id": "87735",
+    "name": "GALADIMA/ MUSABAR MUSABAR P. SCHL",
+    "registration_area_id": "4512",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/16/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4512",
+    "ward_name": "GAMARYA",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8615993,
+      "longitude": 9.0128997,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86294787989272,
+          "lng": 9.014247779892722
+        },
+        "southwest": {
+          "lat": 11.86024822010728,
+          "lng": 9.011548120107278
+        }
+      },
+      "formatted_address": "7F3FV267+J5J Arewa Kano, 713102, Gaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8615993,9.0128997",
+      "google_place_id": "ChIJMVUsLTUDrBERN6Xqbtsh6Ho"
+    }
+  },
+  {
+    "id": "87736",
+    "name": "KADANI/ZANGO GAMARYA P. SCHOOL",
+    "registration_area_id": "4512",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/16/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4512",
+    "ward_name": "GAMARYA",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8567528,
+      "longitude": 9.0080175,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85807992989272,
+          "lng": 9.009360979892724
+        },
+        "southwest": {
+          "lat": 11.85538027010728,
+          "lng": 9.00666132010728
+        }
+      },
+      "formatted_address": "7F3FV245+M5G Ishifawa Gaya.kudu Kano, Gaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8567528,9.0080175",
+      "google_place_id": "ChIJy4YU7nUdrBERrrEt0_wUOSs"
+    }
+  },
+  {
+    "id": "87737",
+    "name": "ZAMBUR CIKINGARI YAMMA ZAMBUR PRI. SCHOOL",
+    "registration_area_id": "4512",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/16/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4512",
+    "ward_name": "GAMARYA",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8609183,
+      "longitude": 9.002863399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86226212989272,
+          "lng": 9.004342079892721
+        },
+        "southwest": {
+          "lat": 11.85956247010728,
+          "lng": 9.001642420107277
+        }
+      },
+      "formatted_address": "7F3FV263+949 Arewa Kano, Alkala 713102, Gaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8609183,9.002863399999999",
+      "google_place_id": "ChIJR6oNcsgcrBERDBJ_EZPzCSY"
+    }
+  },
+  {
+    "id": "87738",
+    "name": "ZAMBUR YAMMA ZAMBUR PRI. SCHOOL",
+    "registration_area_id": "4512",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/16/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4512",
+    "ward_name": "GAMARYA",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8315399,
+      "longitude": 8.7288391,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83298227989272,
+          "lng": 8.73021872989272
+        },
+        "southwest": {
+          "lat": 11.83028262010728,
+          "lng": 8.727519070107276
+        }
+      },
+      "formatted_address": "7F3CVP3Q+RW4, 713105, Gano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8315399,8.7288391",
+      "google_place_id": "ChIJaTKuNf8nrBER2cwipNXZQp4"
+    }
+  },
+  {
+    "id": "87739",
+    "name": "GAMARYA",
+    "registration_area_id": "4512",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/16/04/007",
+    "remark": "NEW PU",
+    "ward_id": "4512",
+    "ward_name": "GAMARYA",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.862577,
+      "longitude": 8.9990801,
+      "viewport": {
+        "northeast": {
+          "lat": 11.8710351,
+          "lng": 9.015768999999999
+        },
+        "southwest": {
+          "lat": 11.85048,
+          "lng": 8.982157899999999
+        }
+      },
+      "formatted_address": "713102, Gaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.862577,8.9990801",
+      "google_place_id": "ChIJJ8famrYcrBERNUc3WJ_L6jw"
+    }
+  },
+  {
+    "id": "87740",
+    "name": "KADANI/ZANGO",
+    "registration_area_id": "4512",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/16/04/008",
+    "remark": "NEW PU",
+    "ward_id": "4512",
+    "ward_name": "GAMARYA",
+    "local_government_id": "385",
+    "local_government_name": "GAYA",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  }
+]

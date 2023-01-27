@@ -1,0 +1,531 @@
+[
+  {
+    "id": "350757",
+    "name": "FRONTAGE OF NUD. PRY. SCHOOL, MOROKO ROAD",
+    "registration_area_id": "17899",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "29/19/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17899",
+    "ward_name": "ILAJE",
+    "local_government_id": "617",
+    "local_government_name": "ILESA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "350758",
+    "name": "SPACE NEAR END OF TARRED ROAD, ISALE GEN.",
+    "registration_area_id": "17899",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "29/19/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17899",
+    "ward_name": "ILAJE",
+    "local_government_id": "617",
+    "local_government_name": "ILESA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.644475599999999,
+      "longitude": 4.7373274,
+      "viewport": {
+        "northeast": {
+          "lat": 7.64582542989272,
+          "lng": 4.738677229892722
+        },
+        "southwest": {
+          "lat": 7.643125770107276,
+          "lng": 4.735977570107278
+        }
+      },
+      "formatted_address": "Ilaje street, Oja Aba 233285, Ilerin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.644475599999999,4.7373274",
+      "google_place_id": "ChIJjQ7_D5oYOBARHl3XiDlwAsM"
+    }
+  },
+  {
+    "id": "350759",
+    "name": "OLD SCHOOL OF HEALTH TECHNOLOGY",
+    "registration_area_id": "17899",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "29/19/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17899",
+    "ward_name": "ILAJE",
+    "local_government_id": "617",
+    "local_government_name": "ILESA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5916298,
+      "longitude": 4.7418137,
+      "viewport": {
+        "northeast": {
+          "lat": 7.593088229892722,
+          "lng": 4.743067679892722
+        },
+        "southwest": {
+          "lat": 7.590388570107278,
+          "lng": 4.740368020107279
+        }
+      },
+      "formatted_address": "HPRR+MP4, Oshogbo - Ilesha Rd, 233111, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5916298,4.7418137",
+      "google_place_id": "ChIJIbT2jBsYOBARNQNm8yEbLGs"
+    }
+  },
+  {
+    "id": "350760",
+    "name": "OGEDENGBE COMM. HIGH SCHOOL",
+    "registration_area_id": "17899",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "29/19/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17899",
+    "ward_name": "ILAJE",
+    "local_government_id": "617",
+    "local_government_name": "ILESA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6355492,
+      "longitude": 4.7322435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.637062179892721,
+          "lng": 4.733696479892722
+        },
+        "southwest": {
+          "lat": 7.634362520107278,
+          "lng": 4.730996820107278
+        }
+      },
+      "formatted_address": "JPPJ+6V9, Ilaje Curtis, Oja Aba 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6355492,4.7322435",
+      "google_place_id": "ChIJZdZiBXMZOBARS2oO-KtWPV0"
+    }
+  },
+  {
+    "id": "350761",
+    "name": "OPEN SPACE ALAJE'S HOUSE",
+    "registration_area_id": "17899",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "29/19/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17899",
+    "ward_name": "ILAJE",
+    "local_government_id": "617",
+    "local_government_name": "ILESA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6337213,
+      "longitude": 4.7296323,
+      "viewport": {
+        "northeast": {
+          "lat": 7.635170029892722,
+          "lng": 4.730835629892722
+        },
+        "southwest": {
+          "lat": 7.632470370107278,
+          "lng": 4.728135970107278
+        }
+      },
+      "formatted_address": "JPMH+FVJ, Oja Aba 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6337213,4.7296323",
+      "google_place_id": "ChIJ3-IRo1oZOBARVHroYrYMYts"
+    }
+  },
+  {
+    "id": "350762",
+    "name": "LORIOMO ILAJE (METH. SCHOOL AREA)",
+    "registration_area_id": "17899",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "29/19/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17899",
+    "ward_name": "ILAJE",
+    "local_government_id": "617",
+    "local_government_name": "ILESA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.644475599999999,
+      "longitude": 4.7373274,
+      "viewport": {
+        "northeast": {
+          "lat": 7.64582542989272,
+          "lng": 4.738677229892722
+        },
+        "southwest": {
+          "lat": 7.643125770107276,
+          "lng": 4.735977570107278
+        }
+      },
+      "formatted_address": "Ilaje street, Oja Aba 233285, Ilerin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.644475599999999,4.7373274",
+      "google_place_id": "ChIJjQ7_D5oYOBARHl3XiDlwAsM"
+    }
+  },
+  {
+    "id": "350763",
+    "name": "IMADIN JUNCTION",
+    "registration_area_id": "17899",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "29/19/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17899",
+    "ward_name": "ILAJE",
+    "local_government_id": "617",
+    "local_government_name": "ILESA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6432287,
+      "longitude": 4.736799299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.644578529892722,
+          "lng": 4.738149129892721
+        },
+        "southwest": {
+          "lat": 7.641878870107278,
+          "lng": 4.735449470107278
+        }
+      },
+      "formatted_address": "Imadin street & Ilaje street, Oja Aba 233285, Ilerin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6432287,4.736799299999999",
+      "google_place_id": "Ej1JbWFkaW4gc3RyZWV0ICYgSWxhamUgc3RyZWV0LCBPamEgQWJhIDIzMzI4NSwgSWxlcmluLCBOaWdlcmlhImYiZAoUChIJX5Y9aJoYOBARB1shBzgTqXsSFAoSCV-WPWiaGDgQEQdbIQc4E6l7GhQKEgmruxjkmxg4EBEBoYFTQi9aIhoUChIJjQ7_D5oYOBARHl3XiDlwAsMiCg2fQ44EFTnH0gI"
+    }
+  },
+  {
+    "id": "350764",
+    "name": "ST. PETER'S FRONTAGE",
+    "registration_area_id": "17899",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "29/19/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17899",
+    "ward_name": "ILAJE",
+    "local_government_id": "617",
+    "local_government_name": "ILESA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.619552199999999,
+      "longitude": 4.7391286,
+      "viewport": {
+        "northeast": {
+          "lat": 7.620901729892722,
+          "lng": 4.740481979892722
+        },
+        "southwest": {
+          "lat": 7.618202070107278,
+          "lng": 4.737782320107278
+        }
+      },
+      "formatted_address": "Oshogbo - Ilesha Rd, 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.619552199999999,4.7391286",
+      "google_place_id": "ChIJnYU0P2UYOBARbDY3k0trBFQ"
+    }
+  },
+  {
+    "id": "350765",
+    "name": "METH. PRY. SCHOOL, LORIOMO ILAJE",
+    "registration_area_id": "17899",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "29/19/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17899",
+    "ward_name": "ILAJE",
+    "local_government_id": "617",
+    "local_government_name": "ILESA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.644475599999999,
+      "longitude": 4.7373274,
+      "viewport": {
+        "northeast": {
+          "lat": 7.64582542989272,
+          "lng": 4.738677229892722
+        },
+        "southwest": {
+          "lat": 7.643125770107276,
+          "lng": 4.735977570107278
+        }
+      },
+      "formatted_address": "Ilaje street, Oja Aba 233285, Ilerin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.644475599999999,4.7373274",
+      "google_place_id": "ChIJjQ7_D5oYOBARHl3XiDlwAsM"
+    }
+  },
+  {
+    "id": "350766",
+    "name": "IMADIN AREA NEAR AKINNIYI'S  HOUSE",
+    "registration_area_id": "17899",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "29/19/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17899",
+    "ward_name": "ILAJE",
+    "local_government_id": "617",
+    "local_government_name": "ILESA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.631814599999999,
+      "longitude": 4.7426104,
+      "viewport": {
+        "northeast": {
+          "lat": 7.633192529892722,
+          "lng": 4.743840679892722
+        },
+        "southwest": {
+          "lat": 7.630492870107278,
+          "lng": 4.741141020107278
+        }
+      },
+      "formatted_address": "a12 Isida Road, 233285, Ilerin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.631814599999999,4.7426104",
+      "google_place_id": "ChIJN0ZllGYZOBARi_AA9KHlFok"
+    }
+  },
+  {
+    "id": "350767",
+    "name": "OLD NIPOST, IMADIN, ILESA",
+    "registration_area_id": "17899",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "29/19/07/011",
+    "remark": "NEW PU",
+    "ward_id": "17899",
+    "ward_name": "ILAJE",
+    "local_government_id": "617",
+    "local_government_name": "ILESA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.626518,
+      "longitude": 4.7408836,
+      "viewport": {
+        "northeast": {
+          "lat": 7.627872479892722,
+          "lng": 4.742197579892721
+        },
+        "southwest": {
+          "lat": 7.625172820107278,
+          "lng": 4.739497920107278
+        }
+      },
+      "formatted_address": "JPGR+J92, Oshogbo - Ilesha Rd, 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.626518,4.7408836",
+      "google_place_id": "ChIJ4ywWVGIYOBARoM9aw0N5HeU"
+    }
+  },
+  {
+    "id": "350768",
+    "name": "HOLY TRINITY ELEMENTARY SCHOOL, ILESA",
+    "registration_area_id": "17899",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "29/19/07/012",
+    "remark": "NEW PU",
+    "ward_id": "17899",
+    "ward_name": "ILAJE",
+    "local_government_id": "617",
+    "local_government_name": "ILESA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.631814399999999,
+      "longitude": 4.7393399,
+      "viewport": {
+        "northeast": {
+          "lat": 7.63318127989272,
+          "lng": 4.740602679892722
+        },
+        "southwest": {
+          "lat": 7.630481620107276,
+          "lng": 4.737903020107278
+        }
+      },
+      "formatted_address": "JPJQ+PPG, 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.631814399999999,4.7393399",
+      "google_place_id": "ChIJ2-rYiogYOBARhEqN2VC1TUQ"
+    }
+  },
+  {
+    "id": "350769",
+    "name": "OPEN SPACE BABA LOKO JUNCTION OFF GARRI IJEBU, ILESA",
+    "registration_area_id": "17899",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "29/19/07/013",
+    "remark": "NEW PU",
+    "ward_id": "17899",
+    "ward_name": "ILAJE",
+    "local_government_id": "617",
+    "local_government_name": "ILESA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "350770",
+    "name": "IFEOLUWA HIGH SCHOOL, OFF MUROKO ROAD, ILESA",
+    "registration_area_id": "17899",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "29/19/07/014",
+    "remark": "NEW PU",
+    "ward_id": "17899",
+    "ward_name": "ILAJE",
+    "local_government_id": "617",
+    "local_government_name": "ILESA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6048317,
+      "longitude": 4.7020789,
+      "viewport": {
+        "northeast": {
+          "lat": 7.60618612989272,
+          "lng": 4.703432779892722
+        },
+        "southwest": {
+          "lat": 7.603486470107276,
+          "lng": 4.700733120107278
+        }
+      },
+      "formatted_address": "JP32+WRP, Isua, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6048317,4.7020789",
+      "google_place_id": "ChIJyXf8fsEiOBARQoGJXZB9jXY"
+    }
+  },
+  {
+    "id": "350771",
+    "name": "OPEN SPACE OKE ITUNU JUNCTION, ILESA",
+    "registration_area_id": "17899",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "29/19/07/015",
+    "remark": "NEW PU",
+    "ward_id": "17899",
+    "ward_name": "ILAJE",
+    "local_government_id": "617",
+    "local_government_name": "ILESA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6395498,
+      "longitude": 4.7588042,
+      "viewport": {
+        "northeast": {
+          "lat": 7.640653679892721,
+          "lng": 4.760370429892721
+        },
+        "southwest": {
+          "lat": 7.637954020107277,
+          "lng": 4.757670770107278
+        }
+      },
+      "formatted_address": "JQQ5+RG7, Oke-itunu, 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6395498,4.7588042",
+      "google_place_id": "ChIJVVVVVeUYOBARxzG0FckGQ3Q"
+    }
+  },
+  {
+    "id": "350772",
+    "name": "MATERNITY CENTRE, OKE ITUNU, ILESA",
+    "registration_area_id": "17899",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "29/19/07/016",
+    "remark": "NEW PU",
+    "ward_id": "17899",
+    "ward_name": "ILAJE",
+    "local_government_id": "617",
+    "local_government_name": "ILESA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.640262299999999,
+      "longitude": 4.7310107,
+      "viewport": {
+        "northeast": {
+          "lat": 7.641736079892723,
+          "lng": 4.732346279892722
+        },
+        "southwest": {
+          "lat": 7.639036420107279,
+          "lng": 4.729646620107278
+        }
+      },
+      "formatted_address": "Okeitunu Line, Oja Aba 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.640262299999999,4.7310107",
+      "google_place_id": "ChIJOXP0grEZOBARNRUE-Z8GASY"
+    }
+  },
+  {
+    "id": "350773",
+    "name": "IMADIN PRIMARY SCHOOL, ILESA",
+    "registration_area_id": "17899",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "29/19/07/017",
+    "remark": "NEW PU",
+    "ward_id": "17899",
+    "ward_name": "ILAJE",
+    "local_government_id": "617",
+    "local_government_name": "ILESA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6458547,
+      "longitude": 4.7396157,
+      "viewport": {
+        "northeast": {
+          "lat": 7.647259279892721,
+          "lng": 4.740985579892721
+        },
+        "southwest": {
+          "lat": 7.644559620107277,
+          "lng": 4.738285920107277
+        }
+      },
+      "formatted_address": "Ilaje Irebami Quarters, 233283, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6458547,4.7396157",
+      "google_place_id": "ChIJrROvvL0ZOBARBtKtrmFQ8Rk"
+    }
+  }
+]

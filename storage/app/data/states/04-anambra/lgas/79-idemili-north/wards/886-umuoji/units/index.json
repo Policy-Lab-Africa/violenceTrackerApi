@@ -1,0 +1,1273 @@
+[
+  {
+    "id": "15063",
+    "name": "IDEOMA HALL I",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "04/10/12/001",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1110226,
+      "longitude": 6.89417,
+      "viewport": {
+        "northeast": {
+          "lat": 6.112428179892722,
+          "lng": 6.895495029892722
+        },
+        "southwest": {
+          "lat": 6.109728520107279,
+          "lng": 6.892795370107278
+        }
+      },
+      "formatted_address": "4V6V+CM3, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1110226,6.89417",
+      "google_place_id": "ChIJQb1evYKRQxARWvZdTEes9rU"
+    }
+  },
+  {
+    "id": "15064",
+    "name": "IDEOMA HALL II",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "04/10/12/002",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.114634,
+      "longitude": 6.8724421,
+      "viewport": {
+        "northeast": {
+          "lat": 6.116008679892722,
+          "lng": 6.873744229892721
+        },
+        "southwest": {
+          "lat": 6.113309020107278,
+          "lng": 6.871044570107277
+        }
+      },
+      "formatted_address": "4V7C+VX4, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.114634,6.8724421",
+      "google_place_id": "ChIJ0XamrS6RQxARoFKQhJ09KL4"
+    }
+  },
+  {
+    "id": "15065",
+    "name": "DIMECHEM P/S I",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "04/10/12/003",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1050898,
+      "longitude": 6.8858877,
+      "viewport": {
+        "northeast": {
+          "lat": 6.106434529892722,
+          "lng": 6.887288379892721
+        },
+        "southwest": {
+          "lat": 6.103734870107278,
+          "lng": 6.884588720107277
+        }
+      },
+      "formatted_address": "SHOP 4, LINE 1 NKWO UMUOJI, IFITE VILLAGE, UMUOJI,#IDEMILI NORTH L.G.A, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1050898,6.8858877",
+      "google_place_id": "ChIJqSbxGJaXQxARCWziVWN2yt4"
+    }
+  },
+  {
+    "id": "15066",
+    "name": "DIMECHEM  P/S II",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "04/10/12/004",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1552124,
+      "longitude": 6.8926539,
+      "viewport": {
+        "northeast": {
+          "lat": 6.156504529892723,
+          "lng": 6.893962529892722
+        },
+        "southwest": {
+          "lat": 6.153804870107279,
+          "lng": 6.891262870107278
+        }
+      },
+      "formatted_address": "5V4V+33J, 421108, Idemili North, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1552124,6.8926539",
+      "google_place_id": "ChIJechAaFmQQxARJlzQSHMZ1tk"
+    }
+  },
+  {
+    "id": "15067",
+    "name": "UGWUMBA P/S I",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "04/10/12/005",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1388139,
+      "longitude": 6.8954258,
+      "viewport": {
+        "northeast": {
+          "lat": 6.1515911,
+          "lng": 6.9185471
+        },
+        "southwest": {
+          "lat": 6.0989301,
+          "lng": 6.883831
+        }
+      },
+      "formatted_address": "Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1388139,6.8954258",
+      "google_place_id": "ChIJM8QUTC2XQxARNC_CeywSo5U"
+    }
+  },
+  {
+    "id": "15068",
+    "name": "UGWUMBA P/S II",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "04/10/12/006",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.115027,
+      "longitude": 6.887896,
+      "viewport": {
+        "northeast": {
+          "lat": 6.116488629892721,
+          "lng": 6.889319829892721
+        },
+        "southwest": {
+          "lat": 6.113788970107278,
+          "lng": 6.886620170107277
+        }
+      },
+      "formatted_address": "4V8Q+256, Ifite Ire, LGA, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.115027,6.887896",
+      "google_place_id": "ChIJieXMf3WRQxARUbaFPVvWx10"
+    }
+  },
+  {
+    "id": "15069",
+    "name": "ABIDI HALL",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "04/10/12/007",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.114634,
+      "longitude": 6.8724421,
+      "viewport": {
+        "northeast": {
+          "lat": 6.116008679892722,
+          "lng": 6.873744229892721
+        },
+        "southwest": {
+          "lat": 6.113309020107278,
+          "lng": 6.871044570107277
+        }
+      },
+      "formatted_address": "4V7C+VX4, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.114634,6.8724421",
+      "google_place_id": "ChIJ0XamrS6RQxARoFKQhJ09KL4"
+    }
+  },
+  {
+    "id": "15070",
+    "name": "URUEGBE HALL",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "04/10/12/008",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.121608699999999,
+      "longitude": 6.887801899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.122959629892722,
+          "lng": 6.889149979892722
+        },
+        "southwest": {
+          "lat": 6.120259970107278,
+          "lng": 6.886450320107278
+        }
+      },
+      "formatted_address": "4VCQ+J5C, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.121608699999999,6.887801899999999",
+      "google_place_id": "ChIJxQu_OcyRQxAR9pnvIDPzfK4"
+    }
+  },
+  {
+    "id": "15071",
+    "name": "AGUMA P/S I",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "04/10/12/009",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1110226,
+      "longitude": 6.89417,
+      "viewport": {
+        "northeast": {
+          "lat": 6.112428179892722,
+          "lng": 6.895495029892722
+        },
+        "southwest": {
+          "lat": 6.109728520107279,
+          "lng": 6.892795370107278
+        }
+      },
+      "formatted_address": "4V6V+CM3, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1110226,6.89417",
+      "google_place_id": "ChIJQb1evYKRQxARWvZdTEes9rU"
+    }
+  },
+  {
+    "id": "15072",
+    "name": "AGUMA  P/S II",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "04/10/12/010",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1110226,
+      "longitude": 6.89417,
+      "viewport": {
+        "northeast": {
+          "lat": 6.112428179892722,
+          "lng": 6.895495029892722
+        },
+        "southwest": {
+          "lat": 6.109728520107279,
+          "lng": 6.892795370107278
+        }
+      },
+      "formatted_address": "4V6V+CM3, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1110226,6.89417",
+      "google_place_id": "ChIJQb1evYKRQxARWvZdTEes9rU"
+    }
+  },
+  {
+    "id": "15073",
+    "name": "CENTRAL SCHOOL I",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "04/10/12/011",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1202371,
+      "longitude": 6.8939021,
+      "viewport": {
+        "northeast": {
+          "lat": 6.121585379892722,
+          "lng": 6.895223929892722
+        },
+        "southwest": {
+          "lat": 6.118885720107278,
+          "lng": 6.892524270107279
+        }
+      },
+      "formatted_address": "4VCV+4HG, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1202371,6.8939021",
+      "google_place_id": "ChIJr2j8pu-RQxAR1LuCdu_JdfA"
+    }
+  },
+  {
+    "id": "15074",
+    "name": "CENTRAL  SCHOOL II",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "04/10/12/012",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.115027,
+      "longitude": 6.887896,
+      "viewport": {
+        "northeast": {
+          "lat": 6.116488629892721,
+          "lng": 6.889319829892721
+        },
+        "southwest": {
+          "lat": 6.113788970107278,
+          "lng": 6.886620170107277
+        }
+      },
+      "formatted_address": "4V8Q+256, Ifite Ire, LGA, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.115027,6.887896",
+      "google_place_id": "ChIJieXMf3WRQxARUbaFPVvWx10"
+    }
+  },
+  {
+    "id": "15075",
+    "name": "NKEME P/S I",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "04/10/12/013",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1388139,
+      "longitude": 6.8954258,
+      "viewport": {
+        "northeast": {
+          "lat": 6.1515911,
+          "lng": 6.9185471
+        },
+        "southwest": {
+          "lat": 6.0989301,
+          "lng": 6.883831
+        }
+      },
+      "formatted_address": "Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1388139,6.8954258",
+      "google_place_id": "ChIJM8QUTC2XQxARNC_CeywSo5U"
+    }
+  },
+  {
+    "id": "15076",
+    "name": "NKEME P/S II",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "04/10/12/014",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1202371,
+      "longitude": 6.8939021,
+      "viewport": {
+        "northeast": {
+          "lat": 6.121585379892722,
+          "lng": 6.895223929892722
+        },
+        "southwest": {
+          "lat": 6.118885720107278,
+          "lng": 6.892524270107279
+        }
+      },
+      "formatted_address": "4VCV+4HG, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1202371,6.8939021",
+      "google_place_id": "ChIJr2j8pu-RQxAR1LuCdu_JdfA"
+    }
+  },
+  {
+    "id": "15077",
+    "name": "BOY'S HIGH SCHOOL I",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "04/10/12/015",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.145169999999999,
+      "longitude": 6.8816542,
+      "viewport": {
+        "northeast": {
+          "lat": 6.146529729892722,
+          "lng": 6.88285402989272
+        },
+        "southwest": {
+          "lat": 6.143830070107279,
+          "lng": 6.880154370107276
+        }
+      },
+      "formatted_address": "PMB 10 Ogidi, idemili north LGA, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.145169999999999,6.8816542",
+      "google_place_id": "ChIJ3ZQMJPyQQxARC77PjZv5Tpo"
+    }
+  },
+  {
+    "id": "15078",
+    "name": "BOY'S HIGH SCHOOL II",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "04/10/12/016",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.145169999999999,
+      "longitude": 6.8816542,
+      "viewport": {
+        "northeast": {
+          "lat": 6.146529729892722,
+          "lng": 6.88285402989272
+        },
+        "southwest": {
+          "lat": 6.143830070107279,
+          "lng": 6.880154370107276
+        }
+      },
+      "formatted_address": "PMB 10 Ogidi, idemili north LGA, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.145169999999999,6.8816542",
+      "google_place_id": "ChIJ3ZQMJPyQQxARC77PjZv5Tpo"
+    }
+  },
+  {
+    "id": "15079",
+    "name": "IFITE ORA P/S I",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "04/10/12/017",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1050898,
+      "longitude": 6.8858877,
+      "viewport": {
+        "northeast": {
+          "lat": 6.106434529892722,
+          "lng": 6.887288379892721
+        },
+        "southwest": {
+          "lat": 6.103734870107278,
+          "lng": 6.884588720107277
+        }
+      },
+      "formatted_address": "SHOP 4, LINE 1 NKWO UMUOJI, IFITE VILLAGE, UMUOJI,#IDEMILI NORTH L.G.A, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1050898,6.8858877",
+      "google_place_id": "ChIJqSbxGJaXQxARCWziVWN2yt4"
+    }
+  },
+  {
+    "id": "15080",
+    "name": "IFITE ORA P/S II",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "04/10/12/018",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1388139,
+      "longitude": 6.8954258,
+      "viewport": {
+        "northeast": {
+          "lat": 6.1515911,
+          "lng": 6.9185471
+        },
+        "southwest": {
+          "lat": 6.0989301,
+          "lng": 6.883831
+        }
+      },
+      "formatted_address": "Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1388139,6.8954258",
+      "google_place_id": "ChIJM8QUTC2XQxARNC_CeywSo5U"
+    }
+  },
+  {
+    "id": "15081",
+    "name": "URUMKPU HALL I",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "04/10/12/019",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1110226,
+      "longitude": 6.89417,
+      "viewport": {
+        "northeast": {
+          "lat": 6.112428179892722,
+          "lng": 6.895495029892722
+        },
+        "southwest": {
+          "lat": 6.109728520107279,
+          "lng": 6.892795370107278
+        }
+      },
+      "formatted_address": "4V6V+CM3, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1110226,6.89417",
+      "google_place_id": "ChIJQb1evYKRQxARWvZdTEes9rU"
+    }
+  },
+  {
+    "id": "15082",
+    "name": "URUMKPU HALL II",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "04/10/12/020",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.114634,
+      "longitude": 6.8724421,
+      "viewport": {
+        "northeast": {
+          "lat": 6.116008679892722,
+          "lng": 6.873744229892721
+        },
+        "southwest": {
+          "lat": 6.113309020107278,
+          "lng": 6.871044570107277
+        }
+      },
+      "formatted_address": "4V7C+VX4, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.114634,6.8724421",
+      "google_place_id": "ChIJ0XamrS6RQxARoFKQhJ09KL4"
+    }
+  },
+  {
+    "id": "15083",
+    "name": "YOUTH CENTRE I",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "04/10/12/021",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1034228,
+      "longitude": 6.8833562,
+      "viewport": {
+        "northeast": {
+          "lat": 6.104698529892722,
+          "lng": 6.884787429892722
+        },
+        "southwest": {
+          "lat": 6.101998870107278,
+          "lng": 6.882087770107278
+        }
+      },
+      "formatted_address": "Omee Youth Centre L.G.A, Okaa, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1034228,6.8833562",
+      "google_place_id": "ChIJq6qqqi6XQxARF5EvTTAzyOw"
+    }
+  },
+  {
+    "id": "15084",
+    "name": "YOUTH CENTRE II",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "04/10/12/022",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1034228,
+      "longitude": 6.8833562,
+      "viewport": {
+        "northeast": {
+          "lat": 6.104698529892722,
+          "lng": 6.884787429892722
+        },
+        "southwest": {
+          "lat": 6.101998870107278,
+          "lng": 6.882087770107278
+        }
+      },
+      "formatted_address": "Omee Youth Centre L.G.A, Okaa, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1034228,6.8833562",
+      "google_place_id": "ChIJq6qqqi6XQxARF5EvTTAzyOw"
+    }
+  },
+  {
+    "id": "15085",
+    "name": "ABO OWELLE CIVIC CENTRE I",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "04/10/12/023",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.114634,
+      "longitude": 6.8724421,
+      "viewport": {
+        "northeast": {
+          "lat": 6.116008679892722,
+          "lng": 6.873744229892721
+        },
+        "southwest": {
+          "lat": 6.113309020107278,
+          "lng": 6.871044570107277
+        }
+      },
+      "formatted_address": "4V7C+VX4, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.114634,6.8724421",
+      "google_place_id": "ChIJ0XamrS6RQxARoFKQhJ09KL4"
+    }
+  },
+  {
+    "id": "15086",
+    "name": "ABO OWELLE CIVIC CENTRE II",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "04/10/12/024",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.114634,
+      "longitude": 6.8724421,
+      "viewport": {
+        "northeast": {
+          "lat": 6.116008679892722,
+          "lng": 6.873744229892721
+        },
+        "southwest": {
+          "lat": 6.113309020107278,
+          "lng": 6.871044570107277
+        }
+      },
+      "formatted_address": "4V7C+VX4, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.114634,6.8724421",
+      "google_place_id": "ChIJ0XamrS6RQxARoFKQhJ09KL4"
+    }
+  },
+  {
+    "id": "15087",
+    "name": "CUSTOMARY COURT I",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "04/10/12/025",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.119794199999999,
+      "longitude": 7.0292565,
+      "viewport": {
+        "northeast": {
+          "lat": 6.121158379892722,
+          "lng": 7.030647929892721
+        },
+        "southwest": {
+          "lat": 6.118458720107278,
+          "lng": 7.027948270107277
+        }
+      },
+      "formatted_address": "429H+WM9, Umubiala 422109, Agulu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.119794199999999,7.0292565",
+      "google_place_id": "ChIJU7eo5_KdQxARJxgk49mad9Y"
+    }
+  },
+  {
+    "id": "15088",
+    "name": "CUSTOMARY COURT II",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "04/10/12/026",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1571432,
+      "longitude": 6.8586827,
+      "viewport": {
+        "northeast": {
+          "lat": 6.158587679892721,
+          "lng": 6.860005029892722
+        },
+        "southwest": {
+          "lat": 6.155888020107278,
+          "lng": 6.857305370107278
+        }
+      },
+      "formatted_address": "5V45+VF3, Ikenga Ogidi 434101, Ikenga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1571432,6.8586827",
+      "google_place_id": "ChIJi31gMKKRQxARAdYm1hQvZFw"
+    }
+  },
+  {
+    "id": "15089",
+    "name": "AMOGU HALL I",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "04/10/12/027",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1110226,
+      "longitude": 6.89417,
+      "viewport": {
+        "northeast": {
+          "lat": 6.112428179892722,
+          "lng": 6.895495029892722
+        },
+        "southwest": {
+          "lat": 6.109728520107279,
+          "lng": 6.892795370107278
+        }
+      },
+      "formatted_address": "4V6V+CM3, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1110226,6.89417",
+      "google_place_id": "ChIJQb1evYKRQxARWvZdTEes9rU"
+    }
+  },
+  {
+    "id": "15090",
+    "name": "AMOGU HALL II",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "04/10/12/028",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1110226,
+      "longitude": 6.89417,
+      "viewport": {
+        "northeast": {
+          "lat": 6.112428179892722,
+          "lng": 6.895495029892722
+        },
+        "southwest": {
+          "lat": 6.109728520107279,
+          "lng": 6.892795370107278
+        }
+      },
+      "formatted_address": "4V6V+CM3, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1110226,6.89417",
+      "google_place_id": "ChIJQb1evYKRQxARWvZdTEes9rU"
+    }
+  },
+  {
+    "id": "15091",
+    "name": "DIMBOKO VILLAGE HALL I",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "04/10/12/029",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.114634,
+      "longitude": 6.8724421,
+      "viewport": {
+        "northeast": {
+          "lat": 6.116008679892722,
+          "lng": 6.873744229892721
+        },
+        "southwest": {
+          "lat": 6.113309020107278,
+          "lng": 6.871044570107277
+        }
+      },
+      "formatted_address": "4V7C+VX4, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.114634,6.8724421",
+      "google_place_id": "ChIJ0XamrS6RQxARoFKQhJ09KL4"
+    }
+  },
+  {
+    "id": "15092",
+    "name": "DIMBOKO VILLAGE HALL II",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "04/10/12/030",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.114634,
+      "longitude": 6.8724421,
+      "viewport": {
+        "northeast": {
+          "lat": 6.116008679892722,
+          "lng": 6.873744229892721
+        },
+        "southwest": {
+          "lat": 6.113309020107278,
+          "lng": 6.871044570107277
+        }
+      },
+      "formatted_address": "4V7C+VX4, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.114634,6.8724421",
+      "google_place_id": "ChIJ0XamrS6RQxARoFKQhJ09KL4"
+    }
+  },
+  {
+    "id": "15093",
+    "name": "AMAOJI VILLAGE HALL I",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "04/10/12/031",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1110226,
+      "longitude": 6.89417,
+      "viewport": {
+        "northeast": {
+          "lat": 6.112428179892722,
+          "lng": 6.895495029892722
+        },
+        "southwest": {
+          "lat": 6.109728520107279,
+          "lng": 6.892795370107278
+        }
+      },
+      "formatted_address": "4V6V+CM3, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1110226,6.89417",
+      "google_place_id": "ChIJQb1evYKRQxARWvZdTEes9rU"
+    }
+  },
+  {
+    "id": "15094",
+    "name": "AMAOJI VILLAGE HALL II",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "04/10/12/032",
+    "remark": "EXISTING PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1110226,
+      "longitude": 6.89417,
+      "viewport": {
+        "northeast": {
+          "lat": 6.112428179892722,
+          "lng": 6.895495029892722
+        },
+        "southwest": {
+          "lat": 6.109728520107279,
+          "lng": 6.892795370107278
+        }
+      },
+      "formatted_address": "4V6V+CM3, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1110226,6.89417",
+      "google_place_id": "ChIJQb1evYKRQxARWvZdTEes9rU"
+    }
+  },
+  {
+    "id": "15095",
+    "name": "SOCIAL AGRIC CENTRE HALL UMUOJI",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "04/10/12/033",
+    "remark": "NEW PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1039335,
+      "longitude": 6.886370500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.105328879892722,
+          "lng": 6.887741979892723
+        },
+        "southwest": {
+          "lat": 6.102629220107278,
+          "lng": 6.885042320107279
+        }
+      },
+      "formatted_address": "4V3P+HG5, Nnobi - Nkpor Rd, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1039335,6.886370500000001",
+      "google_place_id": "ChIJf_4r0i2XQxARUBdW4LTZcBs"
+    }
+  },
+  {
+    "id": "15096",
+    "name": "DIMECHEM PRI. SCH. II (AZU ALUZI)",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "04/10/12/034",
+    "remark": "NEW PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1552124,
+      "longitude": 6.8926539,
+      "viewport": {
+        "northeast": {
+          "lat": 6.156504529892723,
+          "lng": 6.893962529892722
+        },
+        "southwest": {
+          "lat": 6.153804870107279,
+          "lng": 6.891262870107278
+        }
+      },
+      "formatted_address": "5V4V+33J, 421108, Idemili North, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1552124,6.8926539",
+      "google_place_id": "ChIJechAaFmQQxARJlzQSHMZ1tk"
+    }
+  },
+  {
+    "id": "15097",
+    "name": "ST. PETER'S N/P SCH. UMUOMA",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "04/10/12/035",
+    "remark": "NEW PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.076297299999999,
+      "longitude": 6.8334519,
+      "viewport": {
+        "northeast": {
+          "lat": 6.077517679892722,
+          "lng": 6.834719079892722
+        },
+        "southwest": {
+          "lat": 6.074818020107278,
+          "lng": 6.832019420107278
+        }
+      },
+      "formatted_address": "Umu ogali, 434116, Oba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.076297299999999,6.8334519",
+      "google_place_id": "ChIJr4gPnOGVQxARe05YVhaoyzs"
+    }
+  },
+  {
+    "id": "15098",
+    "name": "OPEN SPACE AT ABIDI URUEGBE NDIAGU SQUARE",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "036",
+    "units": "036",
+    "delimitation": "04/10/12/036",
+    "remark": "NEW PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "15099",
+    "name": "ASSUMPTION N/P SCHOOL ACHALA AGU",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "037",
+    "units": "037",
+    "delimitation": "04/10/12/037",
+    "remark": "NEW PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1743769,
+      "longitude": 6.7926582,
+      "viewport": {
+        "northeast": {
+          "lat": 6.175846129892721,
+          "lng": 6.793926929892721
+        },
+        "southwest": {
+          "lat": 6.173146470107278,
+          "lng": 6.791227270107277
+        }
+      },
+      "formatted_address": "5QFV+Q33, Low Cost Housing Est 434108, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1743769,6.7926582",
+      "google_place_id": "ChIJHQusniuTQxARRcBIx15QPHo"
+    }
+  },
+  {
+    "id": "15100",
+    "name": "URUANEKE HALL URUANEKE",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "038",
+    "units": "038",
+    "delimitation": "04/10/12/038",
+    "remark": "NEW PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1110226,
+      "longitude": 6.89417,
+      "viewport": {
+        "northeast": {
+          "lat": 6.112428179892722,
+          "lng": 6.895495029892722
+        },
+        "southwest": {
+          "lat": 6.109728520107279,
+          "lng": 6.892795370107278
+        }
+      },
+      "formatted_address": "4V6V+CM3, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1110226,6.89417",
+      "google_place_id": "ChIJQb1evYKRQxARWvZdTEes9rU"
+    }
+  },
+  {
+    "id": "15101",
+    "name": "AMAORJI VILLAGE SQUARE (OPEN SPACE)",
+    "registration_area_id": "886",
+    "precise_location": null,
+    "abbreviation": "039",
+    "units": "039",
+    "delimitation": "04/10/12/039",
+    "remark": "NEW PU",
+    "ward_id": "886",
+    "ward_name": "UMUOJI",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1034228,
+      "longitude": 6.8833562,
+      "viewport": {
+        "northeast": {
+          "lat": 6.104698529892722,
+          "lng": 6.884787429892722
+        },
+        "southwest": {
+          "lat": 6.101998870107278,
+          "lng": 6.882087770107278
+        }
+      },
+      "formatted_address": "Umuoji Mr Ofonze Comp Ulo Uruegbe Village Square, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1034228,6.8833562",
+      "google_place_id": "ChIJ99fQSf6XQxARdnpujbRqRDU"
+    }
+  }
+]

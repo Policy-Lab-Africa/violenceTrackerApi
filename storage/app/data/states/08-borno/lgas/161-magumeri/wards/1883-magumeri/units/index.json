@@ -1,0 +1,532 @@
+[
+  {
+    "id": "34358",
+    "name": "AJARI",
+    "registration_area_id": "1883",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/20/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1883",
+    "ward_name": "MAGUMERI",
+    "local_government_id": "161",
+    "local_government_name": "MAGUMERI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1125372,
+      "longitude": 12.8295684,
+      "viewport": {
+        "northeast": {
+          "lat": 12.11393772989272,
+          "lng": 12.83099392989272
+        },
+        "southwest": {
+          "lat": 12.11123807010728,
+          "lng": 12.82829427010728
+        }
+      },
+      "formatted_address": "4R7H+2R8, 602104, Magumeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1125372,12.8295684",
+      "google_place_id": "ChIJpwQh9J-LBBER_bQeGzqIKFA"
+    }
+  },
+  {
+    "id": "34359",
+    "name": "KASUGULA",
+    "registration_area_id": "1883",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/20/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1883",
+    "ward_name": "MAGUMERI",
+    "local_government_id": "161",
+    "local_government_name": "MAGUMERI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "34360",
+    "name": "NGURMAI",
+    "registration_area_id": "1883",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/20/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1883",
+    "ward_name": "MAGUMERI",
+    "local_government_id": "161",
+    "local_government_name": "MAGUMERI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1363303,
+      "longitude": 12.7395491,
+      "viewport": {
+        "northeast": {
+          "lat": 12.13766287989272,
+          "lng": 12.74100727989272
+        },
+        "southwest": {
+          "lat": 12.13496322010728,
+          "lng": 12.73830762010728
+        }
+      },
+      "formatted_address": "602104, Ngurmai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1363303,12.7395491",
+      "google_place_id": "ChIJN4me2Z5gBBERlWefRWFi7Pk"
+    }
+  },
+  {
+    "id": "34361",
+    "name": "FANTAMIRI",
+    "registration_area_id": "1883",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/20/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1883",
+    "ward_name": "MAGUMERI",
+    "local_government_id": "161",
+    "local_government_name": "MAGUMERI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1125372,
+      "longitude": 12.8295684,
+      "viewport": {
+        "northeast": {
+          "lat": 12.11393772989272,
+          "lng": 12.83099392989272
+        },
+        "southwest": {
+          "lat": 12.11123807010728,
+          "lng": 12.82829427010728
+        }
+      },
+      "formatted_address": "4R7H+2R8, 602104, Magumeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1125372,12.8295684",
+      "google_place_id": "ChIJpwQh9J-LBBER_bQeGzqIKFA"
+    }
+  },
+  {
+    "id": "34362",
+    "name": "NGABURAWA",
+    "registration_area_id": "1883",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/20/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1883",
+    "ward_name": "MAGUMERI",
+    "local_government_id": "161",
+    "local_government_name": "MAGUMERI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.2319655,
+      "longitude": 12.7135121,
+      "viewport": {
+        "northeast": {
+          "lat": 12.5812633,
+          "lng": 13.1231799
+        },
+        "southwest": {
+          "lat": 11.8394882,
+          "lng": 12.2440348
+        }
+      },
+      "formatted_address": "Magumeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2319655,12.7135121",
+      "google_place_id": "ChIJN5C2DUJcBBERCt0y_gCO4HY"
+    }
+  },
+  {
+    "id": "34363",
+    "name": "MALARI  I",
+    "registration_area_id": "1883",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/20/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1883",
+    "ward_name": "MAGUMERI",
+    "local_government_id": "161",
+    "local_government_name": "MAGUMERI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.862636,
+      "longitude": 13.1733185,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86399412989272,
+          "lng": 13.17469487989272
+        },
+        "southwest": {
+          "lat": 11.86129447010728,
+          "lng": 13.17199522010728
+        }
+      },
+      "formatted_address": "V57F+383, Unnamed Road, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.862636,13.1733185",
+      "google_place_id": "ChIJmwq5k6qZBBERqqkEIJBL-zo"
+    }
+  },
+  {
+    "id": "34364",
+    "name": "MALARI  II",
+    "registration_area_id": "1883",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/20/11/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1883",
+    "ward_name": "MAGUMERI",
+    "local_government_id": "161",
+    "local_government_name": "MAGUMERI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.2319655,
+      "longitude": 12.7135121,
+      "viewport": {
+        "northeast": {
+          "lat": 12.5812633,
+          "lng": 13.1231799
+        },
+        "southwest": {
+          "lat": 11.8394882,
+          "lng": 12.2440348
+        }
+      },
+      "formatted_address": "Magumeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2319655,12.7135121",
+      "google_place_id": "ChIJN5C2DUJcBBERCt0y_gCO4HY"
+    }
+  },
+  {
+    "id": "34365",
+    "name": "DAUDURI",
+    "registration_area_id": "1883",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "08/20/11/008",
+    "remark": "NEW PU",
+    "ward_id": "1883",
+    "ward_name": "MAGUMERI",
+    "local_government_id": "161",
+    "local_government_name": "MAGUMERI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1125372,
+      "longitude": 12.8295684,
+      "viewport": {
+        "northeast": {
+          "lat": 12.11393772989272,
+          "lng": 12.83099392989272
+        },
+        "southwest": {
+          "lat": 12.11123807010728,
+          "lng": 12.82829427010728
+        }
+      },
+      "formatted_address": "4R7H+2R8, 602104, Magumeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1125372,12.8295684",
+      "google_place_id": "ChIJpwQh9J-LBBER_bQeGzqIKFA"
+    }
+  },
+  {
+    "id": "34366",
+    "name": "KAJERI",
+    "registration_area_id": "1883",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "08/20/11/009",
+    "remark": "NEW PU",
+    "ward_id": "1883",
+    "ward_name": "MAGUMERI",
+    "local_government_id": "161",
+    "local_government_name": "MAGUMERI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.2319655,
+      "longitude": 12.7135121,
+      "viewport": {
+        "northeast": {
+          "lat": 12.5812633,
+          "lng": 13.1231799
+        },
+        "southwest": {
+          "lat": 11.8394882,
+          "lng": 12.2440348
+        }
+      },
+      "formatted_address": "Magumeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2319655,12.7135121",
+      "google_place_id": "ChIJN5C2DUJcBBERCt0y_gCO4HY"
+    }
+  },
+  {
+    "id": "34367",
+    "name": "REB",
+    "registration_area_id": "1883",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "08/20/11/010",
+    "remark": "NEW PU",
+    "ward_id": "1883",
+    "ward_name": "MAGUMERI",
+    "local_government_id": "161",
+    "local_government_name": "MAGUMERI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1151306,
+      "longitude": 12.8256127,
+      "viewport": {
+        "northeast": {
+          "lat": 12.11638822989272,
+          "lng": 12.82699227989272
+        },
+        "southwest": {
+          "lat": 12.11368857010728,
+          "lng": 12.82429262010728
+        }
+      },
+      "formatted_address": "4R8G+365, 602104, Magumeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1151306,12.8256127",
+      "google_place_id": "ChIJ2aXPdDCLBBERC20v3L8nDjM"
+    }
+  },
+  {
+    "id": "34368",
+    "name": "FORESTRY",
+    "registration_area_id": "1883",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "08/20/11/011",
+    "remark": "NEW PU",
+    "ward_id": "1883",
+    "ward_name": "MAGUMERI",
+    "local_government_id": "161",
+    "local_government_name": "MAGUMERI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1151306,
+      "longitude": 12.8256127,
+      "viewport": {
+        "northeast": {
+          "lat": 12.11638822989272,
+          "lng": 12.82699227989272
+        },
+        "southwest": {
+          "lat": 12.11368857010728,
+          "lng": 12.82429262010728
+        }
+      },
+      "formatted_address": "4R8G+365, 602104, Magumeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1151306,12.8256127",
+      "google_place_id": "ChIJ2aXPdDCLBBERC20v3L8nDjM"
+    }
+  },
+  {
+    "id": "34369",
+    "name": "LA'ALILI",
+    "registration_area_id": "1883",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "08/20/11/012",
+    "remark": "NEW PU",
+    "ward_id": "1883",
+    "ward_name": "MAGUMERI",
+    "local_government_id": "161",
+    "local_government_name": "MAGUMERI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "34370",
+    "name": "FULONGO",
+    "registration_area_id": "1883",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "08/20/11/013",
+    "remark": "NEW PU",
+    "ward_id": "1883",
+    "ward_name": "MAGUMERI",
+    "local_government_id": "161",
+    "local_government_name": "MAGUMERI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "34371",
+    "name": "LEA",
+    "registration_area_id": "1883",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "08/20/11/014",
+    "remark": "NEW PU",
+    "ward_id": "1883",
+    "ward_name": "MAGUMERI",
+    "local_government_id": "161",
+    "local_government_name": "MAGUMERI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.2319655,
+      "longitude": 12.7135121,
+      "viewport": {
+        "northeast": {
+          "lat": 12.5812633,
+          "lng": 13.1231799
+        },
+        "southwest": {
+          "lat": 11.8394882,
+          "lng": 12.2440348
+        }
+      },
+      "formatted_address": "Magumeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2319655,12.7135121",
+      "google_place_id": "ChIJN5C2DUJcBBERCt0y_gCO4HY"
+    }
+  },
+  {
+    "id": "34372",
+    "name": "MCH",
+    "registration_area_id": "1883",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "08/20/11/015",
+    "remark": "NEW PU",
+    "ward_id": "1883",
+    "ward_name": "MAGUMERI",
+    "local_government_id": "161",
+    "local_government_name": "MAGUMERI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1131,
+      "longitude": 12.8274,
+      "viewport": {
+        "northeast": {
+          "lat": 12.11451197989272,
+          "lng": 12.82872217989272
+        },
+        "southwest": {
+          "lat": 12.11181232010728,
+          "lng": 12.82602252010728
+        }
+      },
+      "formatted_address": "4R7G+6XR, 602104, Magumeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1131,12.8274",
+      "google_place_id": "ChIJPyyzOJWKBBERoitL70HhBHU"
+    }
+  },
+  {
+    "id": "34373",
+    "name": "ISLAMIYA PRI SCH",
+    "registration_area_id": "1883",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "08/20/11/016",
+    "remark": "NEW PU",
+    "ward_id": "1883",
+    "ward_name": "MAGUMERI",
+    "local_government_id": "161",
+    "local_government_name": "MAGUMERI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1125372,
+      "longitude": 12.8295684,
+      "viewport": {
+        "northeast": {
+          "lat": 12.11393772989272,
+          "lng": 12.83099392989272
+        },
+        "southwest": {
+          "lat": 12.11123807010728,
+          "lng": 12.82829427010728
+        }
+      },
+      "formatted_address": "4R7H+2R8, 602104, Magumeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1125372,12.8295684",
+      "google_place_id": "ChIJpwQh9J-LBBER_bQeGzqIKFA"
+    }
+  },
+  {
+    "id": "34374",
+    "name": "CHINGO YASKU",
+    "registration_area_id": "1883",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "08/20/11/017",
+    "remark": "NEW PU",
+    "ward_id": "1883",
+    "ward_name": "MAGUMERI",
+    "local_government_id": "161",
+    "local_government_name": "MAGUMERI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "34375",
+    "name": "LAWANTI",
+    "registration_area_id": "1883",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "08/20/11/018",
+    "remark": "NEW PU",
+    "ward_id": "1883",
+    "ward_name": "MAGUMERI",
+    "local_government_id": "161",
+    "local_government_name": "MAGUMERI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1067431,
+      "longitude": 12.8206436,
+      "viewport": {
+        "northeast": {
+          "lat": 12.10797017989272,
+          "lng": 12.82385150000001
+        },
+        "southwest": {
+          "lat": 12.10527052010728,
+          "lng": 12.8195743
+        }
+      },
+      "formatted_address": "4R4C+M7R, 602104, Magumeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1067431,12.8206436",
+      "google_place_id": "ChIJxb8TMgOLBBER6_I3E7wWMfg"
+    }
+  }
+]

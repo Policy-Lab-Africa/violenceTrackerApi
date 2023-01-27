@@ -1,0 +1,1571 @@
+[
+  {
+    "id": "107620",
+    "name": "AGBAJA AREA , AGBAJA LGEA SCH.",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "22/12/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "107621",
+    "name": "ADOGBE AREA, ADOGBE LGEA SCH.",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "22/12/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8171739,
+      "longitude": 6.6953419,
+      "viewport": {
+        "northeast": {
+          "lat": 7.818423629892723,
+          "lng": 6.696571379892722
+        },
+        "southwest": {
+          "lat": 7.815723970107279,
+          "lng": 6.693871720107278
+        }
+      },
+      "formatted_address": "Confluence Stadium, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8171739,6.6953419",
+      "google_place_id": "ChIJ____g4ReTxARyg27aVRDh2U"
+    }
+  },
+  {
+    "id": "107622",
+    "name": "IBARU AREA, OPEN SPACE, IBARU",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "22/12/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "107623",
+    "name": "FELELE AREA, FELELE LGEA SCH.",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "22/12/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8465751,
+      "longitude": 6.719187400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.847914129892722,
+          "lng": 6.720542679892723
+        },
+        "southwest": {
+          "lat": 7.845214470107278,
+          "lng": 6.717843020107279
+        }
+      },
+      "formatted_address": "redeemed Church, Oworo estate after, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8465751,6.719187400000001",
+      "google_place_id": "ChIJ7139n-VdTxAR33SGoSv9nmA"
+    }
+  },
+  {
+    "id": "107624",
+    "name": "JAKURA AREA, JAKURA LGEA SCH.",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "22/12/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Ajara Road, Marine 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJKy28nGVfTxAR7wgvkiTvscA"
+    }
+  },
+  {
+    "id": "107625",
+    "name": "TAJIMI/EMU/OGBAGBON AREA, OPEN SPACE, TAJIMI",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "22/12/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "107626",
+    "name": "JAMATA AREA, OPEN SPACE, JAMATA",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "22/12/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "107627",
+    "name": "OHONO/IJIHO AREA, IJIHO LGEA SCH",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "22/12/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.803183700000001,
+      "longitude": 6.737380099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.804479779892723,
+          "lng": 6.738788429892722
+        },
+        "southwest": {
+          "lat": 7.80178012010728,
+          "lng": 6.736088770107278
+        }
+      },
+      "formatted_address": "RP3P+7XC, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.803183700000001,6.737380099999999",
+      "google_place_id": "ChIJJQ2nthBeTxARPkRxxy3efUk"
+    }
+  },
+  {
+    "id": "107628",
+    "name": "OWARA AREA, OWARA LGEA SCH",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "22/12/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.777292099999999,
+      "longitude": 6.7271334,
+      "viewport": {
+        "northeast": {
+          "lat": 7.778728579892721,
+          "lng": 6.728545679892721
+        },
+        "southwest": {
+          "lat": 7.776028920107277,
+          "lng": 6.725846020107277
+        }
+      },
+      "formatted_address": "Quaters, Opposite Former Dekina Local Government Chairman's House, Old Poly, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.777292099999999,6.7271334",
+      "google_place_id": "ChIJCZVLPbBfTxARx8Z3Lj9qxkc"
+    }
+  },
+  {
+    "id": "107629",
+    "name": "IGBONLA AREA, IGBONLA OPEN SPACE",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "22/12/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "107630",
+    "name": "OYO AREA, OPEN SPACE, OYO",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "22/12/08/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8182705,
+      "longitude": 6.749214599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.819620379892722,
+          "lng": 6.750563329892721
+        },
+        "southwest": {
+          "lat": 7.816920720107278,
+          "lng": 6.747863670107277
+        }
+      },
+      "formatted_address": "RP9X+8M4, Alama, Along Kogi State House Of Assembly, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8182705,6.749214599999999",
+      "google_place_id": "ChIJw3GBAABeTxARcwNLl9bF5HU"
+    }
+  },
+  {
+    "id": "107631",
+    "name": "BANDA/KUNGBANI AREA, BANDA LGEA SCH",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "22/12/08/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8111992,
+      "longitude": 6.7018648,
+      "viewport": {
+        "northeast": {
+          "lat": 7.812449679892721,
+          "lng": 6.703150779892722
+        },
+        "southwest": {
+          "lat": 7.809750020107277,
+          "lng": 6.700451120107278
+        }
+      },
+      "formatted_address": "RP62+GQ2, 260101, Otokiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8111992,6.7018648",
+      "google_place_id": "ChIJa-cBhoZeTxARMGxmkzwLXl8"
+    }
+  },
+  {
+    "id": "107632",
+    "name": "OTUBE AREA, OTUBE LGEA SCH.",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "22/12/08/013",
+    "remark": "EXISTING PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.845434499999999,
+      "longitude": 6.7487745,
+      "viewport": {
+        "northeast": {
+          "lat": 7.846787479892722,
+          "lng": 6.750067479892722
+        },
+        "southwest": {
+          "lat": 7.844087820107278,
+          "lng": 6.747367820107278
+        }
+      },
+      "formatted_address": "RPWX+5GC, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.845434499999999,6.7487745",
+      "google_place_id": "ChIJ1cLw-IldTxARKpxoidxdtBU"
+    }
+  },
+  {
+    "id": "107633",
+    "name": "AKPATA AREA, AKPATA LGEA SCH.",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "22/12/08/014",
+    "remark": "EXISTING PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.841942700000001,
+      "longitude": 6.7400033,
+      "viewport": {
+        "northeast": {
+          "lat": 7.843173829892721,
+          "lng": 6.741424979892722
+        },
+        "southwest": {
+          "lat": 7.840474170107277,
+          "lng": 6.738725320107278
+        }
+      },
+      "formatted_address": "Kogi State Polytechnic, 260102, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.841942700000001,6.7400033",
+      "google_place_id": "ChIJm_rgN41dTxARRdVm2doxa8A"
+    }
+  },
+  {
+    "id": "107634",
+    "name": "OSHOKOSHOKO AREA, OSHOKOSHOKO LGEA SCH",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "22/12/08/015",
+    "remark": "EXISTING PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.803183700000001,
+      "longitude": 6.737380099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.804479779892723,
+          "lng": 6.738788429892722
+        },
+        "southwest": {
+          "lat": 7.80178012010728,
+          "lng": 6.736088770107278
+        }
+      },
+      "formatted_address": "RP3P+7XC, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.803183700000001,6.737380099999999",
+      "google_place_id": "ChIJJQ2nthBeTxARPkRxxy3efUk"
+    }
+  },
+  {
+    "id": "107635",
+    "name": "AKOJI AREA OPEN SPACE AKOJI",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "22/12/08/016",
+    "remark": "EXISTING PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "107636",
+    "name": "AGBODO AREA, OPEN SPACE AGBODO",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "22/12/08/017",
+    "remark": "EXISTING PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8516162,
+      "longitude": 6.7242849,
+      "viewport": {
+        "northeast": {
+          "lat": 7.852981279892724,
+          "lng": 6.725684529892722
+        },
+        "southwest": {
+          "lat": 7.85028162010728,
+          "lng": 6.722984870107278
+        }
+      },
+      "formatted_address": "VP2F+MPG, 260102, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8516162,6.7242849",
+      "google_place_id": "ChIJ3UI5N6NdTxARU3kBzFvdVd8"
+    }
+  },
+  {
+    "id": "107637",
+    "name": "GRADE I, AREA COURT, OPEN SPACE",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "22/12/08/018",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.838878299999999,
+      "longitude": 6.6708956,
+      "viewport": {
+        "northeast": {
+          "lat": 7.840265729892723,
+          "lng": 6.672301979892722
+        },
+        "southwest": {
+          "lat": 7.837566070107279,
+          "lng": 6.669602320107278
+        }
+      },
+      "formatted_address": "RMQC+G8M, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.838878299999999,6.6708956",
+      "google_place_id": "ChIJ8daM8wxcTxAR_6SrmKivgj8"
+    }
+  },
+  {
+    "id": "107638",
+    "name": "NEW UBE SEC. SCHOOL",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "22/12/08/019",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.849485899999999,
+      "longitude": 6.727067,
+      "viewport": {
+        "northeast": {
+          "lat": 7.850861629892721,
+          "lng": 6.728388329892722
+        },
+        "southwest": {
+          "lat": 7.848161970107277,
+          "lng": 6.725688670107278
+        }
+      },
+      "formatted_address": "RPXG+QRW, beside olympic International Hotel, 260102, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.849485899999999,6.727067",
+      "google_place_id": "ChIJRa4t0z9dTxARJocYiH6_Vcs"
+    }
+  },
+  {
+    "id": "107639",
+    "name": "WISDOM KIDDIES PRY /SEC, SCHOOL FELELE",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "22/12/08/020",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.805424599999999,
+      "longitude": 6.748899,
+      "viewport": {
+        "northeast": {
+          "lat": 7.806760579892722,
+          "lng": 6.750333679892721
+        },
+        "southwest": {
+          "lat": 7.804060920107278,
+          "lng": 6.747634020107277
+        }
+      },
+      "formatted_address": "1, Faith Avenue, Off Marine Road, Marine/ Kpata, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.805424599999999,6.748899",
+      "google_place_id": "ChIJwdYuex1eTxARPHm0iJvWF44"
+    }
+  },
+  {
+    "id": "107640",
+    "name": "INFRONT OF MODEL PRY SCH. OWORO ESTATE, FELELE",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "22/12/08/021",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8465751,
+      "longitude": 6.719187400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.847914129892722,
+          "lng": 6.720542679892723
+        },
+        "southwest": {
+          "lat": 7.845214470107278,
+          "lng": 6.717843020107279
+        }
+      },
+      "formatted_address": "redeemed Church, Oworo estate after, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8465751,6.719187400000001",
+      "google_place_id": "ChIJ7139n-VdTxAR33SGoSv9nmA"
+    }
+  },
+  {
+    "id": "107641",
+    "name": "IDORI OPEN SPACE UNDER MANGO TREE",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "22/12/08/022",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "107642",
+    "name": "INSIDE ADP QUARTERS FELELE ROAD",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "22/12/08/023",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8516162,
+      "longitude": 6.7242849,
+      "viewport": {
+        "northeast": {
+          "lat": 7.852981279892724,
+          "lng": 6.725684529892722
+        },
+        "southwest": {
+          "lat": 7.85028162010728,
+          "lng": 6.722984870107278
+        }
+      },
+      "formatted_address": "VP2F+MPG, 260102, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8516162,6.7242849",
+      "google_place_id": "ChIJ3UI5N6NdTxARU3kBzFvdVd8"
+    }
+  },
+  {
+    "id": "107643",
+    "name": "UBE SEC. SCHOOL CRUSHER",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "22/12/08/024",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8171739,
+      "longitude": 6.6953419,
+      "viewport": {
+        "northeast": {
+          "lat": 7.818423629892723,
+          "lng": 6.696571379892722
+        },
+        "southwest": {
+          "lat": 7.815723970107279,
+          "lng": 6.693871720107278
+        }
+      },
+      "formatted_address": "Confluence Stadium, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8171739,6.6953419",
+      "google_place_id": "ChIJ____g4ReTxARyg27aVRDh2U"
+    }
+  },
+  {
+    "id": "107644",
+    "name": "GADA SHAGARI OBURUTU PRY, SCHOOL FELELE",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "22/12/08/025",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.850102499999999,
+      "longitude": 6.7278619,
+      "viewport": {
+        "northeast": {
+          "lat": 7.851527129892722,
+          "lng": 6.729246729892721
+        },
+        "southwest": {
+          "lat": 7.848827470107278,
+          "lng": 6.726547070107277
+        }
+      },
+      "formatted_address": "VP2H+24X, Isega Road, 260102, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.850102499999999,6.7278619",
+      "google_place_id": "ChIJJ8HbWL1dTxARh9Sc04_OgIo"
+    }
+  },
+  {
+    "id": "107645",
+    "name": "FEDERAL STAFF SCHOOL OBURUTU FELELE",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "22/12/08/026",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.867224500000001,
+      "longitude": 6.6843968,
+      "viewport": {
+        "northeast": {
+          "lat": 7.868574329892721,
+          "lng": 6.685746629892721
+        },
+        "southwest": {
+          "lat": 7.865874670107277,
+          "lng": 6.683046970107277
+        }
+      },
+      "formatted_address": "oworo street, 260102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.867224500000001,6.6843968",
+      "google_place_id": "ChIJkfY6WoNdTxARq56EAp3fzzk"
+    }
+  },
+  {
+    "id": "107646",
+    "name": "MAWOGI OPPOSITE ARUWA SEC. SCHOOL FELELE",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "22/12/08/027",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.846178500000001,
+      "longitude": 6.721982199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.847527029892722,
+          "lng": 6.723334779892721
+        },
+        "southwest": {
+          "lat": 7.844827370107278,
+          "lng": 6.720635120107278
+        }
+      },
+      "formatted_address": "RPWC+FQG, 260102, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.846178500000001,6.721982199999999",
+      "google_place_id": "ChIJmeFu17tdTxARHRL1UeR720o"
+    }
+  },
+  {
+    "id": "107647",
+    "name": "ILENOKE, OPEN SPACE, JAKURA",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "22/12/08/028",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "107648",
+    "name": "OGBABON OPEN SPAC E",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "22/12/08/029",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.780724299999999,
+      "longitude": 6.7360829,
+      "viewport": {
+        "northeast": {
+          "lat": 7.781914929892722,
+          "lng": 6.737360329892722
+        },
+        "southwest": {
+          "lat": 7.779215270107279,
+          "lng": 6.734660670107278
+        }
+      },
+      "formatted_address": "Ganaja Lokoja Road, Opposite First 200 Housing Unit, 270103, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.780724299999999,6.7360829",
+      "google_place_id": "ChIJx9LaqANeTxARQu_NIiQttUU"
+    }
+  },
+  {
+    "id": "107649",
+    "name": "LGEA SCHOOL AKPANYA",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "22/12/08/030",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.845434499999999,
+      "longitude": 6.7487745,
+      "viewport": {
+        "northeast": {
+          "lat": 7.846787479892722,
+          "lng": 6.750067479892722
+        },
+        "southwest": {
+          "lat": 7.844087820107278,
+          "lng": 6.747367820107278
+        }
+      },
+      "formatted_address": "RPWX+5GC, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.845434499999999,6.7487745",
+      "google_place_id": "ChIJ1cLw-IldTxARKpxoidxdtBU"
+    }
+  },
+  {
+    "id": "107650",
+    "name": "GBAUDE COMM,.NURS/PRIMARY SCHOOL",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "22/12/08/031",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.747940700000001,
+      "longitude": 6.7383549,
+      "viewport": {
+        "northeast": {
+          "lat": 7.749311079892723,
+          "lng": 6.73973157989272
+        },
+        "southwest": {
+          "lat": 7.746611420107279,
+          "lng": 6.737031920107277
+        }
+      },
+      "formatted_address": "PPXQ+588, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.747940700000001,6.7383549",
+      "google_place_id": "ChIJUddicGJfTxARyEEwt9iqlmk"
+    }
+  },
+  {
+    "id": "107651",
+    "name": "OHONO LGEA SCHOOL",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "22/12/08/032",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.845434499999999,
+      "longitude": 6.7487745,
+      "viewport": {
+        "northeast": {
+          "lat": 7.846787479892722,
+          "lng": 6.750067479892722
+        },
+        "southwest": {
+          "lat": 7.844087820107278,
+          "lng": 6.747367820107278
+        }
+      },
+      "formatted_address": "RPWX+5GC, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.845434499999999,6.7487745",
+      "google_place_id": "ChIJ1cLw-IldTxARKpxoidxdtBU"
+    }
+  },
+  {
+    "id": "107652",
+    "name": "OMUWA, OPEN SPACE, OMUWA",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "22/12/08/033",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8516162,
+      "longitude": 6.7242849,
+      "viewport": {
+        "northeast": {
+          "lat": 7.852981279892724,
+          "lng": 6.725684529892722
+        },
+        "southwest": {
+          "lat": 7.85028162010728,
+          "lng": 6.722984870107278
+        }
+      },
+      "formatted_address": "VP2F+MPG, 260102, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8516162,6.7242849",
+      "google_place_id": "ChIJ3UI5N6NdTxARU3kBzFvdVd8"
+    }
+  },
+  {
+    "id": "107653",
+    "name": "AKPAMOBA,  OPEN SPACE",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "22/12/08/034",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8182705,
+      "longitude": 6.749214599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.819620379892722,
+          "lng": 6.750563329892721
+        },
+        "southwest": {
+          "lat": 7.816920720107278,
+          "lng": 6.747863670107277
+        }
+      },
+      "formatted_address": "Behind Bishop'S Court Road, G.R.A, beside Dafeyo Hotel, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8182705,6.749214599999999",
+      "google_place_id": "ChIJoQMdn-lfTxARXLLjgzzFMxU"
+    }
+  },
+  {
+    "id": "107654",
+    "name": "BAKONBA OPEN SPACE",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "22/12/08/035",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8182705,
+      "longitude": 6.749214599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.819620379892722,
+          "lng": 6.750563329892721
+        },
+        "southwest": {
+          "lat": 7.816920720107278,
+          "lng": 6.747863670107277
+        }
+      },
+      "formatted_address": "Behind Bishop'S Court Road, G.R.A, beside Dafeyo Hotel, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8182705,6.749214599999999",
+      "google_place_id": "ChIJoQMdn-lfTxARXLLjgzzFMxU"
+    }
+  },
+  {
+    "id": "107655",
+    "name": "BILINGUAL  PRY/SEC. SCHOOLS",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "036",
+    "units": "036",
+    "delimitation": "22/12/08/036",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Tps 62, Block 21 Plot 1Crusher Road, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJgfaMBwxcTxARisn_sYluiCc"
+    }
+  },
+  {
+    "id": "107656",
+    "name": "OBAHUNWA, OPEN SPACE, OYO-IWA",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "037",
+    "units": "037",
+    "delimitation": "22/12/08/037",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8182705,
+      "longitude": 6.749214599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.819620379892722,
+          "lng": 6.750563329892721
+        },
+        "southwest": {
+          "lat": 7.816920720107278,
+          "lng": 6.747863670107277
+        }
+      },
+      "formatted_address": "RP9X+8M4, Ajara Road, behind Local Government, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8182705,6.749214599999999",
+      "google_place_id": "ChIJw3GBAABeTxAR5I24Qlm8bCg"
+    }
+  },
+  {
+    "id": "107657",
+    "name": "OKUMI  ALONG LOKOJA/ABUJA ROAD, OPEN SPACE",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "038",
+    "units": "038",
+    "delimitation": "22/12/08/038",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "107658",
+    "name": "KUNGBANI  LGEA SCHOOL",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "039",
+    "units": "039",
+    "delimitation": "22/12/08/039",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.845434499999999,
+      "longitude": 6.7487745,
+      "viewport": {
+        "northeast": {
+          "lat": 7.846787479892722,
+          "lng": 6.750067479892722
+        },
+        "southwest": {
+          "lat": 7.844087820107278,
+          "lng": 6.747367820107278
+        }
+      },
+      "formatted_address": "RPWX+5GC, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.845434499999999,6.7487745",
+      "google_place_id": "ChIJ1cLw-IldTxARKpxoidxdtBU"
+    }
+  },
+  {
+    "id": "107659",
+    "name": "EBUGABI OPEN SPACE",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "040",
+    "units": "040",
+    "delimitation": "22/12/08/040",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "107660",
+    "name": "OKWO BY LOKOJA/ABUJA ROAD, OPEN SPACE",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "041",
+    "units": "041",
+    "delimitation": "22/12/08/041",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8516162,
+      "longitude": 6.7242849,
+      "viewport": {
+        "northeast": {
+          "lat": 7.852981279892724,
+          "lng": 6.725684529892722
+        },
+        "southwest": {
+          "lat": 7.85028162010728,
+          "lng": 6.722984870107278
+        }
+      },
+      "formatted_address": "VP2F+MPG, 260102, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8516162,6.7242849",
+      "google_place_id": "ChIJ3UI5N6NdTxARU3kBzFvdVd8"
+    }
+  },
+  {
+    "id": "107661",
+    "name": "LGEA PRIMARY OYI-APATA - APATA",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "042",
+    "units": "042",
+    "delimitation": "22/12/08/042",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.845434499999999,
+      "longitude": 6.7487745,
+      "viewport": {
+        "northeast": {
+          "lat": 7.846787479892722,
+          "lng": 6.750067479892722
+        },
+        "southwest": {
+          "lat": 7.844087820107278,
+          "lng": 6.747367820107278
+        }
+      },
+      "formatted_address": "RPWX+5GC, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.845434499999999,6.7487745",
+      "google_place_id": "ChIJ1cLw-IldTxARKpxoidxdtBU"
+    }
+  },
+  {
+    "id": "107662",
+    "name": "UBE SCHOOL, AIYETEJU, APATA",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "043",
+    "units": "043",
+    "delimitation": "22/12/08/043",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.589276399999999,
+      "longitude": 6.2696147,
+      "viewport": {
+        "northeast": {
+          "lat": 7.590373479892722,
+          "lng": 6.271063479892722
+        },
+        "southwest": {
+          "lat": 7.587673820107279,
+          "lng": 6.268363820107278
+        }
+      },
+      "formatted_address": "H7Q9+PRH, Iresuegeze, Okene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.589276399999999,6.2696147",
+      "google_place_id": "ChIJH0KvqYgFRhARSIlONJXoVsA"
+    }
+  },
+  {
+    "id": "107663",
+    "name": "OLD PRIMARY SCHOOL, IJEMU - APATA",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "044",
+    "units": "044",
+    "delimitation": "22/12/08/044",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.845434499999999,
+      "longitude": 6.7487745,
+      "viewport": {
+        "northeast": {
+          "lat": 7.846787479892722,
+          "lng": 6.750067479892722
+        },
+        "southwest": {
+          "lat": 7.844087820107278,
+          "lng": 6.747367820107278
+        }
+      },
+      "formatted_address": "RPWX+5GC, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.845434499999999,6.7487745",
+      "google_place_id": "ChIJ1cLw-IldTxARKpxoidxdtBU"
+    }
+  },
+  {
+    "id": "107664",
+    "name": "OPEN SPACE AIYETEJU, OBAJANA",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "045",
+    "units": "045",
+    "delimitation": "22/12/08/045",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "107665",
+    "name": "UBE SCHOOL, OBAJANA",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "046",
+    "units": "046",
+    "delimitation": "22/12/08/046",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.9075486,
+      "longitude": 6.5783387,
+      "viewport": {
+        "northeast": {
+          "lat": 7.908898429892724,
+          "lng": 6.579688529892722
+        },
+        "southwest": {
+          "lat": 7.90619877010728,
+          "lng": 6.576988870107278
+        }
+      },
+      "formatted_address": "WH5H+288, 260102, Agbaja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9075486,6.5783387",
+      "google_place_id": "ChIJ7_gqb41bTxAR3C5tqnmrVCY"
+    }
+  },
+  {
+    "id": "107666",
+    "name": "COMMUNITY TOWN HALL, OBAJANA",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "047",
+    "units": "047",
+    "delimitation": "22/12/08/047",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.2058353,
+      "longitude": 6.0041628,
+      "viewport": {
+        "northeast": {
+          "lat": 7.207170179892721,
+          "lng": 6.005528479892722
+        },
+        "southwest": {
+          "lat": 7.204470520107277,
+          "lng": 6.002828820107278
+        }
+      },
+      "formatted_address": "6243+8JX, 313107, Otuo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2058353,6.0041628",
+      "google_place_id": "ChIJE-x4i79cRhARPfRf_b4Dmsk"
+    }
+  },
+  {
+    "id": "107667",
+    "name": "OBAJANA EAGLE SQUARE, OBAJANA",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "048",
+    "units": "048",
+    "delimitation": "22/12/08/048",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.916667,
+      "longitude": 6.433332999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.917977929892723,
+          "lng": 6.434640479892721
+        },
+        "southwest": {
+          "lat": 7.915278270107279,
+          "lng": 6.431940820107277
+        }
+      },
+      "formatted_address": "WC8J+FG4, 1 Ejire Street, Obajana, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.916667,6.433332999999999",
+      "google_place_id": "ChIJG6vdlWZNTxARHFamlAkPyX8"
+    }
+  },
+  {
+    "id": "107668",
+    "name": "MARKET SQUARE, OSHOKOSHOKO",
+    "registration_area_id": "5553",
+    "precise_location": null,
+    "abbreviation": "049",
+    "units": "049",
+    "delimitation": "22/12/08/049",
+    "remark": "NEW PU",
+    "ward_id": "5553",
+    "ward_name": "OWORO",
+    "local_government_id": "480",
+    "local_government_name": "LOKOJA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8413156,
+      "longitude": 6.7457335,
+      "viewport": {
+        "northeast": {
+          "lat": 7.84261102989272,
+          "lng": 6.747072479892721
+        },
+        "southwest": {
+          "lat": 7.839911370107276,
+          "lng": 6.744372820107277
+        }
+      },
+      "formatted_address": "260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8413156,6.7457335",
+      "google_place_id": "ChIJAQAAABReTxARpN5VU3bTC0I"
+    }
+  }
+]

@@ -1,0 +1,321 @@
+[
+  {
+    "id": "95868",
+    "name": "YADUNA YAMMA - KOFAR MAIGARI",
+    "registration_area_id": "4869",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/04/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4869",
+    "ward_name": "YANDUNA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95869",
+    "name": "YANDUNA AREWA - PRIMARY SCHOOL",
+    "registration_area_id": "4869",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/04/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4869",
+    "ward_name": "YANDUNA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.9482697,
+      "longitude": 8.985043899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.94957627989272,
+          "lng": 8.986403829892721
+        },
+        "southwest": {
+          "lat": 11.94687662010728,
+          "lng": 8.983704170107277
+        }
+      },
+      "formatted_address": "7F3CWXXP+72V Yanwawa Primary School, Dundun 713103, Gaida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9482697,8.985043899999999",
+      "google_place_id": "ChIJkSJfiU2nrhER7KOvmoVh_cg"
+    }
+  },
+  {
+    "id": "95870",
+    "name": "DINYAR DABO - CIKIN GARI",
+    "registration_area_id": "4869",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/04/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4869",
+    "ward_name": "YANDUNA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95871",
+    "name": "BUKUDU SABUWA - CIKIN GARI",
+    "registration_area_id": "4869",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/04/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4869",
+    "ward_name": "YANDUNA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95872",
+    "name": "BUKUDU TSOHUWA - KOFAR MAIGARI",
+    "registration_area_id": "4869",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/04/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4869",
+    "ward_name": "YANDUNA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95873",
+    "name": "KIRKA/ - PRIMARY SCHOOL",
+    "registration_area_id": "4869",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/04/09/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4869",
+    "ward_name": "YANDUNA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8105455,
+      "longitude": 8.7150562,
+      "viewport": {
+        "northeast": {
+          "lat": 12.81189772989272,
+          "lng": 8.716399579892721
+        },
+        "southwest": {
+          "lat": 12.80919807010728,
+          "lng": 8.713699920107278
+        }
+      },
+      "formatted_address": "RP68+62G, 824105, Baure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8105455,8.7150562",
+      "google_place_id": "ChIJ1zXLqloarxERyPfowTpdTsI"
+    }
+  },
+  {
+    "id": "95874",
+    "name": "GAMAJI GARI - CIKIN GARI",
+    "registration_area_id": "4869",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/04/09/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4869",
+    "ward_name": "YANDUNA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95875",
+    "name": "GAMAJI FULANI - PRIMARY SCHOOL",
+    "registration_area_id": "4869",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/04/09/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4869",
+    "ward_name": "YANDUNA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8105455,
+      "longitude": 8.7150562,
+      "viewport": {
+        "northeast": {
+          "lat": 12.81189772989272,
+          "lng": 8.716399579892721
+        },
+        "southwest": {
+          "lat": 12.80919807010728,
+          "lng": 8.713699920107278
+        }
+      },
+      "formatted_address": "RP68+62G, 824105, Baure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8105455,8.7150562",
+      "google_place_id": "ChIJ1zXLqloarxERyPfowTpdTsI"
+    }
+  },
+  {
+    "id": "95876",
+    "name": "BARANGAWA - KOFAR MAIGARI",
+    "registration_area_id": "4869",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/04/09/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4869",
+    "ward_name": "YANDUNA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95877",
+    "name": "DAWAYE DASHI CIKI GARI",
+    "registration_area_id": "4869",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/04/09/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4869",
+    "ward_name": "YANDUNA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.796493,
+      "longitude": 8.792183999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.79798417989272,
+          "lng": 8.793503079892721
+        },
+        "southwest": {
+          "lat": 12.79528452010728,
+          "lng": 8.790803420107277
+        }
+      },
+      "formatted_address": "Tida Road, Daje, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.796493,8.792183999999999",
+      "google_place_id": "ChIJ_dFZ6rQZrxERWc4cFlwpi8I"
+    }
+  },
+  {
+    "id": "95878",
+    "name": "ZANGWAYEL - KOFAR HARDO",
+    "registration_area_id": "4869",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/04/09/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4869",
+    "ward_name": "YANDUNA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95879",
+    "name": "YANDUNA YAMMA B",
+    "registration_area_id": "4869",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "20/04/09/012",
+    "remark": "NEW PU",
+    "ward_id": "4869",
+    "ward_name": "YANDUNA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95880",
+    "name": "YANDUNA AREWA B",
+    "registration_area_id": "4869",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "20/04/09/013",
+    "remark": "NEW PU",
+    "ward_id": "4869",
+    "ward_name": "YANDUNA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95881",
+    "name": "YANDUNA AREWA C",
+    "registration_area_id": "4869",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "20/04/09/014",
+    "remark": "NEW PU",
+    "ward_id": "4869",
+    "ward_name": "YANDUNA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "95882",
+    "name": "GAMAJI MASASSAKA",
+    "registration_area_id": "4869",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "20/04/09/015",
+    "remark": "NEW PU",
+    "ward_id": "4869",
+    "ward_name": "YANDUNA",
+    "local_government_id": "417",
+    "local_government_name": "BAURE",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  }
+]

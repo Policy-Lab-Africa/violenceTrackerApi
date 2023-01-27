@@ -1,0 +1,120 @@
+[
+  {
+    "id": "350588",
+    "name": "OYE SIGN & SPRAYING WORKS AREA",
+    "registration_area_id": "17885",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "29/18/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17885",
+    "ward_name": "ITISIN/OGUDU",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 43.6626351,
+      "longitude": -79.5928338,
+      "viewport": {
+        "northeast": {
+          "lat": 43.66399152989272,
+          "lng": -79.59142997010728
+        },
+        "southwest": {
+          "lat": 43.66129187010728,
+          "lng": -79.59412962989272
+        }
+      },
+      "formatted_address": "2800 Skymark Ave Suite 402, Mississauga, ON L4W 5A6, Canada",
+      "google_map_url": "https://maps.google.com?q=43.6626351,-79.5928338",
+      "google_place_id": "ChIJD25RarI5K4gR24_52D0AkCA"
+    }
+  },
+  {
+    "id": "350589",
+    "name": "FRONTAGE DAYO BATTERY SHOP",
+    "registration_area_id": "17885",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "29/18/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17885",
+    "ward_name": "ITISIN/OGUDU",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "350590",
+    "name": "OGUDU/IFOSAN JUNCTION",
+    "registration_area_id": "17885",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "29/18/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17885",
+    "ward_name": "ITISIN/OGUDU",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "350591",
+    "name": "MECHANIC WORKS OPP. METHODIST MISSION",
+    "registration_area_id": "17885",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "29/18/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17885",
+    "ward_name": "ITISIN/OGUDU",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "350592",
+    "name": "FRONTAGE ADEX MECHANIC SHOP",
+    "registration_area_id": "17885",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "29/18/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17885",
+    "ward_name": "ITISIN/OGUDU",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "350593",
+    "name": "LEMON COMPOUND",
+    "registration_area_id": "17885",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "29/18/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17885",
+    "ward_name": "ITISIN/OGUDU",
+    "local_government_id": "616",
+    "local_government_name": "ILESA EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  }
+]

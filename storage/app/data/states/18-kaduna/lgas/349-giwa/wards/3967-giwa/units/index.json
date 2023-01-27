@@ -1,0 +1,895 @@
+[
+  {
+    "id": "72229",
+    "name": "UNG. DAROFANGI I, II, III,& IV/ MODEL PRI. SCH. GIWA",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "18/03/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "72230",
+    "name": "UNG. LIMAN I, II & III/ FERTILIZER STORE (GIDAN TAKI)",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "18/03/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.8714452,
+      "longitude": 7.9532193,
+      "viewport": {
+        "northeast": {
+          "lat": 9.872805079892721,
+          "lng": 7.954569479892723
+        },
+        "southwest": {
+          "lat": 9.870105420107278,
+          "lng": 7.951869820107279
+        }
+      },
+      "formatted_address": "urban Kaduna, 6FX9VXC3+J7G Ung liman, Kachia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.8714452,7.9532193",
+      "google_place_id": "ChIJtXo8ta2HUhARmgpzvByLEwI"
+    }
+  },
+  {
+    "id": "72231",
+    "name": "UNG. TANIMU I, II/ NEPA GIWA",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "18/03/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.502592,
+      "longitude": 7.402505100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50388037989272,
+          "lng": 7.403865629892722
+        },
+        "southwest": {
+          "lat": 10.50118072010728,
+          "lng": 7.401165970107278
+        }
+      },
+      "formatted_address": "Unnamed Rd, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.502592,7.402505100000001",
+      "google_place_id": "ChIJDee9pVc1TRAR7IjyykG9mRc"
+    }
+  },
+  {
+    "id": "72232",
+    "name": "TSOHUWAR GIWA/ KOFAR GIDAN MAI UNG. NABABA",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "18/03/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.502592,
+      "longitude": 7.402505100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50388037989272,
+          "lng": 7.403865629892722
+        },
+        "southwest": {
+          "lat": 10.50118072010728,
+          "lng": 7.401165970107278
+        }
+      },
+      "formatted_address": "Unnamed Rd, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.502592,7.402505100000001",
+      "google_place_id": "ChIJDee9pVc1TRAR7IjyykG9mRc"
+    }
+  },
+  {
+    "id": "72233",
+    "name": "WARDANGA & UNG. HAUSAWA/ MASHIGIN KADA",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "18/03/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.5767637,
+      "longitude": 7.4655209,
+      "viewport": {
+        "northeast": {
+          "lat": 11.5792379,
+          "lng": 7.467360899999999
+        },
+        "southwest": {
+          "lat": 11.5750811,
+          "lng": 7.4638989
+        }
+      },
+      "formatted_address": "831101, Wardanga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5767637,7.4655209",
+      "google_place_id": "ChIJ01tvD-5qshERI7s0wD-iPag"
+    }
+  },
+  {
+    "id": "72234",
+    "name": "MASHINGIN KADA/ MASHINGIN KADA",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "18/03/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.502592,
+      "longitude": 7.402505100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50388037989272,
+          "lng": 7.403865629892722
+        },
+        "southwest": {
+          "lat": 10.50118072010728,
+          "lng": 7.401165970107278
+        }
+      },
+      "formatted_address": "Unnamed Rd, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.502592,7.402505100000001",
+      "google_place_id": "ChIJDee9pVc1TRAR7IjyykG9mRc"
+    }
+  },
+  {
+    "id": "72235",
+    "name": "DUNDUBUS I/ L.E.A DUNDUBUS",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "18/03/01/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.502592,
+      "longitude": 7.402505100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50388037989272,
+          "lng": 7.403865629892722
+        },
+        "southwest": {
+          "lat": 10.50118072010728,
+          "lng": 7.401165970107278
+        }
+      },
+      "formatted_address": "Unnamed Rd, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.502592,7.402505100000001",
+      "google_place_id": "ChIJDee9pVc1TRAR7IjyykG9mRc"
+    }
+  },
+  {
+    "id": "72236",
+    "name": "DUNDUBUS II & III/ L.E.A DUNDUBUS",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "18/03/01/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.8481592,
+      "longitude": 9.200774899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.853813,
+          "lng": 9.205212999999999
+        },
+        "southwest": {
+          "lat": 11.8388129,
+          "lng": 9.1882691
+        }
+      },
+      "formatted_address": "Dundubus, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8481592,9.200774899999999",
+      "google_place_id": "ChIJB9iT21z_qxERcStaIkBaQ0g"
+    }
+  },
+  {
+    "id": "72237",
+    "name": "UNG. DANFANGI V & UNNG. M. IBRAHIM/ KOFAR MAI UNGUWAR MAL. IBRAHIM",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "18/03/01/009",
+    "remark": "NEW PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "72238",
+    "name": "TSANIN TSOHUWAR GIWA/ KOFAR MAI UNGUWA",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "18/03/01/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.502592,
+      "longitude": 7.402505100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50388037989272,
+          "lng": 7.403865629892722
+        },
+        "southwest": {
+          "lat": 10.50118072010728,
+          "lng": 7.401165970107278
+        }
+      },
+      "formatted_address": "Unnamed Rd, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.502592,7.402505100000001",
+      "google_place_id": "ChIJDee9pVc1TRAR7IjyykG9mRc"
+    }
+  },
+  {
+    "id": "72239",
+    "name": "HAYIN MAHAUTA/ KOFAR MAI UNGUWA",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "18/03/01/011",
+    "remark": "EXISTING PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.502592,
+      "longitude": 7.402505100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50388037989272,
+          "lng": 7.403865629892722
+        },
+        "southwest": {
+          "lat": 10.50118072010728,
+          "lng": 7.401165970107278
+        }
+      },
+      "formatted_address": "Unnamed Rd, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.502592,7.402505100000001",
+      "google_place_id": "ChIJDee9pVc1TRAR7IjyykG9mRc"
+    }
+  },
+  {
+    "id": "72240",
+    "name": "UNG. DANFANGI III & IV/ WARDANGA",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "18/03/01/012",
+    "remark": "EXISTING PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "72241",
+    "name": "UNG/DANFANGI/MALL. IBRAHIM/ KOFAR MAI UNGUWA",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "18/03/01/013",
+    "remark": "EXISTING PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "72242",
+    "name": "MODEL  PRIMARY SCHOOL GIWA",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "18/03/01/014",
+    "remark": "NEW PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2533147,
+      "longitude": 7.4643457,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25442902989272,
+          "lng": 7.46564682989272
+        },
+        "southwest": {
+          "lat": 11.25172937010728,
+          "lng": 7.462947170107276
+        }
+      },
+      "formatted_address": "7F397F37+8P9, 810105, Giwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2533147,7.4643457",
+      "google_place_id": "ChIJTXGbH-9hshERrxAaaBjaic8"
+    }
+  },
+  {
+    "id": "72243",
+    "name": "MODEL  PRIMARY SCHOOL GIWA",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "18/03/01/015",
+    "remark": "NEW PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2533147,
+      "longitude": 7.4643457,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25442902989272,
+          "lng": 7.46564682989272
+        },
+        "southwest": {
+          "lat": 11.25172937010728,
+          "lng": 7.462947170107276
+        }
+      },
+      "formatted_address": "7F397F37+8P9, 810105, Giwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2533147,7.4643457",
+      "google_place_id": "ChIJTXGbH-9hshERrxAaaBjaic8"
+    }
+  },
+  {
+    "id": "72244",
+    "name": "MODEL  PRIMARY SCHOOL GIWA",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "18/03/01/016",
+    "remark": "NEW PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2533147,
+      "longitude": 7.4643457,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25442902989272,
+          "lng": 7.46564682989272
+        },
+        "southwest": {
+          "lat": 11.25172937010728,
+          "lng": 7.462947170107276
+        }
+      },
+      "formatted_address": "7F397F37+8P9, 810105, Giwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2533147,7.4643457",
+      "google_place_id": "ChIJTXGbH-9hshERrxAaaBjaic8"
+    }
+  },
+  {
+    "id": "72245",
+    "name": "FERTILIZER STORE GIDAN TAKI",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "18/03/01/017",
+    "remark": "NEW PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2457605,
+      "longitude": 7.481464000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.24711032989272,
+          "lng": 7.482813829892724
+        },
+        "southwest": {
+          "lat": 11.24441067010728,
+          "lng": 7.480114170107281
+        }
+      },
+      "formatted_address": "OPP NAPRI, Zaria-Funtua Rd, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2457605,7.481464000000001",
+      "google_place_id": "ChIJcSWFGeaLshERQLyMbxFiATs"
+    }
+  },
+  {
+    "id": "72246",
+    "name": "FERTILIZER STORE II",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "18/03/01/018",
+    "remark": "NEW PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.0855364,
+      "longitude": 7.7199587,
+      "viewport": {
+        "northeast": {
+          "lat": 11.08689902989272,
+          "lng": 7.721273579892721
+        },
+        "southwest": {
+          "lat": 11.08419937010728,
+          "lng": 7.718573920107278
+        }
+      },
+      "formatted_address": "No 7 Shagon Madaci Gwar Gwaje Zaria Zaria Zaria, city, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0855364,7.7199587",
+      "google_place_id": "ChIJY4pWSAeDshERa2yLttiY6co"
+    }
+  },
+  {
+    "id": "72247",
+    "name": "GIWA SCHOOL OF INFORMATION",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "18/03/01/019",
+    "remark": "NEW PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2537911,
+      "longitude": 7.4667199,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25514127989272,
+          "lng": 7.468062579892721
+        },
+        "southwest": {
+          "lat": 11.25244162010728,
+          "lng": 7.465362920107277
+        }
+      },
+      "formatted_address": "NO. 2 Salmanu Galadima Street Giwa by Zaria -Funtua Road Giwa Giwa Local Government -KADUNA STATE GIWA LGA GIWA, 814255, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2537911,7.4667199",
+      "google_place_id": "ChIJ4YAyhPFhshER5CapvWeuk3Y"
+    }
+  },
+  {
+    "id": "72248",
+    "name": "TARBIYATUL ISLAMIC SCHOOL UNG TANIMU",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "18/03/01/020",
+    "remark": "NEW PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2500922,
+      "longitude": 7.459631399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25141467989272,
+          "lng": 7.461054379892722
+        },
+        "southwest": {
+          "lat": 11.24871502010728,
+          "lng": 7.458354720107278
+        }
+      },
+      "formatted_address": "7F397F25+2VJ, 810105, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2500922,7.459631399999999",
+      "google_place_id": "ChIJnddRji9hshERsD8ojU3_RZg"
+    }
+  },
+  {
+    "id": "72249",
+    "name": "FAUZIL AZIM ISLAMIC SCHOOL UNG TANIMU GIWA",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "18/03/01/021",
+    "remark": "NEW PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2801472,
+      "longitude": 7.417836199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.28153682989272,
+          "lng": 7.419228379892722
+        },
+        "southwest": {
+          "lat": 11.27883717010728,
+          "lng": 7.416528720107278
+        }
+      },
+      "formatted_address": "Giwa Local Government Secretariat Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2801472,7.417836199999999",
+      "google_place_id": "ChIJiU8iPcZfshER8_lUPVkpI-4"
+    }
+  },
+  {
+    "id": "72250",
+    "name": "FAUZIL AZIM ISLAMIC SCHOOL UNG TANIMU GIWA",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "18/03/01/022",
+    "remark": "NEW PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2801472,
+      "longitude": 7.417836199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.28153682989272,
+          "lng": 7.419228379892722
+        },
+        "southwest": {
+          "lat": 11.27883717010728,
+          "lng": 7.416528720107278
+        }
+      },
+      "formatted_address": "Giwa Local Government Secretariat Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2801472,7.417836199999999",
+      "google_place_id": "ChIJiU8iPcZfshER8_lUPVkpI-4"
+    }
+  },
+  {
+    "id": "72251",
+    "name": "COMMUNITY SCHOOL UNGUWAN RUMAWA DUNDUBUS",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "18/03/01/023",
+    "remark": "NEW PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.280147,
+      "longitude": 7.417836299999998,
+      "viewport": {
+        "northeast": {
+          "lat": 11.28153667989272,
+          "lng": 7.419228429892721
+        },
+        "southwest": {
+          "lat": 11.27883702010728,
+          "lng": 7.416528770107277
+        }
+      },
+      "formatted_address": "7CJ9+344, 810105, Giwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.280147,7.417836299999998",
+      "google_place_id": "ChIJK3VoZF5fshERt1c-_N-0Uuo"
+    }
+  },
+  {
+    "id": "72252",
+    "name": "GIWA CENTRAL MARKET UNGUWAN DANFANGI VI",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "18/03/01/024",
+    "remark": "NEW PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5198117,
+      "longitude": 7.426641299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52104202989272,
+          "lng": 7.428017279892721
+        },
+        "southwest": {
+          "lat": 10.51834237010728,
+          "lng": 7.425317620107277
+        }
+      },
+      "formatted_address": "Broadcasting Road, Abubakar Gumi Market, Sabon Gari, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5198117,7.426641299999999",
+      "google_place_id": "ChIJsTpeZaQ1TRARQ42DpN0nU2s"
+    }
+  },
+  {
+    "id": "72253",
+    "name": "LAYIN MARAYU UNGUWAR DANFANGI VII",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "18/03/01/025",
+    "remark": "NEW PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.280147,
+      "longitude": 7.417836299999998,
+      "viewport": {
+        "northeast": {
+          "lat": 11.28153667989272,
+          "lng": 7.419228429892721
+        },
+        "southwest": {
+          "lat": 11.27883702010728,
+          "lng": 7.416528770107277
+        }
+      },
+      "formatted_address": "No. 12 layin marayu giwa Giwa, Mando Rd, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.280147,7.417836299999998",
+      "google_place_id": "ChIJN0w-S-pfshERlpzzqvgT4Xw"
+    }
+  },
+  {
+    "id": "72254",
+    "name": "USMAN BIN AFFAN ZANURAIN ACADEMY",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "18/03/01/026",
+    "remark": "NEW PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5397833,
+      "longitude": 7.412977999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54115827989272,
+          "lng": 7.414335179892722
+        },
+        "southwest": {
+          "lat": 10.53845862010728,
+          "lng": 7.411635520107279
+        }
+      },
+      "formatted_address": "No, 7 Gwamna Road, By Nnamdi Azikiwe Rd, Kurmin Mashi, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5397833,7.412977999999999",
+      "google_place_id": "ChIJUT8ScZ_LshERV4QRYIcb3WA"
+    }
+  },
+  {
+    "id": "72255",
+    "name": "LEA PRIMARY SCHOOL HAYIN GADA",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "18/03/01/027",
+    "remark": "NEW PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1551761,
+      "longitude": 7.7515357,
+      "viewport": {
+        "northeast": {
+          "lat": 11.15637307989272,
+          "lng": 7.752824329892722
+        },
+        "southwest": {
+          "lat": 11.15367342010728,
+          "lng": 7.750124670107278
+        }
+      },
+      "formatted_address": "7F395Q42+3J8 Hayin Gada, 810107, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1551761,7.7515357",
+      "google_place_id": "ChIJP7Bs6beBshERP2eO0-g_FuE"
+    }
+  },
+  {
+    "id": "72256",
+    "name": "TV VIEWING CENTRE UNG DANFANGI",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "18/03/01/028",
+    "remark": "NEW PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5037591,
+      "longitude": 7.411044899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50509267989272,
+          "lng": 7.41240967989272
+        },
+        "southwest": {
+          "lat": 10.50239302010728,
+          "lng": 7.409710020107276
+        }
+      },
+      "formatted_address": "GC36+FCQ, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5037591,7.411044899999999",
+      "google_place_id": "ChIJk4JO5io1TRAR4jA8zVqdkUk"
+    }
+  },
+  {
+    "id": "72257",
+    "name": "TV VIEWING CENTRE I  UNG DANFANG",
+    "registration_area_id": "3967",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "18/03/01/029",
+    "remark": "NEW PU",
+    "ward_id": "3967",
+    "ward_name": "GIWA",
+    "local_government_id": "349",
+    "local_government_name": "GIWA",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5037591,
+      "longitude": 7.411044899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50509267989272,
+          "lng": 7.41240967989272
+        },
+        "southwest": {
+          "lat": 10.50239302010728,
+          "lng": 7.409710020107276
+        }
+      },
+      "formatted_address": "GC36+FCQ, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5037591,7.411044899999999",
+      "google_place_id": "ChIJk4JO5io1TRAR4jA8zVqdkUk"
+    }
+  }
+]

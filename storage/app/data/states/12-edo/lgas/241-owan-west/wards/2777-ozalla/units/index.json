@@ -1,0 +1,267 @@
+[
+  {
+    "id": "52279",
+    "name": "UNDER A TREE BY NO. 19 UHONMORA ROAD,  OZALLA",
+    "registration_area_id": "2777",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "12/17/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2777",
+    "ward_name": "OZALLA",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": null
+  },
+  {
+    "id": "52280",
+    "name": "UNDER A TREE BY NO. 19 UHONMORA ROAD,  OZALLA",
+    "registration_area_id": "2777",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "12/17/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2777",
+    "ward_name": "OZALLA",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": null
+  },
+  {
+    "id": "52281",
+    "name": "ORHUEN PRIMARY SCHOOL, OZALLA  I",
+    "registration_area_id": "2777",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "12/17/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2777",
+    "ward_name": "OZALLA",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.801613499999999,
+      "longitude": 6.0216468,
+      "viewport": {
+        "northeast": {
+          "lat": 6.802951979892722,
+          "lng": 6.022949279892722
+        },
+        "southwest": {
+          "lat": 6.800252320107278,
+          "lng": 6.020249620107278
+        }
+      },
+      "formatted_address": "Orhuen Primary School, 313111, Ozalla, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.801613499999999,6.0216468",
+      "google_place_id": "ChIJj7YpwH7sRhARFql6vL9jMTY"
+    }
+  },
+  {
+    "id": "52282",
+    "name": "ORHUEN PRIMARY SCHOOL, OZALLA   II",
+    "registration_area_id": "2777",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "12/17/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2777",
+    "ward_name": "OZALLA",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.7990733,
+      "longitude": 6.021605399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.8079801,
+          "lng": 6.028269
+        },
+        "southwest": {
+          "lat": 6.7902019,
+          "lng": 6.009658
+        }
+      },
+      "formatted_address": "313111, Ozalla, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7990733,6.021605399999999",
+      "google_place_id": "ChIJDxpRQ4frRhARSfFyzUEnwLs"
+    }
+  },
+  {
+    "id": "52283",
+    "name": "OZALLA PRIMARY SCHOOL OZALLA   III",
+    "registration_area_id": "2777",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "12/17/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2777",
+    "ward_name": "OZALLA",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.7990733,
+      "longitude": 6.021605399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.8079801,
+          "lng": 6.028269
+        },
+        "southwest": {
+          "lat": 6.7902019,
+          "lng": 6.009658
+        }
+      },
+      "formatted_address": "313111, Ozalla, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7990733,6.021605399999999",
+      "google_place_id": "ChIJDxpRQ4frRhARSfFyzUEnwLs"
+    }
+  },
+  {
+    "id": "52284",
+    "name": "OZALLA PRIMARY SCHOOL OZALLA  IV",
+    "registration_area_id": "2777",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "12/17/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2777",
+    "ward_name": "OZALLA",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.8033003,
+      "longitude": 6.0205112,
+      "viewport": {
+        "northeast": {
+          "lat": 6.804748579892722,
+          "lng": 6.021963829892721
+        },
+        "southwest": {
+          "lat": 6.802048920107278,
+          "lng": 6.019264170107277
+        }
+      },
+      "formatted_address": "Ozalla, Benin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8033003,6.0205112",
+      "google_place_id": "ChIJCwGumELtRhARsqujayQgAlI"
+    }
+  },
+  {
+    "id": "52285",
+    "name": "C. R. I. N PRIMARY SCHOOL,  OZALLA",
+    "registration_area_id": "2777",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "12/17/01/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2777",
+    "ward_name": "OZALLA",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.8571868,
+      "longitude": 5.9574169,
+      "viewport": {
+        "northeast": {
+          "lat": 6.858814779892722,
+          "lng": 5.95953025
+        },
+        "southwest": {
+          "lat": 6.856115120107278,
+          "lng": 5.95661565
+        }
+      },
+      "formatted_address": "VX44+VW5, Uhonmora Owan West LGA, Uhonmora-Ora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8571868,5.9574169",
+      "google_place_id": "ChIJE-l3_UPuRhARX_RMdzs_moA"
+    }
+  },
+  {
+    "id": "52286",
+    "name": "EKWERAN CAMP,  OZALLA",
+    "registration_area_id": "2777",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "12/17/01/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2777",
+    "ward_name": "OZALLA",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.8033003,
+      "longitude": 6.0205112,
+      "viewport": {
+        "northeast": {
+          "lat": 6.804748579892722,
+          "lng": 6.021963829892721
+        },
+        "southwest": {
+          "lat": 6.802048920107278,
+          "lng": 6.019264170107277
+        }
+      },
+      "formatted_address": "Ozalla, Benin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8033003,6.0205112",
+      "google_place_id": "ChIJCwGumELtRhARsqujayQgAlI"
+    }
+  },
+  {
+    "id": "52287",
+    "name": "UKATO CAMP,  OZALLA",
+    "registration_area_id": "2777",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "12/17/01/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2777",
+    "ward_name": "OZALLA",
+    "local_government_id": "241",
+    "local_government_name": "OWAN WEST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.7990733,
+      "longitude": 6.021605399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.8079801,
+          "lng": 6.028269
+        },
+        "southwest": {
+          "lat": 6.7902019,
+          "lng": 6.009658
+        }
+      },
+      "formatted_address": "313111, Ozalla, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7990733,6.021605399999999",
+      "google_place_id": "ChIJDxpRQ4frRhARSfFyzUEnwLs"
+    }
+  }
+]

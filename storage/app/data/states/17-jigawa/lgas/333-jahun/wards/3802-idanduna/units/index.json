@@ -1,0 +1,417 @@
+[
+  {
+    "id": "69264",
+    "name": "IDANDUNA C./GARI  IDANDUNA C./GARI",
+    "registration_area_id": "3802",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "17/14/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3802",
+    "ward_name": "IDANDUNA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "69265",
+    "name": "IDANDUNA SADIKAWA",
+    "registration_area_id": "3802",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "17/14/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3802",
+    "ward_name": "IDANDUNA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0185386,
+      "longitude": 9.656409199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0641418,
+          "lng": 9.723539299999999
+        },
+        "southwest": {
+          "lat": 11.9663806,
+          "lng": 9.5817721
+        }
+      },
+      "formatted_address": "Idanduna, 720103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0185386,9.656409199999999",
+      "google_place_id": "ChIJs1U8TxRkqRERkqtsMnod2eg"
+    }
+  },
+  {
+    "id": "69266",
+    "name": "IDANDUNA DINZAI",
+    "registration_area_id": "3802",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "17/14/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3802",
+    "ward_name": "IDANDUNA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0185386,
+      "longitude": 9.656409199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0641418,
+          "lng": 9.723539299999999
+        },
+        "southwest": {
+          "lat": 11.9663806,
+          "lng": 9.5817721
+        }
+      },
+      "formatted_address": "Idanduna, 720103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0185386,9.656409199999999",
+      "google_place_id": "ChIJs1U8TxRkqRERkqtsMnod2eg"
+    }
+  },
+  {
+    "id": "69267",
+    "name": "RINDE C/GARI/RINDE C/GARI I",
+    "registration_area_id": "3802",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "17/14/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3802",
+    "ward_name": "IDANDUNA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "69268",
+    "name": "RINDE C./GARI  RINDE C/GARI II",
+    "registration_area_id": "3802",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "17/14/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3802",
+    "ward_name": "IDANDUNA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "69269",
+    "name": "LIKINDI",
+    "registration_area_id": "3802",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "17/14/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3802",
+    "ward_name": "IDANDUNA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.097487,
+      "longitude": 9.6277819,
+      "viewport": {
+        "northeast": {
+          "lat": 12.09883137989272,
+          "lng": 9.629316499999998
+        },
+        "southwest": {
+          "lat": 12.09613172010728,
+          "lng": 9.623177700000001
+        }
+      },
+      "formatted_address": "3JWH+X4V, 720103, Jahun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.097487,9.6277819",
+      "google_place_id": "ChIJ9ygzEq5oqRERm0aSfR4U1lo"
+    }
+  },
+  {
+    "id": "69270",
+    "name": "TSALLIYA",
+    "registration_area_id": "3802",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "17/14/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3802",
+    "ward_name": "IDANDUNA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.097487,
+      "longitude": 9.6277819,
+      "viewport": {
+        "northeast": {
+          "lat": 12.09883137989272,
+          "lng": 9.629316499999998
+        },
+        "southwest": {
+          "lat": 12.09613172010728,
+          "lng": 9.623177700000001
+        }
+      },
+      "formatted_address": "3JWH+X4V, 720103, Jahun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.097487,9.6277819",
+      "google_place_id": "ChIJ9ygzEq5oqRERm0aSfR4U1lo"
+    }
+  },
+  {
+    "id": "69271",
+    "name": "ACHAU C/GARI I",
+    "registration_area_id": "3802",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "17/14/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3802",
+    "ward_name": "IDANDUNA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "69272",
+    "name": "ACHAU BARNOJI",
+    "registration_area_id": "3802",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "17/14/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3802",
+    "ward_name": "IDANDUNA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.097487,
+      "longitude": 9.6277819,
+      "viewport": {
+        "northeast": {
+          "lat": 12.09883137989272,
+          "lng": 9.629316499999998
+        },
+        "southwest": {
+          "lat": 12.09613172010728,
+          "lng": 9.623177700000001
+        }
+      },
+      "formatted_address": "3JWH+X4V, 720103, Jahun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.097487,9.6277819",
+      "google_place_id": "ChIJ9ygzEq5oqRERm0aSfR4U1lo"
+    }
+  },
+  {
+    "id": "69273",
+    "name": "ACHAU C/GARI II",
+    "registration_area_id": "3802",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "17/14/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3802",
+    "ward_name": "IDANDUNA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "69274",
+    "name": "GWAMPAI C./GARI   GWAMPAI C./GARI",
+    "registration_area_id": "3802",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "17/14/07/011",
+    "remark": "EXISTING PU",
+    "ward_id": "3802",
+    "ward_name": "IDANDUNA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0786213,
+      "longitude": 9.622987799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.07990147989272,
+          "lng": 9.624349529892722
+        },
+        "southwest": {
+          "lat": 12.07720182010728,
+          "lng": 9.621649870107278
+        }
+      },
+      "formatted_address": "3JHF+C5X, 720103, Jahun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0786213,9.622987799999999",
+      "google_place_id": "ChIJpclVYElnqRERZGhZqaQkWxM"
+    }
+  },
+  {
+    "id": "69275",
+    "name": "ABIRAKYAU",
+    "registration_area_id": "3802",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "17/14/07/012",
+    "remark": "EXISTING PU",
+    "ward_id": "3802",
+    "ward_name": "IDANDUNA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.097487,
+      "longitude": 9.6277819,
+      "viewport": {
+        "northeast": {
+          "lat": 12.09883137989272,
+          "lng": 9.629316499999998
+        },
+        "southwest": {
+          "lat": 12.09613172010728,
+          "lng": 9.623177700000001
+        }
+      },
+      "formatted_address": "3JWH+X4V, 720103, Jahun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.097487,9.6277819",
+      "google_place_id": "ChIJ9ygzEq5oqRERm0aSfR4U1lo"
+    }
+  },
+  {
+    "id": "69276",
+    "name": "GALADIMA JIBO",
+    "registration_area_id": "3802",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "17/14/07/013",
+    "remark": "EXISTING PU",
+    "ward_id": "3802",
+    "ward_name": "IDANDUNA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4089313,
+      "longitude": 8.798382499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4104801,
+          "lng": 8.8001211
+        },
+        "southwest": {
+          "lat": 12.4068691,
+          "lng": 8.7966021
+        }
+      },
+      "formatted_address": "732104, Gidan Dawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4089313,8.798382499999999",
+      "google_place_id": "ChIJcy2fsJjprhER08muk7BI2PA"
+    }
+  },
+  {
+    "id": "69277",
+    "name": "JSS IDANDUNA",
+    "registration_area_id": "3802",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "17/14/07/014",
+    "remark": "NEW PU",
+    "ward_id": "3802",
+    "ward_name": "IDANDUNA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.097487,
+      "longitude": 9.6277819,
+      "viewport": {
+        "northeast": {
+          "lat": 12.09883137989272,
+          "lng": 9.629316499999998
+        },
+        "southwest": {
+          "lat": 12.09613172010728,
+          "lng": 9.623177700000001
+        }
+      },
+      "formatted_address": "3JWH+X4V, 720103, Jahun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.097487,9.6277819",
+      "google_place_id": "ChIJ9ygzEq5oqRERm0aSfR4U1lo"
+    }
+  },
+  {
+    "id": "69278",
+    "name": "JSS GAMPAI",
+    "registration_area_id": "3802",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "17/14/07/015",
+    "remark": "NEW PU",
+    "ward_id": "3802",
+    "ward_name": "IDANDUNA",
+    "local_government_id": "333",
+    "local_government_name": "JAHUN",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0786213,
+      "longitude": 9.622987799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.07990147989272,
+          "lng": 9.624349529892722
+        },
+        "southwest": {
+          "lat": 12.07720182010728,
+          "lng": 9.621649870107278
+        }
+      },
+      "formatted_address": "3JHF+C5X, 720103, Jahun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0786213,9.622987799999999",
+      "google_place_id": "ChIJpclVYElnqRERZGhZqaQkWxM"
+    }
+  }
+]

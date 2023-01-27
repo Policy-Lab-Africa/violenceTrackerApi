@@ -1,0 +1,418 @@
+[
+  {
+    "id": "68182",
+    "name": "JIRIMA PRI. SCH/JIRIMA",
+    "registration_area_id": "3725",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "17/07/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3725",
+    "ward_name": "JIRIMA",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.3279005,
+      "longitude": 8.8693609,
+      "viewport": {
+        "northeast": {
+          "lat": 12.394619,
+          "lng": 9.049213
+        },
+        "southwest": {
+          "lat": 12.3009879,
+          "lng": 8.8396232
+        }
+      },
+      "formatted_address": "Jirima, 733101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3279005,8.8693609",
+      "google_place_id": "ChIJM23aLd3GrhERoEguauv2XI0"
+    }
+  },
+  {
+    "id": "68183",
+    "name": "SABON GARI PRI. SCH - SABON GARI",
+    "registration_area_id": "3725",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "17/07/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3725",
+    "ward_name": "JIRIMA",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.1231453,
+      "longitude": 7.732164800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.1276918,
+          "lng": 7.7374971
+        },
+        "southwest": {
+          "lat": 11.1183015,
+          "lng": 7.7280879
+        }
+      },
+      "formatted_address": "Sabon Gari, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1231453,7.732164800000001",
+      "google_place_id": "ChIJU3xl6LCDshERAOxxz-ZO5rU"
+    }
+  },
+  {
+    "id": "68184",
+    "name": "TAFIN BOYI PRI. SCH.  - TAFIN BOYI",
+    "registration_area_id": "3725",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "17/07/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3725",
+    "ward_name": "JIRIMA",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4337889,
+      "longitude": 9.181599,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43541862989272,
+          "lng": 9.182961329892722
+        },
+        "southwest": {
+          "lat": 12.43271897010728,
+          "lng": 9.180261670107278
+        }
+      },
+      "formatted_address": "C5MJ+GJ9, 733101, Garki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4337889,9.181599",
+      "google_place_id": "ChIJq6qqqjHNrhERqAZOFug_l2w"
+    }
+  },
+  {
+    "id": "68185",
+    "name": "MAKAURATA PRI. SCH. - MAKAURATA",
+    "registration_area_id": "3725",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "17/07/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3725",
+    "ward_name": "JIRIMA",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7948337,
+      "longitude": 8.514973,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79619817989272,
+          "lng": 8.516340229892721
+        },
+        "southwest": {
+          "lat": 11.79349852010728,
+          "lng": 8.513640570107277
+        }
+      },
+      "formatted_address": "7F3CQGV7+WX2, Makaurata 711101, Dan Hassan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7948337,8.514973",
+      "google_place_id": "ChIJvWn6g3YtrBER8IkkFpBEQWE"
+    }
+  },
+  {
+    "id": "68186",
+    "name": "BARNAWA PRI. SCH. - BARNAWA",
+    "registration_area_id": "3725",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "17/07/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3725",
+    "ward_name": "JIRIMA",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4199997,
+      "longitude": 9.1686585,
+      "viewport": {
+        "northeast": {
+          "lat": 12.42126252989272,
+          "lng": 9.17001122989272
+        },
+        "southwest": {
+          "lat": 12.41856287010728,
+          "lng": 9.167311570107277
+        }
+      },
+      "formatted_address": "C599+XFV, kwanar, Garki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4199997,9.1686585",
+      "google_place_id": "ChIJB6nPbJvNrhERsZg082ePSB8"
+    }
+  },
+  {
+    "id": "68187",
+    "name": "DANKARGO PRI. SCH.  -  DANKARGO",
+    "registration_area_id": "3725",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "17/07/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3725",
+    "ward_name": "JIRIMA",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4199997,
+      "longitude": 9.1686585,
+      "viewport": {
+        "northeast": {
+          "lat": 12.42126252989272,
+          "lng": 9.17001122989272
+        },
+        "southwest": {
+          "lat": 12.41856287010728,
+          "lng": 9.167311570107277
+        }
+      },
+      "formatted_address": "C599+XFV, kwanar, Garki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4199997,9.1686585",
+      "google_place_id": "ChIJB6nPbJvNrhERsZg082ePSB8"
+    }
+  },
+  {
+    "id": "68188",
+    "name": "SUGUNGUN PRI. SCH - SUGUNGUN I",
+    "registration_area_id": "3725",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "17/07/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3725",
+    "ward_name": "JIRIMA",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.6688802,
+      "longitude": 11.0454842,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67030492989272,
+          "lng": 11.04732617989272
+        },
+        "southwest": {
+          "lat": 11.66760527010728,
+          "lng": 11.04462652010728
+        }
+      },
+      "formatted_address": "M29W+J53, 622101, Potiskum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6688802,11.0454842",
+      "google_place_id": "ChIJJYzs0yPGABER5OjqvQpYOa8"
+    }
+  },
+  {
+    "id": "68189",
+    "name": "SUGUNGUN PRI. SCH - SUGUNGUN II",
+    "registration_area_id": "3725",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "17/07/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3725",
+    "ward_name": "JIRIMA",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.6688802,
+      "longitude": 11.0454842,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67030492989272,
+          "lng": 11.04732617989272
+        },
+        "southwest": {
+          "lat": 11.66760527010728,
+          "lng": 11.04462652010728
+        }
+      },
+      "formatted_address": "M29W+J53, 622101, Potiskum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6688802,11.0454842",
+      "google_place_id": "ChIJJYzs0yPGABER5OjqvQpYOa8"
+    }
+  },
+  {
+    "id": "68190",
+    "name": "KASHIN GANJI PRI. SCH - KASHIN GANJI",
+    "registration_area_id": "3725",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "17/07/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3725",
+    "ward_name": "JIRIMA",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68191",
+    "name": "POLLING SHEAD  -  UNGUWAR GAYYA",
+    "registration_area_id": "3725",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "17/07/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3725",
+    "ward_name": "JIRIMA",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68192",
+    "name": "POLLING SHEAD  -  GARIN DIGAWA",
+    "registration_area_id": "3725",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "17/07/05/011",
+    "remark": "EXISTING PU",
+    "ward_id": "3725",
+    "ward_name": "JIRIMA",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68193",
+    "name": "POLLING SHEAD  -  BATA-KASHI",
+    "registration_area_id": "3725",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "17/07/05/012",
+    "remark": "EXISTING PU",
+    "ward_id": "3725",
+    "ward_name": "JIRIMA",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68194",
+    "name": "POLLING SHEAD  - GALMA",
+    "registration_area_id": "3725",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "17/07/05/013",
+    "remark": "EXISTING PU",
+    "ward_id": "3725",
+    "ward_name": "JIRIMA",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68195",
+    "name": "JSS SUGUNGUN",
+    "registration_area_id": "3725",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "17/07/05/014",
+    "remark": "NEW PU",
+    "ward_id": "3725",
+    "ward_name": "JIRIMA",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68196",
+    "name": "GSS SUGUNGUN",
+    "registration_area_id": "3725",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "17/07/05/015",
+    "remark": "NEW PU",
+    "ward_id": "3725",
+    "ward_name": "JIRIMA",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7024113,
+      "longitude": 9.3339187,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70377157989272,
+          "lng": 9.335269179892721
+        },
+        "southwest": {
+          "lat": 11.70107192010728,
+          "lng": 9.332569520107278
+        }
+      },
+      "formatted_address": "Ground Floor, State New Secretariat Complex, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7024113,9.3339187",
+      "google_place_id": "ChIJVVVVVUXwqxER1b0VhC2p9sY"
+    }
+  },
+  {
+    "id": "68197",
+    "name": "KASHIN GANJI PS",
+    "registration_area_id": "3725",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "17/07/05/016",
+    "remark": "NEW PU",
+    "ward_id": "3725",
+    "ward_name": "JIRIMA",
+    "local_government_id": "326",
+    "local_government_name": "GARKI",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  }
+]

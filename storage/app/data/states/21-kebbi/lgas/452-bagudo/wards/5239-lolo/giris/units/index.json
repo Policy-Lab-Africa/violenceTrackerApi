@@ -1,0 +1,750 @@
+[
+  {
+    "id": "102569",
+    "name": "LOLO SHIYAR FADA",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "21/05/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102570",
+    "name": "TUNGAR MAIGODA",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "21/05/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102571",
+    "name": "KYANGAI KURAI",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "21/05/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.8411917,
+      "longitude": 3.7185311,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84351805,
+          "lng": 3.719950329892722
+        },
+        "southwest": {
+          "lat": 11.84041625,
+          "lng": 3.717250670107278
+        }
+      },
+      "formatted_address": "Km 2 Along Kamba - Kaingwa Road Kyangkwai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8411917,3.7185311",
+      "google_place_id": "ChIJX72FtL0JzBERKTkg7RO3NIM"
+    }
+  },
+  {
+    "id": "102572",
+    "name": "KYANGAI KURAI",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "21/05/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.8411917,
+      "longitude": 3.7185311,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84351805,
+          "lng": 3.719950329892722
+        },
+        "southwest": {
+          "lat": 11.84041625,
+          "lng": 3.717250670107278
+        }
+      },
+      "formatted_address": "Km 2 Along Kamba - Kaingwa Road Kyangkwai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8411917,3.7185311",
+      "google_place_id": "ChIJX72FtL0JzBERKTkg7RO3NIM"
+    }
+  },
+  {
+    "id": "102573",
+    "name": "NASSARAWA",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "21/05/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.649086,
+      "longitude": 3.609742,
+      "viewport": {
+        "northeast": {
+          "lat": 11.65022402989272,
+          "lng": 3.611129629892722
+        },
+        "southwest": {
+          "lat": 11.64752437010728,
+          "lng": 3.608429970107278
+        }
+      },
+      "formatted_address": "JJX5+JVQ, 871103, Lollo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.649086,3.609742",
+      "google_place_id": "ChIJd3RtOvByzBERS_hbKH3BbhU"
+    }
+  },
+  {
+    "id": "102574",
+    "name": "TUNGAR CHAMA",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "21/05/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102575",
+    "name": "TUNGAR KUNJI",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "21/05/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4432567,
+      "longitude": 4.1744145,
+      "viewport": {
+        "northeast": {
+          "lat": 12.44454202989272,
+          "lng": 4.175786829892722
+        },
+        "southwest": {
+          "lat": 12.44184237010728,
+          "lng": 4.173087170107278
+        }
+      },
+      "formatted_address": "C5VF+8Q3, 860101, Badariya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4432567,4.1744145",
+      "google_place_id": "ChIJEwQTD3ETyRERRkmS__tsuqM"
+    }
+  },
+  {
+    "id": "102576",
+    "name": "NAFA",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "21/05/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.6569645,
+      "longitude": 3.5294422,
+      "viewport": {
+        "northeast": {
+          "lat": 11.6586061,
+          "lng": 3.5307546
+        },
+        "southwest": {
+          "lat": 11.6520825,
+          "lng": 3.5250661
+        }
+      },
+      "formatted_address": "Naffa, Benin",
+      "google_map_url": "https://maps.google.com?q=11.6569645,3.5294422",
+      "google_place_id": "ChIJXRzv6o1szBER3W6fQyG42aU"
+    }
+  },
+  {
+    "id": "102577",
+    "name": "TUNGAR KALGO",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "21/05/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102578",
+    "name": "KASATI",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "21/05/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.6252,
+      "longitude": 3.6375,
+      "viewport": {
+        "northeast": {
+          "lat": 11.62657302989272,
+          "lng": 3.638835729892722
+        },
+        "southwest": {
+          "lat": 11.62387337010728,
+          "lng": 3.636136070107278
+        }
+      },
+      "formatted_address": "JJGP+3XQ, 871103, Kasate, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6252,3.6375",
+      "google_place_id": "ChIJL21GmrxzzBERQertbvPVwNo"
+    }
+  },
+  {
+    "id": "102579",
+    "name": "TUNGAR SARKIN BIRKI",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "21/05/08/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102580",
+    "name": "TONDI",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "21/05/08/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.6126626,
+      "longitude": 3.5983558,
+      "viewport": {
+        "northeast": {
+          "lat": 11.616162,
+          "lng": 3.606018
+        },
+        "southwest": {
+          "lat": 11.603823,
+          "lng": 3.595473
+        }
+      },
+      "formatted_address": "871103, Tondi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6126626,3.5983558",
+      "google_place_id": "ChIJQbZjRRRyzBEReF3pxh_L4vM"
+    }
+  },
+  {
+    "id": "102581",
+    "name": "SARHU",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "21/05/08/013",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102582",
+    "name": "TUNGAR BAGE",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "21/05/08/014",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102583",
+    "name": "TUNGAN YAMMA",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "21/05/08/015",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.547681,
+      "longitude": 3.55437,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54902297989272,
+          "lng": 3.555771829892723
+        },
+        "southwest": {
+          "lat": 11.54632332010728,
+          "lng": 3.553072170107278
+        }
+      },
+      "formatted_address": "871103, Tungan Baje, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.547681,3.55437",
+      "google_place_id": "ChIJa1_aO7NvzBERTN5eMpfXHGE"
+    }
+  },
+  {
+    "id": "102584",
+    "name": "GIRIS I",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "21/05/08/016",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.6161727,
+      "longitude": 3.6015207,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7088328,
+          "lng": 3.8416682
+        },
+        "southwest": {
+          "lat": 11.5069495,
+          "lng": 3.5106227
+        }
+      },
+      "formatted_address": "Lolo Giris, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6161727,3.6015207",
+      "google_place_id": "ChIJi0a3FRF0zBERpyRqK_KozX4"
+    }
+  },
+  {
+    "id": "102585",
+    "name": "GIRIS II",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "21/05/08/017",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.6161727,
+      "longitude": 3.6015207,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7088328,
+          "lng": 3.8416682
+        },
+        "southwest": {
+          "lat": 11.5069495,
+          "lng": 3.5106227
+        }
+      },
+      "formatted_address": "Lolo Giris, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6161727,3.6015207",
+      "google_place_id": "ChIJi0a3FRF0zBERpyRqK_KozX4"
+    }
+  },
+  {
+    "id": "102586",
+    "name": "TUNGAN GIRIS",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "21/05/08/018",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102587",
+    "name": "GATAWANI",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "21/05/08/019",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4432567,
+      "longitude": 4.1744145,
+      "viewport": {
+        "northeast": {
+          "lat": 12.44454202989272,
+          "lng": 4.175786829892722
+        },
+        "southwest": {
+          "lat": 12.44184237010728,
+          "lng": 4.173087170107278
+        }
+      },
+      "formatted_address": "C5VF+8Q3, 860101, Badariya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4432567,4.1744145",
+      "google_place_id": "ChIJEwQTD3ETyRERRkmS__tsuqM"
+    }
+  },
+  {
+    "id": "102588",
+    "name": "GESHARO",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "21/05/08/020",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102589",
+    "name": "TUNGAN BARJE",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "21/05/08/021",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102590",
+    "name": "KURU - KURU",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "21/05/08/022",
+    "remark": "EXISTING PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.5974653,
+      "longitude": 3.8172375,
+      "viewport": {
+        "northeast": {
+          "lat": 11.59873582989272,
+          "lng": 3.818461829892722
+        },
+        "southwest": {
+          "lat": 11.59603617010728,
+          "lng": 3.815762170107278
+        }
+      },
+      "formatted_address": "862105, Kurukuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5974653,3.8172375",
+      "google_place_id": "ChIJXyRp5lCJyxERKhHdKCGl0wo"
+    }
+  },
+  {
+    "id": "102591",
+    "name": "ILLELA",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "21/05/08/023",
+    "remark": "NEW PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.8989276,
+      "longitude": 4.1840167,
+      "viewport": {
+        "northeast": {
+          "lat": 11.9199241,
+          "lng": 4.18698
+        },
+        "southwest": {
+          "lat": 11.892424,
+          "lng": 4.182157
+        }
+      },
+      "formatted_address": "862108, Illela, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8989276,4.1840167",
+      "google_place_id": "ChIJw7bnUqjbyxERcj-dkHQiDGs"
+    }
+  },
+  {
+    "id": "102592",
+    "name": "LONZON PRIMARY",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "21/05/08/024",
+    "remark": "NEW PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.1816057,
+      "longitude": 4.1208125,
+      "viewport": {
+        "northeast": {
+          "lat": 11.18295177989272,
+          "lng": 4.122142929892723
+        },
+        "southwest": {
+          "lat": 11.18025212010728,
+          "lng": 4.119443270107279
+        }
+      },
+      "formatted_address": "54JC+J7X, Kaoje Bagudo local government, Kaoge, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1816057,4.1208125",
+      "google_place_id": "ChIJQ8r1f00MyxERoTZnZf0W9CI"
+    }
+  },
+  {
+    "id": "102593",
+    "name": "SARKIN ZABARMA",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "21/05/08/025",
+    "remark": "NEW PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102594",
+    "name": "NASSARAWA II LOLO",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "21/05/08/026",
+    "remark": "NEW PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.649086,
+      "longitude": 3.609742,
+      "viewport": {
+        "northeast": {
+          "lat": 11.65022402989272,
+          "lng": 3.611129629892722
+        },
+        "southwest": {
+          "lat": 11.64752437010728,
+          "lng": 3.608429970107278
+        }
+      },
+      "formatted_address": "JJX5+JVQ, 871103, Lollo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.649086,3.609742",
+      "google_place_id": "ChIJd3RtOvByzBERS_hbKH3BbhU"
+    }
+  },
+  {
+    "id": "102595",
+    "name": "KASATI SABONGIDA",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "21/05/08/027",
+    "remark": "NEW PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4432567,
+      "longitude": 4.1744145,
+      "viewport": {
+        "northeast": {
+          "lat": 12.44454202989272,
+          "lng": 4.175786829892722
+        },
+        "southwest": {
+          "lat": 12.44184237010728,
+          "lng": 4.173087170107278
+        }
+      },
+      "formatted_address": "C5VF+8Q3, 860101, Badariya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4432567,4.1744145",
+      "google_place_id": "ChIJEwQTD3ETyRERRkmS__tsuqM"
+    }
+  },
+  {
+    "id": "102596",
+    "name": "GIRIS MASHAYA",
+    "registration_area_id": "5239",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "21/05/08/028",
+    "remark": "NEW PU",
+    "ward_id": "5239",
+    "ward_name": "LOLO/GIRIS",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.3984074,
+      "longitude": 4.2115615,
+      "viewport": {
+        "northeast": {
+          "lat": 11.39995442989272,
+          "lng": 4.212815829892722
+        },
+        "southwest": {
+          "lat": 11.39725477010728,
+          "lng": 4.210116170107278
+        }
+      },
+      "formatted_address": "96X6+9J7, 871101, Baguda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3984074,4.2115615",
+      "google_place_id": "ChIJsVErhBinyxERBiLmJUEtmsw"
+    }
+  }
+]

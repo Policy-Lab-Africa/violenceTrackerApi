@@ -1,0 +1,531 @@
+[
+  {
+    "id": "30000",
+    "name": "OGOBIA PRIMARY SCHOOL I, SCHOOL COMPOUND",
+    "registration_area_id": "1610",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "07/19/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1610",
+    "ward_name": "UGBOJU-EHAJE",
+    "local_government_id": "137",
+    "local_government_name": "OTUKPO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.348641299999999,
+      "longitude": 8.0449799,
+      "viewport": {
+        "northeast": {
+          "lat": 7.349999829892722,
+          "lng": 8.046270529892722
+        },
+        "southwest": {
+          "lat": 7.347300170107278,
+          "lng": 8.043570870107278
+        }
+      },
+      "formatted_address": "82XV+FX5, 972106, Ogobia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.348641299999999,8.0449799",
+      "google_place_id": "ChIJ6aOKd1_HWhARdQd7mC4zhbA"
+    }
+  },
+  {
+    "id": "30001",
+    "name": "OGOBIA APRIMARY SCHOOL II, SCHOOL COMPOUND",
+    "registration_area_id": "1610",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "07/19/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1610",
+    "ward_name": "UGBOJU-EHAJE",
+    "local_government_id": "137",
+    "local_government_name": "OTUKPO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.2004273,
+      "longitude": 8.1199202,
+      "viewport": {
+        "northeast": {
+          "lat": 7.201580679892722,
+          "lng": 8.121284129892723
+        },
+        "southwest": {
+          "lat": 7.198881020107278,
+          "lng": 8.11858447010728
+        }
+      },
+      "formatted_address": "6429+5XF, Raji Rasaki Avenu, Pipeline Otukpo, ADS Central Mosque, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2004273,8.1199202",
+      "google_place_id": "ChIJz4JbjODDWhARVZFAxdg7QIc"
+    }
+  },
+  {
+    "id": "30002",
+    "name": "OGOBIA WEST I, OPEN SPACE",
+    "registration_area_id": "1610",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "07/19/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1610",
+    "ward_name": "UGBOJU-EHAJE",
+    "local_government_id": "137",
+    "local_government_name": "OTUKPO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.204620599999999,
+      "longitude": 8.1198363,
+      "viewport": {
+        "northeast": {
+          "lat": 7.206003229892721,
+          "lng": 8.121255929892722
+        },
+        "southwest": {
+          "lat": 7.203303570107276,
+          "lng": 8.118556270107279
+        }
+      },
+      "formatted_address": "Japan street, 013456, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.204620599999999,8.1198363",
+      "google_place_id": "ChIJYdv5tWHDWhARn6UvSAZcN-M"
+    }
+  },
+  {
+    "id": "30003",
+    "name": "ONDO IPEPE PRIMARY SCH. SCH COMP",
+    "registration_area_id": "1610",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "07/19/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1610",
+    "ward_name": "UGBOJU-EHAJE",
+    "local_government_id": "137",
+    "local_government_name": "OTUKPO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.348641299999999,
+      "longitude": 8.0449799,
+      "viewport": {
+        "northeast": {
+          "lat": 7.349999829892722,
+          "lng": 8.046270529892722
+        },
+        "southwest": {
+          "lat": 7.347300170107278,
+          "lng": 8.043570870107278
+        }
+      },
+      "formatted_address": "82XV+FX5, 972106, Ogobia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.348641299999999,8.0449799",
+      "google_place_id": "ChIJ6aOKd1_HWhARdQd7mC4zhbA"
+    }
+  },
+  {
+    "id": "30004",
+    "name": "EMICHI PRIMARY SCH, SCHOOL COMPOUND",
+    "registration_area_id": "1610",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "07/19/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1610",
+    "ward_name": "UGBOJU-EHAJE",
+    "local_government_id": "137",
+    "local_government_name": "OTUKPO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.194914100000001,
+      "longitude": 8.1353594,
+      "viewport": {
+        "northeast": {
+          "lat": 7.196240029892721,
+          "lng": 8.136697629892723
+        },
+        "southwest": {
+          "lat": 7.193540370107277,
+          "lng": 8.133997970107279
+        }
+      },
+      "formatted_address": "54VP+X49, Igede St, 972261, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.194914100000001,8.1353594",
+      "google_place_id": "ChIJNRwc2Q_pWhARYJRKzrJwFcc"
+    }
+  },
+  {
+    "id": "30005",
+    "name": "AKPACHI PRIMARY SCHOOL I, SCHOOL COMPOUND",
+    "registration_area_id": "1610",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "07/19/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1610",
+    "ward_name": "UGBOJU-EHAJE",
+    "local_government_id": "137",
+    "local_government_name": "OTUKPO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.241299,
+      "longitude": 8.151147,
+      "viewport": {
+        "northeast": {
+          "lat": 7.242791329892722,
+          "lng": 8.152238279892721
+        },
+        "southwest": {
+          "lat": 7.240091670107278,
+          "lng": 8.149538620107277
+        }
+      },
+      "formatted_address": "6FVC65R2+GF6, Akpachi Otukpo Rd, 972106, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.241299,8.151147",
+      "google_place_id": "ChIJiarMn-DpWhARrNroKKVku3U"
+    }
+  },
+  {
+    "id": "30006",
+    "name": "IGARUWA VILLAGE SQURE",
+    "registration_area_id": "1610",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "07/19/11/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1610",
+    "ward_name": "UGBOJU-EHAJE",
+    "local_government_id": "137",
+    "local_government_name": "OTUKPO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.203684799999999,
+      "longitude": 8.1536847,
+      "viewport": {
+        "northeast": {
+          "lat": 7.205059179892721,
+          "lng": 8.155056829892724
+        },
+        "southwest": {
+          "lat": 7.202359520107278,
+          "lng": 8.15235717010728
+        }
+      },
+      "formatted_address": "6FVC6533+9HH, 972261, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.203684799999999,8.1536847",
+      "google_place_id": "ChIJZxM9mxLoWhAR3KEKi6_CUGU"
+    }
+  },
+  {
+    "id": "30007",
+    "name": "OLOGLI VILLAGE SQUARE",
+    "registration_area_id": "1610",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "07/19/11/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1610",
+    "ward_name": "UGBOJU-EHAJE",
+    "local_government_id": "137",
+    "local_government_name": "OTUKPO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.798294299999999,
+      "longitude": 8.5008845,
+      "viewport": {
+        "northeast": {
+          "lat": 6.799661979892721,
+          "lng": 8.502247429892721
+        },
+        "southwest": {
+          "lat": 6.796962320107277,
+          "lng": 8.499547770107277
+        }
+      },
+      "formatted_address": "QGX2+896, OHUHU OJU LGA, Benue,, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.798294299999999,8.5008845",
+      "google_place_id": "ChIJV0mtA3SnWxAR38CeOuLW4Ew"
+    }
+  },
+  {
+    "id": "30008",
+    "name": "OBO/OJOMO VILLAGE SQUARE",
+    "registration_area_id": "1610",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "07/19/11/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1610",
+    "ward_name": "UGBOJU-EHAJE",
+    "local_government_id": "137",
+    "local_government_name": "OTUKPO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "30009",
+    "name": "OGOBIA WEST II, OPEN SPACE",
+    "registration_area_id": "1610",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "07/19/11/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1610",
+    "ward_name": "UGBOJU-EHAJE",
+    "local_government_id": "137",
+    "local_government_name": "OTUKPO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.204620599999999,
+      "longitude": 8.1198363,
+      "viewport": {
+        "northeast": {
+          "lat": 7.206003229892721,
+          "lng": 8.121255929892722
+        },
+        "southwest": {
+          "lat": 7.203303570107276,
+          "lng": 8.118556270107279
+        }
+      },
+      "formatted_address": "Japan street, 013456, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.204620599999999,8.1198363",
+      "google_place_id": "ChIJYdv5tWHDWhARn6UvSAZcN-M"
+    }
+  },
+  {
+    "id": "30010",
+    "name": "AKPACHI PRIMARY SCHOOL II, OPEN SPACE",
+    "registration_area_id": "1610",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "07/19/11/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1610",
+    "ward_name": "UGBOJU-EHAJE",
+    "local_government_id": "137",
+    "local_government_name": "OTUKPO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.2004273,
+      "longitude": 8.1199202,
+      "viewport": {
+        "northeast": {
+          "lat": 7.201580679892722,
+          "lng": 8.121284129892723
+        },
+        "southwest": {
+          "lat": 7.198881020107278,
+          "lng": 8.11858447010728
+        }
+      },
+      "formatted_address": "6429+5XF, Raji Rasaki Avenu, Pipeline Otukpo, ADS Central Mosque, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2004273,8.1199202",
+      "google_place_id": "ChIJz4JbjODDWhARVZFAxdg7QIc"
+    }
+  },
+  {
+    "id": "30011",
+    "name": "IPITABA OPEN SPACE",
+    "registration_area_id": "1610",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "07/19/11/012",
+    "remark": "NEW PU",
+    "ward_id": "1610",
+    "ward_name": "UGBOJU-EHAJE",
+    "local_government_id": "137",
+    "local_government_name": "OTUKPO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.190389099999999,
+      "longitude": 8.1327521,
+      "viewport": {
+        "northeast": {
+          "lat": 7.191723929892722,
+          "lng": 8.134116229892724
+        },
+        "southwest": {
+          "lat": 7.189024270107279,
+          "lng": 8.13141657010728
+        }
+      },
+      "formatted_address": "54RM+542, 972261, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.190389099999999,8.1327521",
+      "google_place_id": "ChIJG4z8c1XdWhARz4RNfrhbUrk"
+    }
+  },
+  {
+    "id": "30012",
+    "name": "OLADIJI OPEN SPACE",
+    "registration_area_id": "1610",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "07/19/11/013",
+    "remark": "NEW PU",
+    "ward_id": "1610",
+    "ward_name": "UGBOJU-EHAJE",
+    "local_government_id": "137",
+    "local_government_name": "OTUKPO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.190389099999999,
+      "longitude": 8.1327521,
+      "viewport": {
+        "northeast": {
+          "lat": 7.191723929892722,
+          "lng": 8.134116229892724
+        },
+        "southwest": {
+          "lat": 7.189024270107279,
+          "lng": 8.13141657010728
+        }
+      },
+      "formatted_address": "54RM+542, 972261, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.190389099999999,8.1327521",
+      "google_place_id": "ChIJG4z8c1XdWhARz4RNfrhbUrk"
+    }
+  },
+  {
+    "id": "30013",
+    "name": "OGOBIA MARKET SQUARE",
+    "registration_area_id": "1610",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "07/19/11/014",
+    "remark": "NEW PU",
+    "ward_id": "1610",
+    "ward_name": "UGBOJU-EHAJE",
+    "local_government_id": "137",
+    "local_government_name": "OTUKPO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.191934900000001,
+      "longitude": 8.134753,
+      "viewport": {
+        "northeast": {
+          "lat": 7.193569879892721,
+          "lng": 8.13591822989272
+        },
+        "southwest": {
+          "lat": 7.190870220107278,
+          "lng": 8.133218570107276
+        }
+      },
+      "formatted_address": "Along Federal Road Otukpo, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.191934900000001,8.134753",
+      "google_place_id": "ChIJ5yEm7P_nWhARseNOttVHWI8"
+    }
+  },
+  {
+    "id": "30014",
+    "name": "IPUEMO OPEN SPACE BEHIND POST OFFICE",
+    "registration_area_id": "1610",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "07/19/11/015",
+    "remark": "NEW PU",
+    "ward_id": "1610",
+    "ward_name": "UGBOJU-EHAJE",
+    "local_government_id": "137",
+    "local_government_name": "OTUKPO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "30015",
+    "name": "OYEE OGOBIA OPEN SPACE",
+    "registration_area_id": "1610",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "07/19/11/016",
+    "remark": "NEW PU",
+    "ward_id": "1610",
+    "ward_name": "UGBOJU-EHAJE",
+    "local_government_id": "137",
+    "local_government_name": "OTUKPO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.204620599999999,
+      "longitude": 8.1198363,
+      "viewport": {
+        "northeast": {
+          "lat": 7.206003229892721,
+          "lng": 8.121255929892722
+        },
+        "southwest": {
+          "lat": 7.203303570107276,
+          "lng": 8.118556270107279
+        }
+      },
+      "formatted_address": "Japan street, 013456, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.204620599999999,8.1198363",
+      "google_place_id": "ChIJYdv5tWHDWhARn6UvSAZcN-M"
+    }
+  },
+  {
+    "id": "30016",
+    "name": "OGOBIA CAMP OPEN SPACE NEAR ST. ANDREW SEC. SCH.",
+    "registration_area_id": "1610",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "07/19/11/017",
+    "remark": "NEW PU",
+    "ward_id": "1610",
+    "ward_name": "UGBOJU-EHAJE",
+    "local_government_id": "137",
+    "local_government_name": "OTUKPO",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.8890822,
+      "longitude": 9.235510699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.890438929892722,
+          "lng": 9.236826629892724
+        },
+        "southwest": {
+          "lat": 6.887739270107278,
+          "lng": 9.23412697010728
+        }
+      },
+      "formatted_address": "V6QP+J5R, beside St. Andrew's Secondary School, 982104, Adikpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8890822,9.235510699999999",
+      "google_place_id": "ChIJJ9Zbv0x8WRARg-IaLGjo2yY"
+    }
+  }
+]

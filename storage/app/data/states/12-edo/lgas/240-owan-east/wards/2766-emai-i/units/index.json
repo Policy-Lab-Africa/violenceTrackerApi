@@ -1,0 +1,663 @@
+[
+  {
+    "id": "52090",
+    "name": "INST. OF PHY EDUCATION, AFUZE I",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "12/16/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.973706,
+      "longitude": 6.044694,
+      "viewport": {
+        "northeast": {
+          "lat": 6.974931729892723,
+          "lng": 6.046276879892722
+        },
+        "southwest": {
+          "lat": 6.972232070107279,
+          "lng": 6.043577220107278
+        }
+      },
+      "formatted_address": "Afuze - Auchi Road, 313102, Afuze, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.973706,6.044694",
+      "google_place_id": "ChIJ9Ye90pj0RhAR0b9fLulnQbM"
+    }
+  },
+  {
+    "id": "52091",
+    "name": "INST. OF PHY EDUCATION, AFUZE  II",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "12/16/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.973706,
+      "longitude": 6.044694,
+      "viewport": {
+        "northeast": {
+          "lat": 6.974931729892723,
+          "lng": 6.046276879892722
+        },
+        "southwest": {
+          "lat": 6.972232070107279,
+          "lng": 6.043577220107278
+        }
+      },
+      "formatted_address": "Afuze - Auchi Road, 313102, Afuze, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.973706,6.044694",
+      "google_place_id": "ChIJ9Ye90pj0RhAR0b9fLulnQbM"
+    }
+  },
+  {
+    "id": "52092",
+    "name": "SPACE BY MOTOR PARK, AFUZE",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "12/16/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.96815,
+      "longitude": 6.040622000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.969541479892721,
+          "lng": 6.041997079892721
+        },
+        "southwest": {
+          "lat": 6.966841820107277,
+          "lng": 6.039297420107277
+        }
+      },
+      "formatted_address": "34 eboreime street, Afuze 4 aisiga lane, local, government area 300271, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.96815,6.040622000000001",
+      "google_place_id": "ChIJdxXGJ0TzRhARJc4r7eEds7o"
+    }
+  },
+  {
+    "id": "52093",
+    "name": "SPACE BY I.P.E. HOSTEL, AFUZE",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "12/16/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": null
+  },
+  {
+    "id": "52094",
+    "name": "MATERNITY CENTRE, AFUZE I",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "12/16/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.971209999999999,
+      "longitude": 6.043425,
+      "viewport": {
+        "northeast": {
+          "lat": 6.972452079892722,
+          "lng": 6.044977729892723
+        },
+        "southwest": {
+          "lat": 6.969752420107278,
+          "lng": 6.042278070107279
+        }
+      },
+      "formatted_address": "Afuze - Auchi Road, 313102, Afuze, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.971209999999999,6.043425",
+      "google_place_id": "ChIJ719g9570RhARewNOTFaB7qQ"
+    }
+  },
+  {
+    "id": "52095",
+    "name": "MATERNITY CENTRE, AFUZE  II",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "12/16/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.971209999999999,
+      "longitude": 6.043425,
+      "viewport": {
+        "northeast": {
+          "lat": 6.972452079892722,
+          "lng": 6.044977729892723
+        },
+        "southwest": {
+          "lat": 6.969752420107278,
+          "lng": 6.042278070107279
+        }
+      },
+      "formatted_address": "Afuze - Auchi Road, 313102, Afuze, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.971209999999999,6.043425",
+      "google_place_id": "ChIJ719g9570RhARewNOTFaB7qQ"
+    }
+  },
+  {
+    "id": "52096",
+    "name": "PUB. FIELD GALLARY,  AFUZE",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "12/16/01/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.9661405,
+      "longitude": 6.037680099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.967488329892721,
+          "lng": 6.039030129892722
+        },
+        "southwest": {
+          "lat": 6.964788670107278,
+          "lng": 6.036330470107278
+        }
+      },
+      "formatted_address": "4 Mama Femo lane off Eboreime street, Afuze - Auchi Road, Emai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9661405,6.037680099999999",
+      "google_place_id": "ChIJtUbYPVLzRhARNEswnKy0qC8"
+    }
+  },
+  {
+    "id": "52097",
+    "name": "OHOBO PRIMARY SCHOOL,  AFUZE  I",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "12/16/01/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.967696,
+      "longitude": 6.043321,
+      "viewport": {
+        "northeast": {
+          "lat": 6.969314179892722,
+          "lng": 6.044163779892722
+        },
+        "southwest": {
+          "lat": 6.966614520107278,
+          "lng": 6.041464120107278
+        }
+      },
+      "formatted_address": "Afuze - Auchi Road, 313102, Afuze, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.967696,6.043321",
+      "google_place_id": "ChIJk0_q2mHzRhARoQ2X0PjtzX8"
+    }
+  },
+  {
+    "id": "52098",
+    "name": "OHOBO PRIMARY SCHOOL,  AFUZE    II",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "12/16/01/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.967696,
+      "longitude": 6.043321,
+      "viewport": {
+        "northeast": {
+          "lat": 6.969314179892722,
+          "lng": 6.044163779892722
+        },
+        "southwest": {
+          "lat": 6.966614520107278,
+          "lng": 6.041464120107278
+        }
+      },
+      "formatted_address": "Afuze - Auchi Road, 313102, Afuze, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.967696,6.043321",
+      "google_place_id": "ChIJk0_q2mHzRhARoQ2X0PjtzX8"
+    }
+  },
+  {
+    "id": "52099",
+    "name": "SPACE BY SMALL MARKET,  AFUZE",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "12/16/01/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.941601299999999,
+      "longitude": 5.984416,
+      "viewport": {
+        "northeast": {
+          "lat": 6.942906979892721,
+          "lng": 5.985794129892721
+        },
+        "southwest": {
+          "lat": 6.940207320107277,
+          "lng": 5.983094470107277
+        }
+      },
+      "formatted_address": "WXRM+JQV, Sunn Computers:, opposite Michael Imoudu College of Education, Afuze, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.941601299999999,5.984416",
+      "google_place_id": "ChIJwYtOYlvzRhARSc7PcZTgNEM"
+    }
+  },
+  {
+    "id": "52100",
+    "name": "OPPOSITE PALACE GROUND,  AFUZE",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "12/16/01/011",
+    "remark": "EXISTING PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.941601299999999,
+      "longitude": 5.984416,
+      "viewport": {
+        "northeast": {
+          "lat": 6.942906979892721,
+          "lng": 5.985794129892721
+        },
+        "southwest": {
+          "lat": 6.940207320107277,
+          "lng": 5.983094470107277
+        }
+      },
+      "formatted_address": "WXRM+JQV, Sunn Computers:, opposite Michael Imoudu College of Education, Afuze, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.941601299999999,5.984416",
+      "google_place_id": "ChIJwYtOYlvzRhARSc7PcZTgNEM"
+    }
+  },
+  {
+    "id": "52101",
+    "name": "EMAI PRIMARY SCHOOL,  AFUZE I",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "12/16/01/012",
+    "remark": "EXISTING PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.963971099999999,
+      "longitude": 6.034005,
+      "viewport": {
+        "northeast": {
+          "lat": 6.965248829892721,
+          "lng": 6.035055979892722
+        },
+        "southwest": {
+          "lat": 6.962549170107277,
+          "lng": 6.032356320107279
+        }
+      },
+      "formatted_address": "X28M+8JW, 313102, Afuze-Emai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.963971099999999,6.034005",
+      "google_place_id": "ChIJ7xxE5OLzRhARRhK6uvqRA9s"
+    }
+  },
+  {
+    "id": "52102",
+    "name": "EMAI PRIMARY SCHOOL,  AFUZE  II",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "12/16/01/013",
+    "remark": "EXISTING PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.963971099999999,
+      "longitude": 6.034005,
+      "viewport": {
+        "northeast": {
+          "lat": 6.965248829892721,
+          "lng": 6.035055979892722
+        },
+        "southwest": {
+          "lat": 6.962549170107277,
+          "lng": 6.032356320107279
+        }
+      },
+      "formatted_address": "X28M+8JW, 313102, Afuze-Emai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.963971099999999,6.034005",
+      "google_place_id": "ChIJ7xxE5OLzRhARRhK6uvqRA9s"
+    }
+  },
+  {
+    "id": "52103",
+    "name": "OPEN SPACE OPPPOSITE POLICE STATION",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "12/16/01/014",
+    "remark": "NEW PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": null
+  },
+  {
+    "id": "52104",
+    "name": "OPEN SPACE BY MAIN MARKET AFUZE",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "12/16/01/015",
+    "remark": "NEW PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.969069699999999,
+      "longitude": 6.042695,
+      "viewport": {
+        "northeast": {
+          "lat": 6.970405779892721,
+          "lng": 6.044065729892721
+        },
+        "southwest": {
+          "lat": 6.967706120107278,
+          "lng": 6.041366070107277
+        }
+      },
+      "formatted_address": "36 Afuze - Auchi Road, 313102, Afuze, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.969069699999999,6.042695",
+      "google_place_id": "ChIJAWvHF570RhARMocLliJAYh4"
+    }
+  },
+  {
+    "id": "52105",
+    "name": "OPEN SPACE REFERRAL MEDICAL CENTRE AFUZE",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "12/16/01/016",
+    "remark": "NEW PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.9740623,
+      "longitude": 6.0424339,
+      "viewport": {
+        "northeast": {
+          "lat": 6.975356929892722,
+          "lng": 6.043756429892722
+        },
+        "southwest": {
+          "lat": 6.972657270107278,
+          "lng": 6.041056770107278
+        }
+      },
+      "formatted_address": "2 low cost road, 313102, Afuze, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9740623,6.0424339",
+      "google_place_id": "ChIJw8vPkoX1RhARJjffb98cENQ"
+    }
+  },
+  {
+    "id": "52106",
+    "name": "OPEN SPACE GENERAL HOSPITAL AFUZE",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "12/16/01/017",
+    "remark": "NEW PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.9643669,
+      "longitude": 6.0422917,
+      "viewport": {
+        "northeast": {
+          "lat": 6.965591979892722,
+          "lng": 6.043540779892722
+        },
+        "southwest": {
+          "lat": 6.962892320107279,
+          "lng": 6.040841120107278
+        }
+      },
+      "formatted_address": "X27R+PWV, 313102, Afuje, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9643669,6.0422917",
+      "google_place_id": "ChIJr2vKaWHzRhARRuN-MpEF-1o"
+    }
+  },
+  {
+    "id": "52107",
+    "name": "OPEN SPACE BY SMALL MARKET AFUZE II",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "12/16/01/018",
+    "remark": "NEW PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.969069699999999,
+      "longitude": 6.042695,
+      "viewport": {
+        "northeast": {
+          "lat": 6.970405779892721,
+          "lng": 6.044065729892721
+        },
+        "southwest": {
+          "lat": 6.967706120107278,
+          "lng": 6.041366070107277
+        }
+      },
+      "formatted_address": "36 Afuze - Auchi Road, 313102, Afuze, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.969069699999999,6.042695",
+      "google_place_id": "ChIJAWvHF570RhARMocLliJAYh4"
+    }
+  },
+  {
+    "id": "52108",
+    "name": "MAGISTRATE COURT PREMISES AFUZE",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "12/16/01/019",
+    "remark": "NEW PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.2863508,
+      "longitude": 5.633139799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.287668729892723,
+          "lng": 5.634276379892722
+        },
+        "southwest": {
+          "lat": 6.284969070107279,
+          "lng": 5.631576720107278
+        }
+      },
+      "formatted_address": "7JPM+G7R, Euvboriaria, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2863508,5.633139799999999",
+      "google_place_id": "ChIJU440MFrRQBARe8QqUkIi09M"
+    }
+  },
+  {
+    "id": "52109",
+    "name": "EMAI  PRIMARY SCHOOL AFUZE III",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "12/16/01/020",
+    "remark": "NEW PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.963971099999999,
+      "longitude": 6.034005,
+      "viewport": {
+        "northeast": {
+          "lat": 6.965248829892721,
+          "lng": 6.035055979892722
+        },
+        "southwest": {
+          "lat": 6.962549170107277,
+          "lng": 6.032356320107279
+        }
+      },
+      "formatted_address": "X28M+8JW, 313102, Afuze-Emai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.963971099999999,6.034005",
+      "google_place_id": "ChIJ7xxE5OLzRhARRhK6uvqRA9s"
+    }
+  },
+  {
+    "id": "52110",
+    "name": "EMAI PRIMARY SCHOOL AFUZE IV",
+    "registration_area_id": "2766",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "12/16/01/021",
+    "remark": "NEW PU",
+    "ward_id": "2766",
+    "ward_name": "EMAI  I",
+    "local_government_id": "240",
+    "local_government_name": "OWAN EAST",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.963971099999999,
+      "longitude": 6.034005,
+      "viewport": {
+        "northeast": {
+          "lat": 6.965248829892721,
+          "lng": 6.035055979892722
+        },
+        "southwest": {
+          "lat": 6.962549170107277,
+          "lng": 6.032356320107279
+        }
+      },
+      "formatted_address": "X28M+8JW, 313102, Afuze-Emai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.963971099999999,6.034005",
+      "google_place_id": "ChIJ7xxE5OLzRhARRhK6uvqRA9s"
+    }
+  }
+]

@@ -1,0 +1,811 @@
+[
+  {
+    "id": "41436",
+    "name": "BENEKU PRIMARY SCHOOL, BENEKU I",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "10/11/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.690386999999999,
+      "longitude": 6.4726989,
+      "viewport": {
+        "northeast": {
+          "lat": 5.691767929892722,
+          "lng": 6.474055329892722
+        },
+        "southwest": {
+          "lat": 5.689068270107278,
+          "lng": 6.471355670107278
+        }
+      },
+      "formatted_address": "Beneku Primary School, 322127, Obiogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.690386999999999,6.4726989",
+      "google_place_id": "ChIJfbOnaEorQhARLltqeZEIpTk"
+    }
+  },
+  {
+    "id": "41437",
+    "name": "BENEKU PRIMARY SCHOOL, BENEKU II",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "10/11/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7969791,
+      "longitude": 6.5996963,
+      "viewport": {
+        "northeast": {
+          "lat": 5.9572923,
+          "lng": 6.6985733
+        },
+        "southwest": {
+          "lat": 5.6257372,
+          "lng": 6.4309927
+        }
+      },
+      "formatted_address": "Okpai/Utchi/Beneku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7969791,6.5996963",
+      "google_place_id": "ChIJk8hk1-7RQxARiKjZkXzJ2VY"
+    }
+  },
+  {
+    "id": "41438",
+    "name": "AKATULU PRIMARY SCHOOL, AGIDIGBO",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "10/11/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7250178,
+      "longitude": 6.6010652,
+      "viewport": {
+        "northeast": {
+          "lat": 5.726383179892721,
+          "lng": 6.602356079892722
+        },
+        "southwest": {
+          "lat": 5.723683520107278,
+          "lng": 6.599656420107278
+        }
+      },
+      "formatted_address": "PJG2+2C3, 322127, Okpai Oluchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7250178,6.6010652",
+      "google_place_id": "ChIJ1WxILl_NQxARVmubcpuOt7k"
+    }
+  },
+  {
+    "id": "41439",
+    "name": "ISU-ANI OBECHA, OBECHA UTCHI I",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "10/11/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.8336342,
+      "longitude": 6.3964462,
+      "viewport": {
+        "northeast": {
+          "lat": 5.83581715,
+          "lng": 6.397672429892721
+        },
+        "southwest": {
+          "lat": 5.832906550000001,
+          "lng": 6.394972770107278
+        }
+      },
+      "formatted_address": "R9MW+FH4, 322103, Ike-Onicha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8336342,6.3964462",
+      "google_place_id": "ChIJD-bdeW99QRARgR4u4qiXrg0"
+    }
+  },
+  {
+    "id": "41440",
+    "name": "ISU-ANI OBECHA, OBECHA UTCHI II",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "10/11/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7093465,
+      "longitude": 6.575660699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.710737879892721,
+          "lng": 6.577102879892721
+        },
+        "southwest": {
+          "lat": 5.708038220107277,
+          "lng": 6.574403220107278
+        }
+      },
+      "formatted_address": "PH5G+P7M, 322127, Okpai Oluchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7093465,6.575660699999999",
+      "google_place_id": "ChIJkS2P36DSQxARbXLj91NyUbk"
+    }
+  },
+  {
+    "id": "41441",
+    "name": "OLUCHI PRIMARY SCHOOL, OKPAI OLUCHI",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "10/11/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7195741,
+      "longitude": 6.595649499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.720990029892722,
+          "lng": 6.597034479892722
+        },
+        "southwest": {
+          "lat": 5.718290370107278,
+          "lng": 6.594334820107278
+        }
+      },
+      "formatted_address": "Oluchi Primary School, 322127, Okpai Oluchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7195741,6.595649499999999",
+      "google_place_id": "ChIJq5QsFWzNQxARZA4YeWkoRU8"
+    }
+  },
+  {
+    "id": "41442",
+    "name": "MARKET SQUARE, OLUCHI, OKPAI - OLUCHI",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "10/11/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7250178,
+      "longitude": 6.6010652,
+      "viewport": {
+        "northeast": {
+          "lat": 5.726383179892721,
+          "lng": 6.602356079892722
+        },
+        "southwest": {
+          "lat": 5.723683520107278,
+          "lng": 6.599656420107278
+        }
+      },
+      "formatted_address": "PJG2+2C3, 322127, Okpai Oluchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7250178,6.6010652",
+      "google_place_id": "ChIJ1WxILl_NQxARVmubcpuOt7k"
+    }
+  },
+  {
+    "id": "41443",
+    "name": "METU PRIMARY SCHOOL, OKPAI- ANIEZE",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "10/11/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7677968,
+      "longitude": 6.6383417,
+      "viewport": {
+        "northeast": {
+          "lat": 5.769166129892722,
+          "lng": 6.639715229892722
+        },
+        "southwest": {
+          "lat": 5.766466470107278,
+          "lng": 6.637015570107278
+        }
+      },
+      "formatted_address": "Metu Primary School, 322127, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7677968,6.6383417",
+      "google_place_id": "ChIJJ-OTnyPMQxAREbt3HtXnqkc"
+    }
+  },
+  {
+    "id": "41444",
+    "name": "UMOM  PRIMARY SCHOOLS, OKPAI -OBEZE",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "10/11/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.75718,
+      "longitude": 6.614176199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.758492929892722,
+          "lng": 6.615585479892721
+        },
+        "southwest": {
+          "lat": 5.755793270107278,
+          "lng": 6.612885820107278
+        }
+      },
+      "formatted_address": "QJ47+VMF, 322127, Okpai Oluchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.75718,6.614176199999999",
+      "google_place_id": "ChIJIf_gfszNQxARXGoI5j4lL3I"
+    }
+  },
+  {
+    "id": "41445",
+    "name": "OBODOYIBO PRIMARY SCHOOL, OKPAI OBODOYIBO",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "10/11/04/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7250178,
+      "longitude": 6.6010652,
+      "viewport": {
+        "northeast": {
+          "lat": 5.726383179892721,
+          "lng": 6.602356079892722
+        },
+        "southwest": {
+          "lat": 5.723683520107278,
+          "lng": 6.599656420107278
+        }
+      },
+      "formatted_address": "PJG2+2C3, 322127, Okpai Oluchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7250178,6.6010652",
+      "google_place_id": "ChIJ1WxILl_NQxARVmubcpuOt7k"
+    }
+  },
+  {
+    "id": "41446",
+    "name": "NJIKOKA PRIMARY SCHOOL, UMUOCHI UTCHI",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "10/11/04/011",
+    "remark": "EXISTING PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.891966699999999,
+      "longitude": 6.647276,
+      "viewport": {
+        "northeast": {
+          "lat": 5.893219629892721,
+          "lng": 6.648496779892722
+        },
+        "southwest": {
+          "lat": 5.890519970107277,
+          "lng": 6.645797120107278
+        }
+      },
+      "formatted_address": "Njikoka Primary School, 322127, Umuochi Utchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.891966699999999,6.647276",
+      "google_place_id": "ChIJSblct8jFQxARbJELR8sb_sc"
+    }
+  },
+  {
+    "id": "41447",
+    "name": "OWALA PRIMARY SCHOOL, ONICHA UTCHI",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "10/11/04/012",
+    "remark": "EXISTING PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.9148733,
+      "longitude": 6.4744663,
+      "viewport": {
+        "northeast": {
+          "lat": 5.916148429892721,
+          "lng": 6.475868079892723
+        },
+        "southwest": {
+          "lat": 5.913448770107277,
+          "lng": 6.473168420107279
+        }
+      },
+      "formatted_address": "WF7F+WQW, 322132, Umudike, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9148733,6.4744663",
+      "google_place_id": "ChIJH117nm3ZQxARMFlj-jBlf4c"
+    }
+  },
+  {
+    "id": "41448",
+    "name": "OBALU PRIMARY SCHOOL, UTCHI, UTCHI",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "10/11/04/013",
+    "remark": "EXISTING PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.845555,
+      "longitude": 6.634584599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.846815229892722,
+          "lng": 6.635986979892722
+        },
+        "southwest": {
+          "lat": 5.844115570107278,
+          "lng": 6.633287320107278
+        }
+      },
+      "formatted_address": "Obalu Primary School, 322127, Abara Uno, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.845555,6.634584599999999",
+      "google_place_id": "ChIJnx2T9m7PQxARJBRYcmnpaNY"
+    }
+  },
+  {
+    "id": "41449",
+    "name": "NDAM BENEKU MARKET I, BENEKU",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "10/11/04/014",
+    "remark": "NEW PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "41450",
+    "name": "NDAM BENEKU MARKET II, BENEKU",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "10/11/04/015",
+    "remark": "NEW PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.690386999999999,
+      "longitude": 6.4726989,
+      "viewport": {
+        "northeast": {
+          "lat": 5.691767929892722,
+          "lng": 6.474055329892722
+        },
+        "southwest": {
+          "lat": 5.689068270107278,
+          "lng": 6.471355670107278
+        }
+      },
+      "formatted_address": "Beneku Primary School, 322127, Obiogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.690386999999999,6.4726989",
+      "google_place_id": "ChIJfbOnaEorQhARLltqeZEIpTk"
+    }
+  },
+  {
+    "id": "41451",
+    "name": "NDAM BENEKU SECONDARY SCHOOL I, BENEKU",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "10/11/04/016",
+    "remark": "NEW PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7250178,
+      "longitude": 6.6010652,
+      "viewport": {
+        "northeast": {
+          "lat": 5.726383179892721,
+          "lng": 6.602356079892722
+        },
+        "southwest": {
+          "lat": 5.723683520107278,
+          "lng": 6.599656420107278
+        }
+      },
+      "formatted_address": "PJG2+2C3, 322127, Okpai Oluchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7250178,6.6010652",
+      "google_place_id": "ChIJ1WxILl_NQxARVmubcpuOt7k"
+    }
+  },
+  {
+    "id": "41452",
+    "name": "NDAM BENEKU SECONDARY SCHOOL II, BENEKU",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "10/11/04/017",
+    "remark": "NEW PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.550865099999999,
+      "longitude": 6.524592,
+      "viewport": {
+        "northeast": {
+          "lat": 5.552186979892721,
+          "lng": 6.525927679892721
+        },
+        "southwest": {
+          "lat": 5.549487320107278,
+          "lng": 6.523228020107277
+        }
+      },
+      "formatted_address": "HG2F+8RW, Ogbe Ukwu Rd, 322116, Abo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.550865099999999,6.524592",
+      "google_place_id": "ChIJa-SIDBIvQhARkrlqng_fnpg"
+    }
+  },
+  {
+    "id": "41453",
+    "name": "BENEKU CIVIC CENTRE, BENEKU",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "10/11/04/018",
+    "remark": "NEW PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5628883,
+      "longitude": 6.5301433,
+      "viewport": {
+        "northeast": {
+          "lat": 5.564313079892722,
+          "lng": 6.531207629892721
+        },
+        "southwest": {
+          "lat": 5.561613420107278,
+          "lng": 6.528507970107277
+        }
+      },
+      "formatted_address": "HG7J+532, kwale road, 322116, Abo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5628883,6.5301433",
+      "google_place_id": "ChIJyVvi3LcvQhART1UNsFnP--I"
+    }
+  },
+  {
+    "id": "41454",
+    "name": "BENEKU HEALTH CENTRE, BENEKU'",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "10/11/04/019",
+    "remark": "NEW PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.6892925,
+      "longitude": 6.4726481,
+      "viewport": {
+        "northeast": {
+          "lat": 5.690689779892721,
+          "lng": 6.474032979892722
+        },
+        "southwest": {
+          "lat": 5.687990120107277,
+          "lng": 6.471333320107278
+        }
+      },
+      "formatted_address": "MFQF+P36, 322127, Obiogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6892925,6.4726481",
+      "google_place_id": "ChIJ4-PZFkorQhARDlRx7gACWHM"
+    }
+  },
+  {
+    "id": "41455",
+    "name": "EDEM SQUARE, BENEKU",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "10/11/04/020",
+    "remark": "NEW PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5460449,
+      "longitude": 6.592412299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.547366479892722,
+          "lng": 6.593780479892722
+        },
+        "southwest": {
+          "lat": 5.544666820107278,
+          "lng": 6.591080820107278
+        }
+      },
+      "formatted_address": "510104, Ndoni, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5460449,6.592412299999999",
+      "google_place_id": "ChIJPZVsJxYwQhARojMwMZj-ZeY"
+    }
+  },
+  {
+    "id": "41456",
+    "name": "AKATULU PRIMARY SCHOOL II, AGIDIGBO BENEKU",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "10/11/04/021",
+    "remark": "NEW PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7250178,
+      "longitude": 6.6010652,
+      "viewport": {
+        "northeast": {
+          "lat": 5.726383179892721,
+          "lng": 6.602356079892722
+        },
+        "southwest": {
+          "lat": 5.723683520107278,
+          "lng": 6.599656420107278
+        }
+      },
+      "formatted_address": "PJG2+2C3, 322127, Okpai Oluchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7250178,6.6010652",
+      "google_place_id": "ChIJ1WxILl_NQxARVmubcpuOt7k"
+    }
+  },
+  {
+    "id": "41457",
+    "name": "AGWECHI PRIMARY SCHOOL, OKPAI OLUCHI",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "10/11/04/022",
+    "remark": "NEW PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7250178,
+      "longitude": 6.6010652,
+      "viewport": {
+        "northeast": {
+          "lat": 5.726383179892721,
+          "lng": 6.602356079892722
+        },
+        "southwest": {
+          "lat": 5.723683520107278,
+          "lng": 6.599656420107278
+        }
+      },
+      "formatted_address": "PJG2+2C3, 322127, Okpai Oluchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7250178,6.6010652",
+      "google_place_id": "ChIJ1WxILl_NQxARVmubcpuOt7k"
+    }
+  },
+  {
+    "id": "41458",
+    "name": "OKPAI OLUCHI CIVIC CENTRE, OKPAI OLUCHI",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "10/11/04/023",
+    "remark": "NEW PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7250178,
+      "longitude": 6.6010652,
+      "viewport": {
+        "northeast": {
+          "lat": 5.726383179892721,
+          "lng": 6.602356079892722
+        },
+        "southwest": {
+          "lat": 5.723683520107278,
+          "lng": 6.599656420107278
+        }
+      },
+      "formatted_address": "PJG2+2C3, 322127, Okpai Oluchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7250178,6.6010652",
+      "google_place_id": "ChIJ1WxILl_NQxARVmubcpuOt7k"
+    }
+  },
+  {
+    "id": "41459",
+    "name": "ODIGWE PRIMARY SCHOOL, OKPAI OLUCHI",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "10/11/04/024",
+    "remark": "NEW PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7250178,
+      "longitude": 6.6010652,
+      "viewport": {
+        "northeast": {
+          "lat": 5.726383179892721,
+          "lng": 6.602356079892722
+        },
+        "southwest": {
+          "lat": 5.723683520107278,
+          "lng": 6.599656420107278
+        }
+      },
+      "formatted_address": "PJG2+2C3, 322127, Okpai Oluchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7250178,6.6010652",
+      "google_place_id": "ChIJ1WxILl_NQxARVmubcpuOt7k"
+    }
+  },
+  {
+    "id": "41460",
+    "name": "OKWUBEDO PRIMARY SCHOOL, OKWUBEDO UTCHI",
+    "registration_area_id": "2282",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "10/11/04/025",
+    "remark": "NEW PU",
+    "ward_id": "2282",
+    "ward_name": "OKPAI/UTCHI/BENEKU",
+    "local_government_id": "197",
+    "local_government_name": "NDOKWA EAST",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.9148733,
+      "longitude": 6.4744663,
+      "viewport": {
+        "northeast": {
+          "lat": 5.916148429892721,
+          "lng": 6.475868079892723
+        },
+        "southwest": {
+          "lat": 5.913448770107277,
+          "lng": 6.473168420107279
+        }
+      },
+      "formatted_address": "WF7F+WQW, 322132, Umudike, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9148733,6.4744663",
+      "google_place_id": "ChIJH117nm3ZQxARMFlj-jBlf4c"
+    }
+  }
+]

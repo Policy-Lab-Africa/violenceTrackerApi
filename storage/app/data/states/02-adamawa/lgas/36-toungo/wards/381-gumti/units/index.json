@@ -1,0 +1,219 @@
+[
+  {
+    "id": "7398",
+    "name": "BODEL/ KOFAR JAURO BODEL",
+    "registration_area_id": "381",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "02/19/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "381",
+    "ward_name": "GUMTI",
+    "local_government_id": "36",
+    "local_government_name": "TOUNGO",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7399",
+    "name": "DEUJIMAN/ KOFAR JAURO DEUJIMAN",
+    "registration_area_id": "381",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "02/19/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "381",
+    "ward_name": "GUMTI",
+    "local_government_id": "36",
+    "local_government_name": "TOUNGO",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7400",
+    "name": "DEUTIPSAN/ KOFAR JAURO DEUTIPSAN",
+    "registration_area_id": "381",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "02/19/03/003",
+    "remark": "EXISTING PU",
+    "ward_id": "381",
+    "ward_name": "GUMTI",
+    "local_government_id": "36",
+    "local_government_name": "TOUNGO",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 8.112222299999999,
+      "longitude": 12.048037,
+      "viewport": {
+        "northeast": {
+          "lat": 8.113540629892722,
+          "lng": 12.04938682989272
+        },
+        "southwest": {
+          "lat": 8.110840970107278,
+          "lng": 12.04668717010728
+        }
+      },
+      "formatted_address": "641118, Tungo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.112222299999999,12.048037",
+      "google_place_id": "ChIJB9ZXJf-J-RARLqYNzVZosZg"
+    }
+  },
+  {
+    "id": "7401",
+    "name": "DEUTIPSAN MUMUYE/ KOFAR JAURO D.T. MUMUYE",
+    "registration_area_id": "381",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "02/19/03/004",
+    "remark": "EXISTING PU",
+    "ward_id": "381",
+    "ward_name": "GUMTI",
+    "local_government_id": "36",
+    "local_government_name": "TOUNGO",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7402",
+    "name": "DEUYEMTI/ KOFAR JAURO DEUYEMTI",
+    "registration_area_id": "381",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "02/19/03/005",
+    "remark": "EXISTING PU",
+    "ward_id": "381",
+    "ward_name": "GUMTI",
+    "local_government_id": "36",
+    "local_government_name": "TOUNGO",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "7403",
+    "name": "GUM/ KOFAR JAURO GUM",
+    "registration_area_id": "381",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "02/19/03/006",
+    "remark": "EXISTING PU",
+    "ward_id": "381",
+    "ward_name": "GUMTI",
+    "local_government_id": "36",
+    "local_government_name": "TOUNGO",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 7.542400000000001,
+      "longitude": 11.6157773,
+      "viewport": {
+        "northeast": {
+          "lat": 7.543749829892723,
+          "lng": 11.61712712989272
+        },
+        "southwest": {
+          "lat": 7.541050170107279,
+          "lng": 11.61442747010727
+        }
+      },
+      "formatted_address": "GJR8+X86, Gashaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.542400000000001,11.6157773",
+      "google_place_id": "ChIJ53PU8WVk9xARUoVQq_dpcsc"
+    }
+  },
+  {
+    "id": "7404",
+    "name": "GUMTI/ GUMTI PRI. SCH.",
+    "registration_area_id": "381",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "02/19/03/007",
+    "remark": "EXISTING PU",
+    "ward_id": "381",
+    "ward_name": "GUMTI",
+    "local_government_id": "36",
+    "local_government_name": "TOUNGO",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 8.194531699999999,
+      "longitude": 12.0026815,
+      "viewport": {
+        "northeast": {
+          "lat": 8.195881529892718,
+          "lng": 12.00403132989272
+        },
+        "southwest": {
+          "lat": 8.193181870107274,
+          "lng": 12.00133167010728
+        }
+      },
+      "formatted_address": "52V3+R37, 641117, Amadu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.194531699999999,12.0026815",
+      "google_place_id": "ChIJ8Upz8L-G-RARMzUikJtpKhY"
+    }
+  },
+  {
+    "id": "7405",
+    "name": "LUGGERE BANA/ KOFAR JAURO L/BANA",
+    "registration_area_id": "381",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "02/19/03/008",
+    "remark": "EXISTING PU",
+    "ward_id": "381",
+    "ward_name": "GUMTI",
+    "local_government_id": "36",
+    "local_government_name": "TOUNGO",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 7.542400000000001,
+      "longitude": 11.6157773,
+      "viewport": {
+        "northeast": {
+          "lat": 7.543749829892723,
+          "lng": 11.61712712989272
+        },
+        "southwest": {
+          "lat": 7.541050170107279,
+          "lng": 11.61442747010727
+        }
+      },
+      "formatted_address": "GJR8+X86, Gashaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.542400000000001,11.6157773",
+      "google_place_id": "ChIJ53PU8WVk9xARUoVQq_dpcsc"
+    }
+  },
+  {
+    "id": "7406",
+    "name": "TAPARE/ KOFAR JAURO TAPARE",
+    "registration_area_id": "381",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "02/19/03/009",
+    "remark": "EXISTING PU",
+    "ward_id": "381",
+    "ward_name": "GUMTI",
+    "local_government_id": "36",
+    "local_government_name": "TOUNGO",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  }
+]

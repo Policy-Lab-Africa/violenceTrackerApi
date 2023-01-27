@@ -1,0 +1,949 @@
+[
+  {
+    "id": "347629",
+    "name": "ABUSORO/AJAGBARE, OPEN SPACE AT AJAGBALA IDEPE",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "28/14/13/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347630",
+    "name": "ABUSORO/TECH, GOVT TECH COLLEGE OKITIPUPA",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "28/14/13/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.4877786,
+      "longitude": 4.7871163,
+      "viewport": {
+        "northeast": {
+          "lat": 6.489113029892722,
+          "lng": 4.788503779892721
+        },
+        "southwest": {
+          "lat": 6.486413370107278,
+          "lng": 4.785804120107278
+        }
+      },
+      "formatted_address": "Km 8 Okitipupa Rd, 350113, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4877786,4.7871163",
+      "google_place_id": "ChIJL1fNF0W3OBARDU-EuUP3WP4"
+    }
+  },
+  {
+    "id": "347631",
+    "name": "ABUSORO/TECH, OPEN SPACE AT ABUSORO",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "28/14/13/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.5196342,
+      "longitude": 4.7759063,
+      "viewport": {
+        "northeast": {
+          "lat": 6.52098402989272,
+          "lng": 4.777256129892722
+        },
+        "southwest": {
+          "lat": 6.518284370107276,
+          "lng": 4.774556470107278
+        }
+      },
+      "formatted_address": "Abusoro St, 350108, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5196342,4.7759063",
+      "google_place_id": "ChIJyTo8igO3OBARWasr5WvXnSc"
+    }
+  },
+  {
+    "id": "347632",
+    "name": "ABUSORO/AJAGBALA IDEPE, ST EDWARD R.C.M IDEPE",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "28/14/13/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347633",
+    "name": "JINADU/DOCTORS RD, OLD ANG CHURCH",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "28/14/13/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.0921021,
+      "longitude": 4.8155692,
+      "viewport": {
+        "northeast": {
+          "lat": 7.093476029892722,
+          "lng": 4.816922829892722
+        },
+        "southwest": {
+          "lat": 7.090776370107278,
+          "lng": 4.814223170107278
+        }
+      },
+      "formatted_address": "3RR8+R6H, Unnamed Road, 351103, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0921021,4.8155692",
+      "google_place_id": "ChIJD_ipgSFiOBAR2IWZHZbgEtY"
+    }
+  },
+  {
+    "id": "347634",
+    "name": "JINADU/DOCTORS RD, OPEN SPACE AT OGUNGBADERO",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "28/14/13/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347635",
+    "name": "JINADU/DOCTORS RD, OPEN SPACE AT JINADU DOCTORS RD",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "28/14/13/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347636",
+    "name": "OJOMO/KAJOLA, U.N.A PRY SCH OKITIPUPA",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "28/14/13/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347637",
+    "name": "OJOMO/KAJOLA, U.N.A PRY SCH OKITIPUPA",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "28/14/13/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347638",
+    "name": "OLAYEYE QTRS, AT OLAYEYE FAMILY HOUSE",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "28/14/13/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347639",
+    "name": "OLAYEYE QTRS, OPEN SPACE AT OLAYEYE OPUPA",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "28/14/13/011",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347640",
+    "name": "OLAYEYE QTRS, OPEN SPACE AT OLAYEYE OPUPA",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "28/14/13/012",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347641",
+    "name": "EWI/AJEGUNLE, ST MARYS C & S SCH OPUPA I",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "28/14/13/013",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 43.4381862,
+      "longitude": -80.5017925,
+      "viewport": {
+        "northeast": {
+          "lat": 43.43959442989271,
+          "lng": -80.50053827010728
+        },
+        "southwest": {
+          "lat": 43.43689477010727,
+          "lng": -80.50323792989272
+        }
+      },
+      "formatted_address": "911 Queen's Blvd, Kitchener, ON N2M 1B2, Canada",
+      "google_map_url": "https://maps.google.com?q=43.4381862,-80.5017925",
+      "google_place_id": "ChIJXwbb21X0K4gRx_1NCz5xePo"
+    }
+  },
+  {
+    "id": "347642",
+    "name": "EWI/AJEGUNLE, OPEN SPACE AT EWI  OPUPA II",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "28/14/13/014",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347643",
+    "name": "EWI/AJEGUNLE, OPEN SPACE AT EWI  AJEGUNLE",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "28/14/13/015",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.5022379,
+      "longitude": 4.7837062,
+      "viewport": {
+        "northeast": {
+          "lat": 6.503587729892721,
+          "lng": 4.785056029892722
+        },
+        "southwest": {
+          "lat": 6.500888070107277,
+          "lng": 4.782356370107278
+        }
+      },
+      "formatted_address": "Ajegunle St, 350108, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5022379,4.7837062",
+      "google_place_id": "ChIJaaDFXu-2OBARDPPceQMQdss"
+    }
+  },
+  {
+    "id": "347644",
+    "name": "NEW GARAGE ZONE, AT NEW MOTOR PARK I",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "28/14/13/016",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.5050281,
+      "longitude": 4.7596299,
+      "viewport": {
+        "northeast": {
+          "lat": 6.506327229892721,
+          "lng": 4.761122429892722
+        },
+        "southwest": {
+          "lat": 6.503627570107278,
+          "lng": 4.758422770107278
+        }
+      },
+      "formatted_address": "GQ45+2V6, 350105, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5050281,4.7596299",
+      "google_place_id": "ChIJmWTctr-3OBARUOhZOrVm3QA"
+    }
+  },
+  {
+    "id": "347645",
+    "name": "NEW GARAGE ZONE, AT NEW MOTOR PARK II",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "28/14/13/017",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.5050281,
+      "longitude": 4.7596299,
+      "viewport": {
+        "northeast": {
+          "lat": 6.506327229892721,
+          "lng": 4.761122429892722
+        },
+        "southwest": {
+          "lat": 6.503627570107278,
+          "lng": 4.758422770107278
+        }
+      },
+      "formatted_address": "GQ45+2V6, 350105, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5050281,4.7596299",
+      "google_place_id": "ChIJmWTctr-3OBARUOhZOrVm3QA"
+    }
+  },
+  {
+    "id": "347646",
+    "name": "LIJOFI COMPD, EWI ST OKITIPUPA",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "28/14/13/018",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.5024242,
+      "longitude": 4.7853826,
+      "viewport": {
+        "northeast": {
+          "lat": 6.503783279892723,
+          "lng": 4.786781579892722
+        },
+        "southwest": {
+          "lat": 6.501083620107279,
+          "lng": 4.784081920107278
+        }
+      },
+      "formatted_address": "local government, Ewi St, 350113, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5024242,4.7853826",
+      "google_place_id": "ChIJx8kbG-S3OBARfzsDnpXofQs"
+    }
+  },
+  {
+    "id": "347647",
+    "name": "LIJOFI COMPD, OPEN SPACE AT LIJOFI COMPD",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "28/14/13/019",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347648",
+    "name": "ARAROMI LISA, ANG PRY SCH ARAROMI LISA",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "28/14/13/020",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347649",
+    "name": "IGEDEGE, L.A PRY SCH IGEDEGE",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "28/14/13/021",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347650",
+    "name": "ABUSORO, METH PRY SCH ABUSORO",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "28/14/13/022",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.5196342,
+      "longitude": 4.7759063,
+      "viewport": {
+        "northeast": {
+          "lat": 6.52098402989272,
+          "lng": 4.777256129892722
+        },
+        "southwest": {
+          "lat": 6.518284370107276,
+          "lng": 4.774556470107278
+        }
+      },
+      "formatted_address": "Abusoro St, 350108, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5196342,4.7759063",
+      "google_place_id": "ChIJyTo8igO3OBARWasr5WvXnSc"
+    }
+  },
+  {
+    "id": "347651",
+    "name": "ABUSORO, OPEN SPACE AT ABUSORO",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "28/14/13/023",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.5196342,
+      "longitude": 4.7759063,
+      "viewport": {
+        "northeast": {
+          "lat": 6.52098402989272,
+          "lng": 4.777256129892722
+        },
+        "southwest": {
+          "lat": 6.518284370107276,
+          "lng": 4.774556470107278
+        }
+      },
+      "formatted_address": "Abusoro St, 350108, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5196342,4.7759063",
+      "google_place_id": "ChIJyTo8igO3OBARWasr5WvXnSc"
+    }
+  },
+  {
+    "id": "347652",
+    "name": "L.S.A QTRS, 7 KUYE ST OKITIPUPA",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "28/14/13/024",
+    "remark": "EXISTING PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.504311,
+      "longitude": 4.777694299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.505660829892721,
+          "lng": 4.779044129892721
+        },
+        "southwest": {
+          "lat": 6.502961170107278,
+          "lng": 4.776344470107277
+        }
+      },
+      "formatted_address": "Kuye St, 350108, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.504311,4.777694299999999",
+      "google_place_id": "ChIJS91L7vq2OBAR0i8IGQ8k7wg"
+    }
+  },
+  {
+    "id": "347653",
+    "name": "OLADIPUPO LEBI STREET",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "28/14/13/025",
+    "remark": "NEW PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.5120613,
+      "longitude": 4.7820901,
+      "viewport": {
+        "northeast": {
+          "lat": 6.513411129892723,
+          "lng": 4.783439929892721
+        },
+        "southwest": {
+          "lat": 6.510711470107279,
+          "lng": 4.780740270107278
+        }
+      },
+      "formatted_address": "11 Lebi St, 350108, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5120613,4.7820901",
+      "google_place_id": "EiYxMSBMZWJpIFN0LCAzNTAxMDgsIE9raXRpcHVwYSwgTmlnZXJpYSIwEi4KFAoSCfG0RGDitjgQEZqiOhLtVufmEAsqFAoSCaf4c4ritjgQEcTcsUbPLdyZ"
+    }
+  },
+  {
+    "id": "347654",
+    "name": "IKOYA ROAD/BARACKS AREA",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "28/14/13/026",
+    "remark": "NEW PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.492709199999999,
+      "longitude": 4.7911005,
+      "viewport": {
+        "northeast": {
+          "lat": 6.494066579892722,
+          "lng": 4.792450329892722
+        },
+        "southwest": {
+          "lat": 6.491366920107278,
+          "lng": 4.789750670107278
+        }
+      },
+      "formatted_address": "FQVR+3CQ, Off Ikoya Road, Opposite Army Barrack, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.492709199999999,4.7911005",
+      "google_place_id": "ChIJlRCdFMC2OBAROqfgzIj9jb4"
+    }
+  },
+  {
+    "id": "347655",
+    "name": "OGUNDUBUJA HIGH SCHOOL",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "28/14/13/027",
+    "remark": "NEW PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.5035694,
+      "longitude": 4.7646979,
+      "viewport": {
+        "northeast": {
+          "lat": 6.504919229892722,
+          "lng": 4.766047729892721
+        },
+        "southwest": {
+          "lat": 6.502219570107278,
+          "lng": 4.763348070107277
+        }
+      },
+      "formatted_address": "Ogundubuja High School, 350105, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5035694,4.7646979",
+      "google_place_id": "ChIJvYW7R1e2OBARNbzF4e6q-1c"
+    }
+  },
+  {
+    "id": "347656",
+    "name": "ADEOYE STREET",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "28/14/13/028",
+    "remark": "NEW PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.4991857,
+      "longitude": 4.7671404,
+      "viewport": {
+        "northeast": {
+          "lat": 6.500535529892722,
+          "lng": 4.768490229892721
+        },
+        "southwest": {
+          "lat": 6.497835870107278,
+          "lng": 4.765790570107277
+        }
+      },
+      "formatted_address": "Adeoye St, 350108, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4991857,4.7671404",
+      "google_place_id": "ChIJuarWUVi2OBARx-RmKFGxK-0"
+    }
+  },
+  {
+    "id": "347657",
+    "name": "ST. JOHN'S RCM PRY SCH,OKITIPUPA",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "28/14/13/029",
+    "remark": "NEW PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.506564999999999,
+      "longitude": 4.7824483,
+      "viewport": {
+        "northeast": {
+          "lat": 6.507899629892721,
+          "lng": 4.783570879892722
+        },
+        "southwest": {
+          "lat": 6.505199970107277,
+          "lng": 4.780871220107278
+        }
+      },
+      "formatted_address": "GQ4J+JXG, 350108, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.506564999999999,4.7824483",
+      "google_place_id": "ChIJfSnfYOS2OBARD41HHWHw4ws"
+    }
+  },
+  {
+    "id": "347658",
+    "name": "EWI/AJEGUNLE/BALELAYO STREET",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "28/14/13/030",
+    "remark": "NEW PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.5024242,
+      "longitude": 4.7853826,
+      "viewport": {
+        "northeast": {
+          "lat": 6.503783279892723,
+          "lng": 4.786781579892722
+        },
+        "southwest": {
+          "lat": 6.501083620107279,
+          "lng": 4.784081920107278
+        }
+      },
+      "formatted_address": "local government, Ewi St, 350113, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5024242,4.7853826",
+      "google_place_id": "ChIJx8kbG-S3OBARfzsDnpXofQs"
+    }
+  },
+  {
+    "id": "347659",
+    "name": "EWI/AJEGUNLE/HALUBI",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "28/14/13/031",
+    "remark": "NEW PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.5024242,
+      "longitude": 4.7853826,
+      "viewport": {
+        "northeast": {
+          "lat": 6.503783279892723,
+          "lng": 4.786781579892722
+        },
+        "southwest": {
+          "lat": 6.501083620107279,
+          "lng": 4.784081920107278
+        }
+      },
+      "formatted_address": "local government, Ewi St, 350113, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5024242,4.7853826",
+      "google_place_id": "ChIJx8kbG-S3OBARfzsDnpXofQs"
+    }
+  },
+  {
+    "id": "347660",
+    "name": "KOLOFIN NEAR OKITIPUPA NEW MAIN MARKET",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "28/14/13/032",
+    "remark": "NEW PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.502481299999999,
+      "longitude": 4.7795149,
+      "viewport": {
+        "northeast": {
+          "lat": 6.503774029892721,
+          "lng": 4.780870629892721
+        },
+        "southwest": {
+          "lat": 6.501074370107277,
+          "lng": 4.778170970107277
+        }
+      },
+      "formatted_address": "No. 1 Marine Road, 350108, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.502481299999999,4.7795149",
+      "google_place_id": "ChIJ_____--2OBARda2vw8JDjkA"
+    }
+  },
+  {
+    "id": "347661",
+    "name": "DOCTOR'S ROAD",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "28/14/13/033",
+    "remark": "NEW PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.500623,
+      "longitude": 4.786506,
+      "viewport": {
+        "northeast": {
+          "lat": 6.501826179892723,
+          "lng": 4.787934129892723
+        },
+        "southwest": {
+          "lat": 6.499126520107279,
+          "lng": 4.785234470107279
+        }
+      },
+      "formatted_address": "GQ2P+6JR, 350108, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.500623,4.786506",
+      "google_place_id": "ChIJ7VtQ7ui2OBARp4GjvnGnz2k"
+    }
+  },
+  {
+    "id": "347662",
+    "name": "IRESEMI STREET AJAGBALE",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "28/14/13/034",
+    "remark": "NEW PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.5024242,
+      "longitude": 4.7853826,
+      "viewport": {
+        "northeast": {
+          "lat": 6.503783279892723,
+          "lng": 4.786781579892722
+        },
+        "southwest": {
+          "lat": 6.501083620107279,
+          "lng": 4.784081920107278
+        }
+      },
+      "formatted_address": "local government, Ewi St, 350113, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5024242,4.7853826",
+      "google_place_id": "ChIJx8kbG-S3OBARfzsDnpXofQs"
+    }
+  },
+  {
+    "id": "347663",
+    "name": "ABUSORO/AJAGBALE,IDEPE",
+    "registration_area_id": "17656",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "28/14/13/035",
+    "remark": "NEW PU",
+    "ward_id": "17656",
+    "ward_name": "OKITIPUPA 11",
+    "local_government_id": "595",
+    "local_government_name": "OKITIPUPA",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.5196342,
+      "longitude": 4.7759063,
+      "viewport": {
+        "northeast": {
+          "lat": 6.522046600000053,
+          "lng": 4.777066279892722
+        },
+        "southwest": {
+          "lat": 6.517142999999948,
+          "lng": 4.774366620107278
+        }
+      },
+      "formatted_address": "Abusoro St, 350108, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5196342,4.7759063",
+      "google_place_id": "EiZBYnVzb3JvIFN0LCAzNTAxMDgsIE9raXRpcHVwYSwgTmlnZXJpYSIuKiwKFAoSCck6PIoDtzgQEVmrK-Vr150nEhQKEgk14Uzzpck4EBF9SqNKEnjdqQ"
+    }
+  }
+]

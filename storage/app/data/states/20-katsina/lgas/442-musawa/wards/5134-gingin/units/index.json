@@ -1,0 +1,350 @@
+[
+  {
+    "id": "100911",
+    "name": "YARSANTA - DANDALI",
+    "registration_area_id": "5134",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/29/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5134",
+    "ward_name": "GINGIN",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.9287419,
+      "longitude": 7.4078126,
+      "viewport": {
+        "northeast": {
+          "lat": 11.93008847989272,
+          "lng": 7.409161279892722
+        },
+        "southwest": {
+          "lat": 11.92738882010728,
+          "lng": 7.406461620107279
+        }
+      },
+      "formatted_address": "WCH5+G47, 832102, Kankara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9287419,7.4078126",
+      "google_place_id": "ChIJ-1xzLU0gshERQgsHdhpuey4"
+    }
+  },
+  {
+    "id": "100912",
+    "name": "UNG. ZOMO - GIDAN ZOMO",
+    "registration_area_id": "5134",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/29/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5134",
+    "ward_name": "GINGIN",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100913",
+    "name": "SHANGALAWA DANDALI",
+    "registration_area_id": "5134",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/29/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5134",
+    "ward_name": "GINGIN",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100914",
+    "name": "UNG.YARO PRI.SCHOOL",
+    "registration_area_id": "5134",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/29/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5134",
+    "ward_name": "GINGIN",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.1068613,
+      "longitude": 7.7362384,
+      "viewport": {
+        "northeast": {
+          "lat": 12.10824552989272,
+          "lng": 7.737643379892722
+        },
+        "southwest": {
+          "lat": 12.10554587010728,
+          "lng": 7.734943720107278
+        }
+      },
+      "formatted_address": "4P4P+PFX, 833103, Kurkuyan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1068613,7.7362384",
+      "google_place_id": "ChIJM7k_cJ_9sRERVt7vB6lCuoE"
+    }
+  },
+  {
+    "id": "100915",
+    "name": "MANGAFI - PRI. SCHOOL",
+    "registration_area_id": "5134",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/29/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5134",
+    "ward_name": "GINGIN",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 43.5629906,
+      "longitude": -79.5789307,
+      "viewport": {
+        "northeast": {
+          "lat": 43.56426177989272,
+          "lng": -79.57752017010728
+        },
+        "southwest": {
+          "lat": 43.56156212010728,
+          "lng": -79.58021982989271
+        }
+      },
+      "formatted_address": "56 Cayuga Ave, Mississauga, ON L5G 3S9, Canada",
+      "google_map_url": "https://maps.google.com?q=43.5629906,-79.5789307",
+      "google_place_id": "ChIJozBoHj5GK4gRoGPH659gkKo"
+    }
+  },
+  {
+    "id": "100916",
+    "name": "UNG LIMAN PRI.SCHOOL",
+    "registration_area_id": "5134",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/29/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5134",
+    "ward_name": "GINGIN",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.1705117,
+      "longitude": 7.7726833,
+      "viewport": {
+        "northeast": {
+          "lat": 12.17186237989272,
+          "lng": 7.774031379892722
+        },
+        "southwest": {
+          "lat": 12.16916272010728,
+          "lng": 7.771331720107278
+        }
+      },
+      "formatted_address": "5QCF+633 Yashi Road, Malunfashi, 833103, Jikamshi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1705117,7.7726833",
+      "google_place_id": "ChIJ1ZcRo5fisRERG1wdU-k-wO0"
+    }
+  },
+  {
+    "id": "100917",
+    "name": "KATSIRO PRI.SCHOOL",
+    "registration_area_id": "5134",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/29/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5134",
+    "ward_name": "GINGIN",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.1705117,
+      "longitude": 7.7726833,
+      "viewport": {
+        "northeast": {
+          "lat": 12.17186237989272,
+          "lng": 7.774031379892722
+        },
+        "southwest": {
+          "lat": 12.16916272010728,
+          "lng": 7.771331720107278
+        }
+      },
+      "formatted_address": "5QCF+633 Yashi Road, Malunfashi, 833103, Jikamshi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1705117,7.7726833",
+      "google_place_id": "ChIJ1ZcRo5fisRERG1wdU-k-wO0"
+    }
+  },
+  {
+    "id": "100918",
+    "name": "UNG.SANI M/ROGO - K/GIDAN M/UNG",
+    "registration_area_id": "5134",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/29/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5134",
+    "ward_name": "GINGIN",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100919",
+    "name": "YARKIRIGI - PRI.SCHOOL",
+    "registration_area_id": "5134",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/29/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5134",
+    "ward_name": "GINGIN",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.1068613,
+      "longitude": 7.7362384,
+      "viewport": {
+        "northeast": {
+          "lat": 12.10824552989272,
+          "lng": 7.737643379892722
+        },
+        "southwest": {
+          "lat": 12.10554587010728,
+          "lng": 7.734943720107278
+        }
+      },
+      "formatted_address": "4P4P+PFX, 833103, Kurkuyan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1068613,7.7362384",
+      "google_place_id": "ChIJM7k_cJ_9sRERVt7vB6lCuoE"
+    }
+  },
+  {
+    "id": "100920",
+    "name": "YARSANTA DANDALI",
+    "registration_area_id": "5134",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/29/07/010",
+    "remark": "NEW PU",
+    "ward_id": "5134",
+    "ward_name": "GINGIN",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.9287419,
+      "longitude": 7.4078126,
+      "viewport": {
+        "northeast": {
+          "lat": 11.93008847989272,
+          "lng": 7.409161279892722
+        },
+        "southwest": {
+          "lat": 11.92738882010728,
+          "lng": 7.406461620107279
+        }
+      },
+      "formatted_address": "WCH5+G47, 832102, Kankara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9287419,7.4078126",
+      "google_place_id": "ChIJ-1xzLU0gshERQgsHdhpuey4"
+    }
+  },
+  {
+    "id": "100921",
+    "name": "MANGAFI PRI SCH",
+    "registration_area_id": "5134",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/29/07/011",
+    "remark": "NEW PU",
+    "ward_id": "5134",
+    "ward_name": "GINGIN",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7826637,
+      "longitude": 9.0102415,
+      "viewport": {
+        "northeast": {
+          "lat": 12.78390467989272,
+          "lng": 9.0110527
+        },
+        "southwest": {
+          "lat": 12.78120502010728,
+          "lng": 9.007807899999998
+        }
+      },
+      "formatted_address": "Q2M6+339, 732104, Jigawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7826637,9.0102415",
+      "google_place_id": "ChIJ85bEJ4clrxERSbG5x-NTYDA"
+    }
+  },
+  {
+    "id": "100922",
+    "name": "MANGAFI PRI. SCH.MANGAFI",
+    "registration_area_id": "5134",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "20/29/07/012",
+    "remark": "NEW PU",
+    "ward_id": "5134",
+    "ward_name": "GINGIN",
+    "local_government_id": "442",
+    "local_government_name": "MUSAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7826637,
+      "longitude": 9.0102415,
+      "viewport": {
+        "northeast": {
+          "lat": 12.78390467989272,
+          "lng": 9.0110527
+        },
+        "southwest": {
+          "lat": 12.78120502010728,
+          "lng": 9.007807899999998
+        }
+      },
+      "formatted_address": "Q2M6+339, 732104, Jigawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7826637,9.0102415",
+      "google_place_id": "ChIJ85bEJ4clrxERSbG5x-NTYDA"
+    }
+  }
+]

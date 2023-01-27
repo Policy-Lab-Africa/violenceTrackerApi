@@ -1,0 +1,334 @@
+[
+  {
+    "id": "333537",
+    "name": "UNGWAR HAUSAWA - OP",
+    "registration_area_id": "16930",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "25/09/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "16930",
+    "ward_name": "UDENIN",
+    "local_government_id": "771",
+    "local_government_name": "NASARAWA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 10.6682678,
+      "longitude": 8.543949399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.67277,
+          "lng": 8.549843899999999
+        },
+        "southwest": {
+          "lat": 10.6671459,
+          "lng": 8.54168
+        }
+      },
+      "formatted_address": "801167, Unguwar Nasarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6682678,8.543949399999999",
+      "google_place_id": "ChIJNZ7fw2jXrBERgeweioZ-B24"
+    }
+  },
+  {
+    "id": "333538",
+    "name": "OKPANU",
+    "registration_area_id": "16930",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "25/09/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "16930",
+    "ward_name": "UDENIN",
+    "local_government_id": "771",
+    "local_government_name": "NASARAWA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.565628199999999,
+      "longitude": 7.7171729,
+      "viewport": {
+        "northeast": {
+          "lat": 8.566955829892722,
+          "lng": 7.718412179892721
+        },
+        "southwest": {
+          "lat": 8.564256170107278,
+          "lng": 7.715712520107277
+        }
+      },
+      "formatted_address": "HP88+7V3, 962101, Kama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.565628199999999,7.7171729",
+      "google_place_id": "ChIJpXdP_hIpThARRJGwHVc9nu0"
+    }
+  },
+  {
+    "id": "333539",
+    "name": "AMBU",
+    "registration_area_id": "16930",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "25/09/03/003",
+    "remark": "EXISTING PU",
+    "ward_id": "16930",
+    "ward_name": "UDENIN",
+    "local_government_id": "771",
+    "local_government_name": "NASARAWA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 9.0856192,
+      "longitude": 7.471731900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.086963879892721,
+          "lng": 7.473086029892722
+        },
+        "southwest": {
+          "lat": 9.084264220107277,
+          "lng": 7.470386370107279
+        }
+      },
+      "formatted_address": "762 Aminu Kano Cres, Wuse 2 904101, Abuja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0856192,7.471731900000001",
+      "google_place_id": "ChIJC7iqnXQLThAR2cgnuF5X3Zk"
+    }
+  },
+  {
+    "id": "333540",
+    "name": "IMINYI - OP",
+    "registration_area_id": "16930",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "25/09/03/004",
+    "remark": "EXISTING PU",
+    "ward_id": "16930",
+    "ward_name": "UDENIN",
+    "local_government_id": "771",
+    "local_government_name": "NASARAWA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "333541",
+    "name": "AGATU - OP",
+    "registration_area_id": "16930",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "25/09/03/005",
+    "remark": "EXISTING PU",
+    "ward_id": "16930",
+    "ward_name": "UDENIN",
+    "local_government_id": "771",
+    "local_government_name": "NASARAWA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "333542",
+    "name": "AGBADU/AKPATA-OP",
+    "registration_area_id": "16930",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "25/09/03/006",
+    "remark": "EXISTING PU",
+    "ward_id": "16930",
+    "ward_name": "UDENIN",
+    "local_government_id": "771",
+    "local_government_name": "NASARAWA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "333543",
+    "name": "KWANDARA - OP",
+    "registration_area_id": "16930",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "25/09/03/007",
+    "remark": "EXISTING PU",
+    "ward_id": "16930",
+    "ward_name": "UDENIN",
+    "local_government_id": "771",
+    "local_government_name": "NASARAWA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.565628199999999,
+      "longitude": 7.7171729,
+      "viewport": {
+        "northeast": {
+          "lat": 8.566955829892722,
+          "lng": 7.718412179892721
+        },
+        "southwest": {
+          "lat": 8.564256170107278,
+          "lng": 7.715712520107277
+        }
+      },
+      "formatted_address": "HP88+7V3, 962101, Kama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.565628199999999,7.7171729",
+      "google_place_id": "ChIJpXdP_hIpThARRJGwHVc9nu0"
+    }
+  },
+  {
+    "id": "333544",
+    "name": "OGENI",
+    "registration_area_id": "16930",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "25/09/03/008",
+    "remark": "EXISTING PU",
+    "ward_id": "16930",
+    "ward_name": "UDENIN",
+    "local_government_id": "771",
+    "local_government_name": "NASARAWA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.5275842,
+      "longitude": 7.752535200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.6084363,
+          "lng": 7.8347794
+        },
+        "southwest": {
+          "lat": 8.4618273,
+          "lng": 7.6888441
+        }
+      },
+      "formatted_address": "Nasarawa North, 962101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5275842,7.752535200000001",
+      "google_place_id": "ChIJJzG5o7UpThARLX3xTu5PDak"
+    }
+  },
+  {
+    "id": "333545",
+    "name": "OLEGOGWALE",
+    "registration_area_id": "16930",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "25/09/03/009",
+    "remark": "EXISTING PU",
+    "ward_id": "16930",
+    "ward_name": "UDENIN",
+    "local_government_id": "771",
+    "local_government_name": "NASARAWA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.565628199999999,
+      "longitude": 7.7171729,
+      "viewport": {
+        "northeast": {
+          "lat": 8.566955829892722,
+          "lng": 7.718412179892721
+        },
+        "southwest": {
+          "lat": 8.564256170107278,
+          "lng": 7.715712520107277
+        }
+      },
+      "formatted_address": "HP88+7V3, 962101, Kama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.565628199999999,7.7171729",
+      "google_place_id": "ChIJpXdP_hIpThARRJGwHVc9nu0"
+    }
+  },
+  {
+    "id": "333546",
+    "name": "KABAWA/ADIKWU",
+    "registration_area_id": "16930",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "25/09/03/010",
+    "remark": "EXISTING PU",
+    "ward_id": "16930",
+    "ward_name": "UDENIN",
+    "local_government_id": "771",
+    "local_government_name": "NASARAWA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 9.0017459,
+      "longitude": 7.6385935,
+      "viewport": {
+        "northeast": {
+          "lat": 9.003114529892722,
+          "lng": 7.639942179892723
+        },
+        "southwest": {
+          "lat": 9.000414870107278,
+          "lng": 7.637242520107279
+        }
+      },
+      "formatted_address": "2J2Q+PCG, Alafia Oluwa Baptist Church, along Karu market, junction, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0017459,7.6385935",
+      "google_place_id": "ChIJxfgOM8cFThARFaLvvn70gio"
+    }
+  },
+  {
+    "id": "333547",
+    "name": "OGENI II",
+    "registration_area_id": "16930",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "25/09/03/011",
+    "remark": "NEW PU",
+    "ward_id": "16930",
+    "ward_name": "UDENIN",
+    "local_government_id": "771",
+    "local_government_name": "NASARAWA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8471213,
+      "longitude": 7.8776023,
+      "viewport": {
+        "northeast": {
+          "lat": 8.848300629892721,
+          "lng": 7.879032079892722
+        },
+        "southwest": {
+          "lat": 8.845600970107277,
+          "lng": 7.876332420107278
+        }
+      },
+      "formatted_address": "NASARAWA STATE UNIVERSITY, 911019, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8471213,7.8776023",
+      "google_place_id": "ChIJeyBwSijkURARPVbSxse_J90"
+    }
+  },
+  {
+    "id": "333548",
+    "name": "ANG. ALABA PLAY GROUND",
+    "registration_area_id": "16930",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "25/09/03/012",
+    "remark": "NEW PU",
+    "ward_id": "16930",
+    "ward_name": "UDENIN",
+    "local_government_id": "771",
+    "local_government_name": "NASARAWA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  }
+]

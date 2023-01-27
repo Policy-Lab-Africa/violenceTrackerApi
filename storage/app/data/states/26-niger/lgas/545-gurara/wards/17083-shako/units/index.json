@@ -1,0 +1,283 @@
+[
+  {
+    "id": "336365",
+    "name": "GUNI PRIMARY SCHOOL",
+    "registration_area_id": "17083",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/09/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17083",
+    "ward_name": "SHAKO",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.188789600000002,
+      "longitude": 7.1782486,
+      "viewport": {
+        "northeast": {
+          "lat": 9.190139429892724,
+          "lng": 7.179598429892722
+        },
+        "southwest": {
+          "lat": 9.18743977010728,
+          "lng": 7.176898770107278
+        }
+      },
+      "formatted_address": "Along, Minna Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.188789600000002,7.1782486",
+      "google_place_id": "ChIJ1ZIlPyHVTRARzIxbDu2MQ58"
+    }
+  },
+  {
+    "id": "336366",
+    "name": "IKUMI PRIMARY SCHOOL",
+    "registration_area_id": "17083",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/09/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17083",
+    "ward_name": "SHAKO",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2531625,
+      "longitude": 7.0092282,
+      "viewport": {
+        "northeast": {
+          "lat": 9.25467552989272,
+          "lng": 7.010302879892721
+        },
+        "southwest": {
+          "lat": 9.251975870107277,
+          "lng": 7.007603220107277
+        }
+      },
+      "formatted_address": "6FX97235+7MQ, Ikumi, 905102, Izom, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2531625,7.0092282",
+      "google_place_id": "ChIJRaNBbfstTBARr7pTCRGaSEI"
+    }
+  },
+  {
+    "id": "336367",
+    "name": "SHAKO PRIMARY SCHOOL  I",
+    "registration_area_id": "17083",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/09/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17083",
+    "ward_name": "SHAKO",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.391695799999999,
+      "longitude": 7.0736259,
+      "viewport": {
+        "northeast": {
+          "lat": 9.393026879892723,
+          "lng": 7.074981729892722
+        },
+        "southwest": {
+          "lat": 9.39032722010728,
+          "lng": 7.072282070107279
+        }
+      },
+      "formatted_address": "93RF+MFC, 910102, Burum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.391695799999999,7.0736259",
+      "google_place_id": "ChIJ3_jdMaI0TBARUrC9GV_UkVY"
+    }
+  },
+  {
+    "id": "336368",
+    "name": "SHAKO PRIMARY SCHOOL  II",
+    "registration_area_id": "17083",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/09/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17083",
+    "ward_name": "SHAKO",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.391695799999999,
+      "longitude": 7.0736259,
+      "viewport": {
+        "northeast": {
+          "lat": 9.393026879892723,
+          "lng": 7.074981729892722
+        },
+        "southwest": {
+          "lat": 9.39032722010728,
+          "lng": 7.072282070107279
+        }
+      },
+      "formatted_address": "93RF+MFC, 910102, Burum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.391695799999999,7.0736259",
+      "google_place_id": "ChIJ3_jdMaI0TBARUrC9GV_UkVY"
+    }
+  },
+  {
+    "id": "336369",
+    "name": "SEJI VILLAGE",
+    "registration_area_id": "17083",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/09/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17083",
+    "ward_name": "SHAKO",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336370",
+    "name": "DODNA PRIMARY SCHOOL",
+    "registration_area_id": "17083",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/09/09/006",
+    "remark": "NEW PU",
+    "ward_id": "17083",
+    "ward_name": "SHAKO",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.4818081,
+      "longitude": 7.198799299999998,
+      "viewport": {
+        "northeast": {
+          "lat": 9.483323179892723,
+          "lng": 7.200727779892722
+        },
+        "southwest": {
+          "lat": 9.48062352010728,
+          "lng": 7.198028120107278
+        }
+      },
+      "formatted_address": "6FX9F5JX+PF9, Dodna, 910102, Baani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4818081,7.198799299999998",
+      "google_place_id": "ChIJXyZeIYC3TRARsZtmz8i7rYU"
+    }
+  },
+  {
+    "id": "336371",
+    "name": "LAKA MADAKI PRIMARY SCH",
+    "registration_area_id": "17083",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/09/09/007",
+    "remark": "NEW PU",
+    "ward_id": "17083",
+    "ward_name": "SHAKO",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3418238,
+      "longitude": 7.0498442,
+      "viewport": {
+        "northeast": {
+          "lat": 9.342762279892723,
+          "lng": 7.051698950000002
+        },
+        "southwest": {
+          "lat": 9.340062620107279,
+          "lng": 7.04427995
+        }
+      },
+      "formatted_address": "82RX+PWH, Gurara,off bida road minna, Buru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3418238,7.0498442",
+      "google_place_id": "ChIJC_OK6qkzTBARXu7CLjVNem8"
+    }
+  },
+  {
+    "id": "336372",
+    "name": "SHAKO PRIMARY SCHOOL",
+    "registration_area_id": "17083",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/09/09/008",
+    "remark": "NEW PU",
+    "ward_id": "17083",
+    "ward_name": "SHAKO",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.391695799999999,
+      "longitude": 7.0736259,
+      "viewport": {
+        "northeast": {
+          "lat": 9.393026879892723,
+          "lng": 7.074981729892722
+        },
+        "southwest": {
+          "lat": 9.39032722010728,
+          "lng": 7.072282070107279
+        }
+      },
+      "formatted_address": "93RF+MFC, 910102, Burum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.391695799999999,7.0736259",
+      "google_place_id": "ChIJ3_jdMaI0TBARUrC9GV_UkVY"
+    }
+  },
+  {
+    "id": "336373",
+    "name": "ANG KORO",
+    "registration_area_id": "17083",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "26/09/09/009",
+    "remark": "NEW PU",
+    "ward_id": "17083",
+    "ward_name": "SHAKO",
+    "local_government_id": "545",
+    "local_government_name": "GURARA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.314765999999999,
+      "longitude": 7.020080399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.316108779892723,
+          "lng": 7.021420979892722
+        },
+        "southwest": {
+          "lat": 9.313409120107279,
+          "lng": 7.018721320107278
+        }
+      },
+      "formatted_address": "Gawu-Kafin-Adunu-Beni Rd, 911101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.314765999999999,7.020080399999999",
+      "google_place_id": "ChIJkXTV9GMxTBARPCaJqsgpjGs"
+    }
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "id": "56949",
+    "name": "C.P.S. ADOKPE I",
+    "registration_area_id": "3078",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "14/08/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3078",
+    "ward_name": "ETTE 11",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.9835975,
+      "longitude": 7.4565347,
+      "viewport": {
+        "northeast": {
+          "lat": 6.984878179892722,
+          "lng": 7.457847229892722
+        },
+        "southwest": {
+          "lat": 6.982178520107278,
+          "lng": 7.455147570107278
+        }
+      },
+      "formatted_address": "XFM4+CHF, Ogurute to Igogoro Road,, Enugu-ezike, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9835975,7.4565347",
+      "google_place_id": "ChIJ9YcJ8DbeRBARTJY0Q3maNio"
+    }
+  },
+  {
+    "id": "56950",
+    "name": "C.P.S. ADOKPE II",
+    "registration_area_id": "3078",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "14/08/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3078",
+    "ward_name": "ETTE 11",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": null
+  },
+  {
+    "id": "56951",
+    "name": "C.P.S. ETTE-UNO I",
+    "registration_area_id": "3078",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "14/08/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3078",
+    "ward_name": "ETTE 11",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": null
+  },
+  {
+    "id": "56952",
+    "name": "C.P.S. OGADOR",
+    "registration_area_id": "3078",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "14/08/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3078",
+    "ward_name": "ETTE 11",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 7.079266199999999,
+      "longitude": 7.4675001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.080545429892722,
+          "lng": 7.468741479892721
+        },
+        "southwest": {
+          "lat": 7.077845770107278,
+          "lng": 7.466041820107277
+        }
+      },
+      "formatted_address": "3FH9+P22, 413104, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.079266199999999,7.4675001",
+      "google_place_id": "ChIJmUUSrrMhRRARac97Pm_EP8g"
+    }
+  },
+  {
+    "id": "56953",
+    "name": "C.P.S. UMUISHI I",
+    "registration_area_id": "3078",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "14/08/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3078",
+    "ward_name": "ETTE 11",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": null
+  },
+  {
+    "id": "56954",
+    "name": "IKPOMABE UMUISHI HALL",
+    "registration_area_id": "3078",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "14/08/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3078",
+    "ward_name": "ETTE 11",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 7.0663081,
+      "longitude": 7.4475654,
+      "viewport": {
+        "northeast": {
+          "lat": 7.06780822989272,
+          "lng": 7.448949979892722
+        },
+        "southwest": {
+          "lat": 7.065108570107276,
+          "lng": 7.446250320107278
+        }
+      },
+      "formatted_address": "Nsuka, 413105, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0663081,7.4475654",
+      "google_place_id": "ChIJY_ZQjS8gRRARpcHVQcZkjhQ"
+    }
+  },
+  {
+    "id": "56955",
+    "name": "C.P.S. OGILI AMA",
+    "registration_area_id": "3078",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "14/08/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3078",
+    "ward_name": "ETTE 11",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": null
+  },
+  {
+    "id": "56956",
+    "name": "C.P.S. UMUASANYA",
+    "registration_area_id": "3078",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "14/08/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3078",
+    "ward_name": "ETTE 11",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 7.0663081,
+      "longitude": 7.4475654,
+      "viewport": {
+        "northeast": {
+          "lat": 7.06780822989272,
+          "lng": 7.448949979892722
+        },
+        "southwest": {
+          "lat": 7.065108570107276,
+          "lng": 7.446250320107278
+        }
+      },
+      "formatted_address": "Nsuka, 413105, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0663081,7.4475654",
+      "google_place_id": "ChIJY_ZQjS8gRRARpcHVQcZkjhQ"
+    }
+  },
+  {
+    "id": "56957",
+    "name": "C.P.S.UMUISHI II",
+    "registration_area_id": "3078",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "14/08/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3078",
+    "ward_name": "ETTE 11",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": null
+  },
+  {
+    "id": "56958",
+    "name": "C.P.S. OGO AYISHI",
+    "registration_area_id": "3078",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "14/08/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3078",
+    "ward_name": "ETTE 11",
+    "local_government_id": "266",
+    "local_government_name": "IGBO EZE NORTH",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": null
+  }
+]

@@ -1,0 +1,982 @@
+[
+  {
+    "id": "31805",
+    "name": "GALDIMARE PRI. SCH.  I",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/05/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6132257,
+      "longitude": 12.1890236,
+      "viewport": {
+        "northeast": {
+          "lat": 10.61481357989272,
+          "lng": 12.19037437989272
+        },
+        "southwest": {
+          "lat": 10.61211392010728,
+          "lng": 12.18767472010728
+        }
+      },
+      "formatted_address": "Galdimare Kenken ward, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6132257,12.1890236",
+      "google_place_id": "ChIJL2mOIzQbAhERdiK1Q8XANa4"
+    }
+  },
+  {
+    "id": "31806",
+    "name": "GALDIMARE PRI. SCH.  II",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/05/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6132257,
+      "longitude": 12.1890236,
+      "viewport": {
+        "northeast": {
+          "lat": 10.61481357989272,
+          "lng": 12.19037437989272
+        },
+        "southwest": {
+          "lat": 10.61211392010728,
+          "lng": 12.18767472010728
+        }
+      },
+      "formatted_address": "Galdimare Kenken ward, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6132257,12.1890236",
+      "google_place_id": "ChIJL2mOIzQbAhERdiK1Q8XANa4"
+    }
+  },
+  {
+    "id": "31807",
+    "name": "GAMJI PRI. SCH.",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/05/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6130087,
+      "longitude": 12.1888255,
+      "viewport": {
+        "northeast": {
+          "lat": 10.61429932989272,
+          "lng": 12.19048637989272
+        },
+        "southwest": {
+          "lat": 10.61159967010728,
+          "lng": 12.18778672010728
+        }
+      },
+      "formatted_address": "Gamji Primary School, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6130087,12.1888255",
+      "google_place_id": "ChIJ7RsQy6MbAhERDhLwnOewCco"
+    }
+  },
+  {
+    "id": "31808",
+    "name": "AJIYA GARGA GATE",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/05/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31809",
+    "name": "SANITATION OFFICE",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/05/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7321637,
+      "longitude": 11.958846,
+      "viewport": {
+        "northeast": {
+          "lat": 11.73351352989272,
+          "lng": 11.96019582989272
+        },
+        "southwest": {
+          "lat": 11.73081387010728,
+          "lng": 11.95749617010728
+        }
+      },
+      "formatted_address": "PXJ5+VG9, Biu - Gujba Road, 620101, Damaturu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7321637,11.958846",
+      "google_place_id": "ChIJeVSKK0ZTARERlGMvKIp_zQU"
+    }
+  },
+  {
+    "id": "31810",
+    "name": "MALLAM GAURAKI GATE",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/05/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6072553,
+      "longitude": 12.1935258,
+      "viewport": {
+        "northeast": {
+          "lat": 10.60860302989272,
+          "lng": 12.19487407989272
+        },
+        "southwest": {
+          "lat": 10.60590337010728,
+          "lng": 12.19217442010728
+        }
+      },
+      "formatted_address": "Gombe - Biu Rd, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6072553,12.1935258",
+      "google_place_id": "ChIJxWr3EIQbAhERHoeMs6CW6Rg"
+    }
+  },
+  {
+    "id": "31811",
+    "name": "YAHAYA BARBER GATE I",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/05/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31812",
+    "name": "KAPINTA WANDALI GATE",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "08/05/06/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31813",
+    "name": "M.D LAWAN GATE I",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "08/05/06/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6071008,
+      "longitude": 12.2033808,
+      "viewport": {
+        "northeast": {
+          "lat": 10.60844767989272,
+          "lng": 12.20471197989272
+        },
+        "southwest": {
+          "lat": 10.60574802010728,
+          "lng": 12.20201232010728
+        }
+      },
+      "formatted_address": "J643+M89, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6071008,12.2033808",
+      "google_place_id": "ChIJF4tWUGcbAhER7hFyCOOCHyc"
+    }
+  },
+  {
+    "id": "31814",
+    "name": "NASARAWA BULAMA GATE",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "08/05/06/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6153758,
+      "longitude": 12.1734113,
+      "viewport": {
+        "northeast": {
+          "lat": 10.61672917989272,
+          "lng": 12.17474942989272
+        },
+        "southwest": {
+          "lat": 10.61402952010728,
+          "lng": 12.17204977010728
+        }
+      },
+      "formatted_address": "J58F+49W, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6153758,12.1734113",
+      "google_place_id": "ChIJfzdXnhQbAhERJ7zloMyArOQ"
+    }
+  },
+  {
+    "id": "31815",
+    "name": "JUGWAL BULAMA GATE I",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "08/05/06/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6072553,
+      "longitude": 12.1935258,
+      "viewport": {
+        "northeast": {
+          "lat": 10.60860302989272,
+          "lng": 12.19487407989272
+        },
+        "southwest": {
+          "lat": 10.60590337010728,
+          "lng": 12.19217442010728
+        }
+      },
+      "formatted_address": "Gombe - Biu Rd, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6072553,12.1935258",
+      "google_place_id": "ChIJxWr3EIQbAhERHoeMs6CW6Rg"
+    }
+  },
+  {
+    "id": "31816",
+    "name": "JUGAL BULAMA GATE II",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "08/05/06/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31817",
+    "name": "KAMPALA  I",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "08/05/06/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 0.1651171,
+      "longitude": 32.5431909,
+      "viewport": {
+        "northeast": {
+          "lat": 0.1664739298927222,
+          "lng": 32.54457142989272
+        },
+        "southwest": {
+          "lat": 0.1637742701072778,
+          "lng": 32.54187177010728
+        }
+      },
+      "formatted_address": "5G8V+27W, Kampala - Entebbe Rd, Kampala, Uganda",
+      "google_map_url": "https://maps.google.com?q=0.1651171,32.5431909",
+      "google_place_id": "ChIJWZosKf6RfRcRsWCd1PlmHhA"
+    }
+  },
+  {
+    "id": "31818",
+    "name": "KAMPALA  II",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "08/05/06/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 0.1651171,
+      "longitude": 32.5431909,
+      "viewport": {
+        "northeast": {
+          "lat": 0.1664739298927222,
+          "lng": 32.54457142989272
+        },
+        "southwest": {
+          "lat": 0.1637742701072778,
+          "lng": 32.54187177010728
+        }
+      },
+      "formatted_address": "5G8V+27W, Kampala - Entebbe Rd, Kampala, Uganda",
+      "google_map_url": "https://maps.google.com?q=0.1651171,32.5431909",
+      "google_place_id": "ChIJWZosKf6RfRcRsWCd1PlmHhA"
+    }
+  },
+  {
+    "id": "31819",
+    "name": "OLD GAMJI PRI. SCH. I",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "08/05/06/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6132257,
+      "longitude": 12.1890236,
+      "viewport": {
+        "northeast": {
+          "lat": 10.61481357989272,
+          "lng": 12.19037437989272
+        },
+        "southwest": {
+          "lat": 10.61211392010728,
+          "lng": 12.18767472010728
+        }
+      },
+      "formatted_address": "Galdimare Kenken ward, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6132257,12.1890236",
+      "google_place_id": "ChIJL2mOIzQbAhERdiK1Q8XANa4"
+    }
+  },
+  {
+    "id": "31820",
+    "name": "GALDIMARE ALH. YAMTA",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "08/05/06/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6072553,
+      "longitude": 12.1935258,
+      "viewport": {
+        "northeast": {
+          "lat": 10.60860302989272,
+          "lng": 12.19487407989272
+        },
+        "southwest": {
+          "lat": 10.60590337010728,
+          "lng": 12.19217442010728
+        }
+      },
+      "formatted_address": "Gombe - Biu Rd, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6072553,12.1935258",
+      "google_place_id": "ChIJxWr3EIQbAhERHoeMs6CW6Rg"
+    }
+  },
+  {
+    "id": "31821",
+    "name": "GALDIMARE  BULAMA GATE  I",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "08/05/06/017",
+    "remark": "EXISTING PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6072553,
+      "longitude": 12.1935258,
+      "viewport": {
+        "northeast": {
+          "lat": 10.60860302989272,
+          "lng": 12.19487407989272
+        },
+        "southwest": {
+          "lat": 10.60590337010728,
+          "lng": 12.19217442010728
+        }
+      },
+      "formatted_address": "Gombe - Biu Rd, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6072553,12.1935258",
+      "google_place_id": "ChIJxWr3EIQbAhERHoeMs6CW6Rg"
+    }
+  },
+  {
+    "id": "31822",
+    "name": "GALDIMARE MUAZU I",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "08/05/06/018",
+    "remark": "EXISTING PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6072553,
+      "longitude": 12.1935258,
+      "viewport": {
+        "northeast": {
+          "lat": 10.60860302989272,
+          "lng": 12.19487407989272
+        },
+        "southwest": {
+          "lat": 10.60590337010728,
+          "lng": 12.19217442010728
+        }
+      },
+      "formatted_address": "Gombe - Biu Rd, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6072553,12.1935258",
+      "google_place_id": "ChIJxWr3EIQbAhERHoeMs6CW6Rg"
+    }
+  },
+  {
+    "id": "31823",
+    "name": "GALDIMARE BULAMA GATE  II",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "08/05/06/019",
+    "remark": "EXISTING PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31824",
+    "name": "GALDIMARE PRIMARY SCHOOL  III",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "08/05/06/020",
+    "remark": "NEW PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6132257,
+      "longitude": 12.1890236,
+      "viewport": {
+        "northeast": {
+          "lat": 10.61481357989272,
+          "lng": 12.19037437989272
+        },
+        "southwest": {
+          "lat": 10.61211392010728,
+          "lng": 12.18767472010728
+        }
+      },
+      "formatted_address": "Galdimare Kenken ward, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6132257,12.1890236",
+      "google_place_id": "ChIJL2mOIzQbAhERdiK1Q8XANa4"
+    }
+  },
+  {
+    "id": "31825",
+    "name": "GALDIMARE PRIMARY SCHOOL  IV",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "08/05/06/021",
+    "remark": "NEW PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6132257,
+      "longitude": 12.1890236,
+      "viewport": {
+        "northeast": {
+          "lat": 10.61481357989272,
+          "lng": 12.19037437989272
+        },
+        "southwest": {
+          "lat": 10.61211392010728,
+          "lng": 12.18767472010728
+        }
+      },
+      "formatted_address": "Galdimare Kenken ward, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6132257,12.1890236",
+      "google_place_id": "ChIJL2mOIzQbAhERdiK1Q8XANa4"
+    }
+  },
+  {
+    "id": "31826",
+    "name": "GALDIMARE PRIMARY SCHOOL  V",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "08/05/06/022",
+    "remark": "NEW PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.613401,
+      "longitude": 12.1896447,
+      "viewport": {
+        "northeast": {
+          "lat": 10.61463912989272,
+          "lng": 12.19107987989272
+        },
+        "southwest": {
+          "lat": 10.61193947010728,
+          "lng": 12.18838022010728
+        }
+      },
+      "formatted_address": "J57Q+9V6, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.613401,12.1896447",
+      "google_place_id": "ChIJ8dcWhuobAhERtPr_9scS8UU"
+    }
+  },
+  {
+    "id": "31827",
+    "name": "YAHAYA BARBER GATE II",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "08/05/06/023",
+    "remark": "NEW PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31828",
+    "name": "COUNCILLORS QUARTERS",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "08/05/06/024",
+    "remark": "NEW PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8469059,
+      "longitude": 13.1582888,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84842852989272,
+          "lng": 13.15958092989272
+        },
+        "southwest": {
+          "lat": 11.84572887010728,
+          "lng": 13.15688127010728
+        }
+      },
+      "formatted_address": "Shehuri 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8469059,13.1582888",
+      "google_place_id": "ChIJFSU-A0yfBBERKQdyPQo4AQo"
+    }
+  },
+  {
+    "id": "31829",
+    "name": "M.D  LAWAN GATE II",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "08/05/06/025",
+    "remark": "NEW PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31830",
+    "name": "NASARAWA MODEL PRIMARY SCHOOL",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "08/05/06/026",
+    "remark": "NEW PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6176435,
+      "longitude": 12.1980972,
+      "viewport": {
+        "northeast": {
+          "lat": 10.61899952989272,
+          "lng": 12.19969627989272
+        },
+        "southwest": {
+          "lat": 10.61629987010728,
+          "lng": 12.19699662010728
+        }
+      },
+      "formatted_address": "J59X+365, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6176435,12.1980972",
+      "google_place_id": "ChIJ53sKL8AbAhERoFn5bIwEZlM"
+    }
+  },
+  {
+    "id": "31831",
+    "name": "ROAD SAFETY OFFICE",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "08/05/06/027",
+    "remark": "NEW PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7022829,
+      "longitude": 11.9494997,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70377747989272,
+          "lng": 11.95041842989272
+        },
+        "southwest": {
+          "lat": 11.70107782010728,
+          "lng": 11.94771877010728
+        }
+      },
+      "formatted_address": "PW2X+WR6, 620101, Damaturu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7022829,11.9494997",
+      "google_place_id": "ChIJUUUYrhNRARERI7_XD076Zho"
+    }
+  },
+  {
+    "id": "31832",
+    "name": "KOFAN MALLAM ALI AGOGO",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "08/05/06/028",
+    "remark": "NEW PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31833",
+    "name": "KOFAN BALA TANGA",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "08/05/06/029",
+    "remark": "NEW PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31834",
+    "name": "GINDIN TSAMIYA",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "08/05/06/030",
+    "remark": "NEW PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31835",
+    "name": "KOFAN HASSAN HURSHUNG",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "08/05/06/031",
+    "remark": "NEW PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31836",
+    "name": "BEHIND STADIUM",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "08/05/06/032",
+    "remark": "NEW PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31837",
+    "name": "YIMIRPILASAR",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "08/05/06/033",
+    "remark": "NEW PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "31838",
+    "name": "OLD GAMJI PRI. SCHOOL II",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "08/05/06/034",
+    "remark": "NEW PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6132257,
+      "longitude": 12.1890236,
+      "viewport": {
+        "northeast": {
+          "lat": 10.61481357989272,
+          "lng": 12.19037437989272
+        },
+        "southwest": {
+          "lat": 10.61211392010728,
+          "lng": 12.18767472010728
+        }
+      },
+      "formatted_address": "Galdimare Kenken ward, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6132257,12.1890236",
+      "google_place_id": "ChIJL2mOIzQbAhERdiK1Q8XANa4"
+    }
+  },
+  {
+    "id": "31839",
+    "name": "GALDIMARE ALH. YAMTA  II",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "08/05/06/035",
+    "remark": "NEW PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6072553,
+      "longitude": 12.1935258,
+      "viewport": {
+        "northeast": {
+          "lat": 10.60860302989272,
+          "lng": 12.19487407989272
+        },
+        "southwest": {
+          "lat": 10.60590337010728,
+          "lng": 12.19217442010728
+        }
+      },
+      "formatted_address": "Gombe - Biu Rd, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6072553,12.1935258",
+      "google_place_id": "ChIJxWr3EIQbAhERHoeMs6CW6Rg"
+    }
+  },
+  {
+    "id": "31840",
+    "name": "GALDIMARE MUAZU  II",
+    "registration_area_id": "1711",
+    "precise_location": null,
+    "abbreviation": "036",
+    "units": "036",
+    "delimitation": "08/05/06/036",
+    "remark": "NEW PU",
+    "ward_id": "1711",
+    "ward_name": "KENKEN",
+    "local_government_id": "146",
+    "local_government_name": "BIU",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6072553,
+      "longitude": 12.1935258,
+      "viewport": {
+        "northeast": {
+          "lat": 10.60860302989272,
+          "lng": 12.19487407989272
+        },
+        "southwest": {
+          "lat": 10.60590337010728,
+          "lng": 12.19217442010728
+        }
+      },
+      "formatted_address": "Gombe - Biu Rd, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6072553,12.1935258",
+      "google_place_id": "ChIJxWr3EIQbAhERHoeMs6CW6Rg"
+    }
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "id": "332821",
+    "name": "KANA",
+    "registration_area_id": "16905",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "25/07/02/001",
+    "remark": "EXISTING PU",
+    "ward_id": "16905",
+    "ward_name": "KOYA  / KANA",
+    "local_government_id": "532",
+    "local_government_name": "KOKONA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.5680996,
+      "longitude": 7.904820000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.612995699999999,
+          "lng": 7.9569856
+        },
+        "southwest": {
+          "lat": 8.518385199999999,
+          "lng": 7.864463000000001
+        }
+      },
+      "formatted_address": "Koya / Kana, 962101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5680996,7.904820000000001",
+      "google_place_id": "ChIJjQcX0YjQURARLTIFBY6k8JQ"
+    }
+  },
+  {
+    "id": "332822",
+    "name": "SHATA",
+    "registration_area_id": "16905",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "25/07/02/002",
+    "remark": "EXISTING PU",
+    "ward_id": "16905",
+    "ward_name": "KOYA  / KANA",
+    "local_government_id": "532",
+    "local_government_name": "KOKONA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8380639,
+      "longitude": 8.0465185,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1630282,
+          "lng": 8.2582462
+        },
+        "southwest": {
+          "lat": 8.5411732,
+          "lng": 7.810768500000001
+        }
+      },
+      "formatted_address": "Kokona, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8380639,8.0465185",
+      "google_place_id": "ChIJgyPCILvuURARgaTS5aJvqmA"
+    }
+  },
+  {
+    "id": "332823",
+    "name": "ESSA/BISA",
+    "registration_area_id": "16905",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "25/07/02/003",
+    "remark": "EXISTING PU",
+    "ward_id": "16905",
+    "ward_name": "KOYA  / KANA",
+    "local_government_id": "532",
+    "local_government_name": "KOKONA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8380639,
+      "longitude": 8.0465185,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1630282,
+          "lng": 8.2582462
+        },
+        "southwest": {
+          "lat": 8.5411732,
+          "lng": 7.810768500000001
+        }
+      },
+      "formatted_address": "Kokona, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8380639,8.0465185",
+      "google_place_id": "ChIJgyPCILvuURARgaTS5aJvqmA"
+    }
+  },
+  {
+    "id": "332824",
+    "name": "ASAYI",
+    "registration_area_id": "16905",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "25/07/02/004",
+    "remark": "EXISTING PU",
+    "ward_id": "16905",
+    "ward_name": "KOYA  / KANA",
+    "local_government_id": "532",
+    "local_government_name": "KOKONA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8380639,
+      "longitude": 8.0465185,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1630282,
+          "lng": 8.2582462
+        },
+        "southwest": {
+          "lat": 8.5411732,
+          "lng": 7.810768500000001
+        }
+      },
+      "formatted_address": "Kokona, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8380639,8.0465185",
+      "google_place_id": "ChIJgyPCILvuURARgaTS5aJvqmA"
+    }
+  },
+  {
+    "id": "332825",
+    "name": "OKEPA",
+    "registration_area_id": "16905",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "25/07/02/005",
+    "remark": "EXISTING PU",
+    "ward_id": "16905",
+    "ward_name": "KOYA  / KANA",
+    "local_government_id": "532",
+    "local_government_name": "KOKONA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.7738702,
+      "longitude": 7.981084500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.8410175,
+          "lng": 8.1254672
+        },
+        "southwest": {
+          "lat": 8.7134948,
+          "lng": 7.887156999999999
+        }
+      },
+      "formatted_address": "Kokona, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7738702,7.981084500000001",
+      "google_place_id": "ChIJIUcqQ7TpURARgNtvMAt9ndc"
+    }
+  },
+  {
+    "id": "332826",
+    "name": "APAWU / KWARA",
+    "registration_area_id": "16905",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "25/07/02/006",
+    "remark": "EXISTING PU",
+    "ward_id": "16905",
+    "ward_name": "KOYA  / KANA",
+    "local_government_id": "532",
+    "local_government_name": "KOKONA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8380639,
+      "longitude": 8.0465185,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1630282,
+          "lng": 8.2582462
+        },
+        "southwest": {
+          "lat": 8.5411732,
+          "lng": 7.810768500000001
+        }
+      },
+      "formatted_address": "Kokona, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8380639,8.0465185",
+      "google_place_id": "ChIJgyPCILvuURARgaTS5aJvqmA"
+    }
+  },
+  {
+    "id": "332827",
+    "name": "AGBOWA",
+    "registration_area_id": "16905",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "25/07/02/007",
+    "remark": "EXISTING PU",
+    "ward_id": "16905",
+    "ward_name": "KOYA  / KANA",
+    "local_government_id": "532",
+    "local_government_name": "KOKONA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.7738702,
+      "longitude": 7.981084500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.8410175,
+          "lng": 8.1254672
+        },
+        "southwest": {
+          "lat": 8.7134948,
+          "lng": 7.887156999999999
+        }
+      },
+      "formatted_address": "Kokona, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7738702,7.981084500000001",
+      "google_place_id": "ChIJIUcqQ7TpURARgNtvMAt9ndc"
+    }
+  },
+  {
+    "id": "332828",
+    "name": "ONUGBA",
+    "registration_area_id": "16905",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "25/07/02/008",
+    "remark": "EXISTING PU",
+    "ward_id": "16905",
+    "ward_name": "KOYA  / KANA",
+    "local_government_id": "532",
+    "local_government_name": "KOKONA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8380639,
+      "longitude": 8.0465185,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1630282,
+          "lng": 8.2582462
+        },
+        "southwest": {
+          "lat": 8.5411732,
+          "lng": 7.810768500000001
+        }
+      },
+      "formatted_address": "Kokona, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8380639,8.0465185",
+      "google_place_id": "ChIJgyPCILvuURARgaTS5aJvqmA"
+    }
+  },
+  {
+    "id": "332829",
+    "name": "OZOKU/EGBE",
+    "registration_area_id": "16905",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "25/07/02/009",
+    "remark": "EXISTING PU",
+    "ward_id": "16905",
+    "ward_name": "KOYA  / KANA",
+    "local_government_id": "532",
+    "local_government_name": "KOKONA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8524938,
+      "longitude": 8.136394899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.853914529892721,
+          "lng": 8.137681429892721
+        },
+        "southwest": {
+          "lat": 8.851214870107277,
+          "lng": 8.134981770107277
+        }
+      },
+      "formatted_address": "V42P+XHR, Keffi-Akwanga Rd, Along 961102, Garaku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8524938,8.136394899999999",
+      "google_place_id": "ChIJg9XTgUyTURARSvzHzw2BokE"
+    }
+  },
+  {
+    "id": "332830",
+    "name": "KOLU IDETE",
+    "registration_area_id": "16905",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "25/07/02/010",
+    "remark": "EXISTING PU",
+    "ward_id": "16905",
+    "ward_name": "KOYA  / KANA",
+    "local_government_id": "532",
+    "local_government_name": "KOKONA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8524938,
+      "longitude": 8.136394899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.853914529892721,
+          "lng": 8.137681429892721
+        },
+        "southwest": {
+          "lat": 8.851214870107277,
+          "lng": 8.134981770107277
+        }
+      },
+      "formatted_address": "V42P+XHR, Keffi-Akwanga Rd, Along 961102, Garaku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8524938,8.136394899999999",
+      "google_place_id": "ChIJg9XTgUyTURARSvzHzw2BokE"
+    }
+  },
+  {
+    "id": "332831",
+    "name": "ORIKI",
+    "registration_area_id": "16905",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "25/07/02/011",
+    "remark": "EXISTING PU",
+    "ward_id": "16905",
+    "ward_name": "KOYA  / KANA",
+    "local_government_id": "532",
+    "local_government_name": "KOKONA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8380639,
+      "longitude": 8.0465185,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1630282,
+          "lng": 8.2582462
+        },
+        "southwest": {
+          "lat": 8.5411732,
+          "lng": 7.810768500000001
+        }
+      },
+      "formatted_address": "Kokona, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8380639,8.0465185",
+      "google_place_id": "ChIJgyPCILvuURARgaTS5aJvqmA"
+    }
+  },
+  {
+    "id": "332832",
+    "name": "AGBOLO",
+    "registration_area_id": "16905",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "25/07/02/012",
+    "remark": "EXISTING PU",
+    "ward_id": "16905",
+    "ward_name": "KOYA  / KANA",
+    "local_government_id": "532",
+    "local_government_name": "KOKONA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8380639,
+      "longitude": 8.0465185,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1630282,
+          "lng": 8.2582462
+        },
+        "southwest": {
+          "lat": 8.5411732,
+          "lng": 7.810768500000001
+        }
+      },
+      "formatted_address": "Kokona, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8380639,8.0465185",
+      "google_place_id": "ChIJgyPCILvuURARgaTS5aJvqmA"
+    }
+  },
+  {
+    "id": "332833",
+    "name": "ERIGO",
+    "registration_area_id": "16905",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "25/07/02/013",
+    "remark": "EXISTING PU",
+    "ward_id": "16905",
+    "ward_name": "KOYA  / KANA",
+    "local_government_id": "532",
+    "local_government_name": "KOKONA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8524938,
+      "longitude": 8.136394899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.853914529892721,
+          "lng": 8.137681429892721
+        },
+        "southwest": {
+          "lat": 8.851214870107277,
+          "lng": 8.134981770107277
+        }
+      },
+      "formatted_address": "V42P+XHR, Keffi-Akwanga Rd, Along 961102, Garaku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8524938,8.136394899999999",
+      "google_place_id": "ChIJg9XTgUyTURARSvzHzw2BokE"
+    }
+  },
+  {
+    "id": "332834",
+    "name": "OKEPA KADU",
+    "registration_area_id": "16905",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "25/07/02/014",
+    "remark": "NEW PU",
+    "ward_id": "16905",
+    "ward_name": "KOYA  / KANA",
+    "local_government_id": "532",
+    "local_government_name": "KOKONA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8524938,
+      "longitude": 8.136394899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.853914529892721,
+          "lng": 8.137681429892721
+        },
+        "southwest": {
+          "lat": 8.851214870107277,
+          "lng": 8.134981770107277
+        }
+      },
+      "formatted_address": "V42P+XHR, Keffi-Akwanga Rd, Along 961102, Garaku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8524938,8.136394899999999",
+      "google_place_id": "ChIJg9XTgUyTURARSvzHzw2BokE"
+    }
+  },
+  {
+    "id": "332835",
+    "name": "EGBE",
+    "registration_area_id": "16905",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "25/07/02/015",
+    "remark": "NEW PU",
+    "ward_id": "16905",
+    "ward_name": "KOYA  / KANA",
+    "local_government_id": "532",
+    "local_government_name": "KOKONA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8380639,
+      "longitude": 8.0465185,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1630282,
+          "lng": 8.2582462
+        },
+        "southwest": {
+          "lat": 8.5411732,
+          "lng": 7.810768500000001
+        }
+      },
+      "formatted_address": "Kokona, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8380639,8.0465185",
+      "google_place_id": "ChIJgyPCILvuURARgaTS5aJvqmA"
+    }
+  }
+]

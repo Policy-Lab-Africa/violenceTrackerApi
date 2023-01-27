@@ -1,0 +1,2124 @@
+[
+  {
+    "id": "33227",
+    "name": "ALHAJIRI I",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/13/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8239625,
+      "longitude": 13.0718633,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82536912989272,
+          "lng": 13.07340372989272
+        },
+        "southwest": {
+          "lat": 11.82266947010728,
+          "lng": 13.07070407010728
+        }
+      },
+      "formatted_address": "Maiduguri-Potiskum Road, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8239625,13.0718633",
+      "google_place_id": "ChIJ8QDUYCWcBBERBFiczqBVFjU"
+    }
+  },
+  {
+    "id": "33228",
+    "name": "ALHAJIRI II",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/13/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.85785,
+      "longitude": 13.20808,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85920032989272,
+          "lng": 13.20942972989272
+        },
+        "southwest": {
+          "lat": 11.85650067010728,
+          "lng": 13.20673007010728
+        }
+      },
+      "formatted_address": "KACHAMAI CLOSE TO GIDIN TAKI JERE LGA BORNO STATE#, Jere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.85785,13.20808",
+      "google_place_id": "ChIJU7QHLQqjBBERY9ibNmLTx5c"
+    }
+  },
+  {
+    "id": "33229",
+    "name": "MODU GAMBO I",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/13/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.824115,
+      "longitude": 13.1271838,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82547457989272,
+          "lng": 13.12851077989272
+        },
+        "southwest": {
+          "lat": 11.82277492010728,
+          "lng": 13.12581112010728
+        }
+      },
+      "formatted_address": "R4FG+JVP, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.824115,13.1271838",
+      "google_place_id": "ChIJrbzFfOKeBBERg44aeQwC3qA"
+    }
+  },
+  {
+    "id": "33230",
+    "name": "MODU GAMBO II",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/13/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8263085,
+      "longitude": 13.1351716,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82764742989272,
+          "lng": 13.13648527989272
+        },
+        "southwest": {
+          "lat": 11.82494777010728,
+          "lng": 13.13378562010728
+        }
+      },
+      "formatted_address": "R4GP+G3Q, Moduganari bypass, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8263085,13.1351716",
+      "google_place_id": "ChIJ8bk5YBmfBBERUdKX2MVw5Xk"
+    }
+  },
+  {
+    "id": "33231",
+    "name": "GONI GINGIMI I",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/13/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8470382,
+      "longitude": 13.149646,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84812472989272,
+          "lng": 13.15109947989272
+        },
+        "southwest": {
+          "lat": 11.84542507010728,
+          "lng": 13.14839982010728
+        }
+      },
+      "formatted_address": "R4WX+RV6, Mafoni 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8470382,13.149646",
+      "google_place_id": "ChIJ4Z5fCeWfBBER-fjLvDtxohY"
+    }
+  },
+  {
+    "id": "33232",
+    "name": "GONI GINGIMI II",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/13/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8470382,
+      "longitude": 13.149646,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84812472989272,
+          "lng": 13.15109947989272
+        },
+        "southwest": {
+          "lat": 11.84542507010728,
+          "lng": 13.14839982010728
+        }
+      },
+      "formatted_address": "R4WX+RV6, Mafoni 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8470382,13.149646",
+      "google_place_id": "ChIJ4Z5fCeWfBBER-fjLvDtxohY"
+    }
+  },
+  {
+    "id": "33233",
+    "name": "MUSTAFA ALI GAJI",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/13/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33234",
+    "name": "BULAMA MUSTAPHA KIME",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "08/13/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33235",
+    "name": "MELE KOLO",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "08/13/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33236",
+    "name": "ALHAJI GAGARA",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "08/13/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33237",
+    "name": "MAINA KYARI",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "08/13/07/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33238",
+    "name": "GONI MODU GOFARI",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "08/13/07/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8530207,
+      "longitude": 13.1451898,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85435412989272,
+          "lng": 13.14651212989272
+        },
+        "southwest": {
+          "lat": 11.85165447010728,
+          "lng": 13.14381247010728
+        }
+      },
+      "formatted_address": "V43W+638, Kashim Ibrahim Rd, Mafoni 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8530207,13.1451898",
+      "google_place_id": "ChIJ26T4QGWfBBERDIc7_1SHo2s"
+    }
+  },
+  {
+    "id": "33239",
+    "name": "BULAMA KACHALLA I",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "08/13/07/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
+  },
+  {
+    "id": "33240",
+    "name": "BULAMA KACHALLA II",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "08/13/07/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
+  },
+  {
+    "id": "33241",
+    "name": "BULAMA TAHIR",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "08/13/07/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
+  },
+  {
+    "id": "33242",
+    "name": "CUSTOM STAFF QTRS",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "08/13/07/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.804831,
+      "longitude": 13.1499328,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80624722989272,
+          "lng": 13.15128227989272
+        },
+        "southwest": {
+          "lat": 11.80354757010728,
+          "lng": 13.14858262010728
+        }
+      },
+      "formatted_address": "First line, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.804831,13.1499328",
+      "google_place_id": "ChIJR3vNw6GfBBERLlGhJN3J40M"
+    }
+  },
+  {
+    "id": "33243",
+    "name": "SANDA KYARIMI",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "08/13/07/017",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8465706,
+      "longitude": 13.174215,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84797917989272,
+          "lng": 13.17585097989272
+        },
+        "southwest": {
+          "lat": 11.84527952010728,
+          "lng": 13.17315132010728
+        }
+      },
+      "formatted_address": "Sanda Kyarimi Primary School, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8465706,13.174215",
+      "google_place_id": "ChIJCey-_f2hBBERC0r6TYo65iI"
+    }
+  },
+  {
+    "id": "33244",
+    "name": "BUKAR SOJA I",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "08/13/07/018",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33245",
+    "name": "BUKAR SOJA II",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "08/13/07/019",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33246",
+    "name": "BUKAR SOJA  III",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "08/13/07/020",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33247",
+    "name": "BUKAR BULAMA",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "08/13/07/021",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33248",
+    "name": "GUJJA",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "08/13/07/022",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33249",
+    "name": "ABBA LAWAN",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "08/13/07/023",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8089459,
+      "longitude": 13.1371811,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81028187989272,
+          "lng": 13.13855962989272
+        },
+        "southwest": {
+          "lat": 11.80758222010728,
+          "lng": 13.13585997010728
+        }
+      },
+      "formatted_address": "DAMBOA ROAD#, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8089459,13.1371811",
+      "google_place_id": "ChIJ7V9uXwWfBBER3GsXtVUcfyg"
+    }
+  },
+  {
+    "id": "33250",
+    "name": "LAWAN MALA BIUKAR",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "08/13/07/024",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8600021,
+      "longitude": 13.2092789,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86138367989272,
+          "lng": 13.21062137989272
+        },
+        "southwest": {
+          "lat": 11.85868402010728,
+          "lng": 13.20792172010728
+        }
+      },
+      "formatted_address": "Opposite college of agric, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8600021,13.2092789",
+      "google_place_id": "ChIJE1kVji-iBBERfSNkfmuDf0I"
+    }
+  },
+  {
+    "id": "33251",
+    "name": "ZANNA MUSA",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "08/13/07/025",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8367261,
+      "longitude": 13.1440425,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83807527989272,
+          "lng": 13.14538577989272
+        },
+        "southwest": {
+          "lat": 11.83537562010728,
+          "lng": 13.14268612010728
+        }
+      },
+      "formatted_address": "600282, Maiduguri&nbsp, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8367261,13.1440425",
+      "google_place_id": "ChIJtfkJOjyfBBER4k-rRzAvI4Y"
+    }
+  },
+  {
+    "id": "33252",
+    "name": "MASHAMARI PRI.SCH",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "08/13/07/026",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8488647,
+      "longitude": 13.1884542,
+      "viewport": {
+        "northeast": {
+          "lat": 11.8639307,
+          "lng": 13.2141282
+        },
+        "southwest": {
+          "lat": 11.8339318,
+          "lng": 13.1729901
+        }
+      },
+      "formatted_address": "Mashamari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8488647,13.1884542",
+      "google_place_id": "ChIJeYTlrfWhBBER5mZ7EoY_jpY"
+    }
+  },
+  {
+    "id": "33253",
+    "name": "ALHAJI ADAM",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "08/13/07/027",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.85785,
+      "longitude": 13.20808,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85920032989272,
+          "lng": 13.20942972989272
+        },
+        "southwest": {
+          "lat": 11.85650067010728,
+          "lng": 13.20673007010728
+        }
+      },
+      "formatted_address": "KACHAMAI CLOSE TO GIDIN TAKI JERE LGA BORNO STATE#, Jere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.85785,13.20808",
+      "google_place_id": "ChIJU7QHLQqjBBERY9ibNmLTx5c"
+    }
+  },
+  {
+    "id": "33254",
+    "name": "BULAMA BUKAR M.",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "08/13/07/028",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
+  },
+  {
+    "id": "33255",
+    "name": "DANDAL KUKAWA",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "08/13/07/029",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8099092,
+      "longitude": 13.1511322,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81129837989272,
+          "lng": 13.15236442989272
+        },
+        "southwest": {
+          "lat": 11.80859872010728,
+          "lng": 13.14966477010728
+        }
+      },
+      "formatted_address": "MB dalhatu House no40 polo road, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8099092,13.1511322",
+      "google_place_id": "ChIJk28y-MufBBERuCAvsJerXEk"
+    }
+  },
+  {
+    "id": "33256",
+    "name": "BLOCK 6",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "08/13/07/030",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33257",
+    "name": "BULAMA HALLA",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "08/13/07/031",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
+  },
+  {
+    "id": "33258",
+    "name": "GONI MODU BULAMA",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "08/13/07/032",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8530207,
+      "longitude": 13.1451898,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85435412989272,
+          "lng": 13.14651212989272
+        },
+        "southwest": {
+          "lat": 11.85165447010728,
+          "lng": 13.14381247010728
+        }
+      },
+      "formatted_address": "V43W+638, Kashim Ibrahim Rd, Mafoni 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8530207,13.1451898",
+      "google_place_id": "ChIJ26T4QGWfBBERDIc7_1SHo2s"
+    }
+  },
+  {
+    "id": "33259",
+    "name": "ALHAJI MAIKIFI",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "08/13/07/033",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8488647,
+      "longitude": 13.1884542,
+      "viewport": {
+        "northeast": {
+          "lat": 11.8639307,
+          "lng": 13.2141282
+        },
+        "southwest": {
+          "lat": 11.8339318,
+          "lng": 13.1729901
+        }
+      },
+      "formatted_address": "Mashamari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8488647,13.1884542",
+      "google_place_id": "ChIJeYTlrfWhBBER5mZ7EoY_jpY"
+    }
+  },
+  {
+    "id": "33260",
+    "name": "ALHAJI BULAMA BURTU I",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "08/13/07/034",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
+  },
+  {
+    "id": "33261",
+    "name": "BULAMA BURTU II",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "08/13/07/035",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
+  },
+  {
+    "id": "33262",
+    "name": "BULAMA GUBDO",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "036",
+    "units": "036",
+    "delimitation": "08/13/07/036",
+    "remark": "EXISTING PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
+  },
+  {
+    "id": "33263",
+    "name": "BULAKARIMA GATE",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "037",
+    "units": "037",
+    "delimitation": "08/13/07/037",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.804831,
+      "longitude": 13.1499328,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80624722989272,
+          "lng": 13.15128227989272
+        },
+        "southwest": {
+          "lat": 11.80354757010728,
+          "lng": 13.14858262010728
+        }
+      },
+      "formatted_address": "First line, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.804831,13.1499328",
+      "google_place_id": "ChIJR3vNw6GfBBERLlGhJN3J40M"
+    }
+  },
+  {
+    "id": "33264",
+    "name": "FANNAMI NGURU",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "038",
+    "units": "038",
+    "delimitation": "08/13/07/038",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.804831,
+      "longitude": 13.1499328,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80624722989272,
+          "lng": 13.15128227989272
+        },
+        "southwest": {
+          "lat": 11.80354757010728,
+          "lng": 13.14858262010728
+        }
+      },
+      "formatted_address": "First line, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.804831,13.1499328",
+      "google_place_id": "ChIJR3vNw6GfBBERLlGhJN3J40M"
+    }
+  },
+  {
+    "id": "33265",
+    "name": "ALHAJI MODU SUNOMA",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "039",
+    "units": "039",
+    "delimitation": "08/13/07/039",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8263085,
+      "longitude": 13.1351716,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82764742989272,
+          "lng": 13.13648527989272
+        },
+        "southwest": {
+          "lat": 11.82494777010728,
+          "lng": 13.13378562010728
+        }
+      },
+      "formatted_address": "R4GP+G3Q, Moduganari bypass, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8263085,13.1351716",
+      "google_place_id": "ChIJ8bk5YBmfBBERUdKX2MVw5Xk"
+    }
+  },
+  {
+    "id": "33266",
+    "name": "MALLAM USMAN ABDULAHI",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "040",
+    "units": "040",
+    "delimitation": "08/13/07/040",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8367261,
+      "longitude": 13.1440425,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83807527989272,
+          "lng": 13.14538577989272
+        },
+        "southwest": {
+          "lat": 11.83537562010728,
+          "lng": 13.14268612010728
+        }
+      },
+      "formatted_address": "600282, Maiduguri&nbsp, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8367261,13.1440425",
+      "google_place_id": "ChIJtfkJOjyfBBER4k-rRzAvI4Y"
+    }
+  },
+  {
+    "id": "33267",
+    "name": "MAL. LAWAN",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "041",
+    "units": "041",
+    "delimitation": "08/13/07/041",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8600021,
+      "longitude": 13.2092789,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86138367989272,
+          "lng": 13.21062137989272
+        },
+        "southwest": {
+          "lat": 11.85868402010728,
+          "lng": 13.20792172010728
+        }
+      },
+      "formatted_address": "Opposite college of agric, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8600021,13.2092789",
+      "google_place_id": "ChIJE1kVji-iBBERfSNkfmuDf0I"
+    }
+  },
+  {
+    "id": "33268",
+    "name": "ABDULKARIM ABDULLAHI",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "042",
+    "units": "042",
+    "delimitation": "08/13/07/042",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33269",
+    "name": "GONI IDRIS",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "043",
+    "units": "043",
+    "delimitation": "08/13/07/043",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8471544,
+      "longitude": 13.1853358,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84847552989272,
+          "lng": 13.18670207989272
+        },
+        "southwest": {
+          "lat": 11.84577587010728,
+          "lng": 13.18400242010728
+        }
+      },
+      "formatted_address": "MASHAMARI WARD JERE KWANAN YOBE STREET MAIDUGURI, #BORNO STATE, Jere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8471544,13.1853358",
+      "google_place_id": "ChIJs4mH4V2hBBERRgC71cOroDk"
+    }
+  },
+  {
+    "id": "33270",
+    "name": "MASHAMARI PRIMARY HEALTH CARE",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "044",
+    "units": "044",
+    "delimitation": "08/13/07/044",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8277391,
+      "longitude": 13.1677116,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82937177989272,
+          "lng": 13.16916662989272
+        },
+        "southwest": {
+          "lat": 11.82667212010728,
+          "lng": 13.16646697010728
+        }
+      },
+      "formatted_address": "R5H9+33W, Gwange 600211, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277391,13.1677116",
+      "google_place_id": "ChIJZ6TjgxCfBBER33IXZNnNTRw"
+    }
+  },
+  {
+    "id": "33271",
+    "name": "ALHAJI DALA BAMA",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "045",
+    "units": "045",
+    "delimitation": "08/13/07/045",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8413159,
+      "longitude": 13.174957,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85659860000005,
+          "lng": 13.17861415
+        },
+        "southwest": {
+          "lat": 11.82610659999995,
+          "lng": 13.17095195
+        }
+      },
+      "formatted_address": "Bama - Maiduguri Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8413159,13.174957",
+      "google_place_id": "EhxCYW1hIC0gTWFpZHVndXJpIFJkLCBOaWdlcmlhIi4qLAoUChIJUcnkuZyxHBERLP0fd3LD8BASFAoSCXmE5a31oQQREeZmexKGP46W"
+    }
+  },
+  {
+    "id": "33272",
+    "name": "BABA KURA IMAM",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "046",
+    "units": "046",
+    "delimitation": "08/13/07/046",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.904817,
+      "longitude": 13.096822,
+      "viewport": {
+        "northeast": {
+          "lat": 11.90614997989272,
+          "lng": 13.09814507989272
+        },
+        "southwest": {
+          "lat": 11.90345032010728,
+          "lng": 13.09544542010728
+        }
+      },
+      "formatted_address": "39 Monguno - Dikwa Rd, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.904817,13.096822",
+      "google_place_id": "ChIJx7FpuBOZBBERS9YvUErYnqI"
+    }
+  },
+  {
+    "id": "33273",
+    "name": "KALE KIME",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "047",
+    "units": "047",
+    "delimitation": "08/13/07/047",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33274",
+    "name": "SAYINNA MALLAM KACHALLAH",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "048",
+    "units": "048",
+    "delimitation": "08/13/07/048",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33275",
+    "name": "UMAR WADE WADE",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "049",
+    "units": "049",
+    "delimitation": "08/13/07/049",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33276",
+    "name": "UMAR GUJJA TOM",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "050",
+    "units": "050",
+    "delimitation": "08/13/07/050",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33277",
+    "name": "HASHIMU BORE HOLE",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "051",
+    "units": "051",
+    "delimitation": "08/13/07/051",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33278",
+    "name": "BABA MANGA",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "052",
+    "units": "052",
+    "delimitation": "08/13/07/052",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8256506,
+      "longitude": 13.1195587,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82699592989272,
+          "lng": 13.12094117989272
+        },
+        "southwest": {
+          "lat": 11.82429627010728,
+          "lng": 13.11824152010728
+        }
+      },
+      "formatted_address": "R4G9+7V7, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8256506,13.1195587",
+      "google_place_id": "ChIJsVz_WYyfBBER1gpEwAff8oQ"
+    }
+  },
+  {
+    "id": "33279",
+    "name": "SANDA KYARIMI DAY SEC. S. SCHOOL",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "053",
+    "units": "053",
+    "delimitation": "08/13/07/053",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8466595,
+      "longitude": 13.1743606,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84819522989272,
+          "lng": 13.17566737989272
+        },
+        "southwest": {
+          "lat": 11.84549557010728,
+          "lng": 13.17296772010728
+        }
+      },
+      "formatted_address": "R5WF+MP9, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8466595,13.1743606",
+      "google_place_id": "ChIJGQMN_v2hBBERf2CLnk12Dds"
+    }
+  },
+  {
+    "id": "33280",
+    "name": "BULAMA LAMINU",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "054",
+    "units": "054",
+    "delimitation": "08/13/07/054",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
+  },
+  {
+    "id": "33281",
+    "name": "SHOKARI PRIMARY SCHOOL II",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "055",
+    "units": "055",
+    "delimitation": "08/13/07/055",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8569608,
+      "longitude": 13.184155,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85806562989272,
+          "lng": 13.18560467989272
+        },
+        "southwest": {
+          "lat": 11.85536597010728,
+          "lng": 13.18290502010728
+        }
+      },
+      "formatted_address": "V54M+QMJ, Bama - Maiduguri Rd, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8569608,13.184155",
+      "google_place_id": "ChIJgUOPXQOiBBERMTg1bawPqBA"
+    }
+  },
+  {
+    "id": "33282",
+    "name": "GONI BUKAR",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "056",
+    "units": "056",
+    "delimitation": "08/13/07/056",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8958,
+      "longitude": 13.0989,
+      "viewport": {
+        "northeast": {
+          "lat": 11.89665657989272,
+          "lng": 13.10062677989272
+        },
+        "southwest": {
+          "lat": 11.89395692010728,
+          "lng": 13.09792712010728
+        }
+      },
+      "formatted_address": "NGOMARI OLD AIRPORT, JERE LOCAL GOVERNMENT, BORNO #STATE, Jere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8958,13.0989",
+      "google_place_id": "ChIJ6STuTWCZBBER-lt1dL3OgXE"
+    }
+  },
+  {
+    "id": "33283",
+    "name": "BOLADE SALEH",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "057",
+    "units": "057",
+    "delimitation": "08/13/07/057",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.85785,
+      "longitude": 13.20808,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85920032989272,
+          "lng": 13.20942972989272
+        },
+        "southwest": {
+          "lat": 11.85650067010728,
+          "lng": 13.20673007010728
+        }
+      },
+      "formatted_address": "KACHAMAI CLOSE TO GIDIN TAKI JERE LGA BORNO STATE#, Jere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.85785,13.20808",
+      "google_place_id": "ChIJU7QHLQqjBBERY9ibNmLTx5c"
+    }
+  },
+  {
+    "id": "33284",
+    "name": "CAPTAIN ALKALI YUNUS",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "058",
+    "units": "058",
+    "delimitation": "08/13/07/058",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.831161,
+      "longitude": 13.1509903,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83258607989272,
+          "lng": 13.15233272989272
+        },
+        "southwest": {
+          "lat": 11.82988642010728,
+          "lng": 13.14963307010728
+        }
+      },
+      "formatted_address": "Kashim Ibrahim College Of Education, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.831161,13.1509903",
+      "google_place_id": "ChIJvf4hpxifBBERT4O1O2aupMw"
+    }
+  },
+  {
+    "id": "33285",
+    "name": "MUNTARI MAMMAN",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "059",
+    "units": "059",
+    "delimitation": "08/13/07/059",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.804831,
+      "longitude": 13.1499328,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80624722989272,
+          "lng": 13.15128227989272
+        },
+        "southwest": {
+          "lat": 11.80354757010728,
+          "lng": 13.14858262010728
+        }
+      },
+      "formatted_address": "First line, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.804831,13.1499328",
+      "google_place_id": "ChIJR3vNw6GfBBERLlGhJN3J40M"
+    }
+  },
+  {
+    "id": "33286",
+    "name": "ZAKARIYA YAFANNE GATE",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "060",
+    "units": "060",
+    "delimitation": "08/13/07/060",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8544906,
+      "longitude": 13.1950181,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85584797989272,
+          "lng": 13.19636592989272
+        },
+        "southwest": {
+          "lat": 11.85314832010728,
+          "lng": 13.19366627010728
+        }
+      },
+      "formatted_address": "Ruwan Zafi Street, 611104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8544906,13.1950181",
+      "google_place_id": "ChIJr4unXEOjBBERLN80Y-61gBE"
+    }
+  },
+  {
+    "id": "33287",
+    "name": "BULAMA BUKAR MALLUM",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "061",
+    "units": "061",
+    "delimitation": "08/13/07/061",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33288",
+    "name": "MUSTAPHA WALARE",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "062",
+    "units": "062",
+    "delimitation": "08/13/07/062",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8263085,
+      "longitude": 13.1351716,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82764742989272,
+          "lng": 13.13648527989272
+        },
+        "southwest": {
+          "lat": 11.82494777010728,
+          "lng": 13.13378562010728
+        }
+      },
+      "formatted_address": "R4GP+G3Q, Moduganari bypass, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8263085,13.1351716",
+      "google_place_id": "ChIJ8bk5YBmfBBERUdKX2MVw5Xk"
+    }
+  },
+  {
+    "id": "33289",
+    "name": "JIDDA MUSA",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "063",
+    "units": "063",
+    "delimitation": "08/13/07/063",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8531843,
+      "longitude": 13.173429,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85457967989272,
+          "lng": 13.17472017989272
+        },
+        "southwest": {
+          "lat": 11.85188002010728,
+          "lng": 13.17202052010728
+        }
+      },
+      "formatted_address": "V53F+79F, Gamboru 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8531843,13.173429",
+      "google_place_id": "ChIJqcNIpaqYBBER0wKuEcpGW8M"
+    }
+  },
+  {
+    "id": "33290",
+    "name": "JIBRIL YUNUS",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "064",
+    "units": "064",
+    "delimitation": "08/13/07/064",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.85785,
+      "longitude": 13.20808,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85920032989272,
+          "lng": 13.20942972989272
+        },
+        "southwest": {
+          "lat": 11.85650067010728,
+          "lng": 13.20673007010728
+        }
+      },
+      "formatted_address": "KACHAMAI CLOSE TO GIDIN TAKI JERE LGA BORNO STATE#, Jere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.85785,13.20808",
+      "google_place_id": "ChIJU7QHLQqjBBERY9ibNmLTx5c"
+    }
+  },
+  {
+    "id": "33291",
+    "name": "SIR KASHIM GARDEN",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "065",
+    "units": "065",
+    "delimitation": "08/13/07/065",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8366946,
+      "longitude": 13.1228685,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83803442989272,
+          "lng": 13.12405037989272
+        },
+        "southwest": {
+          "lat": 11.83533477010728,
+          "lng": 13.12135072010728
+        }
+      },
+      "formatted_address": "ibrahimj college of education, opposite kashim, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8366946,13.1228685",
+      "google_place_id": "ChIJSTpANCSzBhERlfUQrsPXiiQ"
+    }
+  },
+  {
+    "id": "33292",
+    "name": "MALLAM IBTAHIM KOTOKO",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "066",
+    "units": "066",
+    "delimitation": "08/13/07/066",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33293",
+    "name": "CHEST CLINIC",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "067",
+    "units": "067",
+    "delimitation": "08/13/07/067",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8388602,
+      "longitude": 13.1547756,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84012892989272,
+          "lng": 13.15615527989272
+        },
+        "southwest": {
+          "lat": 11.83742927010728,
+          "lng": 13.15345562010728
+        }
+      },
+      "formatted_address": "Barno, Hausari 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8388602,13.1547756",
+      "google_place_id": "ChIJqcrOhTifBBERk-SU9p5IWj0"
+    }
+  },
+  {
+    "id": "33294",
+    "name": "BULAMA ISA",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "068",
+    "units": "068",
+    "delimitation": "08/13/07/068",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8229302,
+      "longitude": 13.1546374,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82428002989272,
+          "lng": 13.15598722989272
+        },
+        "southwest": {
+          "lat": 11.82158037010728,
+          "lng": 13.15328757010728
+        }
+      },
+      "formatted_address": "R5F3+5VC, Magaram Road, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8229302,13.1546374",
+      "google_place_id": "ChIJDSg_3_ufBBER4dnmfhE2uUU"
+    }
+  },
+  {
+    "id": "33295",
+    "name": "JIDDA ABUWA",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "069",
+    "units": "069",
+    "delimitation": "08/13/07/069",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8491159,
+      "longitude": 13.1584053,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85059972989272,
+          "lng": 13.15971247989272
+        },
+        "southwest": {
+          "lat": 11.84790007010728,
+          "lng": 13.15701282010728
+        }
+      },
+      "formatted_address": "R5X5+J9R, lawan bukar, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8491159,13.1584053",
+      "google_place_id": "ChIJa0DDT0afBBERIHJNEPUA9GY"
+    }
+  },
+  {
+    "id": "33296",
+    "name": "GONI KACHALLARI PRI. SCH",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "070",
+    "units": "070",
+    "delimitation": "08/13/07/070",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8572282,
+      "longitude": 13.2088669,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85827342989272,
+          "lng": 13.21030487989272
+        },
+        "southwest": {
+          "lat": 11.85557377010728,
+          "lng": 13.20760522010728
+        }
+      },
+      "formatted_address": "V645+VGX, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8572282,13.2088669",
+      "google_place_id": "ChIJWwUYWS-iBBERFLsJJITzv4g"
+    }
+  },
+  {
+    "id": "33297",
+    "name": "505 PRIMARY SCHOOL",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "071",
+    "units": "071",
+    "delimitation": "08/13/07/071",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "33298",
+    "name": "GONI TUJJA",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "072",
+    "units": "072",
+    "delimitation": "08/13/07/072",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8456791,
+      "longitude": 13.188953,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84701432989272,
+          "lng": 13.19022807989272
+        },
+        "southwest": {
+          "lat": 11.84431467010728,
+          "lng": 13.18752842010728
+        }
+      },
+      "formatted_address": "Maiduguri-Dikwa Rd, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8456791,13.188953",
+      "google_place_id": "ChIJI2Y1-RihBBER8-O40aLnKdw"
+    }
+  },
+  {
+    "id": "33299",
+    "name": "SHOKARI PRIMARY SCHOOL II",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "073",
+    "units": "073",
+    "delimitation": "08/13/07/073",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8569608,
+      "longitude": 13.184155,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85806562989272,
+          "lng": 13.18560467989272
+        },
+        "southwest": {
+          "lat": 11.85536597010728,
+          "lng": 13.18290502010728
+        }
+      },
+      "formatted_address": "V54M+QMJ, Bama - Maiduguri Rd, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8569608,13.184155",
+      "google_place_id": "ChIJgUOPXQOiBBERMTg1bawPqBA"
+    }
+  },
+  {
+    "id": "33300",
+    "name": "BABAN GAWURIMA",
+    "registration_area_id": "1799",
+    "precise_location": null,
+    "abbreviation": "074",
+    "units": "074",
+    "delimitation": "08/13/07/074",
+    "remark": "NEW PU",
+    "ward_id": "1799",
+    "ward_name": "MASHAMARI",
+    "local_government_id": "154",
+    "local_government_name": "JERE",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.804831,
+      "longitude": 13.1499328,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80624722989272,
+          "lng": 13.15128227989272
+        },
+        "southwest": {
+          "lat": 11.80354757010728,
+          "lng": 13.14858262010728
+        }
+      },
+      "formatted_address": "First line, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.804831,13.1499328",
+      "google_place_id": "ChIJR3vNw6GfBBERLlGhJN3J40M"
+    }
+  }
+]

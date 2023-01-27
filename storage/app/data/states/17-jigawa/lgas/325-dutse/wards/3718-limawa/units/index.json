@@ -1,0 +1,960 @@
+[
+  {
+    "id": "68035",
+    "name": "BARANDAU PRI. SCH.",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "17/06/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7626323,
+      "longitude": 9.286094799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76391222989272,
+          "lng": 9.28743112989272
+        },
+        "southwest": {
+          "lat": 11.76121257010728,
+          "lng": 9.284731470107277
+        }
+      },
+      "formatted_address": "Barandau Primary School, 720211, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7626323,9.286094799999999",
+      "google_place_id": "ChIJHcZLTiL6qxER8HFb6Ygp960"
+    }
+  },
+  {
+    "id": "68036",
+    "name": "BUKKA/GANDU",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "17/06/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7107983,
+      "longitude": 9.3350283,
+      "viewport": {
+        "northeast": {
+          "lat": 11.71213912989272,
+          "lng": 9.336362529892721
+        },
+        "southwest": {
+          "lat": 11.70943947010728,
+          "lng": 9.333662870107277
+        }
+      },
+      "formatted_address": "P86P+826, Unnamed Road, 720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7107983,9.3350283",
+      "google_place_id": "ChIJv71xPOHxqxERdwCw4rFYZIE"
+    }
+  },
+  {
+    "id": "68037",
+    "name": "GALADANCI PRI. SCH.",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "17/06/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7203186,
+      "longitude": 9.350285,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72166212989272,
+          "lng": 9.35160972989272
+        },
+        "southwest": {
+          "lat": 11.71896247010728,
+          "lng": 9.348910070107276
+        }
+      },
+      "formatted_address": "P9C2+44F, 720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7203186,9.350285",
+      "google_place_id": "ChIJd_7nEerxqxERefOv3vVp5aQ"
+    }
+  },
+  {
+    "id": "68038",
+    "name": "GALAMAWA PRI. SCH.",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "17/06/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7203186,
+      "longitude": 9.350285,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72166212989272,
+          "lng": 9.35160972989272
+        },
+        "southwest": {
+          "lat": 11.71896247010728,
+          "lng": 9.348910070107276
+        }
+      },
+      "formatted_address": "P9C2+44F, 720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7203186,9.350285",
+      "google_place_id": "ChIJd_7nEerxqxERefOv3vVp5aQ"
+    }
+  },
+  {
+    "id": "68039",
+    "name": "GANDU",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "17/06/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.5354393,
+      "longitude": 9.263296700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.53676262989272,
+          "lng": 9.264648929892722
+        },
+        "southwest": {
+          "lat": 11.53406297010728,
+          "lng": 9.261949270107278
+        }
+      },
+      "formatted_address": "7F3FG7P7+58G Gandu kacako Kano, Kachako, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5354393,9.263296700000001",
+      "google_place_id": "ChIJdUwliSiLqxERTC46CIobNr4"
+    }
+  },
+  {
+    "id": "68040",
+    "name": "GARU AREWA PRI. SCH",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "17/06/09/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7374723,
+      "longitude": 9.348709699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.73874192989272,
+          "lng": 9.350090079892722
+        },
+        "southwest": {
+          "lat": 11.73604227010728,
+          "lng": 9.347390420107278
+        }
+      },
+      "formatted_address": "Garu Arewa Primary School, 720211, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7374723,9.348709699999999",
+      "google_place_id": "ChIJ-ax67qD6qxERBaSW0s79ryU"
+    }
+  },
+  {
+    "id": "68041",
+    "name": "GARU KUDU PRI. SCH.",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "17/06/09/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7203946,
+      "longitude": 9.3502686,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72173817989272,
+          "lng": 9.351588529892721
+        },
+        "southwest": {
+          "lat": 11.71903852010728,
+          "lng": 9.348888870107277
+        }
+      },
+      "formatted_address": "P9C2+543, 720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7203946,9.3502686",
+      "google_place_id": "ChIJ13XR2e3xqxERx8nYp6Gf2_U"
+    }
+  },
+  {
+    "id": "68042",
+    "name": "GONGO",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "17/06/09/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  },
+  {
+    "id": "68043",
+    "name": "GWAN GWAR",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "17/06/09/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7024113,
+      "longitude": 9.3339187,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70377157989272,
+          "lng": 9.335269179892721
+        },
+        "southwest": {
+          "lat": 11.70107192010728,
+          "lng": 9.332569520107278
+        }
+      },
+      "formatted_address": "2 Baure Street, 720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7024113,9.3339187",
+      "google_place_id": "ChIJ268iOgLxqxERBIsnK0TW1cg"
+    }
+  },
+  {
+    "id": "68044",
+    "name": "GWARI",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "17/06/09/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7107983,
+      "longitude": 9.3350283,
+      "viewport": {
+        "northeast": {
+          "lat": 11.71213912989272,
+          "lng": 9.336362529892721
+        },
+        "southwest": {
+          "lat": 11.70943947010728,
+          "lng": 9.333662870107277
+        }
+      },
+      "formatted_address": "P86P+826, Unnamed Road, 720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7107983,9.3350283",
+      "google_place_id": "ChIJv71xPOHxqxERdwCw4rFYZIE"
+    }
+  },
+  {
+    "id": "68045",
+    "name": "KATANGARE",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "17/06/09/011",
+    "remark": "EXISTING PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.753234,
+      "longitude": 9.328468299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7805455,
+          "lng": 9.4040091
+        },
+        "southwest": {
+          "lat": 11.7221877,
+          "lng": 9.2581171
+        }
+      },
+      "formatted_address": "Limawa, 720211, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.753234,9.328468299999999",
+      "google_place_id": "ChIJhcqA9o76qxERTe9v9vFl4Zs"
+    }
+  },
+  {
+    "id": "68046",
+    "name": "KUKA UKU",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "17/06/09/012",
+    "remark": "EXISTING PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.937606,
+      "longitude": 8.540341399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.93895652989272,
+          "lng": 8.541675279892724
+        },
+        "southwest": {
+          "lat": 11.93625687010728,
+          "lng": 8.53897562010728
+        }
+      },
+      "formatted_address": "Ungwa Uku 700101, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.937606,8.540341399999999",
+      "google_place_id": "ChIJzTB-ancqrBERGrlXjEyt_GY"
+    }
+  },
+  {
+    "id": "68047",
+    "name": "LIMAWA PRI. SCH",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "17/06/09/013",
+    "remark": "EXISTING PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7497178,
+      "longitude": 9.341730799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.75101702989272,
+          "lng": 9.343017179892723
+        },
+        "southwest": {
+          "lat": 11.74831737010728,
+          "lng": 9.340317520107279
+        }
+      },
+      "formatted_address": "Limawa Primary School, 720211, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7497178,9.341730799999999",
+      "google_place_id": "ChIJdXfQHJf6qxERBe_OjmW6LNc"
+    }
+  },
+  {
+    "id": "68048",
+    "name": "LIMAWA BAURE",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "17/06/09/014",
+    "remark": "EXISTING PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.753234,
+      "longitude": 9.328468299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7805455,
+          "lng": 9.4040091
+        },
+        "southwest": {
+          "lat": 11.7221877,
+          "lng": 9.2581171
+        }
+      },
+      "formatted_address": "Limawa, 720211, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.753234,9.328468299999999",
+      "google_place_id": "ChIJhcqA9o76qxERTe9v9vFl4Zs"
+    }
+  },
+  {
+    "id": "68049",
+    "name": "MA'AI KETERE PRI. SCH.",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "17/06/09/015",
+    "remark": "EXISTING PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7203186,
+      "longitude": 9.350285,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72166187989272,
+          "lng": 9.351607879892722
+        },
+        "southwest": {
+          "lat": 11.71896222010728,
+          "lng": 9.348908220107278
+        }
+      },
+      "formatted_address": "720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7203186,9.350285",
+      "google_place_id": "ChIJ-3_DB2PxqxERfXZ1M7c_ENI"
+    }
+  },
+  {
+    "id": "68050",
+    "name": "SABON GARIN JABALAWA",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "17/06/09/016",
+    "remark": "EXISTING PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.716465,
+      "longitude": 9.3554421,
+      "viewport": {
+        "northeast": {
+          "lat": 11.71771132989272,
+          "lng": 9.356947179892723
+        },
+        "southwest": {
+          "lat": 11.71501167010728,
+          "lng": 9.354247520107279
+        }
+      },
+      "formatted_address": "720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.716465,9.3554421",
+      "google_place_id": "ChIJD-XmbxfwqxERDaL0zGZx5OI"
+    }
+  },
+  {
+    "id": "68051",
+    "name": "YINA MAZARE PRI. SCH",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "17/06/09/017",
+    "remark": "EXISTING PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7203186,
+      "longitude": 9.350285,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72166187989272,
+          "lng": 9.351607879892722
+        },
+        "southwest": {
+          "lat": 11.71896222010728,
+          "lng": 9.348908220107278
+        }
+      },
+      "formatted_address": "720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7203186,9.350285",
+      "google_place_id": "ChIJ-3_DB2PxqxERfXZ1M7c_ENI"
+    }
+  },
+  {
+    "id": "68052",
+    "name": "SINDI GIDAN KOFA  PRI. SCH.",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "17/06/09/018",
+    "remark": "EXISTING PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7202364,
+      "longitude": 9.3501856,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72158752989272,
+          "lng": 9.35154137989272
+        },
+        "southwest": {
+          "lat": 11.71888787010728,
+          "lng": 9.348841720107275
+        }
+      },
+      "formatted_address": "P9C2+33V, Gada Din Road, 720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7202364,9.3501856",
+      "google_place_id": "ChIJ_1k5hEHxqxERWu94mYb_nmk"
+    }
+  },
+  {
+    "id": "68053",
+    "name": "SINDI",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "17/06/09/019",
+    "remark": "EXISTING PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7107983,
+      "longitude": 9.3350283,
+      "viewport": {
+        "northeast": {
+          "lat": 11.71213912989272,
+          "lng": 9.336362529892721
+        },
+        "southwest": {
+          "lat": 11.70943947010728,
+          "lng": 9.333662870107277
+        }
+      },
+      "formatted_address": "P86P+826, Unnamed Road, 720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7107983,9.3350283",
+      "google_place_id": "ChIJv71xPOHxqxERdwCw4rFYZIE"
+    }
+  },
+  {
+    "id": "68054",
+    "name": "GALADANCHI ISILAMIYA PRI SCH,",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "17/06/09/020",
+    "remark": "NEW PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7203186,
+      "longitude": 9.350285,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72166212989272,
+          "lng": 9.35160972989272
+        },
+        "southwest": {
+          "lat": 11.71896247010728,
+          "lng": 9.348910070107276
+        }
+      },
+      "formatted_address": "P9C2+44F, 720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7203186,9.350285",
+      "google_place_id": "ChIJd_7nEerxqxERefOv3vVp5aQ"
+    }
+  },
+  {
+    "id": "68055",
+    "name": "DUTSE STADIUM,",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "17/06/09/021",
+    "remark": "NEW PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7024113,
+      "longitude": 9.3339187,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70377157989272,
+          "lng": 9.335269179892721
+        },
+        "southwest": {
+          "lat": 11.70107192010728,
+          "lng": 9.332569520107278
+        }
+      },
+      "formatted_address": "P82M+XJ6, 720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7024113,9.3339187",
+      "google_place_id": "ChIJi4QHTATxqxERbQdzUfxkJWw"
+    }
+  },
+  {
+    "id": "68056",
+    "name": "GOVT JUNIOR SEC SCH GALAMAWA,",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "17/06/09/022",
+    "remark": "NEW PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7203186,
+      "longitude": 9.350285,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72166212989272,
+          "lng": 9.35160972989272
+        },
+        "southwest": {
+          "lat": 11.71896247010728,
+          "lng": 9.348910070107276
+        }
+      },
+      "formatted_address": "P9C2+44F, 720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7203186,9.350285",
+      "google_place_id": "ChIJd_7nEerxqxERefOv3vVp5aQ"
+    }
+  },
+  {
+    "id": "68057",
+    "name": "GARU AREWA PRI SCH LL,",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "17/06/09/023",
+    "remark": "NEW PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7203186,
+      "longitude": 9.350285,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72166187989272,
+          "lng": 9.351607879892722
+        },
+        "southwest": {
+          "lat": 11.71896222010728,
+          "lng": 9.348908220107278
+        }
+      },
+      "formatted_address": "720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7203186,9.350285",
+      "google_place_id": "ChIJ-3_DB2PxqxERfXZ1M7c_ENI"
+    }
+  },
+  {
+    "id": "68058",
+    "name": "FARIN DUTSE PRI SCH,",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "17/06/09/024",
+    "remark": "NEW PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7361634,
+      "longitude": 9.395865299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.73746882989272,
+          "lng": 9.397230529892722
+        },
+        "southwest": {
+          "lat": 11.73476917010728,
+          "lng": 9.394530870107278
+        }
+      },
+      "formatted_address": "P9PW+F89, 720211, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7361634,9.395865299999999",
+      "google_place_id": "ChIJcxu9_KTlqxERgMVmT3MeGgw"
+    }
+  },
+  {
+    "id": "68059",
+    "name": "GWARI DURIYA OPEN SPACE",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "17/06/09/025",
+    "remark": "NEW PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7024113,
+      "longitude": 9.3339187,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70377157989272,
+          "lng": 9.335269179892721
+        },
+        "southwest": {
+          "lat": 11.70107192010728,
+          "lng": 9.332569520107278
+        }
+      },
+      "formatted_address": "Ground Floor, State New Secretariat Complex, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7024113,9.3339187",
+      "google_place_id": "ChIJVVVVVUXwqxER1b0VhC2p9sY"
+    }
+  },
+  {
+    "id": "68060",
+    "name": "TSOHUWAR MARANJUWA ISLAMIYYA PRI SCH,",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "17/06/09/026",
+    "remark": "NEW PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7203186,
+      "longitude": 9.350285,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72166187989272,
+          "lng": 9.351607879892722
+        },
+        "southwest": {
+          "lat": 11.71896222010728,
+          "lng": 9.348908220107278
+        }
+      },
+      "formatted_address": "720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7203186,9.350285",
+      "google_place_id": "ChIJ-3_DB2PxqxERfXZ1M7c_ENI"
+    }
+  },
+  {
+    "id": "68061",
+    "name": "GOVT JUNIOR SEC SCH LIMAWA,",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "17/06/09/027",
+    "remark": "NEW PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7203186,
+      "longitude": 9.350285,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72166187989272,
+          "lng": 9.351607879892722
+        },
+        "southwest": {
+          "lat": 11.71896222010728,
+          "lng": 9.348908220107278
+        }
+      },
+      "formatted_address": "720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7203186,9.350285",
+      "google_place_id": "ChIJ-3_DB2PxqxERfXZ1M7c_ENI"
+    }
+  },
+  {
+    "id": "68062",
+    "name": "LIMAWA ISILAMIYA PRI SCH,",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "17/06/09/028",
+    "remark": "NEW PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7203186,
+      "longitude": 9.350285,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72166187989272,
+          "lng": 9.351607879892722
+        },
+        "southwest": {
+          "lat": 11.71896222010728,
+          "lng": 9.348908220107278
+        }
+      },
+      "formatted_address": "720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7203186,9.350285",
+      "google_place_id": "ChIJ-3_DB2PxqxERfXZ1M7c_ENI"
+    }
+  },
+  {
+    "id": "68063",
+    "name": "LIMAWA DISPENSARY",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "17/06/09/029",
+    "remark": "NEW PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7507814,
+      "longitude": 9.357574,
+      "viewport": {
+        "northeast": {
+          "lat": 11.75218452989272,
+          "lng": 9.358907379892724
+        },
+        "southwest": {
+          "lat": 11.74948487010728,
+          "lng": 9.35620772010728
+        }
+      },
+      "formatted_address": "Q925+828, 720211, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7507814,9.357574",
+      "google_place_id": "ChIJiUtqlbD6qxERt2GRkwuwBdU"
+    }
+  },
+  {
+    "id": "68064",
+    "name": "KETARE PRIMARY SCHOOL",
+    "registration_area_id": "3718",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "17/06/09/030",
+    "remark": "NEW PU",
+    "ward_id": "3718",
+    "ward_name": "LIMAWA",
+    "local_government_id": "325",
+    "local_government_name": "DUTSE",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": null
+  }
+]

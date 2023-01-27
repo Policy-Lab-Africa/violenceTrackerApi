@@ -1,0 +1,101 @@
+[
+  {
+    "id": "68419",
+    "name": "GARIN GAMBO PRI. SCH.  I",
+    "registration_area_id": "3746",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "17/09/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3746",
+    "ward_name": "GARIN GAMBO",
+    "local_government_id": "328",
+    "local_government_name": "GUMEL",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6892098,
+      "longitude": 9.4283801,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7058041,
+          "lng": 9.475270799999999
+        },
+        "southwest": {
+          "lat": 12.6642878,
+          "lng": 9.3941239
+        }
+      },
+      "formatted_address": "Garin Gambo, 732101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6892098,9.4283801",
+      "google_place_id": "ChIJTZyjPCDZqBERKuH4FRLjYrA"
+    }
+  },
+  {
+    "id": "68420",
+    "name": "GARIN GAMBO PRI. SCH.  II",
+    "registration_area_id": "3746",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "17/09/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3746",
+    "ward_name": "GARIN GAMBO",
+    "local_government_id": "328",
+    "local_government_name": "GUMEL",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6892098,
+      "longitude": 9.4283801,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7058041,
+          "lng": 9.475270799999999
+        },
+        "southwest": {
+          "lat": 12.6642878,
+          "lng": 9.3941239
+        }
+      },
+      "formatted_address": "Garin Gambo, 732101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6892098,9.4283801",
+      "google_place_id": "ChIJTZyjPCDZqBERKuH4FRLjYrA"
+    }
+  },
+  {
+    "id": "68421",
+    "name": "GARIN  BAKI CIKIN GARI.",
+    "registration_area_id": "3746",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "17/09/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3746",
+    "ward_name": "GARIN GAMBO",
+    "local_government_id": "328",
+    "local_government_name": "GUMEL",
+    "state_id": "17",
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6892098,
+      "longitude": 9.4283801,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7058041,
+          "lng": 9.475270799999999
+        },
+        "southwest": {
+          "lat": 12.6642878,
+          "lng": 9.3941239
+        }
+      },
+      "formatted_address": "Garin Gambo, 732101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6892098,9.4283801",
+      "google_place_id": "ChIJTZyjPCDZqBERKuH4FRLjYrA"
+    }
+  }
+]

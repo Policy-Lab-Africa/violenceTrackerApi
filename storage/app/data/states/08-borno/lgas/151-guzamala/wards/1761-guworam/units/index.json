@@ -1,0 +1,184 @@
+[
+  {
+    "id": "32528",
+    "name": "AJI DALARI",
+    "registration_area_id": "1761",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/10/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1761",
+    "ward_name": "GUWORAM",
+    "local_government_id": "151",
+    "local_government_name": "GUZAMALA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32529",
+    "name": "BOSSAMMA",
+    "registration_area_id": "1761",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/10/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1761",
+    "ward_name": "GUWORAM",
+    "local_government_id": "151",
+    "local_government_name": "GUZAMALA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.8816649,
+      "longitude": 13.2201828,
+      "viewport": {
+        "northeast": {
+          "lat": 13.2037017,
+          "lng": 13.5694663
+        },
+        "southwest": {
+          "lat": 12.5744457,
+          "lng": 12.8499623
+        }
+      },
+      "formatted_address": "Guzamala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8816649,13.2201828",
+      "google_place_id": "ChIJwVR-Fq5BBRERv1d5N3HHTsU"
+    }
+  },
+  {
+    "id": "32530",
+    "name": "KIJI MATARI",
+    "registration_area_id": "1761",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/10/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1761",
+    "ward_name": "GUWORAM",
+    "local_government_id": "151",
+    "local_government_name": "GUZAMALA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.7208132,
+      "longitude": 13.4737573,
+      "viewport": {
+        "northeast": {
+          "lat": 12.72213387989272,
+          "lng": 13.47515837989272
+        },
+        "southwest": {
+          "lat": 12.71943422010728,
+          "lng": 13.47245872010728
+        }
+      },
+      "formatted_address": "612102, Guworam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7208132,13.4737573",
+      "google_place_id": "ChIJ88DwNu0zBRERr15-hbOKqRU"
+    }
+  },
+  {
+    "id": "32531",
+    "name": "GUWORAM",
+    "registration_area_id": "1761",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/10/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1761",
+    "ward_name": "GUWORAM",
+    "local_government_id": "151",
+    "local_government_name": "GUZAMALA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.7208132,
+      "longitude": 13.4737573,
+      "viewport": {
+        "northeast": {
+          "lat": 12.72213387989272,
+          "lng": 13.47515837989272
+        },
+        "southwest": {
+          "lat": 12.71943422010728,
+          "lng": 13.47245872010728
+        }
+      },
+      "formatted_address": "612102, Guworam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7208132,13.4737573",
+      "google_place_id": "ChIJ88DwNu0zBRERr15-hbOKqRU"
+    }
+  },
+  {
+    "id": "32532",
+    "name": "LINGIR",
+    "registration_area_id": "1761",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/10/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1761",
+    "ward_name": "GUWORAM",
+    "local_government_id": "151",
+    "local_government_name": "GUZAMALA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.8401376,
+      "longitude": 13.4800805,
+      "viewport": {
+        "northeast": {
+          "lat": 12.8495452,
+          "lng": 13.498644
+        },
+        "southwest": {
+          "lat": 12.8290143,
+          "lng": 13.4605525
+        }
+      },
+      "formatted_address": "Guworam, 612102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8401376,13.4800805",
+      "google_place_id": "ChIJaW6nG2xKBRERriyfPZJkcJM"
+    }
+  },
+  {
+    "id": "32533",
+    "name": "BUNARI",
+    "registration_area_id": "1761",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/10/04/006",
+    "remark": "NEW PU",
+    "ward_id": "1761",
+    "ward_name": "GUWORAM",
+    "local_government_id": "151",
+    "local_government_name": "GUZAMALA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.8401376,
+      "longitude": 13.4800805,
+      "viewport": {
+        "northeast": {
+          "lat": 12.8495452,
+          "lng": 13.498644
+        },
+        "southwest": {
+          "lat": 12.8290143,
+          "lng": 13.4605525
+        }
+      },
+      "formatted_address": "Guworam, 612102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8401376,13.4800805",
+      "google_place_id": "ChIJaW6nG2xKBRERriyfPZJkcJM"
+    }
+  }
+]

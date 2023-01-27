@@ -1,0 +1,170 @@
+[
+  {
+    "id": "64405",
+    "name": "UMUOKWARA/CENT. SCHOOL AMUCHA",
+    "registration_area_id": "3498",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "16/13/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3498",
+    "ward_name": "AMUCHA II",
+    "local_government_id": "305",
+    "local_government_name": "NJABA (NNENASA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": null
+  },
+  {
+    "id": "64406",
+    "name": "UMUZIKABUM/UMUZIKABUM VILL. HALL",
+    "registration_area_id": "3498",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "16/13/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3498",
+    "ward_name": "AMUCHA II",
+    "local_government_id": "305",
+    "local_government_name": "NJABA (NNENASA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": null
+  },
+  {
+    "id": "64407",
+    "name": "UMUNZU/UMUNZU VILL. HALL",
+    "registration_area_id": "3498",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "16/13/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3498",
+    "ward_name": "AMUCHA II",
+    "local_government_id": "305",
+    "local_government_name": "NJABA (NNENASA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.4861019,
+      "longitude": 7.0890097,
+      "viewport": {
+        "northeast": {
+          "lat": 5.487561379892722,
+          "lng": 7.090375279892721
+        },
+        "southwest": {
+          "lat": 5.484861720107278,
+          "lng": 7.087675620107277
+        }
+      },
+      "formatted_address": "460105, Umunahu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4861019,7.0890097",
+      "google_place_id": "ChIJM40mo3lYQhARGYSpG8405Q8"
+    }
+  },
+  {
+    "id": "64408",
+    "name": "UMUOMA/UMUOMA VILL. HALL",
+    "registration_area_id": "3498",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "16/13/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3498",
+    "ward_name": "AMUCHA II",
+    "local_government_id": "305",
+    "local_government_name": "NJABA (NNENASA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": null
+  },
+  {
+    "id": "64409",
+    "name": "UMUOKPOKO/UMUOKPOKO VILL. HALL",
+    "registration_area_id": "3498",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "16/13/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3498",
+    "ward_name": "AMUCHA II",
+    "local_government_id": "305",
+    "local_government_name": "NJABA (NNENASA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.4891066,
+      "longitude": 7.215481899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.490423479892722,
+          "lng": 7.21676742989272
+        },
+        "southwest": {
+          "lat": 5.487723820107278,
+          "lng": 7.214067770107276
+        }
+      },
+      "formatted_address": "F6Q8+J5X, Ọgwụ/Umuoda Road, Oboama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4891066,7.215481899999999",
+      "google_place_id": "ChIJA2wwTIzxQhARWSKPrhRv_gk"
+    }
+  },
+  {
+    "id": "64410",
+    "name": "UHUALA VILLAGE SQ.",
+    "registration_area_id": "3498",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "16/13/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3498",
+    "ward_name": "AMUCHA II",
+    "local_government_id": "305",
+    "local_government_name": "NJABA (NNENASA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": null
+  },
+  {
+    "id": "64411",
+    "name": "LOCAL AUTHORITY SCH. (LAS) AMUCHA",
+    "registration_area_id": "3498",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "16/13/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3498",
+    "ward_name": "AMUCHA II",
+    "local_government_id": "305",
+    "local_government_name": "NJABA (NNENASA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": null
+  },
+  {
+    "id": "64412",
+    "name": "OKWUAMA VILLAGE HALL",
+    "registration_area_id": "3498",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "16/13/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3498",
+    "ward_name": "AMUCHA II",
+    "local_government_id": "305",
+    "local_government_name": "NJABA (NNENASA)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": null
+  }
+]

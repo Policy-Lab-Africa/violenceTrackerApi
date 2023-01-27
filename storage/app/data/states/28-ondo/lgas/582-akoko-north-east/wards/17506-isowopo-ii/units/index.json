@@ -1,0 +1,370 @@
+[
+  {
+    "id": "344712",
+    "name": "OSESE 1 & 11/INUMBA, AT LATE AKINLOFAS HOUSE",
+    "registration_area_id": "17506",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "28/01/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17506",
+    "ward_name": "ISOWOPO II",
+    "local_government_id": "582",
+    "local_government_name": "AKOKO NORTH EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "344713",
+    "name": "OSESE 1 & 11/INUMBA, AT MR SUBERUS HOUSE",
+    "registration_area_id": "17506",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "28/01/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17506",
+    "ward_name": "ISOWOPO II",
+    "local_government_id": "582",
+    "local_government_name": "AKOKO NORTH EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "344714",
+    "name": "EBIOLU/IYOKE 1&11 ,AT MR OLUFOYES HOUSE",
+    "registration_area_id": "17506",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "28/01/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17506",
+    "ward_name": "ISOWOPO II",
+    "local_government_id": "582",
+    "local_government_name": "AKOKO NORTH EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "344715",
+    "name": "EBIOLU/IYOKE 1&11, NEAR MR OLUFOYES HOUSE",
+    "registration_area_id": "17506",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "28/01/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17506",
+    "ward_name": "ISOWOPO II",
+    "local_government_id": "582",
+    "local_government_name": "AKOKO NORTH EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "344716",
+    "name": "TIBOYIN/EBIMOGUN/IMA/OLUSA, AT OLUWADES HOUSE",
+    "registration_area_id": "17506",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "28/01/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17506",
+    "ward_name": "ISOWOPO II",
+    "local_government_id": "582",
+    "local_government_name": "AKOKO NORTH EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.628715899999999,
+      "longitude": 5.9398634,
+      "viewport": {
+        "northeast": {
+          "lat": 7.630092329892721,
+          "lng": 5.941157479892722
+        },
+        "southwest": {
+          "lat": 7.627392670107278,
+          "lng": 5.938457820107277
+        }
+      },
+      "formatted_address": "JWHQ+FWQ, Akunu Akoko, along Ipele road, Kabba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.628715899999999,5.9398634",
+      "google_place_id": "ChIJY13sPrMlRhARJbfR7XKdMVg"
+    }
+  },
+  {
+    "id": "344717",
+    "name": "AYEGUNLE, COM. PRY SCH AYEGUNLE",
+    "registration_area_id": "17506",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "28/01/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17506",
+    "ward_name": "ISOWOPO II",
+    "local_government_id": "582",
+    "local_government_name": "AKOKO NORTH EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.4233191,
+      "longitude": 5.7208273,
+      "viewport": {
+        "northeast": {
+          "lat": 7.424791779892721,
+          "lng": 5.722376579892721
+        },
+        "southwest": {
+          "lat": 7.422092120107277,
+          "lng": 5.719676920107277
+        }
+      },
+      "formatted_address": "CPFC+88G, Ayegunle,, Oka Akoko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4233191,5.7208273",
+      "google_place_id": "ChIJr2TuIcjKRxAR7t8z2XVITcw"
+    }
+  },
+  {
+    "id": "344718",
+    "name": "SEKE/FULANI CAMP, ST ANDREWS PRY SCH. AKUNU",
+    "registration_area_id": "17506",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "28/01/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17506",
+    "ward_name": "ISOWOPO II",
+    "local_government_id": "582",
+    "local_government_name": "AKOKO NORTH EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "344719",
+    "name": "OKENJO/OKEEJE CAMP/EDEBO /OSAFA 1 & 11, BESIDE AKADIRIS HOUSE",
+    "registration_area_id": "17506",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "28/01/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17506",
+    "ward_name": "ISOWOPO II",
+    "local_government_id": "582",
+    "local_government_name": "AKOKO NORTH EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "344720",
+    "name": "OKENJO/OKEEJE CAMP/EDEBO /OSAFA 1 & 11, OPPOSITE AKADIRI S HOUSE",
+    "registration_area_id": "17506",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "28/01/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17506",
+    "ward_name": "ISOWOPO II",
+    "local_government_id": "582",
+    "local_government_name": "AKOKO NORTH EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "344721",
+    "name": "ODOSI 1 & 11, COURT HALL AUGA",
+    "registration_area_id": "17506",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "28/01/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17506",
+    "ward_name": "ISOWOPO II",
+    "local_government_id": "582",
+    "local_government_name": "AKOKO NORTH EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 37.5076276,
+      "longitude": 127.0577131,
+      "viewport": {
+        "northeast": {
+          "lat": 37.50897742989272,
+          "lng": 127.0590629298927
+        },
+        "southwest": {
+          "lat": 37.50627777010728,
+          "lng": 127.0563632701073
+        }
+      },
+      "formatted_address": "South Korea, Seoul, Gangnam-gu, Samseong-dong, 157-37번지 6층 107호",
+      "google_map_url": "https://maps.google.com?q=37.5076276,127.0577131",
+      "google_place_id": "ChIJ9bBr9BSkfDUR6SPk4jDqLVs"
+    }
+  },
+  {
+    "id": "344722",
+    "name": "UPELI 1&11/ILEPA, ST PAULS PRY SCH AUGA",
+    "registration_area_id": "17506",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "28/01/08/011",
+    "remark": "EXISTING PU",
+    "ward_id": "17506",
+    "ward_name": "ISOWOPO II",
+    "local_government_id": "582",
+    "local_government_name": "AKOKO NORTH EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "344723",
+    "name": "UPELI 1&11/ILEPA, ST PAULS PRY SCH AUGA",
+    "registration_area_id": "17506",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "28/01/08/012",
+    "remark": "EXISTING PU",
+    "ward_id": "17506",
+    "ward_name": "ISOWOPO II",
+    "local_government_id": "582",
+    "local_government_name": "AKOKO NORTH EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "344724",
+    "name": "OKEGBAGBO, ST PAULS PRY SCH AUGA",
+    "registration_area_id": "17506",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "28/01/08/013",
+    "remark": "EXISTING PU",
+    "ward_id": "17506",
+    "ward_name": "ISOWOPO II",
+    "local_government_id": "582",
+    "local_government_name": "AKOKO NORTH EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.262081,
+      "longitude": 5.2558129,
+      "viewport": {
+        "northeast": {
+          "lat": 7.263432279892721,
+          "lng": 5.257157029892721
+        },
+        "southwest": {
+          "lat": 7.260732620107277,
+          "lng": 5.254457370107278
+        }
+      },
+      "formatted_address": "7764+R7W, 340106, Oba Ile, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.262081,5.2558129",
+      "google_place_id": "ChIJkVvVg0SQRxAR3yBimwWZn1Q"
+    }
+  },
+  {
+    "id": "344725",
+    "name": "EKAKUMO/AYEDE/AYADIGI 1&11, ST PHILLIPS SCH IKAKUMO",
+    "registration_area_id": "17506",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "28/01/08/014",
+    "remark": "EXISTING PU",
+    "ward_id": "17506",
+    "ward_name": "ISOWOPO II",
+    "local_government_id": "582",
+    "local_government_name": "AKOKO NORTH EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "344726",
+    "name": "IKAKUMO II",
+    "registration_area_id": "17506",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "28/01/08/015",
+    "remark": "EXISTING PU",
+    "ward_id": "17506",
+    "ward_name": "ISOWOPO II",
+    "local_government_id": "582",
+    "local_government_name": "AKOKO NORTH EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.584164100000001,
+      "longitude": 6.0060406,
+      "viewport": {
+        "northeast": {
+          "lat": 7.585499479892722,
+          "lng": 6.007398679892722
+        },
+        "southwest": {
+          "lat": 7.582799820107278,
+          "lng": 6.004699020107278
+        }
+      },
+      "formatted_address": "Ihima Adavi Rd, 261103, Kakumu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.584164100000001,6.0060406",
+      "google_place_id": "ChIJI_ih5JcjRhARUdE4F5d3Xfw"
+    }
+  },
+  {
+    "id": "344727",
+    "name": "AJINDU CAMP",
+    "registration_area_id": "17506",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "28/01/08/016",
+    "remark": "EXISTING PU",
+    "ward_id": "17506",
+    "ward_name": "ISOWOPO II",
+    "local_government_id": "582",
+    "local_government_name": "AKOKO NORTH EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.628715899999999,
+      "longitude": 5.9398634,
+      "viewport": {
+        "northeast": {
+          "lat": 7.630092329892721,
+          "lng": 5.941157479892722
+        },
+        "southwest": {
+          "lat": 7.627392670107278,
+          "lng": 5.938457820107277
+        }
+      },
+      "formatted_address": "JWHQ+FWQ, Akunu Akoko, along Ipele road, Kabba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.628715899999999,5.9398634",
+      "google_place_id": "ChIJY13sPrMlRhARJbfR7XKdMVg"
+    }
+  }
+]

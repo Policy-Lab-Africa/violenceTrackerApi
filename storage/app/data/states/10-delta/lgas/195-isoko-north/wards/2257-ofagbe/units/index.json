@@ -1,0 +1,466 @@
+[
+  {
+    "id": "40940",
+    "name": "ORIOVO PRIMARY SCHOOL, OROGUN/URUONWA, OFAGBE I",
+    "registration_area_id": "2257",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "10/09/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2257",
+    "ward_name": "OFAGBE",
+    "local_government_id": "195",
+    "local_government_name": "ISOKO NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "40941",
+    "name": "ORIOVO PRIMARY SCHOOL, OROGUN/URUONWA, OFAGBE II",
+    "registration_area_id": "2257",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "10/09/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2257",
+    "ward_name": "OFAGBE",
+    "local_government_id": "195",
+    "local_government_name": "ISOKO NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.544723299999999,
+      "longitude": 6.232264199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.546037079892722,
+          "lng": 6.233450729892722
+        },
+        "southwest": {
+          "lat": 5.543337420107278,
+          "lng": 6.230751070107278
+        }
+      },
+      "formatted_address": "G6VJ+VWM, college road, Ofagbe, Ozoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.544723299999999,6.232264199999999",
+      "google_place_id": "ChIJXwbeGlKbQRARYDVtnJPmFs0"
+    }
+  },
+  {
+    "id": "40942",
+    "name": "EGWE VILLAGE, EGBAHE/EGWE",
+    "registration_area_id": "2257",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "10/09/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2257",
+    "ward_name": "OFAGBE",
+    "local_government_id": "195",
+    "local_government_name": "ISOKO NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "40943",
+    "name": "OKORE STREET, OKORE, OFAGBE I",
+    "registration_area_id": "2257",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "10/09/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2257",
+    "ward_name": "OFAGBE",
+    "local_government_id": "195",
+    "local_government_name": "ISOKO NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5489633,
+      "longitude": 6.336583999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.550308179892721,
+          "lng": 6.337989379892722
+        },
+        "southwest": {
+          "lat": 5.547608520107278,
+          "lng": 6.335289720107278
+        }
+      },
+      "formatted_address": "G8XP+HJP, 334114, Ofagbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5489633,6.336583999999999",
+      "google_place_id": "ChIJg618zWyGQRARtdHBBCJp_QM"
+    }
+  },
+  {
+    "id": "40944",
+    "name": "OKORE STREET, OKORE, OFAGBE II",
+    "registration_area_id": "2257",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "10/09/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2257",
+    "ward_name": "OFAGBE",
+    "local_government_id": "195",
+    "local_government_name": "ISOKO NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5489633,
+      "longitude": 6.336583999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.550308179892721,
+          "lng": 6.337989379892722
+        },
+        "southwest": {
+          "lat": 5.547608520107278,
+          "lng": 6.335289720107278
+        }
+      },
+      "formatted_address": "G8XP+HJP, 334114, Ofagbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5489633,6.336583999999999",
+      "google_place_id": "ChIJg618zWyGQRARtdHBBCJp_QM"
+    }
+  },
+  {
+    "id": "40945",
+    "name": "ORIE STREET, ORIE/IRALA VILLAGE",
+    "registration_area_id": "2257",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "10/09/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2257",
+    "ward_name": "OFAGBE",
+    "local_government_id": "195",
+    "local_government_name": "ISOKO NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "40946",
+    "name": "OTIBIO STREET, OTIBIO, OFAGBE",
+    "registration_area_id": "2257",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "10/09/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2257",
+    "ward_name": "OFAGBE",
+    "local_government_id": "195",
+    "local_government_name": "ISOKO NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.556565399999999,
+      "longitude": 6.3465379,
+      "viewport": {
+        "northeast": {
+          "lat": 5.562226,
+          "lng": 6.3551571
+        },
+        "southwest": {
+          "lat": 5.5346459,
+          "lng": 6.3356569
+        }
+      },
+      "formatted_address": "334114, Ofagbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.556565399999999,6.3465379",
+      "google_place_id": "ChIJUcj0JUKGQRARYmT7xuigXO8"
+    }
+  },
+  {
+    "id": "40947",
+    "name": "ETEVIE STREET, ETEVIE/OTOTIE, OFAGBE",
+    "registration_area_id": "2257",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "10/09/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2257",
+    "ward_name": "OFAGBE",
+    "local_government_id": "195",
+    "local_government_name": "ISOKO NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5688867,
+      "longitude": 6.146859099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.570236529892722,
+          "lng": 6.148208929892721
+        },
+        "southwest": {
+          "lat": 5.567536870107278,
+          "lng": 6.145509270107278
+        }
+      },
+      "formatted_address": "L.G.A, No .53, No. 53 otibio street, Ofagbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5688867,6.146859099999999",
+      "google_place_id": "ChIJUYvEiniZQRARYp2j3eXTdyc"
+    }
+  },
+  {
+    "id": "40948",
+    "name": "IYODE STREET, IYODE, OFAGBE",
+    "registration_area_id": "2257",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "10/09/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2257",
+    "ward_name": "OFAGBE",
+    "local_government_id": "195",
+    "local_government_name": "ISOKO NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5489633,
+      "longitude": 6.336583999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.550308179892721,
+          "lng": 6.337989379892722
+        },
+        "southwest": {
+          "lat": 5.547608520107278,
+          "lng": 6.335289720107278
+        }
+      },
+      "formatted_address": "G8XP+HJP, 334114, Ofagbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5489633,6.336583999999999",
+      "google_place_id": "ChIJg618zWyGQRARtdHBBCJp_QM"
+    }
+  },
+  {
+    "id": "40949",
+    "name": "OFATECH, OMOHA, OFAGBE",
+    "registration_area_id": "2257",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "10/09/04/010",
+    "remark": "EXISTING PU",
+    "ward_id": "2257",
+    "ward_name": "OFAGBE",
+    "local_government_id": "195",
+    "local_government_name": "ISOKO NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5489633,
+      "longitude": 6.336583999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.550308179892721,
+          "lng": 6.337989379892722
+        },
+        "southwest": {
+          "lat": 5.547608520107278,
+          "lng": 6.335289720107278
+        }
+      },
+      "formatted_address": "G8XP+HJP, 334114, Ofagbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5489633,6.336583999999999",
+      "google_place_id": "ChIJg618zWyGQRARtdHBBCJp_QM"
+    }
+  },
+  {
+    "id": "40950",
+    "name": "COLLEGE ROAD, OGWO VILLAGE/COLLEGE ROAD, OFAGBE",
+    "registration_area_id": "2257",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "10/09/04/011",
+    "remark": "EXISTING PU",
+    "ward_id": "2257",
+    "ward_name": "OFAGBE",
+    "local_government_id": "195",
+    "local_government_name": "ISOKO NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5489633,
+      "longitude": 6.336583999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.550308179892721,
+          "lng": 6.337989379892722
+        },
+        "southwest": {
+          "lat": 5.547608520107278,
+          "lng": 6.335289720107278
+        }
+      },
+      "formatted_address": "G8XP+HJP, 334114, Ofagbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5489633,6.336583999999999",
+      "google_place_id": "ChIJg618zWyGQRARtdHBBCJp_QM"
+    }
+  },
+  {
+    "id": "40951",
+    "name": "OPEN SPACE, OZEGBE STREET JUNCTION",
+    "registration_area_id": "2257",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "10/09/04/012",
+    "remark": "NEW PU",
+    "ward_id": "2257",
+    "ward_name": "OFAGBE",
+    "local_government_id": "195",
+    "local_government_name": "ISOKO NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.544723299999999,
+      "longitude": 6.232264199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.546037079892722,
+          "lng": 6.233450729892722
+        },
+        "southwest": {
+          "lat": 5.543337420107278,
+          "lng": 6.230751070107278
+        }
+      },
+      "formatted_address": "G6VJ+VWM, college road, Ofagbe, Ozoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.544723299999999,6.232264199999999",
+      "google_place_id": "ChIJXwbeGlKbQRARYDVtnJPmFs0"
+    }
+  },
+  {
+    "id": "40952",
+    "name": "OPEN SPACE, URUONWA STREET JUNCTION",
+    "registration_area_id": "2257",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "10/09/04/013",
+    "remark": "NEW PU",
+    "ward_id": "2257",
+    "ward_name": "OFAGBE",
+    "local_government_id": "195",
+    "local_government_name": "ISOKO NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.544723299999999,
+      "longitude": 6.232264199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.546037079892722,
+          "lng": 6.233450729892722
+        },
+        "southwest": {
+          "lat": 5.543337420107278,
+          "lng": 6.230751070107278
+        }
+      },
+      "formatted_address": "G6VJ+VWM, college road, Ofagbe, Ozoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.544723299999999,6.232264199999999",
+      "google_place_id": "ChIJXwbeGlKbQRARYDVtnJPmFs0"
+    }
+  },
+  {
+    "id": "40953",
+    "name": "OPEN SPACE, OTIBIO OVRE ROAD JUNCTION",
+    "registration_area_id": "2257",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "10/09/04/014",
+    "remark": "NEW PU",
+    "ward_id": "2257",
+    "ward_name": "OFAGBE",
+    "local_government_id": "195",
+    "local_government_name": "ISOKO NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5688867,
+      "longitude": 6.146859099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.570236529892722,
+          "lng": 6.148208929892721
+        },
+        "southwest": {
+          "lat": 5.567536870107278,
+          "lng": 6.145509270107278
+        }
+      },
+      "formatted_address": "L.G.A, No .53, No. 53 otibio street, Ofagbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5688867,6.146859099999999",
+      "google_place_id": "ChIJUYvEiniZQRARYp2j3eXTdyc"
+    }
+  },
+  {
+    "id": "40954",
+    "name": "OPEN SPACE, OKOTIEBOR STREET JUNCTION",
+    "registration_area_id": "2257",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "10/09/04/015",
+    "remark": "NEW PU",
+    "ward_id": "2257",
+    "ward_name": "OFAGBE",
+    "local_government_id": "195",
+    "local_government_name": "ISOKO NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "40955",
+    "name": "OPEN SPACE, IBADA STREET JUNCTION",
+    "registration_area_id": "2257",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "10/09/04/016",
+    "remark": "NEW PU",
+    "ward_id": "2257",
+    "ward_name": "OFAGBE",
+    "local_government_id": "195",
+    "local_government_name": "ISOKO NORTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5688867,
+      "longitude": 6.146859099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.570236529892722,
+          "lng": 6.148208929892721
+        },
+        "southwest": {
+          "lat": 5.567536870107278,
+          "lng": 6.145509270107278
+        }
+      },
+      "formatted_address": "L.G.A, No .53, No. 53 otibio street, Ofagbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5688867,6.146859099999999",
+      "google_place_id": "ChIJUYvEiniZQRARYp2j3eXTdyc"
+    }
+  }
+]

@@ -1,0 +1,615 @@
+[
+  {
+    "id": "98339",
+    "name": "SABUWAR KASA I PRI.SCHOOL",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/17/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9815608,
+      "longitude": 7.622266499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98290287989272,
+          "lng": 7.62356807989272
+        },
+        "southwest": {
+          "lat": 12.98020322010728,
+          "lng": 7.620868420107276
+        }
+      },
+      "formatted_address": "Amado kurfi road, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9815608,7.622266499999999",
+      "google_place_id": "ChIJOyJFpy4jsBER0M-Fu_Pt2Lo"
+    }
+  },
+  {
+    "id": "98340",
+    "name": "SABUWAR KASA II KOFAR FADA",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/17/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98341",
+    "name": "SABUWAR KASA III PRI.SCHOOL",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/17/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9815608,
+      "longitude": 7.622266499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98290287989272,
+          "lng": 7.62356807989272
+        },
+        "southwest": {
+          "lat": 12.98020322010728,
+          "lng": 7.620868420107276
+        }
+      },
+      "formatted_address": "Amado kurfi road, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9815608,7.622266499999999",
+      "google_place_id": "ChIJOyJFpy4jsBER0M-Fu_Pt2Lo"
+    }
+  },
+  {
+    "id": "98342",
+    "name": "UNGUWAR MAIRIGA I PRI.SCHOOL",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/17/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9815608,
+      "longitude": 7.622266499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98290287989272,
+          "lng": 7.62356807989272
+        },
+        "southwest": {
+          "lat": 12.98020322010728,
+          "lng": 7.620868420107276
+        }
+      },
+      "formatted_address": "Amado kurfi road, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9815608,7.622266499999999",
+      "google_place_id": "ChIJOyJFpy4jsBER0M-Fu_Pt2Lo"
+    }
+  },
+  {
+    "id": "98343",
+    "name": "UNGUWAR MAIRIGA II RAFIN - IYA",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/17/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98344",
+    "name": "UNGUWAR RIGA RAFIN - IYAKA",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/17/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98345",
+    "name": "UNGUWAR BALA I KOFAR GIDAN MAI UNGUWA",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/17/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9698659,
+      "longitude": 7.607837000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97127927989272,
+          "lng": 7.60917147989272
+        },
+        "southwest": {
+          "lat": 12.96857962010728,
+          "lng": 7.606471820107276
+        }
+      },
+      "formatted_address": "XJ95+X44, Unnamed Road, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9698659,7.607837000000001",
+      "google_place_id": "ChIJhwzoN5s7sBER-MwgwoQ1mMk"
+    }
+  },
+  {
+    "id": "98346",
+    "name": "UNGUWAR BALA II PRI.SCHOOL",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/17/06/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.327014,
+      "longitude": 8.452622,
+      "viewport": {
+        "northeast": {
+          "lat": 11.32881492989272,
+          "lng": 8.453806429892722
+        },
+        "southwest": {
+          "lat": 11.32611527010728,
+          "lng": 8.451106770107279
+        }
+      },
+      "formatted_address": "Bala, 7F3C8FG3+R2X Unguwar Mal, Gishirya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.327014,8.452622",
+      "google_place_id": "ChIJIxmvypGsrRERwvQCwoAVpIk"
+    }
+  },
+  {
+    "id": "98347",
+    "name": "UNGUWAR WAZIRI KOFAR GIDAN WAZIRI'",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/17/06/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6683906,
+      "longitude": 7.8090989,
+      "viewport": {
+        "northeast": {
+          "lat": 12.66973247989272,
+          "lng": 7.810409229892721
+        },
+        "southwest": {
+          "lat": 12.66703282010728,
+          "lng": 7.807709570107277
+        }
+      },
+      "formatted_address": "Saban layi, 822105, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6683906,7.8090989",
+      "google_place_id": "ChIJixGIFXQrrhERp9Ba-ZaFuPA"
+    }
+  },
+  {
+    "id": "98348",
+    "name": "UNGUWAR SHEKA OPEN SPACE",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/17/06/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98349",
+    "name": "BABBAR GONA BABBAR GONA",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/17/06/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.1642766,
+      "longitude": 7.752828,
+      "viewport": {
+        "northeast": {
+          "lat": 11.16567012989272,
+          "lng": 7.75415282989272
+        },
+        "southwest": {
+          "lat": 11.16297047010728,
+          "lng": 7.751453170107276
+        }
+      },
+      "formatted_address": "No 9/11 Zabi Street Zaria Zaria Nagoyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1642766,7.752828",
+      "google_place_id": "ChIJzV55BkiBshER3MbXdtfsiTg"
+    }
+  },
+  {
+    "id": "98350",
+    "name": "SABUWAR KASA IA  PRI. SCHOOL",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "20/17/06/012",
+    "remark": "NEW PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9815608,
+      "longitude": 7.622266499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98290287989272,
+          "lng": 7.62356807989272
+        },
+        "southwest": {
+          "lat": 12.98020322010728,
+          "lng": 7.620868420107276
+        }
+      },
+      "formatted_address": "Amado kurfi road, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9815608,7.622266499999999",
+      "google_place_id": "ChIJOyJFpy4jsBER0M-Fu_Pt2Lo"
+    }
+  },
+  {
+    "id": "98351",
+    "name": "SABUWAR KASA IIA  KOFAR FADA",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "20/17/06/013",
+    "remark": "NEW PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.54861,
+      "longitude": 7.665662500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.5929397,
+          "lng": 7.71854
+        },
+        "southwest": {
+          "lat": 11.4803491,
+          "lng": 7.6217469
+        }
+      },
+      "formatted_address": "Sabuwar Kasa, 832103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.54861,7.665662500000001",
+      "google_place_id": "ChIJpa1zW8dzshERv6HLDWxqI_A"
+    }
+  },
+  {
+    "id": "98352",
+    "name": "SABUWAR KASA III VET. CLINIC",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "20/17/06/014",
+    "remark": "NEW PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.5533832,
+      "longitude": 7.6722336,
+      "viewport": {
+        "northeast": {
+          "lat": 11.55472757989272,
+          "lng": 7.673636379892721
+        },
+        "southwest": {
+          "lat": 11.55202792010728,
+          "lng": 7.670936720107277
+        }
+      },
+      "formatted_address": "HM3C+9V5, 832103, Dan Rimi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5533832,7.6722336",
+      "google_place_id": "ChIJd3go5qNzshERJwm4BYS8SRM"
+    }
+  },
+  {
+    "id": "98353",
+    "name": "DAN RIMI HEALTH CLINIC",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "20/17/06/015",
+    "remark": "NEW PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.5533832,
+      "longitude": 7.6722336,
+      "viewport": {
+        "northeast": {
+          "lat": 11.55472757989272,
+          "lng": 7.673636379892721
+        },
+        "southwest": {
+          "lat": 11.55202792010728,
+          "lng": 7.670936720107277
+        }
+      },
+      "formatted_address": "HM3C+9V5, 832103, Dan Rimi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5533832,7.6722336",
+      "google_place_id": "ChIJd3go5qNzshERJwm4BYS8SRM"
+    }
+  },
+  {
+    "id": "98354",
+    "name": "JAMMU PRI. SCHOOL RAFIN IYAKA",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "20/17/06/016",
+    "remark": "NEW PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98355",
+    "name": "SABON LAYIN BAJA PRI. SCHOOL",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "20/17/06/017",
+    "remark": "NEW PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9916195,
+      "longitude": 7.656489400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99287382989272,
+          "lng": 7.657842079892721
+        },
+        "southwest": {
+          "lat": 12.99017417010728,
+          "lng": 7.655142420107278
+        }
+      },
+      "formatted_address": "No 6, beside Maternal and Child Clinic, Kwado, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9916195,7.656489400000001",
+      "google_place_id": "ChIJsRnXwu4jsBERZLi6Gq5mspg"
+    }
+  },
+  {
+    "id": "98356",
+    "name": "SABON LAYIN BAJA PRI. SCHOOL",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "20/17/06/018",
+    "remark": "NEW PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9916195,
+      "longitude": 7.656489400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99287382989272,
+          "lng": 7.657842079892721
+        },
+        "southwest": {
+          "lat": 12.99017417010728,
+          "lng": 7.655142420107278
+        }
+      },
+      "formatted_address": "No 6, beside Maternal and Child Clinic, Kwado, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9916195,7.656489400000001",
+      "google_place_id": "ChIJsRnXwu4jsBERZLi6Gq5mspg"
+    }
+  },
+  {
+    "id": "98357",
+    "name": "MAHANGI PRI. SCHOOL",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "20/17/06/019",
+    "remark": "NEW PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.4121857,
+      "longitude": 7.9615212,
+      "viewport": {
+        "northeast": {
+          "lat": 11.41352017989272,
+          "lng": 7.962892479892723
+        },
+        "southwest": {
+          "lat": 11.41082052010728,
+          "lng": 7.960192820107279
+        }
+      },
+      "formatted_address": "CX66+VJC, 812103, Ungwan Alabo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4121857,7.9615212",
+      "google_place_id": "ChIJVZ4Ac6uarRERrCTkQoJbxi0"
+    }
+  },
+  {
+    "id": "98358",
+    "name": "MAHANGI HEALTH FACILITY",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "20/17/06/020",
+    "remark": "NEW PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.5055,
+      "longitude": 7.6639,
+      "viewport": {
+        "northeast": {
+          "lat": 11.50680092989272,
+          "lng": 7.665228579892721
+        },
+        "southwest": {
+          "lat": 11.50410127010728,
+          "lng": 7.662528920107277
+        }
+      },
+      "formatted_address": "GM47+5HR, 832103, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5055,7.6639",
+      "google_place_id": "ChIJnU8j73pxshERInmA8A_hZzk"
+    }
+  },
+  {
+    "id": "98359",
+    "name": "SHEKA HEALTH CLINIC",
+    "registration_area_id": "5006",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "20/17/06/021",
+    "remark": "NEW PU",
+    "ward_id": "5006",
+    "ward_name": "SABUWAR KASA",
+    "local_government_id": "430",
+    "local_government_name": "KAFUR",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9676632,
+      "longitude": 7.6087108,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96902697989272,
+          "lng": 7.610139429892723
+        },
+        "southwest": {
+          "lat": 12.96632732010728,
+          "lng": 7.607439770107279
+        }
+      },
+      "formatted_address": "Sabuwar unguwa, 820223, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9676632,7.6087108",
+      "google_place_id": "ChIJ17C89m87sBER3qX_yltHDC4"
+    }
+  }
+]

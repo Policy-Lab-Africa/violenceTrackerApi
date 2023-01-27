@@ -1,0 +1,649 @@
+[
+  {
+    "id": "23564",
+    "name": "MAIWA,    PRIMARY SCHOOL",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "05/20/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 12.3703227,
+      "longitude": 10.2734645,
+      "viewport": {
+        "northeast": {
+          "lat": 12.37170547989272,
+          "lng": 10.27486477989272
+        },
+        "southwest": {
+          "lat": 12.36900582010728,
+          "lng": 10.27216512010728
+        }
+      },
+      "formatted_address": "Maiwa Primary School, 752105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3703227,10.2734645",
+      "google_place_id": "ChIJv-ZKNnDHqRERP_HUK9r1Blk"
+    }
+  },
+  {
+    "id": "23565",
+    "name": "ZAREKU,   NEAR VILLAGE HEAD",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "05/20/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 12.4026325,
+      "longitude": 10.2824483,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4596214,
+          "lng": 10.3629276
+        },
+        "southwest": {
+          "lat": 12.3272325,
+          "lng": 10.2011748
+        }
+      },
+      "formatted_address": "Maiwa, 752105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4026325,10.2824483",
+      "google_place_id": "ChIJe2UP2pfHqRERp7l4WZnehZU"
+    }
+  },
+  {
+    "id": "23566",
+    "name": "GAYAMBO,  PRIMARY  SCHOOL",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "05/20/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 12.3904506,
+      "longitude": 10.2611517,
+      "viewport": {
+        "northeast": {
+          "lat": 12.39190167989272,
+          "lng": 10.26249722989272
+        },
+        "southwest": {
+          "lat": 12.38920202010728,
+          "lng": 10.25979757010728
+        }
+      },
+      "formatted_address": "Gayambo Primary School, 752105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3904506,10.2611517",
+      "google_place_id": "ChIJkyOLlIfHqRERTX-_2TwxMr0"
+    }
+  },
+  {
+    "id": "23567",
+    "name": "SABON GARI,  PRIMARY  SCHOOL I",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "05/20/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 12.4026325,
+      "longitude": 10.2824483,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4596214,
+          "lng": 10.3629276
+        },
+        "southwest": {
+          "lat": 12.3272325,
+          "lng": 10.2011748
+        }
+      },
+      "formatted_address": "Maiwa, 752105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4026325,10.2824483",
+      "google_place_id": "ChIJe2UP2pfHqRERp7l4WZnehZU"
+    }
+  },
+  {
+    "id": "23568",
+    "name": "SABON GARI,  PRIMARY  SCHOOL II",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "05/20/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 12.193741,
+      "longitude": 10.7729317,
+      "viewport": {
+        "northeast": {
+          "lat": 12.19503427989272,
+          "lng": 10.77441747989272
+        },
+        "southwest": {
+          "lat": 12.19233462010728,
+          "lng": 10.77171782010728
+        }
+      },
+      "formatted_address": "5QVF+F5V, 752106, Sabon Gari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.193741,10.7729317",
+      "google_place_id": "ChIJpRi3PBddBxERB1_GiFvAjso"
+    }
+  },
+  {
+    "id": "23569",
+    "name": "AGON,   N.V.H.H.",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "05/20/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23570",
+    "name": "ASURBUN,   N.V.H.H.",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "05/20/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 12.4026325,
+      "longitude": 10.2824483,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4596214,
+          "lng": 10.3629276
+        },
+        "southwest": {
+          "lat": 12.3272325,
+          "lng": 10.2011748
+        }
+      },
+      "formatted_address": "Maiwa, 752105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4026325,10.2824483",
+      "google_place_id": "ChIJe2UP2pfHqRERp7l4WZnehZU"
+    }
+  },
+  {
+    "id": "23571",
+    "name": "KIZIRI,   N.V.H.H.",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "05/20/10/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 12.4026325,
+      "longitude": 10.2824483,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4596214,
+          "lng": 10.3629276
+        },
+        "southwest": {
+          "lat": 12.3272325,
+          "lng": 10.2011748
+        }
+      },
+      "formatted_address": "Maiwa, 752105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4026325,10.2824483",
+      "google_place_id": "ChIJe2UP2pfHqRERp7l4WZnehZU"
+    }
+  },
+  {
+    "id": "23572",
+    "name": "KASKINDIM,   N.V.H.H.",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "05/20/10/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 12.4026325,
+      "longitude": 10.2824483,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4596214,
+          "lng": 10.3629276
+        },
+        "southwest": {
+          "lat": 12.3272325,
+          "lng": 10.2011748
+        }
+      },
+      "formatted_address": "Maiwa, 752105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4026325,10.2824483",
+      "google_place_id": "ChIJe2UP2pfHqRERp7l4WZnehZU"
+    }
+  },
+  {
+    "id": "23573",
+    "name": "KUKUWA,   N.V.H.H.",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "05/20/10/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23574",
+    "name": "GARIN MALAM,   N.V.H.H.",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "05/20/10/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23575",
+    "name": "MALLAMAWAN,   PRIMARY SCHOOL",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "05/20/10/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3059711,
+      "longitude": 9.840288500000002,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30721507989272,
+          "lng": 9.841407179892721
+        },
+        "southwest": {
+          "lat": 10.30451542010728,
+          "lng": 9.838707520107276
+        }
+      },
+      "formatted_address": "Kaisawa Primary School, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3059711,9.840288500000002",
+      "google_place_id": "ChIJVTOtGavXVBARUJ2PTi8qmqI"
+    }
+  },
+  {
+    "id": "23576",
+    "name": "GURKA GABAS,   PRIMARY SCHOOL",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "05/20/10/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 12.3549997,
+      "longitude": 10.2406311,
+      "viewport": {
+        "northeast": {
+          "lat": 12.35696817989272,
+          "lng": 10.24147662989272
+        },
+        "southwest": {
+          "lat": 12.35426852010728,
+          "lng": 10.23877697010728
+        }
+      },
+      "formatted_address": "963R+X7R, 752105, Gurka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3549997,10.2406311",
+      "google_place_id": "ChIJ__wU4r64qRER3UjuHMQqssY"
+    }
+  },
+  {
+    "id": "23577",
+    "name": "GURKA TSAKIYA,   TSANGAYA",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "05/20/10/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23578",
+    "name": "GURKA  YAMMA,   NEAR VILLAGE HEAD",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "05/20/10/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23579",
+    "name": "TUBSUGA,   NEAR VILLAGE HEAD",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "05/20/10/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23580",
+    "name": "KUKAWAN KIZIR,   NEAR VILLAGE HEAD",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "05/20/10/017",
+    "remark": "EXISTING PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 12.4026325,
+      "longitude": 10.2824483,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4596214,
+          "lng": 10.3629276
+        },
+        "southwest": {
+          "lat": 12.3272325,
+          "lng": 10.2011748
+        }
+      },
+      "formatted_address": "Maiwa, 752105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4026325,10.2824483",
+      "google_place_id": "ChIJe2UP2pfHqRERp7l4WZnehZU"
+    }
+  },
+  {
+    "id": "23581",
+    "name": "KUDUBAN,   NEAR VILLAGE HEAD",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "05/20/10/018",
+    "remark": "EXISTING PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 12.4026325,
+      "longitude": 10.2824483,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4596214,
+          "lng": 10.3629276
+        },
+        "southwest": {
+          "lat": 12.3272325,
+          "lng": 10.2011748
+        }
+      },
+      "formatted_address": "Maiwa, 752105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4026325,10.2824483",
+      "google_place_id": "ChIJe2UP2pfHqRERp7l4WZnehZU"
+    }
+  },
+  {
+    "id": "23582",
+    "name": "ALHAJERI,   NEAR VILLAGE HEAD",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "05/20/10/019",
+    "remark": "EXISTING PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 12.4026325,
+      "longitude": 10.2824483,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4596214,
+          "lng": 10.3629276
+        },
+        "southwest": {
+          "lat": 12.3272325,
+          "lng": 10.2011748
+        }
+      },
+      "formatted_address": "Maiwa, 752105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4026325,10.2824483",
+      "google_place_id": "ChIJe2UP2pfHqRERp7l4WZnehZU"
+    }
+  },
+  {
+    "id": "23583",
+    "name": "GARIN JAURO BELLO,   NEAR VILLAGE HEAD",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "05/20/10/020",
+    "remark": "EXISTING PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": null
+  },
+  {
+    "id": "23584",
+    "name": "MAIWA DESPENSARY",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "05/20/10/021",
+    "remark": "NEW PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 12.3717124,
+      "longitude": 10.2748906,
+      "viewport": {
+        "northeast": {
+          "lat": 12.37302847989272,
+          "lng": 10.27625987989272
+        },
+        "southwest": {
+          "lat": 12.37032882010728,
+          "lng": 10.27356022010728
+        }
+      },
+      "formatted_address": "97CF+MXR, 752105, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3717124,10.2748906",
+      "google_place_id": "ChIJZybEp3HHqRERuYxQKSJqLYg"
+    }
+  },
+  {
+    "id": "23585",
+    "name": "GAYAMBO,  PRIMARY  SCHOOL II",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "05/20/10/022",
+    "remark": "NEW PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3102386,
+      "longitude": 9.798632200000002,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31180157989272,
+          "lng": 9.800284179892722
+        },
+        "southwest": {
+          "lat": 10.30910192010728,
+          "lng": 9.797584520107279
+        }
+      },
+      "formatted_address": "8Q6X+3FR, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3102386,9.798632200000002",
+      "google_place_id": "ChIJt-S-ULjQVBARYa4AX_-oGKs"
+    }
+  },
+  {
+    "id": "23586",
+    "name": "GURKA PRI. HEALTH CARE",
+    "registration_area_id": "1276",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "05/20/10/023",
+    "remark": "NEW PU",
+    "ward_id": "1276",
+    "ward_name": "MAIWA",
+    "local_government_id": "110",
+    "local_government_name": "ZAKI",
+    "state_id": "5",
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 12.3517464,
+      "longitude": 10.2365874,
+      "viewport": {
+        "northeast": {
+          "lat": 12.35348367989272,
+          "lng": 10.23783202989272
+        },
+        "southwest": {
+          "lat": 12.35078402010728,
+          "lng": 10.23513237010728
+        }
+      },
+      "formatted_address": "962P+MJH, 752105, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3517464,10.2365874",
+      "google_place_id": "ChIJu5e0bse4qRERNgzN9YwaNP0"
+    }
+  }
+]

@@ -1,0 +1,863 @@
+[
+  {
+    "id": "14708",
+    "name": "IFITE P/S I",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "04/10/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1295448,
+      "longitude": 6.8994495,
+      "viewport": {
+        "northeast": {
+          "lat": 6.182811399999999,
+          "lng": 6.974158099999999
+        },
+        "southwest": {
+          "lat": 6.091304999999999,
+          "lng": 6.789955
+        }
+      },
+      "formatted_address": "Idemili North, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1295448,6.8994495",
+      "google_place_id": "ChIJ4dgPmOOQQxARd3f1gJ29Xe8"
+    }
+  },
+  {
+    "id": "14709",
+    "name": "ILO OFURU I",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "04/10/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1295448,
+      "longitude": 6.8994495,
+      "viewport": {
+        "northeast": {
+          "lat": 6.182811399999999,
+          "lng": 6.974158099999999
+        },
+        "southwest": {
+          "lat": 6.091304999999999,
+          "lng": 6.789955
+        }
+      },
+      "formatted_address": "Idemili North, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1295448,6.8994495",
+      "google_place_id": "ChIJ4dgPmOOQQxARd3f1gJ29Xe8"
+    }
+  },
+  {
+    "id": "14710",
+    "name": "ILO OFURU II",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "04/10/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1295448,
+      "longitude": 6.8994495,
+      "viewport": {
+        "northeast": {
+          "lat": 6.182811399999999,
+          "lng": 6.974158099999999
+        },
+        "southwest": {
+          "lat": 6.091304999999999,
+          "lng": 6.789955
+        }
+      },
+      "formatted_address": "Idemili North, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1295448,6.8994495",
+      "google_place_id": "ChIJ4dgPmOOQQxARd3f1gJ29Xe8"
+    }
+  },
+  {
+    "id": "14711",
+    "name": "IFITE P/S II",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "04/10/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1530683,
+      "longitude": 6.8591004,
+      "viewport": {
+        "northeast": {
+          "lat": 6.154358379892721,
+          "lng": 6.860442479892722
+        },
+        "southwest": {
+          "lat": 6.151658720107277,
+          "lng": 6.857742820107278
+        }
+      },
+      "formatted_address": "First Road, Ikemba Dr, Ikenga Ogidi 434101, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1530683,6.8591004",
+      "google_place_id": "ChIJX5xWK5iRQxARDGBipxiISy8"
+    }
+  },
+  {
+    "id": "14712",
+    "name": "COMMUNITY P/S I",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "04/10/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1077524,
+      "longitude": 6.9209397,
+      "viewport": {
+        "northeast": {
+          "lat": 6.109123279892723,
+          "lng": 6.922286829892723
+        },
+        "southwest": {
+          "lat": 6.106423620107279,
+          "lng": 6.919587170107279
+        }
+      },
+      "formatted_address": "4W5C+39F, Uke, Abatete, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1077524,6.9209397",
+      "google_place_id": "ChIJt3Ij8wGZQxARXRSeDp0KYxs"
+    }
+  },
+  {
+    "id": "14713",
+    "name": "COMMUNITY P/S II",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "04/10/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1077524,
+      "longitude": 6.9209397,
+      "viewport": {
+        "northeast": {
+          "lat": 6.109123279892723,
+          "lng": 6.922286829892723
+        },
+        "southwest": {
+          "lat": 6.106423620107279,
+          "lng": 6.919587170107279
+        }
+      },
+      "formatted_address": "4W5C+39F, Uke, Abatete, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1077524,6.9209397",
+      "google_place_id": "ChIJt3Ij8wGZQxARXRSeDp0KYxs"
+    }
+  },
+  {
+    "id": "14714",
+    "name": "ILO UMUSIOME",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "04/10/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.147505199999999,
+      "longitude": 6.8496568,
+      "viewport": {
+        "northeast": {
+          "lat": 6.148793229892722,
+          "lng": 6.850962979892723
+        },
+        "southwest": {
+          "lat": 6.146093570107278,
+          "lng": 6.848263320107279
+        }
+      },
+      "formatted_address": "4RWX+XRQ, Nkpor 434101, Nkpor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.147505199999999,6.8496568",
+      "google_place_id": "ChIJ4z6nN7WRQxARckgFq4gibJY"
+    }
+  },
+  {
+    "id": "14715",
+    "name": "ILO OGWUGWU OYE",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "04/10/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1295448,
+      "longitude": 6.8994495,
+      "viewport": {
+        "northeast": {
+          "lat": 6.182811399999999,
+          "lng": 6.974158099999999
+        },
+        "southwest": {
+          "lat": 6.091304999999999,
+          "lng": 6.789955
+        }
+      },
+      "formatted_address": "Idemili North, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1295448,6.8994495",
+      "google_place_id": "ChIJ4dgPmOOQQxARd3f1gJ29Xe8"
+    }
+  },
+  {
+    "id": "14716",
+    "name": "COMMUNITY P/S III",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "04/10/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1077524,
+      "longitude": 6.9209397,
+      "viewport": {
+        "northeast": {
+          "lat": 6.109123279892723,
+          "lng": 6.922286829892723
+        },
+        "southwest": {
+          "lat": 6.106423620107279,
+          "lng": 6.919587170107279
+        }
+      },
+      "formatted_address": "4W5C+39F, Uke, Abatete, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1077524,6.9209397",
+      "google_place_id": "ChIJt3Ij8wGZQxARXRSeDp0KYxs"
+    }
+  },
+  {
+    "id": "14717",
+    "name": "NKPOR TOWN HALL",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "04/10/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.147505199999999,
+      "longitude": 6.8496568,
+      "viewport": {
+        "northeast": {
+          "lat": 6.148793229892722,
+          "lng": 6.850962979892723
+        },
+        "southwest": {
+          "lat": 6.146093570107278,
+          "lng": 6.848263320107279
+        }
+      },
+      "formatted_address": "4RWX+XRQ, Nkpor 434101, Nkpor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.147505199999999,6.8496568",
+      "google_place_id": "ChIJ4z6nN7WRQxARckgFq4gibJY"
+    }
+  },
+  {
+    "id": "14718",
+    "name": "IRO ISINGWU",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "04/10/05/011",
+    "remark": "EXISTING PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1295448,
+      "longitude": 6.8994495,
+      "viewport": {
+        "northeast": {
+          "lat": 6.182811399999999,
+          "lng": 6.974158099999999
+        },
+        "southwest": {
+          "lat": 6.091304999999999,
+          "lng": 6.789955
+        }
+      },
+      "formatted_address": "Idemili North, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1295448,6.8994495",
+      "google_place_id": "ChIJ4dgPmOOQQxARd3f1gJ29Xe8"
+    }
+  },
+  {
+    "id": "14719",
+    "name": "ILO OBOFIA I",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "04/10/05/012",
+    "remark": "EXISTING PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1295448,
+      "longitude": 6.8994495,
+      "viewport": {
+        "northeast": {
+          "lat": 6.182811399999999,
+          "lng": 6.974158099999999
+        },
+        "southwest": {
+          "lat": 6.091304999999999,
+          "lng": 6.789955
+        }
+      },
+      "formatted_address": "Idemili North, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1295448,6.8994495",
+      "google_place_id": "ChIJ4dgPmOOQQxARd3f1gJ29Xe8"
+    }
+  },
+  {
+    "id": "14720",
+    "name": "ILO OBOFIA II",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "04/10/05/013",
+    "remark": "EXISTING PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1295448,
+      "longitude": 6.8994495,
+      "viewport": {
+        "northeast": {
+          "lat": 6.182811399999999,
+          "lng": 6.974158099999999
+        },
+        "southwest": {
+          "lat": 6.091304999999999,
+          "lng": 6.789955
+        }
+      },
+      "formatted_address": "Idemili North, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1295448,6.8994495",
+      "google_place_id": "ChIJ4dgPmOOQQxARd3f1gJ29Xe8"
+    }
+  },
+  {
+    "id": "14721",
+    "name": "OSELOKA UMUSIOME SQUARE I",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "04/10/05/014",
+    "remark": "EXISTING PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.147505199999999,
+      "longitude": 6.8496568,
+      "viewport": {
+        "northeast": {
+          "lat": 6.148793229892722,
+          "lng": 6.850962979892723
+        },
+        "southwest": {
+          "lat": 6.146093570107278,
+          "lng": 6.848263320107279
+        }
+      },
+      "formatted_address": "4RWX+XRQ, Nkpor 434101, Nkpor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.147505199999999,6.8496568",
+      "google_place_id": "ChIJ4z6nN7WRQxARckgFq4gibJY"
+    }
+  },
+  {
+    "id": "14722",
+    "name": "OSELOKA UMUSIOME SQUARE II",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "04/10/05/015",
+    "remark": "EXISTING PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.147505199999999,
+      "longitude": 6.8496568,
+      "viewport": {
+        "northeast": {
+          "lat": 6.148793229892722,
+          "lng": 6.850962979892723
+        },
+        "southwest": {
+          "lat": 6.146093570107278,
+          "lng": 6.848263320107279
+        }
+      },
+      "formatted_address": "4RWX+XRQ, Nkpor 434101, Nkpor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.147505199999999,6.8496568",
+      "google_place_id": "ChIJ4z6nN7WRQxARckgFq4gibJY"
+    }
+  },
+  {
+    "id": "14723",
+    "name": "ILO ISINGWU",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "04/10/05/016",
+    "remark": "EXISTING PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "14724",
+    "name": "ILO MGBACHU SQUARE, NKPOR UNO(OPEN SPACE)",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "04/10/05/017",
+    "remark": "NEW PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "14725",
+    "name": "OPEN SPACE EKE OWELLE SQUARE AMAFOR",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "04/10/05/018",
+    "remark": "NEW PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.164874999999999,
+      "longitude": 6.820430699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.166279979892721,
+          "lng": 6.82172847989272
+        },
+        "southwest": {
+          "lat": 6.163580320107277,
+          "lng": 6.819028820107277
+        }
+      },
+      "formatted_address": "local government area, Nkpor Junction, Idemili St, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.164874999999999,6.820430699999999",
+      "google_place_id": "ChIJSQEymgGTQxARBNe4v_NLulQ"
+    }
+  },
+  {
+    "id": "14726",
+    "name": "LANDLORD ASS./SECURITY OFFICE, ABOMILI ESTATE MGBACHU",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "04/10/05/019",
+    "remark": "NEW PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "14727",
+    "name": "ILO UBUBA OKPUNO SQUARE (OPEN SPACE)",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "04/10/05/020",
+    "remark": "NEW PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "14728",
+    "name": "ILO UBUBA(OPEN SPACE)",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "04/10/05/021",
+    "remark": "NEW PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.155376299999999,
+      "longitude": 6.842556399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.156726129892721,
+          "lng": 6.843906229892721
+        },
+        "southwest": {
+          "lat": 6.154026470107278,
+          "lng": 6.841206570107278
+        }
+      },
+      "formatted_address": "Ububa Rd, Nkpor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.155376299999999,6.842556399999999",
+      "google_place_id": "ChIJb2Pxu4ORQxARBGXxNWuh4G8"
+    }
+  },
+  {
+    "id": "14729",
+    "name": "NKPOR LIBRARY BY SISTER'S FELLOWSHIP",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "04/10/05/022",
+    "remark": "NEW PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1201506,
+      "longitude": 6.859831,
+      "viewport": {
+        "northeast": {
+          "lat": 6.121574679892722,
+          "lng": 6.861226529892721
+        },
+        "southwest": {
+          "lat": 6.118875020107278,
+          "lng": 6.858526870107277
+        }
+      },
+      "formatted_address": "4VC5+3W8, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1201506,6.859831",
+      "google_place_id": "ChIJISka0DmRQxARWmC0kyZ80UI"
+    }
+  },
+  {
+    "id": "14730",
+    "name": "NKPOR MODEL PRIMARY HEALTH CENTRE, NKPOR-UNO",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "04/10/05/023",
+    "remark": "NEW PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.151599999999999,
+      "longitude": 6.831399999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.152715779892722,
+          "lng": 6.832886429892721
+        },
+        "southwest": {
+          "lat": 6.150016120107278,
+          "lng": 6.830186770107277
+        }
+      },
+      "formatted_address": "5R2J+JHR, Nkpor 434105, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.151599999999999,6.831399999999999",
+      "google_place_id": "ChIJZV6cNCuSQxAReVz8uwXvKq0"
+    }
+  },
+  {
+    "id": "14731",
+    "name": "ASAGBA SQUARE UBUBA (OPEN SPACE)",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "04/10/05/024",
+    "remark": "NEW PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  },
+  {
+    "id": "14732",
+    "name": "UBUBA HALL NKPOR UNO",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "04/10/05/025",
+    "remark": "NEW PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.143620200000001,
+      "longitude": 6.8579227,
+      "viewport": {
+        "northeast": {
+          "lat": 6.145003079892722,
+          "lng": 6.859318979892722
+        },
+        "southwest": {
+          "lat": 6.142303420107278,
+          "lng": 6.856619320107278
+        }
+      },
+      "formatted_address": "No. 1 Agu Ben Close, OFF OCHIAGHA STREET, UMUSIOME IDEMILI NORTH L. G. A, Ikenga Ogidi 434102, Nkpor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.143620200000001,6.8579227",
+      "google_place_id": "ChIJiyL_WHaRQxAREAi1qKa4Czg"
+    }
+  },
+  {
+    "id": "14733",
+    "name": "OTOR SQUARE UBUBA (OPEN SPACE)",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "04/10/05/026",
+    "remark": "NEW PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.155376299999999,
+      "longitude": 6.842556399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.156726129892721,
+          "lng": 6.843906229892721
+        },
+        "southwest": {
+          "lat": 6.154026470107278,
+          "lng": 6.841206570107278
+        }
+      },
+      "formatted_address": "Ububa Rd, Nkpor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.155376299999999,6.842556399999999",
+      "google_place_id": "ChIJb2Pxu4ORQxARBGXxNWuh4G8"
+    }
+  },
+  {
+    "id": "14734",
+    "name": "NKPOR TECHNICAL COLLEGE (SSS BLOCK)",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "04/10/05/027",
+    "remark": "NEW PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1562795,
+      "longitude": 6.8382744,
+      "viewport": {
+        "northeast": {
+          "lat": 6.157618529892723,
+          "lng": 6.839628729892722
+        },
+        "southwest": {
+          "lat": 6.154918870107279,
+          "lng": 6.836929070107278
+        }
+      },
+      "formatted_address": "5R4Q+G86, Nkpor 434105, Nkpor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1562795,6.8382744",
+      "google_place_id": "ChIJdStYWIGRQxARQLfz0zuMWgw"
+    }
+  },
+  {
+    "id": "14735",
+    "name": "NKPOR TECHNICAL COLLEGE (JSS BLOCK)",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "04/10/05/028",
+    "remark": "NEW PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1630365,
+      "longitude": 6.8336919,
+      "viewport": {
+        "northeast": {
+          "lat": 6.164399879892723,
+          "lng": 6.835037929892722
+        },
+        "southwest": {
+          "lat": 6.161700220107279,
+          "lng": 6.832338270107278
+        }
+      },
+      "formatted_address": "5R7M+6F8, New Market Road, Ogbunike 434105, Nkpor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1630365,6.8336919",
+      "google_place_id": "ChIJu20bwieSQxAREhJACheNBEA"
+    }
+  },
+  {
+    "id": "14736",
+    "name": "EZENNIA SQUARE ISINGWU NKPOR, ABOR-AKPU(OPEN SPACE)",
+    "registration_area_id": "879",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "04/10/05/029",
+    "remark": "NEW PU",
+    "ward_id": "879",
+    "ward_name": "NKPOR  I",
+    "local_government_id": "79",
+    "local_government_name": "IDEMILI NORTH",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": null
+  }
+]

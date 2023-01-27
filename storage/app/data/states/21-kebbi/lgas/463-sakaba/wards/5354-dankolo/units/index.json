@@ -1,0 +1,268 @@
+[
+  {
+    "id": "104461",
+    "name": "DANKOLO PRIMARY SCHOOL ?A  (DANKOLO PRIMARY SCHOOL )",
+    "registration_area_id": "5354",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "21/16/02/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5354",
+    "ward_name": "DANKOLO",
+    "local_government_id": "463",
+    "local_government_name": "SAKABA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104462",
+    "name": "UNG. OPEN SPACE (UNG. WADE)",
+    "registration_area_id": "5354",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "21/16/02/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5354",
+    "ward_name": "DANKOLO",
+    "local_government_id": "463",
+    "local_government_name": "SAKABA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104463",
+    "name": "UNGUWAR CHITAU OPEN SPACE (UNGUWAR CHITAU)",
+    "registration_area_id": "5354",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "21/16/02/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5354",
+    "ward_name": "DANKOLO",
+    "local_government_id": "463",
+    "local_government_name": "SAKABA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "104464",
+    "name": "DAURA PRIMARY SCHOOL (DAURA)",
+    "registration_area_id": "5354",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "21/16/02/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5354",
+    "ward_name": "DANKOLO",
+    "local_government_id": "463",
+    "local_government_name": "SAKABA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 13.0428008,
+      "longitude": 8.321089599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 13.04386322989272,
+          "lng": 8.32254727989272
+        },
+        "southwest": {
+          "lat": 13.04116357010728,
+          "lng": 8.319847620107275
+        }
+      },
+      "formatted_address": "28VC+4C8, 824101, Daura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0428008,8.321089599999999",
+      "google_place_id": "ChIJi_bxUHuZrxERIYHwCzVzdPg"
+    }
+  },
+  {
+    "id": "104465",
+    "name": "JANDAMO PRIMARY SCHOOL (GARKAR JANDAMO)",
+    "registration_area_id": "5354",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "21/16/02/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5354",
+    "ward_name": "DANKOLO",
+    "local_government_id": "463",
+    "local_government_name": "SAKABA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4458568,
+      "longitude": 4.2261237,
+      "viewport": {
+        "northeast": {
+          "lat": 12.44716447989272,
+          "lng": 4.227326829892722
+        },
+        "southwest": {
+          "lat": 12.44446482010728,
+          "lng": 4.224627170107278
+        }
+      },
+      "formatted_address": "C6WG+8CX, Sani Abacha Bye Pass, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4458568,4.2261237",
+      "google_place_id": "ChIJBR69IiwTyRERLPf8i4jVLFw"
+    }
+  },
+  {
+    "id": "104466",
+    "name": "AGALE PRIMARY SCHOOL (AGALE)",
+    "registration_area_id": "5354",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "21/16/02/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5354",
+    "ward_name": "DANKOLO",
+    "local_government_id": "463",
+    "local_government_name": "SAKABA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.294632,
+      "longitude": 4.462288,
+      "viewport": {
+        "northeast": {
+          "lat": 12.29577007989272,
+          "lng": 4.463659929892723
+        },
+        "southwest": {
+          "lat": 12.29307042010728,
+          "lng": 4.460960270107279
+        }
+      },
+      "formatted_address": "7FV6+WW2, opp. artel shop, 863104, Aliero, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.294632,4.462288",
+      "google_place_id": "ChIJ2yPD9hacyRERLIx4T7NZX2Y"
+    }
+  },
+  {
+    "id": "104467",
+    "name": "G.MESA OPEN SPACE (GARKAR MESA)",
+    "registration_area_id": "5354",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "21/16/02/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5354",
+    "ward_name": "DANKOLO",
+    "local_government_id": "463",
+    "local_government_name": "SAKABA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 39.4093366,
+      "longitude": -104.7619329,
+      "viewport": {
+        "northeast": {
+          "lat": 39.41058652989273,
+          "lng": -104.7605995701073
+        },
+        "southwest": {
+          "lat": 39.40788687010728,
+          "lng": -104.7632992298927
+        }
+      },
+      "formatted_address": "3217 CO-83, Franktown, CO 80116, United States",
+      "google_map_url": "https://maps.google.com?q=39.4093366,-104.7619329",
+      "google_place_id": "ChIJHTaenlSWbIcRytLUzI1iuDY"
+    }
+  },
+  {
+    "id": "104468",
+    "name": "DULUMBO PRIMARY SCHOOL (DULUMBO)",
+    "registration_area_id": "5354",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "21/16/02/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5354",
+    "ward_name": "DANKOLO",
+    "local_government_id": "463",
+    "local_government_name": "SAKABA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4530713,
+      "longitude": 4.1902307,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45471137989272,
+          "lng": 4.191531279892722
+        },
+        "southwest": {
+          "lat": 12.45201172010728,
+          "lng": 4.188831620107278
+        }
+      },
+      "formatted_address": "F53R+63H, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4530713,4.1902307",
+      "google_place_id": "ChIJSzyc9ysTyRERxNr7mwE7hVQ"
+    }
+  },
+  {
+    "id": "104469",
+    "name": "POLICE POST",
+    "registration_area_id": "5354",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "21/16/02/009",
+    "remark": "NEW PU",
+    "ward_id": "5354",
+    "ward_name": "DANKOLO",
+    "local_government_id": "463",
+    "local_government_name": "SAKABA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4317585,
+      "longitude": 4.1956212,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43309222989272,
+          "lng": 4.196851329892723
+        },
+        "southwest": {
+          "lat": 12.43039257010728,
+          "lng": 4.194151670107279
+        }
+      },
+      "formatted_address": "C5JW+P65, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4317585,4.1956212",
+      "google_place_id": "ChIJvQHAHOESyRER9s28qEx1w1U"
+    }
+  },
+  {
+    "id": "104470",
+    "name": "MA'AUNA",
+    "registration_area_id": "5354",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "21/16/02/010",
+    "remark": "NEW PU",
+    "ward_id": "5354",
+    "ward_name": "DANKOLO",
+    "local_government_id": "463",
+    "local_government_name": "SAKABA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  }
+]

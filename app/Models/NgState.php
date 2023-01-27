@@ -16,4 +16,14 @@ class NgState extends Model
         'latitude',
         'longitude',
     ];
+
+    /**
+     * One NgState has many local government areas
+     *
+     * @return \HasMany
+     */
+    public function lgas()
+    {
+        return $this->hasMany(NgLocalGovernment::class, 'state_id', 'data_id');
+    }
 }

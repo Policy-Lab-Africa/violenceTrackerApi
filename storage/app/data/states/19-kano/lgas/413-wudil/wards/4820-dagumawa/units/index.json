@@ -1,0 +1,648 @@
+[
+  {
+    "id": "94870",
+    "name": "BABURA - PRIMARY SCHOOL",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/44/02/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.735861,
+      "longitude": 8.8328399,
+      "viewport": {
+        "northeast": {
+          "lat": 11.73724672989272,
+          "lng": 8.834097679892722
+        },
+        "southwest": {
+          "lat": 11.73454707010728,
+          "lng": 8.831398020107278
+        }
+      },
+      "formatted_address": "7F3CPRPM+847 Babura Dagumawa Kano Lamire, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.735861,8.8328399",
+      "google_place_id": "ChIJpQXLp0M9rBERStghe7esHes"
+    }
+  },
+  {
+    "id": "94871",
+    "name": "BASAMA - UNDER TREE",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/44/02/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "94872",
+    "name": "BASAIMAWA - PRIMARY SCHOOL",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/44/02/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7594319,
+      "longitude": 8.823631899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76077877989272,
+          "lng": 8.82500022989272
+        },
+        "southwest": {
+          "lat": 11.75807912010728,
+          "lng": 8.822300570107275
+        }
+      },
+      "formatted_address": "7F3CQR5F+QFC, 713101, Wudil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7594319,8.823631899999999",
+      "google_place_id": "ChIJ8UKK418jrBERU4cU2HWaUbU"
+    }
+  },
+  {
+    "id": "94873",
+    "name": "BAYAN SECRETARIAT - UNDER TREE I",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/44/02/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "94874",
+    "name": "BAYAN SECRETARIAT - UNDER TREE II",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/44/02/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7919126,
+      "longitude": 8.8380081,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79330452989272,
+          "lng": 8.839376079892721
+        },
+        "southwest": {
+          "lat": 11.79060487010728,
+          "lng": 8.836676420107278
+        }
+      },
+      "formatted_address": "QRRQ+Q66, 713101, Wudil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7919126,8.8380081",
+      "google_place_id": "ChIJi4Y0MX8YrBERWtFqn4LI8xs"
+    }
+  },
+  {
+    "id": "94875",
+    "name": "BAYAN SECRETARIAT - UNDER TREE III",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/44/02/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7919126,
+      "longitude": 8.8380081,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79330452989272,
+          "lng": 8.839376079892721
+        },
+        "southwest": {
+          "lat": 11.79060487010728,
+          "lng": 8.836676420107278
+        }
+      },
+      "formatted_address": "QRRQ+Q66, 713101, Wudil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7919126,8.8380081",
+      "google_place_id": "ChIJi4Y0MX8YrBERWtFqn4LI8xs"
+    }
+  },
+  {
+    "id": "94876",
+    "name": "DAGUMAWA C/GARI - PRIMARY SCHOOL I",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/44/02/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8315399,
+      "longitude": 8.7288391,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83298227989272,
+          "lng": 8.73021872989272
+        },
+        "southwest": {
+          "lat": 11.83028262010728,
+          "lng": 8.727519070107276
+        }
+      },
+      "formatted_address": "7F3CVP3Q+RW4, 713105, Gano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8315399,8.7288391",
+      "google_place_id": "ChIJaTKuNf8nrBER2cwipNXZQp4"
+    }
+  },
+  {
+    "id": "94877",
+    "name": "DAGUMAWA C/GARI - PRIMARY SCHOOL II",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/44/02/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "94878",
+    "name": "FAGEN ZAKI - PRIMARY SCHOOL",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/44/02/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7418722,
+      "longitude": 8.8401295,
+      "viewport": {
+        "northeast": {
+          "lat": 11.74321067989272,
+          "lng": 8.841477129892722
+        },
+        "southwest": {
+          "lat": 11.74051102010728,
+          "lng": 8.838777470107278
+        }
+      },
+      "formatted_address": "7F3CPRRR+P3R Yanlahadi Dagumawa Kano Lamire, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7418722,8.8401295",
+      "google_place_id": "ChIJE8EdcYQXrBERiVoQFGu_CFg"
+    }
+  },
+  {
+    "id": "94879",
+    "name": "JUMAR DANFADAL - PRIMARY SCHOOL",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "19/44/02/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7887968,
+      "longitude": 8.8339882,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79020077989272,
+          "lng": 8.835275629892724
+        },
+        "southwest": {
+          "lat": 11.78750112010728,
+          "lng": 8.83257597010728
+        }
+      },
+      "formatted_address": "7F3CQRQM+GH9 Jumar danfadal, Wudil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7887968,8.8339882",
+      "google_place_id": "ChIJpWbq_oIirBERugUraYIuz7c"
+    }
+  },
+  {
+    "id": "94880",
+    "name": "JUMAR DANFADAL - UNDER TREE I",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "19/44/02/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7887968,
+      "longitude": 8.8339882,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79020077989272,
+          "lng": 8.835275629892724
+        },
+        "southwest": {
+          "lat": 11.78750112010728,
+          "lng": 8.83257597010728
+        }
+      },
+      "formatted_address": "7F3CQRQM+GH9 Jumar danfadal, Wudil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7887968,8.8339882",
+      "google_place_id": "ChIJpWbq_oIirBERugUraYIuz7c"
+    }
+  },
+  {
+    "id": "94881",
+    "name": "JUMAR DANFADAL - UNDER TREE II",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "19/44/02/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7887968,
+      "longitude": 8.8339882,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79020077989272,
+          "lng": 8.835275629892724
+        },
+        "southwest": {
+          "lat": 11.78750112010728,
+          "lng": 8.83257597010728
+        }
+      },
+      "formatted_address": "7F3CQRQM+GH9 Jumar danfadal, Wudil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7887968,8.8339882",
+      "google_place_id": "ChIJpWbq_oIirBERugUraYIuz7c"
+    }
+  },
+  {
+    "id": "94882",
+    "name": "JUMAR FULANI - PRIMARY SCHOOL",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "19/44/02/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7688825,
+      "longitude": 8.818872599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.77020237989272,
+          "lng": 8.82023002989272
+        },
+        "southwest": {
+          "lat": 11.76750272010728,
+          "lng": 8.817530370107276
+        }
+      },
+      "formatted_address": "7F3CQR99+HG5 Jumar fulani Dagumawa Kano, Wudil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7688825,8.818872599999999",
+      "google_place_id": "ChIJYxp6tQIjrBERsJYcN9mxW-Q"
+    }
+  },
+  {
+    "id": "94883",
+    "name": "JUMAR KWARI - UNDER TREE I",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "19/44/02/014",
+    "remark": "EXISTING PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7762301,
+      "longitude": 8.8045701,
+      "viewport": {
+        "northeast": {
+          "lat": 11.77769027989272,
+          "lng": 8.805874429892723
+        },
+        "southwest": {
+          "lat": 11.77499062010728,
+          "lng": 8.80317477010728
+        }
+      },
+      "formatted_address": "7F3CQRG3+FRW Jumar kwari, Wudil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7762301,8.8045701",
+      "google_place_id": "ChIJETW4GOgirBERbOkh_26bRBA"
+    }
+  },
+  {
+    "id": "94884",
+    "name": "JUMAR KWARI - UNDER TREE II",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "19/44/02/015",
+    "remark": "EXISTING PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7762301,
+      "longitude": 8.8045701,
+      "viewport": {
+        "northeast": {
+          "lat": 11.77769027989272,
+          "lng": 8.805874429892723
+        },
+        "southwest": {
+          "lat": 11.77499062010728,
+          "lng": 8.80317477010728
+        }
+      },
+      "formatted_address": "7F3CQRG3+FRW Jumar kwari, Wudil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7762301,8.8045701",
+      "google_place_id": "ChIJETW4GOgirBERbOkh_26bRBA"
+    }
+  },
+  {
+    "id": "94885",
+    "name": "JUMAR TUDU - UNDER TREE",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "19/44/02/016",
+    "remark": "EXISTING PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7688825,
+      "longitude": 8.818872599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.77020237989272,
+          "lng": 8.82023002989272
+        },
+        "southwest": {
+          "lat": 11.76750272010728,
+          "lng": 8.817530370107276
+        }
+      },
+      "formatted_address": "7F3CQR99+HG5 Jumar fulani Dagumawa Kano, Wudil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7688825,8.818872599999999",
+      "google_place_id": "ChIJYxp6tQIjrBERsJYcN9mxW-Q"
+    }
+  },
+  {
+    "id": "94886",
+    "name": "YAN SARKI - PRIMARY SCHOOL I",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "19/44/02/017",
+    "remark": "EXISTING PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7669534,
+      "longitude": 8.8287497,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76829297989272,
+          "lng": 8.830113729892721
+        },
+        "southwest": {
+          "lat": 11.76559332010728,
+          "lng": 8.827414070107277
+        }
+      },
+      "formatted_address": "7F3CQR8H+PGR, Yanâ€˜sarki, 713101, Wudil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7669534,8.8287497",
+      "google_place_id": "ChIJrcZgUaQirBERSNyafd6lJK4"
+    }
+  },
+  {
+    "id": "94887",
+    "name": "YAN SARKI - PRIMARY SCHOOL II",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "19/44/02/018",
+    "remark": "EXISTING PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7669534,
+      "longitude": 8.8287497,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76829297989272,
+          "lng": 8.830113729892721
+        },
+        "southwest": {
+          "lat": 11.76559332010728,
+          "lng": 8.827414070107277
+        }
+      },
+      "formatted_address": "7F3CQR8H+PGR, Yanâ€˜sarki, 713101, Wudil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7669534,8.8287497",
+      "google_place_id": "ChIJrcZgUaQirBERSNyafd6lJK4"
+    }
+  },
+  {
+    "id": "94888",
+    "name": "BAYAN SECRETARIAT- UNDER TREE IV",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "19/44/02/019",
+    "remark": "NEW PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "94889",
+    "name": "BAYAN SECRETARIAT- UNDER TREE V",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "19/44/02/020",
+    "remark": "NEW PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "94890",
+    "name": "FAGEN ZAKI PRIMARY SCHOOL",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "19/44/02/021",
+    "remark": "NEW PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7418722,
+      "longitude": 8.8401295,
+      "viewport": {
+        "northeast": {
+          "lat": 11.74321067989272,
+          "lng": 8.841477129892722
+        },
+        "southwest": {
+          "lat": 11.74051102010728,
+          "lng": 8.838777470107278
+        }
+      },
+      "formatted_address": "7F3CPRRR+P3R Yanlahadi Dagumawa Kano Lamire, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7418722,8.8401295",
+      "google_place_id": "ChIJE8EdcYQXrBERiVoQFGu_CFg"
+    }
+  },
+  {
+    "id": "94891",
+    "name": "JUMAR DANFADAL PRIMARY SCHOOL II",
+    "registration_area_id": "4820",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "19/44/02/022",
+    "remark": "NEW PU",
+    "ward_id": "4820",
+    "ward_name": "DAGUMAWA",
+    "local_government_id": "413",
+    "local_government_name": "WUDIL",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7887968,
+      "longitude": 8.8339882,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79020077989272,
+          "lng": 8.835275629892724
+        },
+        "southwest": {
+          "lat": 11.78750112010728,
+          "lng": 8.83257597010728
+        }
+      },
+      "formatted_address": "7F3CQRQM+GH9 Jumar danfadal, Wudil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7887968,8.8339882",
+      "google_place_id": "ChIJpWbq_oIirBERugUraYIuz7c"
+    }
+  }
+]

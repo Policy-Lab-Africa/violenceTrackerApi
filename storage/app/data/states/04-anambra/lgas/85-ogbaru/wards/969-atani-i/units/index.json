@@ -1,0 +1,497 @@
+[
+  {
+    "id": "16537",
+    "name": "CENTRAL SCHOOL, ATANI I",
+    "registration_area_id": "969",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "04/16/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "969",
+    "ward_name": "ATANI  I",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0171005,
+      "longitude": 6.749636499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.018449779892722,
+          "lng": 6.750996479892722
+        },
+        "southwest": {
+          "lat": 6.015750120107278,
+          "lng": 6.748296820107278
+        }
+      },
+      "formatted_address": "2P8X+RVR, Ujadimegu Road, 431111, Atani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0171005,6.749636499999999",
+      "google_place_id": "ChIJP0_GPlC_QxARpgc6PQ07DF4"
+    }
+  },
+  {
+    "id": "16538",
+    "name": "UMUAJADA, ATANI I",
+    "registration_area_id": "969",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "04/16/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "969",
+    "ward_name": "ATANI  I",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0201994,
+      "longitude": 6.7479194,
+      "viewport": {
+        "northeast": {
+          "lat": 6.021519029892721,
+          "lng": 6.749137829892723
+        },
+        "southwest": {
+          "lat": 6.018819370107277,
+          "lng": 6.746438170107279
+        }
+      },
+      "formatted_address": "Atani Rd, 431111, Atani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0201994,6.7479194",
+      "google_place_id": "ChIJc9X9QhXBQxARGaGzUPucBBc"
+    }
+  },
+  {
+    "id": "16539",
+    "name": "OLD UAC I",
+    "registration_area_id": "969",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "04/16/03/003",
+    "remark": "EXISTING PU",
+    "ward_id": "969",
+    "ward_name": "ATANI  I",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0255095,
+      "longitude": 6.749126899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.026925129892722,
+          "lng": 6.750315079892721
+        },
+        "southwest": {
+          "lat": 6.024225470107278,
+          "lng": 6.747615420107278
+        }
+      },
+      "formatted_address": "2PGX+6M2, 431111, Atani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0255095,6.749126899999999",
+      "google_place_id": "ChIJWS6zQOnBQxARqG39lP0EKr0"
+    }
+  },
+  {
+    "id": "16540",
+    "name": "URBAN SCHOOL I",
+    "registration_area_id": "969",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "04/16/03/004",
+    "remark": "EXISTING PU",
+    "ward_id": "969",
+    "ward_name": "ATANI  I",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.011748799999999,
+      "longitude": 6.7440193,
+      "viewport": {
+        "northeast": {
+          "lat": 6.013087229892721,
+          "lng": 6.745394179892721
+        },
+        "southwest": {
+          "lat": 6.010387570107278,
+          "lng": 6.742694520107277
+        }
+      },
+      "formatted_address": "Unnamed Road, 431111, Atani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.011748799999999,6.7440193",
+      "google_place_id": "ChIJB9TnHGHBQxARtIKTVALPQiE"
+    }
+  },
+  {
+    "id": "16541",
+    "name": "UMUAJADA, ATANI II",
+    "registration_area_id": "969",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "04/16/03/005",
+    "remark": "EXISTING PU",
+    "ward_id": "969",
+    "ward_name": "ATANI  I",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0201994,
+      "longitude": 6.7479194,
+      "viewport": {
+        "northeast": {
+          "lat": 6.021519029892721,
+          "lng": 6.749137829892723
+        },
+        "southwest": {
+          "lat": 6.018819370107277,
+          "lng": 6.746438170107279
+        }
+      },
+      "formatted_address": "Atani Rd, 431111, Atani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0201994,6.7479194",
+      "google_place_id": "ChIJc9X9QhXBQxARGaGzUPucBBc"
+    }
+  },
+  {
+    "id": "16542",
+    "name": "URBAN SCHOOL II",
+    "registration_area_id": "969",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "04/16/03/006",
+    "remark": "EXISTING PU",
+    "ward_id": "969",
+    "ward_name": "ATANI  I",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.011748799999999,
+      "longitude": 6.7440193,
+      "viewport": {
+        "northeast": {
+          "lat": 6.013087229892721,
+          "lng": 6.745394179892721
+        },
+        "southwest": {
+          "lat": 6.010387570107278,
+          "lng": 6.742694520107277
+        }
+      },
+      "formatted_address": "Unnamed Road, 431111, Atani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.011748799999999,6.7440193",
+      "google_place_id": "ChIJB9TnHGHBQxARtIKTVALPQiE"
+    }
+  },
+  {
+    "id": "16543",
+    "name": "CENTRAL SCHOOL, ATANI II",
+    "registration_area_id": "969",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "04/16/03/007",
+    "remark": "EXISTING PU",
+    "ward_id": "969",
+    "ward_name": "ATANI  I",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0171005,
+      "longitude": 6.749636499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.018449779892722,
+          "lng": 6.750996479892722
+        },
+        "southwest": {
+          "lat": 6.015750120107278,
+          "lng": 6.748296820107278
+        }
+      },
+      "formatted_address": "2P8X+RVR, Ujadimegu Road, 431111, Atani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0171005,6.749636499999999",
+      "google_place_id": "ChIJP0_GPlC_QxARpgc6PQ07DF4"
+    }
+  },
+  {
+    "id": "16544",
+    "name": "UMUAJADA, ATANI III",
+    "registration_area_id": "969",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "04/16/03/008",
+    "remark": "EXISTING PU",
+    "ward_id": "969",
+    "ward_name": "ATANI  I",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0209845,
+      "longitude": 6.744046699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.0295499,
+          "lng": 6.7586919
+        },
+        "southwest": {
+          "lat": 6.004836500000001,
+          "lng": 6.7246958
+        }
+      },
+      "formatted_address": "Atani I, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0209845,6.744046699999999",
+      "google_place_id": "ChIJTyqGoQXAQxARPFvSCYOgKBo"
+    }
+  },
+  {
+    "id": "16545",
+    "name": "OLD UAC II",
+    "registration_area_id": "969",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "04/16/03/009",
+    "remark": "EXISTING PU",
+    "ward_id": "969",
+    "ward_name": "ATANI  I",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0209845,
+      "longitude": 6.744046699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.0295499,
+          "lng": 6.7586919
+        },
+        "southwest": {
+          "lat": 6.004836500000001,
+          "lng": 6.7246958
+        }
+      },
+      "formatted_address": "Atani I, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0209845,6.744046699999999",
+      "google_place_id": "ChIJTyqGoQXAQxARPFvSCYOgKBo"
+    }
+  },
+  {
+    "id": "16546",
+    "name": "URBAN SCHOOL III",
+    "registration_area_id": "969",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "04/16/03/010",
+    "remark": "EXISTING PU",
+    "ward_id": "969",
+    "ward_name": "ATANI  I",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.011748799999999,
+      "longitude": 6.7440193,
+      "viewport": {
+        "northeast": {
+          "lat": 6.013087229892721,
+          "lng": 6.745394179892721
+        },
+        "southwest": {
+          "lat": 6.010387570107278,
+          "lng": 6.742694520107277
+        }
+      },
+      "formatted_address": "Unnamed Road, 431111, Atani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.011748799999999,6.7440193",
+      "google_place_id": "ChIJB9TnHGHBQxARtIKTVALPQiE"
+    }
+  },
+  {
+    "id": "16547",
+    "name": "CENTRAL SCHOOL, ATANI III",
+    "registration_area_id": "969",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "04/16/03/011",
+    "remark": "EXISTING PU",
+    "ward_id": "969",
+    "ward_name": "ATANI  I",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0171005,
+      "longitude": 6.749636499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.018449779892722,
+          "lng": 6.750996479892722
+        },
+        "southwest": {
+          "lat": 6.015750120107278,
+          "lng": 6.748296820107278
+        }
+      },
+      "formatted_address": "2P8X+RVR, Ujadimegu Road, 431111, Atani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0171005,6.749636499999999",
+      "google_place_id": "ChIJP0_GPlC_QxARpgc6PQ07DF4"
+    }
+  },
+  {
+    "id": "16548",
+    "name": "URBAN SCHOOL IV",
+    "registration_area_id": "969",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "04/16/03/012",
+    "remark": "EXISTING PU",
+    "ward_id": "969",
+    "ward_name": "ATANI  I",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0288083,
+      "longitude": 6.751587,
+      "viewport": {
+        "northeast": {
+          "lat": 6.030397779892723,
+          "lng": 6.752632429892722
+        },
+        "southwest": {
+          "lat": 6.027698120107279,
+          "lng": 6.749932770107278
+        }
+      },
+      "formatted_address": "2QH2+GJG, 431101, Atani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0288083,6.751587",
+      "google_place_id": "ChIJG-U1hPCVQxAR_gaKsVE4Gt0"
+    }
+  },
+  {
+    "id": "16549",
+    "name": "COMMUNITY SECONDARY SCHOOL I, ATANI",
+    "registration_area_id": "969",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "04/16/03/013",
+    "remark": "NEW PU",
+    "ward_id": "969",
+    "ward_name": "ATANI  I",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0288083,
+      "longitude": 6.751587,
+      "viewport": {
+        "northeast": {
+          "lat": 6.030397779892723,
+          "lng": 6.752632429892722
+        },
+        "southwest": {
+          "lat": 6.027698120107279,
+          "lng": 6.749932770107278
+        }
+      },
+      "formatted_address": "2QH2+GJG, 431101, Atani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0288083,6.751587",
+      "google_place_id": "ChIJG-U1hPCVQxAR_gaKsVE4Gt0"
+    }
+  },
+  {
+    "id": "16550",
+    "name": "COMMUNITY SECONDARY SCHOOL II, ATANI",
+    "registration_area_id": "969",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "04/16/03/014",
+    "remark": "NEW PU",
+    "ward_id": "969",
+    "ward_name": "ATANI  I",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0288083,
+      "longitude": 6.751587,
+      "viewport": {
+        "northeast": {
+          "lat": 6.030397779892723,
+          "lng": 6.752632429892722
+        },
+        "southwest": {
+          "lat": 6.027698120107279,
+          "lng": 6.749932770107278
+        }
+      },
+      "formatted_address": "2QH2+GJG, 431101, Atani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0288083,6.751587",
+      "google_place_id": "ChIJG-U1hPCVQxAR_gaKsVE4Gt0"
+    }
+  },
+  {
+    "id": "16551",
+    "name": "URBAN SCHOOL V ATANI",
+    "registration_area_id": "969",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "04/16/03/015",
+    "remark": "NEW PU",
+    "ward_id": "969",
+    "ward_name": "ATANI  I",
+    "local_government_id": "85",
+    "local_government_name": "OGBARU",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0171005,
+      "longitude": 6.749636499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.018449779892722,
+          "lng": 6.750996479892722
+        },
+        "southwest": {
+          "lat": 6.015750120107278,
+          "lng": 6.748296820107278
+        }
+      },
+      "formatted_address": "2P8X+RVR, Ujadimegu Road, 431111, Atani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0171005,6.749636499999999",
+      "google_place_id": "ChIJP0_GPlC_QxARpgc6PQ07DF4"
+    }
+  }
+]

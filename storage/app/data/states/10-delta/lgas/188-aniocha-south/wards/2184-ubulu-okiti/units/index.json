@@ -1,0 +1,203 @@
+[
+  {
+    "id": "39597",
+    "name": "UTOLI PRIMARY SCHOOL, IDUMU-UTU/OGBE-AKWU",
+    "registration_area_id": "2184",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "10/02/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2184",
+    "ward_name": "UBULU OKITI",
+    "local_government_id": "188",
+    "local_government_name": "ANIOCHA - SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.252549999999999,
+      "longitude": 6.508719999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.254050779892722,
+          "lng": 6.510035079892722
+        },
+        "southwest": {
+          "lat": 6.251351120107278,
+          "lng": 6.507335420107278
+        }
+      },
+      "formatted_address": "7G35+2F9, 321113, Ubulu Okiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.252549999999999,6.508719999999999",
+      "google_place_id": "ChIJ6ZE_0pD7QxARPpgzTUxVodo"
+    }
+  },
+  {
+    "id": "39598",
+    "name": "ABUEDO UTU/OGBE-AKWU",
+    "registration_area_id": "2184",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "10/02/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2184",
+    "ward_name": "UBULU OKITI",
+    "local_government_id": "188",
+    "local_government_name": "ANIOCHA - SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "39599",
+    "name": "ASHABA OKITI TOWN HALL, ASHABA OKITI/IDUMU ISA",
+    "registration_area_id": "2184",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "10/02/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2184",
+    "ward_name": "UBULU OKITI",
+    "local_government_id": "188",
+    "local_government_name": "ANIOCHA - SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "39600",
+    "name": "EZEMU SQUARE, UMU-UTE/OGBETITI/IDUMU ASHAMA",
+    "registration_area_id": "2184",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "10/02/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2184",
+    "ward_name": "UBULU OKITI",
+    "local_government_id": "188",
+    "local_government_name": "ANIOCHA - SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "39601",
+    "name": "ASHABA OKITI PRIMARY SCHOOL, IDUMU OZOMA/OGBEABO",
+    "registration_area_id": "2184",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "10/02/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2184",
+    "ward_name": "UBULU OKITI",
+    "local_government_id": "188",
+    "local_government_name": "ANIOCHA - SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "39602",
+    "name": "HEALTH CENTRE, IDUMU OGBONO/IDUMU OGELE/ABUEDO UGBO I",
+    "registration_area_id": "2184",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "10/02/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2184",
+    "ward_name": "UBULU OKITI",
+    "local_government_id": "188",
+    "local_government_name": "ANIOCHA - SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "39603",
+    "name": "HEALTH CENTRE, IDUMU OGBONO/IDUMU OGELE/ABUEDO UGBO II",
+    "registration_area_id": "2184",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "10/02/11/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2184",
+    "ward_name": "UBULU OKITI",
+    "local_government_id": "188",
+    "local_government_name": "ANIOCHA - SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": null
+  },
+  {
+    "id": "39604",
+    "name": "OKITI MIX. SECONDARY SCHOOL, NEW ROAD/OGBE OFU I",
+    "registration_area_id": "2184",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "10/02/11/008",
+    "remark": "EXISTING PU",
+    "ward_id": "2184",
+    "ward_name": "UBULU OKITI",
+    "local_government_id": "188",
+    "local_government_name": "ANIOCHA - SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.245529400000001,
+      "longitude": 6.4313766,
+      "viewport": {
+        "northeast": {
+          "lat": 6.246906479892722,
+          "lng": 6.432560729892723
+        },
+        "southwest": {
+          "lat": 6.244206820107278,
+          "lng": 6.429861070107279
+        }
+      },
+      "formatted_address": "6CWJ+6H6, 321113, Ubulu-uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.245529400000001,6.4313766",
+      "google_place_id": "ChIJhQBXg6H9QxARFhGbmRgErMo"
+    }
+  },
+  {
+    "id": "39605",
+    "name": "OKITI MIX. SECONDARY SCHOOL, NEW ROAD/OGBE OFU II",
+    "registration_area_id": "2184",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "10/02/11/009",
+    "remark": "EXISTING PU",
+    "ward_id": "2184",
+    "ward_name": "UBULU OKITI",
+    "local_government_id": "188",
+    "local_government_name": "ANIOCHA - SOUTH",
+    "state_id": "10",
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.245529400000001,
+      "longitude": 6.4313766,
+      "viewport": {
+        "northeast": {
+          "lat": 6.246906479892722,
+          "lng": 6.432560729892723
+        },
+        "southwest": {
+          "lat": 6.244206820107278,
+          "lng": 6.429861070107279
+        }
+      },
+      "formatted_address": "6CWJ+6H6, 321113, Ubulu-uku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.245529400000001,6.4313766",
+      "google_place_id": "ChIJhQBXg6H9QxARFhGbmRgErMo"
+    }
+  }
+]

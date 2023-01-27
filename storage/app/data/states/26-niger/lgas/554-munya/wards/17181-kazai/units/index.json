@@ -1,0 +1,136 @@
+[
+  {
+    "id": "338084",
+    "name": "KAZAI GWARI  (I)",
+    "registration_area_id": "17181",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/18/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17181",
+    "ward_name": "KAZAI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.749566999999999,
+      "longitude": 7.067743999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.75091682989272,
+          "lng": 7.069093829892721
+        },
+        "southwest": {
+          "lat": 9.748217170107276,
+          "lng": 7.066394170107277
+        }
+      },
+      "formatted_address": "6FX9P3X9+R3H kazai gwari, New Guni, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.749566999999999,7.067743999999999",
+      "google_place_id": "ChIJP--2wAFVTBARiNUXtnr_lrE"
+    }
+  },
+  {
+    "id": "338085",
+    "name": "KAMACHE",
+    "registration_area_id": "17181",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/18/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17181",
+    "ward_name": "KAZAI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.7171352,
+      "longitude": 7.0713572,
+      "viewport": {
+        "northeast": {
+          "lat": 9.71848502989272,
+          "lng": 7.072707029892721
+        },
+        "southwest": {
+          "lat": 9.715785370107277,
+          "lng": 7.070007370107278
+        }
+      },
+      "formatted_address": "P38C+VG5, 921103, Kamache, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.7171352,7.0713572",
+      "google_place_id": "ChIJ-xy8fSBTTBARVBX-84HmLXU"
+    }
+  },
+  {
+    "id": "338086",
+    "name": "EKWA",
+    "registration_area_id": "17181",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/18/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17181",
+    "ward_name": "KAZAI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338087",
+    "name": "KABULAWI",
+    "registration_area_id": "17181",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/18/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17181",
+    "ward_name": "KAZAI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338088",
+    "name": "KAZAI KADARA",
+    "registration_area_id": "17181",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/18/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17181",
+    "ward_name": "KAZAI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338089",
+    "name": "WULGBI",
+    "registration_area_id": "17181",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/18/09/006",
+    "remark": "NEW PU",
+    "ward_id": "17181",
+    "ward_name": "KAZAI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  }
+]

@@ -1,0 +1,335 @@
+[
+  {
+    "id": "29600",
+    "name": "PRIMARY SCHOOL ANWULE",
+    "registration_area_id": "1585",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "07/17/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1585",
+    "ward_name": "OGLEWU ICHO",
+    "local_government_id": "135",
+    "local_government_name": "OHIMINI",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "29601",
+    "name": "OPEN SPACE/AI-OGA OPEN SPACE",
+    "registration_area_id": "1585",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "07/17/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1585",
+    "ward_name": "OGLEWU ICHO",
+    "local_government_id": "135",
+    "local_government_name": "OHIMINI",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 37.7912246,
+      "longitude": -122.4042943,
+      "viewport": {
+        "northeast": {
+          "lat": 37.79258397989272,
+          "lng": -122.4028838201073
+        },
+        "southwest": {
+          "lat": 37.78988432010728,
+          "lng": -122.4055834798928
+        }
+      },
+      "formatted_address": "333 Kearny St Floor 4, San Francisco, CA 94108, United States",
+      "google_map_url": "https://maps.google.com?q=37.7912246,-122.4042943",
+      "google_place_id": "ChIJLTmNDQaBhYAR1ps0pTkur54"
+    }
+  },
+  {
+    "id": "29602",
+    "name": "CLASS ROOM/EBOYA PRIMARY SCHOOL",
+    "registration_area_id": "1585",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "07/17/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1585",
+    "ward_name": "OGLEWU ICHO",
+    "local_government_id": "135",
+    "local_government_name": "OHIMINI",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.260961000000001,
+      "longitude": 8.000296,
+      "viewport": {
+        "northeast": {
+          "lat": 7.26230087989272,
+          "lng": 8.001641229892723
+        },
+        "southwest": {
+          "lat": 7.259601220107276,
+          "lng": 7.998941570107278
+        }
+      },
+      "formatted_address": "6FVC7262+94M, EBOYA, 972101, Aigaji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.260961000000001,8.000296",
+      "google_place_id": "ChIJKZGH9__FWhARRJfgHMTv4kw"
+    }
+  },
+  {
+    "id": "29603",
+    "name": "CLASS ROOM/ANKPECHI PRIMARY SCHOOL",
+    "registration_area_id": "1585",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "07/17/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1585",
+    "ward_name": "OGLEWU ICHO",
+    "local_government_id": "135",
+    "local_government_name": "OHIMINI",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.180694899999999,
+      "longitude": 8.142951,
+      "viewport": {
+        "northeast": {
+          "lat": 7.182028979892722,
+          "lng": 8.144313229892722
+        },
+        "southwest": {
+          "lat": 7.179329320107279,
+          "lng": 8.141613570107278
+        }
+      },
+      "formatted_address": "54JV+75G, Otukpo - Ikache Rd, 972261, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.180694899999999,8.142951",
+      "google_place_id": "ChIJ8-BCQvDnWhARawW_NuKqOjs"
+    }
+  },
+  {
+    "id": "29604",
+    "name": "CLASS ROOM/ALAGLANU PRIMARY SCHOOL",
+    "registration_area_id": "1585",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "07/17/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1585",
+    "ward_name": "OGLEWU ICHO",
+    "local_government_id": "135",
+    "local_government_name": "OHIMINI",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.234234900000001,
+      "longitude": 8.024269199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.235362929892721,
+          "lng": 8.025285329892723
+        },
+        "southwest": {
+          "lat": 7.232663270107277,
+          "lng": 8.02258567010728
+        }
+      },
+      "formatted_address": "6FVC62MF+MP2, Alaglanu, 972101, Aigaji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.234234900000001,8.024269199999999",
+      "google_place_id": "ChIJk3qZBtbFWhARGHJc3pIGVBQ"
+    }
+  },
+  {
+    "id": "29605",
+    "name": "OPEN SPACE/OKETE OJALI",
+    "registration_area_id": "1585",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "07/17/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1585",
+    "ward_name": "OGLEWU ICHO",
+    "local_government_id": "135",
+    "local_government_name": "OHIMINI",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "29606",
+    "name": "OPEN SPACE/ELULU OPEN SPACE",
+    "registration_area_id": "1585",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "07/17/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1585",
+    "ward_name": "OGLEWU ICHO",
+    "local_government_id": "135",
+    "local_government_name": "OHIMINI",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "29607",
+    "name": "OPEN SPACE/AI-EGAJI",
+    "registration_area_id": "1585",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "07/17/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1585",
+    "ward_name": "OGLEWU ICHO",
+    "local_government_id": "135",
+    "local_government_name": "OHIMINI",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 37.7912246,
+      "longitude": -122.4042943,
+      "viewport": {
+        "northeast": {
+          "lat": 37.79258397989272,
+          "lng": -122.4028838201073
+        },
+        "southwest": {
+          "lat": 37.78988432010728,
+          "lng": -122.4055834798928
+        }
+      },
+      "formatted_address": "333 Kearny St Floor 4, San Francisco, CA 94108, United States",
+      "google_map_url": "https://maps.google.com?q=37.7912246,-122.4042943",
+      "google_place_id": "ChIJLTmNDQaBhYAR1ps0pTkur54"
+    }
+  },
+  {
+    "id": "29608",
+    "name": "PLAY GROUND/ANWULE WEST",
+    "registration_area_id": "1585",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "07/17/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1585",
+    "ward_name": "OGLEWU ICHO",
+    "local_government_id": "135",
+    "local_government_name": "OHIMINI",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "29609",
+    "name": "CEFN, ONYEPA.",
+    "registration_area_id": "1585",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "07/17/08/010",
+    "remark": "NEW PU",
+    "ward_id": "1585",
+    "ward_name": "OGLEWU ICHO",
+    "local_government_id": "135",
+    "local_government_name": "OHIMINI",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  },
+  {
+    "id": "29610",
+    "name": "METHODIST HIGH SCHOOL OKETE OKPIKWU",
+    "registration_area_id": "1585",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "07/17/08/011",
+    "remark": "NEW PU",
+    "ward_id": "1585",
+    "ward_name": "OGLEWU ICHO",
+    "local_government_id": "135",
+    "local_government_name": "OHIMINI",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.610968999999999,
+      "longitude": 7.933708499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.612296429892721,
+          "lng": 7.935056629892721
+        },
+        "southwest": {
+          "lat": 7.609596770107277,
+          "lng": 7.932356970107278
+        }
+      },
+      "formatted_address": "6FV9JW6M+9F4 Edikwu Icho Edikwu, 1 apa Benue, 972107, Ugboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.610968999999999,7.933708499999999",
+      "google_place_id": "ChIJZ8dflG-vWhARqnbkxDqcK2k"
+    }
+  },
+  {
+    "id": "29611",
+    "name": "LGEA PRIM. SCH. OMUTELE",
+    "registration_area_id": "1585",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "07/17/08/012",
+    "remark": "NEW PU",
+    "ward_id": "1585",
+    "ward_name": "OGLEWU ICHO",
+    "local_government_id": "135",
+    "local_government_name": "OHIMINI",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.302859,
+      "longitude": 8.038359,
+      "viewport": {
+        "northeast": {
+          "lat": 7.304117729892722,
+          "lng": 8.039827979892722
+        },
+        "southwest": {
+          "lat": 7.301418070107278,
+          "lng": 8.037128320107279
+        }
+      },
+      "formatted_address": "6FVC823Q+48X, Omutele, 972101, Umotille, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.302859,8.038359",
+      "google_place_id": "ChIJES3_yZHHWhARxUF9CjIQ54s"
+    }
+  },
+  {
+    "id": "29612",
+    "name": "ANWULE TOWN HALL/OPEN SPACE.",
+    "registration_area_id": "1585",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "07/17/08/013",
+    "remark": "NEW PU",
+    "ward_id": "1585",
+    "ward_name": "OGLEWU ICHO",
+    "local_government_id": "135",
+    "local_government_name": "OHIMINI",
+    "state_id": "7",
+    "state_name": "BENUE",
+    "location": null
+  }
+]

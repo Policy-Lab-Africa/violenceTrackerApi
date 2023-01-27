@@ -1,0 +1,236 @@
+[
+  {
+    "id": "96094",
+    "name": "MAGAMI/ISLAMIYA - /SLAMIYA",
+    "registration_area_id": "4883",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/05/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4883",
+    "ward_name": "GAIWA",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6711284,
+      "longitude": 7.8087246,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67247167989272,
+          "lng": 7.810097629892723
+        },
+        "southwest": {
+          "lat": 12.66977202010728,
+          "lng": 7.807397970107279
+        }
+      },
+      "formatted_address": "MRC5+FG3, Rijiyar Liman Rd, 822105, Bindawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6711284,7.8087246",
+      "google_place_id": "ChIJFyTqDcAqrhEREbKmX2JKi2Q"
+    }
+  },
+  {
+    "id": "96095",
+    "name": "BADE SALIHAWA - OPEN SPACE",
+    "registration_area_id": "4883",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/05/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4883",
+    "ward_name": "GAIWA",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "96096",
+    "name": "MARAU - GAMJI UNG. SANDA",
+    "registration_area_id": "4883",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/05/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4883",
+    "ward_name": "GAIWA",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "96097",
+    "name": "MAKERA - FAMFO",
+    "registration_area_id": "4883",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/05/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4883",
+    "ward_name": "GAIWA",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.989843,
+      "longitude": 7.6451818,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99106102989272,
+          "lng": 7.646638379892721
+        },
+        "southwest": {
+          "lat": 12.98836137010728,
+          "lng": 7.643938720107277
+        }
+      },
+      "formatted_address": "Katsina-Daura Rd, 722800, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.989843,7.6451818",
+      "google_place_id": "ChIJ4eEKp20jsBERBpU8HQ39J7Y"
+    }
+  },
+  {
+    "id": "96098",
+    "name": "MAGAMI/YANSAURA - KUKAR MAGAMI",
+    "registration_area_id": "4883",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/05/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4883",
+    "ward_name": "GAIWA",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "96099",
+    "name": "GAIWA KURMI - KALGON GAIWA KURMI",
+    "registration_area_id": "4883",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/05/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4883",
+    "ward_name": "GAIWA",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "96100",
+    "name": "BADALLE GARYAL - OPEN SPACE",
+    "registration_area_id": "4883",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/05/11/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4883",
+    "ward_name": "GAIWA",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "96101",
+    "name": "TAKA TSABA/SANKASA - TAKATSABA",
+    "registration_area_id": "4883",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/05/11/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4883",
+    "ward_name": "GAIWA",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "96102",
+    "name": "MAGAMI ISLAMIYA/ISLAMIYA",
+    "registration_area_id": "4883",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/05/11/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4883",
+    "ward_name": "GAIWA",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6711284,
+      "longitude": 7.8087246,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67247167989272,
+          "lng": 7.810097629892723
+        },
+        "southwest": {
+          "lat": 12.66977202010728,
+          "lng": 7.807397970107279
+        }
+      },
+      "formatted_address": "MRC5+FG3, Rijiyar Liman Rd, 822105, Bindawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6711284,7.8087246",
+      "google_place_id": "ChIJFyTqDcAqrhEREbKmX2JKi2Q"
+    }
+  },
+  {
+    "id": "96103",
+    "name": "WAILARE PRIMARY SCHOOL",
+    "registration_area_id": "4883",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/05/11/010",
+    "remark": "NEW PU",
+    "ward_id": "4883",
+    "ward_name": "GAIWA",
+    "local_government_id": "418",
+    "local_government_name": "BINDAWA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.635735,
+      "longitude": 7.7861095,
+      "viewport": {
+        "northeast": {
+          "lat": 12.63710317989272,
+          "lng": 7.787456629892722
+        },
+        "southwest": {
+          "lat": 12.63440352010728,
+          "lng": 7.784756970107278
+        }
+      },
+      "formatted_address": "JQPP+7CX, 822104, Bindawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.635735,7.7861095",
+      "google_place_id": "ChIJ97KXbHgqrhERy64KkHdVNkQ"
+    }
+  }
+]

@@ -1,0 +1,368 @@
+[
+  {
+    "id": "6349",
+    "name": "ARDO MA'AZU/ PAMBULA PRY. SCH.",
+    "registration_area_id": "318",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "02/13/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "318",
+    "ward_name": "MINKISI/ WURO NGIKI",
+    "local_government_id": "30",
+    "local_government_name": "MICHIKA",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "6350",
+    "name": "DLIRA / UNG. BULAMA",
+    "registration_area_id": "318",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "02/13/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "318",
+    "ward_name": "MINKISI/ WURO NGIKI",
+    "local_government_id": "30",
+    "local_government_name": "MICHIKA",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "6351",
+    "name": "DRIGIMI/ DRIGIMI PRY. SCH.",
+    "registration_area_id": "318",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "02/13/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "318",
+    "ward_name": "MINKISI/ WURO NGIKI",
+    "local_government_id": "30",
+    "local_government_name": "MICHIKA",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.7041022,
+      "longitude": 13.3879206,
+      "viewport": {
+        "northeast": {
+          "lat": 10.7068577,
+          "lng": 13.38993995
+        },
+        "southwest": {
+          "lat": 10.7031597,
+          "lng": 13.38193175
+        }
+      },
+      "formatted_address": "P93Q+J5P, Minkisi, Wuro, Kwatama Daffa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7041022,13.3879206",
+      "google_place_id": "ChIJ-_v7izvIAhERqUzgqdJG0OE"
+    }
+  },
+  {
+    "id": "6352",
+    "name": "JIDDEL I/ JIDDEL PRY. SCH.",
+    "registration_area_id": "318",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "02/13/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "318",
+    "ward_name": "MINKISI/ WURO NGIKI",
+    "local_government_id": "30",
+    "local_government_name": "MICHIKA",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6427626,
+      "longitude": 13.3955492,
+      "viewport": {
+        "northeast": {
+          "lat": 10.64412967989272,
+          "lng": 13.39692777989272
+        },
+        "southwest": {
+          "lat": 10.64143002010728,
+          "lng": 13.39422812010728
+        }
+      },
+      "formatted_address": "J9VW+35X, 651106, Anjawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6427626,13.3955492",
+      "google_place_id": "ChIJCVURsAe3AhER4CnRlEZzJr0"
+    }
+  },
+  {
+    "id": "6353",
+    "name": "JIDDEL I/ NURVOA PRY. SCH.",
+    "registration_area_id": "318",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "02/13/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "318",
+    "ward_name": "MINKISI/ WURO NGIKI",
+    "local_government_id": "30",
+    "local_government_name": "MICHIKA",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6427626,
+      "longitude": 13.3955492,
+      "viewport": {
+        "northeast": {
+          "lat": 10.64412967989272,
+          "lng": 13.39692777989272
+        },
+        "southwest": {
+          "lat": 10.64143002010728,
+          "lng": 13.39422812010728
+        }
+      },
+      "formatted_address": "J9VW+35X, 651106, Anjawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6427626,13.3955492",
+      "google_place_id": "ChIJCVURsAe3AhER4CnRlEZzJr0"
+    }
+  },
+  {
+    "id": "6354",
+    "name": "MBORORO/ KASUWA MBORORO",
+    "registration_area_id": "318",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "02/13/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "318",
+    "ward_name": "MINKISI/ WURO NGIKI",
+    "local_government_id": "30",
+    "local_government_name": "MICHIKA",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "6355",
+    "name": "TIAFARSHI / DRIGIMI PRI. SCH.",
+    "registration_area_id": "318",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "02/13/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "318",
+    "ward_name": "MINKISI/ WURO NGIKI",
+    "local_government_id": "30",
+    "local_government_name": "MICHIKA",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.7041022,
+      "longitude": 13.3879206,
+      "viewport": {
+        "northeast": {
+          "lat": 10.7068577,
+          "lng": 13.38993995
+        },
+        "southwest": {
+          "lat": 10.7031597,
+          "lng": 13.38193175
+        }
+      },
+      "formatted_address": "P93Q+J5P, Minkisi, Wuro, Kwatama Daffa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7041022,13.3879206",
+      "google_place_id": "ChIJ-_v7izvIAhERqUzgqdJG0OE"
+    }
+  },
+  {
+    "id": "6356",
+    "name": "UNG. ARDO HANTIFA  / KOFAR ARDO HANTIFA",
+    "registration_area_id": "318",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "02/13/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "318",
+    "ward_name": "MINKISI/ WURO NGIKI",
+    "local_government_id": "30",
+    "local_government_name": "MICHIKA",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "6357",
+    "name": "UNG. ARDO / LIDDLE PRI. SCH.",
+    "registration_area_id": "318",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "02/13/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "318",
+    "ward_name": "MINKISI/ WURO NGIKI",
+    "local_government_id": "30",
+    "local_government_name": "MICHIKA",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "6358",
+    "name": "MURVOA/ MURVOA PRI. SCH. I",
+    "registration_area_id": "318",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "02/13/08/010",
+    "remark": "NEW PU",
+    "ward_id": "318",
+    "ward_name": "MINKISI/ WURO NGIKI",
+    "local_government_id": "30",
+    "local_government_name": "MICHIKA",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6521518,
+      "longitude": 13.403846,
+      "viewport": {
+        "northeast": {
+          "lat": 10.65331572989272,
+          "lng": 13.40531267989272
+        },
+        "southwest": {
+          "lat": 10.65061607010728,
+          "lng": 13.40261302010728
+        }
+      },
+      "formatted_address": "MC23+VG9, 651106, Anjawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6521518,13.403846",
+      "google_place_id": "ChIJ5zCh3Ky3AhERzmlecAzfVOg"
+    }
+  },
+  {
+    "id": "6359",
+    "name": "ARDO MUAAZU/ PAMBULA PRI. SCH. II",
+    "registration_area_id": "318",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "02/13/08/011",
+    "remark": "NEW PU",
+    "ward_id": "318",
+    "ward_name": "MINKISI/ WURO NGIKI",
+    "local_government_id": "30",
+    "local_government_name": "MICHIKA",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": null
+  },
+  {
+    "id": "6360",
+    "name": "JIDDEL I / JIDDEL PRODUCE MARKET I",
+    "registration_area_id": "318",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "02/13/08/012",
+    "remark": "NEW PU",
+    "ward_id": "318",
+    "ward_name": "MINKISI/ WURO NGIKI",
+    "local_government_id": "30",
+    "local_government_name": "MICHIKA",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6427626,
+      "longitude": 13.3955492,
+      "viewport": {
+        "northeast": {
+          "lat": 10.64412967989272,
+          "lng": 13.39692777989272
+        },
+        "southwest": {
+          "lat": 10.64143002010728,
+          "lng": 13.39422812010728
+        }
+      },
+      "formatted_address": "J9VW+35X, 651106, Anjawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6427626,13.3955492",
+      "google_place_id": "ChIJCVURsAe3AhER4CnRlEZzJr0"
+    }
+  },
+  {
+    "id": "6361",
+    "name": "JIDDEL I / JIDDEL PRODUCE MARKET II",
+    "registration_area_id": "318",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "02/13/08/013",
+    "remark": "NEW PU",
+    "ward_id": "318",
+    "ward_name": "MINKISI/ WURO NGIKI",
+    "local_government_id": "30",
+    "local_government_name": "MICHIKA",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6427626,
+      "longitude": 13.3955492,
+      "viewport": {
+        "northeast": {
+          "lat": 10.64412967989272,
+          "lng": 13.39692777989272
+        },
+        "southwest": {
+          "lat": 10.64143002010728,
+          "lng": 13.39422812010728
+        }
+      },
+      "formatted_address": "J9VW+35X, 651106, Anjawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6427626,13.3955492",
+      "google_place_id": "ChIJCVURsAe3AhER4CnRlEZzJr0"
+    }
+  },
+  {
+    "id": "6362",
+    "name": "JIDDEL I / JIDDEL PRI. SCH. II",
+    "registration_area_id": "318",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "02/13/08/014",
+    "remark": "NEW PU",
+    "ward_id": "318",
+    "ward_name": "MINKISI/ WURO NGIKI",
+    "local_government_id": "30",
+    "local_government_name": "MICHIKA",
+    "state_id": "2",
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6427626,
+      "longitude": 13.3955492,
+      "viewport": {
+        "northeast": {
+          "lat": 10.64412967989272,
+          "lng": 13.39692777989272
+        },
+        "southwest": {
+          "lat": 10.64143002010728,
+          "lng": 13.39422812010728
+        }
+      },
+      "formatted_address": "J9VW+35X, 651106, Anjawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6427626,13.3955492",
+      "google_place_id": "ChIJCVURsAe3AhER4CnRlEZzJr0"
+    }
+  }
+]

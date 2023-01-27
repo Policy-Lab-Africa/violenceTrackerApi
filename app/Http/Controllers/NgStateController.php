@@ -2,30 +2,35 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\NgState;
+use Illuminate\Http\Request;
+use Illuminate\Validation\Rule;
+use App\Services\NgStateService;
+use App\Models\NgLocalGovernment;
+use App\Http\Controllers\Controller;
+use App\Http\Resources\NgLgaCollection;
 use App\Http\Requests\StoreNgStateRequest;
 use App\Http\Requests\UpdateNgStateRequest;
-use App\Models\NgState;
+use App\Http\Resources\NgStateResourceCollection;
 
 class NgStateController extends Controller
 {
     /**
-     * Display a listing of the resource.
+     * Return all Nigerian states
+     * 
+     * This endpoint returns an array of objects containing all the states identified by it's `ng_states.data_id`
+     * 
+     * @group INEC Location Data
+     * @subgroup States
      *
      * @return \Illuminate\Http\Response
      */
     public function index()
     {
         //
-    }
-
-    /**
-     * Show the form for creating a new resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
-    public function create()
-    {
-        //
+        return $this->sendResponse([
+            'states' => new NgStateResourceCollection(NgState::all())
+        ]);
     }
 
     /**
@@ -40,25 +45,73 @@ class NgStateController extends Controller
     }
 
     /**
-     * Display the specified resource.
+     * Return a specified Nigerian state
+     * 
+     * This endpoint returns a single state identified by it's `ng_states.data_id`
      *
-     * @param  \App\Models\NgState  $ngState
+     * @urlParam ngState mixed required the `data_id` or `name` of the state.
+     * 
+     * @group INEC Location Data
+     * @subgroup States
+     *
+     * @param  mixed  $ngState
      * @return \Illuminate\Http\Response
      */
-    public function show(NgState $ngState)
+    public function show(string|int $ngState)
     {
         //
+        try {
+            
+            return $this->sendResponse([
+                'state' => (new NgStateService)
+                            ->findState($ngState)
+                            ->getState()
+            ]);
+        } catch (\Throwable $th) {
+            //throw $th;
+        }
     }
 
     /**
-     * Show the form for editing the specified resource.
+     * [DRAFT] Return a specified Nigerian state
+     * 
+     * This endpoint returns a resource `ng_states.data_id`
      *
-     * @param  \App\Models\NgState  $ngState
-     * @return \Illuminate\Http\Response
+     * .
+     * 
+     * @group INEC Location Data
+     * 
+     * @param Request $request
+     * @return void
      */
-    public function edit(NgState $ngState)
+    public function inecFilter(Request $request)
     {
-        //
+        $request->validate([
+            'state' => 'nullable|required_if:lga,*',
+            'lgas' => 'nullable|in:true,false|required_if:ward,*',
+        ]);
+
+        $response = [];
+
+        if($request->has('state'))
+        {
+             
+            $response['state'] = $state  = (new NgStateService)
+                            ->findState($request->state)
+                            ->getState();
+        }
+
+        if($request->has('lgas'))
+        {
+            !$request->lgas ?: $response['state']  = $state?->load('lgas');
+        }
+
+
+        return $this->sendResponse([
+            'data' => $response
+        ]);
+
+        
     }
 
     /**

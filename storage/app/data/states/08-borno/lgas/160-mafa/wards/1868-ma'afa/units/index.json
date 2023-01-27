@@ -1,0 +1,135 @@
+[
+  {
+    "id": "34218",
+    "name": "MA'AFA  I",
+    "registration_area_id": "1868",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/19/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1868",
+    "ward_name": "MA'AFA",
+    "local_government_id": "160",
+    "local_government_name": "MAFA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1050488,
+      "longitude": 13.7173325,
+      "viewport": {
+        "northeast": {
+          "lat": 12.2006396,
+          "lng": 13.7834064
+        },
+        "southwest": {
+          "lat": 12.0117225,
+          "lng": 13.6760775
+        }
+      },
+      "formatted_address": "Ma'afa, 611104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1050488,13.7173325",
+      "google_place_id": "ChIJVQI1bx04GxERdOLqyUsdamo"
+    }
+  },
+  {
+    "id": "34219",
+    "name": "AZA BAIMARAM",
+    "registration_area_id": "1868",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/19/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1868",
+    "ward_name": "MA'AFA",
+    "local_government_id": "160",
+    "local_government_name": "MAFA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "34220",
+    "name": "AZA BAIMARI",
+    "registration_area_id": "1868",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/19/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1868",
+    "ward_name": "MA'AFA",
+    "local_government_id": "160",
+    "local_government_name": "MAFA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1884211,
+      "longitude": 13.7497345,
+      "viewport": {
+        "northeast": {
+          "lat": 12.18988477989272,
+          "lng": 13.75128532989272
+        },
+        "southwest": {
+          "lat": 12.18718512010728,
+          "lng": 13.74858567010728
+        }
+      },
+      "formatted_address": "611104, Aza Baimari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1884211,13.7497345",
+      "google_place_id": "ChIJqSSywhg6GxERDk3hY-uwUe4"
+    }
+  },
+  {
+    "id": "34221",
+    "name": "AZA - NGURO",
+    "registration_area_id": "1868",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/19/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1868",
+    "ward_name": "MA'AFA",
+    "local_government_id": "160",
+    "local_government_name": "MAFA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1098301,
+      "longitude": 13.7263826,
+      "viewport": {
+        "northeast": {
+          "lat": 12.11085732989272,
+          "lng": 13.72781277989272
+        },
+        "southwest": {
+          "lat": 12.10815767010728,
+          "lng": 13.72511312010728
+        }
+      },
+      "formatted_address": "611104, Aza Nguro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1098301,13.7263826",
+      "google_place_id": "ChIJyahJe_Y3GxERxvYpNiCz92U"
+    }
+  },
+  {
+    "id": "34222",
+    "name": "DALARGE",
+    "registration_area_id": "1868",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/19/08/005",
+    "remark": "NEW PU",
+    "ward_id": "1868",
+    "ward_name": "MA'AFA",
+    "local_government_id": "160",
+    "local_government_name": "MAFA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  }
+]

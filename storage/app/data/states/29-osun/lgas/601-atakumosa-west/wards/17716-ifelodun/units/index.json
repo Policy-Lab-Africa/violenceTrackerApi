@@ -1,0 +1,200 @@
+[
+  {
+    "id": "348655",
+    "name": "EPE VILLAGE",
+    "registration_area_id": "17716",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "29/02/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17716",
+    "ward_name": "IFELODUN",
+    "local_government_id": "601",
+    "local_government_name": "ATAKUMOSA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4856561,
+      "longitude": 3.926805,
+      "viewport": {
+        "northeast": {
+          "lat": 7.487027879892721,
+          "lng": 3.928132379892722
+        },
+        "southwest": {
+          "lat": 7.484328220107277,
+          "lng": 3.925432720107279
+        }
+      },
+      "formatted_address": "Arulogun Rd, 200132, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4856561,3.926805",
+      "google_place_id": "ChIJE9aOe3btORARAQqmbk6s_gU"
+    }
+  },
+  {
+    "id": "348656",
+    "name": "IJANA VILLAGE",
+    "registration_area_id": "17716",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "29/02/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17716",
+    "ward_name": "IFELODUN",
+    "local_government_id": "601",
+    "local_government_name": "ATAKUMOSA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5439834,
+      "longitude": 4.693810399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.5605511,
+          "lng": 4.6974059
+        },
+        "southwest": {
+          "lat": 7.540020999999999,
+          "lng": 4.691154000000001
+        }
+      },
+      "formatted_address": "233110, Ijana, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5439834,4.693810399999999",
+      "google_place_id": "ChIJ4aH2sgU9OBAR-AL7cHRQNn4"
+    }
+  },
+  {
+    "id": "348657",
+    "name": "ODO IJU VILLAGE",
+    "registration_area_id": "17716",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "29/02/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17716",
+    "ward_name": "IFELODUN",
+    "local_government_id": "601",
+    "local_government_name": "ATAKUMOSA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.588319299999999,
+      "longitude": 4.7384702,
+      "viewport": {
+        "northeast": {
+          "lat": 7.589637829892721,
+          "lng": 4.739827379892722
+        },
+        "southwest": {
+          "lat": 7.586938170107278,
+          "lng": 4.737127720107278
+        }
+      },
+      "formatted_address": "Ibadan-Ilesha Expy, 233111, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.588319299999999,4.7384702",
+      "google_place_id": "ChIJnVDg9CYZOBARDyo0Etvke7c"
+    }
+  },
+  {
+    "id": "348658",
+    "name": "IYEMOGUN VILLAGE",
+    "registration_area_id": "17716",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "29/02/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17716",
+    "ward_name": "IFELODUN",
+    "local_government_id": "601",
+    "local_government_name": "ATAKUMOSA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.606855400000001,
+      "longitude": 4.729841,
+      "viewport": {
+        "northeast": {
+          "lat": 7.608205229892723,
+          "lng": 4.731190829892721
+        },
+        "southwest": {
+          "lat": 7.605505570107279,
+          "lng": 4.728491170107278
+        }
+      },
+      "formatted_address": "Iyemogun Road, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.606855400000001,4.729841",
+      "google_place_id": "ChIJm5K73woYOBARLHmV9gi94lU"
+    }
+  },
+  {
+    "id": "348659",
+    "name": "METHODIST PRY. SCHOOL, IGUN",
+    "registration_area_id": "17716",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "29/02/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17716",
+    "ward_name": "IFELODUN",
+    "local_government_id": "601",
+    "local_government_name": "ATAKUMOSA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.846331600000001,
+      "longitude": 4.4879016,
+      "viewport": {
+        "northeast": {
+          "lat": 7.847678129892722,
+          "lng": 4.489250329892721
+        },
+        "southwest": {
+          "lat": 7.844978470107278,
+          "lng": 4.486550670107277
+        }
+      },
+      "formatted_address": "RFWQ+G5J, 230102, Ilobu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.846331600000001,4.4879016",
+      "google_place_id": "ChIJa1OFTaiGNxARSm0WaQZopuc"
+    }
+  },
+  {
+    "id": "348660",
+    "name": "APEPE VILLAGE",
+    "registration_area_id": "17716",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "29/02/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17716",
+    "ward_name": "IFELODUN",
+    "local_government_id": "601",
+    "local_government_name": "ATAKUMOSA WEST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4601,
+      "longitude": 4.761,
+      "viewport": {
+        "northeast": {
+          "lat": 7.461426129892722,
+          "lng": 4.762438429892721
+        },
+        "southwest": {
+          "lat": 7.458726470107278,
+          "lng": 4.759738770107277
+        }
+      },
+      "formatted_address": "FQ66+29Q, 233112, Ajido Village, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4601,4.761",
+      "google_place_id": "ChIJqRvL3agVOBARSEKkHTnowVk"
+    }
+  }
+]

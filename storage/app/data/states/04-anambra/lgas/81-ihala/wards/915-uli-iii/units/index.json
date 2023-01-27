@@ -1,0 +1,563 @@
+[
+  {
+    "id": "15604",
+    "name": "UMUOMA C/S I",
+    "registration_area_id": "915",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "04/12/17/001",
+    "remark": "EXISTING PU",
+    "ward_id": "915",
+    "ward_name": "ULI  III",
+    "local_government_id": "81",
+    "local_government_name": "IHALA",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.784066,
+      "longitude": 6.833425,
+      "viewport": {
+        "northeast": {
+          "lat": 5.7865911,
+          "lng": 6.8357369
+        },
+        "southwest": {
+          "lat": 5.781591,
+          "lng": 6.831512099999999
+        }
+      },
+      "formatted_address": "431117, Umuoma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.784066,6.833425",
+      "google_place_id": "ChIJAafRmLK2QxARYwUtF1mlkIo"
+    }
+  },
+  {
+    "id": "15605",
+    "name": "UMUAMORO C/S I",
+    "registration_area_id": "915",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "04/12/17/002",
+    "remark": "EXISTING PU",
+    "ward_id": "915",
+    "ward_name": "ULI  III",
+    "local_government_id": "81",
+    "local_government_name": "IHALA",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3902205,
+      "longitude": 6.9450828,
+      "viewport": {
+        "northeast": {
+          "lat": 6.391538929892723,
+          "lng": 6.946422079892722
+        },
+        "southwest": {
+          "lat": 6.388839270107279,
+          "lng": 6.943722420107278
+        }
+      },
+      "formatted_address": "9WRW+32P, 432107, Igbariam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3902205,6.9450828",
+      "google_place_id": "ChIJVVVVVUZ4RBAR3mhhrtcdXc4"
+    }
+  },
+  {
+    "id": "15606",
+    "name": "NDIUMERALU P/S I",
+    "registration_area_id": "915",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "04/12/17/003",
+    "remark": "EXISTING PU",
+    "ward_id": "915",
+    "ward_name": "ULI  III",
+    "local_government_id": "81",
+    "local_government_name": "IHALA",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.7939267,
+      "longitude": 6.8652653,
+      "viewport": {
+        "northeast": {
+          "lat": 5.795279579892721,
+          "lng": 6.86666112989272
+        },
+        "southwest": {
+          "lat": 5.792579920107277,
+          "lng": 6.863961470107276
+        }
+      },
+      "formatted_address": "QVV8+H4C, 431124, Uli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7939267,6.8652653",
+      "google_place_id": "ChIJLVEtzmyxQxAR8vq4LzBP9io"
+    }
+  },
+  {
+    "id": "15607",
+    "name": "UMUANURU UGWU P/S I",
+    "registration_area_id": "915",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "04/12/17/004",
+    "remark": "EXISTING PU",
+    "ward_id": "915",
+    "ward_name": "ULI  III",
+    "local_government_id": "81",
+    "local_government_name": "IHALA",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.7991082,
+      "longitude": 6.8619045,
+      "viewport": {
+        "northeast": {
+          "lat": 5.8181918,
+          "lng": 6.8884266
+        },
+        "southwest": {
+          "lat": 5.7719438,
+          "lng": 6.8271995
+        }
+      },
+      "formatted_address": "Uli II, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7991082,6.8619045",
+      "google_place_id": "ChIJ29phQBWxQxARebmOKn43rYs"
+    }
+  },
+  {
+    "id": "15608",
+    "name": "UMUOYIBOM VILLAGE SQUARE I",
+    "registration_area_id": "915",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "04/12/17/005",
+    "remark": "EXISTING PU",
+    "ward_id": "915",
+    "ward_name": "ULI  III",
+    "local_government_id": "81",
+    "local_government_name": "IHALA",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.7738418,
+      "longitude": 6.871561499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.77513497989272,
+          "lng": 6.872778879892723
+        },
+        "southwest": {
+          "lat": 5.772435320107276,
+          "lng": 6.870079220107279
+        }
+      },
+      "formatted_address": "5, Ndiany Street, Uli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7738418,6.871561499999999",
+      "google_place_id": "ChIJwYLu632xQxARL3Q5ou-bJFU"
+    }
+  },
+  {
+    "id": "15609",
+    "name": "NDIEGUNGWU P/S",
+    "registration_area_id": "915",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "04/12/17/006",
+    "remark": "EXISTING PU",
+    "ward_id": "915",
+    "ward_name": "ULI  III",
+    "local_government_id": "81",
+    "local_government_name": "IHALA",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.7738418,
+      "longitude": 6.871561499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.77513497989272,
+          "lng": 6.872778879892723
+        },
+        "southwest": {
+          "lat": 5.772435320107276,
+          "lng": 6.870079220107279
+        }
+      },
+      "formatted_address": "5, Ndiany Street, Uli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7738418,6.871561499999999",
+      "google_place_id": "ChIJwYLu632xQxARL3Q5ou-bJFU"
+    }
+  },
+  {
+    "id": "15610",
+    "name": "UMUAMORO C/S II",
+    "registration_area_id": "915",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "04/12/17/007",
+    "remark": "EXISTING PU",
+    "ward_id": "915",
+    "ward_name": "ULI  III",
+    "local_government_id": "81",
+    "local_government_name": "IHALA",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.7738418,
+      "longitude": 6.871561499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.77513497989272,
+          "lng": 6.872778879892723
+        },
+        "southwest": {
+          "lat": 5.772435320107276,
+          "lng": 6.870079220107279
+        }
+      },
+      "formatted_address": "5, Ndiany Street, Uli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7738418,6.871561499999999",
+      "google_place_id": "ChIJwYLu632xQxARL3Q5ou-bJFU"
+    }
+  },
+  {
+    "id": "15611",
+    "name": "UMUOMA C/S II",
+    "registration_area_id": "915",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "04/12/17/008",
+    "remark": "EXISTING PU",
+    "ward_id": "915",
+    "ward_name": "ULI  III",
+    "local_government_id": "81",
+    "local_government_name": "IHALA",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.784066,
+      "longitude": 6.833425,
+      "viewport": {
+        "northeast": {
+          "lat": 5.7865911,
+          "lng": 6.8357369
+        },
+        "southwest": {
+          "lat": 5.781591,
+          "lng": 6.831512099999999
+        }
+      },
+      "formatted_address": "431117, Umuoma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.784066,6.833425",
+      "google_place_id": "ChIJAafRmLK2QxARYwUtF1mlkIo"
+    }
+  },
+  {
+    "id": "15612",
+    "name": "NDIUMERAKU P/S II",
+    "registration_area_id": "915",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "04/12/17/009",
+    "remark": "EXISTING PU",
+    "ward_id": "915",
+    "ward_name": "ULI  III",
+    "local_government_id": "81",
+    "local_government_name": "IHALA",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.7939267,
+      "longitude": 6.8652653,
+      "viewport": {
+        "northeast": {
+          "lat": 5.795279579892721,
+          "lng": 6.86666112989272
+        },
+        "southwest": {
+          "lat": 5.792579920107277,
+          "lng": 6.863961470107276
+        }
+      },
+      "formatted_address": "QVV8+H4C, 431124, Uli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7939267,6.8652653",
+      "google_place_id": "ChIJLVEtzmyxQxAR8vq4LzBP9io"
+    }
+  },
+  {
+    "id": "15613",
+    "name": "UMUANURU UGWU P/S II",
+    "registration_area_id": "915",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "04/12/17/010",
+    "remark": "EXISTING PU",
+    "ward_id": "915",
+    "ward_name": "ULI  III",
+    "local_government_id": "81",
+    "local_government_name": "IHALA",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.7738418,
+      "longitude": 6.871561499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.77513497989272,
+          "lng": 6.872778879892723
+        },
+        "southwest": {
+          "lat": 5.772435320107276,
+          "lng": 6.870079220107279
+        }
+      },
+      "formatted_address": "5, Ndiany Street, Uli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7738418,6.871561499999999",
+      "google_place_id": "ChIJwYLu632xQxARL3Q5ou-bJFU"
+    }
+  },
+  {
+    "id": "15614",
+    "name": "UMUOYIBOM VILLAGE SQUARE II",
+    "registration_area_id": "915",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "04/12/17/011",
+    "remark": "EXISTING PU",
+    "ward_id": "915",
+    "ward_name": "ULI  III",
+    "local_government_id": "81",
+    "local_government_name": "IHALA",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.7738418,
+      "longitude": 6.871561499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.77513497989272,
+          "lng": 6.872778879892723
+        },
+        "southwest": {
+          "lat": 5.772435320107276,
+          "lng": 6.870079220107279
+        }
+      },
+      "formatted_address": "5, Ndiany Street, Uli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7738418,6.871561499999999",
+      "google_place_id": "ChIJwYLu632xQxARL3Q5ou-bJFU"
+    }
+  },
+  {
+    "id": "15615",
+    "name": "UMERAKU VILLAGE SQUARE I",
+    "registration_area_id": "915",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "04/12/17/012",
+    "remark": "EXISTING PU",
+    "ward_id": "915",
+    "ward_name": "ULI  III",
+    "local_government_id": "81",
+    "local_government_name": "IHALA",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.7738418,
+      "longitude": 6.871561499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.77513497989272,
+          "lng": 6.872778879892723
+        },
+        "southwest": {
+          "lat": 5.772435320107276,
+          "lng": 6.870079220107279
+        }
+      },
+      "formatted_address": "5, Ndiany Street, Uli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7738418,6.871561499999999",
+      "google_place_id": "ChIJwYLu632xQxARL3Q5ou-bJFU"
+    }
+  },
+  {
+    "id": "15616",
+    "name": "UMUANORO C/S III",
+    "registration_area_id": "915",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "04/12/17/013",
+    "remark": "EXISTING PU",
+    "ward_id": "915",
+    "ward_name": "ULI  III",
+    "local_government_id": "81",
+    "local_government_name": "IHALA",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.7991082,
+      "longitude": 6.8619045,
+      "viewport": {
+        "northeast": {
+          "lat": 5.8181918,
+          "lng": 6.8884266
+        },
+        "southwest": {
+          "lat": 5.7719438,
+          "lng": 6.8271995
+        }
+      },
+      "formatted_address": "Uli II, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7991082,6.8619045",
+      "google_place_id": "ChIJ29phQBWxQxARebmOKn43rYs"
+    }
+  },
+  {
+    "id": "15617",
+    "name": "UMUOMA C/S III",
+    "registration_area_id": "915",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "04/12/17/014",
+    "remark": "EXISTING PU",
+    "ward_id": "915",
+    "ward_name": "ULI  III",
+    "local_government_id": "81",
+    "local_government_name": "IHALA",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.784066,
+      "longitude": 6.833425,
+      "viewport": {
+        "northeast": {
+          "lat": 5.7865911,
+          "lng": 6.8357369
+        },
+        "southwest": {
+          "lat": 5.781591,
+          "lng": 6.831512099999999
+        }
+      },
+      "formatted_address": "431117, Umuoma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.784066,6.833425",
+      "google_place_id": "ChIJAafRmLK2QxARYwUtF1mlkIo"
+    }
+  },
+  {
+    "id": "15618",
+    "name": "UMUANORO C/S IV",
+    "registration_area_id": "915",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "04/12/17/015",
+    "remark": "EXISTING PU",
+    "ward_id": "915",
+    "ward_name": "ULI  III",
+    "local_government_id": "81",
+    "local_government_name": "IHALA",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.7738418,
+      "longitude": 6.871561499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.77513497989272,
+          "lng": 6.872778879892723
+        },
+        "southwest": {
+          "lat": 5.772435320107276,
+          "lng": 6.870079220107279
+        }
+      },
+      "formatted_address": "5, Ndiany Street, Uli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7738418,6.871561499999999",
+      "google_place_id": "ChIJwYLu632xQxARL3Q5ou-bJFU"
+    }
+  },
+  {
+    "id": "15619",
+    "name": "UMERAKU VILLAGE SQUARE II",
+    "registration_area_id": "915",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "04/12/17/016",
+    "remark": "EXISTING PU",
+    "ward_id": "915",
+    "ward_name": "ULI  III",
+    "local_government_id": "81",
+    "local_government_name": "IHALA",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.7738418,
+      "longitude": 6.871561499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.77513497989272,
+          "lng": 6.872778879892723
+        },
+        "southwest": {
+          "lat": 5.772435320107276,
+          "lng": 6.870079220107279
+        }
+      },
+      "formatted_address": "5, Ndiany Street, Uli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7738418,6.871561499999999",
+      "google_place_id": "ChIJwYLu632xQxARL3Q5ou-bJFU"
+    }
+  },
+  {
+    "id": "15620",
+    "name": "UMUOMA C/S IV",
+    "registration_area_id": "915",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "04/12/17/017",
+    "remark": "EXISTING PU",
+    "ward_id": "915",
+    "ward_name": "ULI  III",
+    "local_government_id": "81",
+    "local_government_name": "IHALA",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.784066,
+      "longitude": 6.833425,
+      "viewport": {
+        "northeast": {
+          "lat": 5.7865911,
+          "lng": 6.8357369
+        },
+        "southwest": {
+          "lat": 5.781591,
+          "lng": 6.831512099999999
+        }
+      },
+      "formatted_address": "431117, Umuoma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.784066,6.833425",
+      "google_place_id": "ChIJAafRmLK2QxARYwUtF1mlkIo"
+    }
+  }
+]

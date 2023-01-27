@@ -1,0 +1,370 @@
+[
+  {
+    "id": "347697",
+    "name": "EPE TOWN, BISHOP VING EPE",
+    "registration_area_id": "17660",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "28/15/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17660",
+    "ward_name": "EPE",
+    "local_government_id": "596",
+    "local_government_name": "ONDO EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347698",
+    "name": "AGO-LISA/ADEYEYE, OPEN SPACE AT ADEYEYE",
+    "registration_area_id": "17660",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "28/15/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17660",
+    "ward_name": "EPE",
+    "local_government_id": "596",
+    "local_government_name": "ONDO EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347699",
+    "name": "ATAMO/ABO-OLORUN I, II, III, COMM PRY SCH ATAMO",
+    "registration_area_id": "17660",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "28/15/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17660",
+    "ward_name": "EPE",
+    "local_government_id": "596",
+    "local_government_name": "ONDO EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347700",
+    "name": "ORISUNMIBARE,ONISOSI, PRY. SCH. ONISOSI",
+    "registration_area_id": "17660",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "28/15/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17660",
+    "ward_name": "EPE",
+    "local_government_id": "596",
+    "local_government_name": "ONDO EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347701",
+    "name": "AJEBAMBO/OWODE/ARINPE EPE JUNCTION, OPEN SPACE AT ARINPE  JUNCTION",
+    "registration_area_id": "17660",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "28/15/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17660",
+    "ward_name": "EPE",
+    "local_government_id": "596",
+    "local_government_name": "ONDO EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347702",
+    "name": "ARAROMI/OWODE/LODOSA, ST. BARNABAS PRY SCH ARAROMI",
+    "registration_area_id": "17660",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "28/15/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17660",
+    "ward_name": "EPE",
+    "local_government_id": "596",
+    "local_government_name": "ONDO EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.7788827,
+      "longitude": 3.9228128,
+      "viewport": {
+        "northeast": {
+          "lat": 6.780257929892721,
+          "lng": 3.924276129892722
+        },
+        "southwest": {
+          "lat": 6.777558270107277,
+          "lng": 3.921576470107278
+        }
+      },
+      "formatted_address": "QWHF+H35, imaweje road, Ogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7788827,3.9228128",
+      "google_place_id": "ChIJqwDBNYpoORARsVOiBzxJR5g"
+    }
+  },
+  {
+    "id": "347703",
+    "name": "MOBIRE/AJEGUNLE/WAJAYE/MATIN, OPEN SPACE AT MOBIRE",
+    "registration_area_id": "17660",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "28/15/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17660",
+    "ward_name": "EPE",
+    "local_government_id": "596",
+    "local_government_name": "ONDO EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347704",
+    "name": "LAWORO, OPEN SPACE AT LAWORO",
+    "registration_area_id": "17660",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "28/15/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17660",
+    "ward_name": "EPE",
+    "local_government_id": "596",
+    "local_government_name": "ONDO EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347705",
+    "name": "LOMILEJU/OKIA/KAJOLA, PRY. SCH. LOMILEJU",
+    "registration_area_id": "17660",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "28/15/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17660",
+    "ward_name": "EPE",
+    "local_government_id": "596",
+    "local_government_name": "ONDO EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.178163400000001,
+      "longitude": 4.9921991,
+      "viewport": {
+        "northeast": {
+          "lat": 7.179636329892721,
+          "lng": 4.993439579892722
+        },
+        "southwest": {
+          "lat": 7.176936670107278,
+          "lng": 4.990739920107278
+        }
+      },
+      "formatted_address": "5XHR+7V8, 340105, Mobaolorunduro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.178163400000001,4.9921991",
+      "google_place_id": "ChIJ1y9tWGl5OBAR1fpTcyabEVk"
+    }
+  },
+  {
+    "id": "347706",
+    "name": "AGIODO I, II, III/BALOGUN/OJOJO/WAJAYO, L.A PRY SCH WAJAYO",
+    "registration_area_id": "17660",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "28/15/04/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17660",
+    "ward_name": "EPE",
+    "local_government_id": "596",
+    "local_government_name": "ONDO EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347707",
+    "name": "ST. BENEDICT RCM PRY SCH, OJOJO",
+    "registration_area_id": "17660",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "28/15/04/011",
+    "remark": "NEW PU",
+    "ward_id": "17660",
+    "ward_name": "EPE",
+    "local_government_id": "596",
+    "local_government_name": "ONDO EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  },
+  {
+    "id": "347708",
+    "name": "OJOJO/AGIODO JUNCTION",
+    "registration_area_id": "17660",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "28/15/04/012",
+    "remark": "NEW PU",
+    "ward_id": "17660",
+    "ward_name": "EPE",
+    "local_government_id": "596",
+    "local_government_name": "ONDO EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.113299199999999,
+      "longitude": 4.805771,
+      "viewport": {
+        "northeast": {
+          "lat": 7.114821229892722,
+          "lng": 4.807058079892723
+        },
+        "southwest": {
+          "lat": 7.112121570107278,
+          "lng": 4.804358420107279
+        }
+      },
+      "formatted_address": "4R74+78C, Akinsowon Folajimi Avenue, 351110, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.113299199999999,4.805771",
+      "google_place_id": "ChIJ097tLX9hOBARDzRmyhP76-Y"
+    }
+  },
+  {
+    "id": "347709",
+    "name": "ST. BENEDICT PRY SCH, PELE",
+    "registration_area_id": "17660",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "28/15/04/013",
+    "remark": "NEW PU",
+    "ward_id": "17660",
+    "ward_name": "EPE",
+    "local_government_id": "596",
+    "local_government_name": "ONDO EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.0723799,
+      "longitude": 4.842109199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.073808229892722,
+          "lng": 4.843495979892722
+        },
+        "southwest": {
+          "lat": 7.071108570107278,
+          "lng": 4.840796320107278
+        }
+      },
+      "formatted_address": "3RCR+WRG, 351106, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0723799,4.842109199999999",
+      "google_place_id": "ChIJA2yp0NNjOBARLVBq6IRt7Jc"
+    }
+  },
+  {
+    "id": "347710",
+    "name": "ILUPEJU AVENUE, JOLACO",
+    "registration_area_id": "17660",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "28/15/04/014",
+    "remark": "NEW PU",
+    "ward_id": "17660",
+    "ward_name": "EPE",
+    "local_government_id": "596",
+    "local_government_name": "ONDO EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.1171304,
+      "longitude": 4.8040782,
+      "viewport": {
+        "northeast": {
+          "lat": 7.118447179892722,
+          "lng": 4.805521979892721
+        },
+        "southwest": {
+          "lat": 7.115747520107278,
+          "lng": 4.802822320107277
+        }
+      },
+      "formatted_address": "4R83+VJ7, 351110, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1171304,4.8040782",
+      "google_place_id": "ChIJySYsjHthOBAR4l1HjUPH4jE"
+    }
+  },
+  {
+    "id": "347711",
+    "name": "OWODE, EPE",
+    "registration_area_id": "17660",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "28/15/04/015",
+    "remark": "NEW PU",
+    "ward_id": "17660",
+    "ward_name": "EPE",
+    "local_government_id": "596",
+    "local_government_name": "ONDO EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.4131424,
+      "longitude": 4.2325345,
+      "viewport": {
+        "northeast": {
+          "lat": 6.414590379892722,
+          "lng": 4.233832379892722
+        },
+        "southwest": {
+          "lat": 6.411890720107278,
+          "lng": 4.231132720107278
+        }
+      },
+      "formatted_address": "106101, Owode-Ise, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4131424,4.2325345",
+      "google_place_id": "ChIJX-aWw58yORARD1Ko1BOJlgI"
+    }
+  },
+  {
+    "id": "347712",
+    "name": "EPE TOWN HALL",
+    "registration_area_id": "17660",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "28/15/04/016",
+    "remark": "NEW PU",
+    "ward_id": "17660",
+    "ward_name": "EPE",
+    "local_government_id": "596",
+    "local_government_name": "ONDO EAST",
+    "state_id": "28",
+    "state_name": "ONDO",
+    "location": null
+  }
+]

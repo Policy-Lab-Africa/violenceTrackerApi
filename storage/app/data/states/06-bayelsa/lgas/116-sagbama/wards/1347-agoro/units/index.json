@@ -1,0 +1,729 @@
+[
+  {
+    "id": "24895",
+    "name": "DONYEWARE - TOWN HALL",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "06/06/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.032679799999999,
+      "longitude": 6.310970600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.034027079892722,
+          "lng": 6.312302279892722
+        },
+        "southwest": {
+          "lat": 5.031327420107278,
+          "lng": 6.309602620107278
+        }
+      },
+      "formatted_address": "28M6+39H, Obunagha, Gbarain, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.032679799999999,6.310970600000001",
+      "google_place_id": "ChIJMwnAbff9QRAR83HvrBdMX4A"
+    }
+  },
+  {
+    "id": "24896",
+    "name": "TAMBIRI - COMP SQUARE",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "06/06/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.1560612,
+      "longitude": 6.1981261,
+      "viewport": {
+        "northeast": {
+          "lat": 5.157374279892721,
+          "lng": 6.199442279892722
+        },
+        "southwest": {
+          "lat": 5.154674620107278,
+          "lng": 6.196742620107278
+        }
+      },
+      "formatted_address": "554X+C7C, 561101, Sagbama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1560612,6.1981261",
+      "google_place_id": "ChIJlyt94erlQRAR-Jw3R9DJeZ0"
+    }
+  },
+  {
+    "id": "24897",
+    "name": "OGIOWOUWARE - COMP. SQUARE",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "06/06/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.067298399999999,
+      "longitude": 6.1415149,
+      "viewport": {
+        "northeast": {
+          "lat": 5.068648379892722,
+          "lng": 6.142727879892722
+        },
+        "southwest": {
+          "lat": 5.065948720107278,
+          "lng": 6.140028220107278
+        }
+      },
+      "formatted_address": "561101, Agoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.067298399999999,6.1415149",
+      "google_place_id": "ChIJSdfpp5zhQRARGy_8iTzRxkw"
+    }
+  },
+  {
+    "id": "24898",
+    "name": "KORIABIRI -COMP. SQUARE",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "06/06/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": null
+  },
+  {
+    "id": "24899",
+    "name": "BOLOUGBENE - COMP. SQUARE",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "06/06/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.1522389,
+      "longitude": 6.192479100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.153616429892722,
+          "lng": 6.193794029892723
+        },
+        "southwest": {
+          "lat": 5.150916770107278,
+          "lng": 6.191094370107279
+        }
+      },
+      "formatted_address": "552R+VXX, COE Road Sagbama LGA, 560233, Sagbama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1522389,6.192479100000001",
+      "google_place_id": "ChIJN8LNoC7lQRARtLDDUjf805k"
+    }
+  },
+  {
+    "id": "24900",
+    "name": "EGOGOBIRI CAMP SQUARE",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "06/06/11/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.1496829,
+      "longitude": 6.1933785,
+      "viewport": {
+        "northeast": {
+          "lat": 5.150904479892723,
+          "lng": 6.194298979892723
+        },
+        "southwest": {
+          "lat": 5.148204820107279,
+          "lng": 6.191599320107279
+        }
+      },
+      "formatted_address": "45XV+V9C, 561101, Sagbama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1496829,6.1933785",
+      "google_place_id": "ChIJMQ2X2FXkQRARAs2Sk_emR04"
+    }
+  },
+  {
+    "id": "24901",
+    "name": "OGBOINBIRI - COMP. SQUARE",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "06/06/11/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9982057,
+      "longitude": 6.1189053,
+      "viewport": {
+        "northeast": {
+          "lat": 5.000786499999999,
+          "lng": 6.123891
+        },
+        "southwest": {
+          "lat": 4.9962548,
+          "lng": 6.1105871
+        }
+      },
+      "formatted_address": "Ogobiri Community, Bayelsa, Nigeria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9982057,6.1189053",
+      "google_place_id": "ChIJERMBWFAKahARuWxne7gdamE"
+    }
+  },
+  {
+    "id": "24902",
+    "name": "ESELEMERE - COMP. SQUARE",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "06/06/11/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.1496829,
+      "longitude": 6.1933785,
+      "viewport": {
+        "northeast": {
+          "lat": 5.150904479892723,
+          "lng": 6.194298979892723
+        },
+        "southwest": {
+          "lat": 5.148204820107279,
+          "lng": 6.191599320107279
+        }
+      },
+      "formatted_address": "45XV+V9C, 561101, Sagbama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1496829,6.1933785",
+      "google_place_id": "ChIJMQ2X2FXkQRARAs2Sk_emR04"
+    }
+  },
+  {
+    "id": "24903",
+    "name": "AGIDIGBO - AGIDIGBOSQUARE",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "06/06/11/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 7.4316206,
+      "longitude": 3.9344918,
+      "viewport": {
+        "northeast": {
+          "lat": 7.432956029892722,
+          "lng": 3.935765779892722
+        },
+        "southwest": {
+          "lat": 7.430256370107278,
+          "lng": 3.933066120107279
+        }
+      },
+      "formatted_address": "CWJM+MR2, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4316206,3.9344918",
+      "google_place_id": "ChIJoeC3A1XtORARjkxM1bFi0N8"
+    }
+  },
+  {
+    "id": "24904",
+    "name": "AYAOGBO - AYAOGBO SQUARE",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "06/06/11/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.1496829,
+      "longitude": 6.1933785,
+      "viewport": {
+        "northeast": {
+          "lat": 5.150904479892723,
+          "lng": 6.194298979892723
+        },
+        "southwest": {
+          "lat": 5.148204820107279,
+          "lng": 6.191599320107279
+        }
+      },
+      "formatted_address": "45XV+V9C, 561101, Sagbama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1496829,6.1933785",
+      "google_place_id": "ChIJMQ2X2FXkQRARAs2Sk_emR04"
+    }
+  },
+  {
+    "id": "24905",
+    "name": "EKODOWARE/KINSIDE - TOWN HALL",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "06/06/11/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9183137,
+      "longitude": 6.2545721,
+      "viewport": {
+        "northeast": {
+          "lat": 4.919667679892722,
+          "lng": 6.255904579892722
+        },
+        "southwest": {
+          "lat": 4.916968020107278,
+          "lng": 6.253204920107278
+        }
+      },
+      "formatted_address": "W793+8RG, 569101, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9183137,6.2545721",
+      "google_place_id": "ChIJdwabI5cFahAR_iMLZiFwtIc"
+    }
+  },
+  {
+    "id": "24906",
+    "name": "AWOTOWARE - AWOTOWARE HALL",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "06/06/11/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": null
+  },
+  {
+    "id": "24907",
+    "name": "LOLOKUNU - REST HOUSE",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "06/06/11/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.973497900000001,
+      "longitude": 6.109059299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.974849779892722,
+          "lng": 6.110375929892721
+        },
+        "southwest": {
+          "lat": 4.972150120107278,
+          "lng": 6.107676270107278
+        }
+      },
+      "formatted_address": "X4F5+9J9, opposite Govt Sec. Sch, behind The Power Station, 560103, Amassoma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.973497900000001,6.109059299999999",
+      "google_place_id": "ChIJnbU3FAoLahARylWvDpNRXH0"
+    }
+  },
+  {
+    "id": "24908",
+    "name": "ABUKOBIRI - TARE COMP.",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "06/06/11/014",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.067298399999999,
+      "longitude": 6.1415149,
+      "viewport": {
+        "northeast": {
+          "lat": 5.068648379892722,
+          "lng": 6.142727879892722
+        },
+        "southwest": {
+          "lat": 5.065948720107278,
+          "lng": 6.140028220107278
+        }
+      },
+      "formatted_address": "561101, Agoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.067298399999999,6.1415149",
+      "google_place_id": "ChIJSdfpp5zhQRARGy_8iTzRxkw"
+    }
+  },
+  {
+    "id": "24909",
+    "name": "TAMOBIRI - TOWN HALL",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "06/06/11/015",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.032679799999999,
+      "longitude": 6.310970600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.034027079892722,
+          "lng": 6.312302279892722
+        },
+        "southwest": {
+          "lat": 5.031327420107278,
+          "lng": 6.309602620107278
+        }
+      },
+      "formatted_address": "28M6+39H, Obunagha, Gbarain, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.032679799999999,6.310970600000001",
+      "google_place_id": "ChIJMwnAbff9QRAR83HvrBdMX4A"
+    }
+  },
+  {
+    "id": "24910",
+    "name": "AYAMA - REST HOUSE",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "06/06/11/016",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.921162100000001,
+      "longitude": 6.274773400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.922174829892723,
+          "lng": 6.275647500000001
+        },
+        "southwest": {
+          "lat": 4.919475170107279,
+          "lng": 6.272151099999999
+        }
+      },
+      "formatted_address": "569101, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.921162100000001,6.274773400000001",
+      "google_place_id": "ChIJ_____7MFahARYV5vJKu7-q8"
+    }
+  },
+  {
+    "id": "24911",
+    "name": "OGBOINBIRI - TOWN HALL",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "06/06/11/017",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9183137,
+      "longitude": 6.2545721,
+      "viewport": {
+        "northeast": {
+          "lat": 4.919667679892722,
+          "lng": 6.255904579892722
+        },
+        "southwest": {
+          "lat": 4.916968020107278,
+          "lng": 6.253204920107278
+        }
+      },
+      "formatted_address": "W793+8RG, 569101, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9183137,6.2545721",
+      "google_place_id": "ChIJdwabI5cFahAR_iMLZiFwtIc"
+    }
+  },
+  {
+    "id": "24912",
+    "name": "FOUPELE - MARKET SQUARE",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "06/06/11/018",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.947597099999999,
+      "longitude": 6.333151,
+      "viewport": {
+        "northeast": {
+          "lat": 4.948916329892721,
+          "lng": 6.334449129892722
+        },
+        "southwest": {
+          "lat": 4.946216670107277,
+          "lng": 6.331749470107278
+        }
+      },
+      "formatted_address": "W8XM+27J, 569101, Biogbolo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.947597099999999,6.333151",
+      "google_place_id": "ChIJDcGKIVgBahARWDXDtxw26ws"
+    }
+  },
+  {
+    "id": "24913",
+    "name": "AFOUBIRI-AFOUBIRI SQUARE",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "06/06/11/019",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.1496829,
+      "longitude": 6.1933785,
+      "viewport": {
+        "northeast": {
+          "lat": 5.150904479892723,
+          "lng": 6.194298979892723
+        },
+        "southwest": {
+          "lat": 5.148204820107279,
+          "lng": 6.191599320107279
+        }
+      },
+      "formatted_address": "45XV+V9C, 561101, Sagbama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1496829,6.1933785",
+      "google_place_id": "ChIJMQ2X2FXkQRARAs2Sk_emR04"
+    }
+  },
+  {
+    "id": "24914",
+    "name": "OKOROWARE COMPOUND SQUARE",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "06/06/11/020",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.067298399999999,
+      "longitude": 6.1415149,
+      "viewport": {
+        "northeast": {
+          "lat": 5.068648379892722,
+          "lng": 6.142727879892722
+        },
+        "southwest": {
+          "lat": 5.065948720107278,
+          "lng": 6.140028220107278
+        }
+      },
+      "formatted_address": "561101, Agoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.067298399999999,6.1415149",
+      "google_place_id": "ChIJSdfpp5zhQRARGy_8iTzRxkw"
+    }
+  },
+  {
+    "id": "24915",
+    "name": "TIKPIWARE COMPOUND SQUARE",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "06/06/11/021",
+    "remark": "EXISTING PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.20198,
+      "longitude": 6.1707,
+      "viewport": {
+        "northeast": {
+          "lat": 5.203329829892722,
+          "lng": 6.172049829892722
+        },
+        "southwest": {
+          "lat": 5.200630170107278,
+          "lng": 6.169350170107278
+        }
+      },
+      "formatted_address": "EPIGAA HOUSE, ARAMABIRI QUARTER#, 333104, Sagbama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.20198,6.1707",
+      "google_place_id": "ChIJrwK_HnXvQRARLF7EF9PLqkU"
+    }
+  },
+  {
+    "id": "24916",
+    "name": "AKPARABIRI",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "06/06/11/022",
+    "remark": "NEW PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.1496829,
+      "longitude": 6.1933785,
+      "viewport": {
+        "northeast": {
+          "lat": 5.150904479892723,
+          "lng": 6.194298979892723
+        },
+        "southwest": {
+          "lat": 5.148204820107279,
+          "lng": 6.191599320107279
+        }
+      },
+      "formatted_address": "45XV+V9C, 561101, Sagbama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1496829,6.1933785",
+      "google_place_id": "ChIJMQ2X2FXkQRARAs2Sk_emR04"
+    }
+  },
+  {
+    "id": "24917",
+    "name": "KOROBIRI OPEN SPACE",
+    "registration_area_id": "1347",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "06/06/11/023",
+    "remark": "NEW PU",
+    "ward_id": "1347",
+    "ward_name": "AGORO",
+    "local_government_id": "116",
+    "local_government_name": "SAGBAMA",
+    "state_id": "6",
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9982057,
+      "longitude": 6.1189053,
+      "viewport": {
+        "northeast": {
+          "lat": 5.000786499999999,
+          "lng": 6.123891
+        },
+        "southwest": {
+          "lat": 4.9962548,
+          "lng": 6.1105871
+        }
+      },
+      "formatted_address": "Ogobiri Community, Bayelsa, Nigeria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9982057,6.1189053",
+      "google_place_id": "ChIJERMBWFAKahARuWxne7gdamE"
+    }
+  }
+]

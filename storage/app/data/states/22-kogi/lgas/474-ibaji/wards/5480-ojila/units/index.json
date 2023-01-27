@@ -1,0 +1,534 @@
+[
+  {
+    "id": "106682",
+    "name": "ANIKA TOWN HALL ANIKA",
+    "registration_area_id": "5480",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "22/06/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5480",
+    "ward_name": "OJILA",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.485843699999999,
+      "longitude": 7.187395599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.487135729892722,
+          "lng": 7.188881829892721
+        },
+        "southwest": {
+          "lat": 7.484436070107278,
+          "lng": 7.186182170107277
+        }
+      },
+      "formatted_address": "University, Anyigba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.485843699999999,7.187395599999999",
+      "google_place_id": "ChIJ8Sc_5nsLThARDZHeroLI0Bc"
+    }
+  },
+  {
+    "id": "106683",
+    "name": "ANOCHA OBA OPEN SPACE UCHIA",
+    "registration_area_id": "5480",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "22/06/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5480",
+    "ward_name": "OJILA",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106684",
+    "name": "ANEDIMA ANOCHA OPEN SPACE OKPOCHU",
+    "registration_area_id": "5480",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "22/06/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5480",
+    "ward_name": "OJILA",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106685",
+    "name": "ANOCHA ODIOKPA ODIOKPA TOWN HALL",
+    "registration_area_id": "5480",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "22/06/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5480",
+    "ward_name": "OJILA",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8229739,
+      "longitude": 6.732164399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.824204679892722,
+          "lng": 6.733468479892721
+        },
+        "southwest": {
+          "lat": 7.821505020107278,
+          "lng": 6.730768820107278
+        }
+      },
+      "formatted_address": "RPFJ+5V, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8229739,6.732164399999999",
+      "google_place_id": "ChIJB_aCDAddTxARB4oRBEbCjbc"
+    }
+  },
+  {
+    "id": "106686",
+    "name": "ANOCHA INALI UCHIA INALI OPEN SPACE",
+    "registration_area_id": "5480",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "22/06/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5480",
+    "ward_name": "OJILA",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106687",
+    "name": "IMIA KENT ODOBO UCHIA ODOBO OPEN SPACE",
+    "registration_area_id": "5480",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "22/06/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5480",
+    "ward_name": "OJILA",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106688",
+    "name": "IMIA TOWN HALL IMIA",
+    "registration_area_id": "5480",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "22/06/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5480",
+    "ward_name": "OJILA",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106689",
+    "name": "IYAGBA I NEAR ENWUNCHOLA'S FRONTAGE",
+    "registration_area_id": "5480",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "22/06/06/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5480",
+    "ward_name": "OJILA",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 6.9366334,
+      "longitude": 6.8593544,
+      "viewport": {
+        "northeast": {
+          "lat": 6.937983229892722,
+          "lng": 6.860704229892721
+        },
+        "southwest": {
+          "lat": 6.935283570107278,
+          "lng": 6.858004570107277
+        }
+      },
+      "formatted_address": "WVP5+MP5, Ukwela Street, Elele, Odobu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9366334,6.8593544",
+      "google_place_id": "ChIJsW81kb5PRBAR73CZ0mOlolo"
+    }
+  },
+  {
+    "id": "106690",
+    "name": "IYAGBA II IYAGBA TOWN HALL",
+    "registration_area_id": "5480",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "22/06/06/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5480",
+    "ward_name": "OJILA",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.1593562,
+      "longitude": 5.8960738,
+      "viewport": {
+        "northeast": {
+          "lat": 8.165488999999999,
+          "lng": 5.9002975
+        },
+        "southwest": {
+          "lat": 8.1521474,
+          "lng": 5.8882945
+        }
+      },
+      "formatted_address": "262101, Ijagbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1593562,5.8960738",
+      "google_place_id": "ChIJF8mHpfbxSBARx7Ky8fmFw-0"
+    }
+  },
+  {
+    "id": "106691",
+    "name": "OLUGU I OLUGU TOWN HALL",
+    "registration_area_id": "5480",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "22/06/06/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5480",
+    "ward_name": "OJILA",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8229739,
+      "longitude": 6.732164399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.824204679892722,
+          "lng": 6.733468479892721
+        },
+        "southwest": {
+          "lat": 7.821505020107278,
+          "lng": 6.730768820107278
+        }
+      },
+      "formatted_address": "RPFJ+5V, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8229739,6.732164399999999",
+      "google_place_id": "ChIJB_aCDAddTxARB4oRBEbCjbc"
+    }
+  },
+  {
+    "id": "106692",
+    "name": "OLUGU II D.O'S OFFICE FRONTAGE",
+    "registration_area_id": "5480",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "22/06/06/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5480",
+    "ward_name": "OJILA",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 9.0314395,
+      "longitude": 7.5218968,
+      "viewport": {
+        "northeast": {
+          "lat": 9.032757429892722,
+          "lng": 7.523244579892721
+        },
+        "southwest": {
+          "lat": 9.030057770107279,
+          "lng": 7.520544920107278
+        }
+      },
+      "formatted_address": "Asokoro 900110, Abuja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0314395,7.5218968",
+      "google_place_id": "ChIJAQAAAOQLThARtmWy4EZ_PrM"
+    }
+  },
+  {
+    "id": "106693",
+    "name": "IKANA I BESIDE UBGAJE' FORNTAGE",
+    "registration_area_id": "5480",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "22/06/06/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5480",
+    "ward_name": "OJILA",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106694",
+    "name": "IKANA II TOWN HALL IKANA",
+    "registration_area_id": "5480",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "22/06/06/013",
+    "remark": "EXISTING PU",
+    "ward_id": "5480",
+    "ward_name": "OJILA",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106695",
+    "name": "OMAINA EBONALE -TOWN HALL",
+    "registration_area_id": "5480",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "22/06/06/014",
+    "remark": "EXISTING PU",
+    "ward_id": "5480",
+    "ward_name": "OJILA",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106696",
+    "name": "EMABO EBONALE - TOWN HALL",
+    "registration_area_id": "5480",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "22/06/06/015",
+    "remark": "EXISTING PU",
+    "ward_id": "5480",
+    "ward_name": "OJILA",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8229739,
+      "longitude": 6.732164399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.824204679892722,
+          "lng": 6.733468479892721
+        },
+        "southwest": {
+          "lat": 7.821505020107278,
+          "lng": 6.730768820107278
+        }
+      },
+      "formatted_address": "RPFJ+5V, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8229739,6.732164399999999",
+      "google_place_id": "ChIJB_aCDAddTxARB4oRBEbCjbc"
+    }
+  },
+  {
+    "id": "106697",
+    "name": "OMATAKA - TOWN AHLL",
+    "registration_area_id": "5480",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "22/06/06/016",
+    "remark": "EXISTING PU",
+    "ward_id": "5480",
+    "ward_name": "OJILA",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 6.596516299999999,
+      "longitude": 6.770813800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.6861006,
+          "lng": 6.8089938
+        },
+        "southwest": {
+          "lat": 6.5575017,
+          "lng": 6.7042769
+        }
+      },
+      "formatted_address": "Ojila, 271105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.596516299999999,6.770813800000001",
+      "google_place_id": "ChIJi1RF6FZrRBAREuILGTL_1c4"
+    }
+  },
+  {
+    "id": "106698",
+    "name": "AYOEMUA OPEN SPACE EMABO",
+    "registration_area_id": "5480",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "22/06/06/017",
+    "remark": "NEW PU",
+    "ward_id": "5480",
+    "ward_name": "OJILA",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.113811900000001,
+      "longitude": 6.744046699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.115153479892722,
+          "lng": 6.745265879892721
+        },
+        "southwest": {
+          "lat": 7.112453820107278,
+          "lng": 6.742566220107277
+        }
+      },
+      "formatted_address": "4P7V+GJF, Iyogbo Layout, Idah, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.113811900000001,6.744046699999999",
+      "google_place_id": "ChIJg9ym6gq2RRARON7o5VslW98"
+    }
+  },
+  {
+    "id": "106699",
+    "name": "OMAEGWUMA OPEN SPACE",
+    "registration_area_id": "5480",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "22/06/06/018",
+    "remark": "NEW PU",
+    "ward_id": "5480",
+    "ward_name": "OJILA",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "106700",
+    "name": "ODOTITOR OPEN SPACE ECHENO",
+    "registration_area_id": "5480",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "22/06/06/019",
+    "remark": "NEW PU",
+    "ward_id": "5480",
+    "ward_name": "OJILA",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "106701",
+    "name": "IYAGBA III OPEN SPACE ECHENO",
+    "registration_area_id": "5480",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "22/06/06/020",
+    "remark": "NEW PU",
+    "ward_id": "5480",
+    "ward_name": "OJILA",
+    "local_government_id": "474",
+    "local_government_name": "IBAJI",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  }
+]

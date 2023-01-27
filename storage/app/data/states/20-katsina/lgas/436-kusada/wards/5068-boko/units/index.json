@@ -1,0 +1,368 @@
+[
+  {
+    "id": "99714",
+    "name": "DANGAMAU PRI.SCHOOL",
+    "registration_area_id": "5068",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/23/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5068",
+    "ward_name": "BOKO",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.006058,
+      "longitude": 7.6042719,
+      "viewport": {
+        "northeast": {
+          "lat": 13.00736612989272,
+          "lng": 7.605477729892723
+        },
+        "southwest": {
+          "lat": 13.00466647010728,
+          "lng": 7.602778070107279
+        }
+      },
+      "formatted_address": "KCK, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.006058,7.6042719",
+      "google_place_id": "ChIJEYn_w9E8sBERRkkNYUzAQps"
+    }
+  },
+  {
+    "id": "99715",
+    "name": "SABON GARI T.V. CENTRE",
+    "registration_area_id": "5068",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/23/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5068",
+    "ward_name": "BOKO",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9746132,
+      "longitude": 7.6262974,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97599402989272,
+          "lng": 7.627769329892722
+        },
+        "southwest": {
+          "lat": 12.97329437010728,
+          "lng": 7.625069670107278
+        }
+      },
+      "formatted_address": "XJFG+RFQ, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9746132,7.6262974",
+      "google_place_id": "ChIJsXc8alkjsBERhb-9vV8SPmI"
+    }
+  },
+  {
+    "id": "99716",
+    "name": "YAN ZARU - OPEN SPACE",
+    "registration_area_id": "5068",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/23/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5068",
+    "ward_name": "BOKO",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "99717",
+    "name": "DAN BUTALE (BAURAWA) OPEN SPACE",
+    "registration_area_id": "5068",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/23/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5068",
+    "ward_name": "BOKO",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "99718",
+    "name": "YAN DORAWA / BAURAWA - OPEN SPACE",
+    "registration_area_id": "5068",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/23/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5068",
+    "ward_name": "BOKO",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.963192,
+      "longitude": 7.6046803,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96462157989272,
+          "lng": 7.60602532989272
+        },
+        "southwest": {
+          "lat": 12.96192192010728,
+          "lng": 7.603325670107276
+        }
+      },
+      "formatted_address": "Wali jodoma street Kwabren dorowa , yan kifi katsina Katsina local goverment, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.963192,7.6046803",
+      "google_place_id": "ChIJT4e3A3I7sBERLlpJjrDUr3o"
+    }
+  },
+  {
+    "id": "99719",
+    "name": "SIRE - OPEN SPACE",
+    "registration_area_id": "5068",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/23/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5068",
+    "ward_name": "BOKO",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "99720",
+    "name": "GWADABAWA - OPEN SPACE",
+    "registration_area_id": "5068",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/23/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5068",
+    "ward_name": "BOKO",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "99721",
+    "name": "RUGAR MAKADA - OPEN SPACE",
+    "registration_area_id": "5068",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/23/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5068",
+    "ward_name": "BOKO",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "99722",
+    "name": "INGAWAR BEBO - OPEN SPACE",
+    "registration_area_id": "5068",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/23/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5068",
+    "ward_name": "BOKO",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "99723",
+    "name": "SABON GARI TV CENTRE",
+    "registration_area_id": "5068",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/23/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5068",
+    "ward_name": "BOKO",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9746132,
+      "longitude": 7.6262974,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97599402989272,
+          "lng": 7.627769329892722
+        },
+        "southwest": {
+          "lat": 12.97329437010728,
+          "lng": 7.625069670107278
+        }
+      },
+      "formatted_address": "XJFG+RFQ, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9746132,7.6262974",
+      "google_place_id": "ChIJsXc8alkjsBERhb-9vV8SPmI"
+    }
+  },
+  {
+    "id": "99724",
+    "name": "DANGAMAU VET. CLINIC",
+    "registration_area_id": "5068",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/23/05/011",
+    "remark": "NEW PU",
+    "ward_id": "5068",
+    "ward_name": "BOKO",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 43.8076397,
+      "longitude": -79.35641849999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.80901842989272,
+          "lng": -79.35509422010728
+        },
+        "southwest": {
+          "lat": 43.80631877010727,
+          "lng": -79.35779387989272
+        }
+      },
+      "formatted_address": "3879 Don Mills Rd, North York, ON M2H 2S7, Canada",
+      "google_map_url": "https://maps.google.com?q=43.8076397,-79.35641849999999",
+      "google_place_id": "ChIJl88TRRXT1IkRZ_NDVw7paiw"
+    }
+  },
+  {
+    "id": "99725",
+    "name": "DANGAMAU TV CENTRE",
+    "registration_area_id": "5068",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "20/23/05/012",
+    "remark": "NEW PU",
+    "ward_id": "5068",
+    "ward_name": "BOKO",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9736159,
+      "longitude": 7.5810965,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97504327989272,
+          "lng": 7.582383229892721
+        },
+        "southwest": {
+          "lat": 12.97234362010728,
+          "lng": 7.579683570107277
+        }
+      },
+      "formatted_address": "XHFJ+CCX, Batsari Rd, 820252, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9736159,7.5810965",
+      "google_place_id": "ChIJx1T3KVs9sBERHj_-KC24Cps"
+    }
+  },
+  {
+    "id": "99726",
+    "name": "SABON GARI PRI. SCHOOL",
+    "registration_area_id": "5068",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "20/23/05/013",
+    "remark": "NEW PU",
+    "ward_id": "5068",
+    "ward_name": "BOKO",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9146494,
+      "longitude": 7.6344554,
+      "viewport": {
+        "northeast": {
+          "lat": 12.91600002989272,
+          "lng": 7.635881379892722
+        },
+        "southwest": {
+          "lat": 12.91330037010728,
+          "lng": 7.633181720107277
+        }
+      },
+      "formatted_address": "Kabukawa Sabon Gida Primary School, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9146494,7.6344554",
+      "google_place_id": "ChIJ8Y4wHFMlsBERLWlmdxm2BBI"
+    }
+  },
+  {
+    "id": "99727",
+    "name": "BAURAWA PRI. SCHOOL",
+    "registration_area_id": "5068",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "20/23/05/014",
+    "remark": "NEW PU",
+    "ward_id": "5068",
+    "ward_name": "BOKO",
+    "local_government_id": "436",
+    "local_government_name": "KUSADA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0248508,
+      "longitude": 7.6914509,
+      "viewport": {
+        "northeast": {
+          "lat": 13.02610777989272,
+          "lng": 7.692875979892721
+        },
+        "southwest": {
+          "lat": 13.02340812010728,
+          "lng": 7.690176320107277
+        }
+      },
+      "formatted_address": "2MFR+WHJ, 820103, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0248508,7.6914509",
+      "google_place_id": "ChIJU6o_Zy8isBERkZ5B3TxrbzM"
+    }
+  }
+]

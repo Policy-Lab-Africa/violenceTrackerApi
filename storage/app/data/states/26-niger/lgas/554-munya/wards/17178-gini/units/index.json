@@ -1,0 +1,220 @@
+[
+  {
+    "id": "338051",
+    "name": "GINI PRY SCH",
+    "registration_area_id": "17178",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/18/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17178",
+    "ward_name": "GINI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.644313799999999,
+      "longitude": 6.524368,
+      "viewport": {
+        "northeast": {
+          "lat": 9.645679829892721,
+          "lng": 6.525765079892722
+        },
+        "southwest": {
+          "lat": 9.642980170107277,
+          "lng": 6.523065420107278
+        }
+      },
+      "formatted_address": "London St, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.644313799999999,6.524368",
+      "google_place_id": "ChIJSeZIIZJwTBAR4CT9W2Ok-T0"
+    }
+  },
+  {
+    "id": "338052",
+    "name": "GBAKUKU",
+    "registration_area_id": "17178",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/18/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17178",
+    "ward_name": "GINI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338053",
+    "name": "GWADAMI",
+    "registration_area_id": "17178",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/18/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17178",
+    "ward_name": "GINI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.7577676,
+      "longitude": 6.8961828,
+      "viewport": {
+        "northeast": {
+          "lat": 9.759117429892722,
+          "lng": 6.897532629892722
+        },
+        "southwest": {
+          "lat": 9.756417770107278,
+          "lng": 6.894832970107278
+        }
+      },
+      "formatted_address": "6FX8QV5W+3FF tumbi gwadami gini munya Niger, Gidan Ganga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.7577676,6.8961828",
+      "google_place_id": "ChIJO88Mxa1ZTBARkzOdOX9q_2s"
+    }
+  },
+  {
+    "id": "338054",
+    "name": "SHENGU",
+    "registration_area_id": "17178",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/18/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17178",
+    "ward_name": "GINI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338055",
+    "name": "INJITA",
+    "registration_area_id": "17178",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/18/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17178",
+    "ward_name": "GINI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338056",
+    "name": "INTA",
+    "registration_area_id": "17178",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/18/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17178",
+    "ward_name": "GINI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338057",
+    "name": "ZHIBAPE",
+    "registration_area_id": "17178",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/18/06/007",
+    "remark": "NEW PU",
+    "ward_id": "17178",
+    "ward_name": "GINI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338058",
+    "name": "ZHIDNAYI",
+    "registration_area_id": "17178",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/18/06/008",
+    "remark": "NEW PU",
+    "ward_id": "17178",
+    "ward_name": "GINI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338059",
+    "name": "JIGBE",
+    "registration_area_id": "17178",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "26/18/06/009",
+    "remark": "NEW PU",
+    "ward_id": "17178",
+    "ward_name": "GINI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.753091,
+      "longitude": 6.874008,
+      "viewport": {
+        "northeast": {
+          "lat": 9.754440829892724,
+          "lng": 6.875357829892722
+        },
+        "southwest": {
+          "lat": 9.75174117010728,
+          "lng": 6.872658170107278
+        }
+      },
+      "formatted_address": "6FX8QV3F+6JJ Jigbe Gini munya, Gwadnami, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.753091,6.874008",
+      "google_place_id": "ChIJ_4QcuodZTBARML9m5Gg44dU"
+    }
+  },
+  {
+    "id": "338060",
+    "name": "GYEGAI",
+    "registration_area_id": "17178",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "26/18/06/010",
+    "remark": "NEW PU",
+    "ward_id": "17178",
+    "ward_name": "GINI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  }
+]

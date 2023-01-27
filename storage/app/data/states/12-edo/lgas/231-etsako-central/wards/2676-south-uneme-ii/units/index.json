@@ -1,0 +1,202 @@
+[
+  {
+    "id": "49487",
+    "name": "OSESIAME PRY SCHOOL,  UDOCHI VILLAGE I",
+    "registration_area_id": "2676",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "12/07/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "2676",
+    "ward_name": "SOUTH UNEME II",
+    "local_government_id": "231",
+    "local_government_name": "ETSAKO CENTRAL",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": null
+  },
+  {
+    "id": "49488",
+    "name": "OSESIAME PRY SCHOOL,  UDOCHI VILLAGE II",
+    "registration_area_id": "2676",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "12/07/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "2676",
+    "ward_name": "SOUTH UNEME II",
+    "local_government_id": "231",
+    "local_government_name": "ETSAKO CENTRAL",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": null
+  },
+  {
+    "id": "49489",
+    "name": "AJONA PRIMARY SCHOOL , IFEKU",
+    "registration_area_id": "2676",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "12/07/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "2676",
+    "ward_name": "SOUTH UNEME II",
+    "local_government_id": "231",
+    "local_government_name": "ETSAKO CENTRAL",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.0925563,
+      "longitude": 6.5026832,
+      "viewport": {
+        "northeast": {
+          "lat": 7.093955979892721,
+          "lng": 6.504114379892722
+        },
+        "southwest": {
+          "lat": 7.091256320107277,
+          "lng": 6.501414720107278
+        }
+      },
+      "formatted_address": "Auchi - Agenebode Rd, 312110, Fugar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0925563,6.5026832",
+      "google_place_id": "ChIJy9da24LTRRAR1nraXemwtQI"
+    }
+  },
+  {
+    "id": "49490",
+    "name": "AKE , AKE",
+    "registration_area_id": "2676",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "12/07/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "2676",
+    "ward_name": "SOUTH UNEME II",
+    "local_government_id": "231",
+    "local_government_name": "ETSAKO CENTRAL",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": null
+  },
+  {
+    "id": "49491",
+    "name": "OGWA,  ABANA/OGWA",
+    "registration_area_id": "2676",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "12/07/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "2676",
+    "ward_name": "SOUTH UNEME II",
+    "local_government_id": "231",
+    "local_government_name": "ETSAKO CENTRAL",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": null
+  },
+  {
+    "id": "49492",
+    "name": "ANEGBETTE, OGWA/ABANA REFUGEES",
+    "registration_area_id": "2676",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "12/07/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "2676",
+    "ward_name": "SOUTH UNEME II",
+    "local_government_id": "231",
+    "local_government_name": "ETSAKO CENTRAL",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 9.057482499999999,
+      "longitude": 7.5274388,
+      "viewport": {
+        "northeast": {
+          "lat": 9.058829279892723,
+          "lng": 7.528932879892721
+        },
+        "southwest": {
+          "lat": 9.05612962010728,
+          "lng": 7.526233220107277
+        }
+      },
+      "formatted_address": "3G4G+XXW, Asokoro 900211, Abuja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.057482499999999,7.5274388",
+      "google_place_id": "ChIJMdEKKn0JThARQv8jqUFIbLo"
+    }
+  },
+  {
+    "id": "49493",
+    "name": "IMIAVA PRIMARY SCHOOL,  IMIAVA",
+    "registration_area_id": "2676",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "12/07/10/007",
+    "remark": "EXISTING PU",
+    "ward_id": "2676",
+    "ward_name": "SOUTH UNEME II",
+    "local_government_id": "231",
+    "local_government_name": "ETSAKO CENTRAL",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.1174532,
+      "longitude": 6.453265999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.118675629892722,
+          "lng": 6.454596329892722
+        },
+        "southwest": {
+          "lat": 7.115975970107278,
+          "lng": 6.451896670107279
+        }
+      },
+      "formatted_address": "Auchi - Agenebode Rd, 312110, Ogboma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1174532,6.453265999999999",
+      "google_place_id": "ChIJhVFgfDTURRARKC0zPAJw9Vw"
+    }
+  },
+  {
+    "id": "49494",
+    "name": "PRIMARY HEALTH CENTER, UDOCHI VILLAGE III",
+    "registration_area_id": "2676",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "12/07/10/008",
+    "remark": "NEW PU",
+    "ward_id": "2676",
+    "ward_name": "SOUTH UNEME II",
+    "local_government_id": "231",
+    "local_government_name": "ETSAKO CENTRAL",
+    "state_id": "12",
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.054752199999999,
+      "longitude": 6.2797138,
+      "viewport": {
+        "northeast": {
+          "lat": 7.056062879892722,
+          "lng": 6.281134429892721
+        },
+        "southwest": {
+          "lat": 7.053363220107278,
+          "lng": 6.278434770107277
+        }
+      },
+      "formatted_address": "373H+WV4, 312103, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.054752199999999,6.2797138",
+      "google_place_id": "ChIJl4hXZ399RhARDgbwyIl3MoM"
+    }
+  }
+]

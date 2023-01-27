@@ -1,0 +1,761 @@
+[
+  {
+    "id": "13379",
+    "name": "ANEDU EMEKA LANE I",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "04/04/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3257805,
+      "longitude": 6.8190224,
+      "viewport": {
+        "northeast": {
+          "lat": 6.347800599999999,
+          "lng": 6.8358563
+        },
+        "southwest": {
+          "lat": 6.303952199999999,
+          "lng": 6.7928982
+        }
+      },
+      "formatted_address": "Umueze Anam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3257805,6.8190224",
+      "google_place_id": "ChIJpwj7hTWKQxARXfqzmiibBPw"
+    }
+  },
+  {
+    "id": "13380",
+    "name": "ANEDU EMEKA LANE II",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "04/04/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3257805,
+      "longitude": 6.8190224,
+      "viewport": {
+        "northeast": {
+          "lat": 6.347800599999999,
+          "lng": 6.8358563
+        },
+        "southwest": {
+          "lat": 6.303952199999999,
+          "lng": 6.7928982
+        }
+      },
+      "formatted_address": "Umueze Anam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3257805,6.8190224",
+      "google_place_id": "ChIJpwj7hTWKQxARXfqzmiibBPw"
+    }
+  },
+  {
+    "id": "13381",
+    "name": "CENTRAL SCHOOL",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "04/04/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3268019,
+      "longitude": 6.8289139,
+      "viewport": {
+        "northeast": {
+          "lat": 6.328215329892722,
+          "lng": 6.830202829892722
+        },
+        "southwest": {
+          "lat": 6.325515670107278,
+          "lng": 6.827503170107278
+        }
+      },
+      "formatted_address": "8RGH+PHF, 432102, Umueze Anam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3268019,6.8289139",
+      "google_place_id": "ChIJOyCruS6KQxARzIv-maqoEpg"
+    }
+  },
+  {
+    "id": "13382",
+    "name": "OKPOKPO FIELD I",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "04/04/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3101395,
+      "longitude": 6.8029489,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3340214,
+          "lng": 6.8326872
+        },
+        "southwest": {
+          "lat": 6.247088799999999,
+          "lng": 6.786820499999999
+        }
+      },
+      "formatted_address": "Umueze-Anam II, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3101395,6.8029489",
+      "google_place_id": "ChIJ8RDMQJKLQxAROqgJr3efZs8"
+    }
+  },
+  {
+    "id": "13383",
+    "name": "OKPOKPO FIELD II",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "04/04/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3101395,
+      "longitude": 6.8029489,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3340214,
+          "lng": 6.8326872
+        },
+        "southwest": {
+          "lat": 6.247088799999999,
+          "lng": 6.786820499999999
+        }
+      },
+      "formatted_address": "Umueze-Anam II, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3101395,6.8029489",
+      "google_place_id": "ChIJ8RDMQJKLQxAROqgJr3efZs8"
+    }
+  },
+  {
+    "id": "13384",
+    "name": "GBAGBAZI I",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "04/04/09/006",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3101395,
+      "longitude": 6.8029489,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3340214,
+          "lng": 6.8326872
+        },
+        "southwest": {
+          "lat": 6.247088799999999,
+          "lng": 6.786820499999999
+        }
+      },
+      "formatted_address": "Umueze-Anam II, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3101395,6.8029489",
+      "google_place_id": "ChIJ8RDMQJKLQxAROqgJr3efZs8"
+    }
+  },
+  {
+    "id": "13385",
+    "name": "GBAGBAZI II",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "04/04/09/007",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3101395,
+      "longitude": 6.8029489,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3340214,
+          "lng": 6.8326872
+        },
+        "southwest": {
+          "lat": 6.247088799999999,
+          "lng": 6.786820499999999
+        }
+      },
+      "formatted_address": "Umueze-Anam II, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3101395,6.8029489",
+      "google_place_id": "ChIJ8RDMQJKLQxAROqgJr3efZs8"
+    }
+  },
+  {
+    "id": "13386",
+    "name": "COMMUNITY HALL I",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "04/04/09/008",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3312612,
+      "longitude": 6.8259849,
+      "viewport": {
+        "northeast": {
+          "lat": 6.334471649999998,
+          "lng": 6.8314791
+        },
+        "southwest": {
+          "lat": 6.330191050000001,
+          "lng": 6.824153500000002
+        }
+      },
+      "formatted_address": "8RJG+G9, 432102, Umueze Anam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3312612,6.8259849",
+      "google_place_id": "ChIJcwLz9aqLQxARqt6YpSERvBw"
+    }
+  },
+  {
+    "id": "13387",
+    "name": "COMMUNITY HALL II",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "04/04/09/009",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3312612,
+      "longitude": 6.8259849,
+      "viewport": {
+        "northeast": {
+          "lat": 6.334471649999998,
+          "lng": 6.8314791
+        },
+        "southwest": {
+          "lat": 6.330191050000001,
+          "lng": 6.824153500000002
+        }
+      },
+      "formatted_address": "8RJG+G9, 432102, Umueze Anam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3312612,6.8259849",
+      "google_place_id": "ChIJcwLz9aqLQxARqt6YpSERvBw"
+    }
+  },
+  {
+    "id": "13388",
+    "name": "CHUKWURA COMPOUND-OBODO",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "04/04/09/010",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3257805,
+      "longitude": 6.8190224,
+      "viewport": {
+        "northeast": {
+          "lat": 6.347800599999999,
+          "lng": 6.8358563
+        },
+        "southwest": {
+          "lat": 6.303952199999999,
+          "lng": 6.7928982
+        }
+      },
+      "formatted_address": "Umueze Anam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3257805,6.8190224",
+      "google_place_id": "ChIJpwj7hTWKQxARXfqzmiibBPw"
+    }
+  },
+  {
+    "id": "13389",
+    "name": "UMUEZUMEZU VILLAGE SQUARE",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "04/04/09/011",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3257805,
+      "longitude": 6.8190224,
+      "viewport": {
+        "northeast": {
+          "lat": 6.347800599999999,
+          "lng": 6.8358563
+        },
+        "southwest": {
+          "lat": 6.303952199999999,
+          "lng": 6.7928982
+        }
+      },
+      "formatted_address": "Umueze Anam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3257805,6.8190224",
+      "google_place_id": "ChIJpwj7hTWKQxARXfqzmiibBPw"
+    }
+  },
+  {
+    "id": "13390",
+    "name": "NNE-ANI SQUARE I",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "04/04/09/012",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3257805,
+      "longitude": 6.8190224,
+      "viewport": {
+        "northeast": {
+          "lat": 6.347800599999999,
+          "lng": 6.8358563
+        },
+        "southwest": {
+          "lat": 6.303952199999999,
+          "lng": 6.7928982
+        }
+      },
+      "formatted_address": "Umueze Anam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3257805,6.8190224",
+      "google_place_id": "ChIJpwj7hTWKQxARXfqzmiibBPw"
+    }
+  },
+  {
+    "id": "13391",
+    "name": "NNE ANI SQUARE II",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "04/04/09/013",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3101395,
+      "longitude": 6.8029489,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3340214,
+          "lng": 6.8326872
+        },
+        "southwest": {
+          "lat": 6.247088799999999,
+          "lng": 6.786820499999999
+        }
+      },
+      "formatted_address": "Umueze-Anam II, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3101395,6.8029489",
+      "google_place_id": "ChIJ8RDMQJKLQxAROqgJr3efZs8"
+    }
+  },
+  {
+    "id": "13392",
+    "name": "ANIOJI CAMP SQUARE I",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "04/04/09/014",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3101395,
+      "longitude": 6.8029489,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3340214,
+          "lng": 6.8326872
+        },
+        "southwest": {
+          "lat": 6.247088799999999,
+          "lng": 6.786820499999999
+        }
+      },
+      "formatted_address": "Umueze-Anam II, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3101395,6.8029489",
+      "google_place_id": "ChIJ8RDMQJKLQxAROqgJr3efZs8"
+    }
+  },
+  {
+    "id": "13393",
+    "name": "ANIOJI CAMP SQUARE II",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "04/04/09/015",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3101395,
+      "longitude": 6.8029489,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3340214,
+          "lng": 6.8326872
+        },
+        "southwest": {
+          "lat": 6.247088799999999,
+          "lng": 6.786820499999999
+        }
+      },
+      "formatted_address": "Umueze-Anam II, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3101395,6.8029489",
+      "google_place_id": "ChIJ8RDMQJKLQxAROqgJr3efZs8"
+    }
+  },
+  {
+    "id": "13394",
+    "name": "OKPAELI CAMP SQUARE I",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "04/04/09/016",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3101395,
+      "longitude": 6.8029489,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3340214,
+          "lng": 6.8326872
+        },
+        "southwest": {
+          "lat": 6.247088799999999,
+          "lng": 6.786820499999999
+        }
+      },
+      "formatted_address": "Umueze-Anam II, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3101395,6.8029489",
+      "google_place_id": "ChIJ8RDMQJKLQxAROqgJr3efZs8"
+    }
+  },
+  {
+    "id": "13395",
+    "name": "OKPAELI CAMP SQUARE II",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "04/04/09/017",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3101395,
+      "longitude": 6.8029489,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3340214,
+          "lng": 6.8326872
+        },
+        "southwest": {
+          "lat": 6.247088799999999,
+          "lng": 6.786820499999999
+        }
+      },
+      "formatted_address": "Umueze-Anam II, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3101395,6.8029489",
+      "google_place_id": "ChIJ8RDMQJKLQxAROqgJr3efZs8"
+    }
+  },
+  {
+    "id": "13396",
+    "name": "OKPA MKPUME I",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "04/04/09/018",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3257805,
+      "longitude": 6.8190224,
+      "viewport": {
+        "northeast": {
+          "lat": 6.347800599999999,
+          "lng": 6.8358563
+        },
+        "southwest": {
+          "lat": 6.303952199999999,
+          "lng": 6.7928982
+        }
+      },
+      "formatted_address": "Umueze Anam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3257805,6.8190224",
+      "google_place_id": "ChIJpwj7hTWKQxARXfqzmiibBPw"
+    }
+  },
+  {
+    "id": "13397",
+    "name": "OKPA MKPUME II",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "04/04/09/019",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3101395,
+      "longitude": 6.8029489,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3340214,
+          "lng": 6.8326872
+        },
+        "southwest": {
+          "lat": 6.247088799999999,
+          "lng": 6.786820499999999
+        }
+      },
+      "formatted_address": "Umueze-Anam II, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3101395,6.8029489",
+      "google_place_id": "ChIJ8RDMQJKLQxAROqgJr3efZs8"
+    }
+  },
+  {
+    "id": "13398",
+    "name": "ANIOJI CAMP SQUARE III",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "04/04/09/020",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3101395,
+      "longitude": 6.8029489,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3340214,
+          "lng": 6.8326872
+        },
+        "southwest": {
+          "lat": 6.247088799999999,
+          "lng": 6.786820499999999
+        }
+      },
+      "formatted_address": "Umueze-Anam II, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3101395,6.8029489",
+      "google_place_id": "ChIJ8RDMQJKLQxAROqgJr3efZs8"
+    }
+  },
+  {
+    "id": "13399",
+    "name": "OKPOKPO FIELD III",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "04/04/09/021",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3101395,
+      "longitude": 6.8029489,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3340214,
+          "lng": 6.8326872
+        },
+        "southwest": {
+          "lat": 6.247088799999999,
+          "lng": 6.786820499999999
+        }
+      },
+      "formatted_address": "Umueze-Anam II, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3101395,6.8029489",
+      "google_place_id": "ChIJ8RDMQJKLQxAROqgJr3efZs8"
+    }
+  },
+  {
+    "id": "13400",
+    "name": "GBAGBAZI FIELD",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "04/04/09/022",
+    "remark": "EXISTING PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3101395,
+      "longitude": 6.8029489,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3340214,
+          "lng": 6.8326872
+        },
+        "southwest": {
+          "lat": 6.247088799999999,
+          "lng": 6.786820499999999
+        }
+      },
+      "formatted_address": "Umueze-Anam II, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3101395,6.8029489",
+      "google_place_id": "ChIJ8RDMQJKLQxAROqgJr3efZs8"
+    }
+  },
+  {
+    "id": "13401",
+    "name": "OKPOBO PUBLIC SQUARE",
+    "registration_area_id": "794",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "04/04/09/023",
+    "remark": "NEW PU",
+    "ward_id": "794",
+    "ward_name": "UMUEZE-ANAM  II",
+    "local_government_id": "73",
+    "local_government_name": "ANAMBRA WEST",
+    "state_id": "4",
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3257805,
+      "longitude": 6.8190224,
+      "viewport": {
+        "northeast": {
+          "lat": 6.347800599999999,
+          "lng": 6.8358563
+        },
+        "southwest": {
+          "lat": 6.303952199999999,
+          "lng": 6.7928982
+        }
+      },
+      "formatted_address": "Umueze Anam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3257805,6.8190224",
+      "google_place_id": "ChIJpwj7hTWKQxARXfqzmiibBPw"
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "108922",
+    "name": "NEAR ADEYEMI'S HOUSE, OGBE/ODO PETU/OKORO/OKEOJA",
+    "registration_area_id": "5646",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "22/21/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5646",
+    "ward_name": "OGBE",
+    "local_government_id": "489",
+    "local_government_name": "YAGBA WEST",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "108923",
+    "name": "ISABA/OGBE",
+    "registration_area_id": "5646",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "22/21/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5646",
+    "ward_name": "OGBE",
+    "local_government_id": "489",
+    "local_government_name": "YAGBA WEST",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.0865718,
+      "longitude": 5.6107061,
+      "viewport": {
+        "northeast": {
+          "lat": 8.0916151,
+          "lng": 5.618956
+        },
+        "southwest": {
+          "lat": 8.081871,
+          "lng": 5.60685
+        }
+      },
+      "formatted_address": "262103, Ogbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0865718,5.6107061",
+      "google_place_id": "ChIJmXbH2YhdSBARaftDxMjoQqM"
+    }
+  },
+  {
+    "id": "108924",
+    "name": "MARKET SQUARE OGBE/OKEBUKUN/OKE PETU/ODO AGA",
+    "registration_area_id": "5646",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "22/21/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5646",
+    "ward_name": "OGBE",
+    "local_government_id": "489",
+    "local_government_name": "YAGBA WEST",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "108925",
+    "name": "ALO/IRODA/ILETOGUN/IPA, OGBE",
+    "registration_area_id": "5646",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "22/21/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5646",
+    "ward_name": "OGBE",
+    "local_government_id": "489",
+    "local_government_name": "YAGBA WEST",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.255602999999999,
+      "longitude": 5.5537434,
+      "viewport": {
+        "northeast": {
+          "lat": 8.256931379892723,
+          "lng": 5.555116229892722
+        },
+        "southwest": {
+          "lat": 8.25423172010728,
+          "lng": 5.552416570107278
+        }
+      },
+      "formatted_address": "Ikoja, Ilorin-Egbe-Lokoja Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.255602999999999,5.5537434",
+      "google_place_id": "ChIJNX7-YVJFSBARlVfR_Hrryd0"
+    }
+  },
+  {
+    "id": "108926",
+    "name": "JAWONISI'S HOUSE AREA OGBE/IPA",
+    "registration_area_id": "5646",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "22/21/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5646",
+    "ward_name": "OGBE",
+    "local_government_id": "489",
+    "local_government_name": "YAGBA WEST",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  }
+]

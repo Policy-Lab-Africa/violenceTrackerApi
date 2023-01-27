@@ -43,7 +43,19 @@ class GenerateWardsData implements ShouldQueue
                 foreach($lgas as $lga)
                 {
                     // 
-                    $lgaWards = collect(json_decode(Storage::get($lga.'/wards/index.json')));
+                    if (Storage::exists($lga.'/wards/index.json')) {
+                        
+                        $lgaWards = collect(json_decode(Storage::get($lga.'/wards/index.json')));
+                    } else {
+                        $subDirs = Storage::allDirectories($lga);
+                        foreach($subDirs as $subDir)
+                        {
+                            if(Storage::exists($subDir.'/wards/index.json'))
+                            {
+                                $lgaWards = collect(json_decode(Storage::get($subDir.'/wards/index.json')));
+                            }
+                        }
+                    }
 
                     foreach($lgaWards as $ward)
                     {

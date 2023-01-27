@@ -1,0 +1,250 @@
+[
+  {
+    "id": "107243",
+    "name": "OHAKITI, OHAKITI",
+    "registration_area_id": "5528",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "22/10/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5528",
+    "ward_name": "OKEDAYO",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "107244",
+    "name": "APANGA, APANGA",
+    "registration_area_id": "5528",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "22/10/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5528",
+    "ward_name": "OKEDAYO",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8229956,
+      "longitude": 6.0733099,
+      "viewport": {
+        "northeast": {
+          "lat": 7.824345979892723,
+          "lng": 6.074600079892722
+        },
+        "southwest": {
+          "lat": 7.821646320107279,
+          "lng": 6.071900420107278
+        }
+      },
+      "formatted_address": "261101, Kabba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8229956,6.0733099",
+      "google_place_id": "ChIJQ5aoJ62hSBAR1eFvx-ZH-5E"
+    }
+  },
+  {
+    "id": "107245",
+    "name": "LGEA SCHOOL, KAKUN",
+    "registration_area_id": "5528",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "22/10/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5528",
+    "ward_name": "OKEDAYO",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8255892,
+      "longitude": 6.0844589,
+      "viewport": {
+        "northeast": {
+          "lat": 7.82693847989272,
+          "lng": 6.085810379892721
+        },
+        "southwest": {
+          "lat": 7.824238820107277,
+          "lng": 6.083110720107277
+        }
+      },
+      "formatted_address": "korede quarters, 261101, Kabba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8255892,6.0844589",
+      "google_place_id": "ChIJUeNmh7mhSBARdF_r1O7Ol5M"
+    }
+  },
+  {
+    "id": "107246",
+    "name": "ST. PETER'S SCHOOL, OKEDAYO",
+    "registration_area_id": "5528",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "22/10/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5528",
+    "ward_name": "OKEDAYO",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.570129400000001,
+      "longitude": 6.1739106,
+      "viewport": {
+        "northeast": {
+          "lat": 7.571396779892721,
+          "lng": 6.175299679892721
+        },
+        "southwest": {
+          "lat": 7.568697120107277,
+          "lng": 6.172600020107277
+        }
+      },
+      "formatted_address": "H5CF+3GH, 263101, Adabi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.570129400000001,6.1739106",
+      "google_place_id": "ChIJxfUWEt0bRhAR-B4fJU3QrTs"
+    }
+  },
+  {
+    "id": "107247",
+    "name": "OBELE, OBELE",
+    "registration_area_id": "5528",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "22/10/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5528",
+    "ward_name": "OKEDAYO",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.7276815,
+      "longitude": 6.1399411,
+      "viewport": {
+        "northeast": {
+          "lat": 7.728954329892721,
+          "lng": 6.140692329892722
+        },
+        "southwest": {
+          "lat": 7.726254670107277,
+          "lng": 6.137992670107278
+        }
+      },
+      "formatted_address": "261101, Okedayo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7276815,6.1399411",
+      "google_place_id": "ChIJ2ajA_xAeRhARiJLxNqppYVM"
+    }
+  },
+  {
+    "id": "107248",
+    "name": "OKEBOLA QTRS I",
+    "registration_area_id": "5528",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "22/10/09/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5528",
+    "ward_name": "OKEDAYO",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8229956,
+      "longitude": 6.0733099,
+      "viewport": {
+        "northeast": {
+          "lat": 7.824345979892723,
+          "lng": 6.074600079892722
+        },
+        "southwest": {
+          "lat": 7.821646320107279,
+          "lng": 6.071900420107278
+        }
+      },
+      "formatted_address": "261101, Kabba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8229956,6.0733099",
+      "google_place_id": "ChIJQ5aoJ62hSBAR1eFvx-ZH-5E"
+    }
+  },
+  {
+    "id": "107249",
+    "name": "OKEBOLA QTRS II",
+    "registration_area_id": "5528",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "22/10/09/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5528",
+    "ward_name": "OKEDAYO",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.837454399999999,
+      "longitude": 6.082453999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.838863679892721,
+          "lng": 6.083941929892722
+        },
+        "southwest": {
+          "lat": 7.836164020107277,
+          "lng": 6.081242270107278
+        }
+      },
+      "formatted_address": "R3PJ+XX8, KABBA/BUNU LGA INEC OFFICE KABBA/BUNU INEC OFFICE,ALONG JIVCO HOTEL ROAD, LGA, GRA, Kabba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.837454399999999,6.082453999999999",
+      "google_place_id": "ChIJeRWhYgOjSBARVy_00znNkNA"
+    }
+  },
+  {
+    "id": "107250",
+    "name": "ST. PETER'S SCHOOL, OKEDAYO",
+    "registration_area_id": "5528",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "22/10/09/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5528",
+    "ward_name": "OKEDAYO",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.570129400000001,
+      "longitude": 6.1739106,
+      "viewport": {
+        "northeast": {
+          "lat": 7.571396779892721,
+          "lng": 6.175299679892721
+        },
+        "southwest": {
+          "lat": 7.568697120107277,
+          "lng": 6.172600020107277
+        }
+      },
+      "formatted_address": "H5CF+3GH, 263101, Adabi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.570129400000001,6.1739106",
+      "google_place_id": "ChIJxfUWEt0bRhAR-B4fJU3QrTs"
+    }
+  }
+]

@@ -1,0 +1,468 @@
+[
+  {
+    "id": "35779",
+    "name": "GAJIRAM CENTRAL PRI. SCHOOL I",
+    "registration_area_id": "1951",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/26/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1951",
+    "ward_name": "GAJIRAM",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.4941835,
+      "longitude": 13.2073075,
+      "viewport": {
+        "northeast": {
+          "lat": 12.49577252989272,
+          "lng": 13.20855652989272
+        },
+        "southwest": {
+          "lat": 12.49307287010728,
+          "lng": 13.20585687010728
+        }
+      },
+      "formatted_address": "F6V4+MW8, 612103, Gajiram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4941835,13.2073075",
+      "google_place_id": "ChIJT11YSm8gBRERtMBmL4KEvZI"
+    }
+  },
+  {
+    "id": "35780",
+    "name": "GAJIRAM CENTRAL PRI. SCHOOLII",
+    "registration_area_id": "1951",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/26/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1951",
+    "ward_name": "GAJIRAM",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35781",
+    "name": "GAJIRAM DISPENSARY I",
+    "registration_area_id": "1951",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/26/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1951",
+    "ward_name": "GAJIRAM",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.4914007,
+      "longitude": 13.2108896,
+      "viewport": {
+        "northeast": {
+          "lat": 12.49279922989272,
+          "lng": 13.21223822989272
+        },
+        "southwest": {
+          "lat": 12.49009957010728,
+          "lng": 13.20953857010728
+        }
+      },
+      "formatted_address": "F6R6+H96, 612103, Gajiram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4914007,13.2108896",
+      "google_place_id": "ChIJyYUiqGUgBREREd2ilh3FZW0"
+    }
+  },
+  {
+    "id": "35782",
+    "name": "GAJIRAM DISPENSARY II",
+    "registration_area_id": "1951",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/26/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1951",
+    "ward_name": "GAJIRAM",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.4914007,
+      "longitude": 13.2108896,
+      "viewport": {
+        "northeast": {
+          "lat": 12.49279922989272,
+          "lng": 13.21223822989272
+        },
+        "southwest": {
+          "lat": 12.49009957010728,
+          "lng": 13.20953857010728
+        }
+      },
+      "formatted_address": "F6R6+H96, 612103, Gajiram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4914007,13.2108896",
+      "google_place_id": "ChIJyYUiqGUgBREREd2ilh3FZW0"
+    }
+  },
+  {
+    "id": "35783",
+    "name": "GAJIRAM OLD VETINARY",
+    "registration_area_id": "1951",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/26/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1951",
+    "ward_name": "GAJIRAM",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35784",
+    "name": "WOMEN DEV. CENTRE",
+    "registration_area_id": "1951",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/26/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1951",
+    "ward_name": "GAJIRAM",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8009883,
+      "longitude": 13.1528361,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80242492989272,
+          "lng": 13.15418582989272
+        },
+        "southwest": {
+          "lat": 11.79972527010728,
+          "lng": 13.15148617010728
+        }
+      },
+      "formatted_address": "Tamoul Road, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8009883,13.1528361",
+      "google_place_id": "ChIJbagEZj2fBBEROP2he5L6W1g"
+    }
+  },
+  {
+    "id": "35785",
+    "name": "GAJIRAM MARKET I",
+    "registration_area_id": "1951",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/26/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1951",
+    "ward_name": "GAJIRAM",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35786",
+    "name": "GAJIRAM MARKET II",
+    "registration_area_id": "1951",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "08/26/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1951",
+    "ward_name": "GAJIRAM",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35787",
+    "name": "GAJIRAM FORESTRY",
+    "registration_area_id": "1951",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "08/26/04/009",
+    "remark": "EXISTING PU",
+    "ward_id": "1951",
+    "ward_name": "GAJIRAM",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35788",
+    "name": "KOTTE I",
+    "registration_area_id": "1951",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "08/26/04/010",
+    "remark": "EXISTING PU",
+    "ward_id": "1951",
+    "ward_name": "GAJIRAM",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35789",
+    "name": "KOTTE II",
+    "registration_area_id": "1951",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "08/26/04/011",
+    "remark": "EXISTING PU",
+    "ward_id": "1951",
+    "ward_name": "GAJIRAM",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.4473533,
+      "longitude": 13.1859307,
+      "viewport": {
+        "northeast": {
+          "lat": 12.449369,
+          "lng": 13.1874349
+        },
+        "southwest": {
+          "lat": 12.44548,
+          "lng": 13.1846579
+        }
+      },
+      "formatted_address": "612103, Kotte, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4473533,13.1859307",
+      "google_place_id": "ChIJSc09KcXfBBERNvrsnNR3-B8"
+    }
+  },
+  {
+    "id": "35790",
+    "name": "LAUWA PRI. SCH. I",
+    "registration_area_id": "1951",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "08/26/04/012",
+    "remark": "EXISTING PU",
+    "ward_id": "1951",
+    "ward_name": "GAJIRAM",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35791",
+    "name": "LAUWA PRI. SCH. II",
+    "registration_area_id": "1951",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "08/26/04/013",
+    "remark": "EXISTING PU",
+    "ward_id": "1951",
+    "ward_name": "GAJIRAM",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8565771,
+      "longitude": 13.1519808,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85795487989272,
+          "lng": 13.15329572989272
+        },
+        "southwest": {
+          "lat": 11.85525522010728,
+          "lng": 13.15059607010728
+        }
+      },
+      "formatted_address": "V542+JR2, Lamisula ward, Shehuri, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8565771,13.1519808",
+      "google_place_id": "ChIJmWsHnLWYBBERJ3RBCTlTZi0"
+    }
+  },
+  {
+    "id": "35792",
+    "name": "GAJIRAM CENTRAL PRIMARY SCHOOL III",
+    "registration_area_id": "1951",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "08/26/04/014",
+    "remark": "NEW PU",
+    "ward_id": "1951",
+    "ward_name": "GAJIRAM",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.4941835,
+      "longitude": 13.2073075,
+      "viewport": {
+        "northeast": {
+          "lat": 12.49577252989272,
+          "lng": 13.20855652989272
+        },
+        "southwest": {
+          "lat": 12.49307287010728,
+          "lng": 13.20585687010728
+        }
+      },
+      "formatted_address": "F6V4+MW8, 612103, Gajiram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4941835,13.2073075",
+      "google_place_id": "ChIJT11YSm8gBRERtMBmL4KEvZI"
+    }
+  },
+  {
+    "id": "35793",
+    "name": "GAJIRAM CENTRAL PRIMARY SCHOOL IV",
+    "registration_area_id": "1951",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "08/26/04/015",
+    "remark": "NEW PU",
+    "ward_id": "1951",
+    "ward_name": "GAJIRAM",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.671051,
+      "longitude": 13.61549,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67239637989272,
+          "lng": 13.61673577989272
+        },
+        "southwest": {
+          "lat": 12.66969672010728,
+          "lng": 13.61403612010728
+        }
+      },
+      "formatted_address": "MJC8+C5H, 612101, Monguno, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.671051,13.61549",
+      "google_place_id": "ChIJzTtSZMjNGhERf3y5uJkxnAM"
+    }
+  },
+  {
+    "id": "35794",
+    "name": "GAJIRAM CENTRAL PRIMARY SCHOOL V",
+    "registration_area_id": "1951",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "08/26/04/016",
+    "remark": "NEW PU",
+    "ward_id": "1951",
+    "ward_name": "GAJIRAM",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.4941835,
+      "longitude": 13.2073075,
+      "viewport": {
+        "northeast": {
+          "lat": 12.49577252989272,
+          "lng": 13.20855652989272
+        },
+        "southwest": {
+          "lat": 12.49307287010728,
+          "lng": 13.20585687010728
+        }
+      },
+      "formatted_address": "F6V4+MW8, 612103, Gajiram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4941835,13.2073075",
+      "google_place_id": "ChIJT11YSm8gBRERtMBmL4KEvZI"
+    }
+  },
+  {
+    "id": "35795",
+    "name": "WOMEN DEVELOPMENT CENTER II",
+    "registration_area_id": "1951",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "08/26/04/017",
+    "remark": "NEW PU",
+    "ward_id": "1951",
+    "ward_name": "GAJIRAM",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8009883,
+      "longitude": 13.1528361,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80242492989272,
+          "lng": 13.15418582989272
+        },
+        "southwest": {
+          "lat": 11.79972527010728,
+          "lng": 13.15148617010728
+        }
+      },
+      "formatted_address": "Tamoul Road, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8009883,13.1528361",
+      "google_place_id": "ChIJbagEZj2fBBEROP2he5L6W1g"
+    }
+  },
+  {
+    "id": "35796",
+    "name": "GAJIRAM MARKET III",
+    "registration_area_id": "1951",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "08/26/04/018",
+    "remark": "NEW PU",
+    "ward_id": "1951",
+    "ward_name": "GAJIRAM",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  }
+]

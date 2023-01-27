@@ -1,0 +1,960 @@
+[
+  {
+    "id": "57696",
+    "name": "COMMUNITY SCHOOL MBOGODO I",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "14/12/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3179927,
+      "longitude": 7.537465800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.319329179892723,
+          "lng": 7.53877592989272
+        },
+        "southwest": {
+          "lat": 6.316629520107279,
+          "lng": 7.536076270107277
+        }
+      },
+      "formatted_address": "8G9P+5XX, 402101, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3179927,7.537465800000001",
+      "google_place_id": "ChIJsUPzWtpYQxARd_eXWMGHXto"
+    }
+  },
+  {
+    "id": "57697",
+    "name": "COMMUNITY SCHOOL MBOGODO II",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "14/12/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3179927,
+      "longitude": 7.537465800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.319329179892723,
+          "lng": 7.53877592989272
+        },
+        "southwest": {
+          "lat": 6.316629520107279,
+          "lng": 7.536076270107277
+        }
+      },
+      "formatted_address": "8G9P+5XX, 402101, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3179927,7.537465800000001",
+      "google_place_id": "ChIJsUPzWtpYQxARd_eXWMGHXto"
+    }
+  },
+  {
+    "id": "57698",
+    "name": "PRIMARY SCHOOL OGBEKE I",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "14/12/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": null
+  },
+  {
+    "id": "57699",
+    "name": "GROUP SCHOOL AGBANI",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "14/12/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3059552,
+      "longitude": 7.567490200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.307356529892722,
+          "lng": 7.568742379892722
+        },
+        "southwest": {
+          "lat": 6.304656870107278,
+          "lng": 7.566042720107278
+        }
+      },
+      "formatted_address": "8H48+9XQ, 402110, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3059552,7.567490200000001",
+      "google_place_id": "ChIJUYhX_YxZQxARPL5DMEyfQOw"
+    }
+  },
+  {
+    "id": "57700",
+    "name": "STATION PRIMARY SCHOOL AGBANI I",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "14/12/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3055482,
+      "longitude": 7.5472763,
+      "viewport": {
+        "northeast": {
+          "lat": 6.306884079892722,
+          "lng": 7.548633379892721
+        },
+        "southwest": {
+          "lat": 6.304184420107278,
+          "lng": 7.545933720107278
+        }
+      },
+      "formatted_address": "8G4W+6WP, 402110, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3055482,7.5472763",
+      "google_place_id": "ChIJkS70oRBZQxARtVk1hTpEzFk"
+    }
+  },
+  {
+    "id": "57701",
+    "name": "CENTRAL SCHOOL AGBANI I",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "14/12/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3179927,
+      "longitude": 7.537465800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.319329179892723,
+          "lng": 7.53877592989272
+        },
+        "southwest": {
+          "lat": 6.316629520107279,
+          "lng": 7.536076270107277
+        }
+      },
+      "formatted_address": "8G9P+5XX, 402101, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3179927,7.537465800000001",
+      "google_place_id": "ChIJsUPzWtpYQxARd_eXWMGHXto"
+    }
+  },
+  {
+    "id": "57702",
+    "name": "NVU AMAKPU VILLAGE HALL",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "14/12/01/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3049405,
+      "longitude": 7.568626399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.306400229892722,
+          "lng": 7.569985779892722
+        },
+        "southwest": {
+          "lat": 6.303700570107278,
+          "lng": 7.567286120107278
+        }
+      },
+      "formatted_address": "8H39+XFC, 402110, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3049405,7.568626399999999",
+      "google_place_id": "ChIJe4jjQT9ZQxARrmG1yS4pwXY"
+    }
+  },
+  {
+    "id": "57703",
+    "name": "UKWA VILLAGE SQUARE",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "14/12/01/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.418167899999999,
+      "longitude": 7.4896326,
+      "viewport": {
+        "northeast": {
+          "lat": 6.419635329892722,
+          "lng": 7.491064729892723
+        },
+        "southwest": {
+          "lat": 6.416935670107278,
+          "lng": 7.488365070107279
+        }
+      },
+      "formatted_address": "86 Agbani Rd, Achara 400107, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.418167899999999,7.4896326",
+      "google_place_id": "ChIJoWmM4HKhRBARvbIY0Wdc6Ms"
+    }
+  },
+  {
+    "id": "57704",
+    "name": "NDIAGU OGBEKE SQUARE",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "14/12/01/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3049636,
+      "longitude": 7.562641099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3313131,
+          "lng": 7.580212899999999
+        },
+        "southwest": {
+          "lat": 6.2899239,
+          "lng": 7.52438
+        }
+      },
+      "formatted_address": "Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3049636,7.562641099999999",
+      "google_place_id": "ChIJZWAmgxxZQxARDVpAkPvQbDg"
+    }
+  },
+  {
+    "id": "57705",
+    "name": "UKURUTA TOWN HALL",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "14/12/01/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3049405,
+      "longitude": 7.568626399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.306400229892722,
+          "lng": 7.569985779892722
+        },
+        "southwest": {
+          "lat": 6.303700570107278,
+          "lng": 7.567286120107278
+        }
+      },
+      "formatted_address": "8H39+XFC, 402110, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3049405,7.568626399999999",
+      "google_place_id": "ChIJe4jjQT9ZQxARrmG1yS4pwXY"
+    }
+  },
+  {
+    "id": "57706",
+    "name": "PRIMARY SCHOOL OGBEKE II",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "14/12/01/011",
+    "remark": "EXISTING PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3026423,
+      "longitude": 7.578666600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.304027879892722,
+          "lng": 7.580113229892721
+        },
+        "southwest": {
+          "lat": 6.301328220107278,
+          "lng": 7.577413570107277
+        }
+      },
+      "formatted_address": "8H3H+3F3, Ogbeke 402110, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3026423,7.578666600000001",
+      "google_place_id": "ChIJ1dHuKK5ZQxARl5Py3Z01D3w"
+    }
+  },
+  {
+    "id": "57707",
+    "name": "OJIAGU TOWN HALL",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "14/12/01/012",
+    "remark": "EXISTING PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3049405,
+      "longitude": 7.568626399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.306400229892722,
+          "lng": 7.569985779892722
+        },
+        "southwest": {
+          "lat": 6.303700570107278,
+          "lng": 7.567286120107278
+        }
+      },
+      "formatted_address": "8H39+XFC, 402110, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3049405,7.568626399999999",
+      "google_place_id": "ChIJe4jjQT9ZQxARrmG1yS4pwXY"
+    }
+  },
+  {
+    "id": "57708",
+    "name": "STATION PRIMARY SCHOOL AGBANI II",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "14/12/01/013",
+    "remark": "EXISTING PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3059552,
+      "longitude": 7.567490200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.307356529892722,
+          "lng": 7.568742379892722
+        },
+        "southwest": {
+          "lat": 6.304656870107278,
+          "lng": 7.566042720107278
+        }
+      },
+      "formatted_address": "8H48+9XQ, 402110, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3059552,7.567490200000001",
+      "google_place_id": "ChIJUYhX_YxZQxARPL5DMEyfQOw"
+    }
+  },
+  {
+    "id": "57709",
+    "name": "COMMUNITY SECONDARY SCHOOL AGBANI",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "14/12/01/014",
+    "remark": "EXISTING PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3179927,
+      "longitude": 7.537465800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.319329179892723,
+          "lng": 7.53877592989272
+        },
+        "southwest": {
+          "lat": 6.316629520107279,
+          "lng": 7.536076270107277
+        }
+      },
+      "formatted_address": "8G9P+5XX, 402101, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3179927,7.537465800000001",
+      "google_place_id": "ChIJsUPzWtpYQxARd_eXWMGHXto"
+    }
+  },
+  {
+    "id": "57710",
+    "name": "ALLINS COMMERCIAL KSCHOOL AGBANI",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "14/12/01/015",
+    "remark": "EXISTING PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3179927,
+      "longitude": 7.537465800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.319329179892723,
+          "lng": 7.53877592989272
+        },
+        "southwest": {
+          "lat": 6.316629520107279,
+          "lng": 7.536076270107277
+        }
+      },
+      "formatted_address": "8G9P+5XX, 402101, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3179927,7.537465800000001",
+      "google_place_id": "ChIJsUPzWtpYQxARd_eXWMGHXto"
+    }
+  },
+  {
+    "id": "57711",
+    "name": "CENTRAL SCHOOL, AGBANI II",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "14/12/01/016",
+    "remark": "EXISTING PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3179927,
+      "longitude": 7.537465800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.319329179892723,
+          "lng": 7.53877592989272
+        },
+        "southwest": {
+          "lat": 6.316629520107279,
+          "lng": 7.536076270107277
+        }
+      },
+      "formatted_address": "8G9P+5XX, 402101, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3179927,7.537465800000001",
+      "google_place_id": "ChIJsUPzWtpYQxARd_eXWMGHXto"
+    }
+  },
+  {
+    "id": "57712",
+    "name": "UMUONWE VILLAGE HALL AGBANI",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "14/12/01/017",
+    "remark": "EXISTING PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3049405,
+      "longitude": 7.568626399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.306400229892722,
+          "lng": 7.569985779892722
+        },
+        "southwest": {
+          "lat": 6.303700570107278,
+          "lng": 7.567286120107278
+        }
+      },
+      "formatted_address": "8H39+XFC, 402110, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3049405,7.568626399999999",
+      "google_place_id": "ChIJe4jjQT9ZQxARrmG1yS4pwXY"
+    }
+  },
+  {
+    "id": "57713",
+    "name": "OGWE-AJEME VILLAGE SQUARE AGBANI",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "14/12/01/018",
+    "remark": "EXISTING PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.372100800000001,
+      "longitude": 7.5237465,
+      "viewport": {
+        "northeast": {
+          "lat": 6.373463879892721,
+          "lng": 7.525113179892722
+        },
+        "southwest": {
+          "lat": 6.370764220107278,
+          "lng": 7.522413520107278
+        }
+      },
+      "formatted_address": "9GCF+RFX, Ugwuaji 400106, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.372100800000001,7.5237465",
+      "google_place_id": "ChIJ97UIzgWhRBARIdAlYGIauSY"
+    }
+  },
+  {
+    "id": "57714",
+    "name": "NVU-AGU AMAFOR VILLAGE SQUARE AGBANI",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "14/12/01/019",
+    "remark": "EXISTING PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.418167899999999,
+      "longitude": 7.4896326,
+      "viewport": {
+        "northeast": {
+          "lat": 6.419635329892722,
+          "lng": 7.491064729892723
+        },
+        "southwest": {
+          "lat": 6.416935670107278,
+          "lng": 7.488365070107279
+        }
+      },
+      "formatted_address": "86 Agbani Rd, Achara 400107, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.418167899999999,7.4896326",
+      "google_place_id": "ChIJoWmM4HKhRBARvbIY0Wdc6Ms"
+    }
+  },
+  {
+    "id": "57715",
+    "name": "MGBENU VILLAGE HALL MBOGODO",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "14/12/01/020",
+    "remark": "EXISTING PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3049405,
+      "longitude": 7.568626399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.306400229892722,
+          "lng": 7.569985779892722
+        },
+        "southwest": {
+          "lat": 6.303700570107278,
+          "lng": 7.567286120107278
+        }
+      },
+      "formatted_address": "8H39+XFC, 402110, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3049405,7.568626399999999",
+      "google_place_id": "ChIJe4jjQT9ZQxARrmG1yS4pwXY"
+    }
+  },
+  {
+    "id": "57716",
+    "name": "AGBANI ULTRA MODERN MKT I",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "14/12/01/021",
+    "remark": "NEW PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.308417599999999,
+      "longitude": 7.5477248,
+      "viewport": {
+        "northeast": {
+          "lat": 6.309860229892721,
+          "lng": 7.549106929892721
+        },
+        "southwest": {
+          "lat": 6.307160570107277,
+          "lng": 7.546407270107277
+        }
+      },
+      "formatted_address": "Agbani enugu road Nkanu West local government area Agbani, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.308417599999999,7.5477248",
+      "google_place_id": "ChIJx1wU699YQxARBJl1zCcUzvc"
+    }
+  },
+  {
+    "id": "57717",
+    "name": "AGBANI ULTRA MODERN MKT II",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "14/12/01/022",
+    "remark": "NEW PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.308417599999999,
+      "longitude": 7.5477248,
+      "viewport": {
+        "northeast": {
+          "lat": 6.309860229892721,
+          "lng": 7.549106929892721
+        },
+        "southwest": {
+          "lat": 6.307160570107277,
+          "lng": 7.546407270107277
+        }
+      },
+      "formatted_address": "Agbani enugu road Nkanu West local government area Agbani, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.308417599999999,7.5477248",
+      "google_place_id": "ChIJx1wU699YQxARBJl1zCcUzvc"
+    }
+  },
+  {
+    "id": "57718",
+    "name": "GENERAL HOSPITAL AGBANI",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "14/12/01/023",
+    "remark": "NEW PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.310216,
+      "longitude": 7.554694,
+      "viewport": {
+        "northeast": {
+          "lat": 6.311760179892723,
+          "lng": 7.55623767989272
+        },
+        "southwest": {
+          "lat": 6.309060520107279,
+          "lng": 7.553538020107276
+        }
+      },
+      "formatted_address": "8H63+3VP, Agbani-Ugbawka-Nara-Nkerefi Rd, 402106, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.310216,7.554694",
+      "google_place_id": "ChIJGwpTfh1ZQxARS08gxagjJh4"
+    }
+  },
+  {
+    "id": "57719",
+    "name": "EZIOBODO TOWN HALL",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "14/12/01/024",
+    "remark": "NEW PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3049405,
+      "longitude": 7.568626399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.306400229892722,
+          "lng": 7.569985779892722
+        },
+        "southwest": {
+          "lat": 6.303700570107278,
+          "lng": 7.567286120107278
+        }
+      },
+      "formatted_address": "8H39+XFC, 402110, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3049405,7.568626399999999",
+      "google_place_id": "ChIJe4jjQT9ZQxARrmG1yS4pwXY"
+    }
+  },
+  {
+    "id": "57720",
+    "name": "AMAINYI AMAKPU TOWN HALL",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "14/12/01/025",
+    "remark": "NEW PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3049405,
+      "longitude": 7.568626399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.306400229892722,
+          "lng": 7.569985779892722
+        },
+        "southwest": {
+          "lat": 6.303700570107278,
+          "lng": 7.567286120107278
+        }
+      },
+      "formatted_address": "8H39+XFC, 402110, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3049405,7.568626399999999",
+      "google_place_id": "ChIJe4jjQT9ZQxARrmG1yS4pwXY"
+    }
+  },
+  {
+    "id": "57721",
+    "name": "ESUT BACK GATE AGBANI",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "14/12/01/026",
+    "remark": "NEW PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3083693,
+      "longitude": 7.538793399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.309686929892721,
+          "lng": 7.540156079892722
+        },
+        "southwest": {
+          "lat": 6.306987270107277,
+          "lng": 7.537456420107278
+        }
+      },
+      "formatted_address": "8G5Q+8HR, 402105, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3083693,7.538793399999999",
+      "google_place_id": "ChIJM30NsCZZQxARf9KXN9bzucc"
+    }
+  },
+  {
+    "id": "57722",
+    "name": "AMAKATANGA VILLAGE SQUARE",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "14/12/01/027",
+    "remark": "NEW PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3049405,
+      "longitude": 7.568626399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.306400229892722,
+          "lng": 7.569985779892722
+        },
+        "southwest": {
+          "lat": 6.303700570107278,
+          "lng": 7.567286120107278
+        }
+      },
+      "formatted_address": "8H39+XFC, 402110, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3049405,7.568626399999999",
+      "google_place_id": "ChIJe4jjQT9ZQxARrmG1yS4pwXY"
+    }
+  },
+  {
+    "id": "57723",
+    "name": "PRIMARY HEALTH CENTRE OJIAGU",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "14/12/01/028",
+    "remark": "NEW PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": null
+  },
+  {
+    "id": "57724",
+    "name": "ENUGU STATE JUDICIARY HIGH COURT I",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "14/12/01/029",
+    "remark": "NEW PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.4372978,
+      "longitude": 7.5203056,
+      "viewport": {
+        "northeast": {
+          "lat": 6.438623179892721,
+          "lng": 7.521716679892721
+        },
+        "southwest": {
+          "lat": 6.435923520107277,
+          "lng": 7.519017020107277
+        }
+      },
+      "formatted_address": "CGPC+W47, Aguleri St, Independence Layout 400102, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4372978,7.5203056",
+      "google_place_id": "ChIJ301id_yjRBARd8VYSPRJ_qQ"
+    }
+  },
+  {
+    "id": "57725",
+    "name": "ENUGU STATE JUDICIARY HIGH COURT II",
+    "registration_area_id": "3135",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "14/12/01/030",
+    "remark": "NEW PU",
+    "ward_id": "3135",
+    "ward_name": "AGBANI",
+    "local_government_id": "270",
+    "local_government_name": "NKANU WEST",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.4372978,
+      "longitude": 7.5203056,
+      "viewport": {
+        "northeast": {
+          "lat": 6.438623179892721,
+          "lng": 7.521716679892721
+        },
+        "southwest": {
+          "lat": 6.435923520107277,
+          "lng": 7.519017020107277
+        }
+      },
+      "formatted_address": "CGPC+W47, Aguleri St, Independence Layout 400102, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4372978,7.5203056",
+      "google_place_id": "ChIJ301id_yjRBARd8VYSPRJ_qQ"
+    }
+  }
+]

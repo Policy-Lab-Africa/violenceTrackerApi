@@ -1,0 +1,382 @@
+[
+  {
+    "id": "107292",
+    "name": "POSTAL AGENCY, ODO - APE",
+    "registration_area_id": "5533",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "22/10/14/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5533",
+    "ward_name": "ODO-APE",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.893994500000001,
+      "longitude": 6.2015006,
+      "viewport": {
+        "northeast": {
+          "lat": 7.895402179892723,
+          "lng": 6.202825179892721
+        },
+        "southwest": {
+          "lat": 7.892702520107279,
+          "lng": 6.200125520107277
+        }
+      },
+      "formatted_address": "V6V2+HJR, 261101, Ode Ape, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.893994500000001,6.2015006",
+      "google_place_id": "ChIJA-igNiKlSBARm2TFfP9g7w4"
+    }
+  },
+  {
+    "id": "107293",
+    "name": "MARKET SQUARE, ODO-APE",
+    "registration_area_id": "5533",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "22/10/14/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5533",
+    "ward_name": "ODO-APE",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.2296479,
+      "longitude": 5.5095829,
+      "viewport": {
+        "northeast": {
+          "lat": 8.230989979892723,
+          "lng": 5.511005679892722
+        },
+        "southwest": {
+          "lat": 8.228290320107279,
+          "lng": 5.508306020107278
+        }
+      },
+      "formatted_address": "6GH5+VR4, Pategi-Egbe, 262103, Egbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2296479,5.5095829",
+      "google_place_id": "ChIJP7eHe61FSBAR3tLblS68XCI"
+    }
+  },
+  {
+    "id": "107294",
+    "name": "ADURA-TEDO LGEA SCH ADURA-TEDO",
+    "registration_area_id": "5533",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "22/10/14/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5533",
+    "ward_name": "ODO-APE",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.9447603,
+      "longitude": 6.1542173,
+      "viewport": {
+        "northeast": {
+          "lat": 7.946128979892721,
+          "lng": 6.155555629892722
+        },
+        "southwest": {
+          "lat": 7.943429320107278,
+          "lng": 6.152855970107278
+        }
+      },
+      "formatted_address": "Aduratedo 261101, Ape, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9447603,6.1542173",
+      "google_place_id": "ChIJlcc0P2m7SBARkECVXsHABZU"
+    }
+  },
+  {
+    "id": "107295",
+    "name": "IGORI LGEA SCH IGORI",
+    "registration_area_id": "5533",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "22/10/14/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5533",
+    "ward_name": "ODO-APE",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.9690085,
+      "longitude": 6.0996978,
+      "viewport": {
+        "northeast": {
+          "lat": 7.970932179892722,
+          "lng": 6.101521979892722
+        },
+        "southwest": {
+          "lat": 7.968232520107279,
+          "lng": 6.098822320107278
+        }
+      },
+      "formatted_address": "X39X+JV4, Olle, road, Edumo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9690085,6.0996978",
+      "google_place_id": "ChIJG-TqBH69SBARBlkTlDlMyi8"
+    }
+  },
+  {
+    "id": "107296",
+    "name": "IGHUN LGEA SCH IGHUN",
+    "registration_area_id": "5533",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "22/10/14/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5533",
+    "ward_name": "ODO-APE",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8255892,
+      "longitude": 6.0844589,
+      "viewport": {
+        "northeast": {
+          "lat": 7.82693847989272,
+          "lng": 6.085810379892721
+        },
+        "southwest": {
+          "lat": 7.824238820107277,
+          "lng": 6.083110720107277
+        }
+      },
+      "formatted_address": "korede quarters, 261101, Kabba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8255892,6.0844589",
+      "google_place_id": "ChIJUeNmh7mhSBARdF_r1O7Ol5M"
+    }
+  },
+  {
+    "id": "107297",
+    "name": "ESHI LGEA SCH ESHI",
+    "registration_area_id": "5533",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "22/10/14/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5533",
+    "ward_name": "ODO-APE",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.9690085,
+      "longitude": 6.0996978,
+      "viewport": {
+        "northeast": {
+          "lat": 7.970932179892722,
+          "lng": 6.101521979892722
+        },
+        "southwest": {
+          "lat": 7.968232520107279,
+          "lng": 6.098822320107278
+        }
+      },
+      "formatted_address": "X39X+JV4, Olle, road, Edumo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9690085,6.0996978",
+      "google_place_id": "ChIJG-TqBH69SBARBlkTlDlMyi8"
+    }
+  },
+  {
+    "id": "107298",
+    "name": "AGBADU LGEA SCH AGBADU",
+    "registration_area_id": "5533",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "22/10/14/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5533",
+    "ward_name": "ODO-APE",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8255892,
+      "longitude": 6.0844589,
+      "viewport": {
+        "northeast": {
+          "lat": 7.82693847989272,
+          "lng": 6.085810379892721
+        },
+        "southwest": {
+          "lat": 7.824238820107277,
+          "lng": 6.083110720107277
+        }
+      },
+      "formatted_address": "korede quarters, 261101, Kabba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8255892,6.0844589",
+      "google_place_id": "ChIJUeNmh7mhSBARdF_r1O7Ol5M"
+    }
+  },
+  {
+    "id": "107299",
+    "name": "POSTAL AGENCY II",
+    "registration_area_id": "5533",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "22/10/14/008",
+    "remark": "NEW PU",
+    "ward_id": "5533",
+    "ward_name": "ODO-APE",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.893994500000001,
+      "longitude": 6.2015006,
+      "viewport": {
+        "northeast": {
+          "lat": 7.895402179892723,
+          "lng": 6.202825179892721
+        },
+        "southwest": {
+          "lat": 7.892702520107279,
+          "lng": 6.200125520107277
+        }
+      },
+      "formatted_address": "V6V2+HJR, 261101, Ode Ape, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.893994500000001,6.2015006",
+      "google_place_id": "ChIJA-igNiKlSBARm2TFfP9g7w4"
+    }
+  },
+  {
+    "id": "107300",
+    "name": "LGEA PRIMARY SCHOOL, ODO - APE",
+    "registration_area_id": "5533",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "22/10/14/009",
+    "remark": "NEW PU",
+    "ward_id": "5533",
+    "ward_name": "ODO-APE",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.0368224,
+      "longitude": 6.0433666,
+      "viewport": {
+        "northeast": {
+          "lat": 8.038121129892723,
+          "lng": 6.044678829892721
+        },
+        "southwest": {
+          "lat": 8.035421470107279,
+          "lng": 6.041979170107277
+        }
+      },
+      "formatted_address": "22PV+P8H, Odokoro Luke Rd, 261103, Aiyegunle, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0368224,6.0433666",
+      "google_place_id": "ChIJs4P54YiVSBARXcYD_Ae9DPA"
+    }
+  },
+  {
+    "id": "107301",
+    "name": "LGEA PRIMARY SCHOOL II, ODO - APE",
+    "registration_area_id": "5533",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "22/10/14/010",
+    "remark": "NEW PU",
+    "ward_id": "5533",
+    "ward_name": "ODO-APE",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.0368224,
+      "longitude": 6.0433666,
+      "viewport": {
+        "northeast": {
+          "lat": 8.038121129892723,
+          "lng": 6.044678829892721
+        },
+        "southwest": {
+          "lat": 8.035421470107279,
+          "lng": 6.041979170107277
+        }
+      },
+      "formatted_address": "22PV+P8H, Odokoro Luke Rd, 261103, Aiyegunle, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0368224,6.0433666",
+      "google_place_id": "ChIJs4P54YiVSBARXcYD_Ae9DPA"
+    }
+  },
+  {
+    "id": "107302",
+    "name": "UNDER BIG DONGOYARO TREE IN FRONT OF POLICE STATION",
+    "registration_area_id": "5533",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "22/10/14/011",
+    "remark": "NEW PU",
+    "ward_id": "5533",
+    "ward_name": "ODO-APE",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "107303",
+    "name": "LGEA PRIMARY SCHOOL II IGORI",
+    "registration_area_id": "5533",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "22/10/14/012",
+    "remark": "NEW PU",
+    "ward_id": "5533",
+    "ward_name": "ODO-APE",
+    "local_government_id": "478",
+    "local_government_name": "KABBA/BUNU",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.9690085,
+      "longitude": 6.0996978,
+      "viewport": {
+        "northeast": {
+          "lat": 7.970932179892722,
+          "lng": 6.101521979892722
+        },
+        "southwest": {
+          "lat": 7.968232520107279,
+          "lng": 6.098822320107278
+        }
+      },
+      "formatted_address": "X39X+JV4, Olle, road, Edumo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9690085,6.0996978",
+      "google_place_id": "ChIJG-TqBH69SBARBlkTlDlMyi8"
+    }
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "id": "338945",
+    "name": "KOFAR JAMATA",
+    "registration_area_id": "17229",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/22/13/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17229",
+    "ward_name": "PINA",
+    "local_government_id": "558",
+    "local_government_name": "SHIRORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338946",
+    "name": "OWU D.T.",
+    "registration_area_id": "17229",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/22/13/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17229",
+    "ward_name": "PINA",
+    "local_government_id": "558",
+    "local_government_name": "SHIRORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.973120600000001,
+      "longitude": 6.834343400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.973887479892722,
+          "lng": 6.8362043
+        },
+        "southwest": {
+          "lat": 9.971187820107279,
+          "lng": 6.8287607
+        }
+      },
+      "formatted_address": "XRFM+6PW, kuta Zumba Rd, 921101, Asha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.973120600000001,6.834343400000001",
+      "google_place_id": "ChIJCWUb2SnyTBAR216xG1Fo5NU"
+    }
+  },
+  {
+    "id": "338947",
+    "name": "KOLU",
+    "registration_area_id": "17229",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/22/13/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17229",
+    "ward_name": "PINA",
+    "local_government_id": "558",
+    "local_government_name": "SHIRORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.803386999999999,
+      "longitude": 6.715347,
+      "viewport": {
+        "northeast": {
+          "lat": 9.804736829892718,
+          "lng": 6.716696829892721
+        },
+        "southwest": {
+          "lat": 9.802037170107274,
+          "lng": 6.713997170107278
+        }
+      },
+      "formatted_address": "6FX8RP38+945 Pina/She, Kolu, 921101, Kuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.803386999999999,6.715347",
+      "google_place_id": "ChIJU7huJzthTBARU8YXlWiJX5s"
+    }
+  },
+  {
+    "id": "338948",
+    "name": "PINA",
+    "registration_area_id": "17229",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/22/13/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17229",
+    "ward_name": "PINA",
+    "local_government_id": "558",
+    "local_government_name": "SHIRORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.758357499999999,
+      "longitude": 6.674504199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.8241821,
+          "lng": 6.7670887
+        },
+        "southwest": {
+          "lat": 9.6824437,
+          "lng": 6.5962599
+        }
+      },
+      "formatted_address": "Pina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.758357499999999,6.674504199999999",
+      "google_place_id": "ChIJb_ScZUlhTBAR58--YGMwww8"
+    }
+  },
+  {
+    "id": "338949",
+    "name": "SABON GIDA",
+    "registration_area_id": "17229",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/22/13/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17229",
+    "ward_name": "PINA",
+    "local_government_id": "558",
+    "local_government_name": "SHIRORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.8091101,
+      "longitude": 6.3317464,
+      "viewport": {
+        "northeast": {
+          "lat": 9.810448829892723,
+          "lng": 6.333055779892722
+        },
+        "southwest": {
+          "lat": 9.807749170107279,
+          "lng": 6.330356120107278
+        }
+      },
+      "formatted_address": "920102, Sabon Gida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.8091101,6.3317464",
+      "google_place_id": "ChIJjSsGYYWBSxARjTzRPxrJkjM"
+    }
+  },
+  {
+    "id": "338950",
+    "name": "GOTUPE",
+    "registration_area_id": "17229",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/22/13/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17229",
+    "ward_name": "PINA",
+    "local_government_id": "558",
+    "local_government_name": "SHIRORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.973120600000001,
+      "longitude": 6.834343400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.973887479892722,
+          "lng": 6.8362043
+        },
+        "southwest": {
+          "lat": 9.971187820107279,
+          "lng": 6.8287607
+        }
+      },
+      "formatted_address": "XRFM+6PW, kuta Zumba Rd, 921101, Asha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.973120600000001,6.834343400000001",
+      "google_place_id": "ChIJCWUb2SnyTBAR216xG1Fo5NU"
+    }
+  },
+  {
+    "id": "338951",
+    "name": "UNG. MADAKI (PINA)",
+    "registration_area_id": "17229",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/22/13/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17229",
+    "ward_name": "PINA",
+    "local_government_id": "558",
+    "local_government_name": "SHIRORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338952",
+    "name": "AGOGOYI",
+    "registration_area_id": "17229",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/22/13/008",
+    "remark": "NEW PU",
+    "ward_id": "17229",
+    "ward_name": "PINA",
+    "local_government_id": "558",
+    "local_government_name": "SHIRORO",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.973120600000001,
+      "longitude": 6.834343400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.973887479892722,
+          "lng": 6.8362043
+        },
+        "southwest": {
+          "lat": 9.971187820107279,
+          "lng": 6.8287607
+        }
+      },
+      "formatted_address": "XRFM+6PW, kuta Zumba Rd, 921101, Asha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.973120600000001,6.834343400000001",
+      "google_place_id": "ChIJCWUb2SnyTBAR216xG1Fo5NU"
+    }
+  }
+]

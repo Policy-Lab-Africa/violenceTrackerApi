@@ -1,0 +1,184 @@
+[
+  {
+    "id": "35809",
+    "name": "KUDA PRI. SCH. I",
+    "registration_area_id": "1954",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/26/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1954",
+    "ward_name": "KUDA",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.4924579,
+      "longitude": 13.1584569,
+      "viewport": {
+        "northeast": {
+          "lat": 12.49380772989272,
+          "lng": 13.15980672989272
+        },
+        "southwest": {
+          "lat": 12.49110807010728,
+          "lng": 13.15710707010727
+        }
+      },
+      "formatted_address": "F5R5+X9P, 612103, Kuda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4924579,13.1584569",
+      "google_place_id": "ChIJUU5ua-8fBRERTljfBOQdx5U"
+    }
+  },
+  {
+    "id": "35810",
+    "name": "KUDA PRI. SCH. II",
+    "registration_area_id": "1954",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/26/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1954",
+    "ward_name": "KUDA",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.4924579,
+      "longitude": 13.1584569,
+      "viewport": {
+        "northeast": {
+          "lat": 12.49380772989272,
+          "lng": 13.15980672989272
+        },
+        "southwest": {
+          "lat": 12.49110807010728,
+          "lng": 13.15710707010727
+        }
+      },
+      "formatted_address": "F5R5+X9P, 612103, Kuda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4924579,13.1584569",
+      "google_place_id": "ChIJUU5ua-8fBRERTljfBOQdx5U"
+    }
+  },
+  {
+    "id": "35811",
+    "name": "ALI BULURI I",
+    "registration_area_id": "1954",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/26/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1954",
+    "ward_name": "KUDA",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8470382,
+      "longitude": 13.149646,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84812472989272,
+          "lng": 13.15109947989272
+        },
+        "southwest": {
+          "lat": 11.84542507010728,
+          "lng": 13.14839982010728
+        }
+      },
+      "formatted_address": "R4WX+RV6, Mafoni 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8470382,13.149646",
+      "google_place_id": "ChIJ4Z5fCeWfBBER-fjLvDtxohY"
+    }
+  },
+  {
+    "id": "35812",
+    "name": "ALI BULURI II",
+    "registration_area_id": "1954",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/26/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1954",
+    "ward_name": "KUDA",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "35813",
+    "name": "GOLUMBEYARI",
+    "registration_area_id": "1954",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/26/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1954",
+    "ward_name": "KUDA",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7911715,
+      "longitude": 13.1175759,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79263822989272,
+          "lng": 13.11893672989272
+        },
+        "southwest": {
+          "lat": 11.78993857010728,
+          "lng": 13.11623707010728
+        }
+      },
+      "formatted_address": "Q4R9+F28, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7911715,13.1175759",
+      "google_place_id": "ChIJ9y92jEieBBERK-8m09vRLS0"
+    }
+  },
+  {
+    "id": "35814",
+    "name": "KUDA PRIMARY SCHOOL III",
+    "registration_area_id": "1954",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/26/07/006",
+    "remark": "NEW PU",
+    "ward_id": "1954",
+    "ward_name": "KUDA",
+    "local_government_id": "167",
+    "local_government_name": "NGANZAI",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.4924579,
+      "longitude": 13.1584569,
+      "viewport": {
+        "northeast": {
+          "lat": 12.49380772989272,
+          "lng": 13.15980672989272
+        },
+        "southwest": {
+          "lat": 12.49110807010728,
+          "lng": 13.15710707010727
+        }
+      },
+      "formatted_address": "F5R5+X9P, 612103, Kuda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4924579,13.1584569",
+      "google_place_id": "ChIJUU5ua-8fBRERTljfBOQdx5U"
+    }
+  }
+]

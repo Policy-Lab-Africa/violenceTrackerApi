@@ -1,0 +1,332 @@
+[
+  {
+    "id": "56657",
+    "name": "OBODO IYI MARKET SQUARE",
+    "registration_area_id": "3050",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "14/06/17/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3050",
+    "ward_name": "OBINOFIA",
+    "local_government_id": "264",
+    "local_government_name": "EZEAGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3098565,
+      "longitude": 7.296292999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.311216829892722,
+          "lng": 7.297660779892722
+        },
+        "southwest": {
+          "lat": 6.308517170107278,
+          "lng": 7.294961120107278
+        }
+      },
+      "formatted_address": "875W+WGV, 401127, Ndiuno Obinofia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3098565,7.296292999999999",
+      "google_place_id": "ChIJIy6JlRxjQxARrU9Kj8CKgJQ"
+    }
+  },
+  {
+    "id": "56658",
+    "name": "C.P.S. OBINOFIA NDIUNO I",
+    "registration_area_id": "3050",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "14/06/17/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3050",
+    "ward_name": "OBINOFIA",
+    "local_government_id": "264",
+    "local_government_name": "EZEAGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.2884522,
+      "longitude": 7.238317800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3339637,
+          "lng": 7.3110457
+        },
+        "southwest": {
+          "lat": 6.275623200000001,
+          "lng": 7.160283
+        }
+      },
+      "formatted_address": "Obinofia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2884522,7.238317800000001",
+      "google_place_id": "ChIJg61kguV8QxARNwyIbc4Ms_E"
+    }
+  },
+  {
+    "id": "56659",
+    "name": "C.P.S. OBINOFIA NDIAGU",
+    "registration_area_id": "3050",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "14/06/17/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3050",
+    "ward_name": "OBINOFIA",
+    "local_government_id": "264",
+    "local_government_name": "EZEAGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.2884522,
+      "longitude": 7.238317800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3339637,
+          "lng": 7.3110457
+        },
+        "southwest": {
+          "lat": 6.275623200000001,
+          "lng": 7.160283
+        }
+      },
+      "formatted_address": "Obinofia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2884522,7.238317800000001",
+      "google_place_id": "ChIJg61kguV8QxARNwyIbc4Ms_E"
+    }
+  },
+  {
+    "id": "56660",
+    "name": "C.S. OBINOFIA NDIUNO",
+    "registration_area_id": "3050",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "14/06/17/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3050",
+    "ward_name": "OBINOFIA",
+    "local_government_id": "264",
+    "local_government_name": "EZEAGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3136426,
+      "longitude": 7.3006977,
+      "viewport": {
+        "northeast": {
+          "lat": 6.315454,
+          "lng": 7.306014999999999
+        },
+        "southwest": {
+          "lat": 6.310943,
+          "lng": 7.2961071
+        }
+      },
+      "formatted_address": "401127, Ndiuno Obinofia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3136426,7.3006977",
+      "google_place_id": "ChIJz_RcFTNjQxARgV-AzblBS2g"
+    }
+  },
+  {
+    "id": "56661",
+    "name": "C.S. OBINOFIA NDIAGU",
+    "registration_area_id": "3050",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "14/06/17/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3050",
+    "ward_name": "OBINOFIA",
+    "local_government_id": "264",
+    "local_government_name": "EZEAGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.2943257,
+      "longitude": 7.205822899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.2958792,
+          "lng": 7.206890899999999
+        },
+        "southwest": {
+          "lat": 6.2929891,
+          "lng": 7.203636599999999
+        }
+      },
+      "formatted_address": "401127, Ndiagu Obinofia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2943257,7.205822899999999",
+      "google_place_id": "ChIJN1NIrjh8QxARw1yDSQ3yKcA"
+    }
+  },
+  {
+    "id": "56662",
+    "name": "C.S.  IHUEZED OBINOFIA",
+    "registration_area_id": "3050",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "14/06/17/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3050",
+    "ward_name": "OBINOFIA",
+    "local_government_id": "264",
+    "local_government_name": "EZEAGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.2884522,
+      "longitude": 7.238317800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3339637,
+          "lng": 7.3110457
+        },
+        "southwest": {
+          "lat": 6.275623200000001,
+          "lng": 7.160283
+        }
+      },
+      "formatted_address": "Obinofia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2884522,7.238317800000001",
+      "google_place_id": "ChIJg61kguV8QxARNwyIbc4Ms_E"
+    }
+  },
+  {
+    "id": "56663",
+    "name": "UMUEZE VILLAGE SQUARE",
+    "registration_area_id": "3050",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "14/06/17/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3050",
+    "ward_name": "OBINOFIA",
+    "local_government_id": "264",
+    "local_government_name": "EZEAGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.4296751,
+      "longitude": 7.2450588,
+      "viewport": {
+        "northeast": {
+          "lat": 6.438300600000001,
+          "lng": 7.2600746
+        },
+        "southwest": {
+          "lat": 6.4252512,
+          "lng": 7.230978099999999
+        }
+      },
+      "formatted_address": "Umueze, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4296751,7.2450588",
+      "google_place_id": "ChIJBQpQOl2DRBAR7dIrcFlC3xI"
+    }
+  },
+  {
+    "id": "56664",
+    "name": "M.P.S. OBINOFIA",
+    "registration_area_id": "3050",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "14/06/17/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3050",
+    "ward_name": "OBINOFIA",
+    "local_government_id": "264",
+    "local_government_name": "EZEAGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.2884522,
+      "longitude": 7.238317800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3339637,
+          "lng": 7.3110457
+        },
+        "southwest": {
+          "lat": 6.275623200000001,
+          "lng": 7.160283
+        }
+      },
+      "formatted_address": "Obinofia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2884522,7.238317800000001",
+      "google_place_id": "ChIJg61kguV8QxARNwyIbc4Ms_E"
+    }
+  },
+  {
+    "id": "56665",
+    "name": "OKPOSHI MARKET SQUARE",
+    "registration_area_id": "3050",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "14/06/17/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3050",
+    "ward_name": "OBINOFIA",
+    "local_government_id": "264",
+    "local_government_name": "EZEAGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.2833064,
+      "longitude": 7.2050786,
+      "viewport": {
+        "northeast": {
+          "lat": 6.284710879892722,
+          "lng": 7.206448929892722
+        },
+        "southwest": {
+          "lat": 6.282011220107278,
+          "lng": 7.203749270107278
+        }
+      },
+      "formatted_address": "76M4+82G, 401127, Ndiagu Obinofia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2833064,7.2050786",
+      "google_place_id": "ChIJic8yCXJ8QxAR-hZ9u1MXY54"
+    }
+  },
+  {
+    "id": "56666",
+    "name": "UGWUEZEABUSHI SQUARE",
+    "registration_area_id": "3050",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "14/06/17/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3050",
+    "ward_name": "OBINOFIA",
+    "local_government_id": "264",
+    "local_government_name": "EZEAGU",
+    "state_id": "14",
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3830543,
+      "longitude": 7.2706807,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3844804,
+          "lng": 7.271511929892722
+        },
+        "southwest": {
+          "lat": 6.378776,
+          "lng": 7.268812270107278
+        }
+      },
+      "formatted_address": "401125, Afor Ugwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3830543,7.2706807",
+      "google_place_id": "ChIJR7jgGcuCRBAR_ZwEuiU6KgM"
+    }
+  }
+]

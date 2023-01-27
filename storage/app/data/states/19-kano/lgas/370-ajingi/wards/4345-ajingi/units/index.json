@@ -1,0 +1,779 @@
+[
+  {
+    "id": "83864",
+    "name": "ANSARUDDEEEN ISLAMIYYA SCH",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/01/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9429984,
+      "longitude": 8.5547668,
+      "viewport": {
+        "northeast": {
+          "lat": 11.94437002989272,
+          "lng": 8.556158979892722
+        },
+        "southwest": {
+          "lat": 11.94167037010728,
+          "lng": 8.553459320107278
+        }
+      },
+      "formatted_address": "WHV3+5WR, Ungwa Uku 700101, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9429984,8.5547668",
+      "google_place_id": "ChIJlcO21gyBrhER2dKBwLGdq1A"
+    }
+  },
+  {
+    "id": "83865",
+    "name": "OPPOSITE GIDAN ALKALI",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/01/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9723714,
+      "longitude": 8.5594101,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97378517989272,
+          "lng": 8.56065827989272
+        },
+        "southwest": {
+          "lat": 11.97108552010728,
+          "lng": 8.557958620107277
+        }
+      },
+      "formatted_address": "270 Maiduguri road, Daurawa Quarters Road, Tarauni, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9723714,8.5594101",
+      "google_place_id": "ChIJg1gUtw-BrhERyVzA3x6VzJI"
+    }
+  },
+  {
+    "id": "83866",
+    "name": "KUMAWA BORI, NEAR, W/H HOUSE",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/01/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9569843,
+      "longitude": 9.0356366,
+      "viewport": {
+        "northeast": {
+          "lat": 11.95810307989272,
+          "lng": 9.03804305
+        },
+        "southwest": {
+          "lat": 11.95540342010728,
+          "lng": 9.034834450000002
+        }
+      },
+      "formatted_address": "X24P+Q7R, 713103, Ajingi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9569843,9.0356366",
+      "google_place_id": "ChIJfemw61eprhERUr4yjCTcQ-o"
+    }
+  },
+  {
+    "id": "83867",
+    "name": "MALIKAWA/ZARAWA, AJINGI YAMMA PS I",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/01/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9569843,
+      "longitude": 9.0356366,
+      "viewport": {
+        "northeast": {
+          "lat": 11.95810307989272,
+          "lng": 9.03804305
+        },
+        "southwest": {
+          "lat": 11.95540342010728,
+          "lng": 9.034834450000002
+        }
+      },
+      "formatted_address": "X24P+Q7R, 713103, Ajingi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9569843,9.0356366",
+      "google_place_id": "ChIJfemw61eprhERUr4yjCTcQ-o"
+    }
+  },
+  {
+    "id": "83868",
+    "name": "MALIKAWA/ZARAWA, AJINGI YAMMA PS II",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/01/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9569843,
+      "longitude": 9.0356366,
+      "viewport": {
+        "northeast": {
+          "lat": 11.95810307989272,
+          "lng": 9.03804305
+        },
+        "southwest": {
+          "lat": 11.95540342010728,
+          "lng": 9.034834450000002
+        }
+      },
+      "formatted_address": "X24P+Q7R, 713103, Ajingi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9569843,9.0356366",
+      "google_place_id": "ChIJfemw61eprhERUr4yjCTcQ-o"
+    }
+  },
+  {
+    "id": "83869",
+    "name": "MARAYAR SOBA, GIDAN MALAM",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/01/01/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0078594,
+      "longitude": 8.579254599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00920907989272,
+          "lng": 8.58060152989272
+        },
+        "southwest": {
+          "lat": 12.00650942010728,
+          "lng": 8.577901870107276
+        }
+      },
+      "formatted_address": "No 27A Bello Road, Kano, Ajingi, Kano, Nigeria Kano, 702104, Ajingi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0078594,8.579254599999999",
+      "google_place_id": "ChIJh5jQzGKDrhER4gw5x_FeaX8"
+    }
+  },
+  {
+    "id": "83870",
+    "name": "S/G/MALIKAWA, AJINGI YAMMA PS I",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/01/01/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "83871",
+    "name": "S/G/MALIKAWA, AJINGI YAMMA PS II",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/01/01/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "83872",
+    "name": "S/G DUGWAL , AJINGI YAMMA PS I",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/01/01/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9569843,
+      "longitude": 9.0356366,
+      "viewport": {
+        "northeast": {
+          "lat": 11.95810307989272,
+          "lng": 9.03804305
+        },
+        "southwest": {
+          "lat": 11.95540342010728,
+          "lng": 9.034834450000002
+        }
+      },
+      "formatted_address": "X24P+Q7R, 713103, Ajingi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9569843,9.0356366",
+      "google_place_id": "ChIJfemw61eprhERUr4yjCTcQ-o"
+    }
+  },
+  {
+    "id": "83873",
+    "name": "S/G DUGWAL , AJINGI YAMMA PS II",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "19/01/01/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9569843,
+      "longitude": 9.0356366,
+      "viewport": {
+        "northeast": {
+          "lat": 11.95810307989272,
+          "lng": 9.03804305
+        },
+        "southwest": {
+          "lat": 11.95540342010728,
+          "lng": 9.034834450000002
+        }
+      },
+      "formatted_address": "X24P+Q7R, 713103, Ajingi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9569843,9.0356366",
+      "google_place_id": "ChIJfemw61eprhERUr4yjCTcQ-o"
+    }
+  },
+  {
+    "id": "83874",
+    "name": "S/G SAKALAWA, AJINGI YAMMA PS III",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "19/01/01/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9569843,
+      "longitude": 9.0356366,
+      "viewport": {
+        "northeast": {
+          "lat": 11.95810307989272,
+          "lng": 9.03804305
+        },
+        "southwest": {
+          "lat": 11.95540342010728,
+          "lng": 9.034834450000002
+        }
+      },
+      "formatted_address": "X24P+Q7R, 713103, Ajingi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9569843,9.0356366",
+      "google_place_id": "ChIJfemw61eprhERUr4yjCTcQ-o"
+    }
+  },
+  {
+    "id": "83875",
+    "name": "SAGALAWA C/GARI SAGALAWA P.S.",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "19/01/01/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9569843,
+      "longitude": 9.0356366,
+      "viewport": {
+        "northeast": {
+          "lat": 11.95810307989272,
+          "lng": 9.03804305
+        },
+        "southwest": {
+          "lat": 11.95540342010728,
+          "lng": 9.034834450000002
+        }
+      },
+      "formatted_address": "X24P+Q7R, 713103, Ajingi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9569843,9.0356366",
+      "google_place_id": "ChIJfemw61eprhERUr4yjCTcQ-o"
+    }
+  },
+  {
+    "id": "83876",
+    "name": "UNG/AREWA, AJINGI LIBRARY I",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "19/01/01/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9569843,
+      "longitude": 9.0356366,
+      "viewport": {
+        "northeast": {
+          "lat": 11.95810307989272,
+          "lng": 9.03804305
+        },
+        "southwest": {
+          "lat": 11.95540342010728,
+          "lng": 9.034834450000002
+        }
+      },
+      "formatted_address": "X24P+Q7R, 713103, Ajingi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9569843,9.0356366",
+      "google_place_id": "ChIJfemw61eprhERUr4yjCTcQ-o"
+    }
+  },
+  {
+    "id": "83877",
+    "name": "AJINGI AREWA PRI.SCH",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "19/01/01/014",
+    "remark": "EXISTING PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9718193,
+      "longitude": 9.0339636,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97319612989272,
+          "lng": 9.035251329892722
+        },
+        "southwest": {
+          "lat": 11.97049647010728,
+          "lng": 9.032551670107278
+        }
+      },
+      "formatted_address": "7F3FX2CM+QH9, 713103, Ajingi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9718193,9.0339636",
+      "google_place_id": "ChIJFYWHaGCprhERuZj9W60Wa54"
+    }
+  },
+  {
+    "id": "83878",
+    "name": "AJINGI MAGISTRATE COURT",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "19/01/01/015",
+    "remark": "EXISTING PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9697169,
+      "longitude": 9.0338275,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97113512989272,
+          "lng": 9.035210179892719
+        },
+        "southwest": {
+          "lat": 11.96843547010728,
+          "lng": 9.032510520107275
+        }
+      },
+      "formatted_address": "X29M+VGP, 713103, Ajingi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9697169,9.0338275",
+      "google_place_id": "ChIJPwwOaWCorhERU_qr51I68mY"
+    }
+  },
+  {
+    "id": "83879",
+    "name": "UNG/KUDU, AJINGI SP. S I",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "19/01/01/016",
+    "remark": "EXISTING PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9569843,
+      "longitude": 9.0356366,
+      "viewport": {
+        "northeast": {
+          "lat": 11.95810307989272,
+          "lng": 9.03804305
+        },
+        "southwest": {
+          "lat": 11.95540342010728,
+          "lng": 9.034834450000002
+        }
+      },
+      "formatted_address": "X24P+Q7R, 713103, Ajingi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9569843,9.0356366",
+      "google_place_id": "ChIJfemw61eprhERUr4yjCTcQ-o"
+    }
+  },
+  {
+    "id": "83880",
+    "name": "UNG/KUDU, AJINGI SP. S II",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "19/01/01/017",
+    "remark": "EXISTING PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9569843,
+      "longitude": 9.0356366,
+      "viewport": {
+        "northeast": {
+          "lat": 11.95810307989272,
+          "lng": 9.03804305
+        },
+        "southwest": {
+          "lat": 11.95540342010728,
+          "lng": 9.034834450000002
+        }
+      },
+      "formatted_address": "X24P+Q7R, 713103, Ajingi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9569843,9.0356366",
+      "google_place_id": "ChIJfemw61eprhERUr4yjCTcQ-o"
+    }
+  },
+  {
+    "id": "83881",
+    "name": "UNG/KUDU, AJINGI SP. S III",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "19/01/01/018",
+    "remark": "EXISTING PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9569843,
+      "longitude": 9.0356366,
+      "viewport": {
+        "northeast": {
+          "lat": 11.95810307989272,
+          "lng": 9.03804305
+        },
+        "southwest": {
+          "lat": 11.95540342010728,
+          "lng": 9.034834450000002
+        }
+      },
+      "formatted_address": "X24P+Q7R, 713103, Ajingi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9569843,9.0356366",
+      "google_place_id": "ChIJfemw61eprhERUr4yjCTcQ-o"
+    }
+  },
+  {
+    "id": "83882",
+    "name": "UNG BORI, AJINGI DISPERSARY I",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "19/01/01/019",
+    "remark": "EXISTING PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "83883",
+    "name": "UNG BORI, AJINGI DISPERSARY II",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "19/01/01/020",
+    "remark": "EXISTING PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9569843,
+      "longitude": 9.0356366,
+      "viewport": {
+        "northeast": {
+          "lat": 11.95810307989272,
+          "lng": 9.03804305
+        },
+        "southwest": {
+          "lat": 11.95540342010728,
+          "lng": 9.034834450000002
+        }
+      },
+      "formatted_address": "X24P+Q7R, 713103, Ajingi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9569843,9.0356366",
+      "google_place_id": "ChIJfemw61eprhERUr4yjCTcQ-o"
+    }
+  },
+  {
+    "id": "83884",
+    "name": "ANSARUDDEEN ISLAMIYYA SCH.",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "19/01/01/021",
+    "remark": "NEW PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.967237,
+      "longitude": 9.0383221,
+      "viewport": {
+        "northeast": {
+          "lat": 11.96855477989272,
+          "lng": 9.039676629892723
+        },
+        "southwest": {
+          "lat": 11.96585512010728,
+          "lng": 9.036976970107279
+        }
+      },
+      "formatted_address": "7F3FX28Q+V87, 713103, Ajingi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.967237,9.0383221",
+      "google_place_id": "ChIJA6GzreeprhER5PuGxdUCpEA"
+    }
+  },
+  {
+    "id": "83885",
+    "name": "OPP,GIDAN ALKALI",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "19/01/01/022",
+    "remark": "NEW PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9894887,
+      "longitude": 8.5311265,
+      "viewport": {
+        "northeast": {
+          "lat": 11.99077877989272,
+          "lng": 8.53260587989272
+        },
+        "southwest": {
+          "lat": 11.98807912010728,
+          "lng": 8.529906220107277
+        }
+      },
+      "formatted_address": "Bus Stop, RMK Bridge, Kofar Dan Agudi, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9894887,8.5311265",
+      "google_place_id": "ChIJrUSa_DOBrhERsV8NVbhuiJc"
+    }
+  },
+  {
+    "id": "83886",
+    "name": "AJINGI AREWA PRI,SCH",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "19/01/01/023",
+    "remark": "NEW PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9718193,
+      "longitude": 9.0339636,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97319612989272,
+          "lng": 9.035251329892722
+        },
+        "southwest": {
+          "lat": 11.97049647010728,
+          "lng": 9.032551670107278
+        }
+      },
+      "formatted_address": "7F3FX2CM+QH9, 713103, Ajingi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9718193,9.0339636",
+      "google_place_id": "ChIJFYWHaGCprhERuZj9W60Wa54"
+    }
+  },
+  {
+    "id": "83887",
+    "name": "AJINGI MAGISTRATE COURT,U/AREWA",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "19/01/01/024",
+    "remark": "NEW PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9697169,
+      "longitude": 9.0338275,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97113512989272,
+          "lng": 9.035210179892719
+        },
+        "southwest": {
+          "lat": 11.96843547010728,
+          "lng": 9.032510520107275
+        }
+      },
+      "formatted_address": "X29M+VGP, 713103, Ajingi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9697169,9.0338275",
+      "google_place_id": "ChIJPwwOaWCorhERU_qr51I68mY"
+    }
+  },
+  {
+    "id": "83888",
+    "name": "UNG/BORI OLD CIVIL CEFENCE OFF",
+    "registration_area_id": "4345",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "19/01/01/025",
+    "remark": "NEW PU",
+    "ward_id": "4345",
+    "ward_name": "AJINGI",
+    "local_government_id": "370",
+    "local_government_name": "AJINGI",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0021529,
+      "longitude": 8.5919749,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00344017989272,
+          "lng": 8.593338279892722
+        },
+        "southwest": {
+          "lat": 12.00074052010728,
+          "lng": 8.590638620107278
+        }
+      },
+      "formatted_address": "2H2R+VQ9, Nigeria Security and Civil Defence Headquarters Kano Command, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0021529,8.5919749",
+      "google_place_id": "ChIJidxnPSODrhERRn5YLUuxlgs"
+    }
+  }
+]

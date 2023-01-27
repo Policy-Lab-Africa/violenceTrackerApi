@@ -14,9 +14,6 @@ class ViolenceTypeCollection extends ResourceCollection
      */
     public function toArray($request)
     {
-        return [
-            'violence_types' => $this->collection,
-            'meta' => []
-        ];
+        return parent::toArray($request);
     }
 }

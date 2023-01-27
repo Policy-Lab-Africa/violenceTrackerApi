@@ -1,0 +1,398 @@
+[
+  {
+    "id": "331569",
+    "name": "NINGO",
+    "registration_area_id": "16852",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "25/01/11/001",
+    "remark": "EXISTING PU",
+    "ward_id": "16852",
+    "ward_name": "NINGO / BOHAR",
+    "local_government_id": "526",
+    "local_government_name": "AKWANGA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 9.0728071,
+      "longitude": 8.3533408,
+      "viewport": {
+        "northeast": {
+          "lat": 9.0757579,
+          "lng": 8.378269
+        },
+        "southwest": {
+          "lat": 9.0663129,
+          "lng": 8.350491
+        }
+      },
+      "formatted_address": "Ningo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0728071,8.3533408",
+      "google_place_id": "ChIJu-PduhKHURARXNapjFLjef8"
+    }
+  },
+  {
+    "id": "331570",
+    "name": "TABU",
+    "registration_area_id": "16852",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "25/01/11/002",
+    "remark": "EXISTING PU",
+    "ward_id": "16852",
+    "ward_name": "NINGO / BOHAR",
+    "local_government_id": "526",
+    "local_government_name": "AKWANGA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.9697087,
+      "longitude": 8.431445499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.970758,
+          "lng": 8.4332689
+        },
+        "southwest": {
+          "lat": 8.966868999999999,
+          "lng": 8.428545999999999
+        }
+      },
+      "formatted_address": "960101, Tabu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9697087,8.431445499999999",
+      "google_place_id": "ChIJlygPC6-DURAREe03g0bKzSg"
+    }
+  },
+  {
+    "id": "331571",
+    "name": "NGAMBRE",
+    "registration_area_id": "16852",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "25/01/11/003",
+    "remark": "EXISTING PU",
+    "ward_id": "16852",
+    "ward_name": "NINGO / BOHAR",
+    "local_government_id": "526",
+    "local_government_name": "AKWANGA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 9.0016468,
+      "longitude": 8.38927,
+      "viewport": {
+        "northeast": {
+          "lat": 9.003001729892722,
+          "lng": 8.390635729892724
+        },
+        "southwest": {
+          "lat": 9.000302070107278,
+          "lng": 8.38793607010728
+        }
+      },
+      "formatted_address": "292Q+MP2, 960109, Andaha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0016468,8.38927",
+      "google_place_id": "ChIJ90gsvAOEURARrb05jefuQHU"
+    }
+  },
+  {
+    "id": "331572",
+    "name": "NGACHE",
+    "registration_area_id": "16852",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "25/01/11/004",
+    "remark": "EXISTING PU",
+    "ward_id": "16852",
+    "ward_name": "NINGO / BOHAR",
+    "local_government_id": "526",
+    "local_government_name": "AKWANGA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.9824612,
+      "longitude": 8.436976099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.983802979892722,
+          "lng": 8.43833122989272
+        },
+        "southwest": {
+          "lat": 8.981103320107279,
+          "lng": 8.435631570107276
+        }
+      },
+      "formatted_address": "XCJP+XQQ, 960109, Akwanga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9824612,8.436976099999999",
+      "google_place_id": "ChIJISTFh7WDURARYXMX1Qk4OPQ"
+    }
+  },
+  {
+    "id": "331573",
+    "name": "BOHAR SARKI",
+    "registration_area_id": "16852",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "25/01/11/005",
+    "remark": "EXISTING PU",
+    "ward_id": "16852",
+    "ward_name": "NINGO / BOHAR",
+    "local_government_id": "526",
+    "local_government_name": "AKWANGA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 9.0153173,
+      "longitude": 8.4119279,
+      "viewport": {
+        "northeast": {
+          "lat": 9.016657179892722,
+          "lng": 8.413248929892722
+        },
+        "southwest": {
+          "lat": 9.013957520107278,
+          "lng": 8.410549270107278
+        }
+      },
+      "formatted_address": "2C86+4QF, 960109, Andaha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0153173,8.4119279",
+      "google_place_id": "ChIJWfNVT1uBURARGVI6UJL4viA"
+    }
+  },
+  {
+    "id": "331574",
+    "name": "NGAH NGUN",
+    "registration_area_id": "16852",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "25/01/11/006",
+    "remark": "NEW PU",
+    "ward_id": "16852",
+    "ward_name": "NINGO / BOHAR",
+    "local_government_id": "526",
+    "local_government_name": "AKWANGA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.910542099999999,
+      "longitude": 8.3944596,
+      "viewport": {
+        "northeast": {
+          "lat": 8.91186442989272,
+          "lng": 8.39581012989272
+        },
+        "southwest": {
+          "lat": 8.909164770107276,
+          "lng": 8.393110470107276
+        }
+      },
+      "formatted_address": "W96V+6Q8, Un Named Rd, 960101, Akwanga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.910542099999999,8.3944596",
+      "google_place_id": "ChIJwRN67n6bURARRh9Ds4N5XhA"
+    }
+  },
+  {
+    "id": "331575",
+    "name": "KACHUNGBO",
+    "registration_area_id": "16852",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "25/01/11/007",
+    "remark": "NEW PU",
+    "ward_id": "16852",
+    "ward_name": "NINGO / BOHAR",
+    "local_government_id": "526",
+    "local_government_name": "AKWANGA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.916015,
+      "longitude": 8.400381,
+      "viewport": {
+        "northeast": {
+          "lat": 8.91743147989272,
+          "lng": 8.401735979892722
+        },
+        "southwest": {
+          "lat": 8.914731820107276,
+          "lng": 8.399036320107278
+        }
+      },
+      "formatted_address": "Nasarawa Akwanga AA koto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.916015,8.400381",
+      "google_place_id": "ChIJY4BvPRudURAR4VeaV6ll7E0"
+    }
+  },
+  {
+    "id": "331576",
+    "name": "NINGO SEMBE",
+    "registration_area_id": "16852",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "25/01/11/008",
+    "remark": "NEW PU",
+    "ward_id": "16852",
+    "ward_name": "NINGO / BOHAR",
+    "local_government_id": "526",
+    "local_government_name": "AKWANGA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.993701000000001,
+      "longitude": 8.4293891,
+      "viewport": {
+        "northeast": {
+          "lat": 9.0345176,
+          "lng": 8.4687319
+        },
+        "southwest": {
+          "lat": 8.9515617,
+          "lng": 8.3579311
+        }
+      },
+      "formatted_address": "Ningo / Bohar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.993701000000001,8.4293891",
+      "google_place_id": "ChIJIcmytuiDURARnfwfVywzgT0"
+    }
+  },
+  {
+    "id": "331577",
+    "name": "NGA-DAMESHI",
+    "registration_area_id": "16852",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "25/01/11/009",
+    "remark": "NEW PU",
+    "ward_id": "16852",
+    "ward_name": "NINGO / BOHAR",
+    "local_government_id": "526",
+    "local_government_name": "AKWANGA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.916015,
+      "longitude": 8.400381,
+      "viewport": {
+        "northeast": {
+          "lat": 8.91743147989272,
+          "lng": 8.401735979892722
+        },
+        "southwest": {
+          "lat": 8.914731820107276,
+          "lng": 8.399036320107278
+        }
+      },
+      "formatted_address": "Nasarawa Akwanga AA koto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.916015,8.400381",
+      "google_place_id": "ChIJY4BvPRudURAR4VeaV6ll7E0"
+    }
+  },
+  {
+    "id": "331578",
+    "name": "NGA RUWA",
+    "registration_area_id": "16852",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "25/01/11/010",
+    "remark": "NEW PU",
+    "ward_id": "16852",
+    "ward_name": "NINGO / BOHAR",
+    "local_government_id": "526",
+    "local_government_name": "AKWANGA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.916015,
+      "longitude": 8.400381,
+      "viewport": {
+        "northeast": {
+          "lat": 8.91743147989272,
+          "lng": 8.401735979892722
+        },
+        "southwest": {
+          "lat": 8.914731820107276,
+          "lng": 8.399036320107278
+        }
+      },
+      "formatted_address": "Nasarawa Akwanga AA koto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.916015,8.400381",
+      "google_place_id": "ChIJY4BvPRudURAR4VeaV6ll7E0"
+    }
+  },
+  {
+    "id": "331579",
+    "name": "NGRE",
+    "registration_area_id": "16852",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "25/01/11/011",
+    "remark": "NEW PU",
+    "ward_id": "16852",
+    "ward_name": "NINGO / BOHAR",
+    "local_government_id": "526",
+    "local_government_name": "AKWANGA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.916015,
+      "longitude": 8.400381,
+      "viewport": {
+        "northeast": {
+          "lat": 8.91743147989272,
+          "lng": 8.401735979892722
+        },
+        "southwest": {
+          "lat": 8.914731820107276,
+          "lng": 8.399036320107278
+        }
+      },
+      "formatted_address": "Nasarawa Akwanga AA koto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.916015,8.400381",
+      "google_place_id": "ChIJY4BvPRudURAR4VeaV6ll7E0"
+    }
+  },
+  {
+    "id": "331580",
+    "name": "GBUZU",
+    "registration_area_id": "16852",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "25/01/11/012",
+    "remark": "NEW PU",
+    "ward_id": "16852",
+    "ward_name": "NINGO / BOHAR",
+    "local_government_id": "526",
+    "local_government_name": "AKWANGA",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.916015,
+      "longitude": 8.400381,
+      "viewport": {
+        "northeast": {
+          "lat": 8.91743147989272,
+          "lng": 8.401735979892722
+        },
+        "southwest": {
+          "lat": 8.914731820107276,
+          "lng": 8.399036320107278
+        }
+      },
+      "formatted_address": "Nasarawa Akwanga AA koto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.916015,8.400381",
+      "google_place_id": "ChIJY4BvPRudURAR4VeaV6ll7E0"
+    }
+  }
+]

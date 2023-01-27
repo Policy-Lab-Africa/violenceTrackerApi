@@ -1,0 +1,285 @@
+[
+  {
+    "id": "98150",
+    "name": "GANGARA I GANGARA PRI.SCHOOL",
+    "registration_area_id": "4998",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/16/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4998",
+    "ward_name": "GANGARA",
+    "local_government_id": "429",
+    "local_government_name": "JIBIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0100818,
+      "longitude": 7.427319499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 13.0493284,
+          "lng": 7.4703135
+        },
+        "southwest": {
+          "lat": 12.893762,
+          "lng": 7.3713783
+        }
+      },
+      "formatted_address": "Gangara, 820104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0100818,7.427319499999999",
+      "google_place_id": "ChIJR9ho60tHsBERTe7XSuTi3go"
+    }
+  },
+  {
+    "id": "98151",
+    "name": "GANGARA II GANGARA PRI.SCHOOL",
+    "registration_area_id": "4998",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/16/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4998",
+    "ward_name": "GANGARA",
+    "local_government_id": "429",
+    "local_government_name": "JIBIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0100818,
+      "longitude": 7.427319499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 13.0493284,
+          "lng": 7.4703135
+        },
+        "southwest": {
+          "lat": 12.893762,
+          "lng": 7.3713783
+        }
+      },
+      "formatted_address": "Gangara, 820104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0100818,7.427319499999999",
+      "google_place_id": "ChIJR9ho60tHsBERTe7XSuTi3go"
+    }
+  },
+  {
+    "id": "98152",
+    "name": "KANWA I KANWA PRI.SCHOOL",
+    "registration_area_id": "4998",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/16/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4998",
+    "ward_name": "GANGARA",
+    "local_government_id": "429",
+    "local_government_name": "JIBIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.8871588,
+      "longitude": 8.7317169,
+      "viewport": {
+        "northeast": {
+          "lat": 11.88852162989272,
+          "lng": 8.733122829892721
+        },
+        "southwest": {
+          "lat": 11.88582197010728,
+          "lng": 8.730423170107278
+        }
+      },
+      "formatted_address": "7F3CVPPJ+VM8 Kanwa, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8871588,8.7317169",
+      "google_place_id": "ChIJ3aKkoDsnrBERruMGDEtwGjY"
+    }
+  },
+  {
+    "id": "98153",
+    "name": "KANWA II OPEN SPACE",
+    "registration_area_id": "4998",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/16/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4998",
+    "ward_name": "GANGARA",
+    "local_government_id": "429",
+    "local_government_name": "JIBIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98154",
+    "name": "MAJE I OPEN SPACE",
+    "registration_area_id": "4998",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/16/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4998",
+    "ward_name": "GANGARA",
+    "local_government_id": "429",
+    "local_government_name": "JIBIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98155",
+    "name": "MAJE II OPEN SPACE",
+    "registration_area_id": "4998",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/16/09/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4998",
+    "ward_name": "GANGARA",
+    "local_government_id": "429",
+    "local_government_name": "JIBIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98156",
+    "name": "TANKURI TANKURI PEI.SCHOOL",
+    "registration_area_id": "4998",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/16/09/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4998",
+    "ward_name": "GANGARA",
+    "local_government_id": "429",
+    "local_government_name": "JIBIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.1057227,
+      "longitude": 7.233231099999998,
+      "viewport": {
+        "northeast": {
+          "lat": 13.10708077989272,
+          "lng": 7.234554629892721
+        },
+        "southwest": {
+          "lat": 13.10438112010728,
+          "lng": 7.231854970107277
+        }
+      },
+      "formatted_address": "464M+77Q, 820105, Jibia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.1057227,7.233231099999998",
+      "google_place_id": "ChIJsxDwK6lnsBER73x5gbFPQ0s"
+    }
+  },
+  {
+    "id": "98157",
+    "name": "TSARAKI OPEN SPACE",
+    "registration_area_id": "4998",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/16/09/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4998",
+    "ward_name": "GANGARA",
+    "local_government_id": "429",
+    "local_government_name": "JIBIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98158",
+    "name": "JAJA OPEN SPACE",
+    "registration_area_id": "4998",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/16/09/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4998",
+    "ward_name": "GANGARA",
+    "local_government_id": "429",
+    "local_government_name": "JIBIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "98159",
+    "name": "TANKURI II PRI.SCHOOL",
+    "registration_area_id": "4998",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/16/09/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4998",
+    "ward_name": "GANGARA",
+    "local_government_id": "429",
+    "local_government_name": "JIBIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0948159,
+      "longitude": 7.226991,
+      "viewport": {
+        "northeast": {
+          "lat": 13.09617547989272,
+          "lng": 7.228346779892722
+        },
+        "southwest": {
+          "lat": 13.09347582010728,
+          "lng": 7.225647120107278
+        }
+      },
+      "formatted_address": "36VG+WQ5, 820105, Jibia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0948159,7.226991",
+      "google_place_id": "ChIJhXkgA3pnsBERO-oZkJODxcI"
+    }
+  },
+  {
+    "id": "98160",
+    "name": "GANGARA HEALTH OFFICE",
+    "registration_area_id": "4998",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/16/09/011",
+    "remark": "NEW PU",
+    "ward_id": "4998",
+    "ward_name": "GANGARA",
+    "local_government_id": "429",
+    "local_government_name": "JIBIA",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.1574,
+      "longitude": 7.5324,
+      "viewport": {
+        "northeast": {
+          "lat": 13.15875177989272,
+          "lng": 7.533732179892719
+        },
+        "southwest": {
+          "lat": 13.15605212010728,
+          "lng": 7.531032520107275
+        }
+      },
+      "formatted_address": "5G4J+XX2, 820104, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.1574,7.5324",
+      "google_place_id": "ChIJK4nsGFMRsBERO8U1iJzg2zw"
+    }
+  }
+]

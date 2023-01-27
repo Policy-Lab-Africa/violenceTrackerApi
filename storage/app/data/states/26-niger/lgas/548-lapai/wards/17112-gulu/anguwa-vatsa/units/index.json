@@ -1,0 +1,696 @@
+[
+  {
+    "id": "336862",
+    "name": "KANDI PRIMARY SCHOOL",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/12/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.644313799999999,
+      "longitude": 6.524368,
+      "viewport": {
+        "northeast": {
+          "lat": 9.645679829892721,
+          "lng": 6.525765079892722
+        },
+        "southwest": {
+          "lat": 9.642980170107277,
+          "lng": 6.523065420107278
+        }
+      },
+      "formatted_address": "London St, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.644313799999999,6.524368",
+      "google_place_id": "ChIJSeZIIZJwTBAR4CT9W2Ok-T0"
+    }
+  },
+  {
+    "id": "336863",
+    "name": "EDDO PRIMARY SCHOOL",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/12/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.558618,
+      "longitude": 6.476166999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.559895179892722,
+          "lng": 6.477437629892722
+        },
+        "southwest": {
+          "lat": 8.557195520107278,
+          "lng": 6.474737970107278
+        }
+      },
+      "formatted_address": "6FW8HF5G+CFV Eddo Gulu, Denbor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.558618,6.476166999999999",
+      "google_place_id": "ChIJk1Onm8vTThARM3PUrw4RxZw"
+    }
+  },
+  {
+    "id": "336864",
+    "name": "VATSA PRIMARY SCHOOL",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/12/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.6593959,
+      "longitude": 6.588120399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.660723529892723,
+          "lng": 6.589504529892722
+        },
+        "southwest": {
+          "lat": 8.658023870107279,
+          "lng": 6.586804870107277
+        }
+      },
+      "formatted_address": "MH5Q+Q65, 911102, Gulu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.6593959,6.588120399999999",
+      "google_place_id": "ChIJoUvP7o_FThARjURTRFXnr8Y"
+    }
+  },
+  {
+    "id": "336865",
+    "name": "GULU CENTRAL PRIMARY SCHOOL",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/12/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.6651399,
+      "longitude": 6.592486999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.666415229892722,
+          "lng": 6.593927329892721
+        },
+        "southwest": {
+          "lat": 8.663715570107279,
+          "lng": 6.591227670107277
+        }
+      },
+      "formatted_address": "MH8R+3X5, 911102, Gulu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.6651399,6.592486999999999",
+      "google_place_id": "ChIJ0VSPx5PFThAR0m5dEkU5KOc"
+    }
+  },
+  {
+    "id": "336866",
+    "name": "NDACE KOLO",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/12/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.757142,
+      "longitude": 6.5040184,
+      "viewport": {
+        "northeast": {
+          "lat": 8.75849842989272,
+          "lng": 6.505364079892721
+        },
+        "southwest": {
+          "lat": 8.755798770107276,
+          "lng": 6.502664420107277
+        }
+      },
+      "formatted_address": "6FW8QG43+RJX, Ndace 911105, Bawue, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.757142,6.5040184",
+      "google_place_id": "ChIJiz4gT2bJThARIRtC-dTe39g"
+    }
+  },
+  {
+    "id": "336867",
+    "name": "ZABBO PRIMARY SCHOOL",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/12/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.042081999999999,
+      "longitude": 6.572632,
+      "viewport": {
+        "northeast": {
+          "lat": 9.043448679892723,
+          "lng": 6.573926029892721
+        },
+        "southwest": {
+          "lat": 9.04074902010728,
+          "lng": 6.571226370107278
+        }
+      },
+      "formatted_address": "6FX82HRF+R3J Anguwan shaba Gabaskudu, 911101, Lapai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.042081999999999,6.572632",
+      "google_place_id": "ChIJjUFw-kSvThARnN6gGzX0zyc"
+    }
+  },
+  {
+    "id": "336868",
+    "name": "EWUGI PRIMARY SCHOOL",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/12/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.620185,
+      "longitude": 6.615969,
+      "viewport": {
+        "northeast": {
+          "lat": 8.621381179892722,
+          "lng": 6.617082029892722
+        },
+        "southwest": {
+          "lat": 8.618681520107279,
+          "lng": 6.614382370107278
+        }
+      },
+      "formatted_address": "6FW8JJC8+39H, Ewugi 911102, Gulu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.620185,6.615969",
+      "google_place_id": "ChIJ8dvP1mzFThARAKxCyQ08re8"
+    }
+  },
+  {
+    "id": "336869",
+    "name": "GBEDAKO PRIMARY SCHOOL",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/12/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.6103607,
+      "longitude": 6.6399386,
+      "viewport": {
+        "northeast": {
+          "lat": 8.61194707989272,
+          "lng": 6.641328079892721
+        },
+        "southwest": {
+          "lat": 8.609247420107277,
+          "lng": 6.638628420107278
+        }
+      },
+      "formatted_address": "911102, Gidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.6103607,6.6399386",
+      "google_place_id": "ChIJ7-jNp8nEThARrXWKLN2veZ8"
+    }
+  },
+  {
+    "id": "336870",
+    "name": "VULLEGBO",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "26/12/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.404858599999999,
+      "longitude": 6.7279918,
+      "viewport": {
+        "northeast": {
+          "lat": 8.590189700000002,
+          "lng": 6.837650699999999
+        },
+        "southwest": {
+          "lat": 8.2600012,
+          "lng": 6.631907
+        }
+      },
+      "formatted_address": "Gupa/Abugi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.404858599999999,6.7279918",
+      "google_place_id": "ChIJnSS-vwkgTxARFDLB4IiGss8"
+    }
+  },
+  {
+    "id": "336871",
+    "name": "GULU ANGUWA",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "26/12/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.625399,
+      "longitude": 6.5996963,
+      "viewport": {
+        "northeast": {
+          "lat": 8.7395615,
+          "lng": 6.666175300000001
+        },
+        "southwest": {
+          "lat": 8.518472,
+          "lng": 6.4383549
+        }
+      },
+      "formatted_address": "Gulu/Anguwa Vatsa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.625399,6.5996963",
+      "google_place_id": "ChIJQ1Hs177PThARD-rUSD_vyqU"
+    }
+  },
+  {
+    "id": "336872",
+    "name": "DR MU KANDI MEMORIAL PRY SCH, KANDI GBIMI",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "26/12/05/011",
+    "remark": "NEW PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.644313799999999,
+      "longitude": 6.524368,
+      "viewport": {
+        "northeast": {
+          "lat": 9.645679829892721,
+          "lng": 6.525765079892722
+        },
+        "southwest": {
+          "lat": 9.642980170107277,
+          "lng": 6.523065420107278
+        }
+      },
+      "formatted_address": "London St, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.644313799999999,6.524368",
+      "google_place_id": "ChIJSeZIIZJwTBAR4CT9W2Ok-T0"
+    }
+  },
+  {
+    "id": "336873",
+    "name": "LEA PRY SCH, KANDI GBIMI",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "26/12/05/012",
+    "remark": "NEW PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.644313799999999,
+      "longitude": 6.524368,
+      "viewport": {
+        "northeast": {
+          "lat": 9.645679829892721,
+          "lng": 6.525765079892722
+        },
+        "southwest": {
+          "lat": 9.642980170107277,
+          "lng": 6.523065420107278
+        }
+      },
+      "formatted_address": "London St, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.644313799999999,6.524368",
+      "google_place_id": "ChIJSeZIIZJwTBAR4CT9W2Ok-T0"
+    }
+  },
+  {
+    "id": "336874",
+    "name": "EKUN PRIMARY SCHOOL",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "26/12/05/013",
+    "remark": "NEW PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.566352199999999,
+      "longitude": 6.496573199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.567838029892721,
+          "lng": 6.497908679892721
+        },
+        "southwest": {
+          "lat": 8.565138370107277,
+          "lng": 6.495209020107278
+        }
+      },
+      "formatted_address": "6FW8HF8W+GJW Ekun Gulu, Emwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.566352199999999,6.496573199999999",
+      "google_place_id": "ChIJHULxFMLRThAR1mxt9_RoAsc"
+    }
+  },
+  {
+    "id": "336875",
+    "name": "GULU VATSA HEALTH CENTRE",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "26/12/05/014",
+    "remark": "NEW PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336876",
+    "name": "DAY SEC. SCH. GULU",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "26/12/05/015",
+    "remark": "NEW PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.665538,
+      "longitude": 6.5988072,
+      "viewport": {
+        "northeast": {
+          "lat": 8.66678917989272,
+          "lng": 6.600057129892723
+        },
+        "southwest": {
+          "lat": 8.664089520107277,
+          "lng": 6.597357470107279
+        }
+      },
+      "formatted_address": "6FW8MH8X+5GR, 911102, Gulu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.665538,6.5988072",
+      "google_place_id": "ChIJ58F8VvHFThARIdEewgf3qiE"
+    }
+  },
+  {
+    "id": "336877",
+    "name": "ZABBO CLINIC",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "26/12/05/016",
+    "remark": "NEW PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.5677,
+      "longitude": 6.6243999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.568872779892722,
+          "lng": 6.625260029892721
+        },
+        "southwest": {
+          "lat": 8.566173120107278,
+          "lng": 6.622560370107277
+        }
+      },
+      "formatted_address": "HJ9F+3QJ, 911102, Bidanko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5677,6.6243999",
+      "google_place_id": "ChIJnarYBwPbThARh9FNaHPK79g"
+    }
+  },
+  {
+    "id": "336878",
+    "name": "GBEDAKO PRY HEALTH CARE",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "26/12/05/017",
+    "remark": "NEW PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.644313799999999,
+      "longitude": 6.524368,
+      "viewport": {
+        "northeast": {
+          "lat": 9.645679829892721,
+          "lng": 6.525765079892722
+        },
+        "southwest": {
+          "lat": 9.642980170107277,
+          "lng": 6.523065420107278
+        }
+      },
+      "formatted_address": "London St, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.644313799999999,6.524368",
+      "google_place_id": "ChIJSeZIIZJwTBAR4CT9W2Ok-T0"
+    }
+  },
+  {
+    "id": "336879",
+    "name": "GULU MARKET",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "26/12/05/018",
+    "remark": "NEW PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.6579651,
+      "longitude": 6.5883664,
+      "viewport": {
+        "northeast": {
+          "lat": 8.659478379892722,
+          "lng": 6.589824679892723
+        },
+        "southwest": {
+          "lat": 8.656778720107278,
+          "lng": 6.587125020107279
+        }
+      },
+      "formatted_address": "OPPOSITE GULU MARKET LAPAI LOCAL GOVERNMENT AREA NIGER STATE, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.6579651,6.5883664",
+      "google_place_id": "ChIJE7IPaJrFThARTlvfkaUeNuY"
+    }
+  },
+  {
+    "id": "336880",
+    "name": "GULU TOWN HALL",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "26/12/05/019",
+    "remark": "NEW PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.6664604,
+      "longitude": 6.597026199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.674646,
+          "lng": 6.604658
+        },
+        "southwest": {
+          "lat": 8.6596459,
+          "lng": 6.590491
+        }
+      },
+      "formatted_address": "911102, Gulu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.6664604,6.597026199999999",
+      "google_place_id": "ChIJb2N7QKPFThARpxuvuijzw3o"
+    }
+  },
+  {
+    "id": "336881",
+    "name": "LAFIA KPADA PRY SCH.",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "26/12/05/020",
+    "remark": "NEW PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "336882",
+    "name": "GOVT. SCI COLL, GULU",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "26/12/05/021",
+    "remark": "NEW PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.665417999999999,
+      "longitude": 6.598866999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.66671632989272,
+          "lng": 6.600308029892722
+        },
+        "southwest": {
+          "lat": 8.664016670107276,
+          "lng": 6.597608370107277
+        }
+      },
+      "formatted_address": "6FW8MH8X+5G9, 911102, Gulu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.665417999999999,6.598866999999999",
+      "google_place_id": "ChIJW4FFkBfFThARD8BMwFE_YsY"
+    }
+  },
+  {
+    "id": "336883",
+    "name": "FAPO PRIMARY SCH.",
+    "registration_area_id": "17112",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "26/12/05/022",
+    "remark": "NEW PU",
+    "ward_id": "17112",
+    "ward_name": "GULU/ANGUWA VATSA",
+    "local_government_id": "548",
+    "local_government_name": "LAPAI",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.644313799999999,
+      "longitude": 6.524368,
+      "viewport": {
+        "northeast": {
+          "lat": 9.645679829892721,
+          "lng": 6.525765079892722
+        },
+        "southwest": {
+          "lat": 9.642980170107277,
+          "lng": 6.523065420107278
+        }
+      },
+      "formatted_address": "London St, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.644313799999999,6.524368",
+      "google_place_id": "ChIJSeZIIZJwTBAR4CT9W2Ok-T0"
+    }
+  }
+]

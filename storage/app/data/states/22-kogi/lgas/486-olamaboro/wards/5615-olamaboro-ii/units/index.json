@@ -1,0 +1,580 @@
+[
+  {
+    "id": "108579",
+    "name": "OPEN SPACE ADAMAKU, ADAMAKU I & II",
+    "registration_area_id": "5615",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "22/18/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5615",
+    "ward_name": "OLAMABORO II",
+    "local_government_id": "486",
+    "local_government_name": "OLAMABORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "108580",
+    "name": "MARKET SQUARE, OFA CENTRE/ODEITO",
+    "registration_area_id": "5615",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "22/18/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5615",
+    "ward_name": "OLAMABORO II",
+    "local_government_id": "486",
+    "local_government_name": "OLAMABORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.222232199999999,
+      "longitude": 7.5650285,
+      "viewport": {
+        "northeast": {
+          "lat": 7.223752279892722,
+          "lng": 7.566309229892721
+        },
+        "southwest": {
+          "lat": 7.221052620107278,
+          "lng": 7.563609570107277
+        }
+      },
+      "formatted_address": "6HC8+V2R, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.222232199999999,7.5650285",
+      "google_place_id": "ChIJQY-RsSE7RRARZYY5z66CB-I"
+    }
+  },
+  {
+    "id": "108581",
+    "name": "LGEA SCHOOL ETUTEKPE, ETUTEKPE",
+    "registration_area_id": "5615",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "22/18/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5615",
+    "ward_name": "OLAMABORO II",
+    "local_government_id": "486",
+    "local_government_name": "OLAMABORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.178359,
+      "longitude": 7.5771629,
+      "viewport": {
+        "northeast": {
+          "lat": 7.180106249999999,
+          "lng": 7.5800429
+        },
+        "southwest": {
+          "lat": 7.173117250000001,
+          "lng": 7.576202900000004
+        }
+      },
+      "formatted_address": "5HHG+8VV, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.178359,7.5771629",
+      "google_place_id": "ChIJWdlnsxklRRARpSVDTaUl-cU"
+    }
+  },
+  {
+    "id": "108582",
+    "name": "LGEA SCHOOL AGWODABA, AGWODABA",
+    "registration_area_id": "5615",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "22/18/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5615",
+    "ward_name": "OLAMABORO II",
+    "local_government_id": "486",
+    "local_government_name": "OLAMABORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.178359,
+      "longitude": 7.5771629,
+      "viewport": {
+        "northeast": {
+          "lat": 7.180106249999999,
+          "lng": 7.5800429
+        },
+        "southwest": {
+          "lat": 7.173117250000001,
+          "lng": 7.576202900000004
+        }
+      },
+      "formatted_address": "5HHG+8VV, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.178359,7.5771629",
+      "google_place_id": "ChIJWdlnsxklRRARpSVDTaUl-cU"
+    }
+  },
+  {
+    "id": "108583",
+    "name": "MARKET SQUARE AKPAKPA, AKPAKPA",
+    "registration_area_id": "5615",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "22/18/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5615",
+    "ward_name": "OLAMABORO II",
+    "local_government_id": "486",
+    "local_government_name": "OLAMABORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.222232199999999,
+      "longitude": 7.5650285,
+      "viewport": {
+        "northeast": {
+          "lat": 7.223752279892722,
+          "lng": 7.566309229892721
+        },
+        "southwest": {
+          "lat": 7.221052620107278,
+          "lng": 7.563609570107277
+        }
+      },
+      "formatted_address": "6HC8+V2R, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.222232199999999,7.5650285",
+      "google_place_id": "ChIJQY-RsSE7RRARZYY5z66CB-I"
+    }
+  },
+  {
+    "id": "108584",
+    "name": "OPEN SPACE AGBADUMA, AGBADUMA",
+    "registration_area_id": "5615",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "22/18/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5615",
+    "ward_name": "OLAMABORO II",
+    "local_government_id": "486",
+    "local_government_name": "OLAMABORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.222232199999999,
+      "longitude": 7.5650285,
+      "viewport": {
+        "northeast": {
+          "lat": 7.223752279892722,
+          "lng": 7.566309229892721
+        },
+        "southwest": {
+          "lat": 7.221052620107278,
+          "lng": 7.563609570107277
+        }
+      },
+      "formatted_address": "6HC8+V2R, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.222232199999999,7.5650285",
+      "google_place_id": "ChIJQY-RsSE7RRARZYY5z66CB-I"
+    }
+  },
+  {
+    "id": "108585",
+    "name": "LGEA SCHOOL IBANA, IBANA",
+    "registration_area_id": "5615",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "22/18/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5615",
+    "ward_name": "OLAMABORO II",
+    "local_government_id": "486",
+    "local_government_name": "OLAMABORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.2112965,
+      "longitude": 7.5569112,
+      "viewport": {
+        "northeast": {
+          "lat": 7.212608679892721,
+          "lng": 7.558236379892723
+        },
+        "southwest": {
+          "lat": 7.209909020107277,
+          "lng": 7.555536720107279
+        }
+      },
+      "formatted_address": "6H64+FPV, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2112965,7.5569112",
+      "google_place_id": "ChIJf4ZU8c07RRARL8_kZ31UFJo"
+    }
+  },
+  {
+    "id": "108586",
+    "name": "VILLAGE SQUARE, EJENUMU",
+    "registration_area_id": "5615",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "22/18/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5615",
+    "ward_name": "OLAMABORO II",
+    "local_government_id": "486",
+    "local_government_name": "OLAMABORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.222232199999999,
+      "longitude": 7.5650285,
+      "viewport": {
+        "northeast": {
+          "lat": 7.223752279892722,
+          "lng": 7.566309229892721
+        },
+        "southwest": {
+          "lat": 7.221052620107278,
+          "lng": 7.563609570107277
+        }
+      },
+      "formatted_address": "6HC8+V2R, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.222232199999999,7.5650285",
+      "google_place_id": "ChIJQY-RsSE7RRARZYY5z66CB-I"
+    }
+  },
+  {
+    "id": "108587",
+    "name": "LGEA SCHOOL ETUTUKPE, ETUTUKPE",
+    "registration_area_id": "5615",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "22/18/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5615",
+    "ward_name": "OLAMABORO II",
+    "local_government_id": "486",
+    "local_government_name": "OLAMABORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.178359,
+      "longitude": 7.5771629,
+      "viewport": {
+        "northeast": {
+          "lat": 7.180106249999999,
+          "lng": 7.5800429
+        },
+        "southwest": {
+          "lat": 7.173117250000001,
+          "lng": 7.576202900000004
+        }
+      },
+      "formatted_address": "5HHG+8VV, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.178359,7.5771629",
+      "google_place_id": "ChIJWdlnsxklRRARpSVDTaUl-cU"
+    }
+  },
+  {
+    "id": "108588",
+    "name": "Q.I.C. SCHOOL, OCHAJA OGO",
+    "registration_area_id": "5615",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "22/18/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5615",
+    "ward_name": "OLAMABORO II",
+    "local_government_id": "486",
+    "local_government_name": "OLAMABORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.207086100000001,
+      "longitude": 7.5574145,
+      "viewport": {
+        "northeast": {
+          "lat": 7.208460979892721,
+          "lng": 7.558678779892721
+        },
+        "southwest": {
+          "lat": 7.205761320107277,
+          "lng": 7.555979120107276
+        }
+      },
+      "formatted_address": "6H44+RXG, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.207086100000001,7.5574145",
+      "google_place_id": "ChIJx-Ynhzk7RRAR2JbsFy1wBJk"
+    }
+  },
+  {
+    "id": "108589",
+    "name": "OPEN SPACE IBANA",
+    "registration_area_id": "5615",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "22/18/07/011",
+    "remark": "NEW PU",
+    "ward_id": "5615",
+    "ward_name": "OLAMABORO II",
+    "local_government_id": "486",
+    "local_government_name": "OLAMABORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.222232199999999,
+      "longitude": 7.5650285,
+      "viewport": {
+        "northeast": {
+          "lat": 7.223752279892722,
+          "lng": 7.566309229892721
+        },
+        "southwest": {
+          "lat": 7.221052620107278,
+          "lng": 7.563609570107277
+        }
+      },
+      "formatted_address": "6HC8+V2R, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.222232199999999,7.5650285",
+      "google_place_id": "ChIJQY-RsSE7RRARZYY5z66CB-I"
+    }
+  },
+  {
+    "id": "108590",
+    "name": "ATANIGOMA CENTRE, ATANIGOMA",
+    "registration_area_id": "5615",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "22/18/07/012",
+    "remark": "NEW PU",
+    "ward_id": "5615",
+    "ward_name": "OLAMABORO II",
+    "local_government_id": "486",
+    "local_government_name": "OLAMABORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.222232199999999,
+      "longitude": 7.5650285,
+      "viewport": {
+        "northeast": {
+          "lat": 7.223752279892722,
+          "lng": 7.566309229892721
+        },
+        "southwest": {
+          "lat": 7.221052620107278,
+          "lng": 7.563609570107277
+        }
+      },
+      "formatted_address": "6HC8+V2R, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.222232199999999,7.5650285",
+      "google_place_id": "ChIJQY-RsSE7RRARZYY5z66CB-I"
+    }
+  },
+  {
+    "id": "108591",
+    "name": "OPEN SPACE EJENUMU ATE",
+    "registration_area_id": "5615",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "22/18/07/013",
+    "remark": "NEW PU",
+    "ward_id": "5615",
+    "ward_name": "OLAMABORO II",
+    "local_government_id": "486",
+    "local_government_name": "OLAMABORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.222232199999999,
+      "longitude": 7.5650285,
+      "viewport": {
+        "northeast": {
+          "lat": 7.223752279892722,
+          "lng": 7.566309229892721
+        },
+        "southwest": {
+          "lat": 7.221052620107278,
+          "lng": 7.563609570107277
+        }
+      },
+      "formatted_address": "6HC8+V2R, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.222232199999999,7.5650285",
+      "google_place_id": "ChIJQY-RsSE7RRARZYY5z66CB-I"
+    }
+  },
+  {
+    "id": "108592",
+    "name": "MARKET SQUARE ETUTEKPE",
+    "registration_area_id": "5615",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "22/18/07/014",
+    "remark": "NEW PU",
+    "ward_id": "5615",
+    "ward_name": "OLAMABORO II",
+    "local_government_id": "486",
+    "local_government_name": "OLAMABORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.222232199999999,
+      "longitude": 7.5650285,
+      "viewport": {
+        "northeast": {
+          "lat": 7.223752279892722,
+          "lng": 7.566309229892721
+        },
+        "southwest": {
+          "lat": 7.221052620107278,
+          "lng": 7.563609570107277
+        }
+      },
+      "formatted_address": "6HC8+V2R, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.222232199999999,7.5650285",
+      "google_place_id": "ChIJQY-RsSE7RRARZYY5z66CB-I"
+    }
+  },
+  {
+    "id": "108593",
+    "name": "OPEN SPACE UEC CHURCH",
+    "registration_area_id": "5615",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "22/18/07/015",
+    "remark": "NEW PU",
+    "ward_id": "5615",
+    "ward_name": "OLAMABORO II",
+    "local_government_id": "486",
+    "local_government_name": "OLAMABORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.4192645,
+      "longitude": 7.641431799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.420694929892722,
+          "lng": 7.64294032989272
+        },
+        "southwest": {
+          "lat": 7.417995270107278,
+          "lng": 7.640240670107276
+        }
+      },
+      "formatted_address": "CJ9R+PH3, Unnamed Road, 270102, Ankpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4192645,7.641431799999999",
+      "google_place_id": "ChIJ1QmrrERJRRARJTJjzWHb2Ec"
+    }
+  },
+  {
+    "id": "108594",
+    "name": "METHODIST OPEN SPACE, ODEITO",
+    "registration_area_id": "5615",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "22/18/07/016",
+    "remark": "NEW PU",
+    "ward_id": "5615",
+    "ward_name": "OLAMABORO II",
+    "local_government_id": "486",
+    "local_government_name": "OLAMABORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.222232199999999,
+      "longitude": 7.5650285,
+      "viewport": {
+        "northeast": {
+          "lat": 7.223752279892722,
+          "lng": 7.566309229892721
+        },
+        "southwest": {
+          "lat": 7.221052620107278,
+          "lng": 7.563609570107277
+        }
+      },
+      "formatted_address": "6HC8+V2R, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.222232199999999,7.5650285",
+      "google_place_id": "ChIJQY-RsSE7RRARZYY5z66CB-I"
+    }
+  },
+  {
+    "id": "108595",
+    "name": "AGWODABA YOUTH DEVT. BUS-STOP",
+    "registration_area_id": "5615",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "22/18/07/017",
+    "remark": "NEW PU",
+    "ward_id": "5615",
+    "ward_name": "OLAMABORO II",
+    "local_government_id": "486",
+    "local_government_name": "OLAMABORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.222232199999999,
+      "longitude": 7.5650285,
+      "viewport": {
+        "northeast": {
+          "lat": 7.223752279892722,
+          "lng": 7.566309229892721
+        },
+        "southwest": {
+          "lat": 7.221052620107278,
+          "lng": 7.563609570107277
+        }
+      },
+      "formatted_address": "6HC8+V2R, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.222232199999999,7.5650285",
+      "google_place_id": "ChIJQY-RsSE7RRARZYY5z66CB-I"
+    }
+  },
+  {
+    "id": "108596",
+    "name": "OPEN SPACE SABON GARI OFEJIJI",
+    "registration_area_id": "5615",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "22/18/07/018",
+    "remark": "NEW PU",
+    "ward_id": "5615",
+    "ward_name": "OLAMABORO II",
+    "local_government_id": "486",
+    "local_government_name": "OLAMABORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.222232199999999,
+      "longitude": 7.5650285,
+      "viewport": {
+        "northeast": {
+          "lat": 7.223752279892722,
+          "lng": 7.566309229892721
+        },
+        "southwest": {
+          "lat": 7.221052620107278,
+          "lng": 7.563609570107277
+        }
+      },
+      "formatted_address": "6HC8+V2R, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.222232199999999,7.5650285",
+      "google_place_id": "ChIJQY-RsSE7RRARZYY5z66CB-I"
+    }
+  }
+]

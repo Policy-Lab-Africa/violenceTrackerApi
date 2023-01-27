@@ -1,0 +1,1408 @@
+[
+  {
+    "id": "106368",
+    "name": "BARRACK I AREA COURT",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "22/05/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106369",
+    "name": "BARRACK II LGEA PRIM. SCHOOL",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "22/05/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5715843,
+      "longitude": 6.9907225,
+      "viewport": {
+        "northeast": {
+          "lat": 7.572963229892721,
+          "lng": 6.992095529892722
+        },
+        "southwest": {
+          "lat": 7.570263570107277,
+          "lng": 6.989395870107278
+        }
+      },
+      "formatted_address": "HXCR+J7Q, 272103, Abocho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5715843,6.9907225",
+      "google_place_id": "ChIJLUelT7KFRRARu-hc6quxeYo"
+    }
+  },
+  {
+    "id": "106370",
+    "name": "AJAKEYA NEAR IBOBO-EMEWE JUNCTION",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "22/05/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.485843699999999,
+      "longitude": 7.187395599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.487135729892722,
+          "lng": 7.188881829892721
+        },
+        "southwest": {
+          "lat": 7.484436070107278,
+          "lng": 7.186182170107277
+        }
+      },
+      "formatted_address": "University, Anyigba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.485843699999999,7.187395599999999",
+      "google_place_id": "ChIJ8Sc_5nsLThARDZHeroLI0Bc"
+    }
+  },
+  {
+    "id": "106371",
+    "name": "AJOBAJE OPEN SPACE",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "22/05/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5715843,
+      "longitude": 6.9907225,
+      "viewport": {
+        "northeast": {
+          "lat": 7.572963229892721,
+          "lng": 6.992095529892722
+        },
+        "southwest": {
+          "lat": 7.570263570107277,
+          "lng": 6.989395870107278
+        }
+      },
+      "formatted_address": "HXCR+J7Q, 272103, Abocho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5715843,6.9907225",
+      "google_place_id": "ChIJLUelT7KFRRARu-hc6quxeYo"
+    }
+  },
+  {
+    "id": "106372",
+    "name": "IBOBO OPEN SPACE",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "22/05/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "106373",
+    "name": "ODOMEBIE OPEN SPACE",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "22/05/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.485843699999999,
+      "longitude": 7.187395599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.487135729892722,
+          "lng": 7.188881829892721
+        },
+        "southwest": {
+          "lat": 7.484436070107278,
+          "lng": 7.186182170107277
+        }
+      },
+      "formatted_address": "University, Anyigba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.485843699999999,7.187395599999999",
+      "google_place_id": "ChIJ8Sc_5nsLThARDZHeroLI0Bc"
+    }
+  },
+  {
+    "id": "106374",
+    "name": "AJIOLO OFAGBO OPEN SPACE",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "22/05/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106375",
+    "name": "OFODA OPEN SPACE",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "22/05/06/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "106376",
+    "name": "OJUKPO  - OPEN SPACE",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "22/05/06/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106377",
+    "name": "OFAFU OPEN SPACE",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "22/05/06/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106378",
+    "name": "OJOGBA-AJADA LGEA PRIM. SCHOOL",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "22/05/06/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5715843,
+      "longitude": 6.9907225,
+      "viewport": {
+        "northeast": {
+          "lat": 7.572963229892721,
+          "lng": 6.992095529892722
+        },
+        "southwest": {
+          "lat": 7.570263570107277,
+          "lng": 6.989395870107278
+        }
+      },
+      "formatted_address": "HXCR+J7Q, 272103, Abocho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5715843,6.9907225",
+      "google_place_id": "ChIJLUelT7KFRRARu-hc6quxeYo"
+    }
+  },
+  {
+    "id": "106379",
+    "name": "AJEKELAGA CMML PRIM. SCHOOL",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "22/05/06/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5715843,
+      "longitude": 6.9907225,
+      "viewport": {
+        "northeast": {
+          "lat": 7.572963229892721,
+          "lng": 6.992095529892722
+        },
+        "southwest": {
+          "lat": 7.570263570107277,
+          "lng": 6.989395870107278
+        }
+      },
+      "formatted_address": "HXCR+J7Q, 272103, Abocho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5715843,6.9907225",
+      "google_place_id": "ChIJLUelT7KFRRARu-hc6quxeYo"
+    }
+  },
+  {
+    "id": "106380",
+    "name": "ALOKOLI LGEA PRIM. SCHOOL",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "22/05/06/013",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5715843,
+      "longitude": 6.9907225,
+      "viewport": {
+        "northeast": {
+          "lat": 7.572963229892721,
+          "lng": 6.992095529892722
+        },
+        "southwest": {
+          "lat": 7.570263570107277,
+          "lng": 6.989395870107278
+        }
+      },
+      "formatted_address": "HXCR+J7Q, 272103, Abocho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5715843,6.9907225",
+      "google_place_id": "ChIJLUelT7KFRRARu-hc6quxeYo"
+    }
+  },
+  {
+    "id": "106381",
+    "name": "AJONOJA OPEN SPACE",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "22/05/06/014",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5715843,
+      "longitude": 6.9907225,
+      "viewport": {
+        "northeast": {
+          "lat": 7.572963229892721,
+          "lng": 6.992095529892722
+        },
+        "southwest": {
+          "lat": 7.570263570107277,
+          "lng": 6.989395870107278
+        }
+      },
+      "formatted_address": "HXCR+J7Q, 272103, Abocho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5715843,6.9907225",
+      "google_place_id": "ChIJLUelT7KFRRARu-hc6quxeYo"
+    }
+  },
+  {
+    "id": "106382",
+    "name": "OKOWOWOLO OPEN SPACE",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "22/05/06/015",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "106383",
+    "name": "AJEDIMOKU LGEA PRIM. SCHOOL",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "22/05/06/016",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5715843,
+      "longitude": 6.9907225,
+      "viewport": {
+        "northeast": {
+          "lat": 7.572963229892721,
+          "lng": 6.992095529892722
+        },
+        "southwest": {
+          "lat": 7.570263570107277,
+          "lng": 6.989395870107278
+        }
+      },
+      "formatted_address": "HXCR+J7Q, 272103, Abocho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5715843,6.9907225",
+      "google_place_id": "ChIJLUelT7KFRRARu-hc6quxeYo"
+    }
+  },
+  {
+    "id": "106384",
+    "name": "OKAKWU LGEA PRIM. SCHOOL",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "22/05/06/017",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5715843,
+      "longitude": 6.9907225,
+      "viewport": {
+        "northeast": {
+          "lat": 7.572963229892721,
+          "lng": 6.992095529892722
+        },
+        "southwest": {
+          "lat": 7.570263570107277,
+          "lng": 6.989395870107278
+        }
+      },
+      "formatted_address": "HXCR+J7Q, 272103, Abocho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5715843,6.9907225",
+      "google_place_id": "ChIJLUelT7KFRRARu-hc6quxeYo"
+    }
+  },
+  {
+    "id": "106385",
+    "name": "ADIYELE LGEA PRIM. SCHOOL",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "22/05/06/018",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5715843,
+      "longitude": 6.9907225,
+      "viewport": {
+        "northeast": {
+          "lat": 7.572963229892721,
+          "lng": 6.992095529892722
+        },
+        "southwest": {
+          "lat": 7.570263570107277,
+          "lng": 6.989395870107278
+        }
+      },
+      "formatted_address": "HXCR+J7Q, 272103, Abocho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5715843,6.9907225",
+      "google_place_id": "ChIJLUelT7KFRRARu-hc6quxeYo"
+    }
+  },
+  {
+    "id": "106386",
+    "name": "AJIOLO OFALEMU OPEN SPACE",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "22/05/06/019",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5912993,
+      "longitude": 7.0057022,
+      "viewport": {
+        "northeast": {
+          "lat": 7.592648729892721,
+          "lng": 7.007051879892722
+        },
+        "southwest": {
+          "lat": 7.589949070107277,
+          "lng": 7.004352220107278
+        }
+      },
+      "formatted_address": "H2R4+G78, Agahiu street, 272103, Abocho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5912993,7.0057022",
+      "google_place_id": "ChIJwxPQa4KERRARc0igICkZBxc"
+    }
+  },
+  {
+    "id": "106387",
+    "name": "AJIOLO IGADEMU LGEA PRIM. SCHOOL",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "22/05/06/020",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5715843,
+      "longitude": 6.9907225,
+      "viewport": {
+        "northeast": {
+          "lat": 7.572963229892721,
+          "lng": 6.992095529892722
+        },
+        "southwest": {
+          "lat": 7.570263570107277,
+          "lng": 6.989395870107278
+        }
+      },
+      "formatted_address": "HXCR+J7Q, 272103, Abocho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5715843,6.9907225",
+      "google_place_id": "ChIJLUelT7KFRRARu-hc6quxeYo"
+    }
+  },
+  {
+    "id": "106388",
+    "name": "AJEGWUNA NEAR CMML CHURCH",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "22/05/06/021",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106389",
+    "name": "ATE-AJOPALUWA OPEN SPACE",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "22/05/06/022",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "106390",
+    "name": "BIRAIDU OPEN SPACE",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "22/05/06/023",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.485843699999999,
+      "longitude": 7.187395599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.487135729892722,
+          "lng": 7.188881829892721
+        },
+        "southwest": {
+          "lat": 7.484436070107278,
+          "lng": 7.186182170107277
+        }
+      },
+      "formatted_address": "University, Anyigba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.485843699999999,7.187395599999999",
+      "google_place_id": "ChIJ8Sc_5nsLThARDZHeroLI0Bc"
+    }
+  },
+  {
+    "id": "106391",
+    "name": "AJONUGBALEGU OPEN SPACE",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "22/05/06/024",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5715843,
+      "longitude": 6.9907225,
+      "viewport": {
+        "northeast": {
+          "lat": 7.572963229892721,
+          "lng": 6.992095529892722
+        },
+        "southwest": {
+          "lat": 7.570263570107277,
+          "lng": 6.989395870107278
+        }
+      },
+      "formatted_address": "HXCR+J7Q, 272103, Abocho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5715843,6.9907225",
+      "google_place_id": "ChIJLUelT7KFRRARu-hc6quxeYo"
+    }
+  },
+  {
+    "id": "106392",
+    "name": "ARABA IDOKO OPEN SPACE",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "22/05/06/025",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "106393",
+    "name": "ARABA SALIFU LGEA PRIM. SCHOOL",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "22/05/06/026",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5715843,
+      "longitude": 6.9907225,
+      "viewport": {
+        "northeast": {
+          "lat": 7.572963229892721,
+          "lng": 6.992095529892722
+        },
+        "southwest": {
+          "lat": 7.570263570107277,
+          "lng": 6.989395870107278
+        }
+      },
+      "formatted_address": "HXCR+J7Q, 272103, Abocho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5715843,6.9907225",
+      "google_place_id": "ChIJLUelT7KFRRARu-hc6quxeYo"
+    }
+  },
+  {
+    "id": "106394",
+    "name": "ARABA ABILO OPEN SPACE",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "22/05/06/027",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106395",
+    "name": "OGBOBUTU LGEA PRIM. SCHOOL",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "22/05/06/028",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5715843,
+      "longitude": 6.9907225,
+      "viewport": {
+        "northeast": {
+          "lat": 7.572963229892721,
+          "lng": 6.992095529892722
+        },
+        "southwest": {
+          "lat": 7.570263570107277,
+          "lng": 6.989395870107278
+        }
+      },
+      "formatted_address": "HXCR+J7Q, 272103, Abocho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5715843,6.9907225",
+      "google_place_id": "ChIJLUelT7KFRRARu-hc6quxeYo"
+    }
+  },
+  {
+    "id": "106396",
+    "name": "BARRACK III MARKET SQUARE",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "22/05/06/029",
+    "remark": "EXISTING PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "106397",
+    "name": "OPEN SPACE ANGWA AREA",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "22/05/06/030",
+    "remark": "NEW PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "106398",
+    "name": "OPEN SPACE AGBOKULA AREA",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "22/05/06/031",
+    "remark": "NEW PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "106399",
+    "name": "OPEN SPACE AGWUDOKO EMEWE ROAD",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "22/05/06/032",
+    "remark": "NEW PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.485843699999999,
+      "longitude": 7.187395599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.487135729892722,
+          "lng": 7.188881829892721
+        },
+        "southwest": {
+          "lat": 7.484436070107278,
+          "lng": 7.186182170107277
+        }
+      },
+      "formatted_address": "University, Anyigba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.485843699999999,7.187395599999999",
+      "google_place_id": "ChIJ8Sc_5nsLThARDZHeroLI0Bc"
+    }
+  },
+  {
+    "id": "106400",
+    "name": "OPEN SPACE UGBO KOLUBO AREA",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "22/05/06/033",
+    "remark": "NEW PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "106401",
+    "name": "OPEN SPACE CORO",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "22/05/06/034",
+    "remark": "NEW PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
+  },
+  {
+    "id": "106402",
+    "name": "B.C.S.S. ABOCHO",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "22/05/06/035",
+    "remark": "NEW PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5715843,
+      "longitude": 6.9907225,
+      "viewport": {
+        "northeast": {
+          "lat": 7.572963229892721,
+          "lng": 6.992095529892722
+        },
+        "southwest": {
+          "lat": 7.570263570107277,
+          "lng": 6.989395870107278
+        }
+      },
+      "formatted_address": "HXCR+J7Q, 272103, Abocho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5715843,6.9907225",
+      "google_place_id": "ChIJLUelT7KFRRARu-hc6quxeYo"
+    }
+  },
+  {
+    "id": "106403",
+    "name": "OPEN SPACE OFE-AFU ROAD ABOCHO",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "036",
+    "units": "036",
+    "delimitation": "22/05/06/036",
+    "remark": "NEW PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5715843,
+      "longitude": 6.9907225,
+      "viewport": {
+        "northeast": {
+          "lat": 7.572963229892721,
+          "lng": 6.992095529892722
+        },
+        "southwest": {
+          "lat": 7.570263570107277,
+          "lng": 6.989395870107278
+        }
+      },
+      "formatted_address": "HXCR+J7Q, 272103, Abocho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5715843,6.9907225",
+      "google_place_id": "ChIJLUelT7KFRRARu-hc6quxeYo"
+    }
+  },
+  {
+    "id": "106404",
+    "name": "LGEA PRIMARY SCHOOL AJUGBO",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "037",
+    "units": "037",
+    "delimitation": "22/05/06/037",
+    "remark": "NEW PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5205123,
+      "longitude": 6.9900821,
+      "viewport": {
+        "northeast": {
+          "lat": 7.52185522989272,
+          "lng": 6.991402629892721
+        },
+        "southwest": {
+          "lat": 7.519155570107277,
+          "lng": 6.988702970107277
+        }
+      },
+      "formatted_address": "GXCR+624, Dekina-Araba-Ejule Rd, 272103, Emewe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5205123,6.9900821",
+      "google_place_id": "ChIJQ00LO_ubRRARHCSQXuYbTuc"
+    }
+  },
+  {
+    "id": "106405",
+    "name": "L.G.E.A SCHOOL AJONUGBELEGU",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "038",
+    "units": "038",
+    "delimitation": "22/05/06/038",
+    "remark": "NEW PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5715843,
+      "longitude": 6.9907225,
+      "viewport": {
+        "northeast": {
+          "lat": 7.572963229892721,
+          "lng": 6.992095529892722
+        },
+        "southwest": {
+          "lat": 7.570263570107277,
+          "lng": 6.989395870107278
+        }
+      },
+      "formatted_address": "HXCR+J7Q, 272103, Abocho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5715843,6.9907225",
+      "google_place_id": "ChIJLUelT7KFRRARu-hc6quxeYo"
+    }
+  },
+  {
+    "id": "106406",
+    "name": "L.G.E.A SCHOOL ARABA ATE ABOCHO",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "039",
+    "units": "039",
+    "delimitation": "22/05/06/039",
+    "remark": "NEW PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.563902699999999,
+      "longitude": 6.6937061,
+      "viewport": {
+        "northeast": {
+          "lat": 7.565547829892722,
+          "lng": 6.694833679892722
+        },
+        "southwest": {
+          "lat": 7.562848170107278,
+          "lng": 6.692134020107278
+        }
+      },
+      "formatted_address": "HM7V+HF8, 263106, Geregu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.563902699999999,6.6937061",
+      "google_place_id": "ChIJf5Z2GXfyRRARAdZzhJ1RsJk"
+    }
+  },
+  {
+    "id": "106407",
+    "name": "HEALTH CARE CENTRE AJEKELAGA",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "040",
+    "units": "040",
+    "delimitation": "22/05/06/040",
+    "remark": "NEW PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.748963299999999,
+      "longitude": 7.292792599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.750676579892722,
+          "lng": 7.293679629892722
+        },
+        "southwest": {
+          "lat": 7.747976920107278,
+          "lng": 7.290979970107278
+        }
+      },
+      "formatted_address": "P7XV+H4M, Ojuwo- Oganenigu, Kogi, Ilain'o, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.748963299999999,7.292792599999999",
+      "google_place_id": "ChIJGeHdsEaITxAR3iXvWZUgcoQ"
+    }
+  },
+  {
+    "id": "106408",
+    "name": "PRIMARY HEALTH CARE CENTRE AJICHEMU",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "041",
+    "units": "041",
+    "delimitation": "22/05/06/041",
+    "remark": "NEW PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5626568,
+      "longitude": 7.0433191,
+      "viewport": {
+        "northeast": {
+          "lat": 7.563809679892722,
+          "lng": 7.044545029892721
+        },
+        "southwest": {
+          "lat": 7.561110020107278,
+          "lng": 7.041845370107278
+        }
+      },
+      "formatted_address": "H27V+388, 272103, Igbadim, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5626568,7.0433191",
+      "google_place_id": "ChIJg3sI3y6DRRARII6CGktbTW4"
+    }
+  },
+  {
+    "id": "106409",
+    "name": "AJEBILOMA, OPEN SPACE",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "042",
+    "units": "042",
+    "delimitation": "22/05/06/042",
+    "remark": "NEW PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.485843699999999,
+      "longitude": 7.187395599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.487135729892722,
+          "lng": 7.188881829892721
+        },
+        "southwest": {
+          "lat": 7.484436070107278,
+          "lng": 7.186182170107277
+        }
+      },
+      "formatted_address": "University, Anyigba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.485843699999999,7.187395599999999",
+      "google_place_id": "ChIJ8Sc_5nsLThARDZHeroLI0Bc"
+    }
+  },
+  {
+    "id": "106410",
+    "name": "OPEN SPACE AJIOLO OKAKWU",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "043",
+    "units": "043",
+    "delimitation": "22/05/06/043",
+    "remark": "NEW PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.4341329,
+      "longitude": 7.1272895,
+      "viewport": {
+        "northeast": {
+          "lat": 7.435515179892721,
+          "lng": 7.128691779892721
+        },
+        "southwest": {
+          "lat": 7.432815520107277,
+          "lng": 7.125992120107277
+        }
+      },
+      "formatted_address": "C4MG+MW3, 272102, Sanioko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4341329,7.1272895",
+      "google_place_id": "ChIJuxUMz691RRARSJrRtFr-Gyg"
+    }
+  },
+  {
+    "id": "106411",
+    "name": "OPEN SPACE AJIOLO ABOKO OCHE",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "044",
+    "units": "044",
+    "delimitation": "22/05/06/044",
+    "remark": "NEW PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.524473299999999,
+      "longitude": 7.163939999999998,
+      "viewport": {
+        "northeast": {
+          "lat": 7.52574612989272,
+          "lng": 7.165339179892722
+        },
+        "southwest": {
+          "lat": 7.523046470107277,
+          "lng": 7.162639520107279
+        }
+      },
+      "formatted_address": "G5F7+QHP, 272102, Anyigba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.524473299999999,7.163939999999998",
+      "google_place_id": "ChIJ9Qf9VA13RRAR8aLdI5ag7ps"
+    }
+  },
+  {
+    "id": "106412",
+    "name": "PRIMARY HEALTH CARE CENTRE OJOGBA OKI",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "045",
+    "units": "045",
+    "delimitation": "22/05/06/045",
+    "remark": "NEW PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.748963299999999,
+      "longitude": 7.292792599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.750676579892722,
+          "lng": 7.293679629892722
+        },
+        "southwest": {
+          "lat": 7.747976920107278,
+          "lng": 7.290979970107278
+        }
+      },
+      "formatted_address": "P7XV+H4M, Ojuwo- Oganenigu, Kogi, Ilain'o, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.748963299999999,7.292792599999999",
+      "google_place_id": "ChIJGeHdsEaITxAR3iXvWZUgcoQ"
+    }
+  },
+  {
+    "id": "106413",
+    "name": "L.G.E.A PRIMARY SCHOOK OKO ATE",
+    "registration_area_id": "5468",
+    "precise_location": null,
+    "abbreviation": "046",
+    "units": "046",
+    "delimitation": "22/05/06/046",
+    "remark": "NEW PU",
+    "ward_id": "5468",
+    "ward_name": "ABOCHO",
+    "local_government_id": "473",
+    "local_government_name": "DEKINA",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.770176099999999,
+      "longitude": 7.0498442,
+      "viewport": {
+        "northeast": {
+          "lat": 7.771370129892723,
+          "lng": 7.053316699999999
+        },
+        "southwest": {
+          "lat": 7.76867047010728,
+          "lng": 7.048686700000001
+        }
+      },
+      "formatted_address": "1,Shidaku Road, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.770176099999999,7.0498442",
+      "google_place_id": "ChIJN6arHA9_TxARBSVtBvOnPnI"
+    }
+  }
+]

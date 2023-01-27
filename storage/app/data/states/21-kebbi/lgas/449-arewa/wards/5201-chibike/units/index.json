@@ -1,0 +1,350 @@
+[
+  {
+    "id": "101841",
+    "name": "CHIBIKE BABBA PRIMARY SCHOOL (CHIBIKE BABBA)",
+    "registration_area_id": "5201",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "21/02/02/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5201",
+    "ward_name": "CHIBIKE",
+    "local_government_id": "449",
+    "local_government_name": "AREWA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 41.9280817,
+      "longitude": -79.6374082,
+      "viewport": {
+        "northeast": {
+          "lat": 41.92940452989272,
+          "lng": -79.63573377010728
+        },
+        "southwest": {
+          "lat": 41.92670487010728,
+          "lng": -79.63843342989273
+        }
+      },
+      "formatted_address": "423 Wayne St, Corry, PA 16407, United States",
+      "google_map_url": "https://maps.google.com?q=41.9280817,-79.6374082",
+      "google_place_id": "ChIJ3WX1UrKkMogRfJc8SZXABKg"
+    }
+  },
+  {
+    "id": "101842",
+    "name": "CHIBIKE PRIMARY SCHOOL (CHIBIKE ILLELA)",
+    "registration_area_id": "5201",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "21/02/02/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5201",
+    "ward_name": "CHIBIKE",
+    "local_government_id": "449",
+    "local_government_name": "AREWA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "101843",
+    "name": "DOGONDAJI PRIMARY SCHOOL (DOGON DAJI )",
+    "registration_area_id": "5201",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "21/02/02/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5201",
+    "ward_name": "CHIBIKE",
+    "local_government_id": "449",
+    "local_government_name": "AREWA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "101844",
+    "name": "FAWANGU PRIMARY SCHOOL (FAWANGU )",
+    "registration_area_id": "5201",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "21/02/02/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5201",
+    "ward_name": "CHIBIKE",
+    "local_government_id": "449",
+    "local_government_name": "AREWA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4531107,
+      "longitude": 4.189360199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45441337989272,
+          "lng": 4.190519629892721
+        },
+        "southwest": {
+          "lat": 12.45171372010728,
+          "lng": 4.187819970107277
+        }
+      },
+      "formatted_address": "Buhari Bala Model Primary School, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4531107,4.189360199999999",
+      "google_place_id": "ChIJrRJS7j4TyRERznZ1OT9n0is"
+    }
+  },
+  {
+    "id": "101845",
+    "name": "FARSANGU PRIMARY SCHOOL (FARSANGU )",
+    "registration_area_id": "5201",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "21/02/02/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5201",
+    "ward_name": "CHIBIKE",
+    "local_government_id": "449",
+    "local_government_name": "AREWA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4531107,
+      "longitude": 4.189360199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45441337989272,
+          "lng": 4.190519629892721
+        },
+        "southwest": {
+          "lat": 12.45171372010728,
+          "lng": 4.187819970107277
+        }
+      },
+      "formatted_address": "Buhari Bala Model Primary School, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4531107,4.189360199999999",
+      "google_place_id": "ChIJrRJS7j4TyRERznZ1OT9n0is"
+    }
+  },
+  {
+    "id": "101846",
+    "name": "MARAKE PRIMARY SCHOOL (MARAKE)",
+    "registration_area_id": "5201",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "21/02/02/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5201",
+    "ward_name": "CHIBIKE",
+    "local_government_id": "449",
+    "local_government_name": "AREWA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4678668,
+      "longitude": 4.199189899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.46921467989272,
+          "lng": 4.200602229892722
+        },
+        "southwest": {
+          "lat": 12.46651502010728,
+          "lng": 4.197902570107278
+        }
+      },
+      "formatted_address": "F59X+4MR, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4678668,4.199189899999999",
+      "google_place_id": "ChIJ6cK4RWATyRERgK119FLk0nw"
+    }
+  },
+  {
+    "id": "101847",
+    "name": "RAMBA PRIMARY SCHOOL (RAMBA MAMMAN)",
+    "registration_area_id": "5201",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "21/02/02/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5201",
+    "ward_name": "CHIBIKE",
+    "local_government_id": "449",
+    "local_government_name": "AREWA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": -0.4528259,
+      "longitude": 34.0529564,
+      "viewport": {
+        "northeast": {
+          "lat": -0.4516105201072778,
+          "lng": 34.05418642989273
+        },
+        "southwest": {
+          "lat": -0.4543101798927222,
+          "lng": 34.05148677010728
+        }
+      },
+      "formatted_address": "G3W3+W63, Sena-Kakiimba Road, Sena Centre, Kenya",
+      "google_map_url": "https://maps.google.com?q=-0.4528259,34.0529564",
+      "google_place_id": "ChIJsasTtoEd1RkRX7-lHgcGXCQ"
+    }
+  },
+  {
+    "id": "101848",
+    "name": "TURMIN DUTSE PRIMARY SCHOOL (TURMIN DUTSE)",
+    "registration_area_id": "5201",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "21/02/02/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5201",
+    "ward_name": "CHIBIKE",
+    "local_government_id": "449",
+    "local_government_name": "AREWA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4530713,
+      "longitude": 4.1902307,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45471137989272,
+          "lng": 4.191531279892722
+        },
+        "southwest": {
+          "lat": 12.45201172010728,
+          "lng": 4.188831620107278
+        }
+      },
+      "formatted_address": "F53R+63H, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4530713,4.1902307",
+      "google_place_id": "ChIJSzyc9ysTyRERxNr7mwE7hVQ"
+    }
+  },
+  {
+    "id": "101849",
+    "name": "UNGUWAR MUZA PRIMARY SCHOOL (U/MUZA)",
+    "registration_area_id": "5201",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "21/02/02/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5201",
+    "ward_name": "CHIBIKE",
+    "local_government_id": "449",
+    "local_government_name": "AREWA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.446053,
+      "longitude": 4.193711,
+      "viewport": {
+        "northeast": {
+          "lat": 12.44739992989272,
+          "lng": 4.195069729892722
+        },
+        "southwest": {
+          "lat": 12.44470027010728,
+          "lng": 4.192370070107279
+        }
+      },
+      "formatted_address": "C5PV+52, Jaga Road, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.446053,4.193711",
+      "google_place_id": "ChIJc-d1BQYTyRER0Ukmxecm_tE"
+    }
+  },
+  {
+    "id": "101850",
+    "name": "KOHOBI PRIMARY SCHOOL (U/ZARMAKWAI)",
+    "registration_area_id": "5201",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "21/02/02/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5201",
+    "ward_name": "CHIBIKE",
+    "local_government_id": "449",
+    "local_government_name": "AREWA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4458568,
+      "longitude": 4.2261237,
+      "viewport": {
+        "northeast": {
+          "lat": 12.44716447989272,
+          "lng": 4.227326829892722
+        },
+        "southwest": {
+          "lat": 12.44446482010728,
+          "lng": 4.224627170107278
+        }
+      },
+      "formatted_address": "C6WG+8CX, Sani Abacha Bye Pass, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4458568,4.2261237",
+      "google_place_id": "ChIJBR69IiwTyRERLPf8i4jVLFw"
+    }
+  },
+  {
+    "id": "101851",
+    "name": "ERI PRIMARY SCHOOL (ERI)",
+    "registration_area_id": "5201",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "21/02/02/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5201",
+    "ward_name": "CHIBIKE",
+    "local_government_id": "449",
+    "local_government_name": "AREWA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "101852",
+    "name": "UNGUWAR CHUFA PRI. SCH.",
+    "registration_area_id": "5201",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "21/02/02/012",
+    "remark": "NEW PU",
+    "ward_id": "5201",
+    "ward_name": "CHIBIKE",
+    "local_government_id": "449",
+    "local_government_name": "AREWA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4531107,
+      "longitude": 4.189360199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45441337989272,
+          "lng": 4.190519629892721
+        },
+        "southwest": {
+          "lat": 12.45171372010728,
+          "lng": 4.187819970107277
+        }
+      },
+      "formatted_address": "Buhari Bala Model Primary School, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4531107,4.189360199999999",
+      "google_place_id": "ChIJrRJS7j4TyRERznZ1OT9n0is"
+    }
+  }
+]

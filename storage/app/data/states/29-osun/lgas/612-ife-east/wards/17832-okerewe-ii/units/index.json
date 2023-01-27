@@ -1,0 +1,432 @@
+[
+  {
+    "id": "349912",
+    "name": "AKODI AMODO, ITAKOGUN AREA",
+    "registration_area_id": "17832",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "29/13/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17832",
+    "ward_name": "OKEREWE  II",
+    "local_government_id": "612",
+    "local_government_name": "IFE EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "349913",
+    "name": "AKODI JAGUDU, OTUTU AREA",
+    "registration_area_id": "17832",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "29/13/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17832",
+    "ward_name": "OKEREWE  II",
+    "local_government_id": "612",
+    "local_government_name": "IFE EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4804486,
+      "longitude": 4.5720696,
+      "viewport": {
+        "northeast": {
+          "lat": 7.481815679892724,
+          "lng": 4.573336229892722
+        },
+        "southwest": {
+          "lat": 7.47911602010728,
+          "lng": 4.570636570107278
+        }
+      },
+      "formatted_address": "FHJC+5QP, 220112, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4804486,4.5720696",
+      "google_place_id": "ChIJY_nG5-c5OBAR4Rjbvo1v9Yg"
+    }
+  },
+  {
+    "id": "349914",
+    "name": "AKODI OLUGBODO, GBODO STREET",
+    "registration_area_id": "17832",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "29/13/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17832",
+    "ward_name": "OKEREWE  II",
+    "local_government_id": "612",
+    "local_government_name": "IFE EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4804486,
+      "longitude": 4.5720696,
+      "viewport": {
+        "northeast": {
+          "lat": 7.481815679892724,
+          "lng": 4.573336229892722
+        },
+        "southwest": {
+          "lat": 7.47911602010728,
+          "lng": 4.570636570107278
+        }
+      },
+      "formatted_address": "FHJC+5QP, 220112, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4804486,4.5720696",
+      "google_place_id": "ChIJY_nG5-c5OBAR4Rjbvo1v9Yg"
+    }
+  },
+  {
+    "id": "349915",
+    "name": "AKODI WUNMONIJE, OTUTU AREA",
+    "registration_area_id": "17832",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "29/13/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17832",
+    "ward_name": "OKEREWE  II",
+    "local_government_id": "612",
+    "local_government_name": "IFE EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4821976,
+      "longitude": 4.5602666,
+      "viewport": {
+        "northeast": {
+          "lat": 7.483640929892724,
+          "lng": 4.561520929892723
+        },
+        "southwest": {
+          "lat": 7.48094127010728,
+          "lng": 4.558821270107279
+        }
+      },
+      "formatted_address": "FHJ6+V4C, 220101, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4821976,4.5602666",
+      "google_place_id": "ChIJ__-_qV83OBAR_Sdkra_pXkM"
+    }
+  },
+  {
+    "id": "349916",
+    "name": "AKODI LADELATAN LAFOGIDO STREET",
+    "registration_area_id": "17832",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "29/13/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17832",
+    "ward_name": "OKEREWE  II",
+    "local_government_id": "612",
+    "local_government_name": "IFE EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4821976,
+      "longitude": 4.5602666,
+      "viewport": {
+        "northeast": {
+          "lat": 7.483640929892724,
+          "lng": 4.561520929892723
+        },
+        "southwest": {
+          "lat": 7.48094127010728,
+          "lng": 4.558821270107279
+        }
+      },
+      "formatted_address": "FHJ6+V4C, 220101, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4821976,4.5602666",
+      "google_place_id": "ChIJ__-_qV83OBAR_Sdkra_pXkM"
+    }
+  },
+  {
+    "id": "349917",
+    "name": "AKODI OKITI, GBODO STREET",
+    "registration_area_id": "17832",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "29/13/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17832",
+    "ward_name": "OKEREWE  II",
+    "local_government_id": "612",
+    "local_government_name": "IFE EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4804486,
+      "longitude": 4.5720696,
+      "viewport": {
+        "northeast": {
+          "lat": 7.481815679892724,
+          "lng": 4.573336229892722
+        },
+        "southwest": {
+          "lat": 7.47911602010728,
+          "lng": 4.570636570107278
+        }
+      },
+      "formatted_address": "FHJC+5QP, 220112, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4804486,4.5720696",
+      "google_place_id": "ChIJY_nG5-c5OBAR4Rjbvo1v9Yg"
+    }
+  },
+  {
+    "id": "349918",
+    "name": "AKODI AGIDI I, AJAMOPO STREET",
+    "registration_area_id": "17832",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "29/13/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "17832",
+    "ward_name": "OKEREWE  II",
+    "local_government_id": "612",
+    "local_government_name": "IFE EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4821976,
+      "longitude": 4.5602666,
+      "viewport": {
+        "northeast": {
+          "lat": 7.483640929892724,
+          "lng": 4.561520929892723
+        },
+        "southwest": {
+          "lat": 7.48094127010728,
+          "lng": 4.558821270107279
+        }
+      },
+      "formatted_address": "FHJ6+V4C, 220101, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4821976,4.5602666",
+      "google_place_id": "ChIJ__-_qV83OBAR_Sdkra_pXkM"
+    }
+  },
+  {
+    "id": "349919",
+    "name": "AKODI AGIDI II, AJAMOPO STREET",
+    "registration_area_id": "17832",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "29/13/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "17832",
+    "ward_name": "OKEREWE  II",
+    "local_government_id": "612",
+    "local_government_name": "IFE EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4804486,
+      "longitude": 4.5720696,
+      "viewport": {
+        "northeast": {
+          "lat": 7.481815679892724,
+          "lng": 4.573336229892722
+        },
+        "southwest": {
+          "lat": 7.47911602010728,
+          "lng": 4.570636570107278
+        }
+      },
+      "formatted_address": "FHJC+5QP, 220112, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4804486,4.5720696",
+      "google_place_id": "ChIJY_nG5-c5OBAR4Rjbvo1v9Yg"
+    }
+  },
+  {
+    "id": "349920",
+    "name": "P.S.P. PRY. SCHOOL, EDENA STREET",
+    "registration_area_id": "17832",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "29/13/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "17832",
+    "ward_name": "OKEREWE  II",
+    "local_government_id": "612",
+    "local_government_name": "IFE EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.482672699999999,
+      "longitude": 4.5697543,
+      "viewport": {
+        "northeast": {
+          "lat": 7.483954729892721,
+          "lng": 4.571104829892722
+        },
+        "southwest": {
+          "lat": 7.481255070107277,
+          "lng": 4.568405170107278
+        }
+      },
+      "formatted_address": "FHM9+3WR, 220112, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.482672699999999,4.5697543",
+      "google_place_id": "ChIJGRZE-uY5OBARF9TBNHBdiII"
+    }
+  },
+  {
+    "id": "349921",
+    "name": "OPEN SPACE INFRONT OF AKODI ADAGBA",
+    "registration_area_id": "17832",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "29/13/05/010",
+    "remark": "NEW PU",
+    "ward_id": "17832",
+    "ward_name": "OKEREWE  II",
+    "local_government_id": "612",
+    "local_government_name": "IFE EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4804486,
+      "longitude": 4.5720696,
+      "viewport": {
+        "northeast": {
+          "lat": 7.481815679892724,
+          "lng": 4.573336229892722
+        },
+        "southwest": {
+          "lat": 7.47911602010728,
+          "lng": 4.570636570107278
+        }
+      },
+      "formatted_address": "FHJC+5QP, 220112, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4804486,4.5720696",
+      "google_place_id": "ChIJY_nG5-c5OBAR4Rjbvo1v9Yg"
+    }
+  },
+  {
+    "id": "349922",
+    "name": "OPEN SPACE INFRONT OF AKODI WANMISANNI, OKE OKUTA",
+    "registration_area_id": "17832",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "29/13/05/011",
+    "remark": "NEW PU",
+    "ward_id": "17832",
+    "ward_name": "OKEREWE  II",
+    "local_government_id": "612",
+    "local_government_name": "IFE EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": null
+  },
+  {
+    "id": "349923",
+    "name": "AKODI LOWA ATOFERU AJAMAPO STREET",
+    "registration_area_id": "17832",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "29/13/05/012",
+    "remark": "NEW PU",
+    "ward_id": "17832",
+    "ward_name": "OKEREWE  II",
+    "local_government_id": "612",
+    "local_government_name": "IFE EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4982225,
+      "longitude": 4.568406899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.499166429892721,
+          "lng": 4.569723479892722
+        },
+        "southwest": {
+          "lat": 7.496466770107277,
+          "lng": 4.567023820107278
+        }
+      },
+      "formatted_address": "Ile Ife Aladanla Line 1,Ilesha Rd, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4982225,4.568406899999999",
+      "google_place_id": "ChIJ3Y2RZgI5OBARFk6XZOVK0S4"
+    }
+  },
+  {
+    "id": "349924",
+    "name": "OPEN SPACE INFRONT OF AKODI OBIRI AJAMAPO STREET",
+    "registration_area_id": "17832",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "29/13/05/013",
+    "remark": "NEW PU",
+    "ward_id": "17832",
+    "ward_name": "OKEREWE  II",
+    "local_government_id": "612",
+    "local_government_name": "IFE EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4821976,
+      "longitude": 4.5602666,
+      "viewport": {
+        "northeast": {
+          "lat": 7.483640929892724,
+          "lng": 4.561520929892723
+        },
+        "southwest": {
+          "lat": 7.48094127010728,
+          "lng": 4.558821270107279
+        }
+      },
+      "formatted_address": "FHJ6+V4C, 220101, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4821976,4.5602666",
+      "google_place_id": "ChIJ__-_qV83OBAR_Sdkra_pXkM"
+    }
+  },
+  {
+    "id": "349925",
+    "name": "AKODA AROAJIN LAFOGIDO",
+    "registration_area_id": "17832",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "29/13/05/014",
+    "remark": "NEW PU",
+    "ward_id": "17832",
+    "ward_name": "OKEREWE  II",
+    "local_government_id": "612",
+    "local_government_name": "IFE EAST",
+    "state_id": "29",
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4821976,
+      "longitude": 4.5602666,
+      "viewport": {
+        "northeast": {
+          "lat": 7.483640929892724,
+          "lng": 4.561520929892723
+        },
+        "southwest": {
+          "lat": 7.48094127010728,
+          "lng": 4.558821270107279
+        }
+      },
+      "formatted_address": "FHJ6+V4C, 220101, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4821976,4.5602666",
+      "google_place_id": "ChIJ__-_qV83OBAR_Sdkra_pXkM"
+    }
+  }
+]

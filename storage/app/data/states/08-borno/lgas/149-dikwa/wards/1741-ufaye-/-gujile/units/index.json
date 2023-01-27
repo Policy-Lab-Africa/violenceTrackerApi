@@ -1,0 +1,186 @@
+[
+  {
+    "id": "32320",
+    "name": "UFAYE PRI. SCH.",
+    "registration_area_id": "1741",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "08/08/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "1741",
+    "ward_name": "UFAYE / GUJILE",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8629004,
+      "longitude": 13.1304005,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86437362989272,
+          "lng": 13.13155152989272
+        },
+        "southwest": {
+          "lat": 11.86167397010728,
+          "lng": 13.12885187010728
+        }
+      },
+      "formatted_address": "V47J+556, Bolori 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8629004,13.1304005",
+      "google_place_id": "ChIJiw3BrOWZBBERSHYf3cQLuPI"
+    }
+  },
+  {
+    "id": "32321",
+    "name": "CHIGIDE",
+    "registration_area_id": "1741",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "08/08/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "1741",
+    "ward_name": "UFAYE / GUJILE",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32322",
+    "name": "BULANGUWA FADABE",
+    "registration_area_id": "1741",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "08/08/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "1741",
+    "ward_name": "UFAYE / GUJILE",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.0438319,
+      "longitude": 13.9111794,
+      "viewport": {
+        "northeast": {
+          "lat": 12.04539447989272,
+          "lng": 13.91243147989272
+        },
+        "southwest": {
+          "lat": 12.04269482010728,
+          "lng": 13.90973182010728
+        }
+      },
+      "formatted_address": "2WV6+GFG, 611101, Dikwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0438319,13.9111794",
+      "google_place_id": "ChIJ4ej_W69BGxER2gCCcApHm30"
+    }
+  },
+  {
+    "id": "32323",
+    "name": "KOIBE KURA",
+    "registration_area_id": "1741",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "08/08/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "1741",
+    "ward_name": "UFAYE / GUJILE",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.0438319,
+      "longitude": 13.9111794,
+      "viewport": {
+        "northeast": {
+          "lat": 12.04539447989272,
+          "lng": 13.91243147989272
+        },
+        "southwest": {
+          "lat": 12.04269482010728,
+          "lng": 13.90973182010728
+        }
+      },
+      "formatted_address": "2WV6+GFG, 611101, Dikwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0438319,13.9111794",
+      "google_place_id": "ChIJ4ej_W69BGxER2gCCcApHm30"
+    }
+  },
+  {
+    "id": "32324",
+    "name": "GOLE YE",
+    "registration_area_id": "1741",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "08/08/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "1741",
+    "ward_name": "UFAYE / GUJILE",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32325",
+    "name": "KASHIMIRI",
+    "registration_area_id": "1741",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "08/08/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "1741",
+    "ward_name": "UFAYE / GUJILE",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32326",
+    "name": "ARDORI",
+    "registration_area_id": "1741",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "08/08/04/007",
+    "remark": "EXISTING PU",
+    "ward_id": "1741",
+    "ward_name": "UFAYE / GUJILE",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  },
+  {
+    "id": "32327",
+    "name": "BONE CROSS DANDAL",
+    "registration_area_id": "1741",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "08/08/04/008",
+    "remark": "EXISTING PU",
+    "ward_id": "1741",
+    "ward_name": "UFAYE / GUJILE",
+    "local_government_id": "149",
+    "local_government_name": "DIKWA",
+    "state_id": "8",
+    "state_name": "BORNO",
+    "location": null
+  }
+]

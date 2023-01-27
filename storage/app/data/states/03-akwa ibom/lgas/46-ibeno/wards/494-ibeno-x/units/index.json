@@ -1,0 +1,184 @@
+[
+  {
+    "id": "9210",
+    "name": "VILLAGE SQUARE, ESUK IKIM EKEME",
+    "registration_area_id": "494",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "03/08/10/001",
+    "remark": "EXISTING PU",
+    "ward_id": "494",
+    "ward_name": "IBENO X",
+    "local_government_id": "46",
+    "local_government_name": "IBENO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.5443416,
+      "longitude": 8.0505936,
+      "viewport": {
+        "northeast": {
+          "lat": 4.545691429892721,
+          "lng": 8.05194342989272
+        },
+        "southwest": {
+          "lat": 4.542991770107277,
+          "lng": 8.049243770107276
+        }
+      },
+      "formatted_address": "G3V2+P6P, 524110, Kwa Ibo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5443416,8.0505936",
+      "google_place_id": "ChIJO91-lXbGZxAR8zanj2ovQKU"
+    }
+  },
+  {
+    "id": "9211",
+    "name": "VILLAGE SQUARE, ITAK AFAHA",
+    "registration_area_id": "494",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "03/08/10/002",
+    "remark": "EXISTING PU",
+    "ward_id": "494",
+    "ward_name": "IBENO X",
+    "local_government_id": "46",
+    "local_government_name": "IBENO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.5466679,
+      "longitude": 8.1631804,
+      "viewport": {
+        "northeast": {
+          "lat": 4.548017729892722,
+          "lng": 8.164530229892723
+        },
+        "southwest": {
+          "lat": 4.545318070107278,
+          "lng": 8.161830570107279
+        }
+      },
+      "formatted_address": "G5W7+M77, 524110, Kwa Ibo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5466679,8.1631804",
+      "google_place_id": "ChIJ5cUZzkS4ZxARP630-yu49i4"
+    }
+  },
+  {
+    "id": "9212",
+    "name": "TOWN HALL, ITAK IDIM NNE EKPE",
+    "registration_area_id": "494",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "03/08/10/003",
+    "remark": "EXISTING PU",
+    "ward_id": "494",
+    "ward_name": "IBENO X",
+    "local_government_id": "46",
+    "local_government_name": "IBENO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": null
+  },
+  {
+    "id": "9213",
+    "name": "TOWN HALL, ESUK IKIM AKWAHA",
+    "registration_area_id": "494",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "03/08/10/004",
+    "remark": "EXISTING PU",
+    "ward_id": "494",
+    "ward_name": "IBENO X",
+    "local_government_id": "46",
+    "local_government_name": "IBENO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0218541,
+      "longitude": 7.922816,
+      "viewport": {
+        "northeast": {
+          "lat": 5.023170929892722,
+          "lng": 7.924210929892721
+        },
+        "southwest": {
+          "lat": 5.020471270107278,
+          "lng": 7.921511270107277
+        }
+      },
+      "formatted_address": "107 Aka Rd, 520241, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0218541,7.922816",
+      "google_place_id": "ChIJiT76QmniZxAR2LDv4sCCRms"
+    }
+  },
+  {
+    "id": "9214",
+    "name": "TOWN HALL, NDITO EKA IBA",
+    "registration_area_id": "494",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "03/08/10/005",
+    "remark": "EXISTING PU",
+    "ward_id": "494",
+    "ward_name": "IBENO X",
+    "local_government_id": "46",
+    "local_government_name": "IBENO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.5462465,
+      "longitude": 8.081299099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.547596329892722,
+          "lng": 8.082648929892722
+        },
+        "southwest": {
+          "lat": 4.544896670107278,
+          "lng": 8.079949270107278
+        }
+      },
+      "formatted_address": "G3WJ+FGV, 524110, Kwa Ibo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5462465,8.081299099999999",
+      "google_place_id": "ChIJNxmCuk_GZxAReCNJ4DyelHc"
+    }
+  },
+  {
+    "id": "9215",
+    "name": "TOWN HALL, OKOM  ITA",
+    "registration_area_id": "494",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "03/08/10/006",
+    "remark": "EXISTING PU",
+    "ward_id": "494",
+    "ward_name": "IBENO X",
+    "local_government_id": "46",
+    "local_government_name": "IBENO",
+    "state_id": "3",
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0218541,
+      "longitude": 7.922816,
+      "viewport": {
+        "northeast": {
+          "lat": 5.023170929892722,
+          "lng": 7.924210929892721
+        },
+        "southwest": {
+          "lat": 5.020471270107278,
+          "lng": 7.921511270107277
+        }
+      },
+      "formatted_address": "107 Aka Rd, 520241, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0218541,7.922816",
+      "google_place_id": "ChIJiT76QmniZxAR2LDv4sCCRms"
+    }
+  }
+]

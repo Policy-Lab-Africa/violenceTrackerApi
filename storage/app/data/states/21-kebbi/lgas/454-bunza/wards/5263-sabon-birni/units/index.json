@@ -1,0 +1,234 @@
+[
+  {
+    "id": "103108",
+    "name": "SABON-BIRNI  SABON-BIRNI",
+    "registration_area_id": "5263",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "21/07/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5263",
+    "ward_name": "SABON BIRNI",
+    "local_government_id": "454",
+    "local_government_name": "BUNZA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.2126488,
+      "longitude": 4.1206748,
+      "viewport": {
+        "northeast": {
+          "lat": 12.2680655,
+          "lng": 4.159564
+        },
+        "southwest": {
+          "lat": 12.1549139,
+          "lng": 4.0757319
+        }
+      },
+      "formatted_address": "Sabon Birni, 862101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2126488,4.1206748",
+      "google_place_id": "ChIJySoDyTFmyRERUMyy5apLEUk"
+    }
+  },
+  {
+    "id": "103109",
+    "name": "GARAFITA   GARATIFA",
+    "registration_area_id": "5263",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "21/07/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5263",
+    "ward_name": "SABON BIRNI",
+    "local_government_id": "454",
+    "local_government_name": "BUNZA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.3330063,
+      "longitude": 4.1552852,
+      "viewport": {
+        "northeast": {
+          "lat": 12.33436087989272,
+          "lng": 4.156618529892723
+        },
+        "southwest": {
+          "lat": 12.33166122010728,
+          "lng": 4.153918870107279
+        }
+      },
+      "formatted_address": "85M4+643, Birnin Kebbi Kalgo Rd, 862104, Kalgo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3330063,4.1552852",
+      "google_place_id": "ChIJ3ygmyrBtyRERDwbkPrYA-VI"
+    }
+  },
+  {
+    "id": "103110",
+    "name": "BORO   BORO",
+    "registration_area_id": "5263",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "21/07/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5263",
+    "ward_name": "SABON BIRNI",
+    "local_government_id": "454",
+    "local_government_name": "BUNZA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.2126488,
+      "longitude": 4.1206748,
+      "viewport": {
+        "northeast": {
+          "lat": 12.2680655,
+          "lng": 4.159564
+        },
+        "southwest": {
+          "lat": 12.1549139,
+          "lng": 4.0757319
+        }
+      },
+      "formatted_address": "Sabon Birni, 862101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2126488,4.1206748",
+      "google_place_id": "ChIJySoDyTFmyRERUMyy5apLEUk"
+    }
+  },
+  {
+    "id": "103111",
+    "name": "LOKO    LOKO",
+    "registration_area_id": "5263",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "21/07/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5263",
+    "ward_name": "SABON BIRNI",
+    "local_government_id": "454",
+    "local_government_name": "BUNZA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.1951923,
+      "longitude": 4.119076199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.1982581,
+          "lng": 4.120283
+        },
+        "southwest": {
+          "lat": 12.1923581,
+          "lng": 4.1164219
+        }
+      },
+      "formatted_address": "862101, Loko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1951923,4.119076199999999",
+      "google_place_id": "ChIJHT--K09myRERVE_QG1c56ko"
+    }
+  },
+  {
+    "id": "103112",
+    "name": "T/BORE    T/BORE",
+    "registration_area_id": "5263",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "21/07/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5263",
+    "ward_name": "SABON BIRNI",
+    "local_government_id": "454",
+    "local_government_name": "BUNZA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "103113",
+    "name": "JDSS SABON BIRNI",
+    "registration_area_id": "5263",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "21/07/06/006",
+    "remark": "NEW PU",
+    "ward_id": "5263",
+    "ward_name": "SABON BIRNI",
+    "local_government_id": "454",
+    "local_government_name": "BUNZA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.2126488,
+      "longitude": 4.1206748,
+      "viewport": {
+        "northeast": {
+          "lat": 12.2680655,
+          "lng": 4.159564
+        },
+        "southwest": {
+          "lat": 12.1549139,
+          "lng": 4.0757319
+        }
+      },
+      "formatted_address": "Sabon Birni, 862101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2126488,4.1206748",
+      "google_place_id": "ChIJySoDyTFmyRERUMyy5apLEUk"
+    }
+  },
+  {
+    "id": "103114",
+    "name": "LOKO PRIMARY B",
+    "registration_area_id": "5263",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "21/07/06/007",
+    "remark": "NEW PU",
+    "ward_id": "5263",
+    "ward_name": "SABON BIRNI",
+    "local_government_id": "454",
+    "local_government_name": "BUNZA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "103115",
+    "name": "SHIKADU PRIMARY SCHOOL",
+    "registration_area_id": "5263",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "21/07/06/008",
+    "remark": "NEW PU",
+    "ward_id": "5263",
+    "ward_name": "SABON BIRNI",
+    "local_government_id": "454",
+    "local_government_name": "BUNZA",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 13.1890138,
+      "longitude": 5.4952719,
+      "viewport": {
+        "northeast": {
+          "lat": 13.19041577989272,
+          "lng": 5.496583129892722
+        },
+        "southwest": {
+          "lat": 13.18771612010728,
+          "lng": 5.493883470107278
+        }
+      },
+      "formatted_address": "5FQW+J42, Unnamed Road, Sabun Birnin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.1890138,5.4952719",
+      "google_place_id": "ChIJmVJoYcuXtxERRkc83vDWa7g"
+    }
+  }
+]

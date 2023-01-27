@@ -1,0 +1,335 @@
+[
+  {
+    "id": "109713",
+    "name": "COMM SCH SHARE",
+    "registration_area_id": "5710",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "23/05/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5710",
+    "ward_name": "SHARE 1",
+    "local_government_id": "494",
+    "local_government_name": "IFELODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.821379499999999,
+      "longitude": 4.978016999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.822352679892722,
+          "lng": 4.979180329892722
+        },
+        "southwest": {
+          "lat": 8.819653020107278,
+          "lng": 4.976480670107278
+        }
+      },
+      "formatted_address": "RXCH+H62, LGA, 241107, Share, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.821379499999999,4.978016999999999",
+      "google_place_id": "ChIJn49GFUsfNhAR17KyWUc1u6c"
+    }
+  },
+  {
+    "id": "109714",
+    "name": "ILE BALE OJABUTU SHARE",
+    "registration_area_id": "5710",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "23/05/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5710",
+    "ward_name": "SHARE 1",
+    "local_government_id": "494",
+    "local_government_name": "IFELODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109715",
+    "name": "ILE GARBA SOJA SHARE",
+    "registration_area_id": "5710",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "23/05/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5710",
+    "ward_name": "SHARE 1",
+    "local_government_id": "494",
+    "local_government_name": "IFELODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109716",
+    "name": "SHAYO L.G.E.A SCH SHARE",
+    "registration_area_id": "5710",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "23/05/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5710",
+    "ward_name": "SHARE 1",
+    "local_government_id": "494",
+    "local_government_name": "IFELODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.821379499999999,
+      "longitude": 4.978016999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.822352679892722,
+          "lng": 4.979180329892722
+        },
+        "southwest": {
+          "lat": 8.819653020107278,
+          "lng": 4.976480670107278
+        }
+      },
+      "formatted_address": "RXCH+H62, LGA, 241107, Share, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.821379499999999,4.978016999999999",
+      "google_place_id": "ChIJn49GFUsfNhAR17KyWUc1u6c"
+    }
+  },
+  {
+    "id": "109717",
+    "name": "AREA COURT SHARE",
+    "registration_area_id": "5710",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "23/05/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5710",
+    "ward_name": "SHARE 1",
+    "local_government_id": "494",
+    "local_government_name": "IFELODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.819862100000002,
+      "longitude": 4.9769649,
+      "viewport": {
+        "northeast": {
+          "lat": 8.821245429892723,
+          "lng": 4.978353779892722
+        },
+        "southwest": {
+          "lat": 8.81854577010728,
+          "lng": 4.975654120107278
+        }
+      },
+      "formatted_address": "RX9G+WQW, 241107, Share, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.819862100000002,4.9769649",
+      "google_place_id": "ChIJcfCNqUwfNhARKGTQ5lUfwfA"
+    }
+  },
+  {
+    "id": "109718",
+    "name": "ILE ONIBI SHARE",
+    "registration_area_id": "5710",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "23/05/09/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5710",
+    "ward_name": "SHARE 1",
+    "local_government_id": "494",
+    "local_government_name": "IFELODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109719",
+    "name": "ILE  BALE 11 SHARE",
+    "registration_area_id": "5710",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "23/05/09/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5710",
+    "ward_name": "SHARE 1",
+    "local_government_id": "494",
+    "local_government_name": "IFELODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109720",
+    "name": "ILE  ADEBIOPON  SHARE",
+    "registration_area_id": "5710",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "23/05/09/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5710",
+    "ward_name": "SHARE 1",
+    "local_government_id": "494",
+    "local_government_name": "IFELODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109721",
+    "name": "OPEN SPACE BOJI BAALE, SHARE",
+    "registration_area_id": "5710",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "23/05/09/009",
+    "remark": "NEW PU",
+    "ward_id": "5710",
+    "ward_name": "SHARE 1",
+    "local_government_id": "494",
+    "local_government_name": "IFELODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109722",
+    "name": "ADESHINA COLLEGE OF EDUCATION, SHARE",
+    "registration_area_id": "5710",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "23/05/09/010",
+    "remark": "NEW PU",
+    "ward_id": "5710",
+    "ward_name": "SHARE 1",
+    "local_government_id": "494",
+    "local_government_name": "IFELODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.8228183,
+      "longitude": 4.9688589,
+      "viewport": {
+        "northeast": {
+          "lat": 8.824160979892723,
+          "lng": 4.970179579892722
+        },
+        "southwest": {
+          "lat": 8.821461320107279,
+          "lng": 4.967479920107278
+        }
+      },
+      "formatted_address": "Share - Okeode, Share, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8228183,4.9688589",
+      "google_place_id": "ChIJIRWfia4ZNhARmixpsm3vBoI"
+    }
+  },
+  {
+    "id": "109723",
+    "name": "COMMUNITY PRIMARY SCH.APATA AJE",
+    "registration_area_id": "5710",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "23/05/09/011",
+    "remark": "NEW PU",
+    "ward_id": "5710",
+    "ward_name": "SHARE 1",
+    "local_government_id": "494",
+    "local_government_name": "IFELODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.821379499999999,
+      "longitude": 4.978016999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.822352679892722,
+          "lng": 4.979180329892722
+        },
+        "southwest": {
+          "lat": 8.819653020107278,
+          "lng": 4.976480670107278
+        }
+      },
+      "formatted_address": "RXCH+H62, LGA, 241107, Share, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.821379499999999,4.978016999999999",
+      "google_place_id": "ChIJn49GFUsfNhAR17KyWUc1u6c"
+    }
+  },
+  {
+    "id": "109724",
+    "name": "GENERAL HOSPITAL OPEN SPACE SHARE",
+    "registration_area_id": "5710",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "23/05/09/012",
+    "remark": "NEW PU",
+    "ward_id": "5710",
+    "ward_name": "SHARE 1",
+    "local_government_id": "494",
+    "local_government_name": "IFELODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.480015999999999,
+      "longitude": 4.5610743,
+      "viewport": {
+        "northeast": {
+          "lat": 8.481588279892723,
+          "lng": 4.562434829892721
+        },
+        "southwest": {
+          "lat": 8.478888620107279,
+          "lng": 4.559735170107277
+        }
+      },
+      "formatted_address": "5 Unity Rd, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.480015999999999,4.5610743",
+      "google_place_id": "ChIJL3RbqMJSNhARzjNoa9t_pjo"
+    }
+  },
+  {
+    "id": "109725",
+    "name": "CAC PRIMARY & SECONDARY SCH. SHARE",
+    "registration_area_id": "5710",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "23/05/09/013",
+    "remark": "NEW PU",
+    "ward_id": "5710",
+    "ward_name": "SHARE 1",
+    "local_government_id": "494",
+    "local_government_name": "IFELODUN",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 7.446358,
+      "longitude": 4.790128000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.447707829892722,
+          "lng": 4.791477829892723
+        },
+        "southwest": {
+          "lat": 7.445008170107278,
+          "lng": 4.788778170107279
+        }
+      },
+      "formatted_address": "CQWR+G3R, 233112, Faro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.446358,4.790128000000001",
+      "google_place_id": "ChIJ3xgHLo0UOBARooUoTPuWQTE"
+    }
+  }
+]

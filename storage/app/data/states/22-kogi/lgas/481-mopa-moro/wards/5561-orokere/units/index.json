@@ -1,0 +1,250 @@
+[
+  {
+    "id": "107719",
+    "name": "OROKERE BUS STOP AREA",
+    "registration_area_id": "5561",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "22/13/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5561",
+    "ward_name": "OROKERE",
+    "local_government_id": "481",
+    "local_government_name": "MOPA MORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": null
+  },
+  {
+    "id": "107720",
+    "name": "OROKERE POLICE STATION FRONTAGE",
+    "registration_area_id": "5561",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "22/13/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5561",
+    "ward_name": "OROKERE",
+    "local_government_id": "481",
+    "local_government_name": "MOPA MORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.103049,
+      "longitude": 5.893485,
+      "viewport": {
+        "northeast": {
+          "lat": 8.104406379892724,
+          "lng": 5.894701379892721
+        },
+        "southwest": {
+          "lat": 8.10170672010728,
+          "lng": 5.892001720107277
+        }
+      },
+      "formatted_address": "4V3V+699, 262101, Mopa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.103049,5.893485",
+      "google_place_id": "ChIJ1-uJtfjzSBARdnevoNHTK7s"
+    }
+  },
+  {
+    "id": "107721",
+    "name": "ALEFERE",
+    "registration_area_id": "5561",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "22/13/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5561",
+    "ward_name": "OROKERE",
+    "local_government_id": "481",
+    "local_government_name": "MOPA MORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.1131555,
+      "longitude": 5.893741899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.114557679892721,
+          "lng": 5.895101429892722
+        },
+        "southwest": {
+          "lat": 8.111858020107277,
+          "lng": 5.892401770107278
+        }
+      },
+      "formatted_address": "4V7V+7F9, 262101, Mopa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1131555,5.893741899999999",
+      "google_place_id": "ChIJP6UHn4rzSBARoqfH01evQGQ"
+    }
+  },
+  {
+    "id": "107722",
+    "name": "OROKERE LGEA SCH. I. EFFO",
+    "registration_area_id": "5561",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "22/13/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5561",
+    "ward_name": "OROKERE",
+    "local_government_id": "481",
+    "local_government_name": "MOPA MORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.1104959,
+      "longitude": 5.890794,
+      "viewport": {
+        "northeast": {
+          "lat": 8.111868829892723,
+          "lng": 5.891858679892722
+        },
+        "southwest": {
+          "lat": 8.109169170107279,
+          "lng": 5.889159020107278
+        }
+      },
+      "formatted_address": "4V6R+58V, 262101, Mopa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1104959,5.890794",
+      "google_place_id": "ChIJIcwtxdPzSBAR1Wn881N66r4"
+    }
+  },
+  {
+    "id": "107723",
+    "name": "OROKERE LGEA SCHOOL II EFFO",
+    "registration_area_id": "5561",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "22/13/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5561",
+    "ward_name": "OROKERE",
+    "local_government_id": "481",
+    "local_government_name": "MOPA MORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.1104959,
+      "longitude": 5.890794,
+      "viewport": {
+        "northeast": {
+          "lat": 8.111868829892723,
+          "lng": 5.891858679892722
+        },
+        "southwest": {
+          "lat": 8.109169170107279,
+          "lng": 5.889159020107278
+        }
+      },
+      "formatted_address": "4V6R+58V, 262101, Mopa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1104959,5.890794",
+      "google_place_id": "ChIJIcwtxdPzSBAR1Wn881N66r4"
+    }
+  },
+  {
+    "id": "107724",
+    "name": "OROKERE, OPEN SPACE ALONG TAKETE ROAD",
+    "registration_area_id": "5561",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "22/13/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5561",
+    "ward_name": "OROKERE",
+    "local_government_id": "481",
+    "local_government_name": "MOPA MORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.1131555,
+      "longitude": 5.893741899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.114557679892721,
+          "lng": 5.895101429892722
+        },
+        "southwest": {
+          "lat": 8.111858020107277,
+          "lng": 5.892401770107278
+        }
+      },
+      "formatted_address": "4V7V+7F9, 262101, Mopa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1131555,5.893741899999999",
+      "google_place_id": "ChIJP6UHn4rzSBARoqfH01evQGQ"
+    }
+  },
+  {
+    "id": "107725",
+    "name": "OROKERE OLD SITE",
+    "registration_area_id": "5561",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "22/13/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5561",
+    "ward_name": "OROKERE",
+    "local_government_id": "481",
+    "local_government_name": "MOPA MORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.103049,
+      "longitude": 5.893485,
+      "viewport": {
+        "northeast": {
+          "lat": 8.104406379892724,
+          "lng": 5.894701379892721
+        },
+        "southwest": {
+          "lat": 8.10170672010728,
+          "lng": 5.892001720107277
+        }
+      },
+      "formatted_address": "4V3V+699, 262101, Mopa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.103049,5.893485",
+      "google_place_id": "ChIJ1-uJtfjzSBARdnevoNHTK7s"
+    }
+  },
+  {
+    "id": "107726",
+    "name": "OPEN SPACE, BY AIYEDE SETTLERS EFFO",
+    "registration_area_id": "5561",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "22/13/06/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5561",
+    "ward_name": "OROKERE",
+    "local_government_id": "481",
+    "local_government_name": "MOPA MORO",
+    "state_id": "22",
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.1104959,
+      "longitude": 5.890794,
+      "viewport": {
+        "northeast": {
+          "lat": 8.111868829892723,
+          "lng": 5.891858679892722
+        },
+        "southwest": {
+          "lat": 8.109169170107279,
+          "lng": 5.889159020107278
+        }
+      },
+      "formatted_address": "4V6R+58V, 262101, Mopa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1104959,5.890794",
+      "google_place_id": "ChIJIcwtxdPzSBAR1Wn881N66r4"
+    }
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "id": "102597",
+    "name": "MATSINKAI",
+    "registration_area_id": "5240",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "21/05/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5240",
+    "ward_name": "MATSINKA/GEZA",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4591485,
+      "longitude": 4.3051542,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4918471,
+          "lng": 4.406825
+        },
+        "southwest": {
+          "lat": 11.40216,
+          "lng": 4.1780693
+        }
+      },
+      "formatted_address": "Matsinkai Geza, 871101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4591485,4.3051542",
+      "google_place_id": "ChIJsedldvWuyxERKMKrj1OtF2M"
+    }
+  },
+  {
+    "id": "102598",
+    "name": "FARDA",
+    "registration_area_id": "5240",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "21/05/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5240",
+    "ward_name": "MATSINKA/GEZA",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4170263,
+      "longitude": 4.206108299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.420078,
+          "lng": 4.208203
+        },
+        "southwest": {
+          "lat": 11.414519,
+          "lng": 4.204413
+        }
+      },
+      "formatted_address": "871101, Tunga Farda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4170263,4.206108299999999",
+      "google_place_id": "ChIJMYJy7cSlyxERFDCObYu_Hj8"
+    }
+  },
+  {
+    "id": "102599",
+    "name": "BARGAWA",
+    "registration_area_id": "5240",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "21/05/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5240",
+    "ward_name": "MATSINKA/GEZA",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4342431,
+      "longitude": 4.2400643,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4418929,
+          "lng": 4.244126
+        },
+        "southwest": {
+          "lat": 11.43298,
+          "lng": 4.237991
+        }
+      },
+      "formatted_address": "871101, Bargawa Tunga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4342431,4.2400643",
+      "google_place_id": "ChIJDSZS1XqvyxERqCDsnN3NDos"
+    }
+  },
+  {
+    "id": "102600",
+    "name": "ZUGUN - BAGUDU",
+    "registration_area_id": "5240",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "21/05/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5240",
+    "ward_name": "MATSINKA/GEZA",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4531206,
+      "longitude": 4.2814176,
+      "viewport": {
+        "northeast": {
+          "lat": 11.455291,
+          "lng": 4.2845539
+        },
+        "southwest": {
+          "lat": 11.450697,
+          "lng": 4.278801
+        }
+      },
+      "formatted_address": "871101, Zugun Bagudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4531206,4.2814176",
+      "google_place_id": "ChIJIYE52lauyxERWZEXn0MoJcg"
+    }
+  },
+  {
+    "id": "102601",
+    "name": "ILLELA",
+    "registration_area_id": "5240",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "21/05/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5240",
+    "ward_name": "MATSINKA/GEZA",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102602",
+    "name": "TUNGAN JIBBO",
+    "registration_area_id": "5240",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "21/05/09/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5240",
+    "ward_name": "MATSINKA/GEZA",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": null
+  },
+  {
+    "id": "102603",
+    "name": "BAHINDI",
+    "registration_area_id": "5240",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "21/05/09/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5240",
+    "ward_name": "MATSINKA/GEZA",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4644596,
+      "longitude": 4.1827363,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4720591,
+          "lng": 4.185185
+        },
+        "southwest": {
+          "lat": 11.462691,
+          "lng": 4.177136
+        }
+      },
+      "formatted_address": "871104, Bahindi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4644596,4.1827363",
+      "google_place_id": "ChIJQZYbuuikyxERFJnyqHdhgn4"
+    }
+  },
+  {
+    "id": "102604",
+    "name": "GEZA",
+    "registration_area_id": "5240",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "21/05/09/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5240",
+    "ward_name": "MATSINKA/GEZA",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4008163,
+      "longitude": 4.2256464,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4169289,
+          "lng": 4.2334321
+        },
+        "southwest": {
+          "lat": 11.390856,
+          "lng": 4.2101361
+        }
+      },
+      "formatted_address": "871101, Baguda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4008163,4.2256464",
+      "google_place_id": "ChIJdfr_1wGmyxERJRNyyLVW-3Q"
+    }
+  },
+  {
+    "id": "102605",
+    "name": "ADAWA PRIMARY SCHOOL",
+    "registration_area_id": "5240",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "21/05/09/009",
+    "remark": "NEW PU",
+    "ward_id": "5240",
+    "ward_name": "MATSINKA/GEZA",
+    "local_government_id": "452",
+    "local_government_name": "BAGUDO",
+    "state_id": "21",
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 2.8164208,
+      "longitude": 40.9262864,
+      "viewport": {
+        "northeast": {
+          "lat": 2.817763179892722,
+          "lng": 40.92761007989272
+        },
+        "southwest": {
+          "lat": 2.815063520107278,
+          "lng": 40.92491042010727
+        }
+      },
+      "formatted_address": "RW8G+HGF, El Wak, Kenya",
+      "google_map_url": "https://maps.google.com?q=2.8164208,40.9262864",
+      "google_place_id": "ChIJj8SwwXR17BcRdMy2UdTXr0U"
+    }
+  }
+]

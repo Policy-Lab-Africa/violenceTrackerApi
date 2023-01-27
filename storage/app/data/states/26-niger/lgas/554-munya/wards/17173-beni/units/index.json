@@ -1,0 +1,103 @@
+[
+  {
+    "id": "338000",
+    "name": "BENI GWARI",
+    "registration_area_id": "17173",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/18/01/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17173",
+    "ward_name": "BENI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6375373,
+      "longitude": 7.2043281,
+      "viewport": {
+        "northeast": {
+          "lat": 9.638916329892721,
+          "lng": 7.205650429892722
+        },
+        "southwest": {
+          "lat": 9.636216670107277,
+          "lng": 7.202950770107278
+        }
+      },
+      "formatted_address": "920104, Beni, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6375373,7.2043281",
+      "google_place_id": "ChIJWbmryNyxTRARxFdUnKhEoq4"
+    }
+  },
+  {
+    "id": "338001",
+    "name": "BENI HAUSA",
+    "registration_area_id": "17173",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/18/01/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17173",
+    "ward_name": "BENI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338002",
+    "name": "KUBI",
+    "registration_area_id": "17173",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/18/01/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17173",
+    "ward_name": "BENI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338003",
+    "name": "GWADARE",
+    "registration_area_id": "17173",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/18/01/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17173",
+    "ward_name": "BENI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "338004",
+    "name": "UNG. SARKIN KORO",
+    "registration_area_id": "17173",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/18/01/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17173",
+    "ward_name": "BENI",
+    "local_government_id": "554",
+    "local_government_name": "MUNYA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  }
+]

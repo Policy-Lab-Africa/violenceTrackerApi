@@ -1,0 +1,568 @@
+[
+  {
+    "id": "81041",
+    "name": "`KARREH NORTH/ K/G UNGUWA",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "18/15/06/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "81042",
+    "name": "KARREH UNG. SARKI/ PRI.SCH.",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "18/15/06/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.8021686,
+      "longitude": 8.156051099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.80351337989272,
+          "lng": 8.157502329892722
+        },
+        "southwest": {
+          "lat": 10.80081372010728,
+          "lng": 8.154802670107278
+        }
+      },
+      "formatted_address": "R524+VC7, 811108, Unguwan Dabo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8021686,8.156051099999999",
+      "google_place_id": "ChIJQ6NeeRM_rRERErENDbpLEmY"
+    }
+  },
+  {
+    "id": "81043",
+    "name": "KARREH SOUTH/ PRI. SCH.",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "18/15/06/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.8021686,
+      "longitude": 8.156051099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.80351337989272,
+          "lng": 8.157502329892722
+        },
+        "southwest": {
+          "lat": 10.80081372010728,
+          "lng": 8.154802670107278
+        }
+      },
+      "formatted_address": "R524+VC7, 811108, Unguwan Dabo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8021686,8.156051099999999",
+      "google_place_id": "ChIJQ6NeeRM_rRERErENDbpLEmY"
+    }
+  },
+  {
+    "id": "81044",
+    "name": "GAJA GAJA I/ K/G UNGUWA",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "18/15/06/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "81045",
+    "name": "GAJA GAJA II/ K/G UNGUWA",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "18/15/06/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "81046",
+    "name": "MAIKALANGU/ K/G UNGUWA",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "18/15/06/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "81047",
+    "name": "MATANGI/ PRI.SCH.",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "18/15/06/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.8021686,
+      "longitude": 8.156051099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.80351337989272,
+          "lng": 8.157502329892722
+        },
+        "southwest": {
+          "lat": 10.80081372010728,
+          "lng": 8.154802670107278
+        }
+      },
+      "formatted_address": "R524+VC7, 811108, Unguwan Dabo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8021686,8.156051099999999",
+      "google_place_id": "ChIJQ6NeeRM_rRERErENDbpLEmY"
+    }
+  },
+  {
+    "id": "81048",
+    "name": "KADAWA/ K/G UNGUWA",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "18/15/06/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "81049",
+    "name": "RAFIN DODO/ K/G UNGUWA",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "18/15/06/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "81050",
+    "name": "HAYIN DOGO/ PRI. SCH.",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "18/15/06/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5116514,
+      "longitude": 7.4412682,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51301307989272,
+          "lng": 7.442675979892722
+        },
+        "southwest": {
+          "lat": 10.51031342010728,
+          "lng": 7.439976320107278
+        }
+      },
+      "formatted_address": "45 Independence Way, Kakuri 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5116514,7.4412682",
+      "google_place_id": "ChIJRTox1aFKTRARNMsoHwcqHio"
+    }
+  },
+  {
+    "id": "81051",
+    "name": "NASARU I/ PRI. SCH.",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "18/15/06/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.8021686,
+      "longitude": 8.156051099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.80351337989272,
+          "lng": 8.157502329892722
+        },
+        "southwest": {
+          "lat": 10.80081372010728,
+          "lng": 8.154802670107278
+        }
+      },
+      "formatted_address": "R524+VC7, 811108, Unguwan Dabo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8021686,8.156051099999999",
+      "google_place_id": "ChIJQ6NeeRM_rRERErENDbpLEmY"
+    }
+  },
+  {
+    "id": "81052",
+    "name": "NASARU II/ PRI. SCH.",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "18/15/06/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.8021686,
+      "longitude": 8.156051099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.80351337989272,
+          "lng": 8.157502329892722
+        },
+        "southwest": {
+          "lat": 10.80081372010728,
+          "lng": 8.154802670107278
+        }
+      },
+      "formatted_address": "R524+VC7, 811108, Unguwan Dabo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8021686,8.156051099999999",
+      "google_place_id": "ChIJQ6NeeRM_rRERErENDbpLEmY"
+    }
+  },
+  {
+    "id": "81053",
+    "name": "DANLADI I/ PRI. SCH.",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "18/15/06/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.6850774,
+      "longitude": 8.341774599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.68642747989272,
+          "lng": 8.343121979892723
+        },
+        "southwest": {
+          "lat": 10.68372782010728,
+          "lng": 8.34042232010728
+        }
+      },
+      "formatted_address": "7F2CM8PR+2PJ, Danladi Yunusa Rd, Karreh 800282, Pambeguwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6850774,8.341774599999999",
+      "google_place_id": "ChIJpwDaFskvrRERQB0VXof2Ubk"
+    }
+  },
+  {
+    "id": "81054",
+    "name": "DANLADI II/ PRI. SCH.",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "18/15/06/014",
+    "remark": "EXISTING PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.6850774,
+      "longitude": 8.341774599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.68642747989272,
+          "lng": 8.343121979892723
+        },
+        "southwest": {
+          "lat": 10.68372782010728,
+          "lng": 8.34042232010728
+        }
+      },
+      "formatted_address": "7F2CM8PR+2PJ, Danladi Yunusa Rd, Karreh 800282, Pambeguwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6850774,8.341774599999999",
+      "google_place_id": "ChIJpwDaFskvrRERQB0VXof2Ubk"
+    }
+  },
+  {
+    "id": "81055",
+    "name": "UNG. MATO/ K/G UNGUWA",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "18/15/06/015",
+    "remark": "EXISTING PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "81056",
+    "name": "UNG. S. BAKA/ K/G UNGUWA",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "18/15/06/016",
+    "remark": "EXISTING PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "81057",
+    "name": "KAMFANIN JIDDA/ K/G UNGUWA",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "18/15/06/017",
+    "remark": "EXISTING PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  },
+  {
+    "id": "81058",
+    "name": "UBE PRI. SCH. TUDUN GAIYA",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "18/15/06/018",
+    "remark": "NEW PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.8021686,
+      "longitude": 8.156051099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.80351337989272,
+          "lng": 8.157502329892722
+        },
+        "southwest": {
+          "lat": 10.80081372010728,
+          "lng": 8.154802670107278
+        }
+      },
+      "formatted_address": "R524+VC7, 811108, Unguwan Dabo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8021686,8.156051099999999",
+      "google_place_id": "ChIJQ6NeeRM_rRERErENDbpLEmY"
+    }
+  },
+  {
+    "id": "81059",
+    "name": "UBE PRI. SCHOOL KODORO",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "18/15/06/019",
+    "remark": "NEW PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.7735933,
+      "longitude": 8.3475576,
+      "viewport": {
+        "northeast": {
+          "lat": 10.77499832989272,
+          "lng": 8.34883732989272
+        },
+        "southwest": {
+          "lat": 10.77229867010728,
+          "lng": 8.346137670107277
+        }
+      },
+      "formatted_address": "7F2CQ8FW+CX5 Kodoro Karreh Kaduna Kare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7735933,8.3475576",
+      "google_place_id": "ChIJDf8vLFElrREREIZNP9rpIYs"
+    }
+  },
+  {
+    "id": "81060",
+    "name": "UBE PRI SCH. KADAWAN AMAWA",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "18/15/06/020",
+    "remark": "NEW PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.8021686,
+      "longitude": 8.156051099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.80351337989272,
+          "lng": 8.157502329892722
+        },
+        "southwest": {
+          "lat": 10.80081372010728,
+          "lng": 8.154802670107278
+        }
+      },
+      "formatted_address": "R524+VC7, 811108, Unguwan Dabo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8021686,8.156051099999999",
+      "google_place_id": "ChIJQ6NeeRM_rRERErENDbpLEmY"
+    }
+  },
+  {
+    "id": "81061",
+    "name": "NASARU DISPENSARY GADA",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "18/15/06/021",
+    "remark": "NEW PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.463234,
+      "longitude": 7.448497799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.46458327989272,
+          "lng": 7.449874629892723
+        },
+        "southwest": {
+          "lat": 10.46188362010728,
+          "lng": 7.447174970107279
+        }
+      },
+      "formatted_address": "High Cost, Unity Plaza, No 76 King Hassan Street, Barnawa 800104, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.463234,7.448497799999999",
+      "google_place_id": "ChIJaZiHn_hLTRARnPuCFIr-3fY"
+    }
+  },
+  {
+    "id": "81062",
+    "name": "UNG. MATO JANBULO SUTO",
+    "registration_area_id": "4251",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "18/15/06/022",
+    "remark": "NEW PU",
+    "ward_id": "4251",
+    "ward_name": "KARREH",
+    "local_government_id": "361",
+    "local_government_name": "KUBAU",
+    "state_id": "18",
+    "state_name": "KADUNA",
+    "location": null
+  }
+]

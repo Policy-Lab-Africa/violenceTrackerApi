@@ -1,0 +1,569 @@
+[
+  {
+    "id": "109853",
+    "name": "BALOGUN GAMBARI TAX OFFICE I",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "23/06/02/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.5030369,
+      "longitude": 4.5508381,
+      "viewport": {
+        "northeast": {
+          "lat": 8.506554099999999,
+          "lng": 4.553306699999999
+        },
+        "southwest": {
+          "lat": 8.4982104,
+          "lng": 4.547723899999999
+        }
+      },
+      "formatted_address": "Gambari 1, 240101, Oko Erin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5030369,4.5508381",
+      "google_place_id": "ChIJ-7SskGJSNhARFTiiUus0ICU"
+    }
+  },
+  {
+    "id": "109854",
+    "name": "BALOGUN GAMBARI TAX OFFICE II",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "23/06/02/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.5030369,
+      "longitude": 4.5508381,
+      "viewport": {
+        "northeast": {
+          "lat": 8.506554099999999,
+          "lng": 4.553306699999999
+        },
+        "southwest": {
+          "lat": 8.4982104,
+          "lng": 4.547723899999999
+        }
+      },
+      "formatted_address": "Gambari 1, 240101, Oko Erin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5030369,4.5508381",
+      "google_place_id": "ChIJ-7SskGJSNhARFTiiUus0ICU"
+    }
+  },
+  {
+    "id": "109855",
+    "name": "OPPOSITE ITA AJIA",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "23/06/02/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.497931000000001,
+      "longitude": 4.548582,
+      "viewport": {
+        "northeast": {
+          "lat": 8.499481329892722,
+          "lng": 4.549882879892722
+        },
+        "southwest": {
+          "lat": 8.496781670107278,
+          "lng": 4.547183220107278
+        }
+      },
+      "formatted_address": "Ita ajia, Surulere Rd, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.497931000000001,4.548582",
+      "google_place_id": "ChIJswNLbIlSNhARVHY6eAIiFxg"
+    }
+  },
+  {
+    "id": "109856",
+    "name": "OPEN SPACE MASANKORE",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "23/06/02/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109857",
+    "name": "ODE KOLAWOLE I",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "23/06/02/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109858",
+    "name": "ODE KOLAWOLE II",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "23/06/02/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109859",
+    "name": "ITA MAGAJI",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "23/06/02/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.500093699999999,
+      "longitude": 4.5463464,
+      "viewport": {
+        "northeast": {
+          "lat": 8.501435829892722,
+          "lng": 4.547722829892721
+        },
+        "southwest": {
+          "lat": 8.498736170107279,
+          "lng": 4.545023170107277
+        }
+      },
+      "formatted_address": "Idi-Ape, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.500093699999999,4.5463464",
+      "google_place_id": "ChIJvfAPGRFTNhARWZP_d5WwI1k"
+    }
+  },
+  {
+    "id": "109860",
+    "name": "ODE AJIBADE",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "23/06/02/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109861",
+    "name": "ODE JAPA (KORO TAPA)",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "23/06/02/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109862",
+    "name": "ODE ILE NLA AKANLABI",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "23/06/02/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109863",
+    "name": "AWODI MARKET I",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "23/06/02/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.5026981,
+      "longitude": 4.5525556,
+      "viewport": {
+        "northeast": {
+          "lat": 8.504039779892722,
+          "lng": 4.553989329892722
+        },
+        "southwest": {
+          "lat": 8.501340120107278,
+          "lng": 4.551289670107278
+        }
+      },
+      "formatted_address": "GH33+32F, Sobi Rd, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5026981,4.5525556",
+      "google_place_id": "ChIJwz3YpdxTNhARluRkIIhOE7c"
+    }
+  },
+  {
+    "id": "109864",
+    "name": "AWODI MARKET II",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "23/06/02/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.5026981,
+      "longitude": 4.5525556,
+      "viewport": {
+        "northeast": {
+          "lat": 8.504039779892722,
+          "lng": 4.553989329892722
+        },
+        "southwest": {
+          "lat": 8.501340120107278,
+          "lng": 4.551289670107278
+        }
+      },
+      "formatted_address": "GH33+32F, Sobi Rd, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5026981,4.5525556",
+      "google_place_id": "ChIJwz3YpdxTNhARluRkIIhOE7c"
+    }
+  },
+  {
+    "id": "109865",
+    "name": "ODE ILE ELERAN ITA ADU",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "23/06/02/013",
+    "remark": "EXISTING PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109866",
+    "name": "AWODI MARKET III",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "23/06/02/014",
+    "remark": "EXISTING PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.5026981,
+      "longitude": 4.5525556,
+      "viewport": {
+        "northeast": {
+          "lat": 8.504039779892722,
+          "lng": 4.553989329892722
+        },
+        "southwest": {
+          "lat": 8.501340120107278,
+          "lng": 4.551289670107278
+        }
+      },
+      "formatted_address": "GH33+32F, Sobi Rd, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5026981,4.5525556",
+      "google_place_id": "ChIJwz3YpdxTNhARluRkIIhOE7c"
+    }
+  },
+  {
+    "id": "109867",
+    "name": "ODE ILE NLA AKANLABI",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "23/06/02/015",
+    "remark": "EXISTING PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109868",
+    "name": "ORI OKO AWODI",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "23/06/02/016",
+    "remark": "EXISTING PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109869",
+    "name": "OPEN  SPACE BABA OLOKOLE",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "23/06/02/017",
+    "remark": "NEW PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109870",
+    "name": "OPEN  SPACE OPPOSITE BOLANTA JUNCTION",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "23/06/02/018",
+    "remark": "NEW PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.496297,
+      "longitude": 4.551173500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.497646829892723,
+          "lng": 4.552523329892723
+        },
+        "southwest": {
+          "lat": 8.49494717010728,
+          "lng": 4.549823670107279
+        }
+      },
+      "formatted_address": "Bolanta Street, 240101, Oko Erin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.496297,4.551173500000001",
+      "google_place_id": "ChIJqzRis4hSNhARjI6oe0xwt3U"
+    }
+  },
+  {
+    "id": "109871",
+    "name": "OPEN SPACE AJESCENT  ITA AJIA MOSQUE",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "23/06/02/019",
+    "remark": "NEW PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.497931000000001,
+      "longitude": 4.548582,
+      "viewport": {
+        "northeast": {
+          "lat": 8.499481329892722,
+          "lng": 4.549882879892722
+        },
+        "southwest": {
+          "lat": 8.496781670107278,
+          "lng": 4.547183220107278
+        }
+      },
+      "formatted_address": "Ita ajia, Surulere Rd, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.497931000000001,4.548582",
+      "google_place_id": "ChIJswNLbIlSNhARVHY6eAIiFxg"
+    }
+  },
+  {
+    "id": "109872",
+    "name": "OPEN SPACE NEAR KORO AGIDI MOSQUE",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "23/06/02/020",
+    "remark": "NEW PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.493102799999999,
+      "longitude": 4.5532039,
+      "viewport": {
+        "northeast": {
+          "lat": 8.494418729892724,
+          "lng": 4.554547029892722
+        },
+        "southwest": {
+          "lat": 8.49171907010728,
+          "lng": 4.551847370107278
+        }
+      },
+      "formatted_address": "FHV3+66H, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.493102799999999,4.5532039",
+      "google_place_id": "ChIJB1BZcYVSNhARGibEIoR0DbM"
+    }
+  },
+  {
+    "id": "109873",
+    "name": "OPEN SPACE IN FRONT OF IMMAM BARUBA",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "23/06/02/021",
+    "remark": "NEW PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  },
+  {
+    "id": "109874",
+    "name": "BALOGUN GAMBARI PRIMARY HEALTH CARE",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "23/06/02/022",
+    "remark": "NEW PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.501002399999999,
+      "longitude": 4.5558061,
+      "viewport": {
+        "northeast": {
+          "lat": 8.502379929892722,
+          "lng": 4.557140429892722
+        },
+        "southwest": {
+          "lat": 8.499680270107278,
+          "lng": 4.554440770107278
+        }
+      },
+      "formatted_address": "No. 1 Ojagboro, Gambari Rd, 240211, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.501002399999999,4.5558061",
+      "google_place_id": "ChIJaf4BwLtTNhARBHA7_ZVzwCs"
+    }
+  },
+  {
+    "id": "109875",
+    "name": "ODE ILE ELERAN II",
+    "registration_area_id": "5721",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "23/06/02/023",
+    "remark": "NEW PU",
+    "ward_id": "5721",
+    "ward_name": "GAMBARI 1",
+    "local_government_id": "495",
+    "local_government_name": "ILORIN EAST",
+    "state_id": "23",
+    "state_name": "KWARA",
+    "location": null
+  }
+]

@@ -1,0 +1,1187 @@
+[
+  {
+    "id": "100085",
+    "name": "UNG/SALIHAWA - YABA DISPENSARY I",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "20/25/03/001",
+    "remark": "EXISTING PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.8047748,
+      "longitude": 7.621322200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80612497989272,
+          "lng": 7.622552979892722
+        },
+        "southwest": {
+          "lat": 11.80342532010728,
+          "lng": 7.619853320107278
+        }
+      },
+      "formatted_address": "RJ3C+WG4, yashe Road, Malumfashi, Funtua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8047748,7.621322200000001",
+      "google_place_id": "ChIJa4SgsEgFshERIU78nASRecU"
+    }
+  },
+  {
+    "id": "100086",
+    "name": "UNG/SALIHAWA - YABA DISPENSARY II",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "20/25/03/002",
+    "remark": "EXISTING PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100087",
+    "name": "SALIHAWA GANA - OPEN SPACE",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "20/25/03/003",
+    "remark": "EXISTING PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9087413,
+      "longitude": 7.6098404,
+      "viewport": {
+        "northeast": {
+          "lat": 12.91007722989272,
+          "lng": 7.61116122989272
+        },
+        "southwest": {
+          "lat": 12.90737757010728,
+          "lng": 7.608461570107276
+        }
+      },
+      "formatted_address": "WJ55+FXR, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9087413,7.6098404",
+      "google_place_id": "ChIJUbjUlcw6sBERb3-_FTsZink"
+    }
+  },
+  {
+    "id": "100088",
+    "name": "KABARA YABA - YABA PRI.SCHOOL",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "20/25/03/004",
+    "remark": "EXISTING PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9958618,
+      "longitude": 7.610205799999998,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99721567989272,
+          "lng": 7.61158872989272
+        },
+        "southwest": {
+          "lat": 12.99451602010728,
+          "lng": 7.608889070107276
+        }
+      },
+      "formatted_address": "XJW6+83W, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9958618,7.610205799999998",
+      "google_place_id": "ChIJ5Za29so8sBER6BuxErtV_Zs"
+    }
+  },
+  {
+    "id": "100089",
+    "name": "MARMARA - OPEN SPACE (MARKET) I",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "20/25/03/005",
+    "remark": "EXISTING PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9706934,
+      "longitude": 7.5993087,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97206992989272,
+          "lng": 7.600647779892723
+        },
+        "southwest": {
+          "lat": 12.96937027010728,
+          "lng": 7.597948120107279
+        }
+      },
+      "formatted_address": "820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9706934,7.5993087",
+      "google_place_id": "ChIJM3jqClg7sBERrDqHWAOixC8"
+    }
+  },
+  {
+    "id": "100090",
+    "name": "MARMARA - OPEN SPACE (MARKET) II",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "20/25/03/006",
+    "remark": "EXISTING PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9706934,
+      "longitude": 7.5993087,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97206992989272,
+          "lng": 7.600647779892723
+        },
+        "southwest": {
+          "lat": 12.96937027010728,
+          "lng": 7.597948120107279
+        }
+      },
+      "formatted_address": "820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9706934,7.5993087",
+      "google_place_id": "ChIJM3jqClg7sBERrDqHWAOixC8"
+    }
+  },
+  {
+    "id": "100091",
+    "name": "MARMARA - UNG. RUNJI",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "20/25/03/007",
+    "remark": "EXISTING PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100092",
+    "name": "M.KANKARA - M/KANKARA PRI.SCHOOL",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "20/25/03/008",
+    "remark": "EXISTING PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.93303,
+      "longitude": 7.3967338,
+      "viewport": {
+        "northeast": {
+          "lat": 11.93411272989272,
+          "lng": 7.398113979892723
+        },
+        "southwest": {
+          "lat": 11.93141307010728,
+          "lng": 7.395414320107279
+        }
+      },
+      "formatted_address": "W9MW+6M9 Dan Sabo, Chafe Road, 832102, Kankara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.93303,7.3967338",
+      "google_place_id": "ChIJHey-emIhshER5G2JsSHlDxw"
+    }
+  },
+  {
+    "id": "100093",
+    "name": "TSAUNIN CINYA - OPEN SPACE",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "20/25/03/009",
+    "remark": "EXISTING PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9767166,
+      "longitude": 7.6324748,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97803877989272,
+          "lng": 7.633809179892721
+        },
+        "southwest": {
+          "lat": 12.97533912010728,
+          "lng": 7.631109520107278
+        }
+      },
+      "formatted_address": "XJGJ+MXQ, Mani Rd, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9767166,7.6324748",
+      "google_place_id": "ChIJScqLxRAjsBERxIlMzzOzqTU"
+    }
+  },
+  {
+    "id": "100094",
+    "name": "MARMARA UNG WAZAMAI",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "20/25/03/010",
+    "remark": "EXISTING PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100095",
+    "name": "UNG/WANZAMAI - WANZAMAI PRI.SCHOOL II",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "20/25/03/011",
+    "remark": "EXISTING PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6376321,
+      "longitude": 7.575202,
+      "viewport": {
+        "northeast": {
+          "lat": 12.63898192989272,
+          "lng": 7.576551829892722
+        },
+        "southwest": {
+          "lat": 12.63628227010728,
+          "lng": 7.573852170107278
+        }
+      },
+      "formatted_address": "JHQG+334, 821103, Benye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6376321,7.575202",
+      "google_place_id": "ChIJ-yUpp7HNsRERHBo9nVcd6Rk"
+    }
+  },
+  {
+    "id": "100096",
+    "name": "UNG/HANAU - HANAU PRI.SCHOOL I",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "20/25/03/012",
+    "remark": "EXISTING PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.7922416,
+      "longitude": 7.624992,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79357172989272,
+          "lng": 7.626290979892722
+        },
+        "southwest": {
+          "lat": 11.79087207010728,
+          "lng": 7.623591320107278
+        }
+      },
+      "formatted_address": "Unguwan Halilu Primary School, 832103, Malumfashi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7922416,7.624992",
+      "google_place_id": "ChIJi1cchJwFshERJxmQN61Qm_U"
+    }
+  },
+  {
+    "id": "100097",
+    "name": "UNG/HANAU - HANAU PRI.SCHOOL II",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "20/25/03/013",
+    "remark": "EXISTING PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.5196564,
+      "longitude": 7.3139367,
+      "viewport": {
+        "northeast": {
+          "lat": 11.52120182989272,
+          "lng": 7.315220029892721
+        },
+        "southwest": {
+          "lat": 11.51850217010728,
+          "lng": 7.312520370107277
+        }
+      },
+      "formatted_address": "G897+VH7 Zaria, Road, 830101, Funtua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5196564,7.3139367",
+      "google_place_id": "ChIJJ1oVYClEshERJbrG1tZsqGk"
+    }
+  },
+  {
+    "id": "100098",
+    "name": "UNG/GAMBO - GAMBO PRI.SCHOOL I",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "20/25/03/014",
+    "remark": "EXISTING PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9919807,
+      "longitude": 7.5984096,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99326747989272,
+          "lng": 7.599764229892722
+        },
+        "southwest": {
+          "lat": 12.99056782010728,
+          "lng": 7.597064570107278
+        }
+      },
+      "formatted_address": "820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9919807,7.5984096",
+      "google_place_id": "ChIJxXBXXLg8sBEREHcdu6AGHBw"
+    }
+  },
+  {
+    "id": "100099",
+    "name": "UNG/GAMBO - GAMBO PRI.SCHOOL II",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "20/25/03/015",
+    "remark": "EXISTING PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9919807,
+      "longitude": 7.5984096,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99326747989272,
+          "lng": 7.599764229892722
+        },
+        "southwest": {
+          "lat": 12.99056782010728,
+          "lng": 7.597064570107278
+        }
+      },
+      "formatted_address": "820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9919807,7.5984096",
+      "google_place_id": "ChIJxXBXXLg8sBEREHcdu6AGHBw"
+    }
+  },
+  {
+    "id": "100100",
+    "name": "BURDUGAU G. - BURDUGAU G. PRI.SCHOOL I",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "20/25/03/016",
+    "remark": "EXISTING PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.7922416,
+      "longitude": 7.624992,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79357172989272,
+          "lng": 7.626290979892722
+        },
+        "southwest": {
+          "lat": 11.79087207010728,
+          "lng": 7.623591320107278
+        }
+      },
+      "formatted_address": "Unguwan Halilu Primary School, 832103, Malumfashi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7922416,7.624992",
+      "google_place_id": "ChIJi1cchJwFshERJxmQN61Qm_U"
+    }
+  },
+  {
+    "id": "100101",
+    "name": "BURDUGAU G. - BURDUGAU G. PRI.SCHOOL II",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "20/25/03/017",
+    "remark": "EXISTING PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.7922416,
+      "longitude": 7.624992,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79357172989272,
+          "lng": 7.626290979892722
+        },
+        "southwest": {
+          "lat": 11.79087207010728,
+          "lng": 7.623591320107278
+        }
+      },
+      "formatted_address": "Unguwan Halilu Primary School, 832103, Malumfashi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7922416,7.624992",
+      "google_place_id": "ChIJi1cchJwFshERJxmQN61Qm_U"
+    }
+  },
+  {
+    "id": "100102",
+    "name": "YAR TEBA - YAR TEBA PRI.SCHOOL",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "20/25/03/018",
+    "remark": "EXISTING PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9919807,
+      "longitude": 7.5984096,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99326747989272,
+          "lng": 7.599764229892722
+        },
+        "southwest": {
+          "lat": 12.99056782010728,
+          "lng": 7.597064570107278
+        }
+      },
+      "formatted_address": "820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9919807,7.5984096",
+      "google_place_id": "ChIJxXBXXLg8sBEREHcdu6AGHBw"
+    }
+  },
+  {
+    "id": "100103",
+    "name": "KABARA",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "20/25/03/019",
+    "remark": "EXISTING PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100104",
+    "name": "UNG/RINGI/MARMARA DAN FILI UNG. RINGI",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "20/25/03/020",
+    "remark": "EXISTING PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100105",
+    "name": "M/KANKARA - PRI SCHOOL III",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "20/25/03/023",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.93303,
+      "longitude": 7.3967338,
+      "viewport": {
+        "northeast": {
+          "lat": 11.93411272989272,
+          "lng": 7.398113979892723
+        },
+        "southwest": {
+          "lat": 11.93141307010728,
+          "lng": 7.395414320107279
+        }
+      },
+      "formatted_address": "W9MW+6M9 Dan Sabo, Chafe Road, 832102, Kankara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.93303,7.3967338",
+      "google_place_id": "ChIJHey-emIhshER5G2JsSHlDxw"
+    }
+  },
+  {
+    "id": "100106",
+    "name": "TSAUNIN CINYA OPENSPACE II",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "20/25/03/024",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100107",
+    "name": "TSAUNIN CINYA -OPENSPACE III",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "20/25/03/025",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100108",
+    "name": "TSAUNIN CINYA -OPENSPACE IV",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "20/25/03/026",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100109",
+    "name": "TSAUNIN CINYA -OPENSPACE V",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "20/25/03/027",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100110",
+    "name": "TSAUNIN CINYA -OPENSPACE VI",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "20/25/03/028",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100111",
+    "name": "TSAUNIN CINYA -OPENSPACE VII",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "20/25/03/029",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100112",
+    "name": "TSAUNIN CINYA -OPENSPACE VIII",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "20/25/03/030",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100113",
+    "name": "TSAUNIN CINYA -OPENSPACE IX",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "20/25/03/031",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100114",
+    "name": "TSAUNIN CINYA -OPENSPACE X",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "20/25/03/032",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100115",
+    "name": "TSAUNIN CINYA -OPENSPACE IX",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "20/25/03/033",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100116",
+    "name": "TSAUNIN CINYA -OPENSPACE XII",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "20/25/03/034",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100117",
+    "name": "TSAUNIN CINYA -OPENSAPACE XIII",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "20/25/03/035",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100118",
+    "name": "TSAUNIN CINYA -OPENSPACE XIV",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "036",
+    "units": "036",
+    "delimitation": "20/25/03/036",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100119",
+    "name": "TSAUNIN CINYA -OPENSPACE XVI",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "037",
+    "units": "037",
+    "delimitation": "20/25/03/037",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100120",
+    "name": "TSAUNIN CINYA -OPENSPACE XIX",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "038",
+    "units": "038",
+    "delimitation": "20/25/03/038",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100121",
+    "name": "TSAUNIN CINYA -OPENSAPCE XX",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "039",
+    "units": "039",
+    "delimitation": "20/25/03/039",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100122",
+    "name": "TSAUNIN CINYA -OPEN SPACE XVI",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "040",
+    "units": "040",
+    "delimitation": "20/25/03/040",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100123",
+    "name": "MARMARA UNG.WANZAMAI II",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "041",
+    "units": "041",
+    "delimitation": "20/25/03/041",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100124",
+    "name": "MARMARA UNG.WANZAMAI III",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "042",
+    "units": "042",
+    "delimitation": "20/25/03/042",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100125",
+    "name": "UNG. WANZAMAI PRI.SCHOOL III",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "043",
+    "units": "043",
+    "delimitation": "20/25/03/043",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.5336492,
+      "longitude": 7.307673800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.53512797989272,
+          "lng": 7.309270529892722
+        },
+        "southwest": {
+          "lat": 11.53242832010728,
+          "lng": 7.306570870107278
+        }
+      },
+      "formatted_address": "G8M5+F33, 830101, Funtua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5336492,7.307673800000001",
+      "google_place_id": "ChIJpZf2aH1GshERL-Us5oaJS4Q"
+    }
+  },
+  {
+    "id": "100126",
+    "name": "UNG. HANAU - HANAU PRI SCHOOL III",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "044",
+    "units": "044",
+    "delimitation": "20/25/03/044",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.4589877,
+      "longitude": 7.506615200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.46034442989272,
+          "lng": 7.507996279892722
+        },
+        "southwest": {
+          "lat": 12.45764477010728,
+          "lng": 7.505296620107278
+        }
+      },
+      "formatted_address": "FG54+HJX, Unnamed Road, 821101, Dutsin-Ma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4589877,7.506615200000001",
+      "google_place_id": "ChIJGRDgYanHsRERMbH_bW8lfig"
+    }
+  },
+  {
+    "id": "100127",
+    "name": "UNG. HANAU - HANAUPRI SCH IV",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "045",
+    "units": "045",
+    "delimitation": "20/25/03/045",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100128",
+    "name": "UNG. HANAU - HANAU PRI.SCH V",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "046",
+    "units": "046",
+    "delimitation": "20/25/03/046",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.7922416,
+      "longitude": 7.624992,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79357172989272,
+          "lng": 7.626290979892722
+        },
+        "southwest": {
+          "lat": 11.79087207010728,
+          "lng": 7.623591320107278
+        }
+      },
+      "formatted_address": "Unguwan Halilu Primary School, 832103, Malumfashi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7922416,7.624992",
+      "google_place_id": "ChIJi1cchJwFshERJxmQN61Qm_U"
+    }
+  },
+  {
+    "id": "100129",
+    "name": "UNG. GAMBO - GAMBO PRI SCH III",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "047",
+    "units": "047",
+    "delimitation": "20/25/03/047",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9842154,
+      "longitude": 7.604135999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98542927989272,
+          "lng": 7.605382779892722
+        },
+        "southwest": {
+          "lat": 12.98272962010728,
+          "lng": 7.602683120107278
+        }
+      },
+      "formatted_address": "XJM3+MMJ, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9842154,7.604135999999999",
+      "google_place_id": "ChIJYfjVurE8sBERxy8dVa1YaWM"
+    }
+  },
+  {
+    "id": "100130",
+    "name": "UNG/GAMBO PRI.SCH IV",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "048",
+    "units": "048",
+    "delimitation": "20/25/03/048",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9919807,
+      "longitude": 7.5984096,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99326747989272,
+          "lng": 7.599764229892722
+        },
+        "southwest": {
+          "lat": 12.99056782010728,
+          "lng": 7.597064570107278
+        }
+      },
+      "formatted_address": "820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9919807,7.5984096",
+      "google_place_id": "ChIJxXBXXLg8sBEREHcdu6AGHBw"
+    }
+  },
+  {
+    "id": "100131",
+    "name": "YARTEBA - YARTEBA PRI SCH II",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "049",
+    "units": "049",
+    "delimitation": "20/25/03/049",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9815608,
+      "longitude": 7.622266499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98290287989272,
+          "lng": 7.62356807989272
+        },
+        "southwest": {
+          "lat": 12.98020322010728,
+          "lng": 7.620868420107276
+        }
+      },
+      "formatted_address": "XJJC+JWC, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9815608,7.622266499999999",
+      "google_place_id": "ChIJyyfYRtMjsBER5uM2_vL0rSI"
+    }
+  },
+  {
+    "id": "100132",
+    "name": "MARMARA OPENSPACE III",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "055",
+    "units": "055",
+    "delimitation": "20/25/03/055",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  },
+  {
+    "id": "100133",
+    "name": "MARMARA OPEN SPACE IV",
+    "registration_area_id": "5086",
+    "precise_location": null,
+    "abbreviation": "056",
+    "units": "056",
+    "delimitation": "20/25/03/056",
+    "remark": "NEW PU",
+    "ward_id": "5086",
+    "ward_name": "YABA",
+    "local_government_id": "438",
+    "local_government_name": "MALUFASHI",
+    "state_id": "20",
+    "state_name": "KATSINA",
+    "location": null
+  }
+]

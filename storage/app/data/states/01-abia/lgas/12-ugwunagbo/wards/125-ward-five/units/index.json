@@ -1,0 +1,321 @@
+[
+  {
+    "id": "3024",
+    "name": "AKANU NGWA 1- AKANU NGWA PRIMARY SCHOOL",
+    "registration_area_id": "125",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "01/12/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "125",
+    "ward_name": "WARD FIVE",
+    "local_government_id": "12",
+    "local_government_name": "UGWUNAGBO",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.796467,
+      "longitude": 7.682958999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.797813179892722,
+          "lng": 7.684318429892722
+        },
+        "southwest": {
+          "lat": 5.795113520107278,
+          "lng": 7.681618770107278
+        }
+      },
+      "formatted_address": "QMWM+H5P, 441123, Elugwu-Akanu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.796467,7.682958999999999",
+      "google_place_id": "ChIJ_4Edio4uQxARCPXATFp0_Dk"
+    }
+  },
+  {
+    "id": "3025",
+    "name": "AKANU NGWA 11- AKANU NGWA CIVIC CENTRE",
+    "registration_area_id": "125",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "01/12/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "125",
+    "ward_name": "WARD FIVE",
+    "local_government_id": "12",
+    "local_government_name": "UGWUNAGBO",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": null
+  },
+  {
+    "id": "3026",
+    "name": "AKANU NGWA 111-AMUZU AKANU MARKT. SQUARE",
+    "registration_area_id": "125",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "01/12/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "125",
+    "ward_name": "WARD FIVE",
+    "local_government_id": "12",
+    "local_government_name": "UGWUNAGBO",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": null
+  },
+  {
+    "id": "3027",
+    "name": "AKANU NGWA IV-UMUAJAONYI COUNCIL HALL",
+    "registration_area_id": "125",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "01/12/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "125",
+    "ward_name": "WARD FIVE",
+    "local_government_id": "12",
+    "local_government_name": "UGWUNAGBO",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": null
+  },
+  {
+    "id": "3028",
+    "name": "AKANU NGWA V- UMUESO COUNCIL HALL",
+    "registration_area_id": "125",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "01/12/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "125",
+    "ward_name": "WARD FIVE",
+    "local_government_id": "12",
+    "local_government_name": "UGWUNAGBO",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": null
+  },
+  {
+    "id": "3029",
+    "name": "AKANU NGWA VI- UMUCHIMA SQUARE",
+    "registration_area_id": "125",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "01/12/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "125",
+    "ward_name": "WARD FIVE",
+    "local_government_id": "12",
+    "local_government_name": "UGWUNAGBO",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.1171863,
+      "longitude": 7.3741546,
+      "viewport": {
+        "northeast": {
+          "lat": 5.118644079892722,
+          "lng": 7.375386779892722
+        },
+        "southwest": {
+          "lat": 5.115944420107278,
+          "lng": 7.372687120107278
+        }
+      },
+      "formatted_address": "1 Industry Rd, Aba 450211, Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1171863,7.3741546",
+      "google_place_id": "ChIJTcWxRT-ZQhARC82eQwsc5B0"
+    }
+  },
+  {
+    "id": "3030",
+    "name": "AKANU NGWA V11-UMUADA CIVIC CENTRE",
+    "registration_area_id": "125",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "01/12/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "125",
+    "ward_name": "WARD FIVE",
+    "local_government_id": "12",
+    "local_government_name": "UGWUNAGBO",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": null
+  },
+  {
+    "id": "3031",
+    "name": "AKANU NGWA V111- UMUAJAONYI COUNCIL",
+    "registration_area_id": "125",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "01/12/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "125",
+    "ward_name": "WARD FIVE",
+    "local_government_id": "12",
+    "local_government_name": "UGWUNAGBO",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": null
+  },
+  {
+    "id": "3032",
+    "name": "AKANU NGWA IX- AKANU NGWA HIGH SCHOOL",
+    "registration_area_id": "125",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "01/12/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "125",
+    "ward_name": "WARD FIVE",
+    "local_government_id": "12",
+    "local_government_name": "UGWUNAGBO",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.1491498,
+      "longitude": 7.3325015,
+      "viewport": {
+        "northeast": {
+          "lat": 5.150370779892723,
+          "lng": 7.334038129892721
+        },
+        "southwest": {
+          "lat": 5.147671120107279,
+          "lng": 7.331338470107277
+        }
+      },
+      "formatted_address": "44 Umuodu Rd, Abayi 453115, Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1491498,7.3325015",
+      "google_place_id": "ChIJ7c2zQjaaQhAR8Ytoj1gC96s"
+    }
+  },
+  {
+    "id": "3033",
+    "name": "AMAOKPU UMUITIRI 1-AMAOKPU UMUITIRI HALL",
+    "registration_area_id": "125",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "01/12/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "125",
+    "ward_name": "WARD FIVE",
+    "local_government_id": "12",
+    "local_government_name": "UGWUNAGBO",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": null
+  },
+  {
+    "id": "3034",
+    "name": "AMAOKPU UMUITIRI 11- AMAOKPU CIVIC HALL",
+    "registration_area_id": "125",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "01/12/05/011",
+    "remark": "EXISTING PU",
+    "ward_id": "125",
+    "ward_name": "WARD FIVE",
+    "local_government_id": "12",
+    "local_government_name": "UGWUNAGBO",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": null
+  },
+  {
+    "id": "3035",
+    "name": "UKEBE-UKEBE COUNCIL HALL",
+    "registration_area_id": "125",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "01/12/05/012",
+    "remark": "EXISTING PU",
+    "ward_id": "125",
+    "ward_name": "WARD FIVE",
+    "local_government_id": "12",
+    "local_government_name": "UGWUNAGBO",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": null
+  },
+  {
+    "id": "3036",
+    "name": "AKANU NGWA UMUCHIMA MARKET SQUARE II",
+    "registration_area_id": "125",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "01/12/05/013",
+    "remark": "NEW PU",
+    "ward_id": "125",
+    "ward_name": "WARD FIVE",
+    "local_government_id": "12",
+    "local_government_name": "UGWUNAGBO",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": null
+  },
+  {
+    "id": "3037",
+    "name": "AKANU NGWA UMUCHIMA MARKET SQUARE III",
+    "registration_area_id": "125",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "01/12/05/014",
+    "remark": "NEW PU",
+    "ward_id": "125",
+    "ward_name": "WARD FIVE",
+    "local_government_id": "12",
+    "local_government_name": "UGWUNAGBO",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": null
+  },
+  {
+    "id": "3038",
+    "name": "AMAOKPU UMUITIRI CIVIC HALL III",
+    "registration_area_id": "125",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "01/12/05/015",
+    "remark": "NEW PU",
+    "ward_id": "125",
+    "ward_name": "WARD FIVE",
+    "local_government_id": "12",
+    "local_government_name": "UGWUNAGBO",
+    "state_id": "1",
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.3272496,
+      "longitude": 7.4148198,
+      "viewport": {
+        "northeast": {
+          "lat": 5.328599229892722,
+          "lng": 7.416172479892722
+        },
+        "southwest": {
+          "lat": 5.325899570107278,
+          "lng": 7.413472820107278
+        }
+      },
+      "formatted_address": "8CG7+VWW, 451112, Umunguru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3272496,7.4148198",
+      "google_place_id": "ChIJr-iHaxWVQhARgbbJ3YTJmGs"
+    }
+  }
+]

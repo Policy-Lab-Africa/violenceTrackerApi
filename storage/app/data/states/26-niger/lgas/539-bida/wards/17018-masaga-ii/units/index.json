@@ -1,0 +1,317 @@
+[
+  {
+    "id": "335025",
+    "name": "EMI ALIKALI DAUDA",
+    "registration_area_id": "17018",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "26/03/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "17018",
+    "ward_name": "MASAGA II",
+    "local_government_id": "539",
+    "local_government_name": "BIDA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "335026",
+    "name": "ALH. BABA NAGI YAWO",
+    "registration_area_id": "17018",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "26/03/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "17018",
+    "ward_name": "MASAGA II",
+    "local_government_id": "539",
+    "local_government_name": "BIDA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.073768,
+      "longitude": 5.9985083,
+      "viewport": {
+        "northeast": {
+          "lat": 9.075370529892721,
+          "lng": 5.999808279892721
+        },
+        "southwest": {
+          "lat": 9.072670870107277,
+          "lng": 5.997108620107277
+        }
+      },
+      "formatted_address": "Suleija-Lapai-Bida Road, 912101, Bida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.073768,5.9985083",
+      "google_place_id": "ChIJx_RoBUJhSRARMH0pueusYaM"
+    }
+  },
+  {
+    "id": "335027",
+    "name": "EMI ALFA DUKIYA",
+    "registration_area_id": "17018",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "26/03/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "17018",
+    "ward_name": "MASAGA II",
+    "local_government_id": "539",
+    "local_government_name": "BIDA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "335028",
+    "name": "CHIROMA SAMARI",
+    "registration_area_id": "17018",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "26/03/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "17018",
+    "ward_name": "MASAGA II",
+    "local_government_id": "539",
+    "local_government_name": "BIDA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.096093999999999,
+      "longitude": 6.0152429,
+      "viewport": {
+        "northeast": {
+          "lat": 9.097443479892721,
+          "lng": 6.016634979892721
+        },
+        "southwest": {
+          "lat": 9.094743820107277,
+          "lng": 6.013935320107278
+        }
+      },
+      "formatted_address": "32W8+C3M, 912101, Bida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.096093999999999,6.0152429",
+      "google_place_id": "ChIJIdV9_wdhSRARLCz2Vg8VRXY"
+    }
+  },
+  {
+    "id": "335029",
+    "name": "EMI MANTAHIRU",
+    "registration_area_id": "17018",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "26/03/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "17018",
+    "ward_name": "MASAGA II",
+    "local_government_id": "539",
+    "local_government_name": "BIDA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0800985,
+      "longitude": 6.0056531,
+      "viewport": {
+        "northeast": {
+          "lat": 9.08144877989272,
+          "lng": 6.007003929892721
+        },
+        "southwest": {
+          "lat": 9.078749120107275,
+          "lng": 6.004304270107277
+        }
+      },
+      "formatted_address": "32J4+27J, EMI Alh MANYANTSU MASSALACHI BOLOGI, Bida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0800985,6.0056531",
+      "google_place_id": "ChIJb-2bj41hSRAR2GjfhUSVvzU"
+    }
+  },
+  {
+    "id": "335030",
+    "name": "EMI NDATSA",
+    "registration_area_id": "17018",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "26/03/09/006",
+    "remark": "EXISTING PU",
+    "ward_id": "17018",
+    "ward_name": "MASAGA II",
+    "local_government_id": "539",
+    "local_government_name": "BIDA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0391016,
+      "longitude": 6.007923099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.040474329892723,
+          "lng": 6.009264179892722
+        },
+        "southwest": {
+          "lat": 9.037774670107279,
+          "lng": 6.006564520107278
+        }
+      },
+      "formatted_address": "KM 1.5 Doko Road, 912211, Bida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0391016,6.007923099999999",
+      "google_place_id": "ChIJlbHp8rdmSRARfOP6osfuyBg"
+    }
+  },
+  {
+    "id": "335031",
+    "name": "NDA KIMPA - OPEN SPACE",
+    "registration_area_id": "17018",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "26/03/09/007",
+    "remark": "NEW PU",
+    "ward_id": "17018",
+    "ward_name": "MASAGA II",
+    "local_government_id": "539",
+    "local_government_name": "BIDA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0771566,
+      "longitude": 6.0274185,
+      "viewport": {
+        "northeast": {
+          "lat": 9.078683579892722,
+          "lng": 6.028643879892721
+        },
+        "southwest": {
+          "lat": 9.075983920107278,
+          "lng": 6.025944220107277
+        }
+      },
+      "formatted_address": "32GG+VX7, 912211, Bida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0771566,6.0274185",
+      "google_place_id": "ChIJEcBf6YJhSRAR3s1Rqy1MhW0"
+    }
+  },
+  {
+    "id": "335032",
+    "name": "EFOGI LIMAN SHABA - OPEN SPACE",
+    "registration_area_id": "17018",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "26/03/09/008",
+    "remark": "NEW PU",
+    "ward_id": "17018",
+    "ward_name": "MASAGA II",
+    "local_government_id": "539",
+    "local_government_name": "BIDA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": null
+  },
+  {
+    "id": "335033",
+    "name": "EMI TSONFADAKO - OPEN SPACE",
+    "registration_area_id": "17018",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "26/03/09/009",
+    "remark": "NEW PU",
+    "ward_id": "17018",
+    "ward_name": "MASAGA II",
+    "local_government_id": "539",
+    "local_government_name": "BIDA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.086618,
+      "longitude": 5.9986524,
+      "viewport": {
+        "northeast": {
+          "lat": 9.087932229892722,
+          "lng": 5.999993829892722
+        },
+        "southwest": {
+          "lat": 9.085232570107278,
+          "lng": 5.997294170107279
+        }
+      },
+      "formatted_address": "3XPX+MF2, Banwuya Rd, 912101, Bida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.086618,5.9986524",
+      "google_place_id": "ChIJ1d0G83FhSRAR2g69_lxlgeE"
+    }
+  },
+  {
+    "id": "335034",
+    "name": "ANGWAN MAKAFI - OPEN SPACE",
+    "registration_area_id": "17018",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "26/03/09/010",
+    "remark": "NEW PU",
+    "ward_id": "17018",
+    "ward_name": "MASAGA II",
+    "local_government_id": "539",
+    "local_government_name": "BIDA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.096093999999999,
+      "longitude": 6.0152429,
+      "viewport": {
+        "northeast": {
+          "lat": 9.097443479892721,
+          "lng": 6.016634979892721
+        },
+        "southwest": {
+          "lat": 9.094743820107277,
+          "lng": 6.013935320107278
+        }
+      },
+      "formatted_address": "32W8+C3M, 912101, Bida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.096093999999999,6.0152429",
+      "google_place_id": "ChIJIdV9_wdhSRARLCz2Vg8VRXY"
+    }
+  },
+  {
+    "id": "335035",
+    "name": "EFU NDATSA CLINIC",
+    "registration_area_id": "17018",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "26/03/09/011",
+    "remark": "NEW PU",
+    "ward_id": "17018",
+    "ward_name": "MASAGA II",
+    "local_government_id": "539",
+    "local_government_name": "BIDA",
+    "state_id": "26",
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.073768,
+      "longitude": 5.9985083,
+      "viewport": {
+        "northeast": {
+          "lat": 9.075370529892721,
+          "lng": 5.999808279892721
+        },
+        "southwest": {
+          "lat": 9.072670870107277,
+          "lng": 5.997108620107277
+        }
+      },
+      "formatted_address": "Suleija-Lapai-Bida Road, 912101, Bida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.073768,5.9985083",
+      "google_place_id": "ChIJx_RoBUJhSRARMH0pueusYaM"
+    }
+  }
+]

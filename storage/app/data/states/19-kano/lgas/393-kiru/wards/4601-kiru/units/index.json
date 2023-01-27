@@ -1,0 +1,1256 @@
+[
+  {
+    "id": "89980",
+    "name": "BUREMAWA I",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/24/09/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7058835,
+      "longitude": 8.170965899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70723282989272,
+          "lng": 8.172315079892721
+        },
+        "southwest": {
+          "lat": 11.70453317010728,
+          "lng": 8.169615420107277
+        }
+      },
+      "formatted_address": "7F3CP54C+994 Buremawa, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7058835,8.170965899999999",
+      "google_place_id": "ChIJax3DhUnCrRERu2a43FsDUKs"
+    }
+  },
+  {
+    "id": "89981",
+    "name": "BUREMAWA II",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/24/09/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7022386,
+      "longitude": 8.1365868,
+      "viewport": {
+        "northeast": {
+          "lat": 11.709024,
+          "lng": 8.142942999999999
+        },
+        "southwest": {
+          "lat": 11.696386,
+          "lng": 8.120649
+        }
+      },
+      "formatted_address": "711105, Kiru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7022386,8.1365868",
+      "google_place_id": "ChIJdaSsXwnCrRERgeGd1FhoKTc"
+    }
+  },
+  {
+    "id": "89982",
+    "name": "CIKIN GARI I",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/24/09/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4429307,
+      "longitude": 8.1847833,
+      "viewport": {
+        "northeast": {
+          "lat": 11.44434137989272,
+          "lng": 8.186065729892722
+        },
+        "southwest": {
+          "lat": 11.44164172010728,
+          "lng": 8.183366070107278
+        }
+      },
+      "formatted_address": "7F3CC5VM+5WF, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4429307,8.1847833",
+      "google_place_id": "ChIJ-wVU6iu9rRERo-8uxKSl_EE"
+    }
+  },
+  {
+    "id": "89983",
+    "name": "CIKIN GARI II",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/24/09/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4429307,
+      "longitude": 8.1847833,
+      "viewport": {
+        "northeast": {
+          "lat": 11.44434137989272,
+          "lng": 8.186065729892722
+        },
+        "southwest": {
+          "lat": 11.44164172010728,
+          "lng": 8.183366070107278
+        }
+      },
+      "formatted_address": "7F3CC5VM+5WF, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4429307,8.1847833",
+      "google_place_id": "ChIJ-wVU6iu9rRERo-8uxKSl_EE"
+    }
+  },
+  {
+    "id": "89984",
+    "name": "CIKIN GARI III",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/24/09/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9785458,
+      "longitude": 8.4990714,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97989282989272,
+          "lng": 8.500421829892721
+        },
+        "southwest": {
+          "lat": 11.97719317010728,
+          "lng": 8.497722170107277
+        }
+      },
+      "formatted_address": "XFHX+CJ8, Planners St, Kofar Gadokaya 700103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9785458,8.4990714",
+      "google_place_id": "ChIJrTJqvmWArhERRRyuTDI64CY"
+    }
+  },
+  {
+    "id": "89985",
+    "name": "CIKIN GARI IV",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/24/09/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4429307,
+      "longitude": 8.1847833,
+      "viewport": {
+        "northeast": {
+          "lat": 11.44434137989272,
+          "lng": 8.186065729892722
+        },
+        "southwest": {
+          "lat": 11.44164172010728,
+          "lng": 8.183366070107278
+        }
+      },
+      "formatted_address": "7F3CC5VM+5WF, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4429307,8.1847833",
+      "google_place_id": "ChIJ-wVU6iu9rRERo-8uxKSl_EE"
+    }
+  },
+  {
+    "id": "89986",
+    "name": "CIKIN GARI V",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/24/09/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4429307,
+      "longitude": 8.1847833,
+      "viewport": {
+        "northeast": {
+          "lat": 11.44434137989272,
+          "lng": 8.186065729892722
+        },
+        "southwest": {
+          "lat": 11.44164172010728,
+          "lng": 8.183366070107278
+        }
+      },
+      "formatted_address": "7F3CC5VM+5WF, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4429307,8.1847833",
+      "google_place_id": "ChIJ-wVU6iu9rRERo-8uxKSl_EE"
+    }
+  },
+  {
+    "id": "89987",
+    "name": "CIKIN GARI VI",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/24/09/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4429307,
+      "longitude": 8.1847833,
+      "viewport": {
+        "northeast": {
+          "lat": 11.44434137989272,
+          "lng": 8.186065729892722
+        },
+        "southwest": {
+          "lat": 11.44164172010728,
+          "lng": 8.183366070107278
+        }
+      },
+      "formatted_address": "7F3CC5VM+5WF, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4429307,8.1847833",
+      "google_place_id": "ChIJ-wVU6iu9rRERo-8uxKSl_EE"
+    }
+  },
+  {
+    "id": "89988",
+    "name": "DARBO",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/24/09/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7313883,
+      "longitude": 8.1529154,
+      "viewport": {
+        "northeast": {
+          "lat": 11.73270987989272,
+          "lng": 8.154235229892722
+        },
+        "southwest": {
+          "lat": 11.73001022010728,
+          "lng": 8.151535570107278
+        }
+      },
+      "formatted_address": "7F3CP5J3+H53 AGALAWAN DARBO, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7313883,8.1529154",
+      "google_place_id": "ChIJT5Ns2kLDrRER5jQ_4zF53LY"
+    }
+  },
+  {
+    "id": "89989",
+    "name": "GAZAN I",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "19/24/09/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4429307,
+      "longitude": 8.1847833,
+      "viewport": {
+        "northeast": {
+          "lat": 11.44434137989272,
+          "lng": 8.186065729892722
+        },
+        "southwest": {
+          "lat": 11.44164172010728,
+          "lng": 8.183366070107278
+        }
+      },
+      "formatted_address": "7F3CC5VM+5WF, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4429307,8.1847833",
+      "google_place_id": "ChIJ-wVU6iu9rRERo-8uxKSl_EE"
+    }
+  },
+  {
+    "id": "89990",
+    "name": "GAZAN II",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "19/24/09/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4429307,
+      "longitude": 8.1847833,
+      "viewport": {
+        "northeast": {
+          "lat": 11.44434137989272,
+          "lng": 8.186065729892722
+        },
+        "southwest": {
+          "lat": 11.44164172010728,
+          "lng": 8.183366070107278
+        }
+      },
+      "formatted_address": "7F3CC5VM+5WF, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4429307,8.1847833",
+      "google_place_id": "ChIJ-wVU6iu9rRERo-8uxKSl_EE"
+    }
+  },
+  {
+    "id": "89991",
+    "name": "GIDAN HAKIMI I",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "19/24/09/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7022386,
+      "longitude": 8.1365868,
+      "viewport": {
+        "northeast": {
+          "lat": 11.709024,
+          "lng": 8.142942999999999
+        },
+        "southwest": {
+          "lat": 11.696386,
+          "lng": 8.120649
+        }
+      },
+      "formatted_address": "711105, Kiru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7022386,8.1365868",
+      "google_place_id": "ChIJdaSsXwnCrRERgeGd1FhoKTc"
+    }
+  },
+  {
+    "id": "89992",
+    "name": "GIDAN HAKIMI II",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "19/24/09/013",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4429307,
+      "longitude": 8.1847833,
+      "viewport": {
+        "northeast": {
+          "lat": 11.44434137989272,
+          "lng": 8.186065729892722
+        },
+        "southwest": {
+          "lat": 11.44164172010728,
+          "lng": 8.183366070107278
+        }
+      },
+      "formatted_address": "7F3CC5VM+5WF, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4429307,8.1847833",
+      "google_place_id": "ChIJ-wVU6iu9rRERo-8uxKSl_EE"
+    }
+  },
+  {
+    "id": "89993",
+    "name": "GIDAN HAKIMI III",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "19/24/09/014",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9785458,
+      "longitude": 8.4990714,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97989282989272,
+          "lng": 8.500421829892721
+        },
+        "southwest": {
+          "lat": 11.97719317010728,
+          "lng": 8.497722170107277
+        }
+      },
+      "formatted_address": "XFHX+CJ8, Planners St, Kofar Gadokaya 700103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9785458,8.4990714",
+      "google_place_id": "ChIJrTJqvmWArhERRRyuTDI64CY"
+    }
+  },
+  {
+    "id": "89994",
+    "name": "ISLAMIYYA I",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "19/24/09/015",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6290771,
+      "longitude": 8.1859073,
+      "viewport": {
+        "northeast": {
+          "lat": 11.63044287989272,
+          "lng": 8.187254079892721
+        },
+        "southwest": {
+          "lat": 11.62774322010728,
+          "lng": 8.184554420107277
+        }
+      },
+      "formatted_address": "7F3CJ5HP+J9P Kurmi Yako Kano Yako, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6290771,8.1859073",
+      "google_place_id": "ChIJry8BRr7BrRERCjQG5cyxfQg"
+    }
+  },
+  {
+    "id": "89995",
+    "name": "ISLAMIYYA II",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "19/24/09/016",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6290771,
+      "longitude": 8.1859073,
+      "viewport": {
+        "northeast": {
+          "lat": 11.63044287989272,
+          "lng": 8.187254079892721
+        },
+        "southwest": {
+          "lat": 11.62774322010728,
+          "lng": 8.184554420107277
+        }
+      },
+      "formatted_address": "7F3CJ5HP+J9P Kurmi Yako Kano Yako, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6290771,8.1859073",
+      "google_place_id": "ChIJry8BRr7BrRERCjQG5cyxfQg"
+    }
+  },
+  {
+    "id": "89996",
+    "name": "ISLAMIYYA III",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "19/24/09/017",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6290771,
+      "longitude": 8.1859073,
+      "viewport": {
+        "northeast": {
+          "lat": 11.63044287989272,
+          "lng": 8.187254079892721
+        },
+        "southwest": {
+          "lat": 11.62774322010728,
+          "lng": 8.184554420107277
+        }
+      },
+      "formatted_address": "7F3CJ5HP+J9P Kurmi Yako Kano Yako, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6290771,8.1859073",
+      "google_place_id": "ChIJry8BRr7BrRERCjQG5cyxfQg"
+    }
+  },
+  {
+    "id": "89997",
+    "name": "KADAUJE I",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "19/24/09/018",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7022386,
+      "longitude": 8.1365868,
+      "viewport": {
+        "northeast": {
+          "lat": 11.709024,
+          "lng": 8.142942999999999
+        },
+        "southwest": {
+          "lat": 11.696386,
+          "lng": 8.120649
+        }
+      },
+      "formatted_address": "711105, Kiru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7022386,8.1365868",
+      "google_place_id": "ChIJdaSsXwnCrRERgeGd1FhoKTc"
+    }
+  },
+  {
+    "id": "89998",
+    "name": "KADAUJE II",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "19/24/09/019",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9785458,
+      "longitude": 8.4990714,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97989282989272,
+          "lng": 8.500421829892721
+        },
+        "southwest": {
+          "lat": 11.97719317010728,
+          "lng": 8.497722170107277
+        }
+      },
+      "formatted_address": "XFHX+CJ8, Planners St, Kofar Gadokaya 700103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9785458,8.4990714",
+      "google_place_id": "ChIJrTJqvmWArhERRRyuTDI64CY"
+    }
+  },
+  {
+    "id": "89999",
+    "name": "KATSINAWA I",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "19/24/09/020",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6361621,
+      "longitude": 8.1775638,
+      "viewport": {
+        "northeast": {
+          "lat": 11.8007407,
+          "lng": 8.3155983
+        },
+        "southwest": {
+          "lat": 11.3040152,
+          "lng": 7.967448099999999
+        }
+      },
+      "formatted_address": "Kiru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6361621,8.1775638",
+      "google_place_id": "ChIJS24B19O_rREROLtdlRaRpVM"
+    }
+  },
+  {
+    "id": "90000",
+    "name": "KATSINAWA II",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "19/24/09/021",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7022386,
+      "longitude": 8.1365868,
+      "viewport": {
+        "northeast": {
+          "lat": 11.709024,
+          "lng": 8.142942999999999
+        },
+        "southwest": {
+          "lat": 11.696386,
+          "lng": 8.120649
+        }
+      },
+      "formatted_address": "711105, Kiru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7022386,8.1365868",
+      "google_place_id": "ChIJdaSsXwnCrRERgeGd1FhoKTc"
+    }
+  },
+  {
+    "id": "90001",
+    "name": "KATSINAWA III",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "19/24/09/022",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7022386,
+      "longitude": 8.1365868,
+      "viewport": {
+        "northeast": {
+          "lat": 11.709024,
+          "lng": 8.142942999999999
+        },
+        "southwest": {
+          "lat": 11.696386,
+          "lng": 8.120649
+        }
+      },
+      "formatted_address": "711105, Kiru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7022386,8.1365868",
+      "google_place_id": "ChIJdaSsXwnCrRERgeGd1FhoKTc"
+    }
+  },
+  {
+    "id": "90002",
+    "name": "KATSINAWA IV",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "19/24/09/023",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7022386,
+      "longitude": 8.1365868,
+      "viewport": {
+        "northeast": {
+          "lat": 11.709024,
+          "lng": 8.142942999999999
+        },
+        "southwest": {
+          "lat": 11.696386,
+          "lng": 8.120649
+        }
+      },
+      "formatted_address": "711105, Kiru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7022386,8.1365868",
+      "google_place_id": "ChIJdaSsXwnCrRERgeGd1FhoKTc"
+    }
+  },
+  {
+    "id": "90003",
+    "name": "KATSINAWA V",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "19/24/09/024",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7022386,
+      "longitude": 8.1365868,
+      "viewport": {
+        "northeast": {
+          "lat": 11.709024,
+          "lng": 8.142942999999999
+        },
+        "southwest": {
+          "lat": 11.696386,
+          "lng": 8.120649
+        }
+      },
+      "formatted_address": "711105, Kiru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7022386,8.1365868",
+      "google_place_id": "ChIJdaSsXwnCrRERgeGd1FhoKTc"
+    }
+  },
+  {
+    "id": "90004",
+    "name": "KATSINAWA VI",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "19/24/09/025",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7022386,
+      "longitude": 8.1365868,
+      "viewport": {
+        "northeast": {
+          "lat": 11.709024,
+          "lng": 8.142942999999999
+        },
+        "southwest": {
+          "lat": 11.696386,
+          "lng": 8.120649
+        }
+      },
+      "formatted_address": "711105, Kiru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7022386,8.1365868",
+      "google_place_id": "ChIJdaSsXwnCrRERgeGd1FhoKTc"
+    }
+  },
+  {
+    "id": "90005",
+    "name": "NATARE GABAS I",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "19/24/09/026",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6988487,
+      "longitude": 8.142444800000002,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70020992989272,
+          "lng": 8.143800329892722
+        },
+        "southwest": {
+          "lat": 11.69751027010728,
+          "lng": 8.141100670107278
+        }
+      },
+      "formatted_address": "7F3CM4XR+GX2, 711105, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6988487,8.142444800000002",
+      "google_place_id": "ChIJVzfK64LDrRERz4Jl6U8UltI"
+    }
+  },
+  {
+    "id": "90006",
+    "name": "NATARE GABAS II",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "19/24/09/027",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6988487,
+      "longitude": 8.142444800000002,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70020992989272,
+          "lng": 8.143800329892722
+        },
+        "southwest": {
+          "lat": 11.69751027010728,
+          "lng": 8.141100670107278
+        }
+      },
+      "formatted_address": "7F3CM4XR+GX2, 711105, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6988487,8.142444800000002",
+      "google_place_id": "ChIJVzfK64LDrRERz4Jl6U8UltI"
+    }
+  },
+  {
+    "id": "90007",
+    "name": "TURAKANCI",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "19/24/09/028",
+    "remark": "EXISTING PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4429307,
+      "longitude": 8.1847833,
+      "viewport": {
+        "northeast": {
+          "lat": 11.44434137989272,
+          "lng": 8.186065729892722
+        },
+        "southwest": {
+          "lat": 11.44164172010728,
+          "lng": 8.183366070107278
+        }
+      },
+      "formatted_address": "7F3CC5VM+5WF, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4429307,8.1847833",
+      "google_place_id": "ChIJ-wVU6iu9rRERo-8uxKSl_EE"
+    }
+  },
+  {
+    "id": "90008",
+    "name": "ISLAMIYA K/KUDU I",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "19/24/09/029",
+    "remark": "NEW PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9785458,
+      "longitude": 8.4990714,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97989282989272,
+          "lng": 8.500421829892721
+        },
+        "southwest": {
+          "lat": 11.97719317010728,
+          "lng": 8.497722170107277
+        }
+      },
+      "formatted_address": "XFHX+CJ8, Planners St, Kofar Gadokaya 700103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9785458,8.4990714",
+      "google_place_id": "ChIJrTJqvmWArhERRRyuTDI64CY"
+    }
+  },
+  {
+    "id": "90009",
+    "name": "ISLAMIYA K/KUDU II",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "19/24/09/030",
+    "remark": "NEW PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8385058,
+      "longitude": 8.5823274,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83986707989272,
+          "lng": 8.583625379892723
+        },
+        "southwest": {
+          "lat": 11.83716742010728,
+          "lng": 8.58092572010728
+        }
+      },
+      "formatted_address": "RHQJ+9VR, 713104, Dawakin Kudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8385058,8.5823274",
+      "google_place_id": "ChIJuwflva8urBERDiznN78l5WU"
+    }
+  },
+  {
+    "id": "90010",
+    "name": "CHLID FRIENDLY PRI I",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "19/24/09/031",
+    "remark": "NEW PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7023728,
+      "longitude": 8.1352878,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70369792989272,
+          "lng": 8.136636979892723
+        },
+        "southwest": {
+          "lat": 11.70099827010728,
+          "lng": 8.133937320107279
+        }
+      },
+      "formatted_address": "K/Fada, 52 Kiru Avenue, 700271, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7023728,8.1352878",
+      "google_place_id": "ChIJVZiZ2OzDrRER6-h4xPQpYo8"
+    }
+  },
+  {
+    "id": "90011",
+    "name": "CHILDFRIENDLY PRI II",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "19/24/09/032",
+    "remark": "NEW PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9785458,
+      "longitude": 8.4990714,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97989282989272,
+          "lng": 8.500421829892721
+        },
+        "southwest": {
+          "lat": 11.97719317010728,
+          "lng": 8.497722170107277
+        }
+      },
+      "formatted_address": "XFHX+CJ8, Planners St, Kofar Gadokaya 700103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9785458,8.4990714",
+      "google_place_id": "ChIJrTJqvmWArhERRRyuTDI64CY"
+    }
+  },
+  {
+    "id": "90012",
+    "name": "MADINATULMUNA ISL I",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "19/24/09/033",
+    "remark": "NEW PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4429307,
+      "longitude": 8.1847833,
+      "viewport": {
+        "northeast": {
+          "lat": 11.44434137989272,
+          "lng": 8.186065729892722
+        },
+        "southwest": {
+          "lat": 11.44164172010728,
+          "lng": 8.183366070107278
+        }
+      },
+      "formatted_address": "7F3CC5VM+5WF, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4429307,8.1847833",
+      "google_place_id": "ChIJ-wVU6iu9rRERo-8uxKSl_EE"
+    }
+  },
+  {
+    "id": "90013",
+    "name": "MADINATULMUNA ISL II",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "19/24/09/034",
+    "remark": "NEW PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4429307,
+      "longitude": 8.1847833,
+      "viewport": {
+        "northeast": {
+          "lat": 11.44434137989272,
+          "lng": 8.186065729892722
+        },
+        "southwest": {
+          "lat": 11.44164172010728,
+          "lng": 8.183366070107278
+        }
+      },
+      "formatted_address": "7F3CC5VM+5WF, 711105, Tarau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4429307,8.1847833",
+      "google_place_id": "ChIJ-wVU6iu9rRERo-8uxKSl_EE"
+    }
+  },
+  {
+    "id": "90014",
+    "name": "ABDULLAHI BN ABBAS ISL I",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "19/24/09/035",
+    "remark": "NEW PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9551785,
+      "longitude": 8.5222176,
+      "viewport": {
+        "northeast": {
+          "lat": 11.95656882989272,
+          "lng": 8.523616379892722
+        },
+        "southwest": {
+          "lat": 11.95386917010728,
+          "lng": 8.520916720107278
+        }
+      },
+      "formatted_address": "7F3CXG4C+3VP S/quaters, Gurun gawa, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9551785,8.5222176",
+      "google_place_id": "ChIJufFr3RmBrhER8Fx9XaxJCGM"
+    }
+  },
+  {
+    "id": "90015",
+    "name": "ABDULLAHI BN ABBAS ISL II",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "036",
+    "units": "036",
+    "delimitation": "19/24/09/036",
+    "remark": "NEW PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9551785,
+      "longitude": 8.5222176,
+      "viewport": {
+        "northeast": {
+          "lat": 11.95656882989272,
+          "lng": 8.523616379892722
+        },
+        "southwest": {
+          "lat": 11.95386917010728,
+          "lng": 8.520916720107278
+        }
+      },
+      "formatted_address": "7F3CXG4C+3VP S/quaters, Gurun gawa, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9551785,8.5222176",
+      "google_place_id": "ChIJufFr3RmBrhER8Fx9XaxJCGM"
+    }
+  },
+  {
+    "id": "90016",
+    "name": "SHARIA COURT I",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "037",
+    "units": "037",
+    "delimitation": "19/24/09/037",
+    "remark": "NEW PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0109155,
+      "longitude": 8.5310185,
+      "viewport": {
+        "northeast": {
+          "lat": 12.01213877989272,
+          "lng": 8.532417829892722
+        },
+        "southwest": {
+          "lat": 12.00943912010728,
+          "lng": 8.529718170107278
+        }
+      },
+      "formatted_address": "Waje Area, Fagge 700211, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0109155,8.5310185",
+      "google_place_id": "ChIJIY_AzCGBrhERZ4PIum03HZY"
+    }
+  },
+  {
+    "id": "90017",
+    "name": "SHARIA COURT II",
+    "registration_area_id": "4601",
+    "precise_location": null,
+    "abbreviation": "038",
+    "units": "038",
+    "delimitation": "19/24/09/038",
+    "remark": "NEW PU",
+    "ward_id": "4601",
+    "ward_name": "KIRU",
+    "local_government_id": "393",
+    "local_government_name": "KIRU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9965498,
+      "longitude": 8.5209868,
+      "viewport": {
+        "northeast": {
+          "lat": 11.99784732989272,
+          "lng": 8.522483229892721
+        },
+        "southwest": {
+          "lat": 11.99514767010728,
+          "lng": 8.519783570107277
+        }
+      },
+      "formatted_address": "XGWC+J9H, Kufar Mata Rd, Kano City 700114, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9965498,8.5209868",
+      "google_place_id": "ChIJ8R0FDPuArhER0WZWYSVYx0Y"
+    }
+  }
+]

@@ -1,0 +1,778 @@
+[
+  {
+    "id": "66113",
+    "name": "MBACHU PRIMARY SCHOOL",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "16/24/08/001",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.740935899999999,
+      "longitude": 6.910180599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.742385879892721,
+          "lng": 6.911626729892721
+        },
+        "southwest": {
+          "lat": 5.739686220107277,
+          "lng": 6.908927070107277
+        }
+      },
+      "formatted_address": "PWR6+93F, 474108, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.740935899999999,6.910180599999999",
+      "google_place_id": "ChIJVVVVVWWyQxARkpHLTXC_Cbw"
+    }
+  },
+  {
+    "id": "66114",
+    "name": "AMA ENWENONU SQUARE",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "16/24/08/002",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.7274463,
+      "longitude": 6.8983734,
+      "viewport": {
+        "northeast": {
+          "lat": 5.728827579892722,
+          "lng": 6.899738529892722
+        },
+        "southwest": {
+          "lat": 5.726127920107278,
+          "lng": 6.897038870107278
+        }
+      },
+      "formatted_address": "PVGX+X8H, 474108, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7274463,6.8983734",
+      "google_place_id": "ChIJL4iT3PSyQxAR4pvlHX9xjkE"
+    }
+  },
+  {
+    "id": "66115",
+    "name": "ONYEBUNWANA SQUARE",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "16/24/08/003",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.7274463,
+      "longitude": 6.8983734,
+      "viewport": {
+        "northeast": {
+          "lat": 5.728827579892722,
+          "lng": 6.899738529892722
+        },
+        "southwest": {
+          "lat": 5.726127920107278,
+          "lng": 6.897038870107278
+        }
+      },
+      "formatted_address": "PVGX+X8H, 474108, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7274463,6.8983734",
+      "google_place_id": "ChIJL4iT3PSyQxAR4pvlHX9xjkE"
+    }
+  },
+  {
+    "id": "66116",
+    "name": "COMPREHENSIVE SECONDARY SCHOOL UBULU I",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "16/24/08/004",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.8122497,
+      "longitude": 6.9094184,
+      "viewport": {
+        "northeast": {
+          "lat": 5.813444979892722,
+          "lng": 6.910747529892721
+        },
+        "southwest": {
+          "lat": 5.810745320107278,
+          "lng": 6.908047870107278
+        }
+      },
+      "formatted_address": "RW65+WQF, 474106, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8122497,6.9094184",
+      "google_place_id": "ChIJXw6yhJixQxAR4tC5ELrmOSU"
+    }
+  },
+  {
+    "id": "66117",
+    "name": "COMPREHENSIVE SECONDARY SCHOOL UBULU II",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "16/24/08/005",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.8122497,
+      "longitude": 6.9094184,
+      "viewport": {
+        "northeast": {
+          "lat": 5.813444979892722,
+          "lng": 6.910747529892721
+        },
+        "southwest": {
+          "lat": 5.810745320107278,
+          "lng": 6.908047870107278
+        }
+      },
+      "formatted_address": "RW65+WQF, 474106, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8122497,6.9094184",
+      "google_place_id": "ChIJXw6yhJixQxAR4tC5ELrmOSU"
+    }
+  },
+  {
+    "id": "66118",
+    "name": "CENTRAL SCHOOL UBULU",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "16/24/08/006",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.740935899999999,
+      "longitude": 6.910180599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.742385879892721,
+          "lng": 6.911626729892721
+        },
+        "southwest": {
+          "lat": 5.739686220107277,
+          "lng": 6.908927070107277
+        }
+      },
+      "formatted_address": "PWR6+93F, 474108, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.740935899999999,6.910180599999999",
+      "google_place_id": "ChIJVVVVVWWyQxARkpHLTXC_Cbw"
+    }
+  },
+  {
+    "id": "66119",
+    "name": "NOBIS PRIMARY SCHOOL, UBULU I",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "16/24/08/007",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.740935899999999,
+      "longitude": 6.910180599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.742385879892721,
+          "lng": 6.911626729892721
+        },
+        "southwest": {
+          "lat": 5.739686220107277,
+          "lng": 6.908927070107277
+        }
+      },
+      "formatted_address": "PWR6+93F, 474108, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.740935899999999,6.910180599999999",
+      "google_place_id": "ChIJVVVVVWWyQxARkpHLTXC_Cbw"
+    }
+  },
+  {
+    "id": "66120",
+    "name": "NOBIS PRIMARY SCHOOL UBULU II",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "16/24/08/008",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.740935899999999,
+      "longitude": 6.910180599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.742385879892721,
+          "lng": 6.911626729892721
+        },
+        "southwest": {
+          "lat": 5.739686220107277,
+          "lng": 6.908927070107277
+        }
+      },
+      "formatted_address": "PWR6+93F, 474108, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.740935899999999,6.910180599999999",
+      "google_place_id": "ChIJVVVVVWWyQxARkpHLTXC_Cbw"
+    }
+  },
+  {
+    "id": "66121",
+    "name": "IHEBIGBO PRIMARY SCHOOL",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "16/24/08/009",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.740935899999999,
+      "longitude": 6.910180599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.742385879892721,
+          "lng": 6.911626729892721
+        },
+        "southwest": {
+          "lat": 5.739686220107277,
+          "lng": 6.908927070107277
+        }
+      },
+      "formatted_address": "PWR6+93F, 474108, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.740935899999999,6.910180599999999",
+      "google_place_id": "ChIJVVVVVWWyQxARkpHLTXC_Cbw"
+    }
+  },
+  {
+    "id": "66122",
+    "name": "UMUOM HEALTH CENTRE",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "16/24/08/010",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.740935899999999,
+      "longitude": 6.910180599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.742385879892721,
+          "lng": 6.911626729892721
+        },
+        "southwest": {
+          "lat": 5.739686220107277,
+          "lng": 6.908927070107277
+        }
+      },
+      "formatted_address": "PWR6+93F, Amaofuo Road, Oru west Imo StateNigeria, Nempe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.740935899999999,6.910180599999999",
+      "google_place_id": "ChIJh_Vi7JezQxARoUwiPsK_k7I"
+    }
+  },
+  {
+    "id": "66123",
+    "name": "NEW ERU CLUB",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "16/24/08/011",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.740935899999999,
+      "longitude": 6.910180599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.742385879892721,
+          "lng": 6.911626729892721
+        },
+        "southwest": {
+          "lat": 5.739686220107277,
+          "lng": 6.908927070107277
+        }
+      },
+      "formatted_address": "PWR6+93F, 474108, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.740935899999999,6.910180599999999",
+      "google_place_id": "ChIJVVVVVWWyQxARkpHLTXC_Cbw"
+    }
+  },
+  {
+    "id": "66124",
+    "name": "C.P.S.(JNR.) EZIAMA UBULU",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "16/24/08/012",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": null
+  },
+  {
+    "id": "66125",
+    "name": "COMMUNITY PRIMARY SCHOOL EZIAMA I",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "16/24/08/013",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.7160359,
+      "longitude": 6.8686627,
+      "viewport": {
+        "northeast": {
+          "lat": 5.717674929892723,
+          "lng": 6.869844929892722
+        },
+        "southwest": {
+          "lat": 5.714975270107279,
+          "lng": 6.867145270107279
+        }
+      },
+      "formatted_address": "Oguta-Mgbidi Rd, 474104, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7160359,6.8686627",
+      "google_place_id": "ChIJv7Ra6HyzQxAR4r5ag-ls3S4"
+    }
+  },
+  {
+    "id": "66126",
+    "name": "COMMUNITY PRIMARY SCHOOL EZIAMA II",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "16/24/08/014",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.7160359,
+      "longitude": 6.8686627,
+      "viewport": {
+        "northeast": {
+          "lat": 5.717674929892723,
+          "lng": 6.869844929892722
+        },
+        "southwest": {
+          "lat": 5.714975270107279,
+          "lng": 6.867145270107279
+        }
+      },
+      "formatted_address": "Oguta-Mgbidi Rd, 474104, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7160359,6.8686627",
+      "google_place_id": "ChIJv7Ra6HyzQxAR4r5ag-ls3S4"
+    }
+  },
+  {
+    "id": "66127",
+    "name": "COMMUNITY PRIMARY SCHOOL EZIAMA III",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "16/24/08/015",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.7160359,
+      "longitude": 6.8686627,
+      "viewport": {
+        "northeast": {
+          "lat": 5.717674929892723,
+          "lng": 6.869844929892722
+        },
+        "southwest": {
+          "lat": 5.714975270107279,
+          "lng": 6.867145270107279
+        }
+      },
+      "formatted_address": "Oguta-Mgbidi Rd, 474104, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7160359,6.8686627",
+      "google_place_id": "ChIJv7Ra6HyzQxAR4r5ag-ls3S4"
+    }
+  },
+  {
+    "id": "66128",
+    "name": "NEW ERA CLUB-HALL EZIAMA",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "16/24/08/016",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.7274463,
+      "longitude": 6.8983734,
+      "viewport": {
+        "northeast": {
+          "lat": 5.728827579892722,
+          "lng": 6.899738529892722
+        },
+        "southwest": {
+          "lat": 5.726127920107278,
+          "lng": 6.897038870107278
+        }
+      },
+      "formatted_address": "PVGX+X8H, 474108, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7274463,6.8983734",
+      "google_place_id": "ChIJL4iT3PSyQxAR4pvlHX9xjkE"
+    }
+  },
+  {
+    "id": "66129",
+    "name": "UBADARA VILLAGE SQUARE",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "16/24/08/017",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.7274463,
+      "longitude": 6.8983734,
+      "viewport": {
+        "northeast": {
+          "lat": 5.728827579892722,
+          "lng": 6.899738529892722
+        },
+        "southwest": {
+          "lat": 5.726127920107278,
+          "lng": 6.897038870107278
+        }
+      },
+      "formatted_address": "PVGX+X8H, 474108, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7274463,6.8983734",
+      "google_place_id": "ChIJL4iT3PSyQxAR4pvlHX9xjkE"
+    }
+  },
+  {
+    "id": "66130",
+    "name": "AMA ENWEONU I",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "16/24/08/018",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.7274463,
+      "longitude": 6.8983734,
+      "viewport": {
+        "northeast": {
+          "lat": 5.728827579892722,
+          "lng": 6.899738529892722
+        },
+        "southwest": {
+          "lat": 5.726127920107278,
+          "lng": 6.897038870107278
+        }
+      },
+      "formatted_address": "PVGX+X8H, 474108, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7274463,6.8983734",
+      "google_place_id": "ChIJL4iT3PSyQxAR4pvlHX9xjkE"
+    }
+  },
+  {
+    "id": "66131",
+    "name": "AMA ENWEONU II",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "16/24/08/019",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.7274463,
+      "longitude": 6.8983734,
+      "viewport": {
+        "northeast": {
+          "lat": 5.728827579892722,
+          "lng": 6.899738529892722
+        },
+        "southwest": {
+          "lat": 5.726127920107278,
+          "lng": 6.897038870107278
+        }
+      },
+      "formatted_address": "PVGX+X8H, 474108, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7274463,6.8983734",
+      "google_place_id": "ChIJL4iT3PSyQxAR4pvlHX9xjkE"
+    }
+  },
+  {
+    "id": "66132",
+    "name": "AMA OGWA OMUONYEYELE",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "16/24/08/020",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.7274463,
+      "longitude": 6.8983734,
+      "viewport": {
+        "northeast": {
+          "lat": 5.728827579892722,
+          "lng": 6.899738529892722
+        },
+        "southwest": {
+          "lat": 5.726127920107278,
+          "lng": 6.897038870107278
+        }
+      },
+      "formatted_address": "PVGX+X8H, 474108, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7274463,6.8983734",
+      "google_place_id": "ChIJL4iT3PSyQxAR4pvlHX9xjkE"
+    }
+  },
+  {
+    "id": "66133",
+    "name": "AMA MUONWU EZIAMA ENWERE",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "16/24/08/021",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.7274463,
+      "longitude": 6.8983734,
+      "viewport": {
+        "northeast": {
+          "lat": 5.728827579892722,
+          "lng": 6.899738529892722
+        },
+        "southwest": {
+          "lat": 5.726127920107278,
+          "lng": 6.897038870107278
+        }
+      },
+      "formatted_address": "PVGX+X8H, 474108, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7274463,6.8983734",
+      "google_place_id": "ChIJL4iT3PSyQxAR4pvlHX9xjkE"
+    }
+  },
+  {
+    "id": "66134",
+    "name": "NDI OKWU VILLAGE SQUARE",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "16/24/08/022",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.7274463,
+      "longitude": 6.8983734,
+      "viewport": {
+        "northeast": {
+          "lat": 5.728827579892722,
+          "lng": 6.899738529892722
+        },
+        "southwest": {
+          "lat": 5.726127920107278,
+          "lng": 6.897038870107278
+        }
+      },
+      "formatted_address": "PVGX+X8H, 474108, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7274463,6.8983734",
+      "google_place_id": "ChIJL4iT3PSyQxAR4pvlHX9xjkE"
+    }
+  },
+  {
+    "id": "66135",
+    "name": "OSITADINMA CLUB HALL I",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "16/24/08/023",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.7274463,
+      "longitude": 6.8983734,
+      "viewport": {
+        "northeast": {
+          "lat": 5.728827579892722,
+          "lng": 6.899738529892722
+        },
+        "southwest": {
+          "lat": 5.726127920107278,
+          "lng": 6.897038870107278
+        }
+      },
+      "formatted_address": "PVGX+X8H, 474108, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7274463,6.8983734",
+      "google_place_id": "ChIJL4iT3PSyQxAR4pvlHX9xjkE"
+    }
+  },
+  {
+    "id": "66136",
+    "name": "OSITADINMA CLUB HALL II",
+    "registration_area_id": "3621",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "16/24/08/024",
+    "remark": "EXISTING PU",
+    "ward_id": "3621",
+    "ward_name": "UBULU",
+    "local_government_id": "316",
+    "local_government_name": "ORU WEST (MGBIDI)",
+    "state_id": "16",
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.7274463,
+      "longitude": 6.8983734,
+      "viewport": {
+        "northeast": {
+          "lat": 5.728827579892722,
+          "lng": 6.899738529892722
+        },
+        "southwest": {
+          "lat": 5.726127920107278,
+          "lng": 6.897038870107278
+        }
+      },
+      "formatted_address": "PVGX+X8H, 474108, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7274463,6.8983734",
+      "google_place_id": "ChIJL4iT3PSyQxAR4pvlHX9xjkE"
+    }
+  }
+]

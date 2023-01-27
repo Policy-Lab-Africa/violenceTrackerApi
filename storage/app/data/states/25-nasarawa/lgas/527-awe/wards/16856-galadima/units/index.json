@@ -1,0 +1,334 @@
+[
+  {
+    "id": "331637",
+    "name": "AMPANA PRI.SCHOOL - PB",
+    "registration_area_id": "16856",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "25/02/04/001",
+    "remark": "EXISTING PU",
+    "ward_id": "16856",
+    "ward_name": "GALADIMA",
+    "local_government_id": "527",
+    "local_government_name": "AWE",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.5727039,
+      "longitude": 9.7044683,
+      "viewport": {
+        "northeast": {
+          "lat": 8.574048529892723,
+          "lng": 9.705903679892721
+        },
+        "southwest": {
+          "lat": 8.571348870107279,
+          "lng": 9.703204020107277
+        }
+      },
+      "formatted_address": "HPF3+3QP, 941109, Yamini, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5727039,9.7044683",
+      "google_place_id": "ChIJD82U5MjvVhAR8QVGe5eXd6o"
+    }
+  },
+  {
+    "id": "331638",
+    "name": "KOFAR  GALADIMA A - OB",
+    "registration_area_id": "16856",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "25/02/04/002",
+    "remark": "EXISTING PU",
+    "ward_id": "16856",
+    "ward_name": "GALADIMA",
+    "local_government_id": "527",
+    "local_government_name": "AWE",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "331639",
+    "name": "KOFAR  GALADIMA B - PB",
+    "registration_area_id": "16856",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "25/02/04/003",
+    "remark": "EXISTING PU",
+    "ward_id": "16856",
+    "ward_name": "GALADIMA",
+    "local_government_id": "527",
+    "local_government_name": "AWE",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "331640",
+    "name": "MAHANGA/NOMADIC - OB",
+    "registration_area_id": "16856",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "25/02/04/004",
+    "remark": "EXISTING PU",
+    "ward_id": "16856",
+    "ward_name": "GALADIMA",
+    "local_government_id": "527",
+    "local_government_name": "AWE",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "331641",
+    "name": "MAIN - MARKET A - OB",
+    "registration_area_id": "16856",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "25/02/04/005",
+    "remark": "EXISTING PU",
+    "ward_id": "16856",
+    "ward_name": "GALADIMA",
+    "local_government_id": "527",
+    "local_government_name": "AWE",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 9.027721099999999,
+      "longitude": 7.6003647,
+      "viewport": {
+        "northeast": {
+          "lat": 9.029087479892723,
+          "lng": 7.601675979892723
+        },
+        "southwest": {
+          "lat": 9.026387820107278,
+          "lng": 7.598976320107279
+        }
+      },
+      "formatted_address": "Abuja-Keffi Rd, Mararaba 961105, Ado, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.027721099999999,7.6003647",
+      "google_place_id": "ChIJW6AlQc4FThARLPd-tiz0xnM"
+    }
+  },
+  {
+    "id": "331642",
+    "name": "MAIN-MARKET B   (OB)",
+    "registration_area_id": "16856",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "25/02/04/006",
+    "remark": "EXISTING PU",
+    "ward_id": "16856",
+    "ward_name": "GALADIMA",
+    "local_government_id": "527",
+    "local_government_name": "AWE",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 9.027721099999999,
+      "longitude": 7.6003647,
+      "viewport": {
+        "northeast": {
+          "lat": 9.029087479892723,
+          "lng": 7.601675979892723
+        },
+        "southwest": {
+          "lat": 9.026387820107278,
+          "lng": 7.598976320107279
+        }
+      },
+      "formatted_address": "Abuja-Keffi Rd, Mararaba 961105, Ado, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.027721099999999,7.6003647",
+      "google_place_id": "ChIJW6AlQc4FThARLPd-tiz0xnM"
+    }
+  },
+  {
+    "id": "331643",
+    "name": "NOMADIC PRIMARY SCHOOL AMPANA",
+    "registration_area_id": "16856",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "25/02/04/007",
+    "remark": "NEW PU",
+    "ward_id": "16856",
+    "ward_name": "GALADIMA",
+    "local_government_id": "527",
+    "local_government_name": "AWE",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 9.1540892,
+      "longitude": 7.4847642,
+      "viewport": {
+        "northeast": {
+          "lat": 9.155364329892722,
+          "lng": 7.486052829892722
+        },
+        "southwest": {
+          "lat": 9.152664670107278,
+          "lng": 7.483353170107278
+        }
+      },
+      "formatted_address": "5F3M+HWJ, Mashafa Rd, 901101, Mpape, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1540892,7.4847642",
+      "google_place_id": "ChIJY--6hu7hTRARWyGsgXlL6Ls"
+    }
+  },
+  {
+    "id": "331644",
+    "name": "NOMADIC PRIMARY SCHOOL MAHANGA",
+    "registration_area_id": "16856",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "25/02/04/008",
+    "remark": "NEW PU",
+    "ward_id": "16856",
+    "ward_name": "GALADIMA",
+    "local_government_id": "527",
+    "local_government_name": "AWE",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 9.1540892,
+      "longitude": 7.4847642,
+      "viewport": {
+        "northeast": {
+          "lat": 9.155364329892722,
+          "lng": 7.486052829892722
+        },
+        "southwest": {
+          "lat": 9.152664670107278,
+          "lng": 7.483353170107278
+        }
+      },
+      "formatted_address": "5F3M+HWJ, Mashafa Rd, 901101, Mpape, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1540892,7.4847642",
+      "google_place_id": "ChIJY--6hu7hTRARWyGsgXlL6Ls"
+    }
+  },
+  {
+    "id": "331645",
+    "name": "PHC MAHANGA",
+    "registration_area_id": "16856",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "25/02/04/009",
+    "remark": "NEW PU",
+    "ward_id": "16856",
+    "ward_name": "GALADIMA",
+    "local_government_id": "527",
+    "local_government_name": "AWE",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.5352392,
+      "longitude": 7.705817799999998,
+      "viewport": {
+        "northeast": {
+          "lat": 8.53662462989272,
+          "lng": 7.70708052989272
+        },
+        "southwest": {
+          "lat": 8.533924970107277,
+          "lng": 7.704380870107276
+        }
+      },
+      "formatted_address": "GPP4+38W, Mangoro Goma Road, 962101, Nasarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5352392,7.705817799999998",
+      "google_place_id": "ChIJvSHYRbwpThARi9oJAbjlR-w"
+    }
+  },
+  {
+    "id": "331646",
+    "name": "MAHANGA MAIN MARKET",
+    "registration_area_id": "16856",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "25/02/04/010",
+    "remark": "NEW PU",
+    "ward_id": "16856",
+    "ward_name": "GALADIMA",
+    "local_government_id": "527",
+    "local_government_name": "AWE",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.5384161,
+      "longitude": 8.502249299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.539640379892724,
+          "lng": 8.503354129892724
+        },
+        "southwest": {
+          "lat": 8.53694072010728,
+          "lng": 8.50065447010728
+        }
+      },
+      "formatted_address": "GGQ2+9V9, 950101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5384161,8.502249299999999",
+      "google_place_id": "ChIJp8BDXZYHURARwCCoofo7d0Q"
+    }
+  },
+  {
+    "id": "331647",
+    "name": "KOFAR TURAKIN AWE",
+    "registration_area_id": "16856",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "25/02/04/011",
+    "remark": "NEW PU",
+    "ward_id": "16856",
+    "ward_name": "GALADIMA",
+    "local_government_id": "527",
+    "local_government_name": "AWE",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": null
+  },
+  {
+    "id": "331648",
+    "name": "OLD VETENARY CLINIC",
+    "registration_area_id": "16856",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "25/02/04/012",
+    "remark": "NEW PU",
+    "ward_id": "16856",
+    "ward_name": "GALADIMA",
+    "local_government_id": "527",
+    "local_government_name": "AWE",
+    "state_id": "25",
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.5326025,
+      "longitude": 7.706453799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.533945679892723,
+          "lng": 7.707801329892723
+        },
+        "southwest": {
+          "lat": 8.531246020107279,
+          "lng": 7.705101670107279
+        }
+      },
+      "formatted_address": "GPM4+3H8, 962101, Nasarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5326025,7.706453799999999",
+      "google_place_id": "ChIJhSw5IC8pThARxbjvCwfkQjY"
+    }
+  }
+]

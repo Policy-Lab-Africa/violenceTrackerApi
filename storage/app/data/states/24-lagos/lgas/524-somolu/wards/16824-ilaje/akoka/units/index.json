@@ -1,0 +1,1755 @@
+[
+  {
+    "id": "330285",
+    "name": "ILAJE RD. B/W HOUSE NOS. 12 & 14",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "24/19/07/001",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330286",
+    "name": "TESLIM NOSIRU/VICTORIA ST. JUNCTION",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "24/19/07/002",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4325768,
+      "longitude": 3.4087111,
+      "viewport": {
+        "northeast": {
+          "lat": 6.433926979892721,
+          "lng": 3.410104529892722
+        },
+        "southwest": {
+          "lat": 6.431227320107277,
+          "lng": 3.407404870107277
+        }
+      },
+      "formatted_address": "Victoria Island,Idijo, 3 Idejo Road, Eti-Osa, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4325768,3.4087111",
+      "google_place_id": "ChIJK4hQEtqKOxAReabB-eiHR6g"
+    }
+  },
+  {
+    "id": "330287",
+    "name": "MOSALASHI ST. IN FRONT OF HOUSE NO. 16",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "24/19/07/003",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5316081,
+      "longitude": 3.3889241,
+      "viewport": {
+        "northeast": {
+          "lat": 6.53295792989272,
+          "lng": 3.390273929892722
+        },
+        "southwest": {
+          "lat": 6.530258270107276,
+          "lng": 3.387574270107277
+        }
+      },
+      "formatted_address": "Abayomi St, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5316081,3.3889241",
+      "google_place_id": "ChIJ80Sy2RqNOxAR9vV3v8-xqtA"
+    }
+  },
+  {
+    "id": "330288",
+    "name": "MOSALASHI ST./RICKET CLOSE JUNCTION",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "24/19/07/004",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.52867,
+      "longitude": 3.3872889,
+      "viewport": {
+        "northeast": {
+          "lat": 6.530056579892721,
+          "lng": 3.388521279892723
+        },
+        "southwest": {
+          "lat": 6.527356920107278,
+          "lng": 3.385821620107278
+        }
+      },
+      "formatted_address": "Opposite Chemist B/Stop, 58 St Finbarr's College Rd, Akoka 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.52867,3.3872889",
+      "google_place_id": "ChIJK5vSggONOxARMEduAoB61lk"
+    }
+  },
+  {
+    "id": "330289",
+    "name": "ABAYOMI ST. IN FRONT OF HOUSE NO. 18",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "24/19/07/005",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5316081,
+      "longitude": 3.3889241,
+      "viewport": {
+        "northeast": {
+          "lat": 6.53295792989272,
+          "lng": 3.390273929892722
+        },
+        "southwest": {
+          "lat": 6.530258270107276,
+          "lng": 3.387574270107277
+        }
+      },
+      "formatted_address": "Abayomi St, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5316081,3.3889241",
+      "google_place_id": "ChIJ80Sy2RqNOxAR9vV3v8-xqtA"
+    }
+  },
+  {
+    "id": "330290",
+    "name": "FOLORUNSHO ST. IN FRONT OF HOUSE NO. 4",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "24/19/07/006",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5337837,
+      "longitude": 3.3915833,
+      "viewport": {
+        "northeast": {
+          "lat": 6.535162329892723,
+          "lng": 3.392958479892722
+        },
+        "southwest": {
+          "lat": 6.532462670107279,
+          "lng": 3.390258820107277
+        }
+      },
+      "formatted_address": "4 Ilaje Rd, Bariga 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5337837,3.3915833",
+      "google_place_id": "ChIJx4EKixqNOxARsFshMo4GcVI"
+    }
+  },
+  {
+    "id": "330291",
+    "name": "FOLORUNSHO ST. IN FRONT OF HOUSE NO. 14",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "24/19/07/007",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.532882600000001,
+      "longitude": 3.3925788,
+      "viewport": {
+        "northeast": {
+          "lat": 6.534279079892722,
+          "lng": 3.393967379892723
+        },
+        "southwest": {
+          "lat": 6.531579420107279,
+          "lng": 3.391267720107278
+        }
+      },
+      "formatted_address": "14 Ilaje Rd, Akoka 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.532882600000001,3.3925788",
+      "google_place_id": "ChIJM5-YTxqNOxARdVUUCBFBbgM"
+    }
+  },
+  {
+    "id": "330292",
+    "name": "AWOFALA ST./COUNCIL OBULE JUNCTION",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "24/19/07/008",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5311952,
+      "longitude": 3.3878784,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532521529892721,
+          "lng": 3.389282379892722
+        },
+        "southwest": {
+          "lat": 6.529821870107277,
+          "lng": 3.386582720107278
+        }
+      },
+      "formatted_address": "95 St Finbarr's College Rd, Akoka 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5311952,3.3878784",
+      "google_place_id": "ChIJv8hD6gSNOxARWz3jwB4WZiI"
+    }
+  },
+  {
+    "id": "330293",
+    "name": "WULEMOT AJOKE/AYETORO ST. JUNCTION",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "24/19/07/009",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330294",
+    "name": "AIYETORO PRY. SCH. OLANREWAJU ST.",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "24/19/07/010",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5277074,
+      "longitude": 3.3882836,
+      "viewport": {
+        "northeast": {
+          "lat": 6.529001129892722,
+          "lng": 3.389800579892722
+        },
+        "southwest": {
+          "lat": 6.526301470107279,
+          "lng": 3.387100920107278
+        }
+      },
+      "formatted_address": "Ayetoro Nursery and Primary School, Emily Akinola St, Akoka 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5277074,3.3882836",
+      "google_place_id": "ChIJO_YjIwONOxARCLSaY-uyHgk"
+    }
+  },
+  {
+    "id": "330295",
+    "name": "ORIDAMI ST./OYENUGA ST. JUNCTION",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "24/19/07/011",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5255152,
+      "longitude": 3.3866923,
+      "viewport": {
+        "northeast": {
+          "lat": 6.526861629892722,
+          "lng": 3.388059979892722
+        },
+        "southwest": {
+          "lat": 6.524161970107278,
+          "lng": 3.385360320107277
+        }
+      },
+      "formatted_address": "G9GP+6M3, Oyenuga St, Akoka 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5255152,3.3866923",
+      "google_place_id": "ChIJV-r-YAKNOxARldBHYe5dpgo"
+    }
+  },
+  {
+    "id": "330296",
+    "name": "ST. FINBARRS COLL. RD. B/W HOUSE NOS. 20 & 22",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "24/19/07/012",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5220597,
+      "longitude": 3.3865712,
+      "viewport": {
+        "northeast": {
+          "lat": 6.52312197989272,
+          "lng": 3.387470879892722
+        },
+        "southwest": {
+          "lat": 6.520422320107277,
+          "lng": 3.384771220107277
+        }
+      },
+      "formatted_address": "St Finbarr's College Rd, Yaba 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5220597,3.3865712",
+      "google_place_id": "ChIJ0-fbmf2MOxARlNFxmu8GIak"
+    }
+  },
+  {
+    "id": "330297",
+    "name": "MORONFOLU ST. IN FRONT OF HOUSE NO. 13",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "24/19/07/013",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5240558,
+      "longitude": 3.3893417,
+      "viewport": {
+        "northeast": {
+          "lat": 6.525405629892722,
+          "lng": 3.390691529892722
+        },
+        "southwest": {
+          "lat": 6.522705970107278,
+          "lng": 3.387991870107278
+        }
+      },
+      "formatted_address": "Moronfolu St, Akoka, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5240558,3.3893417",
+      "google_place_id": "ChIJw0vUUv2MOxARsWBeAg3-Ubg"
+    }
+  },
+  {
+    "id": "330298",
+    "name": "COMMUNITY RD. IN FRONT OF HOUSE NO. 3",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "24/19/07/014",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.524849,
+      "longitude": 3.3934101,
+      "viewport": {
+        "northeast": {
+          "lat": 6.526198829892722,
+          "lng": 3.394759929892722
+        },
+        "southwest": {
+          "lat": 6.523499170107278,
+          "lng": 3.392060270107277
+        }
+      },
+      "formatted_address": "Community Rd, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.524849,3.3934101",
+      "google_place_id": "ChIJC-Sfix2NOxARM8mDiD4Rn_g"
+    }
+  },
+  {
+    "id": "330299",
+    "name": "EMILY AKINOLA ST. IN FRONT OF HOUSE NO. 15",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "24/19/07/015",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5268487,
+      "longitude": 3.3884652,
+      "viewport": {
+        "northeast": {
+          "lat": 6.528198529892721,
+          "lng": 3.389815029892722
+        },
+        "southwest": {
+          "lat": 6.525498870107278,
+          "lng": 3.387115370107277
+        }
+      },
+      "formatted_address": "Emily Akinola St, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5268487,3.3884652",
+      "google_place_id": "ChIJr--J2AKNOxARUxJPY3FqlX8"
+    }
+  },
+  {
+    "id": "330300",
+    "name": "AFOLABI BROWN ST. IN FRONT OF HOUSE NO. 28",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "24/19/07/016",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.526102100000001,
+      "longitude": 3.3921687,
+      "viewport": {
+        "northeast": {
+          "lat": 6.527451929892722,
+          "lng": 3.393518529892723
+        },
+        "southwest": {
+          "lat": 6.524752270107278,
+          "lng": 3.390818870107278
+        }
+      },
+      "formatted_address": "Afolabi Brown St, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.526102100000001,3.3921687",
+      "google_place_id": "ChIJSUqnxB2NOxARowlFFV8GzTw"
+    }
+  },
+  {
+    "id": "330301",
+    "name": "AFOLABI BROWN ST. IN FRONT OF HOUSE NO. 14",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "24/19/07/017",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.526102100000001,
+      "longitude": 3.3921687,
+      "viewport": {
+        "northeast": {
+          "lat": 6.527451929892722,
+          "lng": 3.393518529892723
+        },
+        "southwest": {
+          "lat": 6.524752270107278,
+          "lng": 3.390818870107278
+        }
+      },
+      "formatted_address": "Afolabi Brown St, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.526102100000001,3.3921687",
+      "google_place_id": "ChIJSUqnxB2NOxARowlFFV8GzTw"
+    }
+  },
+  {
+    "id": "330302",
+    "name": "OBAYAN ST. IN FRONT OF HOUSE NO. 29",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "24/19/07/018",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5254726,
+      "longitude": 3.3917629,
+      "viewport": {
+        "northeast": {
+          "lat": 6.526822429892722,
+          "lng": 3.393112729892722
+        },
+        "southwest": {
+          "lat": 6.524122770107279,
+          "lng": 3.390413070107277
+        }
+      },
+      "formatted_address": "Obayan St, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5254726,3.3917629",
+      "google_place_id": "ChIJF5jUmB2NOxARXJP2DD6YSag"
+    }
+  },
+  {
+    "id": "330303",
+    "name": "OBAYAN ST. IN FRONT OF HOUSE NO. 33",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "24/19/07/019",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5254726,
+      "longitude": 3.3917629,
+      "viewport": {
+        "northeast": {
+          "lat": 6.526822429892722,
+          "lng": 3.393112729892722
+        },
+        "southwest": {
+          "lat": 6.524122770107279,
+          "lng": 3.390413070107277
+        }
+      },
+      "formatted_address": "Obayan St, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5254726,3.3917629",
+      "google_place_id": "ChIJF5jUmB2NOxARXJP2DD6YSag"
+    }
+  },
+  {
+    "id": "330304",
+    "name": "COMMUNITY RD. IN FRONT OF HOUSE NO. 31",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "020",
+    "units": "020",
+    "delimitation": "24/19/07/020",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.524849,
+      "longitude": 3.3934101,
+      "viewport": {
+        "northeast": {
+          "lat": 6.526198829892722,
+          "lng": 3.394759929892722
+        },
+        "southwest": {
+          "lat": 6.523499170107278,
+          "lng": 3.392060270107277
+        }
+      },
+      "formatted_address": "Community Rd, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.524849,3.3934101",
+      "google_place_id": "ChIJC-Sfix2NOxARM8mDiD4Rn_g"
+    }
+  },
+  {
+    "id": "330305",
+    "name": "COMMUNITY RD. IN FRONT OF HOUSE NO. 33",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "021",
+    "units": "021",
+    "delimitation": "24/19/07/021",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.524849,
+      "longitude": 3.3934101,
+      "viewport": {
+        "northeast": {
+          "lat": 6.526198829892722,
+          "lng": 3.394759929892722
+        },
+        "southwest": {
+          "lat": 6.523499170107278,
+          "lng": 3.392060270107277
+        }
+      },
+      "formatted_address": "Community Rd, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.524849,3.3934101",
+      "google_place_id": "ChIJC-Sfix2NOxARM8mDiD4Rn_g"
+    }
+  },
+  {
+    "id": "330306",
+    "name": "OBADIAH ST. IN FRONT OF HOUSE NO. 5",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "022",
+    "units": "022",
+    "delimitation": "24/19/07/022",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5260333,
+      "longitude": 3.3965453,
+      "viewport": {
+        "northeast": {
+          "lat": 6.527383129892721,
+          "lng": 3.397895129892722
+        },
+        "southwest": {
+          "lat": 6.524683470107277,
+          "lng": 3.395195470107277
+        }
+      },
+      "formatted_address": "Obadiah St, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5260333,3.3965453",
+      "google_place_id": "ChIJlQ2MTR6NOxARmZjDcL2wmYc"
+    }
+  },
+  {
+    "id": "330307",
+    "name": "OBADIAH ST. IN FRONT OF HOUSE NO. 22",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "023",
+    "units": "023",
+    "delimitation": "24/19/07/023",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5260333,
+      "longitude": 3.3965453,
+      "viewport": {
+        "northeast": {
+          "lat": 6.527383129892721,
+          "lng": 3.397895129892722
+        },
+        "southwest": {
+          "lat": 6.524683470107277,
+          "lng": 3.395195470107277
+        }
+      },
+      "formatted_address": "Obadiah St, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5260333,3.3965453",
+      "google_place_id": "ChIJlQ2MTR6NOxARmZjDcL2wmYc"
+    }
+  },
+  {
+    "id": "330308",
+    "name": "AJAYI OLAIYA ST. B/W HOUSE NOS. 15 & 16",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "024",
+    "units": "024",
+    "delimitation": "24/19/07/024",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.525301000000001,
+      "longitude": 3.3971437,
+      "viewport": {
+        "northeast": {
+          "lat": 6.526650829892722,
+          "lng": 3.398493529892722
+        },
+        "southwest": {
+          "lat": 6.523951170107278,
+          "lng": 3.395793870107277
+        }
+      },
+      "formatted_address": "Ajayi Olaiya St, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.525301000000001,3.3971437",
+      "google_place_id": "ChIJHxj7zh-NOxARMnaNJBrKP1s"
+    }
+  },
+  {
+    "id": "330309",
+    "name": "ODUKOYA ST./OGUNLEYE ST. JUNCTION",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "025",
+    "units": "025",
+    "delimitation": "24/19/07/025",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5272599,
+      "longitude": 3.3933012,
+      "viewport": {
+        "northeast": {
+          "lat": 6.528609729892722,
+          "lng": 3.394651029892722
+        },
+        "southwest": {
+          "lat": 6.525910070107278,
+          "lng": 3.391951370107277
+        }
+      },
+      "formatted_address": "Odukoya St & Ogunleye St, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5272599,3.3933012",
+      "google_place_id": "EjZPZHVrb3lhIFN0ICYgT2d1bmxleWUgU3QsIEFrb2thIDEwMjIxNiwgTGFnb3MsIE5pZ2VyaWEiZiJkChQKEgnLSfA1HI07EBElCpkDgwzRjxIUChIJy0nwNRyNOxARJQqZA4MM0Y8aFAoSCZsKpDEcjTsQERKkdKt5go55GhQKEglHeyM6HI07EBHnuIU4pjgIqyIKDRf74wMV1MYFAg"
+    }
+  },
+  {
+    "id": "330310",
+    "name": "OSIFOLARIN ST. IN FRONT OF HOUSE NO. 3",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "026",
+    "units": "026",
+    "delimitation": "24/19/07/026",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5338729,
+      "longitude": 3.3916979,
+      "viewport": {
+        "northeast": {
+          "lat": 6.535197379892722,
+          "lng": 3.393026829892723
+        },
+        "southwest": {
+          "lat": 6.532497720107277,
+          "lng": 3.390327170107278
+        }
+      },
+      "formatted_address": "3 Ilaje Rd, Akoka 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5338729,3.3916979",
+      "google_place_id": "ChIJpfdIihqNOxARhpi1T5aAs80"
+    }
+  },
+  {
+    "id": "330311",
+    "name": "OSIFOLARIN ST. IN FRONT OF HOUSE NO. 22",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "027",
+    "units": "027",
+    "delimitation": "24/19/07/027",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5322173,
+      "longitude": 3.3934591,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533602929892722,
+          "lng": 3.394827029892722
+        },
+        "southwest": {
+          "lat": 6.530903270107278,
+          "lng": 3.392127370107278
+        }
+      },
+      "formatted_address": "22 Ilaje Rd, Akoka 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5322173,3.3934591",
+      "google_place_id": "ChIJ0ZD2zBuNOxARS03P16RWEyc"
+    }
+  },
+  {
+    "id": "330312",
+    "name": "ADESOYE ST. IN FRONT OF HOUSE NO. 2",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "028",
+    "units": "028",
+    "delimitation": "24/19/07/028",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330313",
+    "name": "ADESOYE ST. IN FRONT OF HOUSE NO. 32",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "029",
+    "units": "029",
+    "delimitation": "24/19/07/029",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.531885099999999,
+      "longitude": 3.3939479,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533317029892722,
+          "lng": 3.395333529892722
+        },
+        "southwest": {
+          "lat": 6.530617370107278,
+          "lng": 3.392633870107277
+        }
+      },
+      "formatted_address": "32 Ilaje Rd, Bariga 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.531885099999999,3.3939479",
+      "google_place_id": "ChIJ-WdD0RuNOxARmxv2HcYSSMc"
+    }
+  },
+  {
+    "id": "330314",
+    "name": "OGUNGBAMILA ST. IN FRONT OF HOUSE NO. 12",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "030",
+    "units": "030",
+    "delimitation": "24/19/07/030",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5298579,
+      "longitude": 3.3922653,
+      "viewport": {
+        "northeast": {
+          "lat": 6.531207729892722,
+          "lng": 3.393615129892722
+        },
+        "southwest": {
+          "lat": 6.528508070107279,
+          "lng": 3.390915470107278
+        }
+      },
+      "formatted_address": "Ogungbamila St, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5298579,3.3922653",
+      "google_place_id": "ChIJt20SjxuNOxARUZhHaJ89FgA"
+    }
+  },
+  {
+    "id": "330315",
+    "name": "OGUNGBAMILA ST. IN FRONT OF HOUSE NO. 25",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "031",
+    "units": "031",
+    "delimitation": "24/19/07/031",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.532865,
+      "longitude": 3.39296,
+      "viewport": {
+        "northeast": {
+          "lat": 6.534175129892722,
+          "lng": 3.394273729892722
+        },
+        "southwest": {
+          "lat": 6.531475470107278,
+          "lng": 3.391574070107278
+        }
+      },
+      "formatted_address": "25 Ilaje Rd, Bariga 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.532865,3.39296",
+      "google_place_id": "ChIJr0doSBqNOxARRIluOSiDCGo"
+    }
+  },
+  {
+    "id": "330316",
+    "name": "OKUSANYA ST. IN FRONT OF HOUSE NO. 26",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "032",
+    "units": "032",
+    "delimitation": "24/19/07/032",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.532005,
+      "longitude": 3.393684,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533434479892722,
+          "lng": 3.395071329892723
+        },
+        "southwest": {
+          "lat": 6.530734820107278,
+          "lng": 3.392371670107278
+        }
+      },
+      "formatted_address": "26 Ilaje Rd, Akoka 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.532005,3.393684",
+      "google_place_id": "ChIJaQ70zRuNOxARuecg0B8C_JQ"
+    }
+  },
+  {
+    "id": "330317",
+    "name": "MOWOWALE ST./ADUNNI ST. JUNCTION",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "033",
+    "units": "033",
+    "delimitation": "24/19/07/033",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.532649800000001,
+      "longitude": 3.3920977,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533999629892723,
+          "lng": 3.393447529892722
+        },
+        "southwest": {
+          "lat": 6.531299970107279,
+          "lng": 3.390747870107278
+        }
+      },
+      "formatted_address": "Adunni St & Mowowale St, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.532649800000001,3.3920977",
+      "google_place_id": "EjVBZHVubmkgU3QgJiBNb3dvd2FsZSBTdCwgQWtva2EgMTAyMjE2LCBMYWdvcywgTmlnZXJpYSJmImQKFAoSCSeHhlYajTsQERW1EWYUtvDSEhQKEgknh4ZWGo07EBEVtRFmFLbw0hoUChIJrS3BUhqNOxARZs4Zz9y_7gMaFAoSCXkH4VUajTsQEaMJKmZNgmrGIgoNos3kAxXRlwUC"
+    }
+  },
+  {
+    "id": "330318",
+    "name": "MOWOWALE ST. IN FRONT OF HOUSE NO. 4",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "034",
+    "units": "034",
+    "delimitation": "24/19/07/034",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5337837,
+      "longitude": 3.3915833,
+      "viewport": {
+        "northeast": {
+          "lat": 6.535162329892723,
+          "lng": 3.392958479892722
+        },
+        "southwest": {
+          "lat": 6.532462670107279,
+          "lng": 3.390258820107277
+        }
+      },
+      "formatted_address": "4 Ilaje Rd, Bariga 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5337837,3.3915833",
+      "google_place_id": "ChIJx4EKixqNOxARsFshMo4GcVI"
+    }
+  },
+  {
+    "id": "330319",
+    "name": "IDOWU PRY. SCH.",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "035",
+    "units": "035",
+    "delimitation": "24/19/07/035",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5289259,
+      "longitude": 3.3888692,
+      "viewport": {
+        "northeast": {
+          "lat": 6.530218379892722,
+          "lng": 3.390370429892722
+        },
+        "southwest": {
+          "lat": 6.527518720107278,
+          "lng": 3.387670770107277
+        }
+      },
+      "formatted_address": "Off Chemist Bus Stop, 49/51 Emily Akinola St, 100213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5289259,3.3888692",
+      "google_place_id": "ChIJZ6VZTgONOxARfn9msGdzQvI"
+    }
+  },
+  {
+    "id": "330320",
+    "name": "IDOWU PRY. SCH.",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "036",
+    "units": "036",
+    "delimitation": "24/19/07/036",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5289259,
+      "longitude": 3.3888692,
+      "viewport": {
+        "northeast": {
+          "lat": 6.530218379892722,
+          "lng": 3.390370429892722
+        },
+        "southwest": {
+          "lat": 6.527518720107278,
+          "lng": 3.387670770107277
+        }
+      },
+      "formatted_address": "Off Chemist Bus Stop, 49/51 Emily Akinola St, 100213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5289259,3.3888692",
+      "google_place_id": "ChIJZ6VZTgONOxARfn9msGdzQvI"
+    }
+  },
+  {
+    "id": "330321",
+    "name": "AJILEYE ST. IN FRONT OF HOUSE NO. 5",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "037",
+    "units": "037",
+    "delimitation": "24/19/07/037",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.529660499999999,
+      "longitude": 3.3951343,
+      "viewport": {
+        "northeast": {
+          "lat": 6.531010329892721,
+          "lng": 3.396484129892722
+        },
+        "southwest": {
+          "lat": 6.528310670107278,
+          "lng": 3.393784470107277
+        }
+      },
+      "formatted_address": "Ajileye St, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.529660499999999,3.3951343",
+      "google_place_id": "ChIJjeVASxmNOxARY50UQ0OCXzI"
+    }
+  },
+  {
+    "id": "330322",
+    "name": "AJILEYE ST. IN FRONT OF HOUSE NO. 25",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "038",
+    "units": "038",
+    "delimitation": "24/19/07/038",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.529660499999999,
+      "longitude": 3.3951343,
+      "viewport": {
+        "northeast": {
+          "lat": 6.531035629892722,
+          "lng": 3.396503029892722
+        },
+        "southwest": {
+          "lat": 6.528335970107278,
+          "lng": 3.393803370107277
+        }
+      },
+      "formatted_address": "G9HW+V36, Ajileye St, Akoka 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.529660499999999,3.3951343",
+      "google_place_id": "ChIJ-53yvEWNOxARgKtXaVzIYoI"
+    }
+  },
+  {
+    "id": "330323",
+    "name": "OREMEJI ST. IN FRONT OF HOUSE NO. 30",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "039",
+    "units": "039",
+    "delimitation": "24/19/07/039",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330324",
+    "name": "OREMEJI ST. IN FRONT OF HOUSE NO. 312",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "040",
+    "units": "040",
+    "delimitation": "24/19/07/040",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330325",
+    "name": "OGBERE ST. IN FRONT OF HOUSE NO. 5",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "041",
+    "units": "041",
+    "delimitation": "24/19/07/041",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330326",
+    "name": "ADEYEMI ADEDEJI ST. IN FRONT OF HOUSE NO. 20",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "042",
+    "units": "042",
+    "delimitation": "24/19/07/042",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5269586,
+      "longitude": 3.3989427,
+      "viewport": {
+        "northeast": {
+          "lat": 6.528308429892721,
+          "lng": 3.400292529892722
+        },
+        "southwest": {
+          "lat": 6.525608770107278,
+          "lng": 3.397592870107277
+        }
+      },
+      "formatted_address": "Adedeji Adeyemi Ave, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5269586,3.3989427",
+      "google_place_id": "ChIJ6VTXDR-NOxARo1cwEeDlgIw"
+    }
+  },
+  {
+    "id": "330327",
+    "name": "ILAJE RD. B/W HOUSE NO. 64 & 66 (EVEN NOS.)",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "043",
+    "units": "043",
+    "delimitation": "24/19/07/043",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330328",
+    "name": "ILAJE RD. IN FRONT OF HOUSE NO. 80",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "044",
+    "units": "044",
+    "delimitation": "24/19/07/044",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": null
+  },
+  {
+    "id": "330329",
+    "name": "ALH. YINUSA HABEEB ST. IN FRONT OF HOUSE NO. 20",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "045",
+    "units": "045",
+    "delimitation": "24/19/07/045",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5257434,
+      "longitude": 3.3981929,
+      "viewport": {
+        "northeast": {
+          "lat": 6.527093229892722,
+          "lng": 3.399542729892722
+        },
+        "southwest": {
+          "lat": 6.524393570107278,
+          "lng": 3.396843070107277
+        }
+      },
+      "formatted_address": "Alh. Yinusa St, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5257434,3.3981929",
+      "google_place_id": "ChIJsc6auR-NOxARjTxRSU1w6WQ"
+    }
+  },
+  {
+    "id": "330330",
+    "name": "AWIN ST. IN FRONT OF HOUSE NO. 20",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "046",
+    "units": "046",
+    "delimitation": "24/19/07/046",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5324686,
+      "longitude": 3.3930069,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533876279892721,
+          "lng": 3.394409329892722
+        },
+        "southwest": {
+          "lat": 6.531176620107277,
+          "lng": 3.391709670107278
+        }
+      },
+      "formatted_address": "20 Ilaje Rd, Akoka 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5324686,3.3930069",
+      "google_place_id": "ChIJPcBmShqNOxARBcfns9SpCGY"
+    }
+  },
+  {
+    "id": "330331",
+    "name": "AWIN ST. IN FRONT OF HOUSE NO. 24",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "047",
+    "units": "047",
+    "delimitation": "24/19/07/047",
+    "remark": "EXISTING PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5320435,
+      "longitude": 3.3936031,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533472279892722,
+          "lng": 3.394990929892723
+        },
+        "southwest": {
+          "lat": 6.530772620107278,
+          "lng": 3.392291270107278
+        }
+      },
+      "formatted_address": "24 Ilaje Rd, Bariga 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5320435,3.3936031",
+      "google_place_id": "ChIJZWG4zRuNOxARrlq1Mw7SuNA"
+    }
+  },
+  {
+    "id": "330332",
+    "name": "ILAJE ROAD  HOUSE 20",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "048",
+    "units": "048",
+    "delimitation": "24/19/07/048",
+    "remark": "NEW PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5300711,
+      "longitude": 3.3960001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.531352529892721,
+          "lng": 3.397300279892722
+        },
+        "southwest": {
+          "lat": 6.528652870107277,
+          "lng": 3.394600620107278
+        }
+      },
+      "formatted_address": "Ilaje Rd, Akoka 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5300711,3.3960001",
+      "google_place_id": "ChIJkwwkbMaNOxARH7PS35jmGZE"
+    }
+  },
+  {
+    "id": "330333",
+    "name": "ILAJE ROAD BTW HOUSE NO 30",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "049",
+    "units": "049",
+    "delimitation": "24/19/07/049",
+    "remark": "NEW PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.529546,
+      "longitude": 3.3965409,
+      "viewport": {
+        "northeast": {
+          "lat": 6.530846579892722,
+          "lng": 3.397853279892722
+        },
+        "southwest": {
+          "lat": 6.528146920107278,
+          "lng": 3.395153620107278
+        }
+      },
+      "formatted_address": "101 Ilaje Rd, Akoka 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.529546,3.3965409",
+      "google_place_id": "ChIJq7bpPrGNOxARRuKrymSSU0E"
+    }
+  },
+  {
+    "id": "330334",
+    "name": "FOLORUNSHO STREET HOUSE NO 24",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "050",
+    "units": "050",
+    "delimitation": "24/19/07/050",
+    "remark": "NEW PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.531641599999999,
+      "longitude": 3.3896953,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532991429892721,
+          "lng": 3.391045129892722
+        },
+        "southwest": {
+          "lat": 6.530291770107277,
+          "lng": 3.388345470107277
+        }
+      },
+      "formatted_address": "Folorunsho St, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.531641599999999,3.3896953",
+      "google_place_id": "ChIJfTdjsgSNOxARaVOpTgpazmM"
+    }
+  },
+  {
+    "id": "330335",
+    "name": "8, WULEMOT AJOKE STR",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "051",
+    "units": "051",
+    "delimitation": "24/19/07/051",
+    "remark": "NEW PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6148599,
+      "longitude": 3.2962783,
+      "viewport": {
+        "northeast": {
+          "lat": 6.616236829892721,
+          "lng": 3.297637929892722
+        },
+        "southwest": {
+          "lat": 6.613537170107278,
+          "lng": 3.294938270107278
+        }
+      },
+      "formatted_address": "2, DADA CLOSE, OFF Iperu Akesan St, IYANA IPAJA, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6148599,3.2962783",
+      "google_place_id": "ChIJjX8WqqSROxAR33kibbrQSyI"
+    }
+  },
+  {
+    "id": "330336",
+    "name": "18, OLANREWAJU STREET",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "052",
+    "units": "052",
+    "delimitation": "24/19/07/052",
+    "remark": "NEW PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.529544899999999,
+      "longitude": 3.3887172,
+      "viewport": {
+        "northeast": {
+          "lat": 6.53089472989272,
+          "lng": 3.390067029892722
+        },
+        "southwest": {
+          "lat": 6.528195070107277,
+          "lng": 3.387367370107278
+        }
+      },
+      "formatted_address": "18 Olanrewaju St, Akoka 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.529544899999999,3.3887172",
+      "google_place_id": "Ei4xOCBPbGFucmV3YWp1IFN0LCBBa29rYSAxMDAwMDEsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJKwRLRAONOxARrWSPtxLygWUQEioUChIJyQI0PAONOxARRJmB66I1XHE"
+    }
+  },
+  {
+    "id": "330337",
+    "name": "4, ORIDAMI STREET",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "053",
+    "units": "053",
+    "delimitation": "24/19/07/053",
+    "remark": "NEW PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.524350999999999,
+      "longitude": 3.3859199,
+      "viewport": {
+        "northeast": {
+          "lat": 6.525735929892721,
+          "lng": 3.387283779892722
+        },
+        "southwest": {
+          "lat": 6.523036270107277,
+          "lng": 3.384584120107277
+        }
+      },
+      "formatted_address": "4 Chief Bright Oridami St, Akoka 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.524350999999999,3.3859199",
+      "google_place_id": "ChIJEaktdgKNOxAR4PAaFtk_qnc"
+    }
+  },
+  {
+    "id": "330338",
+    "name": "10, ST FINBARR'S COLL RD",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "054",
+    "units": "054",
+    "delimitation": "24/19/07/054",
+    "remark": "NEW PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5220597,
+      "longitude": 3.3865712,
+      "viewport": {
+        "northeast": {
+          "lat": 6.52312197989272,
+          "lng": 3.387470879892722
+        },
+        "southwest": {
+          "lat": 6.520422320107277,
+          "lng": 3.384771220107277
+        }
+      },
+      "formatted_address": "St Finbarr's College Rd, Yaba 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5220597,3.3865712",
+      "google_place_id": "ChIJ0-fbmf2MOxARlNFxmu8GIak"
+    }
+  },
+  {
+    "id": "330339",
+    "name": "11, COMMUNITY RD, AKOKA",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "055",
+    "units": "055",
+    "delimitation": "24/19/07/055",
+    "remark": "NEW PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5249321,
+      "longitude": 3.3891013,
+      "viewport": {
+        "northeast": {
+          "lat": 6.526197379892721,
+          "lng": 3.390453879892722
+        },
+        "southwest": {
+          "lat": 6.523497720107277,
+          "lng": 3.387754220107277
+        }
+      },
+      "formatted_address": "11 Community Rd, Akoka 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5249321,3.3891013",
+      "google_place_id": "ChIJFzySrQKNOxAReAOmUUE9eHo"
+    }
+  },
+  {
+    "id": "330340",
+    "name": "58 ILAJE RD, BARIGA",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "056",
+    "units": "056",
+    "delimitation": "24/19/07/056",
+    "remark": "NEW PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.530629800000001,
+      "longitude": 3.3949919,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532023479892722,
+          "lng": 3.396414629892722
+        },
+        "southwest": {
+          "lat": 6.529323820107278,
+          "lng": 3.393714970107278
+        }
+      },
+      "formatted_address": "58 Ilaje Rd, Akoka 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.530629800000001,3.3949919",
+      "google_place_id": "ChIJnQRbQxmNOxARQ6UgWPGcZ2o"
+    }
+  },
+  {
+    "id": "330341",
+    "name": "ILAJE RD, HOUSE NO 94 BARIGA",
+    "registration_area_id": "16824",
+    "precise_location": null,
+    "abbreviation": "057",
+    "units": "057",
+    "delimitation": "24/19/07/057",
+    "remark": "NEW PU",
+    "ward_id": "16824",
+    "ward_name": "ILAJE/AKOKA",
+    "local_government_id": "524",
+    "local_government_name": "SOMOLU",
+    "state_id": "24",
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5343128,
+      "longitude": 3.3911876,
+      "viewport": {
+        "northeast": {
+          "lat": 6.535624179892722,
+          "lng": 3.392582479892722
+        },
+        "southwest": {
+          "lat": 6.532924520107279,
+          "lng": 3.389882820107278
+        }
+      },
+      "formatted_address": "Ilaje Rd, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5343128,3.3911876",
+      "google_place_id": "ChIJme99kBqNOxARFd4rEZO6GjQ"
+    }
+  }
+]

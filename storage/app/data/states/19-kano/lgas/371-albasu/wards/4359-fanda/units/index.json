@@ -1,0 +1,565 @@
+[
+  {
+    "id": "84104",
+    "name": "FANDA, SABONGARI I",
+    "registration_area_id": "4359",
+    "precise_location": null,
+    "abbreviation": "001",
+    "units": "001",
+    "delimitation": "19/02/05/001",
+    "remark": "EXISTING PU",
+    "ward_id": "4359",
+    "ward_name": "FANDA",
+    "local_government_id": "371",
+    "local_government_name": "ALBASU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "84105",
+    "name": "FANDA, SABONGARI II",
+    "registration_area_id": "4359",
+    "precise_location": null,
+    "abbreviation": "002",
+    "units": "002",
+    "delimitation": "19/02/05/002",
+    "remark": "EXISTING PU",
+    "ward_id": "4359",
+    "ward_name": "FANDA",
+    "local_government_id": "371",
+    "local_government_name": "ALBASU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "84106",
+    "name": "FANDA, TSOHUWA",
+    "registration_area_id": "4359",
+    "precise_location": null,
+    "abbreviation": "003",
+    "units": "003",
+    "delimitation": "19/02/05/003",
+    "remark": "EXISTING PU",
+    "ward_id": "4359",
+    "ward_name": "FANDA",
+    "local_government_id": "371",
+    "local_government_name": "ALBASU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9633044,
+      "longitude": 8.5890624,
+      "viewport": {
+        "northeast": {
+          "lat": 11.96462082989272,
+          "lng": 8.590409679892721
+        },
+        "southwest": {
+          "lat": 11.96192117010728,
+          "lng": 8.587710020107277
+        }
+      },
+      "formatted_address": "108 Maiduguri Road, Hotoro 700102, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9633044,8.5890624",
+      "google_place_id": "ChIJm8PIUOMMrBER0eN3wJULMeo"
+    }
+  },
+  {
+    "id": "84107",
+    "name": "HAMDULLAHI I",
+    "registration_area_id": "4359",
+    "precise_location": null,
+    "abbreviation": "004",
+    "units": "004",
+    "delimitation": "19/02/05/004",
+    "remark": "EXISTING PU",
+    "ward_id": "4359",
+    "ward_name": "FANDA",
+    "local_government_id": "371",
+    "local_government_name": "ALBASU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.630586,
+      "longitude": 9.0581931,
+      "viewport": {
+        "northeast": {
+          "lat": 11.632702,
+          "lng": 9.062713
+        },
+        "southwest": {
+          "lat": 11.626869,
+          "lng": 9.0549351
+        }
+      },
+      "formatted_address": "712104, Hamdullahi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.630586,9.0581931",
+      "google_place_id": "ChIJP2wkpkwMrBERvg7gOss5Cnc"
+    }
+  },
+  {
+    "id": "84108",
+    "name": "HAMDULLAHI II",
+    "registration_area_id": "4359",
+    "precise_location": null,
+    "abbreviation": "005",
+    "units": "005",
+    "delimitation": "19/02/05/005",
+    "remark": "EXISTING PU",
+    "ward_id": "4359",
+    "ward_name": "FANDA",
+    "local_government_id": "371",
+    "local_government_name": "ALBASU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.630586,
+      "longitude": 9.0581931,
+      "viewport": {
+        "northeast": {
+          "lat": 11.632702,
+          "lng": 9.062713
+        },
+        "southwest": {
+          "lat": 11.626869,
+          "lng": 9.0549351
+        }
+      },
+      "formatted_address": "712104, Hamdullahi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.630586,9.0581931",
+      "google_place_id": "ChIJP2wkpkwMrBERvg7gOss5Cnc"
+    }
+  },
+  {
+    "id": "84109",
+    "name": "HAMDULLAHI III",
+    "registration_area_id": "4359",
+    "precise_location": null,
+    "abbreviation": "006",
+    "units": "006",
+    "delimitation": "19/02/05/006",
+    "remark": "EXISTING PU",
+    "ward_id": "4359",
+    "ward_name": "FANDA",
+    "local_government_id": "371",
+    "local_government_name": "ALBASU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.630586,
+      "longitude": 9.0581931,
+      "viewport": {
+        "northeast": {
+          "lat": 11.632702,
+          "lng": 9.062713
+        },
+        "southwest": {
+          "lat": 11.626869,
+          "lng": 9.0549351
+        }
+      },
+      "formatted_address": "712104, Hamdullahi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.630586,9.0581931",
+      "google_place_id": "ChIJP2wkpkwMrBERvg7gOss5Cnc"
+    }
+  },
+  {
+    "id": "84110",
+    "name": "HAMDULLAHI IV",
+    "registration_area_id": "4359",
+    "precise_location": null,
+    "abbreviation": "007",
+    "units": "007",
+    "delimitation": "19/02/05/007",
+    "remark": "EXISTING PU",
+    "ward_id": "4359",
+    "ward_name": "FANDA",
+    "local_government_id": "371",
+    "local_government_name": "ALBASU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "84111",
+    "name": "RUBUN",
+    "registration_area_id": "4359",
+    "precise_location": null,
+    "abbreviation": "008",
+    "units": "008",
+    "delimitation": "19/02/05/008",
+    "remark": "EXISTING PU",
+    "ward_id": "4359",
+    "ward_name": "FANDA",
+    "local_government_id": "371",
+    "local_government_name": "ALBASU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.625928,
+      "longitude": 9.087375399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.62729102989272,
+          "lng": 9.088730979892722
+        },
+        "southwest": {
+          "lat": 11.62459137010728,
+          "lng": 9.086031320107278
+        }
+      },
+      "formatted_address": "7F3FJ3GP+8V8 Panda Panda Kano Hamdullahi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.625928,9.087375399999999",
+      "google_place_id": "ChIJQREmK2wMrBER0XjVoEjAlUU"
+    }
+  },
+  {
+    "id": "84112",
+    "name": "SHASHUWAI I",
+    "registration_area_id": "4359",
+    "precise_location": null,
+    "abbreviation": "009",
+    "units": "009",
+    "delimitation": "19/02/05/009",
+    "remark": "EXISTING PU",
+    "ward_id": "4359",
+    "ward_name": "FANDA",
+    "local_government_id": "371",
+    "local_government_name": "ALBASU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6714404,
+      "longitude": 9.1346142,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67251907989272,
+          "lng": 9.13606557989272
+        },
+        "southwest": {
+          "lat": 11.66981942010728,
+          "lng": 9.133365920107277
+        }
+      },
+      "formatted_address": "M4CM+JR8, 712104, Albasu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6714404,9.1346142",
+      "google_place_id": "ChIJm_yeLecJrBER545xtKmJ7-A"
+    }
+  },
+  {
+    "id": "84113",
+    "name": "SHASHUWAI II",
+    "registration_area_id": "4359",
+    "precise_location": null,
+    "abbreviation": "010",
+    "units": "010",
+    "delimitation": "19/02/05/010",
+    "remark": "EXISTING PU",
+    "ward_id": "4359",
+    "ward_name": "FANDA",
+    "local_government_id": "371",
+    "local_government_name": "ALBASU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6033086,
+      "longitude": 9.0472298,
+      "viewport": {
+        "northeast": {
+          "lat": 11.60477502989272,
+          "lng": 9.048638779892721
+        },
+        "southwest": {
+          "lat": 11.60207537010728,
+          "lng": 9.045939120107278
+        }
+      },
+      "formatted_address": "Km 80, Kano Dutse - Maiduguri Road Panda Albasu Local Government Area, Panda 712104, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6033086,9.0472298",
+      "google_place_id": "ChIJpfwy3-MNrBERSgkln1bEq3A"
+    }
+  },
+  {
+    "id": "84114",
+    "name": "UMBARA",
+    "registration_area_id": "4359",
+    "precise_location": null,
+    "abbreviation": "011",
+    "units": "011",
+    "delimitation": "19/02/05/011",
+    "remark": "EXISTING PU",
+    "ward_id": "4359",
+    "ward_name": "FANDA",
+    "local_government_id": "371",
+    "local_government_name": "ALBASU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5630553,
+      "longitude": 9.0584993,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56424862989272,
+          "lng": 9.059681629892722
+        },
+        "southwest": {
+          "lat": 11.56154897010728,
+          "lng": 9.056981970107278
+        }
+      },
+      "formatted_address": "7F3FH375+69H Fanda Kano, Umbara, 712104, Takai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5630553,9.0584993",
+      "google_place_id": "ChIJT5Bw7CpzrBERwi_K3uhzQXE"
+    }
+  },
+  {
+    "id": "84115",
+    "name": "WURO MANGO",
+    "registration_area_id": "4359",
+    "precise_location": null,
+    "abbreviation": "012",
+    "units": "012",
+    "delimitation": "19/02/05/012",
+    "remark": "EXISTING PU",
+    "ward_id": "4359",
+    "ward_name": "FANDA",
+    "local_government_id": "371",
+    "local_government_name": "ALBASU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.962555,
+      "longitude": 8.5294318,
+      "viewport": {
+        "northeast": {
+          "lat": 11.96386987989272,
+          "lng": 8.53081027989272
+        },
+        "southwest": {
+          "lat": 11.96117022010728,
+          "lng": 8.528110620107276
+        }
+      },
+      "formatted_address": "No. 1 adj to bankwale photo shop sheka makaranta dan dutse kano state, 700001, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.962555,8.5294318",
+      "google_place_id": "ChIJQ2n0sOWBrhERAJ8BDB2-O0c"
+    }
+  },
+  {
+    "id": "84116",
+    "name": "FANDA SABON GARI III",
+    "registration_area_id": "4359",
+    "precise_location": null,
+    "abbreviation": "013",
+    "units": "013",
+    "delimitation": "19/02/05/013",
+    "remark": "NEW PU",
+    "ward_id": "4359",
+    "ward_name": "FANDA",
+    "local_government_id": "371",
+    "local_government_name": "ALBASU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6003953,
+      "longitude": 9.0446706,
+      "viewport": {
+        "northeast": {
+          "lat": 11.6063131,
+          "lng": 9.0660659
+        },
+        "southwest": {
+          "lat": 11.595115,
+          "lng": 9.038509099999999
+        }
+      },
+      "formatted_address": "712104, Fanda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6003953,9.0446706",
+      "google_place_id": "ChIJOe2GbwMNrBERQVKPkHZNa7Y"
+    }
+  },
+  {
+    "id": "84117",
+    "name": "FANDA SABON GARI IV",
+    "registration_area_id": "4359",
+    "precise_location": null,
+    "abbreviation": "014",
+    "units": "014",
+    "delimitation": "19/02/05/014",
+    "remark": "NEW PU",
+    "ward_id": "4359",
+    "ward_name": "FANDA",
+    "local_government_id": "371",
+    "local_government_name": "ALBASU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6709049,
+      "longitude": 9.1365701,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67245032989272,
+          "lng": 9.13785587989272
+        },
+        "southwest": {
+          "lat": 11.66975067010728,
+          "lng": 9.135156220107277
+        }
+      },
+      "formatted_address": "7F3FM4CP+9J8, 712104, Albasu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6709049,9.1365701",
+      "google_place_id": "ChIJzT7SI5QJrBERZoy3tv8ftB4"
+    }
+  },
+  {
+    "id": "84118",
+    "name": "FANDA SABON GARI V",
+    "registration_area_id": "4359",
+    "precise_location": null,
+    "abbreviation": "015",
+    "units": "015",
+    "delimitation": "19/02/05/015",
+    "remark": "NEW PU",
+    "ward_id": "4359",
+    "ward_name": "FANDA",
+    "local_government_id": "371",
+    "local_government_name": "ALBASU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": null
+  },
+  {
+    "id": "84119",
+    "name": "FANDA SABON GARI VI",
+    "registration_area_id": "4359",
+    "precise_location": null,
+    "abbreviation": "016",
+    "units": "016",
+    "delimitation": "19/02/05/016",
+    "remark": "NEW PU",
+    "ward_id": "4359",
+    "ward_name": "FANDA",
+    "local_government_id": "371",
+    "local_government_name": "ALBASU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6709049,
+      "longitude": 9.1365701,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67245032989272,
+          "lng": 9.13785587989272
+        },
+        "southwest": {
+          "lat": 11.66975067010728,
+          "lng": 9.135156220107277
+        }
+      },
+      "formatted_address": "7F3FM4CP+9J8, 712104, Albasu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6709049,9.1365701",
+      "google_place_id": "ChIJzT7SI5QJrBERZoy3tv8ftB4"
+    }
+  },
+  {
+    "id": "84120",
+    "name": "FANDA TSOHUWA II",
+    "registration_area_id": "4359",
+    "precise_location": null,
+    "abbreviation": "017",
+    "units": "017",
+    "delimitation": "19/02/05/017",
+    "remark": "NEW PU",
+    "ward_id": "4359",
+    "ward_name": "FANDA",
+    "local_government_id": "371",
+    "local_government_name": "ALBASU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9633044,
+      "longitude": 8.5890624,
+      "viewport": {
+        "northeast": {
+          "lat": 11.96462082989272,
+          "lng": 8.590409679892721
+        },
+        "southwest": {
+          "lat": 11.96192117010728,
+          "lng": 8.587710020107277
+        }
+      },
+      "formatted_address": "108 Maiduguri Road, Hotoro 700102, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9633044,8.5890624",
+      "google_place_id": "ChIJm8PIUOMMrBER0eN3wJULMeo"
+    }
+  },
+  {
+    "id": "84121",
+    "name": "SHASHUWAI III",
+    "registration_area_id": "4359",
+    "precise_location": null,
+    "abbreviation": "018",
+    "units": "018",
+    "delimitation": "19/02/05/018",
+    "remark": "NEW PU",
+    "ward_id": "4359",
+    "ward_name": "FANDA",
+    "local_government_id": "371",
+    "local_government_name": "ALBASU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6033086,
+      "longitude": 9.0472298,
+      "viewport": {
+        "northeast": {
+          "lat": 11.60477502989272,
+          "lng": 9.048638779892721
+        },
+        "southwest": {
+          "lat": 11.60207537010728,
+          "lng": 9.045939120107278
+        }
+      },
+      "formatted_address": "Km 80, Kano Dutse - Maiduguri Road Panda Albasu Local Government Area, Panda 712104, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6033086,9.0472298",
+      "google_place_id": "ChIJpfwy3-MNrBERSgkln1bEq3A"
+    }
+  },
+  {
+    "id": "84122",
+    "name": "UMBARA II",
+    "registration_area_id": "4359",
+    "precise_location": null,
+    "abbreviation": "019",
+    "units": "019",
+    "delimitation": "19/02/05/019",
+    "remark": "NEW PU",
+    "ward_id": "4359",
+    "ward_name": "FANDA",
+    "local_government_id": "371",
+    "local_government_name": "ALBASU",
+    "state_id": "19",
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5630553,
+      "longitude": 9.0584993,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56424862989272,
+          "lng": 9.059681629892722
+        },
+        "southwest": {
+          "lat": 11.56154897010728,
+          "lng": 9.056981970107278
+        }
+      },
+      "formatted_address": "7F3FH375+69H Fanda Kano, Umbara, 712104, Takai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5630553,9.0584993",
+      "google_place_id": "ChIJT5Bw7CpzrBERwi_K3uhzQXE"
+    }
+  }
+]
