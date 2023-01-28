@@ -33,26 +33,26 @@ class GenerateWardsData implements ShouldQueue
     public function handle()
     {
         //
-        $stateDirs = Storage::directories(config('inecdata.path'));
+        $stateDirs = Storage::disk('s3')->directories(config('inecdata.path'));
         foreach($stateDirs as $stateDir)
         {
-            $stateLga = Storage::directories($stateDir);
+            $stateLga = Storage::disk('s3')->directories($stateDir);
             foreach($stateLga as $stateLga)
             {
-                $lgas = Storage::directories($stateLga);
+                $lgas = Storage::disk('s3')->directories($stateLga);
                 foreach($lgas as $lga)
                 {
                     // 
-                    if (Storage::exists($lga.'/wards/index.json')) {
+                    if (Storage::disk('s3')->exists($lga.'/wards/index.json')) {
                         
-                        $lgaWards = collect(json_decode(Storage::get($lga.'/wards/index.json')));
+                        $lgaWards = collect(json_decode(Storage::disk('s3')->get($lga.'/wards/index.json')));
                     } else {
-                        $subDirs = Storage::allDirectories($lga);
+                        $subDirs = Storage::disk('s3')->allDirectories($lga);
                         foreach($subDirs as $subDir)
                         {
-                            if(Storage::exists($subDir.'/wards/index.json'))
+                            if(Storage::disk('s3')->exists($subDir.'/wards/index.json'))
                             {
-                                $lgaWards = collect(json_decode(Storage::get($subDir.'/wards/index.json')));
+                                $lgaWards = collect(json_decode(Storage::disk('s3')->get($subDir.'/wards/index.json')));
                             }
                         }
                     }
