@@ -33,13 +33,14 @@ class GenerateLgasData implements ShouldQueue
     public function handle()
     {
         //
-        $stateDirs = Storage::directories(config('inecdata.path'));
+        $stateDirs = Storage::disk('s3')->directories(config('inecdata.path'));
+        
         foreach($stateDirs as $stateDir)
         {
-            $stateLga = Storage::directories($stateDir);
+            $stateLga = Storage::disk('s3')->directories($stateDir);
             foreach($stateLga as $stateLga)
             {
-                $lgas = collect(json_decode(Storage::get($stateLga.'/index.json')));
+                $lgas = collect(json_decode(Storage::disk('s3')->get($stateLga.'/index.json')));
                 foreach($lgas as $lga)
                 {
                     // 
@@ -59,7 +60,7 @@ class GenerateLgasData implements ShouldQueue
 
     private function findCorrectStateId($name)
     {
-        $statesData = collect(json_decode(Storage::get(config('inecdata.path').'index.json')));
+        $statesData = collect(json_decode(Storage::disk('s3')->get(config('inecdata.path').'index.json')));
 
         return $state = $statesData->where('name', $name)->first()->id;
     }

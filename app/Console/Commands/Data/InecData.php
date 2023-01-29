@@ -51,7 +51,7 @@ class InecData extends Command
                 break;
             
             default:
-                $this->error('No data named'.$name.'!');
+                $this->error('No INEC data type - '.$name.'! Try `state`, `lga`, `ward`, `polling-unit`');
                 return Command::FAILURE;
                 break;
         }

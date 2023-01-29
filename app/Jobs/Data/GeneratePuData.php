@@ -34,26 +34,26 @@ class GeneratePuData implements ShouldQueue
     public function handle()
     {
         //
-        $stateDirs = Storage::directories(config('inecdata.path'));
+        $stateDirs = Storage::disk('s3')->directories(config('inecdata.path'));
         foreach($stateDirs as $stateDir)
         {
-            $stateLga = Storage::directories($stateDir);
+            $stateLga = Storage::disk('s3')->directories($stateDir);
             foreach($stateLga as $stateLga)
             {
-                $lgas = Storage::directories($stateLga);
+                $lgas = Storage::disk('s3')->directories($stateLga);
                 foreach($lgas as $lga)
                 {
                     //
-                    if(Storage::exists($lga.'/wards'))
+                    if(Storage::disk('s3')->exists($lga.'/wards'))
                     {
-                        $lgaWards = Storage::directories($lga.'/wards');
+                        $lgaWards = Storage::disk('s3')->directories($lga.'/wards');
                     } else {
 
-                        $subDirs = Storage::allDirectories($lga);
+                        $subDirs = Storage::disk('s3')->allDirectories($lga);
                         foreach ($subDirs as $subDir) {
-                            if(Storage::exists($subDir.'/wards'))
+                            if(Storage::disk('s3')->exists($subDir.'/wards'))
                             {
-                                $lgaWards = Storage::directories($subDir.'/wards');
+                                $lgaWards = Storage::disk('s3')->directories($subDir.'/wards');
                                 continue;
                             }
                         }
@@ -61,13 +61,13 @@ class GeneratePuData implements ShouldQueue
                     
                     foreach($lgaWards as $ward)
                     {
-                        if(Storage::exists($ward.'/units/index.json'))
+                        if(Storage::disk('s3')->exists($ward.'/units/index.json'))
                         {
-                            $units = Storage::get($ward.'/units/index.json');
+                            $units = Storage::disk('s3')->get($ward.'/units/index.json');
                         } else {
                             // Lagos has some data in subfolders, this handles that
-                            $subFolder = Storage::directories($ward);
-                            $units = Storage::get($subFolder[0].'/units/index.json');
+                            $subFolder = Storage::disk('s3')->directories($ward);
+                            $units = Storage::disk('s3')->get($subFolder[0].'/units/index.json');
                         }
                         
                         $units = collect(json_decode($units));

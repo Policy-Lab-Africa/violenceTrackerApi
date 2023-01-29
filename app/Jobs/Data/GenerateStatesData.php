@@ -33,7 +33,7 @@ class GenerateStatesData implements ShouldQueue
     public function handle()
     {
         //
-        $statesData = collect(json_decode(Storage::get(config('inecdata.path').'index.json')));
+        $statesData = collect(json_decode(Storage::disk('s3')->get(config('inecdata.path').'index.json')));
         foreach($statesData as $state){
             NgState::updateOrCreate([
                 'data_id' => $state->id,
