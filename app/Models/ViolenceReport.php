@@ -22,4 +22,9 @@ class ViolenceReport extends Model
         'longitude',
         'latitude',
     ];
+
+    public function pollingunit()
+    {
+        return $this->belongsTo(NgPollingUnit::class);
+    }
 }
