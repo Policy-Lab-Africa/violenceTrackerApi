@@ -22,4 +22,9 @@ class NgPuLocation extends Model
     protected $casts = [
         'viewport' => 'array'
     ];
+
+    public function pollingUnit()
+    {
+        return $this->belongsTo(NgPollingUnit::class, 'data_id');
+    }
 }
