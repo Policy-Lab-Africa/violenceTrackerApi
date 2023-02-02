@@ -60,9 +60,9 @@ class ViolenceReportTest extends TestCase
     public function createViolenceReports()
     {
         $response = $this->post('api/violence-reports', [
-            'ng_state_id' => $this->state->id,
-            'ng_local_government_id' => $this->lga->id,
-            'ng_polling_unit' => $this->pollingUnit->id,
+            'ng_state_id' => $this->state->data_id,
+            'ng_local_government_id' => $this->lga->data_id,
+            'ng_polling_unit_id' => $this->pollingUnit->data_id,
             'type_id' => $this->type->id,
             'title' => $this->faker->sentence(),
             'description' => $this->faker->paragraph(),
@@ -81,9 +81,9 @@ class ViolenceReportTest extends TestCase
         ])->assertStatus(201);
 
         $this->assertDatabaseHas('violence_reports', [
-            'ng_state_id' => $this->state->id,
-            'ng_local_government_id' => $this->lga->id,
-            'ng_polling_unit' => $this->pollingUnit->id,
+            'ng_state_id' => $this->state->data_id,
+            'ng_local_government_id' => $this->lga->data_id,
+            'ng_polling_unit_id' => $this->pollingUnit->data_id,
             'type_id' => $this->type->id,
         ]);
 

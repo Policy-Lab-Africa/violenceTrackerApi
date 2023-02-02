@@ -47,19 +47,20 @@ class GenerateWardsData implements ShouldQueue
                         
                         $lgaWards = collect(json_decode(Storage::disk('s3')->get($lga.'/wards/index.json')));
                     } else {
-                        $subDirs = Storage::disk('s3')->allDirectories($lga);
+                        
+                        $subDirs = Storage::disk('s3')->allFiles($lga);
                         foreach($subDirs as $subDir)
                         {
-                            if(Storage::disk('s3')->exists($subDir.'/wards/index.json'))
+                            if(strpos($subDir, '/wards/index.json') !== false)
                             {
-                                $lgaWards = collect(json_decode(Storage::disk('s3')->get($subDir.'/wards/index.json')));
+                                $lgaWards = collect(json_decode(Storage::disk('s3')->get($subDir)));
                             }
                         }
                     }
 
                     foreach($lgaWards as $ward)
                     {
-                        NgWard::updateOrCreate([
+                        NgWard::firstOrCreate([
                             'data_id' => $ward->id,
                             'name' => $ward->name,
                             'abbreviation' => $ward->abbreviation,

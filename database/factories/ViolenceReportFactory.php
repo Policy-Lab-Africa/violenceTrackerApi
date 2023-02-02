@@ -29,11 +29,11 @@ class ViolenceReportFactory extends Factory
             //
             'ng_state_id' => $state->id,
             'ng_local_government_id' => $lga->id,
-            'ng_polling_unit' => $pollingUnit->id,
+            'ng_polling_unit_id' => $pollingUnit->id,
             'type_id' => $type->id,
             'title' => $this->faker->sentence(),
             'description' => $this->faker->paragraph(),
-            'file_path' => '/files/qwerfsdkjlkjb.png',
+            'file' => '/files/qwerfsdkjlkjb.png',
             'ip_address' => $this->faker->ipv4(),
             'user_agent' => $this->faker->userAgent(),
             'longitude' => $this->faker->longitude(),

@@ -25,8 +25,8 @@ class StoreViolenceReportRequest extends FormRequest
     {
         return [
             'ng_state_id' => 'nullable|exists:ng_states,data_id|integer',
-            'ng_local_government_id' => 'nullable|exists:ng_local_governments,id|integer',
-            'ng_polling_unit' => 'required|exists:ng_polling_units,data_id|integer',
+            'ng_local_government_id' => 'nullable|exists:ng_local_governments,data_id|integer',
+            'ng_polling_unit_id' => 'required|exists:ng_polling_units,data_id|integer',
             'type_id' => 'required|exists:violence_types,id|integer',
             'title' => 'nullable|string|min:5',
             'description' => 'string|required_without:file_path|max:2500',

@@ -2,16 +2,17 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Resources\ViolenceReportCollection;
+use App\Models\NgState;
+use App\Models\ViolenceType;
+use Illuminate\Http\Request;
+use App\Models\NgPollingUnit;
 use Illuminate\Http\Response;
+use App\Models\ViolenceReport;
+use App\Models\NgLocalGovernment;
 use Illuminate\Support\Facades\Storage;
+use App\Http\Resources\ViolenceReportCollection;
 use App\Http\Requests\StoreViolenceReportRequest;
 use App\Http\Requests\UpdateViolenceReportRequest;
-use App\Models\ViolenceReport;
-use App\Models\NgState;
-use App\Models\NgLocalGovernment;
-use App\Models\NgPollingUnit;
-use App\Models\ViolenceType;
 
 
 class ViolenceReportController extends Controller
@@ -69,18 +70,32 @@ class ViolenceReportController extends Controller
         // return 'This is violence report route';
         $request->validated();
 
-        return $this->sendResponse([
-            'violence_report' => ViolenceReport::create([
+        try{
+
+            $report = ViolenceReport::create([
                 'ng_state_id' => $request->ng_state_id,
                 'ng_local_government_id' => $request->ng_local_government_id,
-                'ng_polling_unit' => $request->ng_polling_unit,
+                'ng_polling_unit_id' => $request->ng_polling_unit_id,
                 'type_id' => $request->type_id,
                 'title' => $request->title,
                 'description' => $request->description,
                 'file' => !$request->has('file') ?: $request->file('file')
                             ->store('report-files-'.date('m-Y'), 's3'),
-            ])
-         ]);
+            ]);
+    
+            return $this->sendResponse([
+                'violence_report' => $report], 201);
+
+        } catch (Throwable $th)
+        {
+            Log::critical('CreateReportFailed', [
+                'exception' => $th
+            ]);
+
+            return $this->sendError([
+                'violence_report' => 'Something went wrong!']);
+        }
+
         
     }
 
