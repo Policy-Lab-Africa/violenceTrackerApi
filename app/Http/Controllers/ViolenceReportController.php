@@ -2,20 +2,42 @@
 
 namespace App\Http\Controllers;
 
+use Illuminate\Http\Request;
+use App\Models\ViolenceReport;
+use App\Http\Resources\ViolenceReportCollection;
 use App\Http\Requests\StoreViolenceReportRequest;
 use App\Http\Requests\UpdateViolenceReportRequest;
-use App\Models\ViolenceReport;
 
 class ViolenceReportController extends Controller
 {
     /**
-     * Display a listing of the resource.
+     * Get violence reports
+     * 
+     * Returns violence reports from storage ordered by `created_at` `desc`. By default this endpoint returns 100 reports. You can increase this by adding a (int)`limit` query parameter
+     * 
+     * @group Violence Reports
+     * 
+     * @queryParam limit an integer 
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function index(Request $request)
     {
+        $request->validate([
+            'limit' => 'nullable|integer'
+        ]);
         //
+        $violenceReportQuery = ViolenceReport::latest();
+        
+        $violenceReportQuery = $request->has('limit') ? $violenceReportQuery->paginate($request->limit) : $violenceReportQuery->paginate(100);
+        
+        $violenceReports = new ViolenceReportCollection(
+            $violenceReportQuery
+        );
+
+        return $this->sendResponse([
+            'violence_reports' => $violenceReports
+        ]);
     }
 
     /**
