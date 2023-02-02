@@ -31,8 +31,8 @@ class StoreViolenceReportRequest extends FormRequest
             'title'         => 'nullable|string|min:5',
             'description'   => 'string|required_without:file_path|max:2500',
             'file'          => 'required_without:description|mimes:jpeg,png,jpg,mp4,mov,ogg,qt,m3u8,3gp,avi,wmv|max:20000',
-            'longitude'     => 'nullable|string',
-            'latitude'      => 'nullable|string',
+            'longitude'     => 'nullable|numeric',
+            'latitude'      => 'nullable|numeric',
         ];
     }
 }
