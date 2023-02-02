@@ -32,4 +32,9 @@ class NgPollingUnit extends Model
     {
         return $this->hasOne(NgPuLocation::class, 'ng_polling_unit_id', 'data_id');
     }
+
+    public function violencereports()
+    {
+        return $this->hasMany(ViolenceReport::class, 'ng_polling_unit_id', 'data_id');
+    }
 }

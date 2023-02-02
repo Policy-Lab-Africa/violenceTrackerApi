@@ -5,6 +5,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\NgWardController;
 use App\Http\Controllers\NgStateController;
 use App\Http\Controllers\ViolenceTypeController;
+use App\Http\Controllers\ViolenceReportController;
 use App\Http\Controllers\NgPollingUnitController;
 use App\Http\Controllers\ViolenceReportController;
 use App\Http\Controllers\NgLocalGovernmentController;
@@ -21,6 +22,7 @@ use App\Http\Controllers\NgLocalGovernmentController;
 */
 
 Route::get('/violence-types', [ViolenceTypeController::class, 'index']);
+Route::post('/violence-reports', [ViolenceReportController::class, 'store']);
 
 Route::apiResource('states', NgStateController::class)->only([
     'index',
