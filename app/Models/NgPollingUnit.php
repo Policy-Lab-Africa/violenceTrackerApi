@@ -35,6 +35,6 @@ class NgPollingUnit extends Model
 
     public function violencereports()
     {
-        return $this->hasMany(ViolenceReport::class);
+        return $this->hasMany(ViolenceReport::class, 'ng_polling_unit_id', 'data_id');
     }
 }

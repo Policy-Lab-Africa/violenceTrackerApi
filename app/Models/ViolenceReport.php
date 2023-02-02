@@ -12,11 +12,11 @@ class ViolenceReport extends Model
     protected $fillable = [
         'ng_state_id',
         'ng_local_government_id',
-        'ng_polling_unit',
+        'ng_polling_unit_id',
         'type_id',
         'title',
         'description',
-        'file_path',
+        'file',
         'ip_address',
         'user_agent',
         'longitude',
@@ -25,6 +25,6 @@ class ViolenceReport extends Model
 
     public function pollingunit()
     {
-        return $this->belongsTo(NgPollingUnit::class);
+        return $this->belongsTo(NgPollingUnit::class, 'data_id', 'ng_polling_unit_id');
     }
 }

@@ -45,33 +45,20 @@ class ViolenceReportController extends Controller
     public function store(StoreViolenceReportRequest $request)
     {
         // return 'This is violence report route';
-        $request->validate([
-            'ng_state_id' => 'exists:ng_states,id|integer',
-            'ng_local_government_id' => 'exists:ng_local_governments,id|integer',
-            'ng_polling_unit' => 'exists:ng_polling_units,id|integer',
-            'type_id' => 'exists:violence_types,id|integer',
-            'title' => 'string|min:5',
-            'description' => 'string|required_without:file_path',
-            'file_path' => 'required_without:description|mimes:jpeg,png,jpg,mp4,mov,ogg,qt|max:20000',
-            
-        ]);
+        $request->validated();
 
-        $imageName = time().'.'.$request->file_path->extension();  
-     
-        $path = Storage::disk('s3')->put('mediafiles', $request->file_path);
-        $path = Storage::disk('s3')->url($path);
-
-
-
-        return ViolenceReport::create([
-            'ng_state_id' => $request->ng_state_id,
-            'ng_local_government_id' => $request->ng_local_government_id,
-            'ng_polling_unit' => $request->ng_polling_unit,
-            'type_id' => $request->type_id,
-            'title' => $request->title,
-            'description' => $request->description,
-            'file_path' => $path,
-        ]);
+        return $this->sendResponse([
+            'violence_report' => ViolenceReport::create([
+                'ng_state_id' => $request->ng_state_id,
+                'ng_local_government_id' => $request->ng_local_government_id,
+                'ng_polling_unit' => $request->ng_polling_unit,
+                'type_id' => $request->type_id,
+                'title' => $request->title,
+                'description' => $request->description,
+                'file' => !$request->has('file') ?: $request->file('file')
+                            ->store('report-files-'.date('m-Y'), 's3'),
+            ])
+         ]);
         
     }
 

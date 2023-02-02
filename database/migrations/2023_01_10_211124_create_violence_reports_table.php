@@ -17,11 +17,11 @@ return new class extends Migration
             $table->id();
             $table->foreignId('ng_state_id')->nullable(); //->refernces('data_id')->on('ng_states')
             $table->foreignId('ng_local_government_id')->nullable(); //->refernces('data_id')->on('ng_local_governments')
-            $table->foreignId('ng_polling_unit'); //->nullable()->refernces('data_id')->on('ng_polling_units')
+            $table->foreignId('ng_polling_unit_id'); //->nullable()->refernces('data_id')->on('ng_polling_units')
             $table->foreignId('type_id')->refernces('id')->on('violence_types')->nullable();
             $table->string('title')->nullable();
             $table->text('description')->nullable();
-            $table->string('file_path')->nullable();
+            $table->string('file')->nullable();
             $table->string('ip_address')->nullable();
             $table->string('user_agent')->nullable();
             $table->string('longitude')->nullable();
