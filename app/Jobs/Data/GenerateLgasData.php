@@ -37,8 +37,8 @@ class GenerateLgasData implements ShouldQueue
         
         foreach($stateDirs as $stateDir)
         {
-            $stateLga = Storage::disk('s3')->directories($stateDir);
-            foreach($stateLga as $stateLga)
+            $stateLgas = Storage::disk('s3')->directories($stateDir);
+            foreach($stateLgas as $stateLga)
             {
                 $lgas = collect(json_decode(Storage::disk('s3')->get($stateLga.'/index.json')));
                 foreach($lgas as $lga)
