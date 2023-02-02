@@ -12,17 +12,19 @@ class ViolenceTypesTest extends TestCase
     use RefreshDatabase, DatabaseMigrations;
     /**
      * A HTTP test for successful response from the violence test endpoint.
-     *
+     * @test
      * @return void
      */
-    public function testGetViolenceTypesIsSuccessful()
+    public function getViolenceTypesIsSuccessful()
     {
         $response = $this->get('api/violence-types');
 
         $response->assertStatus(200)
         ->assertJson([
             "status" => "success",
-            "data" => []
+            "data" => [
+                'types' => []
+            ]
         ]);
     }
 }

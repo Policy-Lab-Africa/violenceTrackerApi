@@ -18,6 +18,8 @@ class ViolenceTypeFactory extends Factory
     {
         return [
             //
+            'name' => $this->faker->word(),
+            'note' => $this->faker->sentence()
         ];
     }
 }
