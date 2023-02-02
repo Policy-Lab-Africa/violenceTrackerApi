@@ -24,7 +24,7 @@ class ViolenceReportController extends Controller
      * 
      * @group Violence Reports
      * 
-     * @queryParam limit an integer 
+     * @queryParam limit an integer
      *
      * @return \Illuminate\Http\Response
      */
@@ -49,6 +49,7 @@ class ViolenceReportController extends Controller
 
     /**
      * Show the form for creating a new resource.
+     * 
      *
      * @return \Illuminate\Http\Response
      */
@@ -58,10 +59,19 @@ class ViolenceReportController extends Controller
     }
 
     /**
-     * Store a newly created violence report.
+     * Create a violence report
      * 
      * This endpoint creates a new violence report with the inputs passed and returns an object of the newly created  violence report.
      * 
+     * @group Violence Reports
+     * 
+     * @bodyParam ng_state_id int `ng_states.data_id`  
+     * @bodyParam ng_local_government_id int `ng_local_governments.data_id` 
+     * @bodyParam ng_polling_unit_id int required `ng_polling_units.data_id` 
+     * @bodyParam title string  
+     * @bodyParam description string The `description` property is required if no file is attached
+     * @bodyParam file file The `file` property is required if there's no description
+     *  
      * @param  \App\Http\Requests\StoreViolenceReportRequest  $request
      * @return \Illuminate\Http\Response
      */

@@ -29,15 +29,158 @@ endpoints:
     responses:
       -
         status: 200
-        content: '{"status":"success","data":[[{"id":1,"name":"attempted murder","note":null,"created_at":"2023-01-25T10:32:08.000000Z","updated_at":"2023-01-25T10:32:08.000000Z"},{"id":2,"name":"gun shots","note":null,"created_at":"2023-01-25T10:32:08.000000Z","updated_at":"2023-01-25T10:32:08.000000Z"},{"id":3,"name":"murder","note":null,"created_at":"2023-01-25T10:32:08.000000Z","updated_at":"2023-01-25T10:32:08.000000Z"},{"id":4,"name":"intimidation","note":null,"created_at":"2023-01-25T10:32:08.000000Z","updated_at":"2023-01-25T10:32:08.000000Z"},{"id":5,"name":"physical harm","note":null,"created_at":"2023-01-25T10:32:08.000000Z","updated_at":"2023-01-25T10:32:08.000000Z"},{"id":6,"name":"ballot box snatching","note":null,"created_at":"2023-01-25T10:32:08.000000Z","updated_at":"2023-01-25T10:32:08.000000Z"},{"id":7,"name":"physical threat","note":null,"created_at":"2023-01-25T10:32:08.000000Z","updated_at":"2023-01-25T10:32:08.000000Z"},{"id":8,"name":"group clash","note":null,"created_at":"2023-01-25T10:32:08.000000Z","updated_at":"2023-01-25T10:32:08.000000Z"},{"id":9,"name":"sexual violence","note":null,"created_at":"2023-01-25T10:32:08.000000Z","updated_at":"2023-01-25T10:32:08.000000Z"},{"id":10,"name":"other","note":null,"created_at":"2023-01-25T10:32:08.000000Z","updated_at":"2023-01-25T10:32:08.000000Z"}]]}'
+        content: '{"status":"success","data":{"types":[]}}'
         headers:
           cache-control: 'no-cache, private'
           content-type: application/json
           x-ratelimit-limit: '60'
-          x-ratelimit-remaining: '59'
+          x-ratelimit-remaining: '50'
           access-control-allow-origin: '*'
         description: null
         custom: []
+    responseFields: []
+    auth: []
+    controller: null
+    method: null
+    route: null
+    custom: []
+  -
+    httpMethods:
+      - GET
+    uri: api/violence-reports
+    metadata:
+      groupName: 'Violence Reports'
+      groupDescription: ''
+      subgroup: ''
+      subgroupDescription: ''
+      title: 'Get violence reports'
+      description: 'Returns violence reports from storage ordered by `created_at` `desc`. By default this endpoint returns 100 reports. You can increase this by adding a (int)`limit` query parameter'
+      authenticated: false
+      custom: []
+    headers:
+      Content-Type: application/json
+      Accept: application/json
+    urlParameters: []
+    cleanUrlParameters: []
+    queryParameters:
+      limit:
+        name: limit
+        description: 'an integer'
+        required: false
+        example: excepturi
+        type: string
+        custom: []
+    cleanQueryParameters:
+      limit: excepturi
+    bodyParameters:
+      limit:
+        name: limit
+        description: ''
+        required: false
+        example: 18
+        type: integer
+        custom: []
+    cleanBodyParameters:
+      limit: 18
+    fileParameters: []
+    responses:
+      -
+        status: 200
+        content: '{"status":"success","data":{"violence_reports":{"current_page":1,"data":[],"first_page_url":"http:\/\/localhost\/api\/violence-reports?page=1","from":null,"last_page":1,"last_page_url":"http:\/\/localhost\/api\/violence-reports?page=1","links":[{"url":null,"label":"&laquo; Previous","active":false},{"url":"http:\/\/localhost\/api\/violence-reports?page=1","label":"1","active":true},{"url":null,"label":"Next &raquo;","active":false}],"next_page_url":null,"path":"http:\/\/localhost\/api\/violence-reports","per_page":18,"prev_page_url":null,"to":null,"total":0}}}'
+        headers:
+          cache-control: 'no-cache, private'
+          content-type: application/json
+          x-ratelimit-limit: '60'
+          x-ratelimit-remaining: '43'
+          access-control-allow-origin: '*'
+        description: null
+        custom: []
+    responseFields: []
+    auth: []
+    controller: null
+    method: null
+    route: null
+    custom: []
+  -
+    httpMethods:
+      - POST
+    uri: api/violence-reports
+    metadata:
+      groupName: 'Violence Reports'
+      groupDescription: ''
+      subgroup: ''
+      subgroupDescription: ''
+      title: 'Create a violence report'
+      description: 'This endpoint creates a new violence report with the inputs passed and returns an object of the newly created  violence report.'
+      authenticated: false
+      custom: []
+    headers:
+      Content-Type: multipart/form-data
+      Accept: application/json
+    urlParameters: []
+    cleanUrlParameters: []
+    queryParameters: []
+    cleanQueryParameters: []
+    bodyParameters:
+      ng_state_id:
+        name: ng_state_id
+        description: '`ng_states.data_id`'
+        required: false
+        example: 5
+        type: integer
+        custom: []
+      ng_local_government_id:
+        name: ng_local_government_id
+        description: '`ng_local_governments.data_id`'
+        required: false
+        example: 20
+        type: integer
+        custom: []
+      ng_polling_unit_id:
+        name: ng_polling_unit_id
+        description: '`ng_polling_units.data_id`'
+        required: true
+        example: 6
+        type: integer
+        custom: []
+      type_id:
+        name: type_id
+        description: ''
+        required: true
+        example: 16
+        type: integer
+        custom: []
+      title:
+        name: title
+        description: ''
+        required: false
+        example: corrupti
+        type: string
+        custom: []
+      description:
+        name: description
+        description: 'The `description` property is required if no file is attached'
+        required: false
+        example: 'Omnis repellat hic necessitatibus dolorem iusto.'
+        type: string
+        custom: []
+      file:
+        name: file
+        description: 'The `file` property is required if there''s no description'
+        required: false
+        example: null
+        type: file
+        custom: []
+    cleanBodyParameters:
+      ng_state_id: 5
+      ng_local_government_id: 20
+      ng_polling_unit_id: 6
+      type_id: 16
+      title: corrupti
+      description: 'Omnis repellat hic necessitatibus dolorem iusto.'
+    fileParameters:
+      file: null
+    responses: []
     responseFields: []
     auth: []
     controller: null
