@@ -21,7 +21,7 @@ class ViolenceTypeController extends Controller
     public function index()
     {
         return $this->sendResponse([
-            new ViolenceTypeCollection(ViolenceType::all())
+            'types' => new ViolenceTypeCollection(ViolenceType::all())
         ]);
     }
 
