@@ -115,14 +115,18 @@ class ViolenceReportController extends Controller
     }
 
     /**
-     * Display the specified resource.
+     * Fetch a report By ID
+     * 
+     * This endpoint returns a single report identified by `violence_reports.id`
+     * 
+     * @group Violence Reports
      *
      * @param  \App\Models\ViolenceReport  $violenceReport
      * @return \Illuminate\Http\Response
      */
     public function show(ViolenceReport $violenceReport)
     {
-        //
+        return $this->sendResponse(['violence_report' => $violenceReport]);
     }
 
     /**

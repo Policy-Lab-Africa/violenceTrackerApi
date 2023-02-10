@@ -71,10 +71,7 @@
                     <a href="#endpoints">Endpoints</a>
                 </li>
                                     <ul id="tocify-subheader-endpoints" class="tocify-subheader">
-                                                    <li class="tocify-item level-2" data-unique="endpoints-GETapi-violence-reports--id-">
-                                <a href="#endpoints-GETapi-violence-reports--id-">Display the specified resource.</a>
-                            </li>
-                                                                                <li class="tocify-item level-2" data-unique="endpoints-PUTapi-violence-reports--id-">
+                                                    <li class="tocify-item level-2" data-unique="endpoints-PUTapi-violence-reports--id-">
                                 <a href="#endpoints-PUTapi-violence-reports--id-">Update the specified resource in storage.</a>
                             </li>
                                                                                 <li class="tocify-item level-2" data-unique="endpoints-DELETEapi-violence-reports--id-">
@@ -144,6 +141,9 @@
                                                                                 <li class="tocify-item level-2" data-unique="violence-reports-POSTapi-violence-reports">
                                 <a href="#violence-reports-POSTapi-violence-reports">Create a violence report</a>
                             </li>
+                                                                                <li class="tocify-item level-2" data-unique="violence-reports-GETapi-violence-reports--id-">
+                                <a href="#violence-reports-GETapi-violence-reports--id-">Fetch a report By ID</a>
+                            </li>
                                                                         </ul>
                             </ul>
             </div>
@@ -155,7 +155,7 @@
     </ul>
 
     <ul class="toc-footer" id="last-updated">
-        <li>Last updated: February 2, 2023</li>
+        <li>Last updated: February 10, 2023</li>
     </ul>
 </div>
 
@@ -178,548 +178,7 @@ You can switch the language used with the tabs at the top right (or from the nav
 
     
 
-                                <h2 id="endpoints-GETapi-violence-reports--id-">Display the specified resource.</h2>
-
-<p>
-</p>
-
-
-
-<span id="example-requests-GETapi-violence-reports--id-">
-<blockquote>Example request:</blockquote>
-
-
-<div class="bash-example">
-    <pre><code class="language-bash">curl --request GET \
-    --get "http://localhost/api/violence-reports/6" \
-    --header "Content-Type: application/json" \
-    --header "Accept: application/json"</code></pre></div>
-
-
-<div class="javascript-example">
-    <pre><code class="language-javascript">const url = new URL(
-    "http://localhost/api/violence-reports/6"
-);
-
-const headers = {
-    "Content-Type": "application/json",
-    "Accept": "application/json",
-};
-
-fetch(url, {
-    method: "GET",
-    headers,
-}).then(response =&gt; response.json());</code></pre></div>
-
-</span>
-
-<span id="example-responses-GETapi-violence-reports--id-">
-            <blockquote>
-            <p>Example response (404):</p>
-        </blockquote>
-                <details class="annotation">
-            <summary style="cursor: pointer;">
-                <small onclick="textContent = parentElement.parentElement.open ? 'Show headers' : 'Hide headers'">Show headers</small>
-            </summary>
-            <pre><code class="language-http">cache-control: no-cache, private
-content-type: application/json
-x-ratelimit-limit: 60
-x-ratelimit-remaining: 42
-access-control-allow-origin: *
- </code></pre></details>         <pre>
-
-<code class="language-json" style="max-height: 300px;">{
-    &quot;message&quot;: &quot;No query results for model [App\\Models\\ViolenceReport] 6&quot;,
-    &quot;exception&quot;: &quot;Symfony\\Component\\HttpKernel\\Exception\\NotFoundHttpException&quot;,
-    &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php&quot;,
-    &quot;line&quot;: 391,
-    &quot;trace&quot;: [
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php&quot;,
-            &quot;line&quot;: 367,
-            &quot;function&quot;: &quot;prepareException&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Foundation\\Exceptions\\Handler&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/nunomaduro/collision/src/Adapters/Laravel/ExceptionHandler.php&quot;,
-            &quot;line&quot;: 54,
-            &quot;function&quot;: &quot;render&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Foundation\\Exceptions\\Handler&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php&quot;,
-            &quot;line&quot;: 51,
-            &quot;function&quot;: &quot;render&quot;,
-            &quot;class&quot;: &quot;NunoMaduro\\Collision\\Adapters\\Laravel\\ExceptionHandler&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php&quot;,
-            &quot;line&quot;: 185,
-            &quot;function&quot;: &quot;handleException&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Routing\\Pipeline&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php&quot;,
-            &quot;line&quot;: 126,
-            &quot;function&quot;: &quot;Illuminate\\Pipeline\\{closure}&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Pipeline\\Pipeline&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php&quot;,
-            &quot;line&quot;: 102,
-            &quot;function&quot;: &quot;handleRequest&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Routing\\Middleware\\ThrottleRequests&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php&quot;,
-            &quot;line&quot;: 54,
-            &quot;function&quot;: &quot;handleRequestUsingNamedLimiter&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Routing\\Middleware\\ThrottleRequests&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php&quot;,
-            &quot;line&quot;: 180,
-            &quot;function&quot;: &quot;handle&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Routing\\Middleware\\ThrottleRequests&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php&quot;,
-            &quot;line&quot;: 116,
-            &quot;function&quot;: &quot;Illuminate\\Pipeline\\{closure}&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Pipeline\\Pipeline&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php&quot;,
-            &quot;line&quot;: 799,
-            &quot;function&quot;: &quot;then&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Pipeline\\Pipeline&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php&quot;,
-            &quot;line&quot;: 776,
-            &quot;function&quot;: &quot;runRouteWithinStack&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Routing\\Router&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php&quot;,
-            &quot;line&quot;: 740,
-            &quot;function&quot;: &quot;runRoute&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Routing\\Router&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php&quot;,
-            &quot;line&quot;: 729,
-            &quot;function&quot;: &quot;dispatchToRoute&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Routing\\Router&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php&quot;,
-            &quot;line&quot;: 190,
-            &quot;function&quot;: &quot;dispatch&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Routing\\Router&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php&quot;,
-            &quot;line&quot;: 141,
-            &quot;function&quot;: &quot;Illuminate\\Foundation\\Http\\{closure}&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Foundation\\Http\\Kernel&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php&quot;,
-            &quot;line&quot;: 21,
-            &quot;function&quot;: &quot;Illuminate\\Pipeline\\{closure}&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Pipeline\\Pipeline&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php&quot;,
-            &quot;line&quot;: 31,
-            &quot;function&quot;: &quot;handle&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php&quot;,
-            &quot;line&quot;: 180,
-            &quot;function&quot;: &quot;handle&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php&quot;,
-            &quot;line&quot;: 21,
-            &quot;function&quot;: &quot;Illuminate\\Pipeline\\{closure}&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Pipeline\\Pipeline&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php&quot;,
-            &quot;line&quot;: 40,
-            &quot;function&quot;: &quot;handle&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php&quot;,
-            &quot;line&quot;: 180,
-            &quot;function&quot;: &quot;handle&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Foundation\\Http\\Middleware\\TrimStrings&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php&quot;,
-            &quot;line&quot;: 27,
-            &quot;function&quot;: &quot;Illuminate\\Pipeline\\{closure}&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Pipeline\\Pipeline&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php&quot;,
-            &quot;line&quot;: 180,
-            &quot;function&quot;: &quot;handle&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php&quot;,
-            &quot;line&quot;: 86,
-            &quot;function&quot;: &quot;Illuminate\\Pipeline\\{closure}&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Pipeline\\Pipeline&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php&quot;,
-            &quot;line&quot;: 180,
-            &quot;function&quot;: &quot;handle&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php&quot;,
-            &quot;line&quot;: 62,
-            &quot;function&quot;: &quot;Illuminate\\Pipeline\\{closure}&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Pipeline\\Pipeline&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php&quot;,
-            &quot;line&quot;: 180,
-            &quot;function&quot;: &quot;handle&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Http\\Middleware\\HandleCors&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Http/Middleware/TrustProxies.php&quot;,
-            &quot;line&quot;: 39,
-            &quot;function&quot;: &quot;Illuminate\\Pipeline\\{closure}&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Pipeline\\Pipeline&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php&quot;,
-            &quot;line&quot;: 180,
-            &quot;function&quot;: &quot;handle&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Http\\Middleware\\TrustProxies&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php&quot;,
-            &quot;line&quot;: 116,
-            &quot;function&quot;: &quot;Illuminate\\Pipeline\\{closure}&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Pipeline\\Pipeline&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php&quot;,
-            &quot;line&quot;: 165,
-            &quot;function&quot;: &quot;then&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Pipeline\\Pipeline&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php&quot;,
-            &quot;line&quot;: 134,
-            &quot;function&quot;: &quot;sendRequestThroughRouter&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Foundation\\Http\\Kernel&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Strategies/Responses/ResponseCalls.php&quot;,
-            &quot;line&quot;: 299,
-            &quot;function&quot;: &quot;handle&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Foundation\\Http\\Kernel&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Strategies/Responses/ResponseCalls.php&quot;,
-            &quot;line&quot;: 287,
-            &quot;function&quot;: &quot;callLaravelOrLumenRoute&quot;,
-            &quot;class&quot;: &quot;Knuckles\\Scribe\\Extracting\\Strategies\\Responses\\ResponseCalls&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Strategies/Responses/ResponseCalls.php&quot;,
-            &quot;line&quot;: 92,
-            &quot;function&quot;: &quot;makeApiCall&quot;,
-            &quot;class&quot;: &quot;Knuckles\\Scribe\\Extracting\\Strategies\\Responses\\ResponseCalls&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Strategies/Responses/ResponseCalls.php&quot;,
-            &quot;line&quot;: 45,
-            &quot;function&quot;: &quot;makeResponseCall&quot;,
-            &quot;class&quot;: &quot;Knuckles\\Scribe\\Extracting\\Strategies\\Responses\\ResponseCalls&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Strategies/Responses/ResponseCalls.php&quot;,
-            &quot;line&quot;: 35,
-            &quot;function&quot;: &quot;makeResponseCallIfConditionsPass&quot;,
-            &quot;class&quot;: &quot;Knuckles\\Scribe\\Extracting\\Strategies\\Responses\\ResponseCalls&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Extractor.php&quot;,
-            &quot;line&quot;: 209,
-            &quot;function&quot;: &quot;__invoke&quot;,
-            &quot;class&quot;: &quot;Knuckles\\Scribe\\Extracting\\Strategies\\Responses\\ResponseCalls&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Extractor.php&quot;,
-            &quot;line&quot;: 166,
-            &quot;function&quot;: &quot;iterateThroughStrategies&quot;,
-            &quot;class&quot;: &quot;Knuckles\\Scribe\\Extracting\\Extractor&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Extractor.php&quot;,
-            &quot;line&quot;: 95,
-            &quot;function&quot;: &quot;fetchResponses&quot;,
-            &quot;class&quot;: &quot;Knuckles\\Scribe\\Extracting\\Extractor&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/GroupedEndpoints/GroupedEndpointsFromApp.php&quot;,
-            &quot;line&quot;: 122,
-            &quot;function&quot;: &quot;processRoute&quot;,
-            &quot;class&quot;: &quot;Knuckles\\Scribe\\Extracting\\Extractor&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/GroupedEndpoints/GroupedEndpointsFromApp.php&quot;,
-            &quot;line&quot;: 69,
-            &quot;function&quot;: &quot;extractEndpointsInfoFromLaravelApp&quot;,
-            &quot;class&quot;: &quot;Knuckles\\Scribe\\GroupedEndpoints\\GroupedEndpointsFromApp&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/GroupedEndpoints/GroupedEndpointsFromApp.php&quot;,
-            &quot;line&quot;: 47,
-            &quot;function&quot;: &quot;extractEndpointsInfoAndWriteToDisk&quot;,
-            &quot;class&quot;: &quot;Knuckles\\Scribe\\GroupedEndpoints\\GroupedEndpointsFromApp&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Commands/GenerateDocumentation.php&quot;,
-            &quot;line&quot;: 51,
-            &quot;function&quot;: &quot;get&quot;,
-            &quot;class&quot;: &quot;Knuckles\\Scribe\\GroupedEndpoints\\GroupedEndpointsFromApp&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php&quot;,
-            &quot;line&quot;: 36,
-            &quot;function&quot;: &quot;handle&quot;,
-            &quot;class&quot;: &quot;Knuckles\\Scribe\\Commands\\GenerateDocumentation&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/Util.php&quot;,
-            &quot;line&quot;: 41,
-            &quot;function&quot;: &quot;Illuminate\\Container\\{closure}&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Container\\BoundMethod&quot;,
-            &quot;type&quot;: &quot;::&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php&quot;,
-            &quot;line&quot;: 93,
-            &quot;function&quot;: &quot;unwrapIfClosure&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Container\\Util&quot;,
-            &quot;type&quot;: &quot;::&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php&quot;,
-            &quot;line&quot;: 37,
-            &quot;function&quot;: &quot;callBoundMethod&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Container\\BoundMethod&quot;,
-            &quot;type&quot;: &quot;::&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/Container.php&quot;,
-            &quot;line&quot;: 651,
-            &quot;function&quot;: &quot;call&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Container\\BoundMethod&quot;,
-            &quot;type&quot;: &quot;::&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Console/Command.php&quot;,
-            &quot;line&quot;: 182,
-            &quot;function&quot;: &quot;call&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Container\\Container&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/symfony/console/Command/Command.php&quot;,
-            &quot;line&quot;: 291,
-            &quot;function&quot;: &quot;execute&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Console\\Command&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Console/Command.php&quot;,
-            &quot;line&quot;: 152,
-            &quot;function&quot;: &quot;run&quot;,
-            &quot;class&quot;: &quot;Symfony\\Component\\Console\\Command\\Command&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/symfony/console/Application.php&quot;,
-            &quot;line&quot;: 1014,
-            &quot;function&quot;: &quot;run&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Console\\Command&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/symfony/console/Application.php&quot;,
-            &quot;line&quot;: 301,
-            &quot;function&quot;: &quot;doRunCommand&quot;,
-            &quot;class&quot;: &quot;Symfony\\Component\\Console\\Application&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/symfony/console/Application.php&quot;,
-            &quot;line&quot;: 171,
-            &quot;function&quot;: &quot;doRun&quot;,
-            &quot;class&quot;: &quot;Symfony\\Component\\Console\\Application&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Console/Application.php&quot;,
-            &quot;line&quot;: 102,
-            &quot;function&quot;: &quot;run&quot;,
-            &quot;class&quot;: &quot;Symfony\\Component\\Console\\Application&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php&quot;,
-            &quot;line&quot;: 155,
-            &quot;function&quot;: &quot;run&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Console\\Application&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        },
-        {
-            &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/artisan&quot;,
-            &quot;line&quot;: 37,
-            &quot;function&quot;: &quot;handle&quot;,
-            &quot;class&quot;: &quot;Illuminate\\Foundation\\Console\\Kernel&quot;,
-            &quot;type&quot;: &quot;-&gt;&quot;
-        }
-    ]
-}</code>
- </pre>
-    </span>
-<span id="execution-results-GETapi-violence-reports--id-" hidden>
-    <blockquote>Received response<span
-                id="execution-response-status-GETapi-violence-reports--id-"></span>:
-    </blockquote>
-    <pre class="json"><code id="execution-response-content-GETapi-violence-reports--id-" style="max-height: 400px;"></code></pre>
-</span>
-<span id="execution-error-GETapi-violence-reports--id-" hidden>
-    <blockquote>Request failed with error:</blockquote>
-    <pre><code id="execution-error-message-GETapi-violence-reports--id-"></code></pre>
-</span>
-<form id="form-GETapi-violence-reports--id-" data-method="GET"
-      data-path="api/violence-reports/{id}"
-      data-authed="0"
-      data-hasfiles="0"
-      data-isarraybody="0"
-      autocomplete="off"
-      onsubmit="event.preventDefault(); executeTryOut('GETapi-violence-reports--id-', this);">
-    <h3>
-        Request&nbsp;&nbsp;&nbsp;
-                    <button type="button"
-                    style="background-color: #8fbcd4; padding: 5px 10px; border-radius: 5px; border-width: thin;"
-                    id="btn-tryout-GETapi-violence-reports--id-"
-                    onclick="tryItOut('GETapi-violence-reports--id-');">Try it out ⚡
-            </button>
-            <button type="button"
-                    style="background-color: #c97a7e; padding: 5px 10px; border-radius: 5px; border-width: thin;"
-                    id="btn-canceltryout-GETapi-violence-reports--id-"
-                    onclick="cancelTryOut('GETapi-violence-reports--id-');" hidden>Cancel 🛑
-            </button>&nbsp;&nbsp;
-            <button type="submit"
-                    style="background-color: #6ac174; padding: 5px 10px; border-radius: 5px; border-width: thin;"
-                    id="btn-executetryout-GETapi-violence-reports--id-" hidden>Send Request 💥
-            </button>
-            </h3>
-            <p>
-            <small class="badge badge-green">GET</small>
-            <b><code>api/violence-reports/{id}</code></b>
-        </p>
-                <h4 class="fancy-heading-panel"><b>Headers</b></h4>
-                                <div style="padding-left: 28px; clear: unset;">
-                <b style="line-height: 2;"><code>Content-Type</code></b>&nbsp;&nbsp;
-&nbsp;
- &nbsp;
-                <input type="text" style="display: none"
-               name="Content-Type"                data-endpoint="GETapi-violence-reports--id-"
-               value="application/json"
-               data-component="header">
-    <br>
-<p>Example: <code>application/json</code></p>
-            </div>
-                                <div style="padding-left: 28px; clear: unset;">
-                <b style="line-height: 2;"><code>Accept</code></b>&nbsp;&nbsp;
-&nbsp;
- &nbsp;
-                <input type="text" style="display: none"
-               name="Accept"                data-endpoint="GETapi-violence-reports--id-"
-               value="application/json"
-               data-component="header">
-    <br>
-<p>Example: <code>application/json</code></p>
-            </div>
-                        <h4 class="fancy-heading-panel"><b>URL Parameters</b></h4>
-                    <div style="padding-left: 28px; clear: unset;">
-                <b style="line-height: 2;"><code>id</code></b>&nbsp;&nbsp;
-<small>integer</small>&nbsp;
- &nbsp;
-                <input type="number" style="display: none"
-               name="id"                data-endpoint="GETapi-violence-reports--id-"
-               value="6"
-               data-component="url">
-    <br>
-<p>The ID of the violence report. Example: <code>6</code></p>
-            </div>
-                    </form>
-
-                    <h2 id="endpoints-PUTapi-violence-reports--id-">Update the specified resource in storage.</h2>
+                                <h2 id="endpoints-PUTapi-violence-reports--id-">Update the specified resource in storage.</h2>
 
 <p>
 </p>
@@ -732,14 +191,14 @@ access-control-allow-origin: *
 
 <div class="bash-example">
     <pre><code class="language-bash">curl --request PUT \
-    "http://localhost/api/violence-reports/6" \
+    "http://localhost/api/violence-reports/1" \
     --header "Content-Type: application/json" \
     --header "Accept: application/json"</code></pre></div>
 
 
 <div class="javascript-example">
     <pre><code class="language-javascript">const url = new URL(
-    "http://localhost/api/violence-reports/6"
+    "http://localhost/api/violence-reports/1"
 );
 
 const headers = {
@@ -828,10 +287,10 @@ fetch(url, {
  &nbsp;
                 <input type="number" style="display: none"
                name="id"                data-endpoint="PUTapi-violence-reports--id-"
-               value="6"
+               value="1"
                data-component="url">
     <br>
-<p>The ID of the violence report. Example: <code>6</code></p>
+<p>The ID of the violence report. Example: <code>1</code></p>
             </div>
                     </form>
 
@@ -848,14 +307,14 @@ fetch(url, {
 
 <div class="bash-example">
     <pre><code class="language-bash">curl --request DELETE \
-    "http://localhost/api/violence-reports/9" \
+    "http://localhost/api/violence-reports/1" \
     --header "Content-Type: application/json" \
     --header "Accept: application/json"</code></pre></div>
 
 
 <div class="javascript-example">
     <pre><code class="language-javascript">const url = new URL(
-    "http://localhost/api/violence-reports/9"
+    "http://localhost/api/violence-reports/1"
 );
 
 const headers = {
@@ -940,10 +399,10 @@ fetch(url, {
  &nbsp;
                 <input type="number" style="display: none"
                name="id"                data-endpoint="DELETEapi-violence-reports--id-"
-               value="9"
+               value="1"
                data-component="url">
     <br>
-<p>The ID of the violence report. Example: <code>9</code></p>
+<p>The ID of the violence report. Example: <code>1</code></p>
             </div>
                     </form>
 
@@ -1114,14 +573,385 @@ fetch(url, {
             <pre><code class="language-http">cache-control: no-cache, private
 content-type: application/json
 x-ratelimit-limit: 60
-x-ratelimit-remaining: 49
+x-ratelimit-remaining: 58
 access-control-allow-origin: *
  </code></pre></details>         <pre>
 
 <code class="language-json" style="max-height: 300px;">{
     &quot;status&quot;: &quot;success&quot;,
     &quot;data&quot;: {
-        &quot;states&quot;: []
+        &quot;states&quot;: [
+            {
+                &quot;id&quot;: 1,
+                &quot;data_id&quot;: 1,
+                &quot;name&quot;: &quot;abia&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:08:55.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:08:55.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 2,
+                &quot;data_id&quot;: 2,
+                &quot;name&quot;: &quot;adamawa&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 3,
+                &quot;data_id&quot;: 3,
+                &quot;name&quot;: &quot;akwa ibom&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 4,
+                &quot;data_id&quot;: 4,
+                &quot;name&quot;: &quot;anambra&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 5,
+                &quot;data_id&quot;: 5,
+                &quot;name&quot;: &quot;bauchi&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 6,
+                &quot;data_id&quot;: 6,
+                &quot;name&quot;: &quot;bayelsa&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 7,
+                &quot;data_id&quot;: 7,
+                &quot;name&quot;: &quot;benue&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 8,
+                &quot;data_id&quot;: 8,
+                &quot;name&quot;: &quot;borno&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 9,
+                &quot;data_id&quot;: 9,
+                &quot;name&quot;: &quot;cross river&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 10,
+                &quot;data_id&quot;: 10,
+                &quot;name&quot;: &quot;delta&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 11,
+                &quot;data_id&quot;: 11,
+                &quot;name&quot;: &quot;ebonyi&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 12,
+                &quot;data_id&quot;: 12,
+                &quot;name&quot;: &quot;edo&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 13,
+                &quot;data_id&quot;: 13,
+                &quot;name&quot;: &quot;ekiti&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 14,
+                &quot;data_id&quot;: 14,
+                &quot;name&quot;: &quot;enugu&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 15,
+                &quot;data_id&quot;: 15,
+                &quot;name&quot;: &quot;gombe&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 16,
+                &quot;data_id&quot;: 16,
+                &quot;name&quot;: &quot;imo&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 17,
+                &quot;data_id&quot;: 17,
+                &quot;name&quot;: &quot;jigawa&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 18,
+                &quot;data_id&quot;: 18,
+                &quot;name&quot;: &quot;kaduna&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 19,
+                &quot;data_id&quot;: 19,
+                &quot;name&quot;: &quot;kano&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 20,
+                &quot;data_id&quot;: 20,
+                &quot;name&quot;: &quot;katsina&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 21,
+                &quot;data_id&quot;: 21,
+                &quot;name&quot;: &quot;kebbi&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 22,
+                &quot;data_id&quot;: 22,
+                &quot;name&quot;: &quot;kogi&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 23,
+                &quot;data_id&quot;: 23,
+                &quot;name&quot;: &quot;kwara&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 24,
+                &quot;data_id&quot;: 24,
+                &quot;name&quot;: &quot;lagos&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 25,
+                &quot;data_id&quot;: 25,
+                &quot;name&quot;: &quot;nasarawa&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 26,
+                &quot;data_id&quot;: 26,
+                &quot;name&quot;: &quot;niger&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 27,
+                &quot;data_id&quot;: 27,
+                &quot;name&quot;: &quot;ogun&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 28,
+                &quot;data_id&quot;: 28,
+                &quot;name&quot;: &quot;ondo&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 29,
+                &quot;data_id&quot;: 29,
+                &quot;name&quot;: &quot;osun&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 30,
+                &quot;data_id&quot;: 30,
+                &quot;name&quot;: &quot;oyo&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 31,
+                &quot;data_id&quot;: 31,
+                &quot;name&quot;: &quot;plateau&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 32,
+                &quot;data_id&quot;: 32,
+                &quot;name&quot;: &quot;rivers&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 33,
+                &quot;data_id&quot;: 33,
+                &quot;name&quot;: &quot;sokoto&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 34,
+                &quot;data_id&quot;: 34,
+                &quot;name&quot;: &quot;taraba&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 35,
+                &quot;data_id&quot;: 35,
+                &quot;name&quot;: &quot;yobe&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 36,
+                &quot;data_id&quot;: 36,
+                &quot;name&quot;: &quot;zamfara&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 37,
+                &quot;data_id&quot;: 37,
+                &quot;name&quot;: &quot;federal capital territory&quot;,
+                &quot;capital&quot;: null,
+                &quot;latitude&quot;: null,
+                &quot;longitude&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:10:30.000000Z&quot;
+            }
+        ]
     }
 }</code>
  </pre>
@@ -1202,14 +1032,14 @@ access-control-allow-origin: *
 
 <div class="bash-example">
     <pre><code class="language-bash">curl --request GET \
-    --get "http://localhost/api/states/et" \
+    --get "http://localhost/api/states/at" \
     --header "Content-Type: application/json" \
     --header "Accept: application/json"</code></pre></div>
 
 
 <div class="javascript-example">
     <pre><code class="language-javascript">const url = new URL(
-    "http://localhost/api/states/et"
+    "http://localhost/api/states/at"
 );
 
 const headers = {
@@ -1235,7 +1065,7 @@ fetch(url, {
             <pre><code class="language-http">content-type: text/html; charset=UTF-8
 cache-control: no-cache, private
 x-ratelimit-limit: 60
-x-ratelimit-remaining: 48
+x-ratelimit-remaining: 57
 access-control-allow-origin: *
  </code></pre></details>         <pre>
 
@@ -1310,10 +1140,10 @@ access-control-allow-origin: *
  &nbsp;
                 <input type="text" style="display: none"
                name="id"                data-endpoint="GETapi-states--id-"
-               value="et"
+               value="at"
                data-component="url">
     <br>
-<p>The ID of the state. Example: <code>et</code></p>
+<p>The ID of the state. Example: <code>at</code></p>
             </div>
                     <div style="padding-left: 28px; clear: unset;">
                 <b style="line-height: 2;"><code>ngState</code></b>&nbsp;&nbsp;
@@ -1321,10 +1151,10 @@ access-control-allow-origin: *
 <i>optional</i> &nbsp;
                 <input type="text" style="display: none"
                name="ngState"                data-endpoint="GETapi-states--id-"
-               value="nobis"
+               value="quod"
                data-component="url">
     <br>
-<p>mixed required the <code>data_id</code> or <code>name</code> of the state. Example: <code>nobis</code></p>
+<p>mixed required the <code>data_id</code> or <code>name</code> of the state. Example: <code>quod</code></p>
             </div>
                     </form>
 
@@ -1342,14 +1172,14 @@ access-control-allow-origin: *
 
 <div class="bash-example">
     <pre><code class="language-bash">curl --request GET \
-    --get "http://localhost/api/states/earum/lgas" \
+    --get "http://localhost/api/states/magni/lgas" \
     --header "Content-Type: application/json" \
     --header "Accept: application/json"</code></pre></div>
 
 
 <div class="javascript-example">
     <pre><code class="language-javascript">const url = new URL(
-    "http://localhost/api/states/earum/lgas"
+    "http://localhost/api/states/magni/lgas"
 );
 
 const headers = {
@@ -1375,12 +1205,12 @@ fetch(url, {
             <pre><code class="language-http">cache-control: no-cache, private
 content-type: application/json
 x-ratelimit-limit: 60
-x-ratelimit-remaining: 47
+x-ratelimit-remaining: 56
 access-control-allow-origin: *
  </code></pre></details>         <pre>
 
 <code class="language-json" style="max-height: 300px;">{
-    &quot;message&quot;: &quot;State (earum) not found&quot;,
+    &quot;message&quot;: &quot;State (magni) not found&quot;,
     &quot;exception&quot;: &quot;App\\Exceptions\\NgStateException&quot;,
     &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/app/Services/NgStateService.php&quot;,
     &quot;line&quot;: 50,
@@ -1408,7 +1238,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Route.php&quot;,
-            &quot;line&quot;: 260,
+            &quot;line&quot;: 259,
             &quot;function&quot;: &quot;dispatch&quot;,
             &quot;class&quot;: &quot;Illuminate\\Routing\\ControllerDispatcher&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -1471,7 +1301,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php&quot;,
-            &quot;line&quot;: 102,
+            &quot;line&quot;: 92,
             &quot;function&quot;: &quot;handleRequest&quot;,
             &quot;class&quot;: &quot;Illuminate\\Routing\\Middleware\\ThrottleRequests&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -1499,7 +1329,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php&quot;,
-            &quot;line&quot;: 799,
+            &quot;line&quot;: 797,
             &quot;function&quot;: &quot;then&quot;,
             &quot;class&quot;: &quot;Illuminate\\Pipeline\\Pipeline&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -1702,7 +1532,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Extractor.php&quot;,
-            &quot;line&quot;: 166,
+            &quot;line&quot;: 163,
             &quot;function&quot;: &quot;iterateThroughStrategies&quot;,
             &quot;class&quot;: &quot;Knuckles\\Scribe\\Extracting\\Extractor&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -1765,7 +1595,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php&quot;,
-            &quot;line&quot;: 37,
+            &quot;line&quot;: 35,
             &quot;function&quot;: &quot;callBoundMethod&quot;,
             &quot;class&quot;: &quot;Illuminate\\Container\\BoundMethod&quot;,
             &quot;type&quot;: &quot;::&quot;
@@ -1793,7 +1623,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Console/Command.php&quot;,
-            &quot;line&quot;: 152,
+            &quot;line&quot;: 151,
             &quot;function&quot;: &quot;run&quot;,
             &quot;class&quot;: &quot;Symfony\\Component\\Console\\Command\\Command&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -1835,7 +1665,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/artisan&quot;,
-            &quot;line&quot;: 37,
+            &quot;line&quot;: 35,
             &quot;function&quot;: &quot;handle&quot;,
             &quot;class&quot;: &quot;Illuminate\\Foundation\\Console\\Kernel&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -1912,10 +1742,10 @@ access-control-allow-origin: *
 <i>optional</i> &nbsp;
                 <input type="text" style="display: none"
                name="ngState"                data-endpoint="GETapi-states--ngState--lgas"
-               value="earum"
+               value="magni"
                data-component="url">
     <br>
-<p>mixed required the <code>data_id</code> or <code>name</code> of the local government you want to fetch LGAs for. Example: <code>earum</code></p>
+<p>mixed required the <code>data_id</code> or <code>name</code> of the local government you want to fetch LGAs for. Example: <code>magni</code></p>
             </div>
                     </form>
 
@@ -1933,14 +1763,14 @@ access-control-allow-origin: *
 
 <div class="bash-example">
     <pre><code class="language-bash">curl --request GET \
-    --get "http://localhost/api/lgas/iusto/wards" \
+    --get "http://localhost/api/lgas/sunt/wards" \
     --header "Content-Type: application/json" \
     --header "Accept: application/json"</code></pre></div>
 
 
 <div class="javascript-example">
     <pre><code class="language-javascript">const url = new URL(
-    "http://localhost/api/lgas/iusto/wards"
+    "http://localhost/api/lgas/sunt/wards"
 );
 
 const headers = {
@@ -1966,12 +1796,12 @@ fetch(url, {
             <pre><code class="language-http">cache-control: no-cache, private
 content-type: application/json
 x-ratelimit-limit: 60
-x-ratelimit-remaining: 46
+x-ratelimit-remaining: 55
 access-control-allow-origin: *
  </code></pre></details>         <pre>
 
 <code class="language-json" style="max-height: 300px;">{
-    &quot;message&quot;: &quot;Local government areas (iusto) not found&quot;,
+    &quot;message&quot;: &quot;Local government areas (sunt) not found&quot;,
     &quot;exception&quot;: &quot;App\\Exceptions\\NgLocalGovernmentException&quot;,
     &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/app/Services/NgLocalGovernmentService.php&quot;,
     &quot;line&quot;: 23,
@@ -1999,7 +1829,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Route.php&quot;,
-            &quot;line&quot;: 260,
+            &quot;line&quot;: 259,
             &quot;function&quot;: &quot;dispatch&quot;,
             &quot;class&quot;: &quot;Illuminate\\Routing\\ControllerDispatcher&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -2062,7 +1892,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php&quot;,
-            &quot;line&quot;: 102,
+            &quot;line&quot;: 92,
             &quot;function&quot;: &quot;handleRequest&quot;,
             &quot;class&quot;: &quot;Illuminate\\Routing\\Middleware\\ThrottleRequests&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -2090,7 +1920,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php&quot;,
-            &quot;line&quot;: 799,
+            &quot;line&quot;: 797,
             &quot;function&quot;: &quot;then&quot;,
             &quot;class&quot;: &quot;Illuminate\\Pipeline\\Pipeline&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -2293,7 +2123,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Extractor.php&quot;,
-            &quot;line&quot;: 166,
+            &quot;line&quot;: 163,
             &quot;function&quot;: &quot;iterateThroughStrategies&quot;,
             &quot;class&quot;: &quot;Knuckles\\Scribe\\Extracting\\Extractor&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -2356,7 +2186,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php&quot;,
-            &quot;line&quot;: 37,
+            &quot;line&quot;: 35,
             &quot;function&quot;: &quot;callBoundMethod&quot;,
             &quot;class&quot;: &quot;Illuminate\\Container\\BoundMethod&quot;,
             &quot;type&quot;: &quot;::&quot;
@@ -2384,7 +2214,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Console/Command.php&quot;,
-            &quot;line&quot;: 152,
+            &quot;line&quot;: 151,
             &quot;function&quot;: &quot;run&quot;,
             &quot;class&quot;: &quot;Symfony\\Component\\Console\\Command\\Command&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -2426,7 +2256,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/artisan&quot;,
-            &quot;line&quot;: 37,
+            &quot;line&quot;: 35,
             &quot;function&quot;: &quot;handle&quot;,
             &quot;class&quot;: &quot;Illuminate\\Foundation\\Console\\Kernel&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -2503,10 +2333,10 @@ access-control-allow-origin: *
  &nbsp;
                 <input type="text" style="display: none"
                name="ngLga"                data-endpoint="GETapi-lgas--ngLga--wards"
-               value="iusto"
+               value="sunt"
                data-component="url">
     <br>
-<p>Example: <code>iusto</code></p>
+<p>Example: <code>sunt</code></p>
             </div>
                     <div style="padding-left: 28px; clear: unset;">
                 <b style="line-height: 2;"><code>lga</code></b>&nbsp;&nbsp;
@@ -2514,10 +2344,10 @@ access-control-allow-origin: *
 <i>optional</i> &nbsp;
                 <input type="text" style="display: none"
                name="lga"                data-endpoint="GETapi-lgas--ngLga--wards"
-               value="fugiat"
+               value="provident"
                data-component="url">
     <br>
-<p>mixed required the <code>data_id</code> or <code>name</code> of the local government you want to fetch wards for. Example: <code>fugiat</code></p>
+<p>mixed required the <code>data_id</code> or <code>name</code> of the local government you want to fetch wards for. Example: <code>provident</code></p>
             </div>
                     </form>
 
@@ -2535,14 +2365,14 @@ access-control-allow-origin: *
 
 <div class="bash-example">
     <pre><code class="language-bash">curl --request GET \
-    --get "http://localhost/api/wards/cupiditate/polling-units" \
+    --get "http://localhost/api/wards/placeat/polling-units" \
     --header "Content-Type: application/json" \
     --header "Accept: application/json"</code></pre></div>
 
 
 <div class="javascript-example">
     <pre><code class="language-javascript">const url = new URL(
-    "http://localhost/api/wards/cupiditate/polling-units"
+    "http://localhost/api/wards/placeat/polling-units"
 );
 
 const headers = {
@@ -2568,12 +2398,12 @@ fetch(url, {
             <pre><code class="language-http">cache-control: no-cache, private
 content-type: application/json
 x-ratelimit-limit: 60
-x-ratelimit-remaining: 45
+x-ratelimit-remaining: 54
 access-control-allow-origin: *
  </code></pre></details>         <pre>
 
 <code class="language-json" style="max-height: 300px;">{
-    &quot;message&quot;: &quot;Ward (cupiditate) not found&quot;,
+    &quot;message&quot;: &quot;Ward (placeat) not found&quot;,
     &quot;exception&quot;: &quot;App\\Exceptions\\NgWardException&quot;,
     &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/app/Services/NgWardService.php&quot;,
     &quot;line&quot;: 23,
@@ -2601,7 +2431,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Route.php&quot;,
-            &quot;line&quot;: 260,
+            &quot;line&quot;: 259,
             &quot;function&quot;: &quot;dispatch&quot;,
             &quot;class&quot;: &quot;Illuminate\\Routing\\ControllerDispatcher&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -2664,7 +2494,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php&quot;,
-            &quot;line&quot;: 102,
+            &quot;line&quot;: 92,
             &quot;function&quot;: &quot;handleRequest&quot;,
             &quot;class&quot;: &quot;Illuminate\\Routing\\Middleware\\ThrottleRequests&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -2692,7 +2522,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php&quot;,
-            &quot;line&quot;: 799,
+            &quot;line&quot;: 797,
             &quot;function&quot;: &quot;then&quot;,
             &quot;class&quot;: &quot;Illuminate\\Pipeline\\Pipeline&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -2895,7 +2725,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Extractor.php&quot;,
-            &quot;line&quot;: 166,
+            &quot;line&quot;: 163,
             &quot;function&quot;: &quot;iterateThroughStrategies&quot;,
             &quot;class&quot;: &quot;Knuckles\\Scribe\\Extracting\\Extractor&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -2958,7 +2788,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php&quot;,
-            &quot;line&quot;: 37,
+            &quot;line&quot;: 35,
             &quot;function&quot;: &quot;callBoundMethod&quot;,
             &quot;class&quot;: &quot;Illuminate\\Container\\BoundMethod&quot;,
             &quot;type&quot;: &quot;::&quot;
@@ -2986,7 +2816,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Console/Command.php&quot;,
-            &quot;line&quot;: 152,
+            &quot;line&quot;: 151,
             &quot;function&quot;: &quot;run&quot;,
             &quot;class&quot;: &quot;Symfony\\Component\\Console\\Command\\Command&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -3028,7 +2858,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/artisan&quot;,
-            &quot;line&quot;: 37,
+            &quot;line&quot;: 35,
             &quot;function&quot;: &quot;handle&quot;,
             &quot;class&quot;: &quot;Illuminate\\Foundation\\Console\\Kernel&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -3105,10 +2935,10 @@ access-control-allow-origin: *
  &nbsp;
                 <input type="text" style="display: none"
                name="ngWard"                data-endpoint="GETapi-wards--ngWard--polling-units"
-               value="cupiditate"
+               value="placeat"
                data-component="url">
     <br>
-<p>Example: <code>cupiditate</code></p>
+<p>Example: <code>placeat</code></p>
             </div>
                     <div style="padding-left: 28px; clear: unset;">
                 <b style="line-height: 2;"><code>ward</code></b>&nbsp;&nbsp;
@@ -3116,10 +2946,10 @@ access-control-allow-origin: *
 <i>optional</i> &nbsp;
                 <input type="text" style="display: none"
                name="ward"                data-endpoint="GETapi-wards--ngWard--polling-units"
-               value="vel"
+               value="facere"
                data-component="url">
     <br>
-<p>mixed required the <code>data_id</code> or <code>name</code> of the ward you want to fetch polling units for. Example: <code>vel</code></p>
+<p>mixed required the <code>data_id</code> or <code>name</code> of the ward you want to fetch polling units for. Example: <code>facere</code></p>
             </div>
                     </form>
 
@@ -3141,7 +2971,7 @@ access-control-allow-origin: *
     --header "Content-Type: application/json" \
     --header "Accept: application/json" \
     --data "{
-    \"lgas\": \"true\"
+    \"lgas\": \"false\"
 }"
 </code></pre></div>
 
@@ -3157,7 +2987,7 @@ const headers = {
 };
 
 let body = {
-    "lgas": "true"
+    "lgas": "false"
 };
 
 fetch(url, {
@@ -3179,7 +3009,7 @@ fetch(url, {
             <pre><code class="language-http">cache-control: no-cache, private
 content-type: application/json
 x-ratelimit-limit: 60
-x-ratelimit-remaining: 44
+x-ratelimit-remaining: 53
 access-control-allow-origin: *
  </code></pre></details>         <pre>
 
@@ -3219,7 +3049,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Route.php&quot;,
-            &quot;line&quot;: 260,
+            &quot;line&quot;: 259,
             &quot;function&quot;: &quot;dispatch&quot;,
             &quot;class&quot;: &quot;Illuminate\\Routing\\ControllerDispatcher&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -3282,7 +3112,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php&quot;,
-            &quot;line&quot;: 102,
+            &quot;line&quot;: 92,
             &quot;function&quot;: &quot;handleRequest&quot;,
             &quot;class&quot;: &quot;Illuminate\\Routing\\Middleware\\ThrottleRequests&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -3310,7 +3140,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php&quot;,
-            &quot;line&quot;: 799,
+            &quot;line&quot;: 797,
             &quot;function&quot;: &quot;then&quot;,
             &quot;class&quot;: &quot;Illuminate\\Pipeline\\Pipeline&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -3513,7 +3343,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Extractor.php&quot;,
-            &quot;line&quot;: 166,
+            &quot;line&quot;: 163,
             &quot;function&quot;: &quot;iterateThroughStrategies&quot;,
             &quot;class&quot;: &quot;Knuckles\\Scribe\\Extracting\\Extractor&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -3576,7 +3406,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php&quot;,
-            &quot;line&quot;: 37,
+            &quot;line&quot;: 35,
             &quot;function&quot;: &quot;callBoundMethod&quot;,
             &quot;class&quot;: &quot;Illuminate\\Container\\BoundMethod&quot;,
             &quot;type&quot;: &quot;::&quot;
@@ -3604,7 +3434,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Console/Command.php&quot;,
-            &quot;line&quot;: 152,
+            &quot;line&quot;: 151,
             &quot;function&quot;: &quot;run&quot;,
             &quot;class&quot;: &quot;Symfony\\Component\\Console\\Command\\Command&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -3646,7 +3476,7 @@ access-control-allow-origin: *
         },
         {
             &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/artisan&quot;,
-            &quot;line&quot;: 37,
+            &quot;line&quot;: 35,
             &quot;function&quot;: &quot;handle&quot;,
             &quot;class&quot;: &quot;Illuminate\\Foundation\\Console\\Kernel&quot;,
             &quot;type&quot;: &quot;-&gt;&quot;
@@ -3734,10 +3564,10 @@ access-control-allow-origin: *
 <i>optional</i> &nbsp;
                 <input type="text" style="display: none"
                name="lgas"                data-endpoint="GETapi-filter"
-               value="true"
+               value="false"
                data-component="body">
     <br>
-<p>Must be one of <code>true</code> or <code>false</code>  This field is required when <code>ward</code> is <code>*</code>. Example: <code>true</code></p>
+<p>Must be one of <code>true</code> or <code>false</code>  This field is required when <code>ward</code> is <code>*</code>. Example: <code>false</code></p>
         </div>
         </form>
 
@@ -3791,14 +3621,85 @@ fetch(url, {
             <pre><code class="language-http">cache-control: no-cache, private
 content-type: application/json
 x-ratelimit-limit: 60
-x-ratelimit-remaining: 50
+x-ratelimit-remaining: 59
 access-control-allow-origin: *
  </code></pre></details>         <pre>
 
 <code class="language-json" style="max-height: 300px;">{
     &quot;status&quot;: &quot;success&quot;,
     &quot;data&quot;: {
-        &quot;types&quot;: []
+        &quot;types&quot;: [
+            {
+                &quot;id&quot;: 1,
+                &quot;name&quot;: &quot;attempted murder&quot;,
+                &quot;note&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 2,
+                &quot;name&quot;: &quot;gun shots&quot;,
+                &quot;note&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 3,
+                &quot;name&quot;: &quot;murder&quot;,
+                &quot;note&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 4,
+                &quot;name&quot;: &quot;intimidation&quot;,
+                &quot;note&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 5,
+                &quot;name&quot;: &quot;physical harm&quot;,
+                &quot;note&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 6,
+                &quot;name&quot;: &quot;ballot box snatching&quot;,
+                &quot;note&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 7,
+                &quot;name&quot;: &quot;physical threat&quot;,
+                &quot;note&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 8,
+                &quot;name&quot;: &quot;group clash&quot;,
+                &quot;note&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 9,
+                &quot;name&quot;: &quot;sexual violence&quot;,
+                &quot;note&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;
+            },
+            {
+                &quot;id&quot;: 10,
+                &quot;name&quot;: &quot;other&quot;,
+                &quot;note&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;
+            }
+        ]
     }
 }</code>
  </pre>
@@ -3879,11 +3780,11 @@ access-control-allow-origin: *
 
 <div class="bash-example">
     <pre><code class="language-bash">curl --request GET \
-    --get "http://localhost/api/violence-reports?limit=excepturi" \
+    --get "http://localhost/api/violence-reports?limit=ad" \
     --header "Content-Type: application/json" \
     --header "Accept: application/json" \
     --data "{
-    \"limit\": 18
+    \"limit\": 11
 }"
 </code></pre></div>
 
@@ -3894,7 +3795,7 @@ access-control-allow-origin: *
 );
 
 const params = {
-    "limit": "excepturi",
+    "limit": "ad",
 };
 Object.keys(params)
     .forEach(key =&gt; url.searchParams.append(key, params[key]));
@@ -3905,7 +3806,7 @@ const headers = {
 };
 
 let body = {
-    "limit": 18
+    "limit": 11
 };
 
 fetch(url, {
@@ -3927,7 +3828,7 @@ fetch(url, {
             <pre><code class="language-http">cache-control: no-cache, private
 content-type: application/json
 x-ratelimit-limit: 60
-x-ratelimit-remaining: 43
+x-ratelimit-remaining: 52
 access-control-allow-origin: *
  </code></pre></details>         <pre>
 
@@ -3936,9 +3837,440 @@ access-control-allow-origin: *
     &quot;data&quot;: {
         &quot;violence_reports&quot;: {
             &quot;current_page&quot;: 1,
-            &quot;data&quot;: [],
+            &quot;data&quot;: [
+                {
+                    &quot;id&quot;: 10,
+                    &quot;ng_state_id&quot;: null,
+                    &quot;ng_local_government_id&quot;: null,
+                    &quot;ng_polling_unit_id&quot;: 17232,
+                    &quot;type_id&quot;: 1,
+                    &quot;title&quot;: null,
+                    &quot;description&quot;: &quot;Hello World! Setting up my twitter...&quot;,
+                    &quot;file&quot;: null,
+                    &quot;ip_address&quot;: null,
+                    &quot;user_agent&quot;: null,
+                    &quot;longitude&quot;: null,
+                    &quot;latitude&quot;: null,
+                    &quot;created_at&quot;: &quot;2023-02-09T13:32:54.000000Z&quot;,
+                    &quot;updated_at&quot;: &quot;2023-02-09T13:32:54.000000Z&quot;,
+                    &quot;deleted_at&quot;: null,
+                    &quot;polling_unit&quot;: {
+                        &quot;id&quot;: 17210,
+                        &quot;data_id&quot;: 17232,
+                        &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
+                        &quot;registration_area_id&quot;: 1000,
+                        &quot;precise_location&quot;: null,
+                        &quot;abbreviation&quot;: &quot;001&quot;,
+                        &quot;units&quot;: &quot;001&quot;,
+                        &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
+                        &quot;remark&quot;: &quot;EXISTING PU&quot;,
+                        &quot;ward_id&quot;: 1000,
+                        &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;location&quot;: {
+                            &quot;id&quot;: 17210,
+                            &quot;ng_polling_unit_id&quot;: 17232,
+                            &quot;latitude&quot;: &quot;6.1293859&quot;,
+                            &quot;longitude&quot;: &quot;6.7855757&quot;,
+                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
+                            &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
+                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
+                            &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
+                            &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                            &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
+                        }
+                    }
+                },
+                {
+                    &quot;id&quot;: 9,
+                    &quot;ng_state_id&quot;: null,
+                    &quot;ng_local_government_id&quot;: null,
+                    &quot;ng_polling_unit_id&quot;: 17232,
+                    &quot;type_id&quot;: 1,
+                    &quot;title&quot;: null,
+                    &quot;description&quot;: &quot;Lorem&quot;,
+                    &quot;file&quot;: null,
+                    &quot;ip_address&quot;: null,
+                    &quot;user_agent&quot;: null,
+                    &quot;longitude&quot;: null,
+                    &quot;latitude&quot;: null,
+                    &quot;created_at&quot;: &quot;2023-02-09T13:26:14.000000Z&quot;,
+                    &quot;updated_at&quot;: &quot;2023-02-09T13:26:14.000000Z&quot;,
+                    &quot;deleted_at&quot;: null,
+                    &quot;polling_unit&quot;: {
+                        &quot;id&quot;: 17210,
+                        &quot;data_id&quot;: 17232,
+                        &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
+                        &quot;registration_area_id&quot;: 1000,
+                        &quot;precise_location&quot;: null,
+                        &quot;abbreviation&quot;: &quot;001&quot;,
+                        &quot;units&quot;: &quot;001&quot;,
+                        &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
+                        &quot;remark&quot;: &quot;EXISTING PU&quot;,
+                        &quot;ward_id&quot;: 1000,
+                        &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;location&quot;: {
+                            &quot;id&quot;: 17210,
+                            &quot;ng_polling_unit_id&quot;: 17232,
+                            &quot;latitude&quot;: &quot;6.1293859&quot;,
+                            &quot;longitude&quot;: &quot;6.7855757&quot;,
+                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
+                            &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
+                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
+                            &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
+                            &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                            &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
+                        }
+                    }
+                },
+                {
+                    &quot;id&quot;: 8,
+                    &quot;ng_state_id&quot;: null,
+                    &quot;ng_local_government_id&quot;: null,
+                    &quot;ng_polling_unit_id&quot;: 17232,
+                    &quot;type_id&quot;: 1,
+                    &quot;title&quot;: null,
+                    &quot;description&quot;: &quot;Lorem&quot;,
+                    &quot;file&quot;: null,
+                    &quot;ip_address&quot;: null,
+                    &quot;user_agent&quot;: null,
+                    &quot;longitude&quot;: null,
+                    &quot;latitude&quot;: null,
+                    &quot;created_at&quot;: &quot;2023-02-09T13:25:19.000000Z&quot;,
+                    &quot;updated_at&quot;: &quot;2023-02-09T13:25:19.000000Z&quot;,
+                    &quot;deleted_at&quot;: null,
+                    &quot;polling_unit&quot;: {
+                        &quot;id&quot;: 17210,
+                        &quot;data_id&quot;: 17232,
+                        &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
+                        &quot;registration_area_id&quot;: 1000,
+                        &quot;precise_location&quot;: null,
+                        &quot;abbreviation&quot;: &quot;001&quot;,
+                        &quot;units&quot;: &quot;001&quot;,
+                        &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
+                        &quot;remark&quot;: &quot;EXISTING PU&quot;,
+                        &quot;ward_id&quot;: 1000,
+                        &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;location&quot;: {
+                            &quot;id&quot;: 17210,
+                            &quot;ng_polling_unit_id&quot;: 17232,
+                            &quot;latitude&quot;: &quot;6.1293859&quot;,
+                            &quot;longitude&quot;: &quot;6.7855757&quot;,
+                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
+                            &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
+                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
+                            &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
+                            &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                            &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
+                        }
+                    }
+                },
+                {
+                    &quot;id&quot;: 7,
+                    &quot;ng_state_id&quot;: null,
+                    &quot;ng_local_government_id&quot;: null,
+                    &quot;ng_polling_unit_id&quot;: 17232,
+                    &quot;type_id&quot;: 1,
+                    &quot;title&quot;: null,
+                    &quot;description&quot;: &quot;Lorem&quot;,
+                    &quot;file&quot;: null,
+                    &quot;ip_address&quot;: null,
+                    &quot;user_agent&quot;: null,
+                    &quot;longitude&quot;: null,
+                    &quot;latitude&quot;: null,
+                    &quot;created_at&quot;: &quot;2023-02-09T13:24:27.000000Z&quot;,
+                    &quot;updated_at&quot;: &quot;2023-02-09T13:24:27.000000Z&quot;,
+                    &quot;deleted_at&quot;: null,
+                    &quot;polling_unit&quot;: {
+                        &quot;id&quot;: 17210,
+                        &quot;data_id&quot;: 17232,
+                        &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
+                        &quot;registration_area_id&quot;: 1000,
+                        &quot;precise_location&quot;: null,
+                        &quot;abbreviation&quot;: &quot;001&quot;,
+                        &quot;units&quot;: &quot;001&quot;,
+                        &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
+                        &quot;remark&quot;: &quot;EXISTING PU&quot;,
+                        &quot;ward_id&quot;: 1000,
+                        &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;location&quot;: {
+                            &quot;id&quot;: 17210,
+                            &quot;ng_polling_unit_id&quot;: 17232,
+                            &quot;latitude&quot;: &quot;6.1293859&quot;,
+                            &quot;longitude&quot;: &quot;6.7855757&quot;,
+                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
+                            &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
+                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
+                            &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
+                            &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                            &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
+                        }
+                    }
+                },
+                {
+                    &quot;id&quot;: 6,
+                    &quot;ng_state_id&quot;: null,
+                    &quot;ng_local_government_id&quot;: null,
+                    &quot;ng_polling_unit_id&quot;: 17232,
+                    &quot;type_id&quot;: 1,
+                    &quot;title&quot;: null,
+                    &quot;description&quot;: &quot;Lorem&quot;,
+                    &quot;file&quot;: null,
+                    &quot;ip_address&quot;: null,
+                    &quot;user_agent&quot;: null,
+                    &quot;longitude&quot;: null,
+                    &quot;latitude&quot;: null,
+                    &quot;created_at&quot;: &quot;2023-02-09T13:23:03.000000Z&quot;,
+                    &quot;updated_at&quot;: &quot;2023-02-09T13:23:03.000000Z&quot;,
+                    &quot;deleted_at&quot;: null,
+                    &quot;polling_unit&quot;: {
+                        &quot;id&quot;: 17210,
+                        &quot;data_id&quot;: 17232,
+                        &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
+                        &quot;registration_area_id&quot;: 1000,
+                        &quot;precise_location&quot;: null,
+                        &quot;abbreviation&quot;: &quot;001&quot;,
+                        &quot;units&quot;: &quot;001&quot;,
+                        &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
+                        &quot;remark&quot;: &quot;EXISTING PU&quot;,
+                        &quot;ward_id&quot;: 1000,
+                        &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;location&quot;: {
+                            &quot;id&quot;: 17210,
+                            &quot;ng_polling_unit_id&quot;: 17232,
+                            &quot;latitude&quot;: &quot;6.1293859&quot;,
+                            &quot;longitude&quot;: &quot;6.7855757&quot;,
+                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
+                            &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
+                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
+                            &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
+                            &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                            &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
+                        }
+                    }
+                },
+                {
+                    &quot;id&quot;: 5,
+                    &quot;ng_state_id&quot;: null,
+                    &quot;ng_local_government_id&quot;: null,
+                    &quot;ng_polling_unit_id&quot;: 17232,
+                    &quot;type_id&quot;: 1,
+                    &quot;title&quot;: null,
+                    &quot;description&quot;: &quot;Lorem&quot;,
+                    &quot;file&quot;: null,
+                    &quot;ip_address&quot;: null,
+                    &quot;user_agent&quot;: null,
+                    &quot;longitude&quot;: null,
+                    &quot;latitude&quot;: null,
+                    &quot;created_at&quot;: &quot;2023-02-09T13:18:04.000000Z&quot;,
+                    &quot;updated_at&quot;: &quot;2023-02-09T13:18:04.000000Z&quot;,
+                    &quot;deleted_at&quot;: null,
+                    &quot;polling_unit&quot;: {
+                        &quot;id&quot;: 17210,
+                        &quot;data_id&quot;: 17232,
+                        &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
+                        &quot;registration_area_id&quot;: 1000,
+                        &quot;precise_location&quot;: null,
+                        &quot;abbreviation&quot;: &quot;001&quot;,
+                        &quot;units&quot;: &quot;001&quot;,
+                        &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
+                        &quot;remark&quot;: &quot;EXISTING PU&quot;,
+                        &quot;ward_id&quot;: 1000,
+                        &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;location&quot;: {
+                            &quot;id&quot;: 17210,
+                            &quot;ng_polling_unit_id&quot;: 17232,
+                            &quot;latitude&quot;: &quot;6.1293859&quot;,
+                            &quot;longitude&quot;: &quot;6.7855757&quot;,
+                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
+                            &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
+                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
+                            &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
+                            &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                            &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
+                        }
+                    }
+                },
+                {
+                    &quot;id&quot;: 4,
+                    &quot;ng_state_id&quot;: null,
+                    &quot;ng_local_government_id&quot;: null,
+                    &quot;ng_polling_unit_id&quot;: 17232,
+                    &quot;type_id&quot;: 1,
+                    &quot;title&quot;: null,
+                    &quot;description&quot;: &quot;Lorem&quot;,
+                    &quot;file&quot;: null,
+                    &quot;ip_address&quot;: null,
+                    &quot;user_agent&quot;: null,
+                    &quot;longitude&quot;: null,
+                    &quot;latitude&quot;: null,
+                    &quot;created_at&quot;: &quot;2023-02-09T13:12:01.000000Z&quot;,
+                    &quot;updated_at&quot;: &quot;2023-02-09T13:12:01.000000Z&quot;,
+                    &quot;deleted_at&quot;: null,
+                    &quot;polling_unit&quot;: {
+                        &quot;id&quot;: 17210,
+                        &quot;data_id&quot;: 17232,
+                        &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
+                        &quot;registration_area_id&quot;: 1000,
+                        &quot;precise_location&quot;: null,
+                        &quot;abbreviation&quot;: &quot;001&quot;,
+                        &quot;units&quot;: &quot;001&quot;,
+                        &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
+                        &quot;remark&quot;: &quot;EXISTING PU&quot;,
+                        &quot;ward_id&quot;: 1000,
+                        &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;location&quot;: {
+                            &quot;id&quot;: 17210,
+                            &quot;ng_polling_unit_id&quot;: 17232,
+                            &quot;latitude&quot;: &quot;6.1293859&quot;,
+                            &quot;longitude&quot;: &quot;6.7855757&quot;,
+                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
+                            &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
+                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
+                            &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
+                            &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                            &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
+                        }
+                    }
+                },
+                {
+                    &quot;id&quot;: 3,
+                    &quot;ng_state_id&quot;: null,
+                    &quot;ng_local_government_id&quot;: null,
+                    &quot;ng_polling_unit_id&quot;: 17232,
+                    &quot;type_id&quot;: 1,
+                    &quot;title&quot;: null,
+                    &quot;description&quot;: &quot;Lorem&quot;,
+                    &quot;file&quot;: null,
+                    &quot;ip_address&quot;: null,
+                    &quot;user_agent&quot;: null,
+                    &quot;longitude&quot;: null,
+                    &quot;latitude&quot;: null,
+                    &quot;created_at&quot;: &quot;2023-02-09T12:50:12.000000Z&quot;,
+                    &quot;updated_at&quot;: &quot;2023-02-09T12:50:12.000000Z&quot;,
+                    &quot;deleted_at&quot;: null,
+                    &quot;polling_unit&quot;: {
+                        &quot;id&quot;: 17210,
+                        &quot;data_id&quot;: 17232,
+                        &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
+                        &quot;registration_area_id&quot;: 1000,
+                        &quot;precise_location&quot;: null,
+                        &quot;abbreviation&quot;: &quot;001&quot;,
+                        &quot;units&quot;: &quot;001&quot;,
+                        &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
+                        &quot;remark&quot;: &quot;EXISTING PU&quot;,
+                        &quot;ward_id&quot;: 1000,
+                        &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;location&quot;: {
+                            &quot;id&quot;: 17210,
+                            &quot;ng_polling_unit_id&quot;: 17232,
+                            &quot;latitude&quot;: &quot;6.1293859&quot;,
+                            &quot;longitude&quot;: &quot;6.7855757&quot;,
+                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
+                            &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
+                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
+                            &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
+                            &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                            &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
+                        }
+                    }
+                },
+                {
+                    &quot;id&quot;: 2,
+                    &quot;ng_state_id&quot;: null,
+                    &quot;ng_local_government_id&quot;: null,
+                    &quot;ng_polling_unit_id&quot;: 17232,
+                    &quot;type_id&quot;: 1,
+                    &quot;title&quot;: null,
+                    &quot;description&quot;: &quot;Lorem&quot;,
+                    &quot;file&quot;: null,
+                    &quot;ip_address&quot;: null,
+                    &quot;user_agent&quot;: null,
+                    &quot;longitude&quot;: null,
+                    &quot;latitude&quot;: null,
+                    &quot;created_at&quot;: &quot;2023-02-09T12:49:43.000000Z&quot;,
+                    &quot;updated_at&quot;: &quot;2023-02-09T12:49:43.000000Z&quot;,
+                    &quot;deleted_at&quot;: null,
+                    &quot;polling_unit&quot;: {
+                        &quot;id&quot;: 17210,
+                        &quot;data_id&quot;: 17232,
+                        &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
+                        &quot;registration_area_id&quot;: 1000,
+                        &quot;precise_location&quot;: null,
+                        &quot;abbreviation&quot;: &quot;001&quot;,
+                        &quot;units&quot;: &quot;001&quot;,
+                        &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
+                        &quot;remark&quot;: &quot;EXISTING PU&quot;,
+                        &quot;ward_id&quot;: 1000,
+                        &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;location&quot;: {
+                            &quot;id&quot;: 17210,
+                            &quot;ng_polling_unit_id&quot;: 17232,
+                            &quot;latitude&quot;: &quot;6.1293859&quot;,
+                            &quot;longitude&quot;: &quot;6.7855757&quot;,
+                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
+                            &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
+                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
+                            &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
+                            &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                            &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
+                        }
+                    }
+                },
+                {
+                    &quot;id&quot;: 1,
+                    &quot;ng_state_id&quot;: null,
+                    &quot;ng_local_government_id&quot;: null,
+                    &quot;ng_polling_unit_id&quot;: 17232,
+                    &quot;type_id&quot;: 1,
+                    &quot;title&quot;: null,
+                    &quot;description&quot;: &quot;Lorem&quot;,
+                    &quot;file&quot;: null,
+                    &quot;ip_address&quot;: null,
+                    &quot;user_agent&quot;: null,
+                    &quot;longitude&quot;: null,
+                    &quot;latitude&quot;: null,
+                    &quot;created_at&quot;: &quot;2023-02-09T12:47:27.000000Z&quot;,
+                    &quot;updated_at&quot;: &quot;2023-02-09T12:47:27.000000Z&quot;,
+                    &quot;deleted_at&quot;: null,
+                    &quot;polling_unit&quot;: {
+                        &quot;id&quot;: 17210,
+                        &quot;data_id&quot;: 17232,
+                        &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
+                        &quot;registration_area_id&quot;: 1000,
+                        &quot;precise_location&quot;: null,
+                        &quot;abbreviation&quot;: &quot;001&quot;,
+                        &quot;units&quot;: &quot;001&quot;,
+                        &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
+                        &quot;remark&quot;: &quot;EXISTING PU&quot;,
+                        &quot;ward_id&quot;: 1000,
+                        &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;location&quot;: {
+                            &quot;id&quot;: 17210,
+                            &quot;ng_polling_unit_id&quot;: 17232,
+                            &quot;latitude&quot;: &quot;6.1293859&quot;,
+                            &quot;longitude&quot;: &quot;6.7855757&quot;,
+                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
+                            &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
+                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
+                            &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
+                            &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                            &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
+                        }
+                    }
+                }
+            ],
             &quot;first_page_url&quot;: &quot;http://localhost/api/violence-reports?page=1&quot;,
-            &quot;from&quot;: null,
+            &quot;from&quot;: 1,
             &quot;last_page&quot;: 1,
             &quot;last_page_url&quot;: &quot;http://localhost/api/violence-reports?page=1&quot;,
             &quot;links&quot;: [
@@ -3960,10 +4292,10 @@ access-control-allow-origin: *
             ],
             &quot;next_page_url&quot;: null,
             &quot;path&quot;: &quot;http://localhost/api/violence-reports&quot;,
-            &quot;per_page&quot;: 18,
+            &quot;per_page&quot;: 11,
             &quot;prev_page_url&quot;: null,
-            &quot;to&quot;: null,
-            &quot;total&quot;: 0
+            &quot;to&quot;: 10,
+            &quot;total&quot;: 10
         }
     }
 }</code>
@@ -4037,10 +4369,10 @@ access-control-allow-origin: *
 <i>optional</i> &nbsp;
                 <input type="text" style="display: none"
                name="limit"                data-endpoint="GETapi-violence-reports"
-               value="excepturi"
+               value="ad"
                data-component="query">
     <br>
-<p>an integer Example: <code>excepturi</code></p>
+<p>an integer Example: <code>ad</code></p>
             </div>
                         <h4 class="fancy-heading-panel"><b>Body Parameters</b></h4>
         <div style=" padding-left: 28px;  clear: unset;">
@@ -4049,10 +4381,10 @@ access-control-allow-origin: *
 <i>optional</i> &nbsp;
                 <input type="number" style="display: none"
                name="limit"                data-endpoint="GETapi-violence-reports"
-               value="18"
+               value="11"
                data-component="body">
     <br>
-<p>Example: <code>18</code></p>
+<p>Example: <code>11</code></p>
         </div>
         </form>
 
@@ -4072,13 +4404,15 @@ access-control-allow-origin: *
     "http://localhost/api/violence-reports" \
     --header "Content-Type: multipart/form-data" \
     --header "Accept: application/json" \
-    --form "ng_state_id=5" \
-    --form "ng_local_government_id=20" \
+    --form "ng_state_id=20" \
+    --form "ng_local_government_id=9" \
     --form "ng_polling_unit_id=6" \
-    --form "type_id=16" \
-    --form "title=corrupti" \
-    --form "description=Omnis repellat hic necessitatibus dolorem iusto." \
-    --form "file=@/private/var/folders/mc/cf27jd5s2bv407znxj_74g280000gn/T/phpEiEOFg" </code></pre></div>
+    --form "type_id=9" \
+    --form "title=quam" \
+    --form "description=Molestias cupiditate minima minus velit accusantium tempore doloribus." \
+    --form "longitude=2677992.27132" \
+    --form "latitude=2729467.8244216" \
+    --form "file=@/private/var/folders/mc/cf27jd5s2bv407znxj_74g280000gn/T/php7C7lWM" </code></pre></div>
 
 
 <div class="javascript-example">
@@ -4092,12 +4426,14 @@ const headers = {
 };
 
 const body = new FormData();
-body.append('ng_state_id', '5');
-body.append('ng_local_government_id', '20');
+body.append('ng_state_id', '20');
+body.append('ng_local_government_id', '9');
 body.append('ng_polling_unit_id', '6');
-body.append('type_id', '16');
-body.append('title', 'corrupti');
-body.append('description', 'Omnis repellat hic necessitatibus dolorem iusto.');
+body.append('type_id', '9');
+body.append('title', 'quam');
+body.append('description', 'Molestias cupiditate minima minus velit accusantium tempore doloribus.');
+body.append('longitude', '2677992.27132');
+body.append('latitude', '2729467.8244216');
 body.append('file', document.querySelector('input[name="file"]').files[0]);
 
 fetch(url, {
@@ -4178,10 +4514,10 @@ fetch(url, {
 <i>optional</i> &nbsp;
                 <input type="number" style="display: none"
                name="ng_state_id"                data-endpoint="POSTapi-violence-reports"
-               value="5"
+               value="20"
                data-component="body">
     <br>
-<p><code>ng_states.data_id</code> Example: <code>5</code></p>
+<p><code>ng_states.data_id</code> Example: <code>20</code></p>
         </div>
                 <div style=" padding-left: 28px;  clear: unset;">
             <b style="line-height: 2;"><code>ng_local_government_id</code></b>&nbsp;&nbsp;
@@ -4189,10 +4525,10 @@ fetch(url, {
 <i>optional</i> &nbsp;
                 <input type="number" style="display: none"
                name="ng_local_government_id"                data-endpoint="POSTapi-violence-reports"
-               value="20"
+               value="9"
                data-component="body">
     <br>
-<p><code>ng_local_governments.data_id</code> Example: <code>20</code></p>
+<p><code>ng_local_governments.data_id</code> Example: <code>9</code></p>
         </div>
                 <div style=" padding-left: 28px;  clear: unset;">
             <b style="line-height: 2;"><code>ng_polling_unit_id</code></b>&nbsp;&nbsp;
@@ -4211,10 +4547,10 @@ fetch(url, {
  &nbsp;
                 <input type="number" style="display: none"
                name="type_id"                data-endpoint="POSTapi-violence-reports"
-               value="16"
+               value="9"
                data-component="body">
     <br>
-<p>Example: <code>16</code></p>
+<p>Example: <code>9</code></p>
         </div>
                 <div style=" padding-left: 28px;  clear: unset;">
             <b style="line-height: 2;"><code>title</code></b>&nbsp;&nbsp;
@@ -4222,10 +4558,10 @@ fetch(url, {
 <i>optional</i> &nbsp;
                 <input type="text" style="display: none"
                name="title"                data-endpoint="POSTapi-violence-reports"
-               value="corrupti"
+               value="quam"
                data-component="body">
     <br>
-<p>Example: <code>corrupti</code></p>
+<p>Example: <code>quam</code></p>
         </div>
                 <div style=" padding-left: 28px;  clear: unset;">
             <b style="line-height: 2;"><code>description</code></b>&nbsp;&nbsp;
@@ -4233,10 +4569,10 @@ fetch(url, {
 <i>optional</i> &nbsp;
                 <input type="text" style="display: none"
                name="description"                data-endpoint="POSTapi-violence-reports"
-               value="Omnis repellat hic necessitatibus dolorem iusto."
+               value="Molestias cupiditate minima minus velit accusantium tempore doloribus."
                data-component="body">
     <br>
-<p>The <code>description</code> property is required if no file is attached Example: <code>Omnis repellat hic necessitatibus dolorem iusto.</code></p>
+<p>The <code>description</code> property is required if no file is attached Example: <code>Molestias cupiditate minima minus velit accusantium tempore doloribus.</code></p>
         </div>
                 <div style=" padding-left: 28px;  clear: unset;">
             <b style="line-height: 2;"><code>file</code></b>&nbsp;&nbsp;
@@ -4247,9 +4583,206 @@ fetch(url, {
                value=""
                data-component="body">
     <br>
-<p>The <code>file</code> property is required if there's no description Example: <code>/private/var/folders/mc/cf27jd5s2bv407znxj_74g280000gn/T/phpEiEOFg</code></p>
+<p>The <code>file</code> property is required if there's no description Example: <code>/private/var/folders/mc/cf27jd5s2bv407znxj_74g280000gn/T/php7C7lWM</code></p>
+        </div>
+                <div style=" padding-left: 28px;  clear: unset;">
+            <b style="line-height: 2;"><code>longitude</code></b>&nbsp;&nbsp;
+<small>number</small>&nbsp;
+<i>optional</i> &nbsp;
+                <input type="number" style="display: none"
+               name="longitude"                data-endpoint="POSTapi-violence-reports"
+               value="2677992.27132"
+               data-component="body">
+    <br>
+<p>Example: <code>2677992.27132</code></p>
+        </div>
+                <div style=" padding-left: 28px;  clear: unset;">
+            <b style="line-height: 2;"><code>latitude</code></b>&nbsp;&nbsp;
+<small>number</small>&nbsp;
+<i>optional</i> &nbsp;
+                <input type="number" style="display: none"
+               name="latitude"                data-endpoint="POSTapi-violence-reports"
+               value="2729467.8244216"
+               data-component="body">
+    <br>
+<p>Example: <code>2729467.8244216</code></p>
         </div>
         </form>
+
+                    <h2 id="violence-reports-GETapi-violence-reports--id-">Fetch a report By ID</h2>
+
+<p>
+</p>
+
+<p>This endpoint returns a single report identified by <code>violence_reports.id</code></p>
+
+<span id="example-requests-GETapi-violence-reports--id-">
+<blockquote>Example request:</blockquote>
+
+
+<div class="bash-example">
+    <pre><code class="language-bash">curl --request GET \
+    --get "http://localhost/api/violence-reports/1" \
+    --header "Content-Type: application/json" \
+    --header "Accept: application/json"</code></pre></div>
+
+
+<div class="javascript-example">
+    <pre><code class="language-javascript">const url = new URL(
+    "http://localhost/api/violence-reports/1"
+);
+
+const headers = {
+    "Content-Type": "application/json",
+    "Accept": "application/json",
+};
+
+fetch(url, {
+    method: "GET",
+    headers,
+}).then(response =&gt; response.json());</code></pre></div>
+
+</span>
+
+<span id="example-responses-GETapi-violence-reports--id-">
+            <blockquote>
+            <p>Example response (200):</p>
+        </blockquote>
+                <details class="annotation">
+            <summary style="cursor: pointer;">
+                <small onclick="textContent = parentElement.parentElement.open ? 'Show headers' : 'Hide headers'">Show headers</small>
+            </summary>
+            <pre><code class="language-http">cache-control: no-cache, private
+content-type: application/json
+x-ratelimit-limit: 60
+x-ratelimit-remaining: 51
+access-control-allow-origin: *
+ </code></pre></details>         <pre>
+
+<code class="language-json" style="max-height: 300px;">{
+    &quot;status&quot;: &quot;success&quot;,
+    &quot;data&quot;: {
+        &quot;violence_report&quot;: {
+            &quot;id&quot;: 1,
+            &quot;ng_state_id&quot;: null,
+            &quot;ng_local_government_id&quot;: null,
+            &quot;ng_polling_unit_id&quot;: 17232,
+            &quot;type_id&quot;: 1,
+            &quot;title&quot;: null,
+            &quot;description&quot;: &quot;Lorem&quot;,
+            &quot;file&quot;: null,
+            &quot;ip_address&quot;: null,
+            &quot;user_agent&quot;: null,
+            &quot;longitude&quot;: null,
+            &quot;latitude&quot;: null,
+            &quot;created_at&quot;: &quot;2023-02-09T12:47:27.000000Z&quot;,
+            &quot;updated_at&quot;: &quot;2023-02-09T12:47:27.000000Z&quot;,
+            &quot;deleted_at&quot;: null,
+            &quot;polling_unit&quot;: {
+                &quot;id&quot;: 17210,
+                &quot;data_id&quot;: 17232,
+                &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
+                &quot;registration_area_id&quot;: 1000,
+                &quot;precise_location&quot;: null,
+                &quot;abbreviation&quot;: &quot;001&quot;,
+                &quot;units&quot;: &quot;001&quot;,
+                &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
+                &quot;remark&quot;: &quot;EXISTING PU&quot;,
+                &quot;ward_id&quot;: 1000,
+                &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                &quot;location&quot;: {
+                    &quot;id&quot;: 17210,
+                    &quot;ng_polling_unit_id&quot;: 17232,
+                    &quot;latitude&quot;: &quot;6.1293859&quot;,
+                    &quot;longitude&quot;: &quot;6.7855757&quot;,
+                    &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
+                    &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
+                    &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
+                    &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
+                    &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                    &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
+                }
+            }
+        }
+    }
+}</code>
+ </pre>
+    </span>
+<span id="execution-results-GETapi-violence-reports--id-" hidden>
+    <blockquote>Received response<span
+                id="execution-response-status-GETapi-violence-reports--id-"></span>:
+    </blockquote>
+    <pre class="json"><code id="execution-response-content-GETapi-violence-reports--id-" style="max-height: 400px;"></code></pre>
+</span>
+<span id="execution-error-GETapi-violence-reports--id-" hidden>
+    <blockquote>Request failed with error:</blockquote>
+    <pre><code id="execution-error-message-GETapi-violence-reports--id-"></code></pre>
+</span>
+<form id="form-GETapi-violence-reports--id-" data-method="GET"
+      data-path="api/violence-reports/{id}"
+      data-authed="0"
+      data-hasfiles="0"
+      data-isarraybody="0"
+      autocomplete="off"
+      onsubmit="event.preventDefault(); executeTryOut('GETapi-violence-reports--id-', this);">
+    <h3>
+        Request&nbsp;&nbsp;&nbsp;
+                    <button type="button"
+                    style="background-color: #8fbcd4; padding: 5px 10px; border-radius: 5px; border-width: thin;"
+                    id="btn-tryout-GETapi-violence-reports--id-"
+                    onclick="tryItOut('GETapi-violence-reports--id-');">Try it out ⚡
+            </button>
+            <button type="button"
+                    style="background-color: #c97a7e; padding: 5px 10px; border-radius: 5px; border-width: thin;"
+                    id="btn-canceltryout-GETapi-violence-reports--id-"
+                    onclick="cancelTryOut('GETapi-violence-reports--id-');" hidden>Cancel 🛑
+            </button>&nbsp;&nbsp;
+            <button type="submit"
+                    style="background-color: #6ac174; padding: 5px 10px; border-radius: 5px; border-width: thin;"
+                    id="btn-executetryout-GETapi-violence-reports--id-" hidden>Send Request 💥
+            </button>
+            </h3>
+            <p>
+            <small class="badge badge-green">GET</small>
+            <b><code>api/violence-reports/{id}</code></b>
+        </p>
+                <h4 class="fancy-heading-panel"><b>Headers</b></h4>
+                                <div style="padding-left: 28px; clear: unset;">
+                <b style="line-height: 2;"><code>Content-Type</code></b>&nbsp;&nbsp;
+&nbsp;
+ &nbsp;
+                <input type="text" style="display: none"
+               name="Content-Type"                data-endpoint="GETapi-violence-reports--id-"
+               value="application/json"
+               data-component="header">
+    <br>
+<p>Example: <code>application/json</code></p>
+            </div>
+                                <div style="padding-left: 28px; clear: unset;">
+                <b style="line-height: 2;"><code>Accept</code></b>&nbsp;&nbsp;
+&nbsp;
+ &nbsp;
+                <input type="text" style="display: none"
+               name="Accept"                data-endpoint="GETapi-violence-reports--id-"
+               value="application/json"
+               data-component="header">
+    <br>
+<p>Example: <code>application/json</code></p>
+            </div>
+                        <h4 class="fancy-heading-panel"><b>URL Parameters</b></h4>
+                    <div style="padding-left: 28px; clear: unset;">
+                <b style="line-height: 2;"><code>id</code></b>&nbsp;&nbsp;
+<small>integer</small>&nbsp;
+ &nbsp;
+                <input type="number" style="display: none"
+               name="id"                data-endpoint="GETapi-violence-reports--id-"
+               value="1"
+               data-component="url">
+    <br>
+<p>The ID of the violence report. Example: <code>1</code></p>
+            </div>
+                    </form>
 
             
 

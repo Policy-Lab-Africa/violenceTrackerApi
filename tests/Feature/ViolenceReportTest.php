@@ -94,4 +94,26 @@ class ViolenceReportTest extends TestCase
         Queue::assertPushed(PublishTweet::class, 1);
     }
 
+    /**
+     * Show report
+     *
+     * @test
+     * @return void
+     */
+    public function showViolenceReport()
+    {
+        $report = ViolenceReport::factory()->create();
+
+        $this->get(route('violence-reports.show', $report->id))
+            ->assertStatus(200)
+            ->assertJson([
+                'status' => 'success',
+                'data' => [
+                    'violence_report' => [
+                        'id' => $report->id,
+                    ]
+                ]
+            ]);
+    }
+
 }
