@@ -49,6 +49,5 @@ class InecDataGenerationTest extends TestCase
     public function testGeneratePollingUnits()
     {
         $this->artisan('inecdata:generate polling-unit')->assertSuccessful();
-
     }
 }
