@@ -90,8 +90,11 @@ class ViolenceReportController extends Controller
                 'type_id' => $request->type_id,
                 'title' => $request->title,
                 'description' => $request->description,
-                'file' => $request->has('file') ? $request->file('file')
-                            ->store('report-files-'.date('m-Y'), 's3') : null,
+                'file' => $request->has('file') ? $request->file('file')->store('report-files-'.date('m-Y'), 's3') : null,
+                'ip_address' => $request->ip(),
+                'user_agent' => $request->userAgent(),
+                'longitude' => $request->longitude,
+                'latitude' => $request->latitude,
             ]);
 
             ViolenceReportCreated::dispatch($report);
