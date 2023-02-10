@@ -9,6 +9,7 @@ use App\Models\NgPollingUnit;
 use Illuminate\Http\Response;
 use App\Models\ViolenceReport;
 use App\Models\NgLocalGovernment;
+use App\Events\ViolenceReportCreated;
 use Illuminate\Support\Facades\Storage;
 use App\Http\Resources\ViolenceReportCollection;
 use App\Http\Requests\StoreViolenceReportRequest;
@@ -89,16 +90,16 @@ class ViolenceReportController extends Controller
                 'type_id' => $request->type_id,
                 'title' => $request->title,
                 'description' => $request->description,
-                'file' => $request->has('file') ? $request->file('file')
-                                    ->store('report-files-'.date('m-Y'), 's3') : null,
+                'file' => $request->has('file') ? $request->file('file')->store('report-files-'.date('m-Y'), 's3') : null,
                 'ip_address' => $request->ip(),
                 'user_agent' => $request->userAgent(),
                 'longitude' => $request->longitude,
                 'latitude' => $request->latitude,
             ]);
+
+            ViolenceReportCreated::dispatch($report);
     
-            return $this->sendResponse([
-                'violence_report' => $report], 201);
+            return $this->sendResponse(['violence_report' => $report], 201);
 
         } catch (Throwable $th)
         {
