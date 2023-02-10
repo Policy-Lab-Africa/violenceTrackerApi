@@ -27,12 +27,12 @@ endpoints:
     responses:
       -
         status: 200
-        content: '{"status":"success","data":{"types":[]}}'
+        content: '{"status":"success","data":{"types":[{"id":1,"name":"attempted murder","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"},{"id":2,"name":"gun shots","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"},{"id":3,"name":"murder","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"},{"id":4,"name":"intimidation","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"},{"id":5,"name":"physical harm","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"},{"id":6,"name":"ballot box snatching","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"},{"id":7,"name":"physical threat","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"},{"id":8,"name":"group clash","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"},{"id":9,"name":"sexual violence","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"},{"id":10,"name":"other","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"}]}}'
         headers:
           cache-control: 'no-cache, private'
           content-type: application/json
           x-ratelimit-limit: '60'
-          x-ratelimit-remaining: '50'
+          x-ratelimit-remaining: '59'
           access-control-allow-origin: '*'
         description: null
         custom: []
@@ -65,31 +65,31 @@ endpoints:
         name: limit
         description: 'an integer'
         required: false
-        example: excepturi
+        example: ad
         type: string
         custom: []
     cleanQueryParameters:
-      limit: excepturi
+      limit: ad
     bodyParameters:
       limit:
         name: limit
         description: ''
         required: false
-        example: 18
+        example: 11
         type: integer
         custom: []
     cleanBodyParameters:
-      limit: 18
+      limit: 11
     fileParameters: []
     responses:
       -
         status: 200
-        content: '{"status":"success","data":{"violence_reports":{"current_page":1,"data":[],"first_page_url":"http:\/\/localhost\/api\/violence-reports?page=1","from":null,"last_page":1,"last_page_url":"http:\/\/localhost\/api\/violence-reports?page=1","links":[{"url":null,"label":"&laquo; Previous","active":false},{"url":"http:\/\/localhost\/api\/violence-reports?page=1","label":"1","active":true},{"url":null,"label":"Next &raquo;","active":false}],"next_page_url":null,"path":"http:\/\/localhost\/api\/violence-reports","per_page":18,"prev_page_url":null,"to":null,"total":0}}}'
+        content: '{"status":"success","data":{"violence_reports":{"current_page":1,"data":[{"id":10,"ng_state_id":null,"ng_local_government_id":null,"ng_polling_unit_id":17232,"type_id":1,"title":null,"description":"Hello World! Setting up my twitter...","file":null,"ip_address":null,"user_agent":null,"longitude":null,"latitude":null,"created_at":"2023-02-09T13:32:54.000000Z","updated_at":"2023-02-09T13:32:54.000000Z","deleted_at":null,"polling_unit":{"id":17210,"data_id":17232,"name":"2\/3 AKPO STREET  I","registration_area_id":1000,"precise_location":null,"abbreviation":"001","units":"001","delimitation":"04\/18\/03\/001","remark":"EXISTING PU","ward_id":1000,"created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z","location":{"id":17210,"ng_polling_unit_id":17232,"latitude":"6.1293859","longitude":"6.7855757","viewport":"{\"northeast\":{\"lat\":6.130538379892722,\"lng\":6.787053629892722},\"southwest\":{\"lat\":6.127838720107278,\"lng\":6.784353970107278}}","formatted_address":"4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria","google_map_url":"https:\/\/maps.google.com?q=6.1293859,6.7855757","google_place_id":"ChIJ39rdyTuTQxARNjGs0TZIBkk","created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z"}}},{"id":9,"ng_state_id":null,"ng_local_government_id":null,"ng_polling_unit_id":17232,"type_id":1,"title":null,"description":"Lorem","file":null,"ip_address":null,"user_agent":null,"longitude":null,"latitude":null,"created_at":"2023-02-09T13:26:14.000000Z","updated_at":"2023-02-09T13:26:14.000000Z","deleted_at":null,"polling_unit":{"id":17210,"data_id":17232,"name":"2\/3 AKPO STREET  I","registration_area_id":1000,"precise_location":null,"abbreviation":"001","units":"001","delimitation":"04\/18\/03\/001","remark":"EXISTING PU","ward_id":1000,"created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z","location":{"id":17210,"ng_polling_unit_id":17232,"latitude":"6.1293859","longitude":"6.7855757","viewport":"{\"northeast\":{\"lat\":6.130538379892722,\"lng\":6.787053629892722},\"southwest\":{\"lat\":6.127838720107278,\"lng\":6.784353970107278}}","formatted_address":"4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria","google_map_url":"https:\/\/maps.google.com?q=6.1293859,6.7855757","google_place_id":"ChIJ39rdyTuTQxARNjGs0TZIBkk","created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z"}}},{"id":8,"ng_state_id":null,"ng_local_government_id":null,"ng_polling_unit_id":17232,"type_id":1,"title":null,"description":"Lorem","file":null,"ip_address":null,"user_agent":null,"longitude":null,"latitude":null,"created_at":"2023-02-09T13:25:19.000000Z","updated_at":"2023-02-09T13:25:19.000000Z","deleted_at":null,"polling_unit":{"id":17210,"data_id":17232,"name":"2\/3 AKPO STREET  I","registration_area_id":1000,"precise_location":null,"abbreviation":"001","units":"001","delimitation":"04\/18\/03\/001","remark":"EXISTING PU","ward_id":1000,"created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z","location":{"id":17210,"ng_polling_unit_id":17232,"latitude":"6.1293859","longitude":"6.7855757","viewport":"{\"northeast\":{\"lat\":6.130538379892722,\"lng\":6.787053629892722},\"southwest\":{\"lat\":6.127838720107278,\"lng\":6.784353970107278}}","formatted_address":"4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria","google_map_url":"https:\/\/maps.google.com?q=6.1293859,6.7855757","google_place_id":"ChIJ39rdyTuTQxARNjGs0TZIBkk","created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z"}}},{"id":7,"ng_state_id":null,"ng_local_government_id":null,"ng_polling_unit_id":17232,"type_id":1,"title":null,"description":"Lorem","file":null,"ip_address":null,"user_agent":null,"longitude":null,"latitude":null,"created_at":"2023-02-09T13:24:27.000000Z","updated_at":"2023-02-09T13:24:27.000000Z","deleted_at":null,"polling_unit":{"id":17210,"data_id":17232,"name":"2\/3 AKPO STREET  I","registration_area_id":1000,"precise_location":null,"abbreviation":"001","units":"001","delimitation":"04\/18\/03\/001","remark":"EXISTING PU","ward_id":1000,"created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z","location":{"id":17210,"ng_polling_unit_id":17232,"latitude":"6.1293859","longitude":"6.7855757","viewport":"{\"northeast\":{\"lat\":6.130538379892722,\"lng\":6.787053629892722},\"southwest\":{\"lat\":6.127838720107278,\"lng\":6.784353970107278}}","formatted_address":"4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria","google_map_url":"https:\/\/maps.google.com?q=6.1293859,6.7855757","google_place_id":"ChIJ39rdyTuTQxARNjGs0TZIBkk","created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z"}}},{"id":6,"ng_state_id":null,"ng_local_government_id":null,"ng_polling_unit_id":17232,"type_id":1,"title":null,"description":"Lorem","file":null,"ip_address":null,"user_agent":null,"longitude":null,"latitude":null,"created_at":"2023-02-09T13:23:03.000000Z","updated_at":"2023-02-09T13:23:03.000000Z","deleted_at":null,"polling_unit":{"id":17210,"data_id":17232,"name":"2\/3 AKPO STREET  I","registration_area_id":1000,"precise_location":null,"abbreviation":"001","units":"001","delimitation":"04\/18\/03\/001","remark":"EXISTING PU","ward_id":1000,"created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z","location":{"id":17210,"ng_polling_unit_id":17232,"latitude":"6.1293859","longitude":"6.7855757","viewport":"{\"northeast\":{\"lat\":6.130538379892722,\"lng\":6.787053629892722},\"southwest\":{\"lat\":6.127838720107278,\"lng\":6.784353970107278}}","formatted_address":"4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria","google_map_url":"https:\/\/maps.google.com?q=6.1293859,6.7855757","google_place_id":"ChIJ39rdyTuTQxARNjGs0TZIBkk","created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z"}}},{"id":5,"ng_state_id":null,"ng_local_government_id":null,"ng_polling_unit_id":17232,"type_id":1,"title":null,"description":"Lorem","file":null,"ip_address":null,"user_agent":null,"longitude":null,"latitude":null,"created_at":"2023-02-09T13:18:04.000000Z","updated_at":"2023-02-09T13:18:04.000000Z","deleted_at":null,"polling_unit":{"id":17210,"data_id":17232,"name":"2\/3 AKPO STREET  I","registration_area_id":1000,"precise_location":null,"abbreviation":"001","units":"001","delimitation":"04\/18\/03\/001","remark":"EXISTING PU","ward_id":1000,"created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z","location":{"id":17210,"ng_polling_unit_id":17232,"latitude":"6.1293859","longitude":"6.7855757","viewport":"{\"northeast\":{\"lat\":6.130538379892722,\"lng\":6.787053629892722},\"southwest\":{\"lat\":6.127838720107278,\"lng\":6.784353970107278}}","formatted_address":"4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria","google_map_url":"https:\/\/maps.google.com?q=6.1293859,6.7855757","google_place_id":"ChIJ39rdyTuTQxARNjGs0TZIBkk","created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z"}}},{"id":4,"ng_state_id":null,"ng_local_government_id":null,"ng_polling_unit_id":17232,"type_id":1,"title":null,"description":"Lorem","file":null,"ip_address":null,"user_agent":null,"longitude":null,"latitude":null,"created_at":"2023-02-09T13:12:01.000000Z","updated_at":"2023-02-09T13:12:01.000000Z","deleted_at":null,"polling_unit":{"id":17210,"data_id":17232,"name":"2\/3 AKPO STREET  I","registration_area_id":1000,"precise_location":null,"abbreviation":"001","units":"001","delimitation":"04\/18\/03\/001","remark":"EXISTING PU","ward_id":1000,"created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z","location":{"id":17210,"ng_polling_unit_id":17232,"latitude":"6.1293859","longitude":"6.7855757","viewport":"{\"northeast\":{\"lat\":6.130538379892722,\"lng\":6.787053629892722},\"southwest\":{\"lat\":6.127838720107278,\"lng\":6.784353970107278}}","formatted_address":"4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria","google_map_url":"https:\/\/maps.google.com?q=6.1293859,6.7855757","google_place_id":"ChIJ39rdyTuTQxARNjGs0TZIBkk","created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z"}}},{"id":3,"ng_state_id":null,"ng_local_government_id":null,"ng_polling_unit_id":17232,"type_id":1,"title":null,"description":"Lorem","file":null,"ip_address":null,"user_agent":null,"longitude":null,"latitude":null,"created_at":"2023-02-09T12:50:12.000000Z","updated_at":"2023-02-09T12:50:12.000000Z","deleted_at":null,"polling_unit":{"id":17210,"data_id":17232,"name":"2\/3 AKPO STREET  I","registration_area_id":1000,"precise_location":null,"abbreviation":"001","units":"001","delimitation":"04\/18\/03\/001","remark":"EXISTING PU","ward_id":1000,"created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z","location":{"id":17210,"ng_polling_unit_id":17232,"latitude":"6.1293859","longitude":"6.7855757","viewport":"{\"northeast\":{\"lat\":6.130538379892722,\"lng\":6.787053629892722},\"southwest\":{\"lat\":6.127838720107278,\"lng\":6.784353970107278}}","formatted_address":"4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria","google_map_url":"https:\/\/maps.google.com?q=6.1293859,6.7855757","google_place_id":"ChIJ39rdyTuTQxARNjGs0TZIBkk","created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z"}}},{"id":2,"ng_state_id":null,"ng_local_government_id":null,"ng_polling_unit_id":17232,"type_id":1,"title":null,"description":"Lorem","file":null,"ip_address":null,"user_agent":null,"longitude":null,"latitude":null,"created_at":"2023-02-09T12:49:43.000000Z","updated_at":"2023-02-09T12:49:43.000000Z","deleted_at":null,"polling_unit":{"id":17210,"data_id":17232,"name":"2\/3 AKPO STREET  I","registration_area_id":1000,"precise_location":null,"abbreviation":"001","units":"001","delimitation":"04\/18\/03\/001","remark":"EXISTING PU","ward_id":1000,"created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z","location":{"id":17210,"ng_polling_unit_id":17232,"latitude":"6.1293859","longitude":"6.7855757","viewport":"{\"northeast\":{\"lat\":6.130538379892722,\"lng\":6.787053629892722},\"southwest\":{\"lat\":6.127838720107278,\"lng\":6.784353970107278}}","formatted_address":"4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria","google_map_url":"https:\/\/maps.google.com?q=6.1293859,6.7855757","google_place_id":"ChIJ39rdyTuTQxARNjGs0TZIBkk","created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z"}}},{"id":1,"ng_state_id":null,"ng_local_government_id":null,"ng_polling_unit_id":17232,"type_id":1,"title":null,"description":"Lorem","file":null,"ip_address":null,"user_agent":null,"longitude":null,"latitude":null,"created_at":"2023-02-09T12:47:27.000000Z","updated_at":"2023-02-09T12:47:27.000000Z","deleted_at":null,"polling_unit":{"id":17210,"data_id":17232,"name":"2\/3 AKPO STREET  I","registration_area_id":1000,"precise_location":null,"abbreviation":"001","units":"001","delimitation":"04\/18\/03\/001","remark":"EXISTING PU","ward_id":1000,"created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z","location":{"id":17210,"ng_polling_unit_id":17232,"latitude":"6.1293859","longitude":"6.7855757","viewport":"{\"northeast\":{\"lat\":6.130538379892722,\"lng\":6.787053629892722},\"southwest\":{\"lat\":6.127838720107278,\"lng\":6.784353970107278}}","formatted_address":"4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria","google_map_url":"https:\/\/maps.google.com?q=6.1293859,6.7855757","google_place_id":"ChIJ39rdyTuTQxARNjGs0TZIBkk","created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z"}}}],"first_page_url":"http:\/\/localhost\/api\/violence-reports?page=1","from":1,"last_page":1,"last_page_url":"http:\/\/localhost\/api\/violence-reports?page=1","links":[{"url":null,"label":"&laquo; Previous","active":false},{"url":"http:\/\/localhost\/api\/violence-reports?page=1","label":"1","active":true},{"url":null,"label":"Next &raquo;","active":false}],"next_page_url":null,"path":"http:\/\/localhost\/api\/violence-reports","per_page":11,"prev_page_url":null,"to":10,"total":10}}}'
         headers:
           cache-control: 'no-cache, private'
           content-type: application/json
           x-ratelimit-limit: '60'
-          x-ratelimit-remaining: '43'
+          x-ratelimit-remaining: '52'
           access-control-allow-origin: '*'
         description: null
         custom: []
@@ -124,14 +124,14 @@ endpoints:
         name: ng_state_id
         description: '`ng_states.data_id`'
         required: false
-        example: 5
+        example: 20
         type: integer
         custom: []
       ng_local_government_id:
         name: ng_local_government_id
         description: '`ng_local_governments.data_id`'
         required: false
-        example: 20
+        example: 9
         type: integer
         custom: []
       ng_polling_unit_id:
@@ -145,21 +145,21 @@ endpoints:
         name: type_id
         description: ''
         required: true
-        example: 16
+        example: 9
         type: integer
         custom: []
       title:
         name: title
         description: ''
         required: false
-        example: corrupti
+        example: quam
         type: string
         custom: []
       description:
         name: description
         description: 'The `description` property is required if no file is attached'
         required: false
-        example: 'Omnis repellat hic necessitatibus dolorem iusto.'
+        example: 'Molestias cupiditate minima minus velit accusantium tempore doloribus.'
         type: string
         custom: []
       file:
@@ -169,16 +169,81 @@ endpoints:
         example: null
         type: file
         custom: []
+      longitude:
+        name: longitude
+        description: ''
+        required: false
+        example: 2677992.27132
+        type: number
+        custom: []
+      latitude:
+        name: latitude
+        description: ''
+        required: false
+        example: 2729467.8244216
+        type: number
+        custom: []
     cleanBodyParameters:
-      ng_state_id: 5
-      ng_local_government_id: 20
+      ng_state_id: 20
+      ng_local_government_id: 9
       ng_polling_unit_id: 6
-      type_id: 16
-      title: corrupti
-      description: 'Omnis repellat hic necessitatibus dolorem iusto.'
+      type_id: 9
+      title: quam
+      description: 'Molestias cupiditate minima minus velit accusantium tempore doloribus.'
+      longitude: 2677992.27132
+      latitude: 2729467.8244216
     fileParameters:
       file: null
     responses: []
+    responseFields: []
+    auth: []
+    controller: null
+    method: null
+    route: null
+    custom: []
+  -
+    httpMethods:
+      - GET
+    uri: 'api/violence-reports/{id}'
+    metadata:
+      groupName: 'Violence Reports'
+      groupDescription: ''
+      subgroup: ''
+      subgroupDescription: ''
+      title: 'Fetch a report By ID'
+      description: 'This endpoint returns a single report identified by `violence_reports.id`'
+      authenticated: false
+      custom: []
+    headers:
+      Content-Type: application/json
+      Accept: application/json
+    urlParameters:
+      id:
+        name: id
+        description: 'The ID of the violence report.'
+        required: true
+        example: 1
+        type: integer
+        custom: []
+    cleanUrlParameters:
+      id: 1
+    queryParameters: []
+    cleanQueryParameters: []
+    bodyParameters: []
+    cleanBodyParameters: []
+    fileParameters: []
+    responses:
+      -
+        status: 200
+        content: '{"status":"success","data":{"violence_report":{"id":1,"ng_state_id":null,"ng_local_government_id":null,"ng_polling_unit_id":17232,"type_id":1,"title":null,"description":"Lorem","file":null,"ip_address":null,"user_agent":null,"longitude":null,"latitude":null,"created_at":"2023-02-09T12:47:27.000000Z","updated_at":"2023-02-09T12:47:27.000000Z","deleted_at":null,"polling_unit":{"id":17210,"data_id":17232,"name":"2\/3 AKPO STREET  I","registration_area_id":1000,"precise_location":null,"abbreviation":"001","units":"001","delimitation":"04\/18\/03\/001","remark":"EXISTING PU","ward_id":1000,"created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z","location":{"id":17210,"ng_polling_unit_id":17232,"latitude":"6.1293859","longitude":"6.7855757","viewport":"{\"northeast\":{\"lat\":6.130538379892722,\"lng\":6.787053629892722},\"southwest\":{\"lat\":6.127838720107278,\"lng\":6.784353970107278}}","formatted_address":"4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria","google_map_url":"https:\/\/maps.google.com?q=6.1293859,6.7855757","google_place_id":"ChIJ39rdyTuTQxARNjGs0TZIBkk","created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z"}}}}}'
+        headers:
+          cache-control: 'no-cache, private'
+          content-type: application/json
+          x-ratelimit-limit: '60'
+          x-ratelimit-remaining: '51'
+          access-control-allow-origin: '*'
+        description: null
+        custom: []
     responseFields: []
     auth: []
     controller: null
