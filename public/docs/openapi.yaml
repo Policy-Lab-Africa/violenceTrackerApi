@@ -123,6 +123,12 @@ paths:
                           google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
                           created_at: '2023-02-09T06:57:41.000000Z'
                           updated_at: '2023-02-09T06:57:41.000000Z'
+                      type:
+                        id: 1
+                        name: 'attempted murder'
+                        note: null
+                        created_at: '2023-02-08T15:04:48.000000Z'
+                        updated_at: '2023-02-08T15:04:48.000000Z'
                 properties:
                   status:
                     type: string
@@ -250,6 +256,24 @@ paths:
                                   updated_at:
                                     type: string
                                     example: '2023-02-09T06:57:41.000000Z'
+                          type:
+                            type: object
+                            properties:
+                              id:
+                                type: integer
+                                example: 1
+                              name:
+                                type: string
+                                example: 'attempted murder'
+                              note:
+                                type: string
+                                example: null
+                              created_at:
+                                type: string
+                                example: '2023-02-08T15:04:48.000000Z'
+                              updated_at:
+                                type: string
+                                example: '2023-02-08T15:04:48.000000Z'
       tags:
         - 'Violence Reports'
       security: []
@@ -1071,7 +1095,7 @@ paths:
         in: path
         name: id
         description: 'The ID of the state.'
-        example: at
+        example: sed
         required: true
         schema:
           type: string
@@ -1088,7 +1112,7 @@ paths:
             value: ''
           present:
             summary: 'When the value is present'
-            value: quod
+            value: ullam
   '/api/states/{ngState}/lgas':
     get:
       summary: 'Fetch local government areas for a specified state'
@@ -1117,7 +1141,7 @@ paths:
               schema:
                 type: object
                 example:
-                  message: 'State (magni) not found'
+                  message: 'State (qui) not found'
                   exception: App\Exceptions\NgStateException
                   file: /Users/cornelius/Documents/Work/Dev/violenceTracker/app/Services/NgStateService.php
                   line: 50
@@ -1515,7 +1539,7 @@ paths:
                 properties:
                   message:
                     type: string
-                    example: 'State (magni) not found'
+                    example: 'State (qui) not found'
                   exception:
                     type: string
                     example: App\Exceptions\NgStateException
@@ -1953,7 +1977,7 @@ paths:
             value: ''
           present:
             summary: 'When the value is present'
-            value: magni
+            value: qui
   '/api/lgas/{ngLga}/wards':
     get:
       summary: 'Fetch wards for a specified local government area'
@@ -1982,7 +2006,7 @@ paths:
               schema:
                 type: object
                 example:
-                  message: 'Local government areas (sunt) not found'
+                  message: 'Local government areas (quaerat) not found'
                   exception: App\Exceptions\NgLocalGovernmentException
                   file: /Users/cornelius/Documents/Work/Dev/violenceTracker/app/Services/NgLocalGovernmentService.php
                   line: 23
@@ -2380,7 +2404,7 @@ paths:
                 properties:
                   message:
                     type: string
-                    example: 'Local government areas (sunt) not found'
+                    example: 'Local government areas (quaerat) not found'
                   exception:
                     type: string
                     example: App\Exceptions\NgLocalGovernmentException
@@ -2809,7 +2833,7 @@ paths:
         in: path
         name: ngLga
         description: ''
-        example: sunt
+        example: quaerat
         required: true
         schema:
           type: string
@@ -2826,7 +2850,7 @@ paths:
             value: ''
           present:
             summary: 'When the value is present'
-            value: provident
+            value: veniam
   '/api/wards/{ngWard}/polling-units':
     get:
       summary: 'Fetch polling units for a specified ward'
@@ -2855,7 +2879,7 @@ paths:
               schema:
                 type: object
                 example:
-                  message: 'Ward (placeat) not found'
+                  message: 'Ward (cum) not found'
                   exception: App\Exceptions\NgWardException
                   file: /Users/cornelius/Documents/Work/Dev/violenceTracker/app/Services/NgWardService.php
                   line: 23
@@ -3253,7 +3277,7 @@ paths:
                 properties:
                   message:
                     type: string
-                    example: 'Ward (placeat) not found'
+                    example: 'Ward (cum) not found'
                   exception:
                     type: string
                     example: App\Exceptions\NgWardException
@@ -3682,7 +3706,7 @@ paths:
         in: path
         name: ngWard
         description: ''
-        example: placeat
+        example: cum
         required: true
         schema:
           type: string
@@ -3699,7 +3723,7 @@ paths:
             value: ''
           present:
             summary: 'When the value is present'
-            value: facere
+            value: nulla
   /api/filter:
     get:
       summary: '[DRAFT] Return a specified Nigerian state'
@@ -4759,6 +4783,273 @@ paths:
       tags:
         - 'Violence Reports'
       security: []
+  /api/violence-reports/data:
+    get:
+      summary: 'Fetch Report Data'
+      operationId: fetchReportData
+      description: 'It returns data for a specified location. Your search term will be searched against the name fied of the following objects `ng_states`, `ng_local_governments`, `ng_wards`, `ng_polling_units`. Data will be returned if `violence_reports` are found for a location that matches your search term'
+      parameters:
+        -
+          in: header
+          name: Content-Type
+          description: ''
+          example: application/json
+          schema:
+            type: string
+        -
+          in: header
+          name: Accept
+          description: ''
+          example: application/json
+          schema:
+            type: string
+      responses:
+        200:
+          description: ''
+          content:
+            application/json:
+              schema:
+                type: object
+                example:
+                  status: success
+                  data:
+                    state_results:
+                      -
+                        meta_data:
+                          violence_reports:
+                            count: 0
+                          local_governments:
+                            count: 0
+                          types:
+                            types: []
+                            count: 0
+                    local_government_results:
+                      -
+                        meta_data:
+                          violence_reports:
+                            count: 0
+                          local_governments:
+                            count: 0
+                          types:
+                            types: []
+                            count: 0
+                    ward_results:
+                      -
+                        meta_data:
+                          violence_reports:
+                            count: 0
+                          local_governments:
+                            count: 0
+                          types:
+                            types: []
+                            count: 0
+                    polling_unit_results:
+                      -
+                        meta_data:
+                          violence_reports:
+                            count: 0
+                          polling_units:
+                            count: 0
+                          local_governments:
+                            count: 0
+                          types:
+                            types: []
+                            count: 0
+                properties:
+                  status:
+                    type: string
+                    example: success
+                  data:
+                    type: object
+                    properties:
+                      state_results:
+                        type: array
+                        example:
+                          -
+                            meta_data:
+                              violence_reports:
+                                count: 0
+                              local_governments:
+                                count: 0
+                              types:
+                                types: []
+                                count: 0
+                        items:
+                          type: object
+                          properties:
+                            meta_data:
+                              type: object
+                              properties:
+                                violence_reports:
+                                  type: object
+                                  properties:
+                                    count:
+                                      type: integer
+                                      example: 0
+                                local_governments:
+                                  type: object
+                                  properties:
+                                    count:
+                                      type: integer
+                                      example: 0
+                                types:
+                                  type: object
+                                  properties:
+                                    types:
+                                      type: array
+                                      example: []
+                                    count:
+                                      type: integer
+                                      example: 0
+                      local_government_results:
+                        type: array
+                        example:
+                          -
+                            meta_data:
+                              violence_reports:
+                                count: 0
+                              local_governments:
+                                count: 0
+                              types:
+                                types: []
+                                count: 0
+                        items:
+                          type: object
+                          properties:
+                            meta_data:
+                              type: object
+                              properties:
+                                violence_reports:
+                                  type: object
+                                  properties:
+                                    count:
+                                      type: integer
+                                      example: 0
+                                local_governments:
+                                  type: object
+                                  properties:
+                                    count:
+                                      type: integer
+                                      example: 0
+                                types:
+                                  type: object
+                                  properties:
+                                    types:
+                                      type: array
+                                      example: []
+                                    count:
+                                      type: integer
+                                      example: 0
+                      ward_results:
+                        type: array
+                        example:
+                          -
+                            meta_data:
+                              violence_reports:
+                                count: 0
+                              local_governments:
+                                count: 0
+                              types:
+                                types: []
+                                count: 0
+                        items:
+                          type: object
+                          properties:
+                            meta_data:
+                              type: object
+                              properties:
+                                violence_reports:
+                                  type: object
+                                  properties:
+                                    count:
+                                      type: integer
+                                      example: 0
+                                local_governments:
+                                  type: object
+                                  properties:
+                                    count:
+                                      type: integer
+                                      example: 0
+                                types:
+                                  type: object
+                                  properties:
+                                    types:
+                                      type: array
+                                      example: []
+                                    count:
+                                      type: integer
+                                      example: 0
+                      polling_unit_results:
+                        type: array
+                        example:
+                          -
+                            meta_data:
+                              violence_reports:
+                                count: 0
+                              polling_units:
+                                count: 0
+                              local_governments:
+                                count: 0
+                              types:
+                                types: []
+                                count: 0
+                        items:
+                          type: object
+                          properties:
+                            meta_data:
+                              type: object
+                              properties:
+                                violence_reports:
+                                  type: object
+                                  properties:
+                                    count:
+                                      type: integer
+                                      example: 0
+                                polling_units:
+                                  type: object
+                                  properties:
+                                    count:
+                                      type: integer
+                                      example: 0
+                                local_governments:
+                                  type: object
+                                  properties:
+                                    count:
+                                      type: integer
+                                      example: 0
+                                types:
+                                  type: object
+                                  properties:
+                                    types:
+                                      type: array
+                                      example: []
+                                    count:
+                                      type: integer
+                                      example: 0
+      tags:
+        - 'Violence Reports'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                q:
+                  type: string
+                  description: ''
+                  example: facere
+                start:
+                  type: string
+                  description: 'Must be a valid date in the format <code>Y-m-d</code>.'
+                  example: '2023-02-11'
+                end:
+                  type: string
+                  description: 'Must be a valid date in the format <code>Y-m-d</code>.'
+                  example: '2023-02-11'
+              required:
+                - q
+      security: []
   /api/violence-reports:
     get:
       summary: 'Get violence reports'
@@ -4769,12 +5060,12 @@ paths:
           in: query
           name: limit
           description: 'an integer'
-          example: ad
+          example: doloremque
           required: false
           schema:
             type: string
             description: 'an integer'
-            example: ad
+            example: doloremque
         -
           in: header
           name: Content-Type
@@ -4803,409 +5094,55 @@ paths:
                       current_page: 1
                       data:
                         -
-                          id: 10
+                          id: 22
                           ng_state_id: null
                           ng_local_government_id: null
-                          ng_polling_unit_id: 17232
-                          type_id: 1
+                          ng_polling_unit_id: 45800
+                          type_id: 9
                           title: null
-                          description: 'Hello World! Setting up my twitter...'
+                          description: 'Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem? Fuga tempora ipsam modi, quia vel quaerat temporibus exercitationem atque quidem, aperiam incidunt.'
                           file: null
-                          ip_address: null
-                          user_agent: null
+                          ip_address: 127.0.0.1
+                          user_agent: PostmanRuntime/7.30.1
                           longitude: null
                           latitude: null
-                          created_at: '2023-02-09T13:32:54.000000Z'
-                          updated_at: '2023-02-09T13:32:54.000000Z'
+                          created_at: '2023-02-11T19:36:46.000000Z'
+                          updated_at: '2023-02-11T19:36:46.000000Z'
                           deleted_at: null
                           polling_unit:
-                            id: 17210
-                            data_id: 17232
-                            name: '2/3 AKPO STREET  I'
-                            registration_area_id: 1000
+                            id: 45800
+                            data_id: 45800
+                            name: 'OBEAGU ABOFIA HALL'
+                            registration_area_id: 2473
                             precise_location: null
                             abbreviation: '001'
                             units: '001'
-                            delimitation: 04/18/03/001
+                            delimitation: 11/04/02/001
                             remark: 'EXISTING PU'
-                            ward_id: 1000
-                            created_at: '2023-02-09T06:57:41.000000Z'
-                            updated_at: '2023-02-09T06:57:41.000000Z'
+                            ward_id: 2473
+                            created_at: '2023-02-09T07:08:08.000000Z'
+                            updated_at: '2023-02-09T07:08:08.000000Z'
                             location:
-                              id: 17210
-                              ng_polling_unit_id: 17232
-                              latitude: '6.1293859'
-                              longitude: '6.7855757'
-                              viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                              formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                              google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                              google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                              created_at: '2023-02-09T06:57:41.000000Z'
-                              updated_at: '2023-02-09T06:57:41.000000Z'
-                        -
-                          id: 9
-                          ng_state_id: null
-                          ng_local_government_id: null
-                          ng_polling_unit_id: 17232
-                          type_id: 1
-                          title: null
-                          description: Lorem
-                          file: null
-                          ip_address: null
-                          user_agent: null
-                          longitude: null
-                          latitude: null
-                          created_at: '2023-02-09T13:26:14.000000Z'
-                          updated_at: '2023-02-09T13:26:14.000000Z'
-                          deleted_at: null
-                          polling_unit:
-                            id: 17210
-                            data_id: 17232
-                            name: '2/3 AKPO STREET  I'
-                            registration_area_id: 1000
-                            precise_location: null
-                            abbreviation: '001'
-                            units: '001'
-                            delimitation: 04/18/03/001
-                            remark: 'EXISTING PU'
-                            ward_id: 1000
-                            created_at: '2023-02-09T06:57:41.000000Z'
-                            updated_at: '2023-02-09T06:57:41.000000Z'
-                            location:
-                              id: 17210
-                              ng_polling_unit_id: 17232
-                              latitude: '6.1293859'
-                              longitude: '6.7855757'
-                              viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                              formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                              google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                              google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                              created_at: '2023-02-09T06:57:41.000000Z'
-                              updated_at: '2023-02-09T06:57:41.000000Z'
-                        -
-                          id: 8
-                          ng_state_id: null
-                          ng_local_government_id: null
-                          ng_polling_unit_id: 17232
-                          type_id: 1
-                          title: null
-                          description: Lorem
-                          file: null
-                          ip_address: null
-                          user_agent: null
-                          longitude: null
-                          latitude: null
-                          created_at: '2023-02-09T13:25:19.000000Z'
-                          updated_at: '2023-02-09T13:25:19.000000Z'
-                          deleted_at: null
-                          polling_unit:
-                            id: 17210
-                            data_id: 17232
-                            name: '2/3 AKPO STREET  I'
-                            registration_area_id: 1000
-                            precise_location: null
-                            abbreviation: '001'
-                            units: '001'
-                            delimitation: 04/18/03/001
-                            remark: 'EXISTING PU'
-                            ward_id: 1000
-                            created_at: '2023-02-09T06:57:41.000000Z'
-                            updated_at: '2023-02-09T06:57:41.000000Z'
-                            location:
-                              id: 17210
-                              ng_polling_unit_id: 17232
-                              latitude: '6.1293859'
-                              longitude: '6.7855757'
-                              viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                              formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                              google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                              google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                              created_at: '2023-02-09T06:57:41.000000Z'
-                              updated_at: '2023-02-09T06:57:41.000000Z'
-                        -
-                          id: 7
-                          ng_state_id: null
-                          ng_local_government_id: null
-                          ng_polling_unit_id: 17232
-                          type_id: 1
-                          title: null
-                          description: Lorem
-                          file: null
-                          ip_address: null
-                          user_agent: null
-                          longitude: null
-                          latitude: null
-                          created_at: '2023-02-09T13:24:27.000000Z'
-                          updated_at: '2023-02-09T13:24:27.000000Z'
-                          deleted_at: null
-                          polling_unit:
-                            id: 17210
-                            data_id: 17232
-                            name: '2/3 AKPO STREET  I'
-                            registration_area_id: 1000
-                            precise_location: null
-                            abbreviation: '001'
-                            units: '001'
-                            delimitation: 04/18/03/001
-                            remark: 'EXISTING PU'
-                            ward_id: 1000
-                            created_at: '2023-02-09T06:57:41.000000Z'
-                            updated_at: '2023-02-09T06:57:41.000000Z'
-                            location:
-                              id: 17210
-                              ng_polling_unit_id: 17232
-                              latitude: '6.1293859'
-                              longitude: '6.7855757'
-                              viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                              formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                              google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                              google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                              created_at: '2023-02-09T06:57:41.000000Z'
-                              updated_at: '2023-02-09T06:57:41.000000Z'
-                        -
-                          id: 6
-                          ng_state_id: null
-                          ng_local_government_id: null
-                          ng_polling_unit_id: 17232
-                          type_id: 1
-                          title: null
-                          description: Lorem
-                          file: null
-                          ip_address: null
-                          user_agent: null
-                          longitude: null
-                          latitude: null
-                          created_at: '2023-02-09T13:23:03.000000Z'
-                          updated_at: '2023-02-09T13:23:03.000000Z'
-                          deleted_at: null
-                          polling_unit:
-                            id: 17210
-                            data_id: 17232
-                            name: '2/3 AKPO STREET  I'
-                            registration_area_id: 1000
-                            precise_location: null
-                            abbreviation: '001'
-                            units: '001'
-                            delimitation: 04/18/03/001
-                            remark: 'EXISTING PU'
-                            ward_id: 1000
-                            created_at: '2023-02-09T06:57:41.000000Z'
-                            updated_at: '2023-02-09T06:57:41.000000Z'
-                            location:
-                              id: 17210
-                              ng_polling_unit_id: 17232
-                              latitude: '6.1293859'
-                              longitude: '6.7855757'
-                              viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                              formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                              google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                              google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                              created_at: '2023-02-09T06:57:41.000000Z'
-                              updated_at: '2023-02-09T06:57:41.000000Z'
-                        -
-                          id: 5
-                          ng_state_id: null
-                          ng_local_government_id: null
-                          ng_polling_unit_id: 17232
-                          type_id: 1
-                          title: null
-                          description: Lorem
-                          file: null
-                          ip_address: null
-                          user_agent: null
-                          longitude: null
-                          latitude: null
-                          created_at: '2023-02-09T13:18:04.000000Z'
-                          updated_at: '2023-02-09T13:18:04.000000Z'
-                          deleted_at: null
-                          polling_unit:
-                            id: 17210
-                            data_id: 17232
-                            name: '2/3 AKPO STREET  I'
-                            registration_area_id: 1000
-                            precise_location: null
-                            abbreviation: '001'
-                            units: '001'
-                            delimitation: 04/18/03/001
-                            remark: 'EXISTING PU'
-                            ward_id: 1000
-                            created_at: '2023-02-09T06:57:41.000000Z'
-                            updated_at: '2023-02-09T06:57:41.000000Z'
-                            location:
-                              id: 17210
-                              ng_polling_unit_id: 17232
-                              latitude: '6.1293859'
-                              longitude: '6.7855757'
-                              viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                              formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                              google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                              google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                              created_at: '2023-02-09T06:57:41.000000Z'
-                              updated_at: '2023-02-09T06:57:41.000000Z'
-                        -
-                          id: 4
-                          ng_state_id: null
-                          ng_local_government_id: null
-                          ng_polling_unit_id: 17232
-                          type_id: 1
-                          title: null
-                          description: Lorem
-                          file: null
-                          ip_address: null
-                          user_agent: null
-                          longitude: null
-                          latitude: null
-                          created_at: '2023-02-09T13:12:01.000000Z'
-                          updated_at: '2023-02-09T13:12:01.000000Z'
-                          deleted_at: null
-                          polling_unit:
-                            id: 17210
-                            data_id: 17232
-                            name: '2/3 AKPO STREET  I'
-                            registration_area_id: 1000
-                            precise_location: null
-                            abbreviation: '001'
-                            units: '001'
-                            delimitation: 04/18/03/001
-                            remark: 'EXISTING PU'
-                            ward_id: 1000
-                            created_at: '2023-02-09T06:57:41.000000Z'
-                            updated_at: '2023-02-09T06:57:41.000000Z'
-                            location:
-                              id: 17210
-                              ng_polling_unit_id: 17232
-                              latitude: '6.1293859'
-                              longitude: '6.7855757'
-                              viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                              formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                              google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                              google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                              created_at: '2023-02-09T06:57:41.000000Z'
-                              updated_at: '2023-02-09T06:57:41.000000Z'
-                        -
-                          id: 3
-                          ng_state_id: null
-                          ng_local_government_id: null
-                          ng_polling_unit_id: 17232
-                          type_id: 1
-                          title: null
-                          description: Lorem
-                          file: null
-                          ip_address: null
-                          user_agent: null
-                          longitude: null
-                          latitude: null
-                          created_at: '2023-02-09T12:50:12.000000Z'
-                          updated_at: '2023-02-09T12:50:12.000000Z'
-                          deleted_at: null
-                          polling_unit:
-                            id: 17210
-                            data_id: 17232
-                            name: '2/3 AKPO STREET  I'
-                            registration_area_id: 1000
-                            precise_location: null
-                            abbreviation: '001'
-                            units: '001'
-                            delimitation: 04/18/03/001
-                            remark: 'EXISTING PU'
-                            ward_id: 1000
-                            created_at: '2023-02-09T06:57:41.000000Z'
-                            updated_at: '2023-02-09T06:57:41.000000Z'
-                            location:
-                              id: 17210
-                              ng_polling_unit_id: 17232
-                              latitude: '6.1293859'
-                              longitude: '6.7855757'
-                              viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                              formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                              google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                              google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                              created_at: '2023-02-09T06:57:41.000000Z'
-                              updated_at: '2023-02-09T06:57:41.000000Z'
-                        -
-                          id: 2
-                          ng_state_id: null
-                          ng_local_government_id: null
-                          ng_polling_unit_id: 17232
-                          type_id: 1
-                          title: null
-                          description: Lorem
-                          file: null
-                          ip_address: null
-                          user_agent: null
-                          longitude: null
-                          latitude: null
-                          created_at: '2023-02-09T12:49:43.000000Z'
-                          updated_at: '2023-02-09T12:49:43.000000Z'
-                          deleted_at: null
-                          polling_unit:
-                            id: 17210
-                            data_id: 17232
-                            name: '2/3 AKPO STREET  I'
-                            registration_area_id: 1000
-                            precise_location: null
-                            abbreviation: '001'
-                            units: '001'
-                            delimitation: 04/18/03/001
-                            remark: 'EXISTING PU'
-                            ward_id: 1000
-                            created_at: '2023-02-09T06:57:41.000000Z'
-                            updated_at: '2023-02-09T06:57:41.000000Z'
-                            location:
-                              id: 17210
-                              ng_polling_unit_id: 17232
-                              latitude: '6.1293859'
-                              longitude: '6.7855757'
-                              viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                              formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                              google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                              google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                              created_at: '2023-02-09T06:57:41.000000Z'
-                              updated_at: '2023-02-09T06:57:41.000000Z'
-                        -
-                          id: 1
-                          ng_state_id: null
-                          ng_local_government_id: null
-                          ng_polling_unit_id: 17232
-                          type_id: 1
-                          title: null
-                          description: Lorem
-                          file: null
-                          ip_address: null
-                          user_agent: null
-                          longitude: null
-                          latitude: null
-                          created_at: '2023-02-09T12:47:27.000000Z'
-                          updated_at: '2023-02-09T12:47:27.000000Z'
-                          deleted_at: null
-                          polling_unit:
-                            id: 17210
-                            data_id: 17232
-                            name: '2/3 AKPO STREET  I'
-                            registration_area_id: 1000
-                            precise_location: null
-                            abbreviation: '001'
-                            units: '001'
-                            delimitation: 04/18/03/001
-                            remark: 'EXISTING PU'
-                            ward_id: 1000
-                            created_at: '2023-02-09T06:57:41.000000Z'
-                            updated_at: '2023-02-09T06:57:41.000000Z'
-                            location:
-                              id: 17210
-                              ng_polling_unit_id: 17232
-                              latitude: '6.1293859'
-                              longitude: '6.7855757'
-                              viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                              formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                              google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                              google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                              created_at: '2023-02-09T06:57:41.000000Z'
-                              updated_at: '2023-02-09T06:57:41.000000Z'
+                              id: 45800
+                              ng_polling_unit_id: 45800
+                              latitude: '6.3281443'
+                              longitude: '8.1041807'
+                              viewport: '{"northeast":{"lat":6.329588579892722,"lng":8.105531079892723},"southwest":{"lat":6.326888920107278,"lng":8.102831420107279}}'
+                              formatted_address: '1 Onwe Rd, Ntezi Abba 480108, Abakaliki, Nigeria'
+                              google_map_url: 'https://maps.google.com?q=6.3281443,8.104180699999999'
+                              google_place_id: ChIJUf_5LWmgXBARKBfJ1BxFVp8
+                              created_at: '2023-02-09T07:08:08.000000Z'
+                              updated_at: '2023-02-09T07:08:08.000000Z'
+                          type:
+                            id: 9
+                            name: 'sexual violence'
+                            note: null
+                            created_at: '2023-02-08T15:04:48.000000Z'
+                            updated_at: '2023-02-08T15:04:48.000000Z'
                       first_page_url: 'http://localhost/api/violence-reports?page=1'
                       from: 1
-                      last_page: 1
-                      last_page_url: 'http://localhost/api/violence-reports?page=1'
+                      last_page: 22
+                      last_page_url: 'http://localhost/api/violence-reports?page=22'
                       links:
                         -
                           url: null
@@ -5216,15 +5153,63 @@ paths:
                           label: '1'
                           active: true
                         -
+                          url: 'http://localhost/api/violence-reports?page=2'
+                          label: '2'
+                          active: false
+                        -
+                          url: 'http://localhost/api/violence-reports?page=3'
+                          label: '3'
+                          active: false
+                        -
+                          url: 'http://localhost/api/violence-reports?page=4'
+                          label: '4'
+                          active: false
+                        -
+                          url: 'http://localhost/api/violence-reports?page=5'
+                          label: '5'
+                          active: false
+                        -
+                          url: 'http://localhost/api/violence-reports?page=6'
+                          label: '6'
+                          active: false
+                        -
+                          url: 'http://localhost/api/violence-reports?page=7'
+                          label: '7'
+                          active: false
+                        -
+                          url: 'http://localhost/api/violence-reports?page=8'
+                          label: '8'
+                          active: false
+                        -
+                          url: 'http://localhost/api/violence-reports?page=9'
+                          label: '9'
+                          active: false
+                        -
+                          url: 'http://localhost/api/violence-reports?page=10'
+                          label: '10'
+                          active: false
+                        -
                           url: null
+                          label: ...
+                          active: false
+                        -
+                          url: 'http://localhost/api/violence-reports?page=21'
+                          label: '21'
+                          active: false
+                        -
+                          url: 'http://localhost/api/violence-reports?page=22'
+                          label: '22'
+                          active: false
+                        -
+                          url: 'http://localhost/api/violence-reports?page=2'
                           label: 'Next &raquo;'
                           active: false
-                      next_page_url: null
+                      next_page_url: 'http://localhost/api/violence-reports?page=2'
                       path: 'http://localhost/api/violence-reports'
-                      per_page: 11
+                      per_page: 1
                       prev_page_url: null
-                      to: 10
-                      total: 10
+                      to: 1
+                      total: 22
                 properties:
                   status:
                     type: string
@@ -5242,411 +5227,57 @@ paths:
                             type: array
                             example:
                               -
-                                id: 10
+                                id: 22
                                 ng_state_id: null
                                 ng_local_government_id: null
-                                ng_polling_unit_id: 17232
-                                type_id: 1
+                                ng_polling_unit_id: 45800
+                                type_id: 9
                                 title: null
-                                description: 'Hello World! Setting up my twitter...'
+                                description: 'Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem? Fuga tempora ipsam modi, quia vel quaerat temporibus exercitationem atque quidem, aperiam incidunt.'
                                 file: null
-                                ip_address: null
-                                user_agent: null
+                                ip_address: 127.0.0.1
+                                user_agent: PostmanRuntime/7.30.1
                                 longitude: null
                                 latitude: null
-                                created_at: '2023-02-09T13:32:54.000000Z'
-                                updated_at: '2023-02-09T13:32:54.000000Z'
+                                created_at: '2023-02-11T19:36:46.000000Z'
+                                updated_at: '2023-02-11T19:36:46.000000Z'
                                 deleted_at: null
                                 polling_unit:
-                                  id: 17210
-                                  data_id: 17232
-                                  name: '2/3 AKPO STREET  I'
-                                  registration_area_id: 1000
+                                  id: 45800
+                                  data_id: 45800
+                                  name: 'OBEAGU ABOFIA HALL'
+                                  registration_area_id: 2473
                                   precise_location: null
                                   abbreviation: '001'
                                   units: '001'
-                                  delimitation: 04/18/03/001
+                                  delimitation: 11/04/02/001
                                   remark: 'EXISTING PU'
-                                  ward_id: 1000
-                                  created_at: '2023-02-09T06:57:41.000000Z'
-                                  updated_at: '2023-02-09T06:57:41.000000Z'
+                                  ward_id: 2473
+                                  created_at: '2023-02-09T07:08:08.000000Z'
+                                  updated_at: '2023-02-09T07:08:08.000000Z'
                                   location:
-                                    id: 17210
-                                    ng_polling_unit_id: 17232
-                                    latitude: '6.1293859'
-                                    longitude: '6.7855757'
-                                    viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                                    formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                                    google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                                    google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                                    created_at: '2023-02-09T06:57:41.000000Z'
-                                    updated_at: '2023-02-09T06:57:41.000000Z'
-                              -
-                                id: 9
-                                ng_state_id: null
-                                ng_local_government_id: null
-                                ng_polling_unit_id: 17232
-                                type_id: 1
-                                title: null
-                                description: Lorem
-                                file: null
-                                ip_address: null
-                                user_agent: null
-                                longitude: null
-                                latitude: null
-                                created_at: '2023-02-09T13:26:14.000000Z'
-                                updated_at: '2023-02-09T13:26:14.000000Z'
-                                deleted_at: null
-                                polling_unit:
-                                  id: 17210
-                                  data_id: 17232
-                                  name: '2/3 AKPO STREET  I'
-                                  registration_area_id: 1000
-                                  precise_location: null
-                                  abbreviation: '001'
-                                  units: '001'
-                                  delimitation: 04/18/03/001
-                                  remark: 'EXISTING PU'
-                                  ward_id: 1000
-                                  created_at: '2023-02-09T06:57:41.000000Z'
-                                  updated_at: '2023-02-09T06:57:41.000000Z'
-                                  location:
-                                    id: 17210
-                                    ng_polling_unit_id: 17232
-                                    latitude: '6.1293859'
-                                    longitude: '6.7855757'
-                                    viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                                    formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                                    google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                                    google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                                    created_at: '2023-02-09T06:57:41.000000Z'
-                                    updated_at: '2023-02-09T06:57:41.000000Z'
-                              -
-                                id: 8
-                                ng_state_id: null
-                                ng_local_government_id: null
-                                ng_polling_unit_id: 17232
-                                type_id: 1
-                                title: null
-                                description: Lorem
-                                file: null
-                                ip_address: null
-                                user_agent: null
-                                longitude: null
-                                latitude: null
-                                created_at: '2023-02-09T13:25:19.000000Z'
-                                updated_at: '2023-02-09T13:25:19.000000Z'
-                                deleted_at: null
-                                polling_unit:
-                                  id: 17210
-                                  data_id: 17232
-                                  name: '2/3 AKPO STREET  I'
-                                  registration_area_id: 1000
-                                  precise_location: null
-                                  abbreviation: '001'
-                                  units: '001'
-                                  delimitation: 04/18/03/001
-                                  remark: 'EXISTING PU'
-                                  ward_id: 1000
-                                  created_at: '2023-02-09T06:57:41.000000Z'
-                                  updated_at: '2023-02-09T06:57:41.000000Z'
-                                  location:
-                                    id: 17210
-                                    ng_polling_unit_id: 17232
-                                    latitude: '6.1293859'
-                                    longitude: '6.7855757'
-                                    viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                                    formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                                    google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                                    google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                                    created_at: '2023-02-09T06:57:41.000000Z'
-                                    updated_at: '2023-02-09T06:57:41.000000Z'
-                              -
-                                id: 7
-                                ng_state_id: null
-                                ng_local_government_id: null
-                                ng_polling_unit_id: 17232
-                                type_id: 1
-                                title: null
-                                description: Lorem
-                                file: null
-                                ip_address: null
-                                user_agent: null
-                                longitude: null
-                                latitude: null
-                                created_at: '2023-02-09T13:24:27.000000Z'
-                                updated_at: '2023-02-09T13:24:27.000000Z'
-                                deleted_at: null
-                                polling_unit:
-                                  id: 17210
-                                  data_id: 17232
-                                  name: '2/3 AKPO STREET  I'
-                                  registration_area_id: 1000
-                                  precise_location: null
-                                  abbreviation: '001'
-                                  units: '001'
-                                  delimitation: 04/18/03/001
-                                  remark: 'EXISTING PU'
-                                  ward_id: 1000
-                                  created_at: '2023-02-09T06:57:41.000000Z'
-                                  updated_at: '2023-02-09T06:57:41.000000Z'
-                                  location:
-                                    id: 17210
-                                    ng_polling_unit_id: 17232
-                                    latitude: '6.1293859'
-                                    longitude: '6.7855757'
-                                    viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                                    formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                                    google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                                    google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                                    created_at: '2023-02-09T06:57:41.000000Z'
-                                    updated_at: '2023-02-09T06:57:41.000000Z'
-                              -
-                                id: 6
-                                ng_state_id: null
-                                ng_local_government_id: null
-                                ng_polling_unit_id: 17232
-                                type_id: 1
-                                title: null
-                                description: Lorem
-                                file: null
-                                ip_address: null
-                                user_agent: null
-                                longitude: null
-                                latitude: null
-                                created_at: '2023-02-09T13:23:03.000000Z'
-                                updated_at: '2023-02-09T13:23:03.000000Z'
-                                deleted_at: null
-                                polling_unit:
-                                  id: 17210
-                                  data_id: 17232
-                                  name: '2/3 AKPO STREET  I'
-                                  registration_area_id: 1000
-                                  precise_location: null
-                                  abbreviation: '001'
-                                  units: '001'
-                                  delimitation: 04/18/03/001
-                                  remark: 'EXISTING PU'
-                                  ward_id: 1000
-                                  created_at: '2023-02-09T06:57:41.000000Z'
-                                  updated_at: '2023-02-09T06:57:41.000000Z'
-                                  location:
-                                    id: 17210
-                                    ng_polling_unit_id: 17232
-                                    latitude: '6.1293859'
-                                    longitude: '6.7855757'
-                                    viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                                    formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                                    google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                                    google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                                    created_at: '2023-02-09T06:57:41.000000Z'
-                                    updated_at: '2023-02-09T06:57:41.000000Z'
-                              -
-                                id: 5
-                                ng_state_id: null
-                                ng_local_government_id: null
-                                ng_polling_unit_id: 17232
-                                type_id: 1
-                                title: null
-                                description: Lorem
-                                file: null
-                                ip_address: null
-                                user_agent: null
-                                longitude: null
-                                latitude: null
-                                created_at: '2023-02-09T13:18:04.000000Z'
-                                updated_at: '2023-02-09T13:18:04.000000Z'
-                                deleted_at: null
-                                polling_unit:
-                                  id: 17210
-                                  data_id: 17232
-                                  name: '2/3 AKPO STREET  I'
-                                  registration_area_id: 1000
-                                  precise_location: null
-                                  abbreviation: '001'
-                                  units: '001'
-                                  delimitation: 04/18/03/001
-                                  remark: 'EXISTING PU'
-                                  ward_id: 1000
-                                  created_at: '2023-02-09T06:57:41.000000Z'
-                                  updated_at: '2023-02-09T06:57:41.000000Z'
-                                  location:
-                                    id: 17210
-                                    ng_polling_unit_id: 17232
-                                    latitude: '6.1293859'
-                                    longitude: '6.7855757'
-                                    viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                                    formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                                    google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                                    google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                                    created_at: '2023-02-09T06:57:41.000000Z'
-                                    updated_at: '2023-02-09T06:57:41.000000Z'
-                              -
-                                id: 4
-                                ng_state_id: null
-                                ng_local_government_id: null
-                                ng_polling_unit_id: 17232
-                                type_id: 1
-                                title: null
-                                description: Lorem
-                                file: null
-                                ip_address: null
-                                user_agent: null
-                                longitude: null
-                                latitude: null
-                                created_at: '2023-02-09T13:12:01.000000Z'
-                                updated_at: '2023-02-09T13:12:01.000000Z'
-                                deleted_at: null
-                                polling_unit:
-                                  id: 17210
-                                  data_id: 17232
-                                  name: '2/3 AKPO STREET  I'
-                                  registration_area_id: 1000
-                                  precise_location: null
-                                  abbreviation: '001'
-                                  units: '001'
-                                  delimitation: 04/18/03/001
-                                  remark: 'EXISTING PU'
-                                  ward_id: 1000
-                                  created_at: '2023-02-09T06:57:41.000000Z'
-                                  updated_at: '2023-02-09T06:57:41.000000Z'
-                                  location:
-                                    id: 17210
-                                    ng_polling_unit_id: 17232
-                                    latitude: '6.1293859'
-                                    longitude: '6.7855757'
-                                    viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                                    formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                                    google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                                    google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                                    created_at: '2023-02-09T06:57:41.000000Z'
-                                    updated_at: '2023-02-09T06:57:41.000000Z'
-                              -
-                                id: 3
-                                ng_state_id: null
-                                ng_local_government_id: null
-                                ng_polling_unit_id: 17232
-                                type_id: 1
-                                title: null
-                                description: Lorem
-                                file: null
-                                ip_address: null
-                                user_agent: null
-                                longitude: null
-                                latitude: null
-                                created_at: '2023-02-09T12:50:12.000000Z'
-                                updated_at: '2023-02-09T12:50:12.000000Z'
-                                deleted_at: null
-                                polling_unit:
-                                  id: 17210
-                                  data_id: 17232
-                                  name: '2/3 AKPO STREET  I'
-                                  registration_area_id: 1000
-                                  precise_location: null
-                                  abbreviation: '001'
-                                  units: '001'
-                                  delimitation: 04/18/03/001
-                                  remark: 'EXISTING PU'
-                                  ward_id: 1000
-                                  created_at: '2023-02-09T06:57:41.000000Z'
-                                  updated_at: '2023-02-09T06:57:41.000000Z'
-                                  location:
-                                    id: 17210
-                                    ng_polling_unit_id: 17232
-                                    latitude: '6.1293859'
-                                    longitude: '6.7855757'
-                                    viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                                    formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                                    google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                                    google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                                    created_at: '2023-02-09T06:57:41.000000Z'
-                                    updated_at: '2023-02-09T06:57:41.000000Z'
-                              -
-                                id: 2
-                                ng_state_id: null
-                                ng_local_government_id: null
-                                ng_polling_unit_id: 17232
-                                type_id: 1
-                                title: null
-                                description: Lorem
-                                file: null
-                                ip_address: null
-                                user_agent: null
-                                longitude: null
-                                latitude: null
-                                created_at: '2023-02-09T12:49:43.000000Z'
-                                updated_at: '2023-02-09T12:49:43.000000Z'
-                                deleted_at: null
-                                polling_unit:
-                                  id: 17210
-                                  data_id: 17232
-                                  name: '2/3 AKPO STREET  I'
-                                  registration_area_id: 1000
-                                  precise_location: null
-                                  abbreviation: '001'
-                                  units: '001'
-                                  delimitation: 04/18/03/001
-                                  remark: 'EXISTING PU'
-                                  ward_id: 1000
-                                  created_at: '2023-02-09T06:57:41.000000Z'
-                                  updated_at: '2023-02-09T06:57:41.000000Z'
-                                  location:
-                                    id: 17210
-                                    ng_polling_unit_id: 17232
-                                    latitude: '6.1293859'
-                                    longitude: '6.7855757'
-                                    viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                                    formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                                    google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                                    google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                                    created_at: '2023-02-09T06:57:41.000000Z'
-                                    updated_at: '2023-02-09T06:57:41.000000Z'
-                              -
-                                id: 1
-                                ng_state_id: null
-                                ng_local_government_id: null
-                                ng_polling_unit_id: 17232
-                                type_id: 1
-                                title: null
-                                description: Lorem
-                                file: null
-                                ip_address: null
-                                user_agent: null
-                                longitude: null
-                                latitude: null
-                                created_at: '2023-02-09T12:47:27.000000Z'
-                                updated_at: '2023-02-09T12:47:27.000000Z'
-                                deleted_at: null
-                                polling_unit:
-                                  id: 17210
-                                  data_id: 17232
-                                  name: '2/3 AKPO STREET  I'
-                                  registration_area_id: 1000
-                                  precise_location: null
-                                  abbreviation: '001'
-                                  units: '001'
-                                  delimitation: 04/18/03/001
-                                  remark: 'EXISTING PU'
-                                  ward_id: 1000
-                                  created_at: '2023-02-09T06:57:41.000000Z'
-                                  updated_at: '2023-02-09T06:57:41.000000Z'
-                                  location:
-                                    id: 17210
-                                    ng_polling_unit_id: 17232
-                                    latitude: '6.1293859'
-                                    longitude: '6.7855757'
-                                    viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                                    formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                                    google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                                    google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                                    created_at: '2023-02-09T06:57:41.000000Z'
-                                    updated_at: '2023-02-09T06:57:41.000000Z'
+                                    id: 45800
+                                    ng_polling_unit_id: 45800
+                                    latitude: '6.3281443'
+                                    longitude: '8.1041807'
+                                    viewport: '{"northeast":{"lat":6.329588579892722,"lng":8.105531079892723},"southwest":{"lat":6.326888920107278,"lng":8.102831420107279}}'
+                                    formatted_address: '1 Onwe Rd, Ntezi Abba 480108, Abakaliki, Nigeria'
+                                    google_map_url: 'https://maps.google.com?q=6.3281443,8.104180699999999'
+                                    google_place_id: ChIJUf_5LWmgXBARKBfJ1BxFVp8
+                                    created_at: '2023-02-09T07:08:08.000000Z'
+                                    updated_at: '2023-02-09T07:08:08.000000Z'
+                                type:
+                                  id: 9
+                                  name: 'sexual violence'
+                                  note: null
+                                  created_at: '2023-02-08T15:04:48.000000Z'
+                                  updated_at: '2023-02-08T15:04:48.000000Z'
                             items:
                               type: object
                               properties:
                                 id:
                                   type: integer
-                                  example: 10
+                                  example: 22
                                 ng_state_id:
                                   type: string
                                   example: null
@@ -5655,25 +5286,25 @@ paths:
                                   example: null
                                 ng_polling_unit_id:
                                   type: integer
-                                  example: 17232
+                                  example: 45800
                                 type_id:
                                   type: integer
-                                  example: 1
+                                  example: 9
                                 title:
                                   type: string
                                   example: null
                                 description:
                                   type: string
-                                  example: 'Hello World! Setting up my twitter...'
+                                  example: 'Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem? Fuga tempora ipsam modi, quia vel quaerat temporibus exercitationem atque quidem, aperiam incidunt.'
                                 file:
                                   type: string
                                   example: null
                                 ip_address:
                                   type: string
-                                  example: null
+                                  example: 127.0.0.1
                                 user_agent:
                                   type: string
-                                  example: null
+                                  example: PostmanRuntime/7.30.1
                                 longitude:
                                   type: string
                                   example: null
@@ -5682,10 +5313,10 @@ paths:
                                   example: null
                                 created_at:
                                   type: string
-                                  example: '2023-02-09T13:32:54.000000Z'
+                                  example: '2023-02-11T19:36:46.000000Z'
                                 updated_at:
                                   type: string
-                                  example: '2023-02-09T13:32:54.000000Z'
+                                  example: '2023-02-11T19:36:46.000000Z'
                                 deleted_at:
                                   type: string
                                   example: null
@@ -5694,16 +5325,16 @@ paths:
                                   properties:
                                     id:
                                       type: integer
-                                      example: 17210
+                                      example: 45800
                                     data_id:
                                       type: integer
-                                      example: 17232
+                                      example: 45800
                                     name:
                                       type: string
-                                      example: '2/3 AKPO STREET  I'
+                                      example: 'OBEAGU ABOFIA HALL'
                                     registration_area_id:
                                       type: integer
-                                      example: 1000
+                                      example: 2473
                                     precise_location:
                                       type: string
                                       example: null
@@ -5715,22 +5346,40 @@ paths:
                                       example: '001'
                                     delimitation:
                                       type: string
-                                      example: 04/18/03/001
+                                      example: 11/04/02/001
                                     remark:
                                       type: string
                                       example: 'EXISTING PU'
                                     ward_id:
                                       type: integer
-                                      example: 1000
+                                      example: 2473
                                     created_at:
                                       type: string
-                                      example: '2023-02-09T06:57:41.000000Z'
+                                      example: '2023-02-09T07:08:08.000000Z'
                                     updated_at:
                                       type: string
-                                      example: '2023-02-09T06:57:41.000000Z'
+                                      example: '2023-02-09T07:08:08.000000Z'
                                     location:
                                       type: object
-                                      properties: { id: { type: integer, example: 17210 }, ng_polling_unit_id: { type: integer, example: 17232 }, latitude: { type: string, example: '6.1293859' }, longitude: { type: string, example: '6.7855757' }, viewport: { type: string, example: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}' }, formatted_address: { type: string, example: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria' }, google_map_url: { type: string, example: 'https://maps.google.com?q=6.1293859,6.7855757' }, google_place_id: { type: string, example: ChIJ39rdyTuTQxARNjGs0TZIBkk }, created_at: { type: string, example: '2023-02-09T06:57:41.000000Z' }, updated_at: { type: string, example: '2023-02-09T06:57:41.000000Z' } }
+                                      properties: { id: { type: integer, example: 45800 }, ng_polling_unit_id: { type: integer, example: 45800 }, latitude: { type: string, example: '6.3281443' }, longitude: { type: string, example: '8.1041807' }, viewport: { type: string, example: '{"northeast":{"lat":6.329588579892722,"lng":8.105531079892723},"southwest":{"lat":6.326888920107278,"lng":8.102831420107279}}' }, formatted_address: { type: string, example: '1 Onwe Rd, Ntezi Abba 480108, Abakaliki, Nigeria' }, google_map_url: { type: string, example: 'https://maps.google.com?q=6.3281443,8.104180699999999' }, google_place_id: { type: string, example: ChIJUf_5LWmgXBARKBfJ1BxFVp8 }, created_at: { type: string, example: '2023-02-09T07:08:08.000000Z' }, updated_at: { type: string, example: '2023-02-09T07:08:08.000000Z' } }
+                                type:
+                                  type: object
+                                  properties:
+                                    id:
+                                      type: integer
+                                      example: 9
+                                    name:
+                                      type: string
+                                      example: 'sexual violence'
+                                    note:
+                                      type: string
+                                      example: null
+                                    created_at:
+                                      type: string
+                                      example: '2023-02-08T15:04:48.000000Z'
+                                    updated_at:
+                                      type: string
+                                      example: '2023-02-08T15:04:48.000000Z'
                           first_page_url:
                             type: string
                             example: 'http://localhost/api/violence-reports?page=1'
@@ -5739,10 +5388,10 @@ paths:
                             example: 1
                           last_page:
                             type: integer
-                            example: 1
+                            example: 22
                           last_page_url:
                             type: string
-                            example: 'http://localhost/api/violence-reports?page=1'
+                            example: 'http://localhost/api/violence-reports?page=22'
                           links:
                             type: array
                             example:
@@ -5755,7 +5404,55 @@ paths:
                                 label: '1'
                                 active: true
                               -
+                                url: 'http://localhost/api/violence-reports?page=2'
+                                label: '2'
+                                active: false
+                              -
+                                url: 'http://localhost/api/violence-reports?page=3'
+                                label: '3'
+                                active: false
+                              -
+                                url: 'http://localhost/api/violence-reports?page=4'
+                                label: '4'
+                                active: false
+                              -
+                                url: 'http://localhost/api/violence-reports?page=5'
+                                label: '5'
+                                active: false
+                              -
+                                url: 'http://localhost/api/violence-reports?page=6'
+                                label: '6'
+                                active: false
+                              -
+                                url: 'http://localhost/api/violence-reports?page=7'
+                                label: '7'
+                                active: false
+                              -
+                                url: 'http://localhost/api/violence-reports?page=8'
+                                label: '8'
+                                active: false
+                              -
+                                url: 'http://localhost/api/violence-reports?page=9'
+                                label: '9'
+                                active: false
+                              -
+                                url: 'http://localhost/api/violence-reports?page=10'
+                                label: '10'
+                                active: false
+                              -
                                 url: null
+                                label: ...
+                                active: false
+                              -
+                                url: 'http://localhost/api/violence-reports?page=21'
+                                label: '21'
+                                active: false
+                              -
+                                url: 'http://localhost/api/violence-reports?page=22'
+                                label: '22'
+                                active: false
+                              -
+                                url: 'http://localhost/api/violence-reports?page=2'
                                 label: 'Next &raquo;'
                                 active: false
                             items:
@@ -5772,22 +5469,22 @@ paths:
                                   example: false
                           next_page_url:
                             type: string
-                            example: null
+                            example: 'http://localhost/api/violence-reports?page=2'
                           path:
                             type: string
                             example: 'http://localhost/api/violence-reports'
                           per_page:
                             type: integer
-                            example: 11
+                            example: 1
                           prev_page_url:
                             type: string
                             example: null
                           to:
                             type: integer
-                            example: 10
+                            example: 1
                           total:
                             type: integer
-                            example: 10
+                            example: 22
       tags:
         - 'Violence Reports'
       requestBody:
@@ -5800,7 +5497,7 @@ paths:
                 limit:
                   type: integer
                   description: ''
-                  example: 11
+                  example: 1
       security: []
     post:
       summary: 'Create a violence report'
@@ -5834,27 +5531,27 @@ paths:
                 ng_state_id:
                   type: integer
                   description: '`ng_states.data_id`'
-                  example: 20
+                  example: 16
                 ng_local_government_id:
                   type: integer
                   description: '`ng_local_governments.data_id`'
-                  example: 9
+                  example: 5
                 ng_polling_unit_id:
                   type: integer
                   description: '`ng_polling_units.data_id`'
-                  example: 6
+                  example: 5
                 type_id:
                   type: integer
                   description: ''
-                  example: 9
+                  example: 19
                 title:
                   type: string
                   description: ''
-                  example: quam
+                  example: et
                 description:
                   type: string
                   description: 'The `description` property is required if no file is attached'
-                  example: 'Molestias cupiditate minima minus velit accusantium tempore doloribus.'
+                  example: 'Eum aliquid dolores aut dolorum aperiam assumenda dolorem.'
                 file:
                   type: string
                   format: binary
@@ -5862,11 +5559,11 @@ paths:
                 longitude:
                   type: number
                   description: ''
-                  example: 2677992.27132
+                  example: 61070.0421
                 latitude:
                   type: number
                   description: ''
-                  example: 2729467.8244216
+                  example: 190.1607
               required:
                 - ng_polling_unit_id
                 - type_id

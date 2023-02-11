@@ -116,4 +116,24 @@ class ViolenceReportTest extends TestCase
             ]);
     }
 
+    /**
+     * Fetch Report Data
+     * 
+     * @test
+     *
+     * @return void
+     */
+    public function fetchesReportData()
+    {
+        // 
+        $reports = ViolenceReport::factory()->create();
+
+        $this->get(route('violence-reports.show.data', [
+            'q'=>NgState::find($reports->first()->ng_state_id)->name,
+            'start' => date('d-m-Y',  strtotime('8 years ago')),
+            'end' => date('d-m-Y',  strtotime('1 years ago')),
+            ]))
+            ->assertStatus(200);
+    }
+
 }

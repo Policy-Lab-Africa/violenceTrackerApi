@@ -2,6 +2,7 @@
 
 namespace Database\Factories;
 
+use App\Models\NgWard;
 use App\Models\NgState;
 use App\Models\ViolenceType;
 use App\Models\NgPollingUnit;
@@ -20,9 +21,10 @@ class ViolenceReportFactory extends Factory
      */
     public function definition()
     {
-        $state = NgState::factory()->create();
-        $lga = NgLocalGovernment::factory()->create();
-        $pollingUnit = NgPollingUnit::factory()->create();
+        $state = NgState::factory()->has(NgLocalGovernment::factory()->count(5),'lgas')->create();
+        $lga = $state->lgas->random();
+        $ward = NgWard::factory()->for(NgLocalGovernment::find($lga->id), 'localGovernment')->create();
+        $pollingUnit = NgPollingUnit::factory()->for($ward, 'ward')->create();
         $type = ViolenceType::factory()->create();
         
         return [
