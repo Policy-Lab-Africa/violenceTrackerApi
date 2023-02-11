@@ -65,19 +65,19 @@ endpoints:
         name: id
         description: 'The ID of the state.'
         required: true
-        example: at
+        example: sed
         type: string
         custom: []
       ngState:
         name: ngState
         description: 'mixed required the `data_id` or `name` of the state.'
         required: false
-        example: quod
+        example: ullam
         type: string
         custom: []
     cleanUrlParameters:
-      id: at
-      ngState: quod
+      id: sed
+      ngState: ullam
     queryParameters: []
     cleanQueryParameters: []
     bodyParameters: []
@@ -122,11 +122,11 @@ endpoints:
         name: ngState
         description: 'mixed required the `data_id` or `name` of the local government you want to fetch LGAs for.'
         required: false
-        example: magni
+        example: qui
         type: string
         custom: []
     cleanUrlParameters:
-      ngState: magni
+      ngState: qui
     queryParameters: []
     cleanQueryParameters: []
     bodyParameters: []
@@ -137,7 +137,7 @@ endpoints:
         status: 500
         content: |-
           {
-              "message": "State (magni) not found",
+              "message": "State (qui) not found",
               "exception": "App\\Exceptions\\NgStateException",
               "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/app/Services/NgStateService.php",
               "line": 50,
@@ -634,19 +634,19 @@ endpoints:
         name: ngLga
         description: ''
         required: true
-        example: sunt
+        example: quaerat
         type: string
         custom: []
       lga:
         name: lga
         description: 'mixed required the `data_id` or `name` of the local government you want to fetch wards for.'
         required: false
-        example: provident
+        example: veniam
         type: string
         custom: []
     cleanUrlParameters:
-      ngLga: sunt
-      lga: provident
+      ngLga: quaerat
+      lga: veniam
     queryParameters: []
     cleanQueryParameters: []
     bodyParameters: []
@@ -657,7 +657,7 @@ endpoints:
         status: 500
         content: |-
           {
-              "message": "Local government areas (sunt) not found",
+              "message": "Local government areas (quaerat) not found",
               "exception": "App\\Exceptions\\NgLocalGovernmentException",
               "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/app/Services/NgLocalGovernmentService.php",
               "line": 23,
@@ -1154,19 +1154,19 @@ endpoints:
         name: ngWard
         description: ''
         required: true
-        example: placeat
+        example: cum
         type: string
         custom: []
       ward:
         name: ward
         description: 'mixed required the `data_id` or `name` of the ward you want to fetch polling units for.'
         required: false
-        example: facere
+        example: nulla
         type: string
         custom: []
     cleanUrlParameters:
-      ngWard: placeat
-      ward: facere
+      ngWard: cum
+      ward: nulla
     queryParameters: []
     cleanQueryParameters: []
     bodyParameters: []
@@ -1177,7 +1177,7 @@ endpoints:
         status: 500
         content: |-
           {
-              "message": "Ward (placeat) not found",
+              "message": "Ward (cum) not found",
               "exception": "App\\Exceptions\\NgWardException",
               "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/app/Services/NgWardService.php",
               "line": 23,
