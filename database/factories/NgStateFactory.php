@@ -24,9 +24,19 @@ class NgStateFactory extends Factory
             1 => [
                 'data_id' =>37,
                 'name' =>'federal capital territory',
+            ],
+            2 => [
+                'data_id' =>24,
+                'name' =>'lagos',
+            ],
+            3 => [
+                'data_id' =>2,
+                'name' =>'adamawa',
             ]
         ];
+        
         $key = array_rand($states);
+
         return [
             //
             'data_id' => $states[$key]['data_id'],

@@ -33,6 +33,7 @@ Route::get('wards/{ngWard}/polling-units', [NgPollingUnitController::class, 'sho
 
 Route::get('filter', [NgStateController::class, 'inecFilter']);
 
+Route::get('violence-reports/data', [ViolenceReportController::class, 'showData'])->name('violence-reports.show.data');
 Route::apiResource('violence-reports', ViolenceReportController::class);
 
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {

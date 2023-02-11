@@ -23,10 +23,15 @@ class ViolenceReport extends Model
         'latitude',
     ];
 
-    protected $with = ['pollingUnit'];
+    protected $with = ['pollingUnit', 'type'];
 
     public function pollingUnit()
     {
         return $this->belongsTo(NgPollingUnit::class, 'ng_polling_unit_id', 'data_id');
+    }
+
+    public function type()
+    {
+        return $this->belongsTo(ViolenceType::class);
     }
 }

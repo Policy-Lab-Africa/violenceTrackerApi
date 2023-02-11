@@ -9,11 +9,14 @@ use App\Models\NgPollingUnit;
 use Illuminate\Http\Response;
 use App\Models\ViolenceReport;
 use App\Models\NgLocalGovernment;
+use Illuminate\Support\Facades\App;
 use App\Events\ViolenceReportCreated;
 use Illuminate\Support\Facades\Storage;
+use App\Http\Requests\ReportDataRequest;
 use App\Http\Resources\ViolenceReportCollection;
 use App\Http\Requests\StoreViolenceReportRequest;
 use App\Http\Requests\UpdateViolenceReportRequest;
+use App\Services\ViolenceReport\ReportDataService;
 
 
 class ViolenceReportController extends Controller
@@ -49,17 +52,6 @@ class ViolenceReportController extends Controller
     }
 
     /**
-     * Show the form for creating a new resource.
-     * 
-     *
-     * @return \Illuminate\Http\Response
-     */
-    public function create()
-    {
-        //
-    }
-
-    /**
      * Create a violence report
      * 
      * This endpoint creates a new violence report with the inputs passed and returns an object of the newly created  violence report.
@@ -83,21 +75,25 @@ class ViolenceReportController extends Controller
 
         try{
 
-            $report = ViolenceReport::create([
-                'ng_state_id' => $request->ng_state_id,
-                'ng_local_government_id' => $request->ng_local_government_id,
+            $report = ViolenceReport::updateOrcreate([
                 'ng_polling_unit_id' => $request->ng_polling_unit_id,
+                'description' => $request->description,
+                'ip_address' => $request->ip(),
+            ],
+            [
                 'type_id' => $request->type_id,
                 'title' => $request->title,
-                'description' => $request->description,
+                'ng_state_id' => $request->ng_state_id,
+                'ng_local_government_id' => $request->ng_local_government_id,
                 'file' => $request->has('file') ? $request->file('file')->store('report-files-'.date('m-Y'), 's3') : null,
-                'ip_address' => $request->ip(),
                 'user_agent' => $request->userAgent(),
                 'longitude' => $request->longitude,
                 'latitude' => $request->latitude,
             ]);
 
-            ViolenceReportCreated::dispatch($report);
+            if (App::environment(['production', 'testing'])) {
+                ViolenceReportCreated::dispatch($report);       
+            }
     
             return $this->sendResponse(['violence_report' => $report], 201);
 
@@ -128,16 +124,29 @@ class ViolenceReportController extends Controller
     {
         return $this->sendResponse(['violence_report' => $violenceReport]);
     }
-
+    
     /**
-     * Show the form for editing the specified resource.
+     * Fetch Report Data
+     * 
+     * It returns data for a specified location. Your search term will be searched against the name fied of the following objects `ng_states`, `ng_local_governments`, `ng_wards`, `ng_polling_units`. Data will be returned if `violence_reports` are found for a location that matches your search term
+     * 
+     * 
+     * @group Violence Reports
      *
-     * @param  \App\Models\ViolenceReport  $violenceReport
-     * @return \Illuminate\Http\Response
+     * @param ReportDataRequest $request
+     * @return void
      */
-    public function edit(ViolenceReport $violenceReport)
+    public function showData(ReportDataRequest $request)
     {
-        //
+        $request->validated();
+        
+       return $this->sendResponse((new ReportDataService($request->q, $request->start, $request->end))
+        ->searchPollingUnit()
+        ->searchWard()
+        ->searchLocalGovernment()
+        ->searchState()
+        ->reportDetails()
+        ->formatResult());
     }
 
     /**

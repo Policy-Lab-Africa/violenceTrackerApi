@@ -20,4 +20,9 @@ class NgWard extends Model
     {
         return $this->hasMany(NgPollingUnit::class, 'ward_id', 'data_id');
     }
+
+    public function localGovernment()
+    {
+        return $this->belongsTo(NgLocalGovernment::class, 'local_government_id', 'data_id');
+    }
 }

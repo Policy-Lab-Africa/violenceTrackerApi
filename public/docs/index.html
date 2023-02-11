@@ -135,6 +135,9 @@
                                                     <li class="tocify-item level-2" data-unique="violence-reports-GETapi-violence-types">
                                 <a href="#violence-reports-GETapi-violence-types">Fetch violence report types</a>
                             </li>
+                                                                                <li class="tocify-item level-2" data-unique="violence-reports-GETapi-violence-reports-data">
+                                <a href="#violence-reports-GETapi-violence-reports-data">Fetch Report Data</a>
+                            </li>
                                                                                 <li class="tocify-item level-2" data-unique="violence-reports-GETapi-violence-reports">
                                 <a href="#violence-reports-GETapi-violence-reports">Get violence reports</a>
                             </li>
@@ -155,7 +158,7 @@
     </ul>
 
     <ul class="toc-footer" id="last-updated">
-        <li>Last updated: February 10, 2023</li>
+        <li>Last updated: February 11, 2023</li>
     </ul>
 </div>
 
@@ -1032,14 +1035,14 @@ access-control-allow-origin: *
 
 <div class="bash-example">
     <pre><code class="language-bash">curl --request GET \
-    --get "http://localhost/api/states/at" \
+    --get "http://localhost/api/states/sed" \
     --header "Content-Type: application/json" \
     --header "Accept: application/json"</code></pre></div>
 
 
 <div class="javascript-example">
     <pre><code class="language-javascript">const url = new URL(
-    "http://localhost/api/states/at"
+    "http://localhost/api/states/sed"
 );
 
 const headers = {
@@ -1140,10 +1143,10 @@ access-control-allow-origin: *
  &nbsp;
                 <input type="text" style="display: none"
                name="id"                data-endpoint="GETapi-states--id-"
-               value="at"
+               value="sed"
                data-component="url">
     <br>
-<p>The ID of the state. Example: <code>at</code></p>
+<p>The ID of the state. Example: <code>sed</code></p>
             </div>
                     <div style="padding-left: 28px; clear: unset;">
                 <b style="line-height: 2;"><code>ngState</code></b>&nbsp;&nbsp;
@@ -1151,10 +1154,10 @@ access-control-allow-origin: *
 <i>optional</i> &nbsp;
                 <input type="text" style="display: none"
                name="ngState"                data-endpoint="GETapi-states--id-"
-               value="quod"
+               value="ullam"
                data-component="url">
     <br>
-<p>mixed required the <code>data_id</code> or <code>name</code> of the state. Example: <code>quod</code></p>
+<p>mixed required the <code>data_id</code> or <code>name</code> of the state. Example: <code>ullam</code></p>
             </div>
                     </form>
 
@@ -1172,14 +1175,14 @@ access-control-allow-origin: *
 
 <div class="bash-example">
     <pre><code class="language-bash">curl --request GET \
-    --get "http://localhost/api/states/magni/lgas" \
+    --get "http://localhost/api/states/qui/lgas" \
     --header "Content-Type: application/json" \
     --header "Accept: application/json"</code></pre></div>
 
 
 <div class="javascript-example">
     <pre><code class="language-javascript">const url = new URL(
-    "http://localhost/api/states/magni/lgas"
+    "http://localhost/api/states/qui/lgas"
 );
 
 const headers = {
@@ -1210,7 +1213,7 @@ access-control-allow-origin: *
  </code></pre></details>         <pre>
 
 <code class="language-json" style="max-height: 300px;">{
-    &quot;message&quot;: &quot;State (magni) not found&quot;,
+    &quot;message&quot;: &quot;State (qui) not found&quot;,
     &quot;exception&quot;: &quot;App\\Exceptions\\NgStateException&quot;,
     &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/app/Services/NgStateService.php&quot;,
     &quot;line&quot;: 50,
@@ -1742,10 +1745,10 @@ access-control-allow-origin: *
 <i>optional</i> &nbsp;
                 <input type="text" style="display: none"
                name="ngState"                data-endpoint="GETapi-states--ngState--lgas"
-               value="magni"
+               value="qui"
                data-component="url">
     <br>
-<p>mixed required the <code>data_id</code> or <code>name</code> of the local government you want to fetch LGAs for. Example: <code>magni</code></p>
+<p>mixed required the <code>data_id</code> or <code>name</code> of the local government you want to fetch LGAs for. Example: <code>qui</code></p>
             </div>
                     </form>
 
@@ -1763,14 +1766,14 @@ access-control-allow-origin: *
 
 <div class="bash-example">
     <pre><code class="language-bash">curl --request GET \
-    --get "http://localhost/api/lgas/sunt/wards" \
+    --get "http://localhost/api/lgas/quaerat/wards" \
     --header "Content-Type: application/json" \
     --header "Accept: application/json"</code></pre></div>
 
 
 <div class="javascript-example">
     <pre><code class="language-javascript">const url = new URL(
-    "http://localhost/api/lgas/sunt/wards"
+    "http://localhost/api/lgas/quaerat/wards"
 );
 
 const headers = {
@@ -1801,7 +1804,7 @@ access-control-allow-origin: *
  </code></pre></details>         <pre>
 
 <code class="language-json" style="max-height: 300px;">{
-    &quot;message&quot;: &quot;Local government areas (sunt) not found&quot;,
+    &quot;message&quot;: &quot;Local government areas (quaerat) not found&quot;,
     &quot;exception&quot;: &quot;App\\Exceptions\\NgLocalGovernmentException&quot;,
     &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/app/Services/NgLocalGovernmentService.php&quot;,
     &quot;line&quot;: 23,
@@ -2333,10 +2336,10 @@ access-control-allow-origin: *
  &nbsp;
                 <input type="text" style="display: none"
                name="ngLga"                data-endpoint="GETapi-lgas--ngLga--wards"
-               value="sunt"
+               value="quaerat"
                data-component="url">
     <br>
-<p>Example: <code>sunt</code></p>
+<p>Example: <code>quaerat</code></p>
             </div>
                     <div style="padding-left: 28px; clear: unset;">
                 <b style="line-height: 2;"><code>lga</code></b>&nbsp;&nbsp;
@@ -2344,10 +2347,10 @@ access-control-allow-origin: *
 <i>optional</i> &nbsp;
                 <input type="text" style="display: none"
                name="lga"                data-endpoint="GETapi-lgas--ngLga--wards"
-               value="provident"
+               value="veniam"
                data-component="url">
     <br>
-<p>mixed required the <code>data_id</code> or <code>name</code> of the local government you want to fetch wards for. Example: <code>provident</code></p>
+<p>mixed required the <code>data_id</code> or <code>name</code> of the local government you want to fetch wards for. Example: <code>veniam</code></p>
             </div>
                     </form>
 
@@ -2365,14 +2368,14 @@ access-control-allow-origin: *
 
 <div class="bash-example">
     <pre><code class="language-bash">curl --request GET \
-    --get "http://localhost/api/wards/placeat/polling-units" \
+    --get "http://localhost/api/wards/cum/polling-units" \
     --header "Content-Type: application/json" \
     --header "Accept: application/json"</code></pre></div>
 
 
 <div class="javascript-example">
     <pre><code class="language-javascript">const url = new URL(
-    "http://localhost/api/wards/placeat/polling-units"
+    "http://localhost/api/wards/cum/polling-units"
 );
 
 const headers = {
@@ -2403,7 +2406,7 @@ access-control-allow-origin: *
  </code></pre></details>         <pre>
 
 <code class="language-json" style="max-height: 300px;">{
-    &quot;message&quot;: &quot;Ward (placeat) not found&quot;,
+    &quot;message&quot;: &quot;Ward (cum) not found&quot;,
     &quot;exception&quot;: &quot;App\\Exceptions\\NgWardException&quot;,
     &quot;file&quot;: &quot;/Users/cornelius/Documents/Work/Dev/violenceTracker/app/Services/NgWardService.php&quot;,
     &quot;line&quot;: 23,
@@ -2935,10 +2938,10 @@ access-control-allow-origin: *
  &nbsp;
                 <input type="text" style="display: none"
                name="ngWard"                data-endpoint="GETapi-wards--ngWard--polling-units"
-               value="placeat"
+               value="cum"
                data-component="url">
     <br>
-<p>Example: <code>placeat</code></p>
+<p>Example: <code>cum</code></p>
             </div>
                     <div style="padding-left: 28px; clear: unset;">
                 <b style="line-height: 2;"><code>ward</code></b>&nbsp;&nbsp;
@@ -2946,10 +2949,10 @@ access-control-allow-origin: *
 <i>optional</i> &nbsp;
                 <input type="text" style="display: none"
                name="ward"                data-endpoint="GETapi-wards--ngWard--polling-units"
-               value="facere"
+               value="nulla"
                data-component="url">
     <br>
-<p>mixed required the <code>data_id</code> or <code>name</code> of the ward you want to fetch polling units for. Example: <code>facere</code></p>
+<p>mixed required the <code>data_id</code> or <code>name</code> of the ward you want to fetch polling units for. Example: <code>nulla</code></p>
             </div>
                     </form>
 
@@ -3767,6 +3770,240 @@ access-control-allow-origin: *
             </div>
                         </form>
 
+                    <h2 id="violence-reports-GETapi-violence-reports-data">Fetch Report Data</h2>
+
+<p>
+</p>
+
+<p>It returns data for a specified location. Your search term will be searched against the name fied of the following objects <code>ng_states</code>, <code>ng_local_governments</code>, <code>ng_wards</code>, <code>ng_polling_units</code>. Data will be returned if <code>violence_reports</code> are found for a location that matches your search term</p>
+
+<span id="example-requests-GETapi-violence-reports-data">
+<blockquote>Example request:</blockquote>
+
+
+<div class="bash-example">
+    <pre><code class="language-bash">curl --request GET \
+    --get "http://localhost/api/violence-reports/data" \
+    --header "Content-Type: application/json" \
+    --header "Accept: application/json" \
+    --data "{
+    \"q\": \"facere\",
+    \"start\": \"2023-02-11\",
+    \"end\": \"2023-02-11\"
+}"
+</code></pre></div>
+
+
+<div class="javascript-example">
+    <pre><code class="language-javascript">const url = new URL(
+    "http://localhost/api/violence-reports/data"
+);
+
+const headers = {
+    "Content-Type": "application/json",
+    "Accept": "application/json",
+};
+
+let body = {
+    "q": "facere",
+    "start": "2023-02-11",
+    "end": "2023-02-11"
+};
+
+fetch(url, {
+    method: "GET",
+    headers,
+    body: JSON.stringify(body),
+}).then(response =&gt; response.json());</code></pre></div>
+
+</span>
+
+<span id="example-responses-GETapi-violence-reports-data">
+            <blockquote>
+            <p>Example response (200):</p>
+        </blockquote>
+                <details class="annotation">
+            <summary style="cursor: pointer;">
+                <small onclick="textContent = parentElement.parentElement.open ? 'Show headers' : 'Hide headers'">Show headers</small>
+            </summary>
+            <pre><code class="language-http">cache-control: no-cache, private
+content-type: application/json
+x-ratelimit-limit: 60
+x-ratelimit-remaining: 52
+access-control-allow-origin: *
+ </code></pre></details>         <pre>
+
+<code class="language-json" style="max-height: 300px;">{
+    &quot;status&quot;: &quot;success&quot;,
+    &quot;data&quot;: {
+        &quot;state_results&quot;: [
+            {
+                &quot;meta_data&quot;: {
+                    &quot;violence_reports&quot;: {
+                        &quot;count&quot;: 0
+                    },
+                    &quot;local_governments&quot;: {
+                        &quot;count&quot;: 0
+                    },
+                    &quot;types&quot;: {
+                        &quot;types&quot;: [],
+                        &quot;count&quot;: 0
+                    }
+                }
+            }
+        ],
+        &quot;local_government_results&quot;: [
+            {
+                &quot;meta_data&quot;: {
+                    &quot;violence_reports&quot;: {
+                        &quot;count&quot;: 0
+                    },
+                    &quot;local_governments&quot;: {
+                        &quot;count&quot;: 0
+                    },
+                    &quot;types&quot;: {
+                        &quot;types&quot;: [],
+                        &quot;count&quot;: 0
+                    }
+                }
+            }
+        ],
+        &quot;ward_results&quot;: [
+            {
+                &quot;meta_data&quot;: {
+                    &quot;violence_reports&quot;: {
+                        &quot;count&quot;: 0
+                    },
+                    &quot;local_governments&quot;: {
+                        &quot;count&quot;: 0
+                    },
+                    &quot;types&quot;: {
+                        &quot;types&quot;: [],
+                        &quot;count&quot;: 0
+                    }
+                }
+            }
+        ],
+        &quot;polling_unit_results&quot;: [
+            {
+                &quot;meta_data&quot;: {
+                    &quot;violence_reports&quot;: {
+                        &quot;count&quot;: 0
+                    },
+                    &quot;polling_units&quot;: {
+                        &quot;count&quot;: 0
+                    },
+                    &quot;local_governments&quot;: {
+                        &quot;count&quot;: 0
+                    },
+                    &quot;types&quot;: {
+                        &quot;types&quot;: [],
+                        &quot;count&quot;: 0
+                    }
+                }
+            }
+        ]
+    }
+}</code>
+ </pre>
+    </span>
+<span id="execution-results-GETapi-violence-reports-data" hidden>
+    <blockquote>Received response<span
+                id="execution-response-status-GETapi-violence-reports-data"></span>:
+    </blockquote>
+    <pre class="json"><code id="execution-response-content-GETapi-violence-reports-data" style="max-height: 400px;"></code></pre>
+</span>
+<span id="execution-error-GETapi-violence-reports-data" hidden>
+    <blockquote>Request failed with error:</blockquote>
+    <pre><code id="execution-error-message-GETapi-violence-reports-data"></code></pre>
+</span>
+<form id="form-GETapi-violence-reports-data" data-method="GET"
+      data-path="api/violence-reports/data"
+      data-authed="0"
+      data-hasfiles="0"
+      data-isarraybody="0"
+      autocomplete="off"
+      onsubmit="event.preventDefault(); executeTryOut('GETapi-violence-reports-data', this);">
+    <h3>
+        Request&nbsp;&nbsp;&nbsp;
+                    <button type="button"
+                    style="background-color: #8fbcd4; padding: 5px 10px; border-radius: 5px; border-width: thin;"
+                    id="btn-tryout-GETapi-violence-reports-data"
+                    onclick="tryItOut('GETapi-violence-reports-data');">Try it out ⚡
+            </button>
+            <button type="button"
+                    style="background-color: #c97a7e; padding: 5px 10px; border-radius: 5px; border-width: thin;"
+                    id="btn-canceltryout-GETapi-violence-reports-data"
+                    onclick="cancelTryOut('GETapi-violence-reports-data');" hidden>Cancel 🛑
+            </button>&nbsp;&nbsp;
+            <button type="submit"
+                    style="background-color: #6ac174; padding: 5px 10px; border-radius: 5px; border-width: thin;"
+                    id="btn-executetryout-GETapi-violence-reports-data" hidden>Send Request 💥
+            </button>
+            </h3>
+            <p>
+            <small class="badge badge-green">GET</small>
+            <b><code>api/violence-reports/data</code></b>
+        </p>
+                <h4 class="fancy-heading-panel"><b>Headers</b></h4>
+                                <div style="padding-left: 28px; clear: unset;">
+                <b style="line-height: 2;"><code>Content-Type</code></b>&nbsp;&nbsp;
+&nbsp;
+ &nbsp;
+                <input type="text" style="display: none"
+               name="Content-Type"                data-endpoint="GETapi-violence-reports-data"
+               value="application/json"
+               data-component="header">
+    <br>
+<p>Example: <code>application/json</code></p>
+            </div>
+                                <div style="padding-left: 28px; clear: unset;">
+                <b style="line-height: 2;"><code>Accept</code></b>&nbsp;&nbsp;
+&nbsp;
+ &nbsp;
+                <input type="text" style="display: none"
+               name="Accept"                data-endpoint="GETapi-violence-reports-data"
+               value="application/json"
+               data-component="header">
+    <br>
+<p>Example: <code>application/json</code></p>
+            </div>
+                                <h4 class="fancy-heading-panel"><b>Body Parameters</b></h4>
+        <div style=" padding-left: 28px;  clear: unset;">
+            <b style="line-height: 2;"><code>q</code></b>&nbsp;&nbsp;
+<small>string</small>&nbsp;
+ &nbsp;
+                <input type="text" style="display: none"
+               name="q"                data-endpoint="GETapi-violence-reports-data"
+               value="facere"
+               data-component="body">
+    <br>
+<p>Example: <code>facere</code></p>
+        </div>
+                <div style=" padding-left: 28px;  clear: unset;">
+            <b style="line-height: 2;"><code>start</code></b>&nbsp;&nbsp;
+<small>string</small>&nbsp;
+<i>optional</i> &nbsp;
+                <input type="text" style="display: none"
+               name="start"                data-endpoint="GETapi-violence-reports-data"
+               value="2023-02-11"
+               data-component="body">
+    <br>
+<p>Must be a valid date in the format <code>Y-m-d</code>. Example: <code>2023-02-11</code></p>
+        </div>
+                <div style=" padding-left: 28px;  clear: unset;">
+            <b style="line-height: 2;"><code>end</code></b>&nbsp;&nbsp;
+<small>string</small>&nbsp;
+<i>optional</i> &nbsp;
+                <input type="text" style="display: none"
+               name="end"                data-endpoint="GETapi-violence-reports-data"
+               value="2023-02-11"
+               data-component="body">
+    <br>
+<p>Must be a valid date in the format <code>Y-m-d</code>. Example: <code>2023-02-11</code></p>
+        </div>
+        </form>
+
                     <h2 id="violence-reports-GETapi-violence-reports">Get violence reports</h2>
 
 <p>
@@ -3780,11 +4017,11 @@ access-control-allow-origin: *
 
 <div class="bash-example">
     <pre><code class="language-bash">curl --request GET \
-    --get "http://localhost/api/violence-reports?limit=ad" \
+    --get "http://localhost/api/violence-reports?limit=doloremque" \
     --header "Content-Type: application/json" \
     --header "Accept: application/json" \
     --data "{
-    \"limit\": 11
+    \"limit\": 1
 }"
 </code></pre></div>
 
@@ -3795,7 +4032,7 @@ access-control-allow-origin: *
 );
 
 const params = {
-    "limit": "ad",
+    "limit": "doloremque",
 };
 Object.keys(params)
     .forEach(key =&gt; url.searchParams.append(key, params[key]));
@@ -3806,7 +4043,7 @@ const headers = {
 };
 
 let body = {
-    "limit": 11
+    "limit": 1
 };
 
 fetch(url, {
@@ -3828,7 +4065,7 @@ fetch(url, {
             <pre><code class="language-http">cache-control: no-cache, private
 content-type: application/json
 x-ratelimit-limit: 60
-x-ratelimit-remaining: 52
+x-ratelimit-remaining: 51
 access-control-allow-origin: *
  </code></pre></details>         <pre>
 
@@ -3839,440 +4076,60 @@ access-control-allow-origin: *
             &quot;current_page&quot;: 1,
             &quot;data&quot;: [
                 {
-                    &quot;id&quot;: 10,
+                    &quot;id&quot;: 22,
                     &quot;ng_state_id&quot;: null,
                     &quot;ng_local_government_id&quot;: null,
-                    &quot;ng_polling_unit_id&quot;: 17232,
-                    &quot;type_id&quot;: 1,
+                    &quot;ng_polling_unit_id&quot;: 45800,
+                    &quot;type_id&quot;: 9,
                     &quot;title&quot;: null,
-                    &quot;description&quot;: &quot;Hello World! Setting up my twitter...&quot;,
+                    &quot;description&quot;: &quot;Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem? Fuga tempora ipsam modi, quia vel quaerat temporibus exercitationem atque quidem, aperiam incidunt.&quot;,
                     &quot;file&quot;: null,
-                    &quot;ip_address&quot;: null,
-                    &quot;user_agent&quot;: null,
+                    &quot;ip_address&quot;: &quot;127.0.0.1&quot;,
+                    &quot;user_agent&quot;: &quot;PostmanRuntime/7.30.1&quot;,
                     &quot;longitude&quot;: null,
                     &quot;latitude&quot;: null,
-                    &quot;created_at&quot;: &quot;2023-02-09T13:32:54.000000Z&quot;,
-                    &quot;updated_at&quot;: &quot;2023-02-09T13:32:54.000000Z&quot;,
+                    &quot;created_at&quot;: &quot;2023-02-11T19:36:46.000000Z&quot;,
+                    &quot;updated_at&quot;: &quot;2023-02-11T19:36:46.000000Z&quot;,
                     &quot;deleted_at&quot;: null,
                     &quot;polling_unit&quot;: {
-                        &quot;id&quot;: 17210,
-                        &quot;data_id&quot;: 17232,
-                        &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
-                        &quot;registration_area_id&quot;: 1000,
+                        &quot;id&quot;: 45800,
+                        &quot;data_id&quot;: 45800,
+                        &quot;name&quot;: &quot;OBEAGU ABOFIA HALL&quot;,
+                        &quot;registration_area_id&quot;: 2473,
                         &quot;precise_location&quot;: null,
                         &quot;abbreviation&quot;: &quot;001&quot;,
                         &quot;units&quot;: &quot;001&quot;,
-                        &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
+                        &quot;delimitation&quot;: &quot;11/04/02/001&quot;,
                         &quot;remark&quot;: &quot;EXISTING PU&quot;,
-                        &quot;ward_id&quot;: 1000,
-                        &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                        &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
+                        &quot;ward_id&quot;: 2473,
+                        &quot;created_at&quot;: &quot;2023-02-09T07:08:08.000000Z&quot;,
+                        &quot;updated_at&quot;: &quot;2023-02-09T07:08:08.000000Z&quot;,
                         &quot;location&quot;: {
-                            &quot;id&quot;: 17210,
-                            &quot;ng_polling_unit_id&quot;: 17232,
-                            &quot;latitude&quot;: &quot;6.1293859&quot;,
-                            &quot;longitude&quot;: &quot;6.7855757&quot;,
-                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
-                            &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
-                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
-                            &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
-                            &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                            &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
+                            &quot;id&quot;: 45800,
+                            &quot;ng_polling_unit_id&quot;: 45800,
+                            &quot;latitude&quot;: &quot;6.3281443&quot;,
+                            &quot;longitude&quot;: &quot;8.1041807&quot;,
+                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.329588579892722,\&quot;lng\&quot;:8.105531079892723},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.326888920107278,\&quot;lng\&quot;:8.102831420107279}}&quot;,
+                            &quot;formatted_address&quot;: &quot;1 Onwe Rd, Ntezi Abba 480108, Abakaliki, Nigeria&quot;,
+                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.3281443,8.104180699999999&quot;,
+                            &quot;google_place_id&quot;: &quot;ChIJUf_5LWmgXBARKBfJ1BxFVp8&quot;,
+                            &quot;created_at&quot;: &quot;2023-02-09T07:08:08.000000Z&quot;,
+                            &quot;updated_at&quot;: &quot;2023-02-09T07:08:08.000000Z&quot;
                         }
-                    }
-                },
-                {
-                    &quot;id&quot;: 9,
-                    &quot;ng_state_id&quot;: null,
-                    &quot;ng_local_government_id&quot;: null,
-                    &quot;ng_polling_unit_id&quot;: 17232,
-                    &quot;type_id&quot;: 1,
-                    &quot;title&quot;: null,
-                    &quot;description&quot;: &quot;Lorem&quot;,
-                    &quot;file&quot;: null,
-                    &quot;ip_address&quot;: null,
-                    &quot;user_agent&quot;: null,
-                    &quot;longitude&quot;: null,
-                    &quot;latitude&quot;: null,
-                    &quot;created_at&quot;: &quot;2023-02-09T13:26:14.000000Z&quot;,
-                    &quot;updated_at&quot;: &quot;2023-02-09T13:26:14.000000Z&quot;,
-                    &quot;deleted_at&quot;: null,
-                    &quot;polling_unit&quot;: {
-                        &quot;id&quot;: 17210,
-                        &quot;data_id&quot;: 17232,
-                        &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
-                        &quot;registration_area_id&quot;: 1000,
-                        &quot;precise_location&quot;: null,
-                        &quot;abbreviation&quot;: &quot;001&quot;,
-                        &quot;units&quot;: &quot;001&quot;,
-                        &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
-                        &quot;remark&quot;: &quot;EXISTING PU&quot;,
-                        &quot;ward_id&quot;: 1000,
-                        &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                        &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                        &quot;location&quot;: {
-                            &quot;id&quot;: 17210,
-                            &quot;ng_polling_unit_id&quot;: 17232,
-                            &quot;latitude&quot;: &quot;6.1293859&quot;,
-                            &quot;longitude&quot;: &quot;6.7855757&quot;,
-                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
-                            &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
-                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
-                            &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
-                            &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                            &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
-                        }
-                    }
-                },
-                {
-                    &quot;id&quot;: 8,
-                    &quot;ng_state_id&quot;: null,
-                    &quot;ng_local_government_id&quot;: null,
-                    &quot;ng_polling_unit_id&quot;: 17232,
-                    &quot;type_id&quot;: 1,
-                    &quot;title&quot;: null,
-                    &quot;description&quot;: &quot;Lorem&quot;,
-                    &quot;file&quot;: null,
-                    &quot;ip_address&quot;: null,
-                    &quot;user_agent&quot;: null,
-                    &quot;longitude&quot;: null,
-                    &quot;latitude&quot;: null,
-                    &quot;created_at&quot;: &quot;2023-02-09T13:25:19.000000Z&quot;,
-                    &quot;updated_at&quot;: &quot;2023-02-09T13:25:19.000000Z&quot;,
-                    &quot;deleted_at&quot;: null,
-                    &quot;polling_unit&quot;: {
-                        &quot;id&quot;: 17210,
-                        &quot;data_id&quot;: 17232,
-                        &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
-                        &quot;registration_area_id&quot;: 1000,
-                        &quot;precise_location&quot;: null,
-                        &quot;abbreviation&quot;: &quot;001&quot;,
-                        &quot;units&quot;: &quot;001&quot;,
-                        &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
-                        &quot;remark&quot;: &quot;EXISTING PU&quot;,
-                        &quot;ward_id&quot;: 1000,
-                        &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                        &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                        &quot;location&quot;: {
-                            &quot;id&quot;: 17210,
-                            &quot;ng_polling_unit_id&quot;: 17232,
-                            &quot;latitude&quot;: &quot;6.1293859&quot;,
-                            &quot;longitude&quot;: &quot;6.7855757&quot;,
-                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
-                            &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
-                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
-                            &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
-                            &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                            &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
-                        }
-                    }
-                },
-                {
-                    &quot;id&quot;: 7,
-                    &quot;ng_state_id&quot;: null,
-                    &quot;ng_local_government_id&quot;: null,
-                    &quot;ng_polling_unit_id&quot;: 17232,
-                    &quot;type_id&quot;: 1,
-                    &quot;title&quot;: null,
-                    &quot;description&quot;: &quot;Lorem&quot;,
-                    &quot;file&quot;: null,
-                    &quot;ip_address&quot;: null,
-                    &quot;user_agent&quot;: null,
-                    &quot;longitude&quot;: null,
-                    &quot;latitude&quot;: null,
-                    &quot;created_at&quot;: &quot;2023-02-09T13:24:27.000000Z&quot;,
-                    &quot;updated_at&quot;: &quot;2023-02-09T13:24:27.000000Z&quot;,
-                    &quot;deleted_at&quot;: null,
-                    &quot;polling_unit&quot;: {
-                        &quot;id&quot;: 17210,
-                        &quot;data_id&quot;: 17232,
-                        &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
-                        &quot;registration_area_id&quot;: 1000,
-                        &quot;precise_location&quot;: null,
-                        &quot;abbreviation&quot;: &quot;001&quot;,
-                        &quot;units&quot;: &quot;001&quot;,
-                        &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
-                        &quot;remark&quot;: &quot;EXISTING PU&quot;,
-                        &quot;ward_id&quot;: 1000,
-                        &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                        &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                        &quot;location&quot;: {
-                            &quot;id&quot;: 17210,
-                            &quot;ng_polling_unit_id&quot;: 17232,
-                            &quot;latitude&quot;: &quot;6.1293859&quot;,
-                            &quot;longitude&quot;: &quot;6.7855757&quot;,
-                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
-                            &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
-                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
-                            &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
-                            &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                            &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
-                        }
-                    }
-                },
-                {
-                    &quot;id&quot;: 6,
-                    &quot;ng_state_id&quot;: null,
-                    &quot;ng_local_government_id&quot;: null,
-                    &quot;ng_polling_unit_id&quot;: 17232,
-                    &quot;type_id&quot;: 1,
-                    &quot;title&quot;: null,
-                    &quot;description&quot;: &quot;Lorem&quot;,
-                    &quot;file&quot;: null,
-                    &quot;ip_address&quot;: null,
-                    &quot;user_agent&quot;: null,
-                    &quot;longitude&quot;: null,
-                    &quot;latitude&quot;: null,
-                    &quot;created_at&quot;: &quot;2023-02-09T13:23:03.000000Z&quot;,
-                    &quot;updated_at&quot;: &quot;2023-02-09T13:23:03.000000Z&quot;,
-                    &quot;deleted_at&quot;: null,
-                    &quot;polling_unit&quot;: {
-                        &quot;id&quot;: 17210,
-                        &quot;data_id&quot;: 17232,
-                        &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
-                        &quot;registration_area_id&quot;: 1000,
-                        &quot;precise_location&quot;: null,
-                        &quot;abbreviation&quot;: &quot;001&quot;,
-                        &quot;units&quot;: &quot;001&quot;,
-                        &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
-                        &quot;remark&quot;: &quot;EXISTING PU&quot;,
-                        &quot;ward_id&quot;: 1000,
-                        &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                        &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                        &quot;location&quot;: {
-                            &quot;id&quot;: 17210,
-                            &quot;ng_polling_unit_id&quot;: 17232,
-                            &quot;latitude&quot;: &quot;6.1293859&quot;,
-                            &quot;longitude&quot;: &quot;6.7855757&quot;,
-                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
-                            &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
-                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
-                            &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
-                            &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                            &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
-                        }
-                    }
-                },
-                {
-                    &quot;id&quot;: 5,
-                    &quot;ng_state_id&quot;: null,
-                    &quot;ng_local_government_id&quot;: null,
-                    &quot;ng_polling_unit_id&quot;: 17232,
-                    &quot;type_id&quot;: 1,
-                    &quot;title&quot;: null,
-                    &quot;description&quot;: &quot;Lorem&quot;,
-                    &quot;file&quot;: null,
-                    &quot;ip_address&quot;: null,
-                    &quot;user_agent&quot;: null,
-                    &quot;longitude&quot;: null,
-                    &quot;latitude&quot;: null,
-                    &quot;created_at&quot;: &quot;2023-02-09T13:18:04.000000Z&quot;,
-                    &quot;updated_at&quot;: &quot;2023-02-09T13:18:04.000000Z&quot;,
-                    &quot;deleted_at&quot;: null,
-                    &quot;polling_unit&quot;: {
-                        &quot;id&quot;: 17210,
-                        &quot;data_id&quot;: 17232,
-                        &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
-                        &quot;registration_area_id&quot;: 1000,
-                        &quot;precise_location&quot;: null,
-                        &quot;abbreviation&quot;: &quot;001&quot;,
-                        &quot;units&quot;: &quot;001&quot;,
-                        &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
-                        &quot;remark&quot;: &quot;EXISTING PU&quot;,
-                        &quot;ward_id&quot;: 1000,
-                        &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                        &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                        &quot;location&quot;: {
-                            &quot;id&quot;: 17210,
-                            &quot;ng_polling_unit_id&quot;: 17232,
-                            &quot;latitude&quot;: &quot;6.1293859&quot;,
-                            &quot;longitude&quot;: &quot;6.7855757&quot;,
-                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
-                            &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
-                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
-                            &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
-                            &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                            &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
-                        }
-                    }
-                },
-                {
-                    &quot;id&quot;: 4,
-                    &quot;ng_state_id&quot;: null,
-                    &quot;ng_local_government_id&quot;: null,
-                    &quot;ng_polling_unit_id&quot;: 17232,
-                    &quot;type_id&quot;: 1,
-                    &quot;title&quot;: null,
-                    &quot;description&quot;: &quot;Lorem&quot;,
-                    &quot;file&quot;: null,
-                    &quot;ip_address&quot;: null,
-                    &quot;user_agent&quot;: null,
-                    &quot;longitude&quot;: null,
-                    &quot;latitude&quot;: null,
-                    &quot;created_at&quot;: &quot;2023-02-09T13:12:01.000000Z&quot;,
-                    &quot;updated_at&quot;: &quot;2023-02-09T13:12:01.000000Z&quot;,
-                    &quot;deleted_at&quot;: null,
-                    &quot;polling_unit&quot;: {
-                        &quot;id&quot;: 17210,
-                        &quot;data_id&quot;: 17232,
-                        &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
-                        &quot;registration_area_id&quot;: 1000,
-                        &quot;precise_location&quot;: null,
-                        &quot;abbreviation&quot;: &quot;001&quot;,
-                        &quot;units&quot;: &quot;001&quot;,
-                        &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
-                        &quot;remark&quot;: &quot;EXISTING PU&quot;,
-                        &quot;ward_id&quot;: 1000,
-                        &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                        &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                        &quot;location&quot;: {
-                            &quot;id&quot;: 17210,
-                            &quot;ng_polling_unit_id&quot;: 17232,
-                            &quot;latitude&quot;: &quot;6.1293859&quot;,
-                            &quot;longitude&quot;: &quot;6.7855757&quot;,
-                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
-                            &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
-                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
-                            &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
-                            &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                            &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
-                        }
-                    }
-                },
-                {
-                    &quot;id&quot;: 3,
-                    &quot;ng_state_id&quot;: null,
-                    &quot;ng_local_government_id&quot;: null,
-                    &quot;ng_polling_unit_id&quot;: 17232,
-                    &quot;type_id&quot;: 1,
-                    &quot;title&quot;: null,
-                    &quot;description&quot;: &quot;Lorem&quot;,
-                    &quot;file&quot;: null,
-                    &quot;ip_address&quot;: null,
-                    &quot;user_agent&quot;: null,
-                    &quot;longitude&quot;: null,
-                    &quot;latitude&quot;: null,
-                    &quot;created_at&quot;: &quot;2023-02-09T12:50:12.000000Z&quot;,
-                    &quot;updated_at&quot;: &quot;2023-02-09T12:50:12.000000Z&quot;,
-                    &quot;deleted_at&quot;: null,
-                    &quot;polling_unit&quot;: {
-                        &quot;id&quot;: 17210,
-                        &quot;data_id&quot;: 17232,
-                        &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
-                        &quot;registration_area_id&quot;: 1000,
-                        &quot;precise_location&quot;: null,
-                        &quot;abbreviation&quot;: &quot;001&quot;,
-                        &quot;units&quot;: &quot;001&quot;,
-                        &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
-                        &quot;remark&quot;: &quot;EXISTING PU&quot;,
-                        &quot;ward_id&quot;: 1000,
-                        &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                        &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                        &quot;location&quot;: {
-                            &quot;id&quot;: 17210,
-                            &quot;ng_polling_unit_id&quot;: 17232,
-                            &quot;latitude&quot;: &quot;6.1293859&quot;,
-                            &quot;longitude&quot;: &quot;6.7855757&quot;,
-                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
-                            &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
-                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
-                            &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
-                            &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                            &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
-                        }
-                    }
-                },
-                {
-                    &quot;id&quot;: 2,
-                    &quot;ng_state_id&quot;: null,
-                    &quot;ng_local_government_id&quot;: null,
-                    &quot;ng_polling_unit_id&quot;: 17232,
-                    &quot;type_id&quot;: 1,
-                    &quot;title&quot;: null,
-                    &quot;description&quot;: &quot;Lorem&quot;,
-                    &quot;file&quot;: null,
-                    &quot;ip_address&quot;: null,
-                    &quot;user_agent&quot;: null,
-                    &quot;longitude&quot;: null,
-                    &quot;latitude&quot;: null,
-                    &quot;created_at&quot;: &quot;2023-02-09T12:49:43.000000Z&quot;,
-                    &quot;updated_at&quot;: &quot;2023-02-09T12:49:43.000000Z&quot;,
-                    &quot;deleted_at&quot;: null,
-                    &quot;polling_unit&quot;: {
-                        &quot;id&quot;: 17210,
-                        &quot;data_id&quot;: 17232,
-                        &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
-                        &quot;registration_area_id&quot;: 1000,
-                        &quot;precise_location&quot;: null,
-                        &quot;abbreviation&quot;: &quot;001&quot;,
-                        &quot;units&quot;: &quot;001&quot;,
-                        &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
-                        &quot;remark&quot;: &quot;EXISTING PU&quot;,
-                        &quot;ward_id&quot;: 1000,
-                        &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                        &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                        &quot;location&quot;: {
-                            &quot;id&quot;: 17210,
-                            &quot;ng_polling_unit_id&quot;: 17232,
-                            &quot;latitude&quot;: &quot;6.1293859&quot;,
-                            &quot;longitude&quot;: &quot;6.7855757&quot;,
-                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
-                            &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
-                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
-                            &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
-                            &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                            &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
-                        }
-                    }
-                },
-                {
-                    &quot;id&quot;: 1,
-                    &quot;ng_state_id&quot;: null,
-                    &quot;ng_local_government_id&quot;: null,
-                    &quot;ng_polling_unit_id&quot;: 17232,
-                    &quot;type_id&quot;: 1,
-                    &quot;title&quot;: null,
-                    &quot;description&quot;: &quot;Lorem&quot;,
-                    &quot;file&quot;: null,
-                    &quot;ip_address&quot;: null,
-                    &quot;user_agent&quot;: null,
-                    &quot;longitude&quot;: null,
-                    &quot;latitude&quot;: null,
-                    &quot;created_at&quot;: &quot;2023-02-09T12:47:27.000000Z&quot;,
-                    &quot;updated_at&quot;: &quot;2023-02-09T12:47:27.000000Z&quot;,
-                    &quot;deleted_at&quot;: null,
-                    &quot;polling_unit&quot;: {
-                        &quot;id&quot;: 17210,
-                        &quot;data_id&quot;: 17232,
-                        &quot;name&quot;: &quot;2/3 AKPO STREET  I&quot;,
-                        &quot;registration_area_id&quot;: 1000,
-                        &quot;precise_location&quot;: null,
-                        &quot;abbreviation&quot;: &quot;001&quot;,
-                        &quot;units&quot;: &quot;001&quot;,
-                        &quot;delimitation&quot;: &quot;04/18/03/001&quot;,
-                        &quot;remark&quot;: &quot;EXISTING PU&quot;,
-                        &quot;ward_id&quot;: 1000,
-                        &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                        &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                        &quot;location&quot;: {
-                            &quot;id&quot;: 17210,
-                            &quot;ng_polling_unit_id&quot;: 17232,
-                            &quot;latitude&quot;: &quot;6.1293859&quot;,
-                            &quot;longitude&quot;: &quot;6.7855757&quot;,
-                            &quot;viewport&quot;: &quot;{\&quot;northeast\&quot;:{\&quot;lat\&quot;:6.130538379892722,\&quot;lng\&quot;:6.787053629892722},\&quot;southwest\&quot;:{\&quot;lat\&quot;:6.127838720107278,\&quot;lng\&quot;:6.784353970107278}}&quot;,
-                            &quot;formatted_address&quot;: &quot;4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria&quot;,
-                            &quot;google_map_url&quot;: &quot;https://maps.google.com?q=6.1293859,6.7855757&quot;,
-                            &quot;google_place_id&quot;: &quot;ChIJ39rdyTuTQxARNjGs0TZIBkk&quot;,
-                            &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
-                            &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
-                        }
+                    },
+                    &quot;type&quot;: {
+                        &quot;id&quot;: 9,
+                        &quot;name&quot;: &quot;sexual violence&quot;,
+                        &quot;note&quot;: null,
+                        &quot;created_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;,
+                        &quot;updated_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;
                     }
                 }
             ],
             &quot;first_page_url&quot;: &quot;http://localhost/api/violence-reports?page=1&quot;,
             &quot;from&quot;: 1,
-            &quot;last_page&quot;: 1,
-            &quot;last_page_url&quot;: &quot;http://localhost/api/violence-reports?page=1&quot;,
+            &quot;last_page&quot;: 22,
+            &quot;last_page_url&quot;: &quot;http://localhost/api/violence-reports?page=22&quot;,
             &quot;links&quot;: [
                 {
                     &quot;url&quot;: null,
@@ -4285,17 +4142,77 @@ access-control-allow-origin: *
                     &quot;active&quot;: true
                 },
                 {
+                    &quot;url&quot;: &quot;http://localhost/api/violence-reports?page=2&quot;,
+                    &quot;label&quot;: &quot;2&quot;,
+                    &quot;active&quot;: false
+                },
+                {
+                    &quot;url&quot;: &quot;http://localhost/api/violence-reports?page=3&quot;,
+                    &quot;label&quot;: &quot;3&quot;,
+                    &quot;active&quot;: false
+                },
+                {
+                    &quot;url&quot;: &quot;http://localhost/api/violence-reports?page=4&quot;,
+                    &quot;label&quot;: &quot;4&quot;,
+                    &quot;active&quot;: false
+                },
+                {
+                    &quot;url&quot;: &quot;http://localhost/api/violence-reports?page=5&quot;,
+                    &quot;label&quot;: &quot;5&quot;,
+                    &quot;active&quot;: false
+                },
+                {
+                    &quot;url&quot;: &quot;http://localhost/api/violence-reports?page=6&quot;,
+                    &quot;label&quot;: &quot;6&quot;,
+                    &quot;active&quot;: false
+                },
+                {
+                    &quot;url&quot;: &quot;http://localhost/api/violence-reports?page=7&quot;,
+                    &quot;label&quot;: &quot;7&quot;,
+                    &quot;active&quot;: false
+                },
+                {
+                    &quot;url&quot;: &quot;http://localhost/api/violence-reports?page=8&quot;,
+                    &quot;label&quot;: &quot;8&quot;,
+                    &quot;active&quot;: false
+                },
+                {
+                    &quot;url&quot;: &quot;http://localhost/api/violence-reports?page=9&quot;,
+                    &quot;label&quot;: &quot;9&quot;,
+                    &quot;active&quot;: false
+                },
+                {
+                    &quot;url&quot;: &quot;http://localhost/api/violence-reports?page=10&quot;,
+                    &quot;label&quot;: &quot;10&quot;,
+                    &quot;active&quot;: false
+                },
+                {
                     &quot;url&quot;: null,
+                    &quot;label&quot;: &quot;...&quot;,
+                    &quot;active&quot;: false
+                },
+                {
+                    &quot;url&quot;: &quot;http://localhost/api/violence-reports?page=21&quot;,
+                    &quot;label&quot;: &quot;21&quot;,
+                    &quot;active&quot;: false
+                },
+                {
+                    &quot;url&quot;: &quot;http://localhost/api/violence-reports?page=22&quot;,
+                    &quot;label&quot;: &quot;22&quot;,
+                    &quot;active&quot;: false
+                },
+                {
+                    &quot;url&quot;: &quot;http://localhost/api/violence-reports?page=2&quot;,
                     &quot;label&quot;: &quot;Next &amp;raquo;&quot;,
                     &quot;active&quot;: false
                 }
             ],
-            &quot;next_page_url&quot;: null,
+            &quot;next_page_url&quot;: &quot;http://localhost/api/violence-reports?page=2&quot;,
             &quot;path&quot;: &quot;http://localhost/api/violence-reports&quot;,
-            &quot;per_page&quot;: 11,
+            &quot;per_page&quot;: 1,
             &quot;prev_page_url&quot;: null,
-            &quot;to&quot;: 10,
-            &quot;total&quot;: 10
+            &quot;to&quot;: 1,
+            &quot;total&quot;: 22
         }
     }
 }</code>
@@ -4369,10 +4286,10 @@ access-control-allow-origin: *
 <i>optional</i> &nbsp;
                 <input type="text" style="display: none"
                name="limit"                data-endpoint="GETapi-violence-reports"
-               value="ad"
+               value="doloremque"
                data-component="query">
     <br>
-<p>an integer Example: <code>ad</code></p>
+<p>an integer Example: <code>doloremque</code></p>
             </div>
                         <h4 class="fancy-heading-panel"><b>Body Parameters</b></h4>
         <div style=" padding-left: 28px;  clear: unset;">
@@ -4381,10 +4298,10 @@ access-control-allow-origin: *
 <i>optional</i> &nbsp;
                 <input type="number" style="display: none"
                name="limit"                data-endpoint="GETapi-violence-reports"
-               value="11"
+               value="1"
                data-component="body">
     <br>
-<p>Example: <code>11</code></p>
+<p>Example: <code>1</code></p>
         </div>
         </form>
 
@@ -4404,15 +4321,15 @@ access-control-allow-origin: *
     "http://localhost/api/violence-reports" \
     --header "Content-Type: multipart/form-data" \
     --header "Accept: application/json" \
-    --form "ng_state_id=20" \
-    --form "ng_local_government_id=9" \
-    --form "ng_polling_unit_id=6" \
-    --form "type_id=9" \
-    --form "title=quam" \
-    --form "description=Molestias cupiditate minima minus velit accusantium tempore doloribus." \
-    --form "longitude=2677992.27132" \
-    --form "latitude=2729467.8244216" \
-    --form "file=@/private/var/folders/mc/cf27jd5s2bv407znxj_74g280000gn/T/php7C7lWM" </code></pre></div>
+    --form "ng_state_id=16" \
+    --form "ng_local_government_id=5" \
+    --form "ng_polling_unit_id=5" \
+    --form "type_id=19" \
+    --form "title=et" \
+    --form "description=Eum aliquid dolores aut dolorum aperiam assumenda dolorem." \
+    --form "longitude=61070.0421" \
+    --form "latitude=190.1607" \
+    --form "file=@/private/var/folders/mc/cf27jd5s2bv407znxj_74g280000gn/T/phpxqmro1" </code></pre></div>
 
 
 <div class="javascript-example">
@@ -4426,14 +4343,14 @@ const headers = {
 };
 
 const body = new FormData();
-body.append('ng_state_id', '20');
-body.append('ng_local_government_id', '9');
-body.append('ng_polling_unit_id', '6');
-body.append('type_id', '9');
-body.append('title', 'quam');
-body.append('description', 'Molestias cupiditate minima minus velit accusantium tempore doloribus.');
-body.append('longitude', '2677992.27132');
-body.append('latitude', '2729467.8244216');
+body.append('ng_state_id', '16');
+body.append('ng_local_government_id', '5');
+body.append('ng_polling_unit_id', '5');
+body.append('type_id', '19');
+body.append('title', 'et');
+body.append('description', 'Eum aliquid dolores aut dolorum aperiam assumenda dolorem.');
+body.append('longitude', '61070.0421');
+body.append('latitude', '190.1607');
 body.append('file', document.querySelector('input[name="file"]').files[0]);
 
 fetch(url, {
@@ -4514,10 +4431,10 @@ fetch(url, {
 <i>optional</i> &nbsp;
                 <input type="number" style="display: none"
                name="ng_state_id"                data-endpoint="POSTapi-violence-reports"
-               value="20"
+               value="16"
                data-component="body">
     <br>
-<p><code>ng_states.data_id</code> Example: <code>20</code></p>
+<p><code>ng_states.data_id</code> Example: <code>16</code></p>
         </div>
                 <div style=" padding-left: 28px;  clear: unset;">
             <b style="line-height: 2;"><code>ng_local_government_id</code></b>&nbsp;&nbsp;
@@ -4525,10 +4442,10 @@ fetch(url, {
 <i>optional</i> &nbsp;
                 <input type="number" style="display: none"
                name="ng_local_government_id"                data-endpoint="POSTapi-violence-reports"
-               value="9"
+               value="5"
                data-component="body">
     <br>
-<p><code>ng_local_governments.data_id</code> Example: <code>9</code></p>
+<p><code>ng_local_governments.data_id</code> Example: <code>5</code></p>
         </div>
                 <div style=" padding-left: 28px;  clear: unset;">
             <b style="line-height: 2;"><code>ng_polling_unit_id</code></b>&nbsp;&nbsp;
@@ -4536,10 +4453,10 @@ fetch(url, {
  &nbsp;
                 <input type="number" style="display: none"
                name="ng_polling_unit_id"                data-endpoint="POSTapi-violence-reports"
-               value="6"
+               value="5"
                data-component="body">
     <br>
-<p><code>ng_polling_units.data_id</code> Example: <code>6</code></p>
+<p><code>ng_polling_units.data_id</code> Example: <code>5</code></p>
         </div>
                 <div style=" padding-left: 28px;  clear: unset;">
             <b style="line-height: 2;"><code>type_id</code></b>&nbsp;&nbsp;
@@ -4547,10 +4464,10 @@ fetch(url, {
  &nbsp;
                 <input type="number" style="display: none"
                name="type_id"                data-endpoint="POSTapi-violence-reports"
-               value="9"
+               value="19"
                data-component="body">
     <br>
-<p>Example: <code>9</code></p>
+<p>Example: <code>19</code></p>
         </div>
                 <div style=" padding-left: 28px;  clear: unset;">
             <b style="line-height: 2;"><code>title</code></b>&nbsp;&nbsp;
@@ -4558,10 +4475,10 @@ fetch(url, {
 <i>optional</i> &nbsp;
                 <input type="text" style="display: none"
                name="title"                data-endpoint="POSTapi-violence-reports"
-               value="quam"
+               value="et"
                data-component="body">
     <br>
-<p>Example: <code>quam</code></p>
+<p>Example: <code>et</code></p>
         </div>
                 <div style=" padding-left: 28px;  clear: unset;">
             <b style="line-height: 2;"><code>description</code></b>&nbsp;&nbsp;
@@ -4569,10 +4486,10 @@ fetch(url, {
 <i>optional</i> &nbsp;
                 <input type="text" style="display: none"
                name="description"                data-endpoint="POSTapi-violence-reports"
-               value="Molestias cupiditate minima minus velit accusantium tempore doloribus."
+               value="Eum aliquid dolores aut dolorum aperiam assumenda dolorem."
                data-component="body">
     <br>
-<p>The <code>description</code> property is required if no file is attached Example: <code>Molestias cupiditate minima minus velit accusantium tempore doloribus.</code></p>
+<p>The <code>description</code> property is required if no file is attached Example: <code>Eum aliquid dolores aut dolorum aperiam assumenda dolorem.</code></p>
         </div>
                 <div style=" padding-left: 28px;  clear: unset;">
             <b style="line-height: 2;"><code>file</code></b>&nbsp;&nbsp;
@@ -4583,7 +4500,7 @@ fetch(url, {
                value=""
                data-component="body">
     <br>
-<p>The <code>file</code> property is required if there's no description Example: <code>/private/var/folders/mc/cf27jd5s2bv407znxj_74g280000gn/T/php7C7lWM</code></p>
+<p>The <code>file</code> property is required if there's no description Example: <code>/private/var/folders/mc/cf27jd5s2bv407znxj_74g280000gn/T/phpxqmro1</code></p>
         </div>
                 <div style=" padding-left: 28px;  clear: unset;">
             <b style="line-height: 2;"><code>longitude</code></b>&nbsp;&nbsp;
@@ -4591,10 +4508,10 @@ fetch(url, {
 <i>optional</i> &nbsp;
                 <input type="number" style="display: none"
                name="longitude"                data-endpoint="POSTapi-violence-reports"
-               value="2677992.27132"
+               value="61070.0421"
                data-component="body">
     <br>
-<p>Example: <code>2677992.27132</code></p>
+<p>Example: <code>61070.0421</code></p>
         </div>
                 <div style=" padding-left: 28px;  clear: unset;">
             <b style="line-height: 2;"><code>latitude</code></b>&nbsp;&nbsp;
@@ -4602,10 +4519,10 @@ fetch(url, {
 <i>optional</i> &nbsp;
                 <input type="number" style="display: none"
                name="latitude"                data-endpoint="POSTapi-violence-reports"
-               value="2729467.8244216"
+               value="190.1607"
                data-component="body">
     <br>
-<p>Example: <code>2729467.8244216</code></p>
+<p>Example: <code>190.1607</code></p>
         </div>
         </form>
 
@@ -4655,7 +4572,7 @@ fetch(url, {
             <pre><code class="language-http">cache-control: no-cache, private
 content-type: application/json
 x-ratelimit-limit: 60
-x-ratelimit-remaining: 51
+x-ratelimit-remaining: 50
 access-control-allow-origin: *
  </code></pre></details>         <pre>
 
@@ -4703,6 +4620,13 @@ access-control-allow-origin: *
                     &quot;created_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;,
                     &quot;updated_at&quot;: &quot;2023-02-09T06:57:41.000000Z&quot;
                 }
+            },
+            &quot;type&quot;: {
+                &quot;id&quot;: 1,
+                &quot;name&quot;: &quot;attempted murder&quot;,
+                &quot;note&quot;: null,
+                &quot;created_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;,
+                &quot;updated_at&quot;: &quot;2023-02-08T15:04:48.000000Z&quot;
             }
         }
     }
