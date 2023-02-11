@@ -30,5 +30,15 @@ return [
         'secret' => env('AWS_SECRET_ACCESS_KEY'),
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
+    'twitter' => [
+        'consumer_key'    => env('TWITTER_CONSUMER_KEY'),
+        // 'consumer_key'    => env('TWITTER_CLIENT_ID'),
+        'consumer_secret' => env('TWITTER_CONSUMER_SECRET'),
+        // 'consumer_secret' => env('TWITTER_CLIENT_SECRET'),
+        'consumer_bearer_token' => env('TWITTER_BEARER_TOKEN'),
+        'access_token'    => env('TWITTER_ACCESS_TOKEN'),
+        'access_secret'   => env('TWITTER_ACCESS_SECRET'),
+        'user_id'   => env('TWITTER_USER_ID'),
+    ]
 
 ];

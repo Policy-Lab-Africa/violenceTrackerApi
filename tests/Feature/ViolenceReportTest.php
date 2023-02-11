@@ -5,11 +5,13 @@ namespace Tests\Feature;
 use Tests\TestCase;
 use App\Models\NgWard;
 use App\Models\NgState;
+use App\Jobs\PublishTweet;
 use App\Models\NgPuLocation;
 use App\Models\ViolenceType;
 use App\Models\NgPollingUnit;
 use App\Models\ViolenceReport;
 use App\Models\NgLocalGovernment;
+use Illuminate\Support\Facades\Queue;
 use Illuminate\Foundation\Testing\WithFaker;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Foundation\Testing\DatabaseMigrations;
@@ -59,6 +61,8 @@ class ViolenceReportTest extends TestCase
      */
     public function createViolenceReports()
     {
+        Queue::fake();
+        
         $response = $this->post('api/violence-reports', [
             'ng_state_id' => $this->state->data_id,
             'ng_local_government_id' => $this->lga->data_id,
@@ -87,7 +91,29 @@ class ViolenceReportTest extends TestCase
             'type_id' => $this->type->id,
         ]);
 
-        // Job queued
+        Queue::assertPushed(PublishTweet::class, 1);
+    }
+
+    /**
+     * Show report
+     *
+     * @test
+     * @return void
+     */
+    public function showViolenceReport()
+    {
+        $report = ViolenceReport::factory()->create();
+
+        $this->get(route('violence-reports.show', $report->id))
+            ->assertStatus(200)
+            ->assertJson([
+                'status' => 'success',
+                'data' => [
+                    'violence_report' => [
+                        'id' => $report->id,
+                    ]
+                ]
+            ]);
     }
 
 }
