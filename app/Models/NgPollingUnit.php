@@ -4,10 +4,11 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use \Znck\Eloquent\Traits\BelongsToThrough;
 
 class NgPollingUnit extends Model
 {
-    use HasFactory;
+    use HasFactory, BelongsToThrough;
 
     protected $fillable = [
         'data_id',
@@ -36,5 +37,18 @@ class NgPollingUnit extends Model
     public function violencereports()
     {
         return $this->hasMany(ViolenceReport::class, 'ng_polling_unit_id', 'data_id');
+    }
+
+    public function ward()
+    {
+        return $this->belongsTo(NgWard::class, 'ward_id', 'data_id');
+    }
+
+    public function localGovernment()
+    {
+        return $this->belongsToThrough(NgLocalGovernment::class, NgWard::class, null,
+        '',
+        [NgWard::class => 'ward_id', NgLocalGovernment::class => 'local_government_id'],
+        );
     }
 }
