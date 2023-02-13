@@ -145,7 +145,6 @@ class ViolenceReportController extends Controller
         ->searchWard()
         ->searchLocalGovernment()
         ->searchState()
-        ->reportDetails()
         ->formatResult());
     }
 
