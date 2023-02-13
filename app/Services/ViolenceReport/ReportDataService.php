@@ -175,40 +175,15 @@ class ReportDataService
         return $this;
     }
 
-    public function reportDetails()
-    {
-        // 
-        if(isset($this->stateResults))
-        {
-            $this->stateResults->put('meta_data', FormatData::format($this->stateResults));
-        }
-
-        if(isset($this->localGovernmentResults))
-        {
-            $this->localGovernmentResults->put('meta_data', FormatData::format($this->localGovernmentResults));
-        }
-
-        if(isset($this->wardResults))
-        {
-            $this->wardResults->put('meta_data',FormatData::format($this->wardResults));
-        }
-
-        if(isset($this->pollingUnitsResults))
-        {
-            $this->pollingUnitsResults->put('meta_data',FormatData::formatPoliingUnit($this->pollingUnitsResults));
-        }
-
-        return $this;
-    }
-
     public function formatResult()
     {
         // 
         
-        $this->formattedResults['state_results'][] = isset($this->stateResults) ? $this->stateResults : [];
-        $this->formattedResults['local_government_results'][] = isset($this->localGovernmentResults) ? $this->localGovernmentResults : [];
-        $this->formattedResults['ward_results'][] = isset($this->wardResults) ? $this->wardResults : [];
-        $this->formattedResults['polling_unit_results'][] = isset($this->pollingUnitsResults) ? $this->pollingUnitsResults : [];
+        $this->formattedResults['state_results'][] = isset($this->stateResults) ? FormatData::format($this->stateResults) : [];
+        $this->formattedResults['local_government_results'][] = isset($this->localGovernmentResults) ? FormatData::format($this->localGovernmentResults) : [];
+        $this->formattedResults['ward_results'][] = isset($this->wardResults) ? FormatData::format($this->wardResults) : [];
+        $this->formattedResults['polling_unit_results'][] = isset($this->pollingUnitsResults) ? FormatData::formatPoliingUnit($this->pollingUnitsResults) : [];
+
         return $this->formattedResults;
     }
 }
