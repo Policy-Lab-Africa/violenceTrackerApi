@@ -15,11 +15,11 @@ return [
     |
     */
 
-    'paths' => ['api/*', 'sanctum/csrf-cookie'],
+    'paths' => ['api/*', 'sanctum/csrf-cookie', 'api'],
 
-    'allowed_methods' => ['*'],
+    'allowed_methods' => ['GET', 'OPTION', 'HEAD', 'POST', 'PUT', 'PATCH'],
 
-    'allowed_origins' => ['*'],
+    'allowed_origins' => ['http://localhost', 'http://localhost:3000', 'https://violence-tracker-web-o7pr.vercel.app',],
 
     'allowed_origins_patterns' => [],
 
@@ -29,6 +29,6 @@ return [
 
     'max_age' => 0,
 
-    'supports_credentials' => false,
+    'supports_credentials' => true,
 
 ];
