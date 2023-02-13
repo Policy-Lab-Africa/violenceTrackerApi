@@ -2,8 +2,10 @@
 
 namespace App\Models;
 
-use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Support\Facades\Storage;
+use Illuminate\Database\Eloquent\Casts\Attribute;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
 
 class ViolenceReport extends Model
 {
@@ -24,6 +26,18 @@ class ViolenceReport extends Model
     ];
 
     protected $with = ['pollingUnit', 'type'];
+
+    /**
+     * Get the report's media file.
+     *
+     * @return \Illuminate\Database\Eloquent\Casts\Attribute
+     */
+    protected function file(): Attribute
+    {
+        return Attribute::make(
+            get: fn ($value) => (isset($value)) ? Storage::disk('s3')->temporaryUrl($value, now()->addMinutes(30)) : null,
+        );
+    }
 
     public function pollingUnit()
     {
