@@ -130,6 +130,31 @@ class ViolenceReportController extends Controller
      * 
      * It returns data for a specified location. Your search term will be searched against the name fied of the following objects `ng_states`, `ng_local_governments`, `ng_wards`, `ng_polling_units`. Data will be returned if `violence_reports` are found for a location that matches your search term
      * 
+     * @bodyParam q string required The search location search term. Should match state, local government area, ward or polling unit.
+     * 
+     * @responseField state_results array If search term matches a state, the data for the state will be returned in this array
+     * 
+     * @responseField local_government_results array If search term matches a local government area, the data for the LGA will be returned in this array
+     * 
+     * @responseField ward_results array If search term matches a ward, the data for the ward will be returned in this array
+     * 
+     * @responseField polling_unit_results array If search term matches a polling unit, the data for the polling unit will be returned in this array
+     * 
+     * @responseField {location}_results.data array The state, local government(s), wards, or polling units, that have polling units with violence_reports
+     * 
+     * @responseField {location}_results.meta_data object The summary of the data in `{location}_results.data`
+     * 
+     * @responseField {location}_results.meta_data.violence_reports.count integer The total number of reports. Can be useful to determine if `{location}_results.data` is empty, without actually checking through the array.
+     * 
+     * @responseField {location}_results.meta_data.polling_units.count integer The total number of unique polling units with `violence_reports`.
+     * 
+     * @responseField {location}_results.meta_data.local_governments.data array The unique local governments with `violence_reports`.
+     * @responseField {location}_results.meta_data.local_governments.count_unique integer The total of unique local governments with `violence_reports`.
+     * @responseField {location}_results.meta_data.local_governments.count_reports object Count of violence reports grouped by `ng_local_governments.data_id`. { _ng_local_government.data_id_"123": _count of violence_reports_ 20}
+     * 
+     * @responseField {location}_results.meta_data.types.count_unique integer The total of unique violence types.
+     * 
+     * @responseField {location}_results.meta_data.types.count_reports object Count of violence reports grouped by `violence_types.data_id`. { _violence_types.id_"123": _count of violence_reports_ 20 }
      * 
      * @group Violence Reports
      *

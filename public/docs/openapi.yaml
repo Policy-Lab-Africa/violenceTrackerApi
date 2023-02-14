@@ -87,48 +87,48 @@ paths:
                       id: 1
                       ng_state_id: null
                       ng_local_government_id: null
-                      ng_polling_unit_id: 17232
-                      type_id: 1
+                      ng_polling_unit_id: 67
+                      type_id: 9
                       title: null
-                      description: Lorem
-                      file: null
-                      ip_address: null
-                      user_agent: null
+                      description: 'Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem?'
+                      file: 'https://violencetracker.s3.eu-west-2.amazonaws.com/report-files-02-2023/W2NRXb5zL13jNqJxLxdsU0G8RYx0PcTwerf0jcXX.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATXQGPPLHPP3WNA4G%2F20230214%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T164622Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=3f8649eb3c31ad5a93626fd64e148efccd503771f28e21e8111453532c1ce36e'
+                      ip_address: 127.0.0.1
+                      user_agent: PostmanRuntime/7.30.1
                       longitude: null
                       latitude: null
-                      created_at: '2023-02-09T12:47:27.000000Z'
-                      updated_at: '2023-02-09T12:47:27.000000Z'
+                      created_at: '2023-02-14T15:33:48.000000Z'
+                      updated_at: '2023-02-14T15:33:48.000000Z'
                       deleted_at: null
                       polling_unit:
-                        id: 17210
-                        data_id: 17232
-                        name: '2/3 AKPO STREET  I'
-                        registration_area_id: 1000
+                        id: 297
+                        data_id: 67
+                        name: 'INDPENDENCE ROAD-I.D.H III'
+                        registration_area_id: 2
                         precise_location: null
-                        abbreviation: '001'
-                        units: '001'
-                        delimitation: 04/18/03/001
+                        abbreviation: '015'
+                        units: '015'
+                        delimitation: 01/01/02/015
                         remark: 'EXISTING PU'
-                        ward_id: 1000
-                        created_at: '2023-02-09T06:57:41.000000Z'
-                        updated_at: '2023-02-09T06:57:41.000000Z'
+                        ward_id: 2
+                        created_at: '2023-02-14T15:03:07.000000Z'
+                        updated_at: '2023-02-14T15:03:07.000000Z'
                         location:
-                          id: 17210
-                          ng_polling_unit_id: 17232
-                          latitude: '6.1293859'
-                          longitude: '6.7855757'
-                          viewport: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
-                          formatted_address: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
-                          google_map_url: 'https://maps.google.com?q=6.1293859,6.7855757'
-                          google_place_id: ChIJ39rdyTuTQxARNjGs0TZIBkk
-                          created_at: '2023-02-09T06:57:41.000000Z'
-                          updated_at: '2023-02-09T06:57:41.000000Z'
+                          id: 297
+                          ng_polling_unit_id: 67
+                          latitude: '5.1287924'
+                          longitude: '7.3684531'
+                          viewport: '{"northeast":{"lat":5.130082079892722,"lng":7.369795529892722},"southwest":{"lat":5.127382420107279,"lng":7.367095870107278}}'
+                          formatted_address: 'Plot 10 – 18, Eziama Industrial Esate, Eziama Street, Aba, Nigeria'
+                          google_map_url: 'https://maps.google.com?q=5.1287924,7.3684531'
+                          google_place_id: ChIJcyo0JWyZQhAR0c7jj98ygxY
+                          created_at: '2023-02-14T15:03:07.000000Z'
+                          updated_at: '2023-02-14T15:03:07.000000Z'
                       type:
-                        id: 1
-                        name: 'attempted murder'
+                        id: 9
+                        name: 'sexual violence'
                         note: null
-                        created_at: '2023-02-08T15:04:48.000000Z'
-                        updated_at: '2023-02-08T15:04:48.000000Z'
+                        created_at: '2023-02-14T15:33:28.000000Z'
+                        updated_at: '2023-02-14T15:33:28.000000Z'
                 properties:
                   status:
                     type: string
@@ -150,25 +150,25 @@ paths:
                             example: null
                           ng_polling_unit_id:
                             type: integer
-                            example: 17232
+                            example: 67
                           type_id:
                             type: integer
-                            example: 1
+                            example: 9
                           title:
                             type: string
                             example: null
                           description:
                             type: string
-                            example: Lorem
+                            example: 'Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem?'
                           file:
                             type: string
-                            example: null
+                            example: 'https://violencetracker.s3.eu-west-2.amazonaws.com/report-files-02-2023/W2NRXb5zL13jNqJxLxdsU0G8RYx0PcTwerf0jcXX.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATXQGPPLHPP3WNA4G%2F20230214%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T164622Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=3f8649eb3c31ad5a93626fd64e148efccd503771f28e21e8111453532c1ce36e'
                           ip_address:
                             type: string
-                            example: null
+                            example: 127.0.0.1
                           user_agent:
                             type: string
-                            example: null
+                            example: PostmanRuntime/7.30.1
                           longitude:
                             type: string
                             example: null
@@ -177,10 +177,10 @@ paths:
                             example: null
                           created_at:
                             type: string
-                            example: '2023-02-09T12:47:27.000000Z'
+                            example: '2023-02-14T15:33:48.000000Z'
                           updated_at:
                             type: string
-                            example: '2023-02-09T12:47:27.000000Z'
+                            example: '2023-02-14T15:33:48.000000Z'
                           deleted_at:
                             type: string
                             example: null
@@ -189,91 +189,91 @@ paths:
                             properties:
                               id:
                                 type: integer
-                                example: 17210
+                                example: 297
                               data_id:
                                 type: integer
-                                example: 17232
+                                example: 67
                               name:
                                 type: string
-                                example: '2/3 AKPO STREET  I'
+                                example: 'INDPENDENCE ROAD-I.D.H III'
                               registration_area_id:
                                 type: integer
-                                example: 1000
+                                example: 2
                               precise_location:
                                 type: string
                                 example: null
                               abbreviation:
                                 type: string
-                                example: '001'
+                                example: '015'
                               units:
                                 type: string
-                                example: '001'
+                                example: '015'
                               delimitation:
                                 type: string
-                                example: 04/18/03/001
+                                example: 01/01/02/015
                               remark:
                                 type: string
                                 example: 'EXISTING PU'
                               ward_id:
                                 type: integer
-                                example: 1000
+                                example: 2
                               created_at:
                                 type: string
-                                example: '2023-02-09T06:57:41.000000Z'
+                                example: '2023-02-14T15:03:07.000000Z'
                               updated_at:
                                 type: string
-                                example: '2023-02-09T06:57:41.000000Z'
+                                example: '2023-02-14T15:03:07.000000Z'
                               location:
                                 type: object
                                 properties:
                                   id:
                                     type: integer
-                                    example: 17210
+                                    example: 297
                                   ng_polling_unit_id:
                                     type: integer
-                                    example: 17232
+                                    example: 67
                                   latitude:
                                     type: string
-                                    example: '6.1293859'
+                                    example: '5.1287924'
                                   longitude:
                                     type: string
-                                    example: '6.7855757'
+                                    example: '7.3684531'
                                   viewport:
                                     type: string
-                                    example: '{"northeast":{"lat":6.130538379892722,"lng":6.787053629892722},"southwest":{"lat":6.127838720107278,"lng":6.784353970107278}}'
+                                    example: '{"northeast":{"lat":5.130082079892722,"lng":7.369795529892722},"southwest":{"lat":5.127382420107279,"lng":7.367095870107278}}'
                                   formatted_address:
                                     type: string
-                                    example: '4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria'
+                                    example: 'Plot 10 – 18, Eziama Industrial Esate, Eziama Street, Aba, Nigeria'
                                   google_map_url:
                                     type: string
-                                    example: 'https://maps.google.com?q=6.1293859,6.7855757'
+                                    example: 'https://maps.google.com?q=5.1287924,7.3684531'
                                   google_place_id:
                                     type: string
-                                    example: ChIJ39rdyTuTQxARNjGs0TZIBkk
+                                    example: ChIJcyo0JWyZQhAR0c7jj98ygxY
                                   created_at:
                                     type: string
-                                    example: '2023-02-09T06:57:41.000000Z'
+                                    example: '2023-02-14T15:03:07.000000Z'
                                   updated_at:
                                     type: string
-                                    example: '2023-02-09T06:57:41.000000Z'
+                                    example: '2023-02-14T15:03:07.000000Z'
                           type:
                             type: object
                             properties:
                               id:
                                 type: integer
-                                example: 1
+                                example: 9
                               name:
                                 type: string
-                                example: 'attempted murder'
+                                example: 'sexual violence'
                               note:
                                 type: string
                                 example: null
                               created_at:
                                 type: string
-                                example: '2023-02-08T15:04:48.000000Z'
+                                example: '2023-02-14T15:33:28.000000Z'
                               updated_at:
                                 type: string
-                                example: '2023-02-08T15:04:48.000000Z'
+                                example: '2023-02-14T15:33:28.000000Z'
       tags:
         - 'Violence Reports'
       security: []
@@ -360,8 +360,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:08:55.000000Z'
-                        updated_at: '2023-02-08T15:08:55.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 2
                         data_id: 2
@@ -369,8 +369,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 3
                         data_id: 3
@@ -378,8 +378,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 4
                         data_id: 4
@@ -387,8 +387,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 5
                         data_id: 5
@@ -396,8 +396,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 6
                         data_id: 6
@@ -405,8 +405,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 7
                         data_id: 7
@@ -414,8 +414,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 8
                         data_id: 8
@@ -423,8 +423,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 9
                         data_id: 9
@@ -432,8 +432,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 10
                         data_id: 10
@@ -441,8 +441,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 11
                         data_id: 11
@@ -450,8 +450,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 12
                         data_id: 12
@@ -459,8 +459,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 13
                         data_id: 13
@@ -468,8 +468,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 14
                         data_id: 14
@@ -477,8 +477,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 15
                         data_id: 15
@@ -486,8 +486,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 16
                         data_id: 16
@@ -495,8 +495,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 17
                         data_id: 17
@@ -504,8 +504,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 18
                         data_id: 18
@@ -513,8 +513,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 19
                         data_id: 19
@@ -522,8 +522,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 20
                         data_id: 20
@@ -531,8 +531,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 21
                         data_id: 21
@@ -540,8 +540,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 22
                         data_id: 22
@@ -549,8 +549,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 23
                         data_id: 23
@@ -558,8 +558,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 24
                         data_id: 24
@@ -567,8 +567,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 25
                         data_id: 25
@@ -576,8 +576,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 26
                         data_id: 26
@@ -585,8 +585,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 27
                         data_id: 27
@@ -594,8 +594,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 28
                         data_id: 28
@@ -603,8 +603,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 29
                         data_id: 29
@@ -612,8 +612,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 30
                         data_id: 30
@@ -621,8 +621,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 31
                         data_id: 31
@@ -630,8 +630,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 32
                         data_id: 32
@@ -639,8 +639,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 33
                         data_id: 33
@@ -648,8 +648,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 34
                         data_id: 34
@@ -657,8 +657,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 35
                         data_id: 35
@@ -666,8 +666,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 36
                         data_id: 36
@@ -675,8 +675,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                       -
                         id: 37
                         data_id: 37
@@ -684,8 +684,8 @@ paths:
                         capital: null
                         latitude: null
                         longitude: null
-                        created_at: '2023-02-08T15:10:30.000000Z'
-                        updated_at: '2023-02-08T15:10:30.000000Z'
+                        created_at: '2023-02-14T12:54:39.000000Z'
+                        updated_at: '2023-02-14T12:54:39.000000Z'
                 properties:
                   status:
                     type: string
@@ -703,8 +703,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:08:55.000000Z'
-                            updated_at: '2023-02-08T15:08:55.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 2
                             data_id: 2
@@ -712,8 +712,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 3
                             data_id: 3
@@ -721,8 +721,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 4
                             data_id: 4
@@ -730,8 +730,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 5
                             data_id: 5
@@ -739,8 +739,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 6
                             data_id: 6
@@ -748,8 +748,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 7
                             data_id: 7
@@ -757,8 +757,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 8
                             data_id: 8
@@ -766,8 +766,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 9
                             data_id: 9
@@ -775,8 +775,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 10
                             data_id: 10
@@ -784,8 +784,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 11
                             data_id: 11
@@ -793,8 +793,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 12
                             data_id: 12
@@ -802,8 +802,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 13
                             data_id: 13
@@ -811,8 +811,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 14
                             data_id: 14
@@ -820,8 +820,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 15
                             data_id: 15
@@ -829,8 +829,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 16
                             data_id: 16
@@ -838,8 +838,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 17
                             data_id: 17
@@ -847,8 +847,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 18
                             data_id: 18
@@ -856,8 +856,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 19
                             data_id: 19
@@ -865,8 +865,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 20
                             data_id: 20
@@ -874,8 +874,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 21
                             data_id: 21
@@ -883,8 +883,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 22
                             data_id: 22
@@ -892,8 +892,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 23
                             data_id: 23
@@ -901,8 +901,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 24
                             data_id: 24
@@ -910,8 +910,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 25
                             data_id: 25
@@ -919,8 +919,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 26
                             data_id: 26
@@ -928,8 +928,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 27
                             data_id: 27
@@ -937,8 +937,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 28
                             data_id: 28
@@ -946,8 +946,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 29
                             data_id: 29
@@ -955,8 +955,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 30
                             data_id: 30
@@ -964,8 +964,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 31
                             data_id: 31
@@ -973,8 +973,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 32
                             data_id: 32
@@ -982,8 +982,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 33
                             data_id: 33
@@ -991,8 +991,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 34
                             data_id: 34
@@ -1000,8 +1000,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 35
                             data_id: 35
@@ -1009,8 +1009,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 36
                             data_id: 36
@@ -1018,8 +1018,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                           -
                             id: 37
                             data_id: 37
@@ -1027,8 +1027,8 @@ paths:
                             capital: null
                             latitude: null
                             longitude: null
-                            created_at: '2023-02-08T15:10:30.000000Z'
-                            updated_at: '2023-02-08T15:10:30.000000Z'
+                            created_at: '2023-02-14T12:54:39.000000Z'
+                            updated_at: '2023-02-14T12:54:39.000000Z'
                         items:
                           type: object
                           properties:
@@ -1052,10 +1052,10 @@ paths:
                               example: null
                             created_at:
                               type: string
-                              example: '2023-02-08T15:08:55.000000Z'
+                              example: '2023-02-14T12:54:39.000000Z'
                             updated_at:
                               type: string
-                              example: '2023-02-08T15:08:55.000000Z'
+                              example: '2023-02-14T12:54:39.000000Z'
       tags:
         - 'INEC Location Data'
       security: []
@@ -1095,7 +1095,7 @@ paths:
         in: path
         name: id
         description: 'The ID of the state.'
-        example: sed
+        example: voluptatem
         required: true
         schema:
           type: string
@@ -1112,7 +1112,7 @@ paths:
             value: ''
           present:
             summary: 'When the value is present'
-            value: ullam
+            value: voluptatem
   '/api/states/{ngState}/lgas':
     get:
       summary: 'Fetch local government areas for a specified state'
@@ -1141,7 +1141,7 @@ paths:
               schema:
                 type: object
                 example:
-                  message: 'State (qui) not found'
+                  message: 'State (aut) not found'
                   exception: App\Exceptions\NgStateException
                   file: /Users/cornelius/Documents/Work/Dev/violenceTracker/app/Services/NgStateService.php
                   line: 50
@@ -1235,6 +1235,18 @@ paths:
                       line: 180
                       function: handle
                       class: Illuminate\Routing\Middleware\ThrottleRequests
+                      type: '->'
+                    -
+                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php
+                      line: 62
+                      function: 'Illuminate\Pipeline\{closure}'
+                      class: Illuminate\Pipeline\Pipeline
+                      type: '->'
+                    -
+                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
+                      line: 180
+                      function: handle
+                      class: Illuminate\Http\Middleware\HandleCors
                       type: '->'
                     -
                       file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
@@ -1539,7 +1551,7 @@ paths:
                 properties:
                   message:
                     type: string
-                    example: 'State (qui) not found'
+                    example: 'State (aut) not found'
                   exception:
                     type: string
                     example: App\Exceptions\NgStateException
@@ -1641,6 +1653,18 @@ paths:
                         line: 180
                         function: handle
                         class: Illuminate\Routing\Middleware\ThrottleRequests
+                        type: '->'
+                      -
+                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php
+                        line: 62
+                        function: 'Illuminate\Pipeline\{closure}'
+                        class: Illuminate\Pipeline\Pipeline
+                        type: '->'
+                      -
+                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
+                        line: 180
+                        function: handle
+                        class: Illuminate\Http\Middleware\HandleCors
                         type: '->'
                       -
                         file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
@@ -1977,7 +2001,7 @@ paths:
             value: ''
           present:
             summary: 'When the value is present'
-            value: qui
+            value: aut
   '/api/lgas/{ngLga}/wards':
     get:
       summary: 'Fetch wards for a specified local government area'
@@ -2006,7 +2030,7 @@ paths:
               schema:
                 type: object
                 example:
-                  message: 'Local government areas (quaerat) not found'
+                  message: 'Local government areas (consectetur) not found'
                   exception: App\Exceptions\NgLocalGovernmentException
                   file: /Users/cornelius/Documents/Work/Dev/violenceTracker/app/Services/NgLocalGovernmentService.php
                   line: 23
@@ -2100,6 +2124,18 @@ paths:
                       line: 180
                       function: handle
                       class: Illuminate\Routing\Middleware\ThrottleRequests
+                      type: '->'
+                    -
+                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php
+                      line: 62
+                      function: 'Illuminate\Pipeline\{closure}'
+                      class: Illuminate\Pipeline\Pipeline
+                      type: '->'
+                    -
+                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
+                      line: 180
+                      function: handle
+                      class: Illuminate\Http\Middleware\HandleCors
                       type: '->'
                     -
                       file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
@@ -2404,7 +2440,7 @@ paths:
                 properties:
                   message:
                     type: string
-                    example: 'Local government areas (quaerat) not found'
+                    example: 'Local government areas (consectetur) not found'
                   exception:
                     type: string
                     example: App\Exceptions\NgLocalGovernmentException
@@ -2506,6 +2542,18 @@ paths:
                         line: 180
                         function: handle
                         class: Illuminate\Routing\Middleware\ThrottleRequests
+                        type: '->'
+                      -
+                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php
+                        line: 62
+                        function: 'Illuminate\Pipeline\{closure}'
+                        class: Illuminate\Pipeline\Pipeline
+                        type: '->'
+                      -
+                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
+                        line: 180
+                        function: handle
+                        class: Illuminate\Http\Middleware\HandleCors
                         type: '->'
                       -
                         file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
@@ -2833,7 +2881,7 @@ paths:
         in: path
         name: ngLga
         description: ''
-        example: quaerat
+        example: consectetur
         required: true
         schema:
           type: string
@@ -2850,7 +2898,7 @@ paths:
             value: ''
           present:
             summary: 'When the value is present'
-            value: veniam
+            value: ut
   '/api/wards/{ngWard}/polling-units':
     get:
       summary: 'Fetch polling units for a specified ward'
@@ -2879,7 +2927,7 @@ paths:
               schema:
                 type: object
                 example:
-                  message: 'Ward (cum) not found'
+                  message: 'Ward (sit) not found'
                   exception: App\Exceptions\NgWardException
                   file: /Users/cornelius/Documents/Work/Dev/violenceTracker/app/Services/NgWardService.php
                   line: 23
@@ -2973,6 +3021,18 @@ paths:
                       line: 180
                       function: handle
                       class: Illuminate\Routing\Middleware\ThrottleRequests
+                      type: '->'
+                    -
+                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php
+                      line: 62
+                      function: 'Illuminate\Pipeline\{closure}'
+                      class: Illuminate\Pipeline\Pipeline
+                      type: '->'
+                    -
+                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
+                      line: 180
+                      function: handle
+                      class: Illuminate\Http\Middleware\HandleCors
                       type: '->'
                     -
                       file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
@@ -3277,7 +3337,7 @@ paths:
                 properties:
                   message:
                     type: string
-                    example: 'Ward (cum) not found'
+                    example: 'Ward (sit) not found'
                   exception:
                     type: string
                     example: App\Exceptions\NgWardException
@@ -3379,6 +3439,18 @@ paths:
                         line: 180
                         function: handle
                         class: Illuminate\Routing\Middleware\ThrottleRequests
+                        type: '->'
+                      -
+                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php
+                        line: 62
+                        function: 'Illuminate\Pipeline\{closure}'
+                        class: Illuminate\Pipeline\Pipeline
+                        type: '->'
+                      -
+                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
+                        line: 180
+                        function: handle
+                        class: Illuminate\Http\Middleware\HandleCors
                         type: '->'
                       -
                         file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
@@ -3706,7 +3778,7 @@ paths:
         in: path
         name: ngWard
         description: ''
-        example: cum
+        example: sit
         required: true
         schema:
           type: string
@@ -3723,7 +3795,7 @@ paths:
             value: ''
           present:
             summary: 'When the value is present'
-            value: nulla
+            value: assumenda
   /api/filter:
     get:
       summary: '[DRAFT] Return a specified Nigerian state'
@@ -3745,844 +3817,30 @@ paths:
           schema:
             type: string
       responses:
-        500:
+        200:
           description: ''
           content:
             application/json:
               schema:
                 type: object
                 example:
-                  message: 'Undefined variable $state'
-                  exception: ErrorException
-                  file: /Users/cornelius/Documents/Work/Dev/violenceTracker/app/Http/Controllers/NgStateController.php
-                  line: 106
-                  trace:
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php
-                      line: 266
-                      function: handleError
-                      class: Illuminate\Foundation\Bootstrap\HandleExceptions
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/app/Http/Controllers/NgStateController.php
-                      line: 106
-                      function: 'Illuminate\Foundation\Bootstrap\{closure}'
-                      class: Illuminate\Foundation\Bootstrap\HandleExceptions
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Controller.php
-                      line: 54
-                      function: inecFilter
-                      class: App\Http\Controllers\NgStateController
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php
-                      line: 43
-                      function: callAction
-                      class: Illuminate\Routing\Controller
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Route.php
-                      line: 259
-                      function: dispatch
-                      class: Illuminate\Routing\ControllerDispatcher
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Route.php
-                      line: 205
-                      function: runController
-                      class: Illuminate\Routing\Route
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php
-                      line: 798
-                      function: run
-                      class: Illuminate\Routing\Route
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                      line: 141
-                      function: 'Illuminate\Routing\{closure}'
-                      class: Illuminate\Routing\Router
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/app/Http/Middleware/JsonResponse.php
-                      line: 21
-                      function: 'Illuminate\Pipeline\{closure}'
-                      class: Illuminate\Pipeline\Pipeline
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                      line: 180
-                      function: handle
-                      class: App\Http\Middleware\JsonResponse
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php
-                      line: 50
-                      function: 'Illuminate\Pipeline\{closure}'
-                      class: Illuminate\Pipeline\Pipeline
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                      line: 180
-                      function: handle
-                      class: Illuminate\Routing\Middleware\SubstituteBindings
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php
-                      line: 126
-                      function: 'Illuminate\Pipeline\{closure}'
-                      class: Illuminate\Pipeline\Pipeline
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php
-                      line: 92
-                      function: handleRequest
-                      class: Illuminate\Routing\Middleware\ThrottleRequests
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php
-                      line: 54
-                      function: handleRequestUsingNamedLimiter
-                      class: Illuminate\Routing\Middleware\ThrottleRequests
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                      line: 180
-                      function: handle
-                      class: Illuminate\Routing\Middleware\ThrottleRequests
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                      line: 116
-                      function: 'Illuminate\Pipeline\{closure}'
-                      class: Illuminate\Pipeline\Pipeline
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php
-                      line: 797
-                      function: then
-                      class: Illuminate\Pipeline\Pipeline
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php
-                      line: 776
-                      function: runRouteWithinStack
-                      class: Illuminate\Routing\Router
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php
-                      line: 740
-                      function: runRoute
-                      class: Illuminate\Routing\Router
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php
-                      line: 729
-                      function: dispatchToRoute
-                      class: Illuminate\Routing\Router
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php
-                      line: 190
-                      function: dispatch
-                      class: Illuminate\Routing\Router
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                      line: 141
-                      function: 'Illuminate\Foundation\Http\{closure}'
-                      class: Illuminate\Foundation\Http\Kernel
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php
-                      line: 21
-                      function: 'Illuminate\Pipeline\{closure}'
-                      class: Illuminate\Pipeline\Pipeline
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php
-                      line: 31
-                      function: handle
-                      class: Illuminate\Foundation\Http\Middleware\TransformsRequest
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                      line: 180
-                      function: handle
-                      class: Illuminate\Foundation\Http\Middleware\ConvertEmptyStringsToNull
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php
-                      line: 21
-                      function: 'Illuminate\Pipeline\{closure}'
-                      class: Illuminate\Pipeline\Pipeline
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php
-                      line: 40
-                      function: handle
-                      class: Illuminate\Foundation\Http\Middleware\TransformsRequest
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                      line: 180
-                      function: handle
-                      class: Illuminate\Foundation\Http\Middleware\TrimStrings
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php
-                      line: 27
-                      function: 'Illuminate\Pipeline\{closure}'
-                      class: Illuminate\Pipeline\Pipeline
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                      line: 180
-                      function: handle
-                      class: Illuminate\Foundation\Http\Middleware\ValidatePostSize
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php
-                      line: 86
-                      function: 'Illuminate\Pipeline\{closure}'
-                      class: Illuminate\Pipeline\Pipeline
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                      line: 180
-                      function: handle
-                      class: Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php
-                      line: 62
-                      function: 'Illuminate\Pipeline\{closure}'
-                      class: Illuminate\Pipeline\Pipeline
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                      line: 180
-                      function: handle
-                      class: Illuminate\Http\Middleware\HandleCors
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Http/Middleware/TrustProxies.php
-                      line: 39
-                      function: 'Illuminate\Pipeline\{closure}'
-                      class: Illuminate\Pipeline\Pipeline
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                      line: 180
-                      function: handle
-                      class: Illuminate\Http\Middleware\TrustProxies
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                      line: 116
-                      function: 'Illuminate\Pipeline\{closure}'
-                      class: Illuminate\Pipeline\Pipeline
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php
-                      line: 165
-                      function: then
-                      class: Illuminate\Pipeline\Pipeline
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php
-                      line: 134
-                      function: sendRequestThroughRouter
-                      class: Illuminate\Foundation\Http\Kernel
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Strategies/Responses/ResponseCalls.php
-                      line: 299
-                      function: handle
-                      class: Illuminate\Foundation\Http\Kernel
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Strategies/Responses/ResponseCalls.php
-                      line: 287
-                      function: callLaravelOrLumenRoute
-                      class: Knuckles\Scribe\Extracting\Strategies\Responses\ResponseCalls
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Strategies/Responses/ResponseCalls.php
-                      line: 92
-                      function: makeApiCall
-                      class: Knuckles\Scribe\Extracting\Strategies\Responses\ResponseCalls
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Strategies/Responses/ResponseCalls.php
-                      line: 45
-                      function: makeResponseCall
-                      class: Knuckles\Scribe\Extracting\Strategies\Responses\ResponseCalls
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Strategies/Responses/ResponseCalls.php
-                      line: 35
-                      function: makeResponseCallIfConditionsPass
-                      class: Knuckles\Scribe\Extracting\Strategies\Responses\ResponseCalls
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Extractor.php
-                      line: 209
-                      function: __invoke
-                      class: Knuckles\Scribe\Extracting\Strategies\Responses\ResponseCalls
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Extractor.php
-                      line: 163
-                      function: iterateThroughStrategies
-                      class: Knuckles\Scribe\Extracting\Extractor
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Extractor.php
-                      line: 95
-                      function: fetchResponses
-                      class: Knuckles\Scribe\Extracting\Extractor
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/GroupedEndpoints/GroupedEndpointsFromApp.php
-                      line: 122
-                      function: processRoute
-                      class: Knuckles\Scribe\Extracting\Extractor
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/GroupedEndpoints/GroupedEndpointsFromApp.php
-                      line: 69
-                      function: extractEndpointsInfoFromLaravelApp
-                      class: Knuckles\Scribe\GroupedEndpoints\GroupedEndpointsFromApp
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/GroupedEndpoints/GroupedEndpointsFromApp.php
-                      line: 47
-                      function: extractEndpointsInfoAndWriteToDisk
-                      class: Knuckles\Scribe\GroupedEndpoints\GroupedEndpointsFromApp
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Commands/GenerateDocumentation.php
-                      line: 51
-                      function: get
-                      class: Knuckles\Scribe\GroupedEndpoints\GroupedEndpointsFromApp
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php
-                      line: 36
-                      function: handle
-                      class: Knuckles\Scribe\Commands\GenerateDocumentation
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/Util.php
-                      line: 41
-                      function: 'Illuminate\Container\{closure}'
-                      class: Illuminate\Container\BoundMethod
-                      type: '::'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php
-                      line: 93
-                      function: unwrapIfClosure
-                      class: Illuminate\Container\Util
-                      type: '::'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php
-                      line: 35
-                      function: callBoundMethod
-                      class: Illuminate\Container\BoundMethod
-                      type: '::'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/Container.php
-                      line: 651
-                      function: call
-                      class: Illuminate\Container\BoundMethod
-                      type: '::'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Console/Command.php
-                      line: 182
-                      function: call
-                      class: Illuminate\Container\Container
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/symfony/console/Command/Command.php
-                      line: 291
-                      function: execute
-                      class: Illuminate\Console\Command
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Console/Command.php
-                      line: 151
-                      function: run
-                      class: Symfony\Component\Console\Command\Command
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/symfony/console/Application.php
-                      line: 1014
-                      function: run
-                      class: Illuminate\Console\Command
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/symfony/console/Application.php
-                      line: 301
-                      function: doRunCommand
-                      class: Symfony\Component\Console\Application
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/symfony/console/Application.php
-                      line: 171
-                      function: doRun
-                      class: Symfony\Component\Console\Application
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Console/Application.php
-                      line: 102
-                      function: run
-                      class: Symfony\Component\Console\Application
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php
-                      line: 155
-                      function: run
-                      class: Illuminate\Console\Application
-                      type: '->'
-                    -
-                      file: /Users/cornelius/Documents/Work/Dev/violenceTracker/artisan
-                      line: 35
-                      function: handle
-                      class: Illuminate\Foundation\Console\Kernel
-                      type: '->'
+                  status: success
+                  data:
+                    data:
+                      state: null
                 properties:
-                  message:
+                  status:
                     type: string
-                    example: 'Undefined variable $state'
-                  exception:
-                    type: string
-                    example: ErrorException
-                  file:
-                    type: string
-                    example: /Users/cornelius/Documents/Work/Dev/violenceTracker/app/Http/Controllers/NgStateController.php
-                  line:
-                    type: integer
-                    example: 106
-                  trace:
-                    type: array
-                    example:
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php
-                        line: 266
-                        function: handleError
-                        class: Illuminate\Foundation\Bootstrap\HandleExceptions
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/app/Http/Controllers/NgStateController.php
-                        line: 106
-                        function: 'Illuminate\Foundation\Bootstrap\{closure}'
-                        class: Illuminate\Foundation\Bootstrap\HandleExceptions
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Controller.php
-                        line: 54
-                        function: inecFilter
-                        class: App\Http\Controllers\NgStateController
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php
-                        line: 43
-                        function: callAction
-                        class: Illuminate\Routing\Controller
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Route.php
-                        line: 259
-                        function: dispatch
-                        class: Illuminate\Routing\ControllerDispatcher
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Route.php
-                        line: 205
-                        function: runController
-                        class: Illuminate\Routing\Route
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php
-                        line: 798
-                        function: run
-                        class: Illuminate\Routing\Route
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                        line: 141
-                        function: 'Illuminate\Routing\{closure}'
-                        class: Illuminate\Routing\Router
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/app/Http/Middleware/JsonResponse.php
-                        line: 21
-                        function: 'Illuminate\Pipeline\{closure}'
-                        class: Illuminate\Pipeline\Pipeline
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                        line: 180
-                        function: handle
-                        class: App\Http\Middleware\JsonResponse
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php
-                        line: 50
-                        function: 'Illuminate\Pipeline\{closure}'
-                        class: Illuminate\Pipeline\Pipeline
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                        line: 180
-                        function: handle
-                        class: Illuminate\Routing\Middleware\SubstituteBindings
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php
-                        line: 126
-                        function: 'Illuminate\Pipeline\{closure}'
-                        class: Illuminate\Pipeline\Pipeline
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php
-                        line: 92
-                        function: handleRequest
-                        class: Illuminate\Routing\Middleware\ThrottleRequests
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php
-                        line: 54
-                        function: handleRequestUsingNamedLimiter
-                        class: Illuminate\Routing\Middleware\ThrottleRequests
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                        line: 180
-                        function: handle
-                        class: Illuminate\Routing\Middleware\ThrottleRequests
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                        line: 116
-                        function: 'Illuminate\Pipeline\{closure}'
-                        class: Illuminate\Pipeline\Pipeline
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php
-                        line: 797
-                        function: then
-                        class: Illuminate\Pipeline\Pipeline
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php
-                        line: 776
-                        function: runRouteWithinStack
-                        class: Illuminate\Routing\Router
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php
-                        line: 740
-                        function: runRoute
-                        class: Illuminate\Routing\Router
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php
-                        line: 729
-                        function: dispatchToRoute
-                        class: Illuminate\Routing\Router
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php
-                        line: 190
-                        function: dispatch
-                        class: Illuminate\Routing\Router
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                        line: 141
-                        function: 'Illuminate\Foundation\Http\{closure}'
-                        class: Illuminate\Foundation\Http\Kernel
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php
-                        line: 21
-                        function: 'Illuminate\Pipeline\{closure}'
-                        class: Illuminate\Pipeline\Pipeline
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php
-                        line: 31
-                        function: handle
-                        class: Illuminate\Foundation\Http\Middleware\TransformsRequest
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                        line: 180
-                        function: handle
-                        class: Illuminate\Foundation\Http\Middleware\ConvertEmptyStringsToNull
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php
-                        line: 21
-                        function: 'Illuminate\Pipeline\{closure}'
-                        class: Illuminate\Pipeline\Pipeline
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php
-                        line: 40
-                        function: handle
-                        class: Illuminate\Foundation\Http\Middleware\TransformsRequest
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                        line: 180
-                        function: handle
-                        class: Illuminate\Foundation\Http\Middleware\TrimStrings
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php
-                        line: 27
-                        function: 'Illuminate\Pipeline\{closure}'
-                        class: Illuminate\Pipeline\Pipeline
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                        line: 180
-                        function: handle
-                        class: Illuminate\Foundation\Http\Middleware\ValidatePostSize
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php
-                        line: 86
-                        function: 'Illuminate\Pipeline\{closure}'
-                        class: Illuminate\Pipeline\Pipeline
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                        line: 180
-                        function: handle
-                        class: Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php
-                        line: 62
-                        function: 'Illuminate\Pipeline\{closure}'
-                        class: Illuminate\Pipeline\Pipeline
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                        line: 180
-                        function: handle
-                        class: Illuminate\Http\Middleware\HandleCors
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Http/Middleware/TrustProxies.php
-                        line: 39
-                        function: 'Illuminate\Pipeline\{closure}'
-                        class: Illuminate\Pipeline\Pipeline
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                        line: 180
-                        function: handle
-                        class: Illuminate\Http\Middleware\TrustProxies
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php
-                        line: 116
-                        function: 'Illuminate\Pipeline\{closure}'
-                        class: Illuminate\Pipeline\Pipeline
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php
-                        line: 165
-                        function: then
-                        class: Illuminate\Pipeline\Pipeline
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php
-                        line: 134
-                        function: sendRequestThroughRouter
-                        class: Illuminate\Foundation\Http\Kernel
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Strategies/Responses/ResponseCalls.php
-                        line: 299
-                        function: handle
-                        class: Illuminate\Foundation\Http\Kernel
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Strategies/Responses/ResponseCalls.php
-                        line: 287
-                        function: callLaravelOrLumenRoute
-                        class: Knuckles\Scribe\Extracting\Strategies\Responses\ResponseCalls
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Strategies/Responses/ResponseCalls.php
-                        line: 92
-                        function: makeApiCall
-                        class: Knuckles\Scribe\Extracting\Strategies\Responses\ResponseCalls
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Strategies/Responses/ResponseCalls.php
-                        line: 45
-                        function: makeResponseCall
-                        class: Knuckles\Scribe\Extracting\Strategies\Responses\ResponseCalls
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Strategies/Responses/ResponseCalls.php
-                        line: 35
-                        function: makeResponseCallIfConditionsPass
-                        class: Knuckles\Scribe\Extracting\Strategies\Responses\ResponseCalls
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Extractor.php
-                        line: 209
-                        function: __invoke
-                        class: Knuckles\Scribe\Extracting\Strategies\Responses\ResponseCalls
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Extractor.php
-                        line: 163
-                        function: iterateThroughStrategies
-                        class: Knuckles\Scribe\Extracting\Extractor
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Extractor.php
-                        line: 95
-                        function: fetchResponses
-                        class: Knuckles\Scribe\Extracting\Extractor
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/GroupedEndpoints/GroupedEndpointsFromApp.php
-                        line: 122
-                        function: processRoute
-                        class: Knuckles\Scribe\Extracting\Extractor
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/GroupedEndpoints/GroupedEndpointsFromApp.php
-                        line: 69
-                        function: extractEndpointsInfoFromLaravelApp
-                        class: Knuckles\Scribe\GroupedEndpoints\GroupedEndpointsFromApp
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/GroupedEndpoints/GroupedEndpointsFromApp.php
-                        line: 47
-                        function: extractEndpointsInfoAndWriteToDisk
-                        class: Knuckles\Scribe\GroupedEndpoints\GroupedEndpointsFromApp
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Commands/GenerateDocumentation.php
-                        line: 51
-                        function: get
-                        class: Knuckles\Scribe\GroupedEndpoints\GroupedEndpointsFromApp
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php
-                        line: 36
-                        function: handle
-                        class: Knuckles\Scribe\Commands\GenerateDocumentation
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/Util.php
-                        line: 41
-                        function: 'Illuminate\Container\{closure}'
-                        class: Illuminate\Container\BoundMethod
-                        type: '::'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php
-                        line: 93
-                        function: unwrapIfClosure
-                        class: Illuminate\Container\Util
-                        type: '::'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php
-                        line: 35
-                        function: callBoundMethod
-                        class: Illuminate\Container\BoundMethod
-                        type: '::'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/Container.php
-                        line: 651
-                        function: call
-                        class: Illuminate\Container\BoundMethod
-                        type: '::'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Console/Command.php
-                        line: 182
-                        function: call
-                        class: Illuminate\Container\Container
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/symfony/console/Command/Command.php
-                        line: 291
-                        function: execute
-                        class: Illuminate\Console\Command
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Console/Command.php
-                        line: 151
-                        function: run
-                        class: Symfony\Component\Console\Command\Command
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/symfony/console/Application.php
-                        line: 1014
-                        function: run
-                        class: Illuminate\Console\Command
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/symfony/console/Application.php
-                        line: 301
-                        function: doRunCommand
-                        class: Symfony\Component\Console\Application
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/symfony/console/Application.php
-                        line: 171
-                        function: doRun
-                        class: Symfony\Component\Console\Application
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Console/Application.php
-                        line: 102
-                        function: run
-                        class: Symfony\Component\Console\Application
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php
-                        line: 155
-                        function: run
-                        class: Illuminate\Console\Application
-                        type: '->'
-                      -
-                        file: /Users/cornelius/Documents/Work/Dev/violenceTracker/artisan
-                        line: 35
-                        function: handle
-                        class: Illuminate\Foundation\Console\Kernel
-                        type: '->'
-                    items:
-                      type: object
-                      properties:
-                        file:
-                          type: string
-                          example: /Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php
-                        line:
-                          type: integer
-                          example: 266
-                        function:
-                          type: string
-                          example: handleError
-                        class:
-                          type: string
-                          example: Illuminate\Foundation\Bootstrap\HandleExceptions
-                        type:
-                          type: string
-                          example: '->'
+                    example: success
+                  data:
+                    type: object
+                    properties:
+                      data:
+                        type: object
+                        properties:
+                          state:
+                            type: string
+                            example: null
       tags:
         - 'INEC Location Data'
       requestBody:
@@ -4636,62 +3894,62 @@ paths:
                         id: 1
                         name: 'attempted murder'
                         note: null
-                        created_at: '2023-02-08T15:04:48.000000Z'
-                        updated_at: '2023-02-08T15:04:48.000000Z'
+                        created_at: '2023-02-14T15:33:28.000000Z'
+                        updated_at: '2023-02-14T15:33:28.000000Z'
                       -
                         id: 2
                         name: 'gun shots'
                         note: null
-                        created_at: '2023-02-08T15:04:48.000000Z'
-                        updated_at: '2023-02-08T15:04:48.000000Z'
+                        created_at: '2023-02-14T15:33:28.000000Z'
+                        updated_at: '2023-02-14T15:33:28.000000Z'
                       -
                         id: 3
                         name: murder
                         note: null
-                        created_at: '2023-02-08T15:04:48.000000Z'
-                        updated_at: '2023-02-08T15:04:48.000000Z'
+                        created_at: '2023-02-14T15:33:28.000000Z'
+                        updated_at: '2023-02-14T15:33:28.000000Z'
                       -
                         id: 4
                         name: intimidation
                         note: null
-                        created_at: '2023-02-08T15:04:48.000000Z'
-                        updated_at: '2023-02-08T15:04:48.000000Z'
+                        created_at: '2023-02-14T15:33:28.000000Z'
+                        updated_at: '2023-02-14T15:33:28.000000Z'
                       -
                         id: 5
                         name: 'physical harm'
                         note: null
-                        created_at: '2023-02-08T15:04:48.000000Z'
-                        updated_at: '2023-02-08T15:04:48.000000Z'
+                        created_at: '2023-02-14T15:33:28.000000Z'
+                        updated_at: '2023-02-14T15:33:28.000000Z'
                       -
                         id: 6
                         name: 'ballot box snatching'
                         note: null
-                        created_at: '2023-02-08T15:04:48.000000Z'
-                        updated_at: '2023-02-08T15:04:48.000000Z'
+                        created_at: '2023-02-14T15:33:28.000000Z'
+                        updated_at: '2023-02-14T15:33:28.000000Z'
                       -
                         id: 7
                         name: 'physical threat'
                         note: null
-                        created_at: '2023-02-08T15:04:48.000000Z'
-                        updated_at: '2023-02-08T15:04:48.000000Z'
+                        created_at: '2023-02-14T15:33:28.000000Z'
+                        updated_at: '2023-02-14T15:33:28.000000Z'
                       -
                         id: 8
                         name: 'group clash'
                         note: null
-                        created_at: '2023-02-08T15:04:48.000000Z'
-                        updated_at: '2023-02-08T15:04:48.000000Z'
+                        created_at: '2023-02-14T15:33:28.000000Z'
+                        updated_at: '2023-02-14T15:33:28.000000Z'
                       -
                         id: 9
                         name: 'sexual violence'
                         note: null
-                        created_at: '2023-02-08T15:04:48.000000Z'
-                        updated_at: '2023-02-08T15:04:48.000000Z'
+                        created_at: '2023-02-14T15:33:28.000000Z'
+                        updated_at: '2023-02-14T15:33:28.000000Z'
                       -
                         id: 10
                         name: other
                         note: null
-                        created_at: '2023-02-08T15:04:48.000000Z'
-                        updated_at: '2023-02-08T15:04:48.000000Z'
+                        created_at: '2023-02-14T15:33:28.000000Z'
+                        updated_at: '2023-02-14T15:33:28.000000Z'
                 properties:
                   status:
                     type: string
@@ -4706,62 +3964,62 @@ paths:
                             id: 1
                             name: 'attempted murder'
                             note: null
-                            created_at: '2023-02-08T15:04:48.000000Z'
-                            updated_at: '2023-02-08T15:04:48.000000Z'
+                            created_at: '2023-02-14T15:33:28.000000Z'
+                            updated_at: '2023-02-14T15:33:28.000000Z'
                           -
                             id: 2
                             name: 'gun shots'
                             note: null
-                            created_at: '2023-02-08T15:04:48.000000Z'
-                            updated_at: '2023-02-08T15:04:48.000000Z'
+                            created_at: '2023-02-14T15:33:28.000000Z'
+                            updated_at: '2023-02-14T15:33:28.000000Z'
                           -
                             id: 3
                             name: murder
                             note: null
-                            created_at: '2023-02-08T15:04:48.000000Z'
-                            updated_at: '2023-02-08T15:04:48.000000Z'
+                            created_at: '2023-02-14T15:33:28.000000Z'
+                            updated_at: '2023-02-14T15:33:28.000000Z'
                           -
                             id: 4
                             name: intimidation
                             note: null
-                            created_at: '2023-02-08T15:04:48.000000Z'
-                            updated_at: '2023-02-08T15:04:48.000000Z'
+                            created_at: '2023-02-14T15:33:28.000000Z'
+                            updated_at: '2023-02-14T15:33:28.000000Z'
                           -
                             id: 5
                             name: 'physical harm'
                             note: null
-                            created_at: '2023-02-08T15:04:48.000000Z'
-                            updated_at: '2023-02-08T15:04:48.000000Z'
+                            created_at: '2023-02-14T15:33:28.000000Z'
+                            updated_at: '2023-02-14T15:33:28.000000Z'
                           -
                             id: 6
                             name: 'ballot box snatching'
                             note: null
-                            created_at: '2023-02-08T15:04:48.000000Z'
-                            updated_at: '2023-02-08T15:04:48.000000Z'
+                            created_at: '2023-02-14T15:33:28.000000Z'
+                            updated_at: '2023-02-14T15:33:28.000000Z'
                           -
                             id: 7
                             name: 'physical threat'
                             note: null
-                            created_at: '2023-02-08T15:04:48.000000Z'
-                            updated_at: '2023-02-08T15:04:48.000000Z'
+                            created_at: '2023-02-14T15:33:28.000000Z'
+                            updated_at: '2023-02-14T15:33:28.000000Z'
                           -
                             id: 8
                             name: 'group clash'
                             note: null
-                            created_at: '2023-02-08T15:04:48.000000Z'
-                            updated_at: '2023-02-08T15:04:48.000000Z'
+                            created_at: '2023-02-14T15:33:28.000000Z'
+                            updated_at: '2023-02-14T15:33:28.000000Z'
                           -
                             id: 9
                             name: 'sexual violence'
                             note: null
-                            created_at: '2023-02-08T15:04:48.000000Z'
-                            updated_at: '2023-02-08T15:04:48.000000Z'
+                            created_at: '2023-02-14T15:33:28.000000Z'
+                            updated_at: '2023-02-14T15:33:28.000000Z'
                           -
                             id: 10
                             name: other
                             note: null
-                            created_at: '2023-02-08T15:04:48.000000Z'
-                            updated_at: '2023-02-08T15:04:48.000000Z'
+                            created_at: '2023-02-14T15:33:28.000000Z'
+                            updated_at: '2023-02-14T15:33:28.000000Z'
                         items:
                           type: object
                           properties:
@@ -4776,10 +4034,10 @@ paths:
                               example: null
                             created_at:
                               type: string
-                              example: '2023-02-08T15:04:48.000000Z'
+                              example: '2023-02-14T15:33:28.000000Z'
                             updated_at:
                               type: string
-                              example: '2023-02-08T15:04:48.000000Z'
+                              example: '2023-02-14T15:33:28.000000Z'
       tags:
         - 'Violence Reports'
       security: []
@@ -4813,38 +4071,51 @@ paths:
                 example:
                   status: success
                   data:
-                    state_results:
-                      -
+                    -
+                      state_results:
+                        data: []
                         meta_data:
                           violence_reports:
                             count: 0
                           local_governments:
-                            count: 0
+                            data: []
+                            count_unique: 0
+                            count_reports: []
                           types:
-                            types: []
-                            count: 0
-                    local_government_results:
-                      -
+                            data: []
+                            count_unique: 0
+                            count_reports: []
+                    -
+                      local_government_results:
+                        data: []
                         meta_data:
                           violence_reports:
                             count: 0
                           local_governments:
-                            count: 0
+                            data: []
+                            count_unique: 0
+                            count_reports: []
                           types:
-                            types: []
-                            count: 0
-                    ward_results:
-                      -
+                            data: []
+                            count_unique: 0
+                            count_reports: []
+                    -
+                      ward_results:
+                        data: []
                         meta_data:
                           violence_reports:
                             count: 0
                           local_governments:
-                            count: 0
+                            data: []
+                            count_unique: 0
+                            count_reports: []
                           types:
-                            types: []
-                            count: 0
-                    polling_unit_results:
-                      -
+                            data: []
+                            count_unique: 0
+                            count_reports: []
+                    -
+                      polling_unit_results:
+                        data: []
                         meta_data:
                           violence_reports:
                             count: 0
@@ -4860,23 +4131,72 @@ paths:
                     type: string
                     example: success
                   data:
-                    type: object
-                    properties:
-                      state_results:
-                        type: array
-                        example:
-                          -
-                            meta_data:
-                              violence_reports:
-                                count: 0
-                              local_governments:
-                                count: 0
-                              types:
-                                types: []
-                                count: 0
-                        items:
+                    type: array
+                    example:
+                      -
+                        state_results:
+                          data: []
+                          meta_data:
+                            violence_reports:
+                              count: 0
+                            local_governments:
+                              data: []
+                              count_unique: 0
+                              count_reports: []
+                            types:
+                              data: []
+                              count_unique: 0
+                              count_reports: []
+                      -
+                        local_government_results:
+                          data: []
+                          meta_data:
+                            violence_reports:
+                              count: 0
+                            local_governments:
+                              data: []
+                              count_unique: 0
+                              count_reports: []
+                            types:
+                              data: []
+                              count_unique: 0
+                              count_reports: []
+                      -
+                        ward_results:
+                          data: []
+                          meta_data:
+                            violence_reports:
+                              count: 0
+                            local_governments:
+                              data: []
+                              count_unique: 0
+                              count_reports: []
+                            types:
+                              data: []
+                              count_unique: 0
+                              count_reports: []
+                      -
+                        polling_unit_results:
+                          data: []
+                          meta_data:
+                            violence_reports:
+                              count: 0
+                            polling_units:
+                              count: 0
+                            local_governments:
+                              count: 0
+                            types:
+                              types: []
+                              count: 0
+                    items:
+                      type: object
+                      properties:
+                        state_results:
                           type: object
                           properties:
+                            data:
+                              type: array
+                              example: []
                             meta_data:
                               type: object
                               properties:
@@ -4889,143 +4209,27 @@ paths:
                                 local_governments:
                                   type: object
                                   properties:
-                                    count:
+                                    data:
+                                      type: array
+                                      example: []
+                                    count_unique:
                                       type: integer
                                       example: 0
+                                    count_reports:
+                                      type: array
+                                      example: []
                                 types:
                                   type: object
                                   properties:
-                                    types:
+                                    data:
                                       type: array
                                       example: []
-                                    count:
+                                    count_unique:
                                       type: integer
                                       example: 0
-                      local_government_results:
-                        type: array
-                        example:
-                          -
-                            meta_data:
-                              violence_reports:
-                                count: 0
-                              local_governments:
-                                count: 0
-                              types:
-                                types: []
-                                count: 0
-                        items:
-                          type: object
-                          properties:
-                            meta_data:
-                              type: object
-                              properties:
-                                violence_reports:
-                                  type: object
-                                  properties:
-                                    count:
-                                      type: integer
-                                      example: 0
-                                local_governments:
-                                  type: object
-                                  properties:
-                                    count:
-                                      type: integer
-                                      example: 0
-                                types:
-                                  type: object
-                                  properties:
-                                    types:
+                                    count_reports:
                                       type: array
                                       example: []
-                                    count:
-                                      type: integer
-                                      example: 0
-                      ward_results:
-                        type: array
-                        example:
-                          -
-                            meta_data:
-                              violence_reports:
-                                count: 0
-                              local_governments:
-                                count: 0
-                              types:
-                                types: []
-                                count: 0
-                        items:
-                          type: object
-                          properties:
-                            meta_data:
-                              type: object
-                              properties:
-                                violence_reports:
-                                  type: object
-                                  properties:
-                                    count:
-                                      type: integer
-                                      example: 0
-                                local_governments:
-                                  type: object
-                                  properties:
-                                    count:
-                                      type: integer
-                                      example: 0
-                                types:
-                                  type: object
-                                  properties:
-                                    types:
-                                      type: array
-                                      example: []
-                                    count:
-                                      type: integer
-                                      example: 0
-                      polling_unit_results:
-                        type: array
-                        example:
-                          -
-                            meta_data:
-                              violence_reports:
-                                count: 0
-                              polling_units:
-                                count: 0
-                              local_governments:
-                                count: 0
-                              types:
-                                types: []
-                                count: 0
-                        items:
-                          type: object
-                          properties:
-                            meta_data:
-                              type: object
-                              properties:
-                                violence_reports:
-                                  type: object
-                                  properties:
-                                    count:
-                                      type: integer
-                                      example: 0
-                                polling_units:
-                                  type: object
-                                  properties:
-                                    count:
-                                      type: integer
-                                      example: 0
-                                local_governments:
-                                  type: object
-                                  properties:
-                                    count:
-                                      type: integer
-                                      example: 0
-                                types:
-                                  type: object
-                                  properties:
-                                    types:
-                                      type: array
-                                      example: []
-                                    count:
-                                      type: integer
-                                      example: 0
       tags:
         - 'Violence Reports'
       requestBody:
@@ -5037,16 +4241,16 @@ paths:
               properties:
                 q:
                   type: string
-                  description: ''
-                  example: facere
+                  description: 'The search location search term. Should match state, local government area, ward or polling unit.'
+                  example: illum
                 start:
                   type: string
                   description: 'Must be a valid date in the format <code>Y-m-d</code>.'
-                  example: '2023-02-11'
+                  example: '2023-02-14'
                 end:
                   type: string
                   description: 'Must be a valid date in the format <code>Y-m-d</code>.'
-                  example: '2023-02-11'
+                  example: '2023-02-14'
               required:
                 - q
       security: []
@@ -5060,12 +4264,12 @@ paths:
           in: query
           name: limit
           description: 'an integer'
-          example: doloremque
+          example: officia
           required: false
           schema:
             type: string
             description: 'an integer'
-            example: doloremque
+            example: officia
         -
           in: header
           name: Content-Type
@@ -5094,55 +4298,239 @@ paths:
                       current_page: 1
                       data:
                         -
-                          id: 22
+                          id: 5
                           ng_state_id: null
                           ng_local_government_id: null
-                          ng_polling_unit_id: 45800
-                          type_id: 9
+                          ng_polling_unit_id: 113931
+                          type_id: 5
                           title: null
-                          description: 'Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem? Fuga tempora ipsam modi, quia vel quaerat temporibus exercitationem atque quidem, aperiam incidunt.'
-                          file: null
+                          description: 'Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem?'
+                          file: 'https://violencetracker.s3.eu-west-2.amazonaws.com/report-files-02-2023/jMMxfHWz6L5eI7lqFsVA4wYIYZQeZ5FH3ps5S1gD.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATXQGPPLHPP3WNA4G%2F20230214%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T164621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=92df312abe6dbffe45dcc1325040c2f3518fd16b6def04aca4c9e556365ab7f0'
                           ip_address: 127.0.0.1
                           user_agent: PostmanRuntime/7.30.1
                           longitude: null
                           latitude: null
-                          created_at: '2023-02-11T19:36:46.000000Z'
-                          updated_at: '2023-02-11T19:36:46.000000Z'
+                          created_at: '2023-02-14T15:36:43.000000Z'
+                          updated_at: '2023-02-14T15:36:43.000000Z'
                           deleted_at: null
                           polling_unit:
-                            id: 45800
-                            data_id: 45800
-                            name: 'OBEAGU ABOFIA HALL'
-                            registration_area_id: 2473
+                            id: 250
+                            data_id: 113931
+                            name: 'MATHEW OJO STREET,IKOTUN'
+                            registration_area_id: 5872
                             precise_location: null
-                            abbreviation: '001'
-                            units: '001'
-                            delimitation: 11/04/02/001
-                            remark: 'EXISTING PU'
-                            ward_id: 2473
-                            created_at: '2023-02-09T07:08:08.000000Z'
-                            updated_at: '2023-02-09T07:08:08.000000Z'
+                            abbreviation: '250'
+                            units: '250'
+                            delimitation: 24/03/04/250
+                            remark: 'NEW PU'
+                            ward_id: 5872
+                            created_at: '2023-02-14T13:47:47.000000Z'
+                            updated_at: '2023-02-14T13:47:47.000000Z'
                             location:
-                              id: 45800
-                              ng_polling_unit_id: 45800
-                              latitude: '6.3281443'
-                              longitude: '8.1041807'
-                              viewport: '{"northeast":{"lat":6.329588579892722,"lng":8.105531079892723},"southwest":{"lat":6.326888920107278,"lng":8.102831420107279}}'
-                              formatted_address: '1 Onwe Rd, Ntezi Abba 480108, Abakaliki, Nigeria'
-                              google_map_url: 'https://maps.google.com?q=6.3281443,8.104180699999999'
-                              google_place_id: ChIJUf_5LWmgXBARKBfJ1BxFVp8
-                              created_at: '2023-02-09T07:08:08.000000Z'
-                              updated_at: '2023-02-09T07:08:08.000000Z'
+                              id: 250
+                              ng_polling_unit_id: 113931
+                              latitude: '6.5610665'
+                              longitude: '3.2590697'
+                              viewport: '{"northeast":{"lat":6.562416329892721,"lng":3.260419529892722},"southwest":{"lat":6.559716670107277,"lng":3.257719870107278}}'
+                              formatted_address: 'Matthew Ojo St, Ikotun 102213, Lagos, Nigeria'
+                              google_map_url: 'https://maps.google.com?q=6.5610665,3.2590697'
+                              google_place_id: ChIJ5Y402viPOxAR_JISDek5hmw
+                              created_at: '2023-02-14T13:47:47.000000Z'
+                              updated_at: '2023-02-14T13:47:47.000000Z'
+                          type:
+                            id: 5
+                            name: 'physical harm'
+                            note: null
+                            created_at: '2023-02-14T15:33:28.000000Z'
+                            updated_at: '2023-02-14T15:33:28.000000Z'
+                        -
+                          id: 4
+                          ng_state_id: null
+                          ng_local_government_id: null
+                          ng_polling_unit_id: 113962
+                          type_id: 3
+                          title: null
+                          description: 'Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem?'
+                          file: 'https://violencetracker.s3.eu-west-2.amazonaws.com/report-files-02-2023/5vBCzxmiaADaoG3dcfiGiqyey65NRtV83z4Q5CDU.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATXQGPPLHPP3WNA4G%2F20230214%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T164621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=9e87cefdbb54c6d6b907985d29f3df0c83443f982732880246544dcf6dede4cb'
+                          ip_address: 127.0.0.1
+                          user_agent: PostmanRuntime/7.30.1
+                          longitude: null
+                          latitude: null
+                          created_at: '2023-02-14T15:36:17.000000Z'
+                          updated_at: '2023-02-14T15:36:23.000000Z'
+                          deleted_at: null
+                          polling_unit:
+                            id: 281
+                            data_id: 113962
+                            name: 'INSIDE LOCAL GOVT. PRY. SCHOOL, IJEGUN'
+                            registration_area_id: 5872
+                            precise_location: null
+                            abbreviation: '281'
+                            units: '281'
+                            delimitation: 24/03/04/281
+                            remark: 'NEW PU'
+                            ward_id: 5872
+                            created_at: '2023-02-14T13:47:47.000000Z'
+                            updated_at: '2023-02-14T13:47:47.000000Z'
+                            location:
+                              id: 281
+                              ng_polling_unit_id: 113962
+                              latitude: '6.5505645'
+                              longitude: '3.2474049'
+                              viewport: '{"northeast":{"lat":6.552076779892722,"lng":3.248619329892722},"southwest":{"lat":6.549377120107279,"lng":3.245919670107277}}'
+                              formatted_address: 'By Church Bus Stop, Ikotun - Igando Road, Igando 102213, Lagos, Nigeria'
+                              google_map_url: 'https://maps.google.com?q=6.5505645,3.2474049'
+                              google_place_id: ChIJCyUHakOFOxARL0_40R2qYbs
+                              created_at: '2023-02-14T13:47:47.000000Z'
+                              updated_at: '2023-02-14T13:47:47.000000Z'
+                          type:
+                            id: 3
+                            name: murder
+                            note: null
+                            created_at: '2023-02-14T15:33:28.000000Z'
+                            updated_at: '2023-02-14T15:33:28.000000Z'
+                        -
+                          id: 3
+                          ng_state_id: null
+                          ng_local_government_id: null
+                          ng_polling_unit_id: 113963
+                          type_id: 3
+                          title: null
+                          description: 'Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem?'
+                          file: 'https://violencetracker.s3.eu-west-2.amazonaws.com/report-files-02-2023/mk1okbGYIVodnULMIpuYsDRx0dsxzhjkOaxeKtaO.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATXQGPPLHPP3WNA4G%2F20230214%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T164621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=a46ede88486640b0b34b9fc4a26451b2b0be58e438ca39abc6daa0730fbacf43'
+                          ip_address: 127.0.0.1
+                          user_agent: PostmanRuntime/7.30.1
+                          longitude: null
+                          latitude: null
+                          created_at: '2023-02-14T15:35:54.000000Z'
+                          updated_at: '2023-02-14T15:35:54.000000Z'
+                          deleted_at: null
+                          polling_unit:
+                            id: 282
+                            data_id: 113963
+                            name: 'FAGBILE PHASE I ISHERI OSHUN'
+                            registration_area_id: 5872
+                            precise_location: null
+                            abbreviation: '282'
+                            units: '282'
+                            delimitation: 24/03/04/282
+                            remark: 'NEW PU'
+                            ward_id: 5872
+                            created_at: '2023-02-14T13:47:47.000000Z'
+                            updated_at: '2023-02-14T13:47:47.000000Z'
+                            location:
+                              id: 282
+                              ng_polling_unit_id: 113963
+                              latitude: '6.5146847'
+                              longitude: '3.2655603'
+                              viewport: '{"northeast":{"lat":6.515973279892721,"lng":3.266936179892722},"southwest":{"lat":6.513273620107277,"lng":3.264236520107278}}'
+                              formatted_address: 'G778+V6F, Isheri Oshun Rd, Ijegun 102213, Lagos, Nigeria'
+                              google_map_url: 'https://maps.google.com?q=6.5146847,3.2655603'
+                              google_place_id: ChIJKYJL_HGPOxARKv0AFRK6rHE
+                              created_at: '2023-02-14T13:47:47.000000Z'
+                              updated_at: '2023-02-14T13:47:47.000000Z'
+                          type:
+                            id: 3
+                            name: murder
+                            note: null
+                            created_at: '2023-02-14T15:33:28.000000Z'
+                            updated_at: '2023-02-14T15:33:28.000000Z'
+                        -
+                          id: 2
+                          ng_state_id: null
+                          ng_local_government_id: null
+                          ng_polling_unit_id: 1
+                          type_id: 3
+                          title: null
+                          description: 'Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem?'
+                          file: 'https://violencetracker.s3.eu-west-2.amazonaws.com/report-files-02-2023/Kek6xoK76SO1yAZVdzkbmHywGoIEYeWXUHLNvA0r.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATXQGPPLHPP3WNA4G%2F20230214%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T164621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=43f9a5b18f65047090a4d6a9d552815f1e7df5360d37e798eb838e68ab4c3ec0'
+                          ip_address: 127.0.0.1
+                          user_agent: PostmanRuntime/7.30.1
+                          longitude: null
+                          latitude: null
+                          created_at: '2023-02-14T15:34:02.000000Z'
+                          updated_at: '2023-02-14T15:34:11.000000Z'
+                          deleted_at: null
+                          polling_unit:
+                            id: 1
+                            data_id: 1
+                            name: 'ABIA POLY - ABIA POLY I'
+                            registration_area_id: 1
+                            precise_location: null
+                            abbreviation: '005'
+                            units: '005'
+                            delimitation: 01/01/01/005
+                            remark: 'EXISTING PU'
+                            ward_id: 1
+                            created_at: '2023-02-14T13:06:16.000000Z'
+                            updated_at: '2023-02-14T13:06:16.000000Z'
+                            location:
+                              id: 1
+                              ng_polling_unit_id: 1
+                              latitude: '5.1354436'
+                              longitude: '7.3536032'
+                              viewport: '{"northeast":{"lat":5.136828879892722,"lng":7.354978179892721},"southwest":{"lat":5.134129220107278,"lng":7.352278520107277}}'
+                              formatted_address: '119 Aba-Owerri Rd, Abayi 450102, Aba, Nigeria'
+                              google_map_url: 'https://maps.google.com?q=5.135443599999999,7.353603199999998'
+                              google_place_id: ChIJwZcb7HyZQhARxg1UT0ijeag
+                              created_at: '2023-02-14T13:06:16.000000Z'
+                              updated_at: '2023-02-14T13:06:16.000000Z'
+                          type:
+                            id: 3
+                            name: murder
+                            note: null
+                            created_at: '2023-02-14T15:33:28.000000Z'
+                            updated_at: '2023-02-14T15:33:28.000000Z'
+                        -
+                          id: 1
+                          ng_state_id: null
+                          ng_local_government_id: null
+                          ng_polling_unit_id: 67
+                          type_id: 9
+                          title: null
+                          description: 'Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem?'
+                          file: 'https://violencetracker.s3.eu-west-2.amazonaws.com/report-files-02-2023/W2NRXb5zL13jNqJxLxdsU0G8RYx0PcTwerf0jcXX.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATXQGPPLHPP3WNA4G%2F20230214%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T164621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=1933abd62e0662e7cdda1d6a8266dbe6d391b54d79ed8888f63a673ef4c4cc6d'
+                          ip_address: 127.0.0.1
+                          user_agent: PostmanRuntime/7.30.1
+                          longitude: null
+                          latitude: null
+                          created_at: '2023-02-14T15:33:48.000000Z'
+                          updated_at: '2023-02-14T15:33:48.000000Z'
+                          deleted_at: null
+                          polling_unit:
+                            id: 297
+                            data_id: 67
+                            name: 'INDPENDENCE ROAD-I.D.H III'
+                            registration_area_id: 2
+                            precise_location: null
+                            abbreviation: '015'
+                            units: '015'
+                            delimitation: 01/01/02/015
+                            remark: 'EXISTING PU'
+                            ward_id: 2
+                            created_at: '2023-02-14T15:03:07.000000Z'
+                            updated_at: '2023-02-14T15:03:07.000000Z'
+                            location:
+                              id: 297
+                              ng_polling_unit_id: 67
+                              latitude: '5.1287924'
+                              longitude: '7.3684531'
+                              viewport: '{"northeast":{"lat":5.130082079892722,"lng":7.369795529892722},"southwest":{"lat":5.127382420107279,"lng":7.367095870107278}}'
+                              formatted_address: 'Plot 10 – 18, Eziama Industrial Esate, Eziama Street, Aba, Nigeria'
+                              google_map_url: 'https://maps.google.com?q=5.1287924,7.3684531'
+                              google_place_id: ChIJcyo0JWyZQhAR0c7jj98ygxY
+                              created_at: '2023-02-14T15:03:07.000000Z'
+                              updated_at: '2023-02-14T15:03:07.000000Z'
                           type:
                             id: 9
                             name: 'sexual violence'
                             note: null
-                            created_at: '2023-02-08T15:04:48.000000Z'
-                            updated_at: '2023-02-08T15:04:48.000000Z'
+                            created_at: '2023-02-14T15:33:28.000000Z'
+                            updated_at: '2023-02-14T15:33:28.000000Z'
                       first_page_url: 'http://localhost/api/violence-reports?page=1'
                       from: 1
-                      last_page: 22
-                      last_page_url: 'http://localhost/api/violence-reports?page=22'
+                      last_page: 1
+                      last_page_url: 'http://localhost/api/violence-reports?page=1'
                       links:
                         -
                           url: null
@@ -5153,63 +4541,15 @@ paths:
                           label: '1'
                           active: true
                         -
-                          url: 'http://localhost/api/violence-reports?page=2'
-                          label: '2'
-                          active: false
-                        -
-                          url: 'http://localhost/api/violence-reports?page=3'
-                          label: '3'
-                          active: false
-                        -
-                          url: 'http://localhost/api/violence-reports?page=4'
-                          label: '4'
-                          active: false
-                        -
-                          url: 'http://localhost/api/violence-reports?page=5'
-                          label: '5'
-                          active: false
-                        -
-                          url: 'http://localhost/api/violence-reports?page=6'
-                          label: '6'
-                          active: false
-                        -
-                          url: 'http://localhost/api/violence-reports?page=7'
-                          label: '7'
-                          active: false
-                        -
-                          url: 'http://localhost/api/violence-reports?page=8'
-                          label: '8'
-                          active: false
-                        -
-                          url: 'http://localhost/api/violence-reports?page=9'
-                          label: '9'
-                          active: false
-                        -
-                          url: 'http://localhost/api/violence-reports?page=10'
-                          label: '10'
-                          active: false
-                        -
                           url: null
-                          label: ...
-                          active: false
-                        -
-                          url: 'http://localhost/api/violence-reports?page=21'
-                          label: '21'
-                          active: false
-                        -
-                          url: 'http://localhost/api/violence-reports?page=22'
-                          label: '22'
-                          active: false
-                        -
-                          url: 'http://localhost/api/violence-reports?page=2'
                           label: 'Next &raquo;'
                           active: false
-                      next_page_url: 'http://localhost/api/violence-reports?page=2'
+                      next_page_url: null
                       path: 'http://localhost/api/violence-reports'
-                      per_page: 1
+                      per_page: 20
                       prev_page_url: null
-                      to: 1
-                      total: 22
+                      to: 5
+                      total: 5
                 properties:
                   status:
                     type: string
@@ -5227,57 +4567,241 @@ paths:
                             type: array
                             example:
                               -
-                                id: 22
+                                id: 5
                                 ng_state_id: null
                                 ng_local_government_id: null
-                                ng_polling_unit_id: 45800
-                                type_id: 9
+                                ng_polling_unit_id: 113931
+                                type_id: 5
                                 title: null
-                                description: 'Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem? Fuga tempora ipsam modi, quia vel quaerat temporibus exercitationem atque quidem, aperiam incidunt.'
-                                file: null
+                                description: 'Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem?'
+                                file: 'https://violencetracker.s3.eu-west-2.amazonaws.com/report-files-02-2023/jMMxfHWz6L5eI7lqFsVA4wYIYZQeZ5FH3ps5S1gD.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATXQGPPLHPP3WNA4G%2F20230214%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T164621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=92df312abe6dbffe45dcc1325040c2f3518fd16b6def04aca4c9e556365ab7f0'
                                 ip_address: 127.0.0.1
                                 user_agent: PostmanRuntime/7.30.1
                                 longitude: null
                                 latitude: null
-                                created_at: '2023-02-11T19:36:46.000000Z'
-                                updated_at: '2023-02-11T19:36:46.000000Z'
+                                created_at: '2023-02-14T15:36:43.000000Z'
+                                updated_at: '2023-02-14T15:36:43.000000Z'
                                 deleted_at: null
                                 polling_unit:
-                                  id: 45800
-                                  data_id: 45800
-                                  name: 'OBEAGU ABOFIA HALL'
-                                  registration_area_id: 2473
+                                  id: 250
+                                  data_id: 113931
+                                  name: 'MATHEW OJO STREET,IKOTUN'
+                                  registration_area_id: 5872
                                   precise_location: null
-                                  abbreviation: '001'
-                                  units: '001'
-                                  delimitation: 11/04/02/001
-                                  remark: 'EXISTING PU'
-                                  ward_id: 2473
-                                  created_at: '2023-02-09T07:08:08.000000Z'
-                                  updated_at: '2023-02-09T07:08:08.000000Z'
+                                  abbreviation: '250'
+                                  units: '250'
+                                  delimitation: 24/03/04/250
+                                  remark: 'NEW PU'
+                                  ward_id: 5872
+                                  created_at: '2023-02-14T13:47:47.000000Z'
+                                  updated_at: '2023-02-14T13:47:47.000000Z'
                                   location:
-                                    id: 45800
-                                    ng_polling_unit_id: 45800
-                                    latitude: '6.3281443'
-                                    longitude: '8.1041807'
-                                    viewport: '{"northeast":{"lat":6.329588579892722,"lng":8.105531079892723},"southwest":{"lat":6.326888920107278,"lng":8.102831420107279}}'
-                                    formatted_address: '1 Onwe Rd, Ntezi Abba 480108, Abakaliki, Nigeria'
-                                    google_map_url: 'https://maps.google.com?q=6.3281443,8.104180699999999'
-                                    google_place_id: ChIJUf_5LWmgXBARKBfJ1BxFVp8
-                                    created_at: '2023-02-09T07:08:08.000000Z'
-                                    updated_at: '2023-02-09T07:08:08.000000Z'
+                                    id: 250
+                                    ng_polling_unit_id: 113931
+                                    latitude: '6.5610665'
+                                    longitude: '3.2590697'
+                                    viewport: '{"northeast":{"lat":6.562416329892721,"lng":3.260419529892722},"southwest":{"lat":6.559716670107277,"lng":3.257719870107278}}'
+                                    formatted_address: 'Matthew Ojo St, Ikotun 102213, Lagos, Nigeria'
+                                    google_map_url: 'https://maps.google.com?q=6.5610665,3.2590697'
+                                    google_place_id: ChIJ5Y402viPOxAR_JISDek5hmw
+                                    created_at: '2023-02-14T13:47:47.000000Z'
+                                    updated_at: '2023-02-14T13:47:47.000000Z'
+                                type:
+                                  id: 5
+                                  name: 'physical harm'
+                                  note: null
+                                  created_at: '2023-02-14T15:33:28.000000Z'
+                                  updated_at: '2023-02-14T15:33:28.000000Z'
+                              -
+                                id: 4
+                                ng_state_id: null
+                                ng_local_government_id: null
+                                ng_polling_unit_id: 113962
+                                type_id: 3
+                                title: null
+                                description: 'Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem?'
+                                file: 'https://violencetracker.s3.eu-west-2.amazonaws.com/report-files-02-2023/5vBCzxmiaADaoG3dcfiGiqyey65NRtV83z4Q5CDU.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATXQGPPLHPP3WNA4G%2F20230214%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T164621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=9e87cefdbb54c6d6b907985d29f3df0c83443f982732880246544dcf6dede4cb'
+                                ip_address: 127.0.0.1
+                                user_agent: PostmanRuntime/7.30.1
+                                longitude: null
+                                latitude: null
+                                created_at: '2023-02-14T15:36:17.000000Z'
+                                updated_at: '2023-02-14T15:36:23.000000Z'
+                                deleted_at: null
+                                polling_unit:
+                                  id: 281
+                                  data_id: 113962
+                                  name: 'INSIDE LOCAL GOVT. PRY. SCHOOL, IJEGUN'
+                                  registration_area_id: 5872
+                                  precise_location: null
+                                  abbreviation: '281'
+                                  units: '281'
+                                  delimitation: 24/03/04/281
+                                  remark: 'NEW PU'
+                                  ward_id: 5872
+                                  created_at: '2023-02-14T13:47:47.000000Z'
+                                  updated_at: '2023-02-14T13:47:47.000000Z'
+                                  location:
+                                    id: 281
+                                    ng_polling_unit_id: 113962
+                                    latitude: '6.5505645'
+                                    longitude: '3.2474049'
+                                    viewport: '{"northeast":{"lat":6.552076779892722,"lng":3.248619329892722},"southwest":{"lat":6.549377120107279,"lng":3.245919670107277}}'
+                                    formatted_address: 'By Church Bus Stop, Ikotun - Igando Road, Igando 102213, Lagos, Nigeria'
+                                    google_map_url: 'https://maps.google.com?q=6.5505645,3.2474049'
+                                    google_place_id: ChIJCyUHakOFOxARL0_40R2qYbs
+                                    created_at: '2023-02-14T13:47:47.000000Z'
+                                    updated_at: '2023-02-14T13:47:47.000000Z'
+                                type:
+                                  id: 3
+                                  name: murder
+                                  note: null
+                                  created_at: '2023-02-14T15:33:28.000000Z'
+                                  updated_at: '2023-02-14T15:33:28.000000Z'
+                              -
+                                id: 3
+                                ng_state_id: null
+                                ng_local_government_id: null
+                                ng_polling_unit_id: 113963
+                                type_id: 3
+                                title: null
+                                description: 'Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem?'
+                                file: 'https://violencetracker.s3.eu-west-2.amazonaws.com/report-files-02-2023/mk1okbGYIVodnULMIpuYsDRx0dsxzhjkOaxeKtaO.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATXQGPPLHPP3WNA4G%2F20230214%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T164621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=a46ede88486640b0b34b9fc4a26451b2b0be58e438ca39abc6daa0730fbacf43'
+                                ip_address: 127.0.0.1
+                                user_agent: PostmanRuntime/7.30.1
+                                longitude: null
+                                latitude: null
+                                created_at: '2023-02-14T15:35:54.000000Z'
+                                updated_at: '2023-02-14T15:35:54.000000Z'
+                                deleted_at: null
+                                polling_unit:
+                                  id: 282
+                                  data_id: 113963
+                                  name: 'FAGBILE PHASE I ISHERI OSHUN'
+                                  registration_area_id: 5872
+                                  precise_location: null
+                                  abbreviation: '282'
+                                  units: '282'
+                                  delimitation: 24/03/04/282
+                                  remark: 'NEW PU'
+                                  ward_id: 5872
+                                  created_at: '2023-02-14T13:47:47.000000Z'
+                                  updated_at: '2023-02-14T13:47:47.000000Z'
+                                  location:
+                                    id: 282
+                                    ng_polling_unit_id: 113963
+                                    latitude: '6.5146847'
+                                    longitude: '3.2655603'
+                                    viewport: '{"northeast":{"lat":6.515973279892721,"lng":3.266936179892722},"southwest":{"lat":6.513273620107277,"lng":3.264236520107278}}'
+                                    formatted_address: 'G778+V6F, Isheri Oshun Rd, Ijegun 102213, Lagos, Nigeria'
+                                    google_map_url: 'https://maps.google.com?q=6.5146847,3.2655603'
+                                    google_place_id: ChIJKYJL_HGPOxARKv0AFRK6rHE
+                                    created_at: '2023-02-14T13:47:47.000000Z'
+                                    updated_at: '2023-02-14T13:47:47.000000Z'
+                                type:
+                                  id: 3
+                                  name: murder
+                                  note: null
+                                  created_at: '2023-02-14T15:33:28.000000Z'
+                                  updated_at: '2023-02-14T15:33:28.000000Z'
+                              -
+                                id: 2
+                                ng_state_id: null
+                                ng_local_government_id: null
+                                ng_polling_unit_id: 1
+                                type_id: 3
+                                title: null
+                                description: 'Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem?'
+                                file: 'https://violencetracker.s3.eu-west-2.amazonaws.com/report-files-02-2023/Kek6xoK76SO1yAZVdzkbmHywGoIEYeWXUHLNvA0r.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATXQGPPLHPP3WNA4G%2F20230214%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T164621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=43f9a5b18f65047090a4d6a9d552815f1e7df5360d37e798eb838e68ab4c3ec0'
+                                ip_address: 127.0.0.1
+                                user_agent: PostmanRuntime/7.30.1
+                                longitude: null
+                                latitude: null
+                                created_at: '2023-02-14T15:34:02.000000Z'
+                                updated_at: '2023-02-14T15:34:11.000000Z'
+                                deleted_at: null
+                                polling_unit:
+                                  id: 1
+                                  data_id: 1
+                                  name: 'ABIA POLY - ABIA POLY I'
+                                  registration_area_id: 1
+                                  precise_location: null
+                                  abbreviation: '005'
+                                  units: '005'
+                                  delimitation: 01/01/01/005
+                                  remark: 'EXISTING PU'
+                                  ward_id: 1
+                                  created_at: '2023-02-14T13:06:16.000000Z'
+                                  updated_at: '2023-02-14T13:06:16.000000Z'
+                                  location:
+                                    id: 1
+                                    ng_polling_unit_id: 1
+                                    latitude: '5.1354436'
+                                    longitude: '7.3536032'
+                                    viewport: '{"northeast":{"lat":5.136828879892722,"lng":7.354978179892721},"southwest":{"lat":5.134129220107278,"lng":7.352278520107277}}'
+                                    formatted_address: '119 Aba-Owerri Rd, Abayi 450102, Aba, Nigeria'
+                                    google_map_url: 'https://maps.google.com?q=5.135443599999999,7.353603199999998'
+                                    google_place_id: ChIJwZcb7HyZQhARxg1UT0ijeag
+                                    created_at: '2023-02-14T13:06:16.000000Z'
+                                    updated_at: '2023-02-14T13:06:16.000000Z'
+                                type:
+                                  id: 3
+                                  name: murder
+                                  note: null
+                                  created_at: '2023-02-14T15:33:28.000000Z'
+                                  updated_at: '2023-02-14T15:33:28.000000Z'
+                              -
+                                id: 1
+                                ng_state_id: null
+                                ng_local_government_id: null
+                                ng_polling_unit_id: 67
+                                type_id: 9
+                                title: null
+                                description: 'Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem?'
+                                file: 'https://violencetracker.s3.eu-west-2.amazonaws.com/report-files-02-2023/W2NRXb5zL13jNqJxLxdsU0G8RYx0PcTwerf0jcXX.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATXQGPPLHPP3WNA4G%2F20230214%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T164621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=1933abd62e0662e7cdda1d6a8266dbe6d391b54d79ed8888f63a673ef4c4cc6d'
+                                ip_address: 127.0.0.1
+                                user_agent: PostmanRuntime/7.30.1
+                                longitude: null
+                                latitude: null
+                                created_at: '2023-02-14T15:33:48.000000Z'
+                                updated_at: '2023-02-14T15:33:48.000000Z'
+                                deleted_at: null
+                                polling_unit:
+                                  id: 297
+                                  data_id: 67
+                                  name: 'INDPENDENCE ROAD-I.D.H III'
+                                  registration_area_id: 2
+                                  precise_location: null
+                                  abbreviation: '015'
+                                  units: '015'
+                                  delimitation: 01/01/02/015
+                                  remark: 'EXISTING PU'
+                                  ward_id: 2
+                                  created_at: '2023-02-14T15:03:07.000000Z'
+                                  updated_at: '2023-02-14T15:03:07.000000Z'
+                                  location:
+                                    id: 297
+                                    ng_polling_unit_id: 67
+                                    latitude: '5.1287924'
+                                    longitude: '7.3684531'
+                                    viewport: '{"northeast":{"lat":5.130082079892722,"lng":7.369795529892722},"southwest":{"lat":5.127382420107279,"lng":7.367095870107278}}'
+                                    formatted_address: 'Plot 10 – 18, Eziama Industrial Esate, Eziama Street, Aba, Nigeria'
+                                    google_map_url: 'https://maps.google.com?q=5.1287924,7.3684531'
+                                    google_place_id: ChIJcyo0JWyZQhAR0c7jj98ygxY
+                                    created_at: '2023-02-14T15:03:07.000000Z'
+                                    updated_at: '2023-02-14T15:03:07.000000Z'
                                 type:
                                   id: 9
                                   name: 'sexual violence'
                                   note: null
-                                  created_at: '2023-02-08T15:04:48.000000Z'
-                                  updated_at: '2023-02-08T15:04:48.000000Z'
+                                  created_at: '2023-02-14T15:33:28.000000Z'
+                                  updated_at: '2023-02-14T15:33:28.000000Z'
                             items:
                               type: object
                               properties:
                                 id:
                                   type: integer
-                                  example: 22
+                                  example: 5
                                 ng_state_id:
                                   type: string
                                   example: null
@@ -5286,19 +4810,19 @@ paths:
                                   example: null
                                 ng_polling_unit_id:
                                   type: integer
-                                  example: 45800
+                                  example: 113931
                                 type_id:
                                   type: integer
-                                  example: 9
+                                  example: 5
                                 title:
                                   type: string
                                   example: null
                                 description:
                                   type: string
-                                  example: 'Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem? Fuga tempora ipsam modi, quia vel quaerat temporibus exercitationem atque quidem, aperiam incidunt.'
+                                  example: 'Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem?'
                                 file:
                                   type: string
-                                  example: null
+                                  example: 'https://violencetracker.s3.eu-west-2.amazonaws.com/report-files-02-2023/jMMxfHWz6L5eI7lqFsVA4wYIYZQeZ5FH3ps5S1gD.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATXQGPPLHPP3WNA4G%2F20230214%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T164621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=92df312abe6dbffe45dcc1325040c2f3518fd16b6def04aca4c9e556365ab7f0'
                                 ip_address:
                                   type: string
                                   example: 127.0.0.1
@@ -5313,10 +4837,10 @@ paths:
                                   example: null
                                 created_at:
                                   type: string
-                                  example: '2023-02-11T19:36:46.000000Z'
+                                  example: '2023-02-14T15:36:43.000000Z'
                                 updated_at:
                                   type: string
-                                  example: '2023-02-11T19:36:46.000000Z'
+                                  example: '2023-02-14T15:36:43.000000Z'
                                 deleted_at:
                                   type: string
                                   example: null
@@ -5325,61 +4849,61 @@ paths:
                                   properties:
                                     id:
                                       type: integer
-                                      example: 45800
+                                      example: 250
                                     data_id:
                                       type: integer
-                                      example: 45800
+                                      example: 113931
                                     name:
                                       type: string
-                                      example: 'OBEAGU ABOFIA HALL'
+                                      example: 'MATHEW OJO STREET,IKOTUN'
                                     registration_area_id:
                                       type: integer
-                                      example: 2473
+                                      example: 5872
                                     precise_location:
                                       type: string
                                       example: null
                                     abbreviation:
                                       type: string
-                                      example: '001'
+                                      example: '250'
                                     units:
                                       type: string
-                                      example: '001'
+                                      example: '250'
                                     delimitation:
                                       type: string
-                                      example: 11/04/02/001
+                                      example: 24/03/04/250
                                     remark:
                                       type: string
-                                      example: 'EXISTING PU'
+                                      example: 'NEW PU'
                                     ward_id:
                                       type: integer
-                                      example: 2473
+                                      example: 5872
                                     created_at:
                                       type: string
-                                      example: '2023-02-09T07:08:08.000000Z'
+                                      example: '2023-02-14T13:47:47.000000Z'
                                     updated_at:
                                       type: string
-                                      example: '2023-02-09T07:08:08.000000Z'
+                                      example: '2023-02-14T13:47:47.000000Z'
                                     location:
                                       type: object
-                                      properties: { id: { type: integer, example: 45800 }, ng_polling_unit_id: { type: integer, example: 45800 }, latitude: { type: string, example: '6.3281443' }, longitude: { type: string, example: '8.1041807' }, viewport: { type: string, example: '{"northeast":{"lat":6.329588579892722,"lng":8.105531079892723},"southwest":{"lat":6.326888920107278,"lng":8.102831420107279}}' }, formatted_address: { type: string, example: '1 Onwe Rd, Ntezi Abba 480108, Abakaliki, Nigeria' }, google_map_url: { type: string, example: 'https://maps.google.com?q=6.3281443,8.104180699999999' }, google_place_id: { type: string, example: ChIJUf_5LWmgXBARKBfJ1BxFVp8 }, created_at: { type: string, example: '2023-02-09T07:08:08.000000Z' }, updated_at: { type: string, example: '2023-02-09T07:08:08.000000Z' } }
+                                      properties: { id: { type: integer, example: 250 }, ng_polling_unit_id: { type: integer, example: 113931 }, latitude: { type: string, example: '6.5610665' }, longitude: { type: string, example: '3.2590697' }, viewport: { type: string, example: '{"northeast":{"lat":6.562416329892721,"lng":3.260419529892722},"southwest":{"lat":6.559716670107277,"lng":3.257719870107278}}' }, formatted_address: { type: string, example: 'Matthew Ojo St, Ikotun 102213, Lagos, Nigeria' }, google_map_url: { type: string, example: 'https://maps.google.com?q=6.5610665,3.2590697' }, google_place_id: { type: string, example: ChIJ5Y402viPOxAR_JISDek5hmw }, created_at: { type: string, example: '2023-02-14T13:47:47.000000Z' }, updated_at: { type: string, example: '2023-02-14T13:47:47.000000Z' } }
                                 type:
                                   type: object
                                   properties:
                                     id:
                                       type: integer
-                                      example: 9
+                                      example: 5
                                     name:
                                       type: string
-                                      example: 'sexual violence'
+                                      example: 'physical harm'
                                     note:
                                       type: string
                                       example: null
                                     created_at:
                                       type: string
-                                      example: '2023-02-08T15:04:48.000000Z'
+                                      example: '2023-02-14T15:33:28.000000Z'
                                     updated_at:
                                       type: string
-                                      example: '2023-02-08T15:04:48.000000Z'
+                                      example: '2023-02-14T15:33:28.000000Z'
                           first_page_url:
                             type: string
                             example: 'http://localhost/api/violence-reports?page=1'
@@ -5388,10 +4912,10 @@ paths:
                             example: 1
                           last_page:
                             type: integer
-                            example: 22
+                            example: 1
                           last_page_url:
                             type: string
-                            example: 'http://localhost/api/violence-reports?page=22'
+                            example: 'http://localhost/api/violence-reports?page=1'
                           links:
                             type: array
                             example:
@@ -5404,55 +4928,7 @@ paths:
                                 label: '1'
                                 active: true
                               -
-                                url: 'http://localhost/api/violence-reports?page=2'
-                                label: '2'
-                                active: false
-                              -
-                                url: 'http://localhost/api/violence-reports?page=3'
-                                label: '3'
-                                active: false
-                              -
-                                url: 'http://localhost/api/violence-reports?page=4'
-                                label: '4'
-                                active: false
-                              -
-                                url: 'http://localhost/api/violence-reports?page=5'
-                                label: '5'
-                                active: false
-                              -
-                                url: 'http://localhost/api/violence-reports?page=6'
-                                label: '6'
-                                active: false
-                              -
-                                url: 'http://localhost/api/violence-reports?page=7'
-                                label: '7'
-                                active: false
-                              -
-                                url: 'http://localhost/api/violence-reports?page=8'
-                                label: '8'
-                                active: false
-                              -
-                                url: 'http://localhost/api/violence-reports?page=9'
-                                label: '9'
-                                active: false
-                              -
-                                url: 'http://localhost/api/violence-reports?page=10'
-                                label: '10'
-                                active: false
-                              -
                                 url: null
-                                label: ...
-                                active: false
-                              -
-                                url: 'http://localhost/api/violence-reports?page=21'
-                                label: '21'
-                                active: false
-                              -
-                                url: 'http://localhost/api/violence-reports?page=22'
-                                label: '22'
-                                active: false
-                              -
-                                url: 'http://localhost/api/violence-reports?page=2'
                                 label: 'Next &raquo;'
                                 active: false
                             items:
@@ -5469,22 +4945,22 @@ paths:
                                   example: false
                           next_page_url:
                             type: string
-                            example: 'http://localhost/api/violence-reports?page=2'
+                            example: null
                           path:
                             type: string
                             example: 'http://localhost/api/violence-reports'
                           per_page:
                             type: integer
-                            example: 1
+                            example: 20
                           prev_page_url:
                             type: string
                             example: null
                           to:
                             type: integer
-                            example: 1
+                            example: 5
                           total:
                             type: integer
-                            example: 22
+                            example: 5
       tags:
         - 'Violence Reports'
       requestBody:
@@ -5497,7 +4973,7 @@ paths:
                 limit:
                   type: integer
                   description: ''
-                  example: 1
+                  example: 20
       security: []
     post:
       summary: 'Create a violence report'
@@ -5531,27 +5007,27 @@ paths:
                 ng_state_id:
                   type: integer
                   description: '`ng_states.data_id`'
-                  example: 16
+                  example: 8
                 ng_local_government_id:
                   type: integer
                   description: '`ng_local_governments.data_id`'
-                  example: 5
+                  example: 15
                 ng_polling_unit_id:
                   type: integer
                   description: '`ng_polling_units.data_id`'
-                  example: 5
+                  example: 11
                 type_id:
                   type: integer
                   description: ''
-                  example: 19
+                  example: 2
                 title:
                   type: string
                   description: ''
-                  example: et
+                  example: odit
                 description:
                   type: string
                   description: 'The `description` property is required if no file is attached'
-                  example: 'Eum aliquid dolores aut dolorum aperiam assumenda dolorem.'
+                  example: 'Repudiandae ratione est exercitationem labore et qui.'
                 file:
                   type: string
                   format: binary
@@ -5559,11 +5035,11 @@ paths:
                 longitude:
                   type: number
                   description: ''
-                  example: 61070.0421
+                  example: 44973.958482
                 latitude:
                   type: number
                   description: ''
-                  example: 190.1607
+                  example: 2680.996
               required:
                 - ng_polling_unit_id
                 - type_id

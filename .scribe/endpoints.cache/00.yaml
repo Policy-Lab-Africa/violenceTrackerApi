@@ -29,13 +29,13 @@ endpoints:
     responses:
       -
         status: 200
-        content: '{"status":"success","data":{"types":[{"id":1,"name":"attempted murder","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"},{"id":2,"name":"gun shots","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"},{"id":3,"name":"murder","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"},{"id":4,"name":"intimidation","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"},{"id":5,"name":"physical harm","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"},{"id":6,"name":"ballot box snatching","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"},{"id":7,"name":"physical threat","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"},{"id":8,"name":"group clash","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"},{"id":9,"name":"sexual violence","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"},{"id":10,"name":"other","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"}]}}'
+        content: '{"status":"success","data":{"types":[{"id":1,"name":"attempted murder","note":null,"created_at":"2023-02-14T15:33:28.000000Z","updated_at":"2023-02-14T15:33:28.000000Z"},{"id":2,"name":"gun shots","note":null,"created_at":"2023-02-14T15:33:28.000000Z","updated_at":"2023-02-14T15:33:28.000000Z"},{"id":3,"name":"murder","note":null,"created_at":"2023-02-14T15:33:28.000000Z","updated_at":"2023-02-14T15:33:28.000000Z"},{"id":4,"name":"intimidation","note":null,"created_at":"2023-02-14T15:33:28.000000Z","updated_at":"2023-02-14T15:33:28.000000Z"},{"id":5,"name":"physical harm","note":null,"created_at":"2023-02-14T15:33:28.000000Z","updated_at":"2023-02-14T15:33:28.000000Z"},{"id":6,"name":"ballot box snatching","note":null,"created_at":"2023-02-14T15:33:28.000000Z","updated_at":"2023-02-14T15:33:28.000000Z"},{"id":7,"name":"physical threat","note":null,"created_at":"2023-02-14T15:33:28.000000Z","updated_at":"2023-02-14T15:33:28.000000Z"},{"id":8,"name":"group clash","note":null,"created_at":"2023-02-14T15:33:28.000000Z","updated_at":"2023-02-14T15:33:28.000000Z"},{"id":9,"name":"sexual violence","note":null,"created_at":"2023-02-14T15:33:28.000000Z","updated_at":"2023-02-14T15:33:28.000000Z"},{"id":10,"name":"other","note":null,"created_at":"2023-02-14T15:33:28.000000Z","updated_at":"2023-02-14T15:33:28.000000Z"}]}}'
         headers:
           cache-control: 'no-cache, private'
           content-type: application/json
           x-ratelimit-limit: '60'
           x-ratelimit-remaining: '59'
-          access-control-allow-origin: '*'
+          vary: Origin
         description: null
         custom: []
     responseFields: []
@@ -67,43 +67,134 @@ endpoints:
     bodyParameters:
       q:
         name: q
-        description: ''
+        description: 'The search location search term. Should match state, local government area, ward or polling unit.'
         required: true
-        example: facere
+        example: illum
         type: string
         custom: []
       start:
         name: start
         description: 'Must be a valid date in the format <code>Y-m-d</code>.'
         required: false
-        example: '2023-02-11'
+        example: '2023-02-14'
         type: string
         custom: []
       end:
         name: end
         description: 'Must be a valid date in the format <code>Y-m-d</code>.'
         required: false
-        example: '2023-02-11'
+        example: '2023-02-14'
         type: string
         custom: []
     cleanBodyParameters:
-      q: facere
-      start: '2023-02-11'
-      end: '2023-02-11'
+      q: illum
+      start: '2023-02-14'
+      end: '2023-02-14'
     fileParameters: []
     responses:
       -
         status: 200
-        content: '{"status":"success","data":{"state_results":[{"meta_data":{"violence_reports":{"count":0},"local_governments":{"count":0},"types":{"types":[],"count":0}}}],"local_government_results":[{"meta_data":{"violence_reports":{"count":0},"local_governments":{"count":0},"types":{"types":[],"count":0}}}],"ward_results":[{"meta_data":{"violence_reports":{"count":0},"local_governments":{"count":0},"types":{"types":[],"count":0}}}],"polling_unit_results":[{"meta_data":{"violence_reports":{"count":0},"polling_units":{"count":0},"local_governments":{"count":0},"types":{"types":[],"count":0}}}]}}'
+        content: '{"status":"success","data":[{"state_results":{"data":[],"meta_data":{"violence_reports":{"count":0},"local_governments":{"data":[],"count_unique":0,"count_reports":[]},"types":{"data":[],"count_unique":0,"count_reports":[]}}}},{"local_government_results":{"data":[],"meta_data":{"violence_reports":{"count":0},"local_governments":{"data":[],"count_unique":0,"count_reports":[]},"types":{"data":[],"count_unique":0,"count_reports":[]}}}},{"ward_results":{"data":[],"meta_data":{"violence_reports":{"count":0},"local_governments":{"data":[],"count_unique":0,"count_reports":[]},"types":{"data":[],"count_unique":0,"count_reports":[]}}}},{"polling_unit_results":{"data":[],"meta_data":{"violence_reports":{"count":0},"polling_units":{"count":0},"local_governments":{"count":0},"types":{"types":[],"count":0}}}}]}'
         headers:
           cache-control: 'no-cache, private'
           content-type: application/json
           x-ratelimit-limit: '60'
           x-ratelimit-remaining: '52'
-          access-control-allow-origin: '*'
+          vary: Origin
         description: null
         custom: []
-    responseFields: []
+    responseFields:
+      state_results:
+        name: state_results
+        description: 'If search term matches a state, the data for the state will be returned in this array'
+        required: false
+        example: null
+        type: 'string[]'
+        custom: []
+      local_government_results:
+        name: local_government_results
+        description: 'If search term matches a local government area, the data for the LGA will be returned in this array'
+        required: false
+        example: null
+        type: 'string[]'
+        custom: []
+      ward_results:
+        name: ward_results
+        description: 'If search term matches a ward, the data for the ward will be returned in this array'
+        required: false
+        example: null
+        type: 'string[]'
+        custom: []
+      polling_unit_results:
+        name: polling_unit_results
+        description: 'If search term matches a polling unit, the data for the polling unit will be returned in this array'
+        required: false
+        example: null
+        type: 'string[]'
+        custom: []
+      '{location}_results.data':
+        name: '{location}_results.data'
+        description: 'The state, local government(s), wards, or polling units, that have polling units with violence_reports'
+        required: false
+        example: null
+        type: 'string[]'
+        custom: []
+      '{location}_results.meta_data':
+        name: '{location}_results.meta_data'
+        description: 'The summary of the data in `{location}_results.data`'
+        required: false
+        example: null
+        type: object
+        custom: []
+      '{location}_results.meta_data.violence_reports.count':
+        name: '{location}_results.meta_data.violence_reports.count'
+        description: 'The total number of reports. Can be useful to determine if `{location}_results.data` is empty, without actually checking through the array.'
+        required: false
+        example: null
+        type: integer
+        custom: []
+      '{location}_results.meta_data.polling_units.count':
+        name: '{location}_results.meta_data.polling_units.count'
+        description: 'The total number of unique polling units with `violence_reports`.'
+        required: false
+        example: null
+        type: integer
+        custom: []
+      '{location}_results.meta_data.local_governments.data':
+        name: '{location}_results.meta_data.local_governments.data'
+        description: 'The unique local governments with `violence_reports`.'
+        required: false
+        example: null
+        type: 'string[]'
+        custom: []
+      '{location}_results.meta_data.local_governments.count_unique':
+        name: '{location}_results.meta_data.local_governments.count_unique'
+        description: 'The total of unique local governments with `violence_reports`.'
+        required: false
+        example: null
+        type: integer
+        custom: []
+      '{location}_results.meta_data.local_governments.count_reports':
+        name: '{location}_results.meta_data.local_governments.count_reports'
+        description: 'Count of violence reports grouped by `ng_local_governments.data_id`. { _ng_local_government.data_id_"123": _count of violence_reports_ 20}'
+        required: false
+        example: null
+        type: object
+        custom: []
+      '{location}_results.meta_data.types.count_unique':
+        name: '{location}_results.meta_data.types.count_unique'
+        description: 'The total of unique violence types.'
+        required: false
+        example: null
+        type: integer
+        custom: []
+      '{location}_results.meta_data.types.count_reports':
+        name: '{location}_results.meta_data.types.count_reports'
+        description: 'Count of violence reports grouped by `violence_types.data_id`. { _violence_types.id_"123": _count of violence_reports_ 20 }'
+        required: false
+        example: null
+        type: object
+        custom: []
     auth: []
     controller: null
     method: null
@@ -132,32 +223,32 @@ endpoints:
         name: limit
         description: 'an integer'
         required: false
-        example: doloremque
+        example: officia
         type: string
         custom: []
     cleanQueryParameters:
-      limit: doloremque
+      limit: officia
     bodyParameters:
       limit:
         name: limit
         description: ''
         required: false
-        example: 1
+        example: 20
         type: integer
         custom: []
     cleanBodyParameters:
-      limit: 1
+      limit: 20
     fileParameters: []
     responses:
       -
         status: 200
-        content: '{"status":"success","data":{"violence_reports":{"current_page":1,"data":[{"id":22,"ng_state_id":null,"ng_local_government_id":null,"ng_polling_unit_id":45800,"type_id":9,"title":null,"description":"Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem? Fuga tempora ipsam modi, quia vel quaerat temporibus exercitationem atque quidem, aperiam incidunt.","file":null,"ip_address":"127.0.0.1","user_agent":"PostmanRuntime\/7.30.1","longitude":null,"latitude":null,"created_at":"2023-02-11T19:36:46.000000Z","updated_at":"2023-02-11T19:36:46.000000Z","deleted_at":null,"polling_unit":{"id":45800,"data_id":45800,"name":"OBEAGU ABOFIA HALL","registration_area_id":2473,"precise_location":null,"abbreviation":"001","units":"001","delimitation":"11\/04\/02\/001","remark":"EXISTING PU","ward_id":2473,"created_at":"2023-02-09T07:08:08.000000Z","updated_at":"2023-02-09T07:08:08.000000Z","location":{"id":45800,"ng_polling_unit_id":45800,"latitude":"6.3281443","longitude":"8.1041807","viewport":"{\"northeast\":{\"lat\":6.329588579892722,\"lng\":8.105531079892723},\"southwest\":{\"lat\":6.326888920107278,\"lng\":8.102831420107279}}","formatted_address":"1 Onwe Rd, Ntezi Abba 480108, Abakaliki, Nigeria","google_map_url":"https:\/\/maps.google.com?q=6.3281443,8.104180699999999","google_place_id":"ChIJUf_5LWmgXBARKBfJ1BxFVp8","created_at":"2023-02-09T07:08:08.000000Z","updated_at":"2023-02-09T07:08:08.000000Z"}},"type":{"id":9,"name":"sexual violence","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"}}],"first_page_url":"http:\/\/localhost\/api\/violence-reports?page=1","from":1,"last_page":22,"last_page_url":"http:\/\/localhost\/api\/violence-reports?page=22","links":[{"url":null,"label":"&laquo; Previous","active":false},{"url":"http:\/\/localhost\/api\/violence-reports?page=1","label":"1","active":true},{"url":"http:\/\/localhost\/api\/violence-reports?page=2","label":"2","active":false},{"url":"http:\/\/localhost\/api\/violence-reports?page=3","label":"3","active":false},{"url":"http:\/\/localhost\/api\/violence-reports?page=4","label":"4","active":false},{"url":"http:\/\/localhost\/api\/violence-reports?page=5","label":"5","active":false},{"url":"http:\/\/localhost\/api\/violence-reports?page=6","label":"6","active":false},{"url":"http:\/\/localhost\/api\/violence-reports?page=7","label":"7","active":false},{"url":"http:\/\/localhost\/api\/violence-reports?page=8","label":"8","active":false},{"url":"http:\/\/localhost\/api\/violence-reports?page=9","label":"9","active":false},{"url":"http:\/\/localhost\/api\/violence-reports?page=10","label":"10","active":false},{"url":null,"label":"...","active":false},{"url":"http:\/\/localhost\/api\/violence-reports?page=21","label":"21","active":false},{"url":"http:\/\/localhost\/api\/violence-reports?page=22","label":"22","active":false},{"url":"http:\/\/localhost\/api\/violence-reports?page=2","label":"Next &raquo;","active":false}],"next_page_url":"http:\/\/localhost\/api\/violence-reports?page=2","path":"http:\/\/localhost\/api\/violence-reports","per_page":1,"prev_page_url":null,"to":1,"total":22}}}'
+        content: '{"status":"success","data":{"violence_reports":{"current_page":1,"data":[{"id":5,"ng_state_id":null,"ng_local_government_id":null,"ng_polling_unit_id":113931,"type_id":5,"title":null,"description":"Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem?","file":"https:\/\/violencetracker.s3.eu-west-2.amazonaws.com\/report-files-02-2023\/jMMxfHWz6L5eI7lqFsVA4wYIYZQeZ5FH3ps5S1gD.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATXQGPPLHPP3WNA4G%2F20230214%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T164621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=92df312abe6dbffe45dcc1325040c2f3518fd16b6def04aca4c9e556365ab7f0","ip_address":"127.0.0.1","user_agent":"PostmanRuntime\/7.30.1","longitude":null,"latitude":null,"created_at":"2023-02-14T15:36:43.000000Z","updated_at":"2023-02-14T15:36:43.000000Z","deleted_at":null,"polling_unit":{"id":250,"data_id":113931,"name":"MATHEW OJO STREET,IKOTUN","registration_area_id":5872,"precise_location":null,"abbreviation":"250","units":"250","delimitation":"24\/03\/04\/250","remark":"NEW PU","ward_id":5872,"created_at":"2023-02-14T13:47:47.000000Z","updated_at":"2023-02-14T13:47:47.000000Z","location":{"id":250,"ng_polling_unit_id":113931,"latitude":"6.5610665","longitude":"3.2590697","viewport":"{\"northeast\":{\"lat\":6.562416329892721,\"lng\":3.260419529892722},\"southwest\":{\"lat\":6.559716670107277,\"lng\":3.257719870107278}}","formatted_address":"Matthew Ojo St, Ikotun 102213, Lagos, Nigeria","google_map_url":"https:\/\/maps.google.com?q=6.5610665,3.2590697","google_place_id":"ChIJ5Y402viPOxAR_JISDek5hmw","created_at":"2023-02-14T13:47:47.000000Z","updated_at":"2023-02-14T13:47:47.000000Z"}},"type":{"id":5,"name":"physical harm","note":null,"created_at":"2023-02-14T15:33:28.000000Z","updated_at":"2023-02-14T15:33:28.000000Z"}},{"id":4,"ng_state_id":null,"ng_local_government_id":null,"ng_polling_unit_id":113962,"type_id":3,"title":null,"description":"Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem?","file":"https:\/\/violencetracker.s3.eu-west-2.amazonaws.com\/report-files-02-2023\/5vBCzxmiaADaoG3dcfiGiqyey65NRtV83z4Q5CDU.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATXQGPPLHPP3WNA4G%2F20230214%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T164621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=9e87cefdbb54c6d6b907985d29f3df0c83443f982732880246544dcf6dede4cb","ip_address":"127.0.0.1","user_agent":"PostmanRuntime\/7.30.1","longitude":null,"latitude":null,"created_at":"2023-02-14T15:36:17.000000Z","updated_at":"2023-02-14T15:36:23.000000Z","deleted_at":null,"polling_unit":{"id":281,"data_id":113962,"name":"INSIDE LOCAL GOVT. PRY. SCHOOL, IJEGUN","registration_area_id":5872,"precise_location":null,"abbreviation":"281","units":"281","delimitation":"24\/03\/04\/281","remark":"NEW PU","ward_id":5872,"created_at":"2023-02-14T13:47:47.000000Z","updated_at":"2023-02-14T13:47:47.000000Z","location":{"id":281,"ng_polling_unit_id":113962,"latitude":"6.5505645","longitude":"3.2474049","viewport":"{\"northeast\":{\"lat\":6.552076779892722,\"lng\":3.248619329892722},\"southwest\":{\"lat\":6.549377120107279,\"lng\":3.245919670107277}}","formatted_address":"By Church Bus Stop, Ikotun - Igando Road, Igando 102213, Lagos, Nigeria","google_map_url":"https:\/\/maps.google.com?q=6.5505645,3.2474049","google_place_id":"ChIJCyUHakOFOxARL0_40R2qYbs","created_at":"2023-02-14T13:47:47.000000Z","updated_at":"2023-02-14T13:47:47.000000Z"}},"type":{"id":3,"name":"murder","note":null,"created_at":"2023-02-14T15:33:28.000000Z","updated_at":"2023-02-14T15:33:28.000000Z"}},{"id":3,"ng_state_id":null,"ng_local_government_id":null,"ng_polling_unit_id":113963,"type_id":3,"title":null,"description":"Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem?","file":"https:\/\/violencetracker.s3.eu-west-2.amazonaws.com\/report-files-02-2023\/mk1okbGYIVodnULMIpuYsDRx0dsxzhjkOaxeKtaO.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATXQGPPLHPP3WNA4G%2F20230214%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T164621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=a46ede88486640b0b34b9fc4a26451b2b0be58e438ca39abc6daa0730fbacf43","ip_address":"127.0.0.1","user_agent":"PostmanRuntime\/7.30.1","longitude":null,"latitude":null,"created_at":"2023-02-14T15:35:54.000000Z","updated_at":"2023-02-14T15:35:54.000000Z","deleted_at":null,"polling_unit":{"id":282,"data_id":113963,"name":"FAGBILE PHASE I ISHERI OSHUN","registration_area_id":5872,"precise_location":null,"abbreviation":"282","units":"282","delimitation":"24\/03\/04\/282","remark":"NEW PU","ward_id":5872,"created_at":"2023-02-14T13:47:47.000000Z","updated_at":"2023-02-14T13:47:47.000000Z","location":{"id":282,"ng_polling_unit_id":113963,"latitude":"6.5146847","longitude":"3.2655603","viewport":"{\"northeast\":{\"lat\":6.515973279892721,\"lng\":3.266936179892722},\"southwest\":{\"lat\":6.513273620107277,\"lng\":3.264236520107278}}","formatted_address":"G778+V6F, Isheri Oshun Rd, Ijegun 102213, Lagos, Nigeria","google_map_url":"https:\/\/maps.google.com?q=6.5146847,3.2655603","google_place_id":"ChIJKYJL_HGPOxARKv0AFRK6rHE","created_at":"2023-02-14T13:47:47.000000Z","updated_at":"2023-02-14T13:47:47.000000Z"}},"type":{"id":3,"name":"murder","note":null,"created_at":"2023-02-14T15:33:28.000000Z","updated_at":"2023-02-14T15:33:28.000000Z"}},{"id":2,"ng_state_id":null,"ng_local_government_id":null,"ng_polling_unit_id":1,"type_id":3,"title":null,"description":"Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem?","file":"https:\/\/violencetracker.s3.eu-west-2.amazonaws.com\/report-files-02-2023\/Kek6xoK76SO1yAZVdzkbmHywGoIEYeWXUHLNvA0r.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATXQGPPLHPP3WNA4G%2F20230214%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T164621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=43f9a5b18f65047090a4d6a9d552815f1e7df5360d37e798eb838e68ab4c3ec0","ip_address":"127.0.0.1","user_agent":"PostmanRuntime\/7.30.1","longitude":null,"latitude":null,"created_at":"2023-02-14T15:34:02.000000Z","updated_at":"2023-02-14T15:34:11.000000Z","deleted_at":null,"polling_unit":{"id":1,"data_id":1,"name":"ABIA POLY - ABIA POLY I","registration_area_id":1,"precise_location":null,"abbreviation":"005","units":"005","delimitation":"01\/01\/01\/005","remark":"EXISTING PU","ward_id":1,"created_at":"2023-02-14T13:06:16.000000Z","updated_at":"2023-02-14T13:06:16.000000Z","location":{"id":1,"ng_polling_unit_id":1,"latitude":"5.1354436","longitude":"7.3536032","viewport":"{\"northeast\":{\"lat\":5.136828879892722,\"lng\":7.354978179892721},\"southwest\":{\"lat\":5.134129220107278,\"lng\":7.352278520107277}}","formatted_address":"119 Aba-Owerri Rd, Abayi 450102, Aba, Nigeria","google_map_url":"https:\/\/maps.google.com?q=5.135443599999999,7.353603199999998","google_place_id":"ChIJwZcb7HyZQhARxg1UT0ijeag","created_at":"2023-02-14T13:06:16.000000Z","updated_at":"2023-02-14T13:06:16.000000Z"}},"type":{"id":3,"name":"murder","note":null,"created_at":"2023-02-14T15:33:28.000000Z","updated_at":"2023-02-14T15:33:28.000000Z"}},{"id":1,"ng_state_id":null,"ng_local_government_id":null,"ng_polling_unit_id":67,"type_id":9,"title":null,"description":"Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem?","file":"https:\/\/violencetracker.s3.eu-west-2.amazonaws.com\/report-files-02-2023\/W2NRXb5zL13jNqJxLxdsU0G8RYx0PcTwerf0jcXX.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATXQGPPLHPP3WNA4G%2F20230214%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T164621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=1933abd62e0662e7cdda1d6a8266dbe6d391b54d79ed8888f63a673ef4c4cc6d","ip_address":"127.0.0.1","user_agent":"PostmanRuntime\/7.30.1","longitude":null,"latitude":null,"created_at":"2023-02-14T15:33:48.000000Z","updated_at":"2023-02-14T15:33:48.000000Z","deleted_at":null,"polling_unit":{"id":297,"data_id":67,"name":"INDPENDENCE ROAD-I.D.H III","registration_area_id":2,"precise_location":null,"abbreviation":"015","units":"015","delimitation":"01\/01\/02\/015","remark":"EXISTING PU","ward_id":2,"created_at":"2023-02-14T15:03:07.000000Z","updated_at":"2023-02-14T15:03:07.000000Z","location":{"id":297,"ng_polling_unit_id":67,"latitude":"5.1287924","longitude":"7.3684531","viewport":"{\"northeast\":{\"lat\":5.130082079892722,\"lng\":7.369795529892722},\"southwest\":{\"lat\":5.127382420107279,\"lng\":7.367095870107278}}","formatted_address":"Plot 10 \u2013 18, Eziama Industrial Esate, Eziama Street, Aba, Nigeria","google_map_url":"https:\/\/maps.google.com?q=5.1287924,7.3684531","google_place_id":"ChIJcyo0JWyZQhAR0c7jj98ygxY","created_at":"2023-02-14T15:03:07.000000Z","updated_at":"2023-02-14T15:03:07.000000Z"}},"type":{"id":9,"name":"sexual violence","note":null,"created_at":"2023-02-14T15:33:28.000000Z","updated_at":"2023-02-14T15:33:28.000000Z"}}],"first_page_url":"http:\/\/localhost\/api\/violence-reports?page=1","from":1,"last_page":1,"last_page_url":"http:\/\/localhost\/api\/violence-reports?page=1","links":[{"url":null,"label":"&laquo; Previous","active":false},{"url":"http:\/\/localhost\/api\/violence-reports?page=1","label":"1","active":true},{"url":null,"label":"Next &raquo;","active":false}],"next_page_url":null,"path":"http:\/\/localhost\/api\/violence-reports","per_page":20,"prev_page_url":null,"to":5,"total":5}}}'
         headers:
           cache-control: 'no-cache, private'
           content-type: application/json
           x-ratelimit-limit: '60'
           x-ratelimit-remaining: '51'
-          access-control-allow-origin: '*'
+          vary: Origin
         description: null
         custom: []
     responseFields: []
@@ -191,42 +282,42 @@ endpoints:
         name: ng_state_id
         description: '`ng_states.data_id`'
         required: false
-        example: 16
+        example: 8
         type: integer
         custom: []
       ng_local_government_id:
         name: ng_local_government_id
         description: '`ng_local_governments.data_id`'
         required: false
-        example: 5
+        example: 15
         type: integer
         custom: []
       ng_polling_unit_id:
         name: ng_polling_unit_id
         description: '`ng_polling_units.data_id`'
         required: true
-        example: 5
+        example: 11
         type: integer
         custom: []
       type_id:
         name: type_id
         description: ''
         required: true
-        example: 19
+        example: 2
         type: integer
         custom: []
       title:
         name: title
         description: ''
         required: false
-        example: et
+        example: odit
         type: string
         custom: []
       description:
         name: description
         description: 'The `description` property is required if no file is attached'
         required: false
-        example: 'Eum aliquid dolores aut dolorum aperiam assumenda dolorem.'
+        example: 'Repudiandae ratione est exercitationem labore et qui.'
         type: string
         custom: []
       file:
@@ -240,25 +331,25 @@ endpoints:
         name: longitude
         description: ''
         required: false
-        example: 61070.0421
+        example: 44973.958482
         type: number
         custom: []
       latitude:
         name: latitude
         description: ''
         required: false
-        example: 190.1607
+        example: 2680.996
         type: number
         custom: []
     cleanBodyParameters:
-      ng_state_id: 16
-      ng_local_government_id: 5
-      ng_polling_unit_id: 5
-      type_id: 19
-      title: et
-      description: 'Eum aliquid dolores aut dolorum aperiam assumenda dolorem.'
-      longitude: 61070.0421
-      latitude: 190.1607
+      ng_state_id: 8
+      ng_local_government_id: 15
+      ng_polling_unit_id: 11
+      type_id: 2
+      title: odit
+      description: 'Repudiandae ratione est exercitationem labore et qui.'
+      longitude: 44973.958482
+      latitude: 2680.996
     fileParameters:
       file: null
     responses: []
@@ -302,13 +393,13 @@ endpoints:
     responses:
       -
         status: 200
-        content: '{"status":"success","data":{"violence_report":{"id":1,"ng_state_id":null,"ng_local_government_id":null,"ng_polling_unit_id":17232,"type_id":1,"title":null,"description":"Lorem","file":null,"ip_address":null,"user_agent":null,"longitude":null,"latitude":null,"created_at":"2023-02-09T12:47:27.000000Z","updated_at":"2023-02-09T12:47:27.000000Z","deleted_at":null,"polling_unit":{"id":17210,"data_id":17232,"name":"2\/3 AKPO STREET  I","registration_area_id":1000,"precise_location":null,"abbreviation":"001","units":"001","delimitation":"04\/18\/03\/001","remark":"EXISTING PU","ward_id":1000,"created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z","location":{"id":17210,"ng_polling_unit_id":17232,"latitude":"6.1293859","longitude":"6.7855757","viewport":"{\"northeast\":{\"lat\":6.130538379892722,\"lng\":6.787053629892722},\"southwest\":{\"lat\":6.127838720107278,\"lng\":6.784353970107278}}","formatted_address":"4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria","google_map_url":"https:\/\/maps.google.com?q=6.1293859,6.7855757","google_place_id":"ChIJ39rdyTuTQxARNjGs0TZIBkk","created_at":"2023-02-09T06:57:41.000000Z","updated_at":"2023-02-09T06:57:41.000000Z"}},"type":{"id":1,"name":"attempted murder","note":null,"created_at":"2023-02-08T15:04:48.000000Z","updated_at":"2023-02-08T15:04:48.000000Z"}}}}'
+        content: '{"status":"success","data":{"violence_report":{"id":1,"ng_state_id":null,"ng_local_government_id":null,"ng_polling_unit_id":67,"type_id":9,"title":null,"description":"Perspiciatis doloremque odit, voluptate modi in ipsum natus quis adipisci nihil quam dolorum ea sunt hic exercitationem?","file":"https:\/\/violencetracker.s3.eu-west-2.amazonaws.com\/report-files-02-2023\/W2NRXb5zL13jNqJxLxdsU0G8RYx0PcTwerf0jcXX.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATXQGPPLHPP3WNA4G%2F20230214%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T164622Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=3f8649eb3c31ad5a93626fd64e148efccd503771f28e21e8111453532c1ce36e","ip_address":"127.0.0.1","user_agent":"PostmanRuntime\/7.30.1","longitude":null,"latitude":null,"created_at":"2023-02-14T15:33:48.000000Z","updated_at":"2023-02-14T15:33:48.000000Z","deleted_at":null,"polling_unit":{"id":297,"data_id":67,"name":"INDPENDENCE ROAD-I.D.H III","registration_area_id":2,"precise_location":null,"abbreviation":"015","units":"015","delimitation":"01\/01\/02\/015","remark":"EXISTING PU","ward_id":2,"created_at":"2023-02-14T15:03:07.000000Z","updated_at":"2023-02-14T15:03:07.000000Z","location":{"id":297,"ng_polling_unit_id":67,"latitude":"5.1287924","longitude":"7.3684531","viewport":"{\"northeast\":{\"lat\":5.130082079892722,\"lng\":7.369795529892722},\"southwest\":{\"lat\":5.127382420107279,\"lng\":7.367095870107278}}","formatted_address":"Plot 10 \u2013 18, Eziama Industrial Esate, Eziama Street, Aba, Nigeria","google_map_url":"https:\/\/maps.google.com?q=5.1287924,7.3684531","google_place_id":"ChIJcyo0JWyZQhAR0c7jj98ygxY","created_at":"2023-02-14T15:03:07.000000Z","updated_at":"2023-02-14T15:03:07.000000Z"}},"type":{"id":9,"name":"sexual violence","note":null,"created_at":"2023-02-14T15:33:28.000000Z","updated_at":"2023-02-14T15:33:28.000000Z"}}}}'
         headers:
           cache-control: 'no-cache, private'
           content-type: application/json
           x-ratelimit-limit: '60'
           x-ratelimit-remaining: '50'
-          access-control-allow-origin: '*'
+          vary: Origin
         description: null
         custom: []
     responseFields: []

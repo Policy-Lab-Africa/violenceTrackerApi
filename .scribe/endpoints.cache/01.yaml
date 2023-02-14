@@ -29,13 +29,13 @@ endpoints:
     responses:
       -
         status: 200
-        content: '{"status":"success","data":{"states":[{"id":1,"data_id":1,"name":"abia","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:08:55.000000Z","updated_at":"2023-02-08T15:08:55.000000Z"},{"id":2,"data_id":2,"name":"adamawa","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":3,"data_id":3,"name":"akwa ibom","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":4,"data_id":4,"name":"anambra","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":5,"data_id":5,"name":"bauchi","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":6,"data_id":6,"name":"bayelsa","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":7,"data_id":7,"name":"benue","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":8,"data_id":8,"name":"borno","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":9,"data_id":9,"name":"cross river","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":10,"data_id":10,"name":"delta","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":11,"data_id":11,"name":"ebonyi","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":12,"data_id":12,"name":"edo","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":13,"data_id":13,"name":"ekiti","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":14,"data_id":14,"name":"enugu","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":15,"data_id":15,"name":"gombe","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":16,"data_id":16,"name":"imo","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":17,"data_id":17,"name":"jigawa","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":18,"data_id":18,"name":"kaduna","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":19,"data_id":19,"name":"kano","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":20,"data_id":20,"name":"katsina","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":21,"data_id":21,"name":"kebbi","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":22,"data_id":22,"name":"kogi","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":23,"data_id":23,"name":"kwara","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":24,"data_id":24,"name":"lagos","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":25,"data_id":25,"name":"nasarawa","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":26,"data_id":26,"name":"niger","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":27,"data_id":27,"name":"ogun","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":28,"data_id":28,"name":"ondo","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":29,"data_id":29,"name":"osun","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":30,"data_id":30,"name":"oyo","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":31,"data_id":31,"name":"plateau","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":32,"data_id":32,"name":"rivers","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":33,"data_id":33,"name":"sokoto","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":34,"data_id":34,"name":"taraba","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":35,"data_id":35,"name":"yobe","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":36,"data_id":36,"name":"zamfara","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"},{"id":37,"data_id":37,"name":"federal capital territory","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-08T15:10:30.000000Z","updated_at":"2023-02-08T15:10:30.000000Z"}]}}'
+        content: '{"status":"success","data":{"states":[{"id":1,"data_id":1,"name":"abia","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":2,"data_id":2,"name":"adamawa","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":3,"data_id":3,"name":"akwa ibom","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":4,"data_id":4,"name":"anambra","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":5,"data_id":5,"name":"bauchi","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":6,"data_id":6,"name":"bayelsa","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":7,"data_id":7,"name":"benue","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":8,"data_id":8,"name":"borno","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":9,"data_id":9,"name":"cross river","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":10,"data_id":10,"name":"delta","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":11,"data_id":11,"name":"ebonyi","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":12,"data_id":12,"name":"edo","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":13,"data_id":13,"name":"ekiti","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":14,"data_id":14,"name":"enugu","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":15,"data_id":15,"name":"gombe","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":16,"data_id":16,"name":"imo","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":17,"data_id":17,"name":"jigawa","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":18,"data_id":18,"name":"kaduna","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":19,"data_id":19,"name":"kano","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":20,"data_id":20,"name":"katsina","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":21,"data_id":21,"name":"kebbi","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":22,"data_id":22,"name":"kogi","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":23,"data_id":23,"name":"kwara","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":24,"data_id":24,"name":"lagos","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":25,"data_id":25,"name":"nasarawa","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":26,"data_id":26,"name":"niger","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":27,"data_id":27,"name":"ogun","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":28,"data_id":28,"name":"ondo","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":29,"data_id":29,"name":"osun","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":30,"data_id":30,"name":"oyo","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":31,"data_id":31,"name":"plateau","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":32,"data_id":32,"name":"rivers","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":33,"data_id":33,"name":"sokoto","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":34,"data_id":34,"name":"taraba","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":35,"data_id":35,"name":"yobe","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":36,"data_id":36,"name":"zamfara","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"},{"id":37,"data_id":37,"name":"federal capital territory","capital":null,"latitude":null,"longitude":null,"created_at":"2023-02-14T12:54:39.000000Z","updated_at":"2023-02-14T12:54:39.000000Z"}]}}'
         headers:
           cache-control: 'no-cache, private'
           content-type: application/json
           x-ratelimit-limit: '60'
           x-ratelimit-remaining: '58'
-          access-control-allow-origin: '*'
+          vary: Origin
         description: null
         custom: []
     responseFields: []
@@ -65,19 +65,19 @@ endpoints:
         name: id
         description: 'The ID of the state.'
         required: true
-        example: sed
+        example: voluptatem
         type: string
         custom: []
       ngState:
         name: ngState
         description: 'mixed required the `data_id` or `name` of the state.'
         required: false
-        example: ullam
+        example: voluptatem
         type: string
         custom: []
     cleanUrlParameters:
-      id: sed
-      ngState: ullam
+      id: voluptatem
+      ngState: voluptatem
     queryParameters: []
     cleanQueryParameters: []
     bodyParameters: []
@@ -92,7 +92,7 @@ endpoints:
           cache-control: 'no-cache, private'
           x-ratelimit-limit: '60'
           x-ratelimit-remaining: '57'
-          access-control-allow-origin: '*'
+          vary: Origin
         description: null
         custom: []
     responseFields: []
@@ -122,11 +122,11 @@ endpoints:
         name: ngState
         description: 'mixed required the `data_id` or `name` of the local government you want to fetch LGAs for.'
         required: false
-        example: qui
+        example: aut
         type: string
         custom: []
     cleanUrlParameters:
-      ngState: qui
+      ngState: aut
     queryParameters: []
     cleanQueryParameters: []
     bodyParameters: []
@@ -137,7 +137,7 @@ endpoints:
         status: 500
         content: |-
           {
-              "message": "State (qui) not found",
+              "message": "State (aut) not found",
               "exception": "App\\Exceptions\\NgStateException",
               "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/app/Services/NgStateService.php",
               "line": 50,
@@ -245,6 +245,20 @@ endpoints:
                       "line": 180,
                       "function": "handle",
                       "class": "Illuminate\\Routing\\Middleware\\ThrottleRequests",
+                      "type": "->"
+                  },
+                  {
+                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php",
+                      "line": 62,
+                      "function": "Illuminate\\Pipeline\\{closure}",
+                      "class": "Illuminate\\Pipeline\\Pipeline",
+                      "type": "->"
+                  },
+                  {
+                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+                      "line": 180,
+                      "function": "handle",
+                      "class": "Illuminate\\Http\\Middleware\\HandleCors",
                       "type": "->"
                   },
                   {
@@ -604,7 +618,7 @@ endpoints:
           content-type: application/json
           x-ratelimit-limit: '60'
           x-ratelimit-remaining: '56'
-          access-control-allow-origin: '*'
+          vary: Origin
         description: null
         custom: []
     responseFields: []
@@ -634,19 +648,19 @@ endpoints:
         name: ngLga
         description: ''
         required: true
-        example: quaerat
+        example: consectetur
         type: string
         custom: []
       lga:
         name: lga
         description: 'mixed required the `data_id` or `name` of the local government you want to fetch wards for.'
         required: false
-        example: veniam
+        example: ut
         type: string
         custom: []
     cleanUrlParameters:
-      ngLga: quaerat
-      lga: veniam
+      ngLga: consectetur
+      lga: ut
     queryParameters: []
     cleanQueryParameters: []
     bodyParameters: []
@@ -657,7 +671,7 @@ endpoints:
         status: 500
         content: |-
           {
-              "message": "Local government areas (quaerat) not found",
+              "message": "Local government areas (consectetur) not found",
               "exception": "App\\Exceptions\\NgLocalGovernmentException",
               "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/app/Services/NgLocalGovernmentService.php",
               "line": 23,
@@ -765,6 +779,20 @@ endpoints:
                       "line": 180,
                       "function": "handle",
                       "class": "Illuminate\\Routing\\Middleware\\ThrottleRequests",
+                      "type": "->"
+                  },
+                  {
+                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php",
+                      "line": 62,
+                      "function": "Illuminate\\Pipeline\\{closure}",
+                      "class": "Illuminate\\Pipeline\\Pipeline",
+                      "type": "->"
+                  },
+                  {
+                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+                      "line": 180,
+                      "function": "handle",
+                      "class": "Illuminate\\Http\\Middleware\\HandleCors",
                       "type": "->"
                   },
                   {
@@ -1124,7 +1152,7 @@ endpoints:
           content-type: application/json
           x-ratelimit-limit: '60'
           x-ratelimit-remaining: '55'
-          access-control-allow-origin: '*'
+          vary: Origin
         description: null
         custom: []
     responseFields: []
@@ -1154,19 +1182,19 @@ endpoints:
         name: ngWard
         description: ''
         required: true
-        example: cum
+        example: sit
         type: string
         custom: []
       ward:
         name: ward
         description: 'mixed required the `data_id` or `name` of the ward you want to fetch polling units for.'
         required: false
-        example: nulla
+        example: assumenda
         type: string
         custom: []
     cleanUrlParameters:
-      ngWard: cum
-      ward: nulla
+      ngWard: sit
+      ward: assumenda
     queryParameters: []
     cleanQueryParameters: []
     bodyParameters: []
@@ -1177,7 +1205,7 @@ endpoints:
         status: 500
         content: |-
           {
-              "message": "Ward (cum) not found",
+              "message": "Ward (sit) not found",
               "exception": "App\\Exceptions\\NgWardException",
               "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/app/Services/NgWardService.php",
               "line": 23,
@@ -1285,6 +1313,20 @@ endpoints:
                       "line": 180,
                       "function": "handle",
                       "class": "Illuminate\\Routing\\Middleware\\ThrottleRequests",
+                      "type": "->"
+                  },
+                  {
+                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php",
+                      "line": 62,
+                      "function": "Illuminate\\Pipeline\\{closure}",
+                      "class": "Illuminate\\Pipeline\\Pipeline",
+                      "type": "->"
+                  },
+                  {
+                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+                      "line": 180,
+                      "function": "handle",
+                      "class": "Illuminate\\Http\\Middleware\\HandleCors",
                       "type": "->"
                   },
                   {
@@ -1644,7 +1686,7 @@ endpoints:
           content-type: application/json
           x-ratelimit-limit: '60'
           x-ratelimit-remaining: '54'
-          access-control-allow-origin: '*'
+          vary: Origin
         description: null
         custom: []
     responseFields: []
@@ -1696,484 +1738,14 @@ endpoints:
     fileParameters: []
     responses:
       -
-        status: 500
-        content: |-
-          {
-              "message": "Undefined variable $state",
-              "exception": "ErrorException",
-              "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/app/Http/Controllers/NgStateController.php",
-              "line": 106,
-              "trace": [
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php",
-                      "line": 266,
-                      "function": "handleError",
-                      "class": "Illuminate\\Foundation\\Bootstrap\\HandleExceptions",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/app/Http/Controllers/NgStateController.php",
-                      "line": 106,
-                      "function": "Illuminate\\Foundation\\Bootstrap\\{closure}",
-                      "class": "Illuminate\\Foundation\\Bootstrap\\HandleExceptions",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Controller.php",
-                      "line": 54,
-                      "function": "inecFilter",
-                      "class": "App\\Http\\Controllers\\NgStateController",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php",
-                      "line": 43,
-                      "function": "callAction",
-                      "class": "Illuminate\\Routing\\Controller",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
-                      "line": 259,
-                      "function": "dispatch",
-                      "class": "Illuminate\\Routing\\ControllerDispatcher",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
-                      "line": 205,
-                      "function": "runController",
-                      "class": "Illuminate\\Routing\\Route",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
-                      "line": 798,
-                      "function": "run",
-                      "class": "Illuminate\\Routing\\Route",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
-                      "line": 141,
-                      "function": "Illuminate\\Routing\\{closure}",
-                      "class": "Illuminate\\Routing\\Router",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/app/Http/Middleware/JsonResponse.php",
-                      "line": 21,
-                      "function": "Illuminate\\Pipeline\\{closure}",
-                      "class": "Illuminate\\Pipeline\\Pipeline",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
-                      "line": 180,
-                      "function": "handle",
-                      "class": "App\\Http\\Middleware\\JsonResponse",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php",
-                      "line": 50,
-                      "function": "Illuminate\\Pipeline\\{closure}",
-                      "class": "Illuminate\\Pipeline\\Pipeline",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
-                      "line": 180,
-                      "function": "handle",
-                      "class": "Illuminate\\Routing\\Middleware\\SubstituteBindings",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php",
-                      "line": 126,
-                      "function": "Illuminate\\Pipeline\\{closure}",
-                      "class": "Illuminate\\Pipeline\\Pipeline",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php",
-                      "line": 92,
-                      "function": "handleRequest",
-                      "class": "Illuminate\\Routing\\Middleware\\ThrottleRequests",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php",
-                      "line": 54,
-                      "function": "handleRequestUsingNamedLimiter",
-                      "class": "Illuminate\\Routing\\Middleware\\ThrottleRequests",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
-                      "line": 180,
-                      "function": "handle",
-                      "class": "Illuminate\\Routing\\Middleware\\ThrottleRequests",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
-                      "line": 116,
-                      "function": "Illuminate\\Pipeline\\{closure}",
-                      "class": "Illuminate\\Pipeline\\Pipeline",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
-                      "line": 797,
-                      "function": "then",
-                      "class": "Illuminate\\Pipeline\\Pipeline",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
-                      "line": 776,
-                      "function": "runRouteWithinStack",
-                      "class": "Illuminate\\Routing\\Router",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
-                      "line": 740,
-                      "function": "runRoute",
-                      "class": "Illuminate\\Routing\\Router",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
-                      "line": 729,
-                      "function": "dispatchToRoute",
-                      "class": "Illuminate\\Routing\\Router",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
-                      "line": 190,
-                      "function": "dispatch",
-                      "class": "Illuminate\\Routing\\Router",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
-                      "line": 141,
-                      "function": "Illuminate\\Foundation\\Http\\{closure}",
-                      "class": "Illuminate\\Foundation\\Http\\Kernel",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php",
-                      "line": 21,
-                      "function": "Illuminate\\Pipeline\\{closure}",
-                      "class": "Illuminate\\Pipeline\\Pipeline",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php",
-                      "line": 31,
-                      "function": "handle",
-                      "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
-                      "line": 180,
-                      "function": "handle",
-                      "class": "Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php",
-                      "line": 21,
-                      "function": "Illuminate\\Pipeline\\{closure}",
-                      "class": "Illuminate\\Pipeline\\Pipeline",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php",
-                      "line": 40,
-                      "function": "handle",
-                      "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
-                      "line": 180,
-                      "function": "handle",
-                      "class": "Illuminate\\Foundation\\Http\\Middleware\\TrimStrings",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php",
-                      "line": 27,
-                      "function": "Illuminate\\Pipeline\\{closure}",
-                      "class": "Illuminate\\Pipeline\\Pipeline",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
-                      "line": 180,
-                      "function": "handle",
-                      "class": "Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php",
-                      "line": 86,
-                      "function": "Illuminate\\Pipeline\\{closure}",
-                      "class": "Illuminate\\Pipeline\\Pipeline",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
-                      "line": 180,
-                      "function": "handle",
-                      "class": "Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php",
-                      "line": 62,
-                      "function": "Illuminate\\Pipeline\\{closure}",
-                      "class": "Illuminate\\Pipeline\\Pipeline",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
-                      "line": 180,
-                      "function": "handle",
-                      "class": "Illuminate\\Http\\Middleware\\HandleCors",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Http/Middleware/TrustProxies.php",
-                      "line": 39,
-                      "function": "Illuminate\\Pipeline\\{closure}",
-                      "class": "Illuminate\\Pipeline\\Pipeline",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
-                      "line": 180,
-                      "function": "handle",
-                      "class": "Illuminate\\Http\\Middleware\\TrustProxies",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
-                      "line": 116,
-                      "function": "Illuminate\\Pipeline\\{closure}",
-                      "class": "Illuminate\\Pipeline\\Pipeline",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
-                      "line": 165,
-                      "function": "then",
-                      "class": "Illuminate\\Pipeline\\Pipeline",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
-                      "line": 134,
-                      "function": "sendRequestThroughRouter",
-                      "class": "Illuminate\\Foundation\\Http\\Kernel",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Strategies/Responses/ResponseCalls.php",
-                      "line": 299,
-                      "function": "handle",
-                      "class": "Illuminate\\Foundation\\Http\\Kernel",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Strategies/Responses/ResponseCalls.php",
-                      "line": 287,
-                      "function": "callLaravelOrLumenRoute",
-                      "class": "Knuckles\\Scribe\\Extracting\\Strategies\\Responses\\ResponseCalls",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Strategies/Responses/ResponseCalls.php",
-                      "line": 92,
-                      "function": "makeApiCall",
-                      "class": "Knuckles\\Scribe\\Extracting\\Strategies\\Responses\\ResponseCalls",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Strategies/Responses/ResponseCalls.php",
-                      "line": 45,
-                      "function": "makeResponseCall",
-                      "class": "Knuckles\\Scribe\\Extracting\\Strategies\\Responses\\ResponseCalls",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Strategies/Responses/ResponseCalls.php",
-                      "line": 35,
-                      "function": "makeResponseCallIfConditionsPass",
-                      "class": "Knuckles\\Scribe\\Extracting\\Strategies\\Responses\\ResponseCalls",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Extractor.php",
-                      "line": 209,
-                      "function": "__invoke",
-                      "class": "Knuckles\\Scribe\\Extracting\\Strategies\\Responses\\ResponseCalls",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Extractor.php",
-                      "line": 163,
-                      "function": "iterateThroughStrategies",
-                      "class": "Knuckles\\Scribe\\Extracting\\Extractor",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Extracting/Extractor.php",
-                      "line": 95,
-                      "function": "fetchResponses",
-                      "class": "Knuckles\\Scribe\\Extracting\\Extractor",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/GroupedEndpoints/GroupedEndpointsFromApp.php",
-                      "line": 122,
-                      "function": "processRoute",
-                      "class": "Knuckles\\Scribe\\Extracting\\Extractor",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/GroupedEndpoints/GroupedEndpointsFromApp.php",
-                      "line": 69,
-                      "function": "extractEndpointsInfoFromLaravelApp",
-                      "class": "Knuckles\\Scribe\\GroupedEndpoints\\GroupedEndpointsFromApp",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/GroupedEndpoints/GroupedEndpointsFromApp.php",
-                      "line": 47,
-                      "function": "extractEndpointsInfoAndWriteToDisk",
-                      "class": "Knuckles\\Scribe\\GroupedEndpoints\\GroupedEndpointsFromApp",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/knuckleswtf/scribe/src/Commands/GenerateDocumentation.php",
-                      "line": 51,
-                      "function": "get",
-                      "class": "Knuckles\\Scribe\\GroupedEndpoints\\GroupedEndpointsFromApp",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php",
-                      "line": 36,
-                      "function": "handle",
-                      "class": "Knuckles\\Scribe\\Commands\\GenerateDocumentation",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/Util.php",
-                      "line": 41,
-                      "function": "Illuminate\\Container\\{closure}",
-                      "class": "Illuminate\\Container\\BoundMethod",
-                      "type": "::"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php",
-                      "line": 93,
-                      "function": "unwrapIfClosure",
-                      "class": "Illuminate\\Container\\Util",
-                      "type": "::"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php",
-                      "line": 35,
-                      "function": "callBoundMethod",
-                      "class": "Illuminate\\Container\\BoundMethod",
-                      "type": "::"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Container/Container.php",
-                      "line": 651,
-                      "function": "call",
-                      "class": "Illuminate\\Container\\BoundMethod",
-                      "type": "::"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Console/Command.php",
-                      "line": 182,
-                      "function": "call",
-                      "class": "Illuminate\\Container\\Container",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/symfony/console/Command/Command.php",
-                      "line": 291,
-                      "function": "execute",
-                      "class": "Illuminate\\Console\\Command",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Console/Command.php",
-                      "line": 151,
-                      "function": "run",
-                      "class": "Symfony\\Component\\Console\\Command\\Command",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/symfony/console/Application.php",
-                      "line": 1014,
-                      "function": "run",
-                      "class": "Illuminate\\Console\\Command",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/symfony/console/Application.php",
-                      "line": 301,
-                      "function": "doRunCommand",
-                      "class": "Symfony\\Component\\Console\\Application",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/symfony/console/Application.php",
-                      "line": 171,
-                      "function": "doRun",
-                      "class": "Symfony\\Component\\Console\\Application",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Console/Application.php",
-                      "line": 102,
-                      "function": "run",
-                      "class": "Symfony\\Component\\Console\\Application",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php",
-                      "line": 155,
-                      "function": "run",
-                      "class": "Illuminate\\Console\\Application",
-                      "type": "->"
-                  },
-                  {
-                      "file": "/Users/cornelius/Documents/Work/Dev/violenceTracker/artisan",
-                      "line": 35,
-                      "function": "handle",
-                      "class": "Illuminate\\Foundation\\Console\\Kernel",
-                      "type": "->"
-                  }
-              ]
-          }
+        status: 200
+        content: '{"status":"success","data":{"data":{"state":null}}}'
         headers:
           cache-control: 'no-cache, private'
           content-type: application/json
           x-ratelimit-limit: '60'
           x-ratelimit-remaining: '53'
-          access-control-allow-origin: '*'
+          vary: Origin
         description: null
         custom: []
     responseFields: []

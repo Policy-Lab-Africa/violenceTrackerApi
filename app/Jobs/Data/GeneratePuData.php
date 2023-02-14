@@ -5,6 +5,7 @@ namespace App\Jobs\Data;
 use App\Models\NgPuLocation;
 use App\Models\NgPollingUnit;
 use Illuminate\Bus\Queueable;
+use Illuminate\Support\Facades\Log;
 use Illuminate\Queue\SerializesModels;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Queue\InteractsWithQueue;
@@ -12,7 +13,7 @@ use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Foundation\Bus\Dispatchable;
 use Illuminate\Contracts\Queue\ShouldBeUnique;
 
-class GeneratePuData implements ShouldQueue
+class GeneratePuData 
 {
     use Dispatchable, InteractsWithQueue, Queueable, SerializesModels;
 
@@ -41,53 +42,72 @@ class GeneratePuData implements ShouldQueue
     public function handle()
     {
         //
-        $stateDirs = Storage::disk('s3')->directories(config('inecdata.path'));
-        foreach($stateDirs as $stateDir)
-        {
-            $stateLga = Storage::disk('s3')->directories($stateDir);
-            foreach($stateLga as $stateLga)
-            {
-                $lgas = Storage::disk('s3')->directories($stateLga);
-                foreach($lgas as $lga)
-                {
-                    $allFiles = Storage::disk('s3')->allFiles($lga);
-                    //               
-                    foreach($allFiles as $file)
-                    {
-                        if (strpos($file, '/units/index.json') !== false) {
-                            
-                            $units = collect(json_decode(Storage::disk('s3')->get($file)));
-                            foreach ($units as $unit) {
-                                # code...
-                                NgPollingUnit::firstOrCreate([
-                                    'data_id' => $unit->id,
-                                    'name' => $unit->name,
-                                    'registration_area_id' => $unit->registration_area_id,
-                                    'precise_location' => $unit->precise_location,
-                                    'abbreviation' => $unit->abbreviation,
-                                    'units' => $unit->units,
-                                    'delimitation' => $unit->delimitation,
-                                    'remark' => $unit->remark,
-                                    'ward_id' => $unit->ward_id,
-                                ]);
-                                
-                                NgPuLocation::firstOrCreate([
-                                    'ng_polling_unit_id' => $unit->id,
-                                    'latitude' => $unit->location?->latitude,
-                                    'longitude' => $unit->location?->longitude,
-                                    'viewport' => json_encode($unit->location?->viewport),
-                                    'formatted_address' => $unit->location?->formatted_address,
-                                    'google_map_url' => $unit->location?->google_map_url,
-                                    'google_place_id' => $unit->location?->google_place_id,
-                                ]);
-                                
-                            }
-                        }
-                        
+        try{
 
+            $stateDirs = Storage::disk('s3')->directories(config('inecdata.path'));
+            foreach($stateDirs as $stateDir)
+            {
+                $stateLga = Storage::disk('s3')->directories($stateDir);
+                foreach($stateLga as $stateLga)
+                {
+                    Log::debug('RANCreatePU', [
+                        'unit' => $stateLga
+                    ]);
+                    $lgas = Storage::disk('s3')->directories($stateLga);
+                    foreach($lgas as $lga)
+                    {
+                        Log::debug('RAN2CreatePU', [
+                            'unit' => $lga
+                        ]);
+                        $allFiles = Storage::disk('s3')->allFiles($lga);
+                        //               
+                        foreach($allFiles as $file)
+                        {
+                            Log::debug('RAN3CreatePU', [
+                                'unit' => $file
+                            ]);
+                            if (strpos($file, '/units/index.json') !== false) {
+
+                                $units = collect(json_decode(Storage::disk('s3')->get($file)));
+                                foreach ($units as $unit) {
+                                    # code...
+                                        
+                                    NgPollingUnit::firstOrCreate([
+                                        'data_id' => $unit->id,
+                                        'name' => $unit->name,
+                                        'registration_area_id' => $unit->registration_area_id,
+                                        'precise_location' => $unit->precise_location,
+                                        'abbreviation' => $unit->abbreviation,
+                                        'units' => $unit->units,
+                                        'delimitation' => $unit->delimitation,
+                                        'remark' => $unit->remark,
+                                        'ward_id' => $unit->ward_id,
+                                    ]);
+                                    
+                                    NgPuLocation::firstOrCreate([
+                                        'ng_polling_unit_id' => $unit->id,
+                                        'latitude' => $unit->location?->latitude,
+                                        'longitude' => $unit->location?->longitude,
+                                        'viewport' => json_encode($unit->location?->viewport),
+                                        'formatted_address' => $unit->location?->formatted_address,
+                                        'google_map_url' => $unit->location?->google_map_url,
+                                        'google_place_id' => $unit->location?->google_place_id,
+                                    ]);
+
+                                    Log::debug('CreatePU', [
+                                        'unit' => $unit->name,
+                                    ]);
+                                }
+    
+                            }
+                            
+                        }
                     }
                 }
             }
+        } catch(Throwable $th)
+        {
+            Log::error($th);
         }
     }
 }

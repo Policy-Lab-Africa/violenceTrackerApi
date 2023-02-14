@@ -93,17 +93,19 @@ class NgStateController extends Controller
 
         $response = [];
 
+        $state = null;
+
         if($request->has('state'))
         {
              
-            $response['state'] = $state  = (new NgStateService)
+            $response['state'] = $state = (new NgStateService)
                             ->findState($request->state)
                             ->getState();
         }
 
         if($request->has('lgas'))
         {
-            !$request->lgas ?: $response['state']  = $state?->load('lgas');
+            $response['state']  = $state?->load('lgas');
         }
 
 
