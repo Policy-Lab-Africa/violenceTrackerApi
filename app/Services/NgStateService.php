@@ -25,7 +25,7 @@ class NgStateService
         $this->ngState = $state;
     }
 
-    public function getState()
+    public function getState(): NgState
     {
         return $this->ngState;
     }

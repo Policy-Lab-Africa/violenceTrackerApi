@@ -32,14 +32,14 @@ class FormatData
         }
 
         $localGovernments = collect($localGovernments);
-        $resultData['local_governments']['local_governments'] = $localGovernments
-        ->unique();
+        $resultData['local_governments']['data'] = $localGovernments
+        ->unique()->values();
         $resultData['local_governments']['count_unique'] = $localGovernments
         ->unique()->count();
         $resultData['local_governments']['count_reports'] = $localGovernments->groupBy('data_id')->map->count();
         
         $types = collect($types);
-        $resultData['types']['types'] = $types;
+        $resultData['types']['data'] = $types->unique()->values();
         $resultData['types']['count_unique'] = $types->unique()->count();
         $resultData['types']['count_reports'] = $types->groupBy('id')->map->count();
 
