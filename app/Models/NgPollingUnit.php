@@ -2,9 +2,10 @@
 
 namespace App\Models;
 
-use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Support\Facades\DB;
 use Illuminate\Database\Eloquent\Model;
 use \Znck\Eloquent\Traits\BelongsToThrough;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
 
 class NgPollingUnit extends Model
 {
@@ -46,9 +47,6 @@ class NgPollingUnit extends Model
 
     public function localGovernment()
     {
-        return $this->belongsToThrough(NgLocalGovernment::class, NgWard::class, null,
-        '',
-        [NgWard::class => 'ward_id', NgLocalGovernment::class => 'local_government_id'],
-        );
+        return $this->ward->localGovernment();
     }
 }

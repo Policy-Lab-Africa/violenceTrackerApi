@@ -36,12 +36,20 @@ class FormatData
         ->unique()->values();
         $resultData['local_governments']['count_unique'] = $localGovernments
         ->unique()->count();
-        $resultData['local_governments']['count_reports'] = $localGovernments->groupBy('data_id')->map->count();
+        $resultData['local_governments']['count_reports'] = $localGovernments->groupBy('data_id')->map(function ($item, $key) {
+            return [
+                $item->first()->name => $item->count()
+            ];
+        })->values();
         
         $types = collect($types);
         $resultData['types']['data'] = $types->unique()->values();
         $resultData['types']['count_unique'] = $types->unique()->count();
-        $resultData['types']['count_reports'] = $types->groupBy('id')->map->count();
+        $resultData['types']['count_by_reports'] = $types->groupBy('id')->map(function ($item, $key) {
+            return [
+                $item->first()->name => $item->count()
+            ];
+        })->values();
 
         return [
             'data' => $data,
@@ -69,17 +77,31 @@ class FormatData
 
         }
 
-        $localGovernments = collect($localGovernments)->unique('name');
-        $resultData['local_governments'] = $localGovernments;
-        $resultData['local_governments']['count'] = $localGovernments->count();
+        $localGovernments = collect($localGovernments);
+        $resultData['local_governments']['data'] = $localGovernments
+        ->unique()->values();
+        $resultData['local_governments']['count_unique'] = $localGovernments
+        ->unique()->count();
+        $resultData['local_governments']['count_reports'] = $localGovernments->groupBy('data_id')->map(function ($item, $key) {
+            return [
+                $item->first()->name => $item->count()
+            ];
+        })->values();
         
-        $types = collect($types)->unique('name');
-        $resultData['types']['types'] = $types;
-        $resultData['types']['count'] = $types->count();
-        
+        $types = collect($types);
+        $resultData['types']['data'] = $types->unique()->values();
+        $resultData['types']['count_unique'] = $types->unique()->count();
+        $resultData['types']['count_by_reports'] = $types->groupBy('id')->map(function ($item, $key) {
+            return [
+                $item->first()->name => $item->count()
+            ];
+        })->values();
+
         return [
             'data' => $data,
-            'meta_data' => $resultData,
+            'meta_data' =>$resultData,
         ];
     }
+
+
 }

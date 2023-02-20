@@ -28,6 +28,16 @@ class ViolenceReport extends Model
     protected $with = ['pollingUnit', 'type'];
 
     /**
+     * The attributes that should be hidden for serialization.
+     *
+     * @var array<int, string>
+     */
+    protected $hidden = [
+        'ip_address',
+        'user_agent',
+    ];
+
+    /**
      * Get the report's media file.
      *
      * @return \Illuminate\Database\Eloquent\Casts\Attribute

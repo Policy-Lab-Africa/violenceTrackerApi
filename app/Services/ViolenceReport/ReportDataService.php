@@ -179,13 +179,13 @@ class ReportDataService
     {
         // 
         
-        $this->formattedResults[]['state_results'] = isset($this->stateResults) ? FormatData::format($this->stateResults) : [];
+        $this->formattedResults['state_results'] = isset($this->stateResults) ? FormatData::format($this->stateResults) : [];
 
-        $this->formattedResults[]['local_government_results'] = isset($this->localGovernmentResults) ? FormatData::format($this->localGovernmentResults) : [];
+        $this->formattedResults['local_government_results'] = isset($this->localGovernmentResults) ? FormatData::format($this->localGovernmentResults) : [];
 
-        $this->formattedResults[]['ward_results'] = isset($this->wardResults) ? FormatData::format($this->wardResults) : [];
+        $this->formattedResults['ward_results'] = isset($this->wardResults) ? FormatData::format($this->wardResults) : [];
         
-        $this->formattedResults[]['polling_unit_results'] = isset($this->pollingUnitsResults) ? FormatData::formatPoliingUnit($this->pollingUnitsResults) : [];
+        $this->formattedResults['polling_unit_results'] = isset($this->pollingUnitsResults) ? FormatData::formatPoliingUnit($this->pollingUnitsResults) : [];
 
         return $this->formattedResults;
     }
