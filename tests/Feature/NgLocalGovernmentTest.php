@@ -3,23 +3,15 @@
 namespace Tests\Feature;
 
 use Tests\TestCase;
+use App\Models\NgState;
+use App\Models\NgLocalGovernment;
 use Illuminate\Foundation\Testing\WithFaker;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Foundation\Testing\DatabaseMigrations;
 
 class NgLocalGovernmentTest extends TestCase
 {
-    use RefreshDatabase, DatabaseMigrations;
-
-    public function setUp(): void
-    {
-        parent::setUp();
-
-        // seed the database
-        $this->artisan('migrate:fresh --seed');
-        // alternatively you can call
-        // $this->seed();
-    }
+    use RefreshDatabase;
 
     /**
      * Fetches local government areas successfully.
@@ -29,12 +21,15 @@ class NgLocalGovernmentTest extends TestCase
      */
     public function getLocalGovernmentsForASpecifiedState()
     {
-        $knownStateDataIds = [32, 24, 37];
-        $response = $this->get('api/states/'.$knownStateDataIds[array_rand($knownStateDataIds)].'/lgas');
+        $state = NgState::factory()->has(NgLocalGovernment::factory()->count(3), 'lgas')->create();
+
+        $response = $this->get('api/states/'.$state->data_id.'/lgas');
 
         $response->assertStatus(200)->assertJson([
             'status' => 'success',
-            'data' => [],
+            'data' => [
+                'local_government_areas' => []
+            ],
         ]);
     }
 }

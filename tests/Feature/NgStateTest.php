@@ -3,23 +3,21 @@
 namespace Tests\Feature;
 
 use Tests\TestCase;
+use App\Models\NgState;
 use Illuminate\Foundation\Testing\WithFaker;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Foundation\Testing\DatabaseMigrations;
 
 class NgStateTest extends TestCase
 {
-    use RefreshDatabase, DatabaseMigrations;
+    use RefreshDatabase;
 
+    public $states;
 
     public function setUp(): void
     {
         parent::setUp();
-
-        // seed the database
-        $this->artisan('migrate:fresh --seed --seeder=NgStateSeeder');
-        // alternatively you can call
-        // $this->seed();
+        $this->states = NgState::factory()->count(3)->create();
     }
 
     /**
@@ -29,12 +27,15 @@ class NgStateTest extends TestCase
      */
     public function testGetNgStatesIsSuccessful()
     {
+        
         $response = $this->get('api/states');
 
         $response->assertStatus(200)
         ->assertJson([
             'status' => 'success',
-            'data' => [],
+            'data' => [
+                'states' => []
+            ],
         ]);
     }
 
@@ -45,14 +46,25 @@ class NgStateTest extends TestCase
      */
     public function testGetANigerianStateIsSuccessful()
     {
-        $response = $this->get('api/states/1');
+        $responseName = $this->get('api/states/'.$this->states->first()->name);
+        $responseId = $this->get('api/states/'.$this->states->first()->data_id);
 
-        $response->assertStatus(200)
+        $responseName->assertStatus(200)
         ->assertJson([
             'status' => 'success',
             'data' => [
                 'state' => [
-                    "id" => 1
+                    "name" => $this->states->first()->name
+                ]
+            ],
+        ]);
+
+        $responseId->assertStatus(200)
+        ->assertJson([
+            'status' => 'success',
+            'data' => [
+                'state' => [
+                    "name" => $this->states->first()->name
                 ]
             ],
         ]);

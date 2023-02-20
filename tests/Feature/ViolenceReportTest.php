@@ -11,6 +11,7 @@ use App\Models\ViolenceType;
 use App\Models\NgPollingUnit;
 use App\Models\ViolenceReport;
 use App\Models\NgLocalGovernment;
+use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\Queue;
 use Illuminate\Foundation\Testing\WithFaker;
 use Illuminate\Foundation\Testing\RefreshDatabase;
@@ -18,7 +19,7 @@ use Illuminate\Foundation\Testing\DatabaseMigrations;
 
 class ViolenceReportTest extends TestCase
 {
-    use RefreshDatabase, DatabaseMigrations, WithFaker;
+    use RefreshDatabase, WithFaker;
 
     private $state, $lga, $ward, $pollingUnit, $type;
     
@@ -130,8 +131,8 @@ class ViolenceReportTest extends TestCase
 
         $this->get(route('violence-reports.show.data', [
             'q'=>NgState::find($reports->first()->ng_state_id)->name,
-            'start' => date('d-m-Y',  strtotime('8 years ago')),
-            'end' => date('d-m-Y',  strtotime('1 years ago')),
+            'start' => date('Y-m-d',  strtotime('8 years ago')),
+            'end' => date('Y-m-d',  strtotime('1 years ago')),
             ]))
             ->assertStatus(200);
     }

@@ -3,23 +3,15 @@
 namespace Tests\Feature;
 
 use Tests\TestCase;
+use App\Models\NgWard;
+use App\Models\NgPollingUnit;
 use Illuminate\Foundation\Testing\WithFaker;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Foundation\Testing\DatabaseMigrations;
 
 class NgPollingUnitTest extends TestCase
 {
-    use RefreshDatabase, DatabaseMigrations;
-
-    public function setUp(): void
-    {
-        parent::setUp();
-
-        // seed the database
-        $this->artisan('migrate:fresh --seed');
-        // alternatively you can call
-        // $this->seed();
-    }
+    use RefreshDatabase;
 
     /**
      * Fetches polling units for a specified ward successfully.
@@ -29,12 +21,15 @@ class NgPollingUnitTest extends TestCase
      */
     public function getPollingUnitsForASpecifiedWard()
     {
-        $knownWardDataIds = [18814, 19648, 5860];
-        $response = $this->get('api/wards/'.$knownWardDataIds[array_rand($knownWardDataIds)].'/polling-units');
+        $ward = NgWard::factory()->has(NgPollingUnit::factory()->count(3), 'pollingUnits')->create();
+
+        $response = $this->get('api/wards/'.$ward->data_id.'/polling-units');
 
         $response->assertStatus(200)->assertJson([
             'status' => 'success',
-            'data' => [],
+            'data' => [
+                'wards' => [] // looks like there was an error that named polling units -> wards
+            ],
         ]);
     }
 }

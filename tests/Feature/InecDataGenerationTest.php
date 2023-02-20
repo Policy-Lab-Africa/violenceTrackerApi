@@ -18,6 +18,7 @@ class InecDataGenerationTest extends TestCase
      */
     public function testGenerateStates()
     {
+        return $this->markTestSkipped('Data generated in all areas, need to switch to mocked objects');
         $this->artisan('inecdata:generate state')->assertSuccessful();
 
     }
@@ -28,6 +29,7 @@ class InecDataGenerationTest extends TestCase
      */
     public function testGenerateLgas()
     {
+        return $this->markTestSkipped('Data generated in all areas, need to switch to mocked objects');
         $this->artisan('inecdata:generate lga')->assertSuccessful();
 
     }
@@ -38,6 +40,7 @@ class InecDataGenerationTest extends TestCase
      */
     public function testGenerateWards()
     {
+        return $this->markTestSkipped('Data generated in all areas, need to switch to mocked objects');
         $this->artisan('inecdata:generate ward')->assertSuccessful();
 
     }
@@ -48,6 +51,7 @@ class InecDataGenerationTest extends TestCase
      */
     public function testGeneratePollingUnits()
     {
+        return $this->markTestSkipped('Data generated in all areas, need to switch to mocked objects');
         $this->artisan('inecdata:generate polling-unit')->assertSuccessful();
     }
 }

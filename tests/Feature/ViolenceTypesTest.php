@@ -9,7 +9,7 @@ use Illuminate\Foundation\Testing\DatabaseMigrations;
 
 class ViolenceTypesTest extends TestCase
 {
-    use RefreshDatabase, DatabaseMigrations;
+    use RefreshDatabase;
     /**
      * A HTTP test for successful response from the violence test endpoint.
      * @test
