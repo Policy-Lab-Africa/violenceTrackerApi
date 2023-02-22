@@ -12,6 +12,8 @@ use Illuminate\Queue\InteractsWithQueue;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Foundation\Bus\Dispatchable;
 use Illuminate\Contracts\Queue\ShouldBeUnique;
+use Stevebauman\Location\Facades\Location;
+use Jaybizzle\CrawlerDetect\CrawlerDetect;
 
 class PublishTweet implements ShouldQueue
 {
@@ -37,10 +39,17 @@ class PublishTweet implements ShouldQueue
         //...
         $tweet = substr($this->report->title ?? $this->report->description, 0, 150).'.. ';
         $link = route('violence-reports.show', ['violence_report' => $this->report->id ]);
-        (new TwitterService)->tweet(
-            $tweet.$link,
-            !is_null($this->report->file) ? Storage::disk('s3')->get($this->report->file) : null
-        );
-        return;
+        $CrawlerDetect = new CrawlerDetect;
+        $countryName = Location::get($this->report->ip_address)->countryName;
+
+        if($this->report->user_agent == '' || $CrawlerDetect->isCrawler($this->report->user_agent) || $countryName != 'Nigeria' || $this->report->ip_address == '') {
+            return $this->sendError(['violence_report' => 'Something went wrong!']);
+        } else {
+            (new TwitterService)->tweet($tweet, $this->report->file);
+
+            return;
+        }
+
+        
     }
 }
