@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return redirect('app.violencetrack.ng');
+    return redirect()->away(url('https://app.violencetrack.ng'));
 });
