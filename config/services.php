@@ -39,6 +39,10 @@ return [
         'access_token'    => env('TWITTER_ACCESS_TOKEN'),
         'access_secret'   => env('TWITTER_ACCESS_SECRET'),
         'user_id'   => env('TWITTER_USER_ID'),
+    ],
+    'googleRecaptcha' => [
+        'siteKey' => env('GOOGLE_RECAPTCHA_SITE_KEY', null),
+        'secretKey' => env('GOOGLE_RECAPTCHA_KEY', null),
     ]
 
 ];
