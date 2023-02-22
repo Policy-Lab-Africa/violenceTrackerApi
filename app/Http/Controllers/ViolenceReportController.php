@@ -21,6 +21,15 @@ use App\Services\ViolenceReport\ReportDataService;
 
 class ViolenceReportController extends Controller
 {
+
+    /**
+     * Applies middlewares
+     */
+    public function __construct()
+    {
+        $this->middleware('recaptcha.passes')->only(['store']);
+    }
+
     /**
      * Get violence reports
      * 
