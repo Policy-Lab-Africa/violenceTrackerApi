@@ -3,3 +3,5 @@ os: linux
 files:
   - source: ./
     destination: /var/www/html/dev.violencetrack.ng/
+  - source: ./
+    destination: /var/www/html/prod.violencetrack.ng/
