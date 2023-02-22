@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return 'Election violence tracker 0.0.0';
+    return redirect('app.violencetrack.ng');
 });
