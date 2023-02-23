@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['GET', 'OPTION', 'HEAD', 'POST', 'PUT', 'PATCH'],
 
-    'allowed_origins' => ['http://localhost', 'http://localhost:3000', 'https://violence-tracker-web-o7pr.vercel.app', 'app.violencetrack.ng', 'violencetrack.ng', 'www.violencetrack.ng'],
+    'allowed_origins' => ['http://localhost', 'http://localhost:3000', 'https://violence-tracker-web-o7pr.vercel.app', 'https://app.violencetrack.ng', 'https://violencetrack.ng', 'https://www.violencetrack.ng'],
 
     'allowed_origins_patterns' => [],
 
