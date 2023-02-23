@@ -28,8 +28,11 @@ class ForceCors
             ->header('Access-Control-Allow-Headers', '*')
             ->header('Access-Control-Allow-Credentials', 'true');
         } else {
+
             $response
-            ->header('Access-Control-Allow-Origin', '*.violencetrack.ng')
+            ->header('Access-Control-Allow-Origin', 'https://violencetrack.ng')
+            ->header('Access-Control-Allow-Origin', 'https://app.violencetrack.ng')
+            ->header('Access-Control-Allow-Origin', 'https://www.violencetrack.ng')
             ->header('Access-Control-Allow-Methods', 'GET, POST, PUT, OPTIONS')
             ->header('Access-Control-Allow-Headers', '*')
             ->header('Access-Control-Allow-Credentials', 'true');
