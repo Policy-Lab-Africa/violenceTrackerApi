@@ -5,3 +5,4 @@ files:
     destination: /var/www/html/dev.violencetrack.ng/
   - source: ./
     destination: /var/www/html/prod.violencetrack.ng/
+file_exists_behavior: OVERWRITE
