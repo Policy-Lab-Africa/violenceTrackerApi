@@ -27,7 +27,7 @@ class ViolenceReportController extends Controller
      */
     public function __construct()
     {
-        $this->middleware('recaptcha.passes')->only(['store']);
+        // $this->middleware('recaptcha.passes')->only(['store']);
     }
 
     /**
