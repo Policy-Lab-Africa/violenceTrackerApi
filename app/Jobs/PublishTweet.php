@@ -31,6 +31,9 @@ class PublishTweet implements ShouldQueue
 
     /**
      * Execute the job.
+     * 
+     * ToDo
+     * Code need to be refactored in the future with more checks like adding a labels, tags etc.
      *
      * @return void
      */
@@ -42,14 +45,9 @@ class PublishTweet implements ShouldQueue
         $CrawlerDetect = new CrawlerDetect;
         $countryName = Location::get($this->report->ip_address)->countryName;
 
-        if($this->report->user_agent == '' || $CrawlerDetect->isCrawler($this->report->user_agent) || $countryName != 'Nigeria' || $this->report->ip_address == '') {
-            return $this->sendError(['violence_report' => 'Something went wrong!']);
-        } else {
-            (new TwitterService)->tweet($tweet, $this->report->file);
-
-            return;
-        }
-
+        if($this->report->user_agent != '' || !$CrawlerDetect->isCrawler($this->report->user_agent) || $countryName == 'Nigeria' || $this->report->ip_address != null) {
+            return (new TwitterService)->tweet($tweet, $this->report->file);
+        } 
         
     }
 }
