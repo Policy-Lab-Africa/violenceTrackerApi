@@ -26,7 +26,7 @@ class TwitterService
     /**
      * Post a tweet
      *
-     * @param array $tweet['text', 'image']
+     * @param array $tweet['text', 'media']
      * @return void
      */
     public function tweet(string $tweet, string $media = null)

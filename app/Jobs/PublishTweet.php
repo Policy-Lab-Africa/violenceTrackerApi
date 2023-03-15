@@ -36,10 +36,10 @@ class PublishTweet implements ShouldQueue
     {
         //...
         $tweet = substr($this->report->title ?? $this->report->description, 0, 150).'.. ';
-        $link = route('violence-reports.show', ['violence_report' => $this->report->id ]);
+        $link = 'https://app.violencetrack.ng/reports';
         (new TwitterService)->tweet(
             $tweet.$link,
-            !is_null($this->report->file) ? Storage::disk('s3')->get($this->report->file) : null
+            $this->report->file
         );
         return;
     }
