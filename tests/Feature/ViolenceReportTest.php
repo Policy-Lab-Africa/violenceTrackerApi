@@ -19,7 +19,7 @@ use Illuminate\Foundation\Testing\DatabaseMigrations;
 
 class ViolenceReportTest extends TestCase
 {
-    use RefreshDatabase, WithFaker;
+    use RefreshDatabase, WithFaker, DatabaseMigrations;
 
     private $state, $lga, $ward, $pollingUnit, $type;
     
