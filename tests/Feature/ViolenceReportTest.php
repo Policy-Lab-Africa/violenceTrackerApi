@@ -6,7 +6,6 @@ use Tests\TestCase;
 use App\Models\NgWard;
 use App\Models\NgState;
 use App\Jobs\PublishTweet;
-use App\Models\NgPuLocation;
 use App\Models\ViolenceType;
 use App\Models\NgPollingUnit;
 use App\Models\ViolenceReport;
@@ -15,11 +14,10 @@ use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\Queue;
 use Illuminate\Foundation\Testing\WithFaker;
 use Illuminate\Foundation\Testing\RefreshDatabase;
-use Illuminate\Foundation\Testing\DatabaseMigrations;
 
 class ViolenceReportTest extends TestCase
 {
-    use RefreshDatabase, WithFaker, DatabaseMigrations;
+    use RefreshDatabase, WithFaker;
 
     private $state, $lga, $ward, $pollingUnit, $type;
     

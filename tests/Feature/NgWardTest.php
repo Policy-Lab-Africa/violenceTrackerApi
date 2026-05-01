@@ -5,13 +5,11 @@ namespace Tests\Feature;
 use Tests\TestCase;
 use App\Models\NgWard;
 use App\Models\NgLocalGovernment;
-use Illuminate\Foundation\Testing\WithFaker;
 use Illuminate\Foundation\Testing\RefreshDatabase;
-use Illuminate\Foundation\Testing\DatabaseMigrations;
 
 class NgWardTest extends TestCase
 {
-    use RefreshDatabase, DatabaseMigrations;
+    use RefreshDatabase;
 
     /**
      * Fetches wards in local government areas successfully.
