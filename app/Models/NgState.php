@@ -33,13 +33,11 @@ class NgState extends Model
         return $this->hasManyThrough(
             NgWard::class,
             NgLocalGovernment::class,
-            'state_id', 
-            'local_government_id', 
-            'data_id', 
+            'state_id',
+            'local_government_id',
+            'data_id',
             'data_id');
     }
-
-    
 
     public function pollingUnits()
     {
@@ -47,14 +45,14 @@ class NgState extends Model
             NgPollingUnit::class,
             [NgLocalGovernment::class, NgWard::class], // Intermediate models,
             [
-               'state_id', // Foreign key on the "ng_local_governments" table.
-               'local_government_id',    // Foreign key on the "ng_wards" table.
-               'ward_id'     // Foreign key on the "ng_polling_units" table.
+                'state_id', // Foreign key on the "ng_local_governments" table.
+                'local_government_id',    // Foreign key on the "ng_wards" table.
+                'ward_id',     // Foreign key on the "ng_polling_units" table.
             ],
             [
-              'data_id', 
-              'data_id', 
-              'data_id'  
+                'data_id',
+                'data_id',
+                'data_id',
             ]
         );
     }

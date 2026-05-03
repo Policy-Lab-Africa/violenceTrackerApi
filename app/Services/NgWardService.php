@@ -2,8 +2,8 @@
 
 namespace App\Services;
 
-use App\Models\NgWard;
 use App\Exceptions\NgWardException;
+use App\Models\NgWard;
 
 class NgWardService
 {
@@ -13,8 +13,7 @@ class NgWardService
     {
         $ngWard = NgWard::where('data_id', $ward)->orWhere('name', $ward)->first();
 
-        if(!is_null($ngWard))
-        {
+        if (! is_null($ngWard)) {
             $this->setWard($ngWard);
 
             return $this;

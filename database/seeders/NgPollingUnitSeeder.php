@@ -4,7 +4,6 @@ namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\Artisan;
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 
 class NgPollingUnitSeeder extends Seeder
 {

@@ -2,11 +2,9 @@
 
 namespace Tests\Feature;
 
-use Tests\TestCase;
 use App\Models\NgState;
-use Illuminate\Foundation\Testing\WithFaker;
 use Illuminate\Foundation\Testing\RefreshDatabase;
-use Illuminate\Foundation\Testing\DatabaseMigrations;
+use Tests\TestCase;
 
 class NgStateTest extends TestCase
 {
@@ -14,7 +12,7 @@ class NgStateTest extends TestCase
 
     public $states;
 
-    public function setUp(): void
+    protected function setUp(): void
     {
         parent::setUp();
         $this->states = NgState::factory()->count(3)->create();
@@ -25,18 +23,18 @@ class NgStateTest extends TestCase
      *
      * @return void
      */
-    public function testGetNgStatesIsSuccessful()
+    public function test_get_ng_states_is_successful()
     {
-        
+
         $response = $this->get('api/states');
 
         $response->assertStatus(200)
-        ->assertJson([
-            'status' => 'success',
-            'data' => [
-                'states' => []
-            ],
-        ]);
+            ->assertJson([
+                'status' => 'success',
+                'data' => [
+                    'states' => [],
+                ],
+            ]);
     }
 
     /**
@@ -44,29 +42,29 @@ class NgStateTest extends TestCase
      *
      * @return void
      */
-    public function testGetANigerianStateIsSuccessful()
+    public function test_get_a_nigerian_state_is_successful()
     {
         $responseName = $this->get('api/states/'.$this->states->first()->name);
         $responseId = $this->get('api/states/'.$this->states->first()->data_id);
 
         $responseName->assertStatus(200)
-        ->assertJson([
-            'status' => 'success',
-            'data' => [
-                'state' => [
-                    "name" => $this->states->first()->name
-                ]
-            ],
-        ]);
+            ->assertJson([
+                'status' => 'success',
+                'data' => [
+                    'state' => [
+                        'name' => $this->states->first()->name,
+                    ],
+                ],
+            ]);
 
         $responseId->assertStatus(200)
-        ->assertJson([
-            'status' => 'success',
-            'data' => [
-                'state' => [
-                    "name" => $this->states->first()->name
-                ]
-            ],
-        ]);
+            ->assertJson([
+                'status' => 'success',
+                'data' => [
+                    'state' => [
+                        'name' => $this->states->first()->name,
+                    ],
+                ],
+            ]);
     }
 }

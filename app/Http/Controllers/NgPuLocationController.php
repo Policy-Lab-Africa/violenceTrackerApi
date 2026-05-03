@@ -5,13 +5,14 @@ namespace App\Http\Controllers;
 use App\Http\Requests\StoreNgPuLocationRequest;
 use App\Http\Requests\UpdateNgPuLocationRequest;
 use App\Models\NgPuLocation;
+use Illuminate\Http\Response;
 
 class NgPuLocationController extends Controller
 {
     /**
      * Display a listing of the resource.
      *
-     * @return \Illuminate\Http\Response
+     * @return Response
      */
     public function index()
     {
@@ -21,7 +22,7 @@ class NgPuLocationController extends Controller
     /**
      * Show the form for creating a new resource.
      *
-     * @return \Illuminate\Http\Response
+     * @return Response
      */
     public function create()
     {
@@ -31,8 +32,7 @@ class NgPuLocationController extends Controller
     /**
      * Store a newly created resource in storage.
      *
-     * @param  \App\Http\Requests\StoreNgPuLocationRequest  $request
-     * @return \Illuminate\Http\Response
+     * @return Response
      */
     public function store(StoreNgPuLocationRequest $request)
     {
@@ -42,8 +42,7 @@ class NgPuLocationController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\NgPuLocation  $ngPuLocation
-     * @return \Illuminate\Http\Response
+     * @return Response
      */
     public function show(NgPuLocation $ngPuLocation)
     {
@@ -53,8 +52,7 @@ class NgPuLocationController extends Controller
     /**
      * Show the form for editing the specified resource.
      *
-     * @param  \App\Models\NgPuLocation  $ngPuLocation
-     * @return \Illuminate\Http\Response
+     * @return Response
      */
     public function edit(NgPuLocation $ngPuLocation)
     {
@@ -64,9 +62,7 @@ class NgPuLocationController extends Controller
     /**
      * Update the specified resource in storage.
      *
-     * @param  \App\Http\Requests\UpdateNgPuLocationRequest  $request
-     * @param  \App\Models\NgPuLocation  $ngPuLocation
-     * @return \Illuminate\Http\Response
+     * @return Response
      */
     public function update(UpdateNgPuLocationRequest $request, NgPuLocation $ngPuLocation)
     {
@@ -76,8 +72,7 @@ class NgPuLocationController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\Models\NgPuLocation  $ngPuLocation
-     * @return \Illuminate\Http\Response
+     * @return Response
      */
     public function destroy(NgPuLocation $ngPuLocation)
     {

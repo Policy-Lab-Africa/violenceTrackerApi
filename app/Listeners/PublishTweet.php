@@ -2,10 +2,8 @@
 
 namespace App\Listeners;
 
-use App\Jobs\PublishTweet as PublishTweetJob;
 use App\Events\ViolenceReportCreated;
-use Illuminate\Queue\InteractsWithQueue;
-use Illuminate\Contracts\Queue\ShouldQueue;
+use App\Jobs\PublishTweet as PublishTweetJob;
 
 class PublishTweet
 {
@@ -22,7 +20,6 @@ class PublishTweet
     /**
      * Handle the event.
      *
-     * @param  \App\Events\ViolenceReportCreated  $event
      * @return void
      */
     public function handle(ViolenceReportCreated $event)

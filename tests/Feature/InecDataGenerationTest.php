@@ -2,10 +2,8 @@
 
 namespace Tests\Feature;
 
-use Tests\TestCase;
-use Illuminate\Foundation\Testing\WithFaker;
 use Illuminate\Foundation\Testing\RefreshDatabase;
-use Illuminate\Foundation\Testing\DatabaseMigrations;
+use Tests\TestCase;
 
 class InecDataGenerationTest extends TestCase
 {
@@ -16,40 +14,43 @@ class InecDataGenerationTest extends TestCase
      *
      * @return void
      */
-    public function testGenerateStates()
+    public function test_generate_states()
     {
         return $this->markTestSkipped('Data generated in all areas, need to switch to mocked objects');
         $this->artisan('inecdata:generate state')->assertSuccessful();
 
     }
+
     /**
      * Test tha the job to creat states is successful.
      *
      * @return void
      */
-    public function testGenerateLgas()
+    public function test_generate_lgas()
     {
         return $this->markTestSkipped('Data generated in all areas, need to switch to mocked objects');
         $this->artisan('inecdata:generate lga')->assertSuccessful();
 
     }
+
     /**
      * Test tha the job to creat states is successful.
      *
      * @return void
      */
-    public function testGenerateWards()
+    public function test_generate_wards()
     {
         return $this->markTestSkipped('Data generated in all areas, need to switch to mocked objects');
         $this->artisan('inecdata:generate ward')->assertSuccessful();
 
     }
+
     /**
      * Test tha the job to creat states is successful.
      *
      * @return void
      */
-    public function testGeneratePollingUnits()
+    public function test_generate_polling_units()
     {
         return $this->markTestSkipped('Data generated in all areas, need to switch to mocked objects');
         $this->artisan('inecdata:generate polling-unit')->assertSuccessful();

@@ -15,17 +15,16 @@ class RecaptchaController extends Controller
             'recaptchaToken' => 'required|string',
         ]);
 
-        $gResponse = Http::post("https://www.google.com/recaptcha/api/siteverify?secret=".config('services.googleRecaptcha.secretKey')."&response=".$request->recaptchaToken);
-                
-        if($gResponse->ok() && $gResponse->object()->success === true)
-        {
+        $gResponse = Http::post('https://www.google.com/recaptcha/api/siteverify?secret='.config('services.googleRecaptcha.secretKey').'&response='.$request->recaptchaToken);
+
+        if ($gResponse->ok() && $gResponse->object()->success === true) {
             return $this->sendResponse([
-                'success' => true
+                'success' => true,
             ]);
 
         } else {
             return $this->sendError([
-                'success' => false
+                'success' => false,
             ], 400);
         }
     }

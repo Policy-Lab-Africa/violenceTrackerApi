@@ -2,10 +2,11 @@
 
 namespace Database\Factories;
 
+use App\Models\ViolenceType;
 use Illuminate\Database\Eloquent\Factories\Factory;
 
 /**
- * @extends \Illuminate\Database\Eloquent\Factories\Factory<\App\Models\ViolenceType>
+ * @extends Factory<ViolenceType>
  */
 class ViolenceTypeFactory extends Factory
 {
@@ -19,7 +20,7 @@ class ViolenceTypeFactory extends Factory
         return [
             //
             'name' => $this->faker->word(),
-            'note' => $this->faker->sentence()
+            'note' => $this->faker->sentence(),
         ];
     }
 }

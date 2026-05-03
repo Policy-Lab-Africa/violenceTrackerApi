@@ -2,10 +2,11 @@
 
 namespace Database\Factories;
 
+use App\Models\NgWard;
 use Illuminate\Database\Eloquent\Factories\Factory;
 
 /**
- * @extends \Illuminate\Database\Eloquent\Factories\Factory<\App\Models\NgWard>
+ * @extends Factory<NgWard>
  */
 class NgWardFactory extends Factory
 {
@@ -18,24 +19,24 @@ class NgWardFactory extends Factory
     {
         $wards = [
             0 => [
-                "data_id" => 1,
-                "name" => 'EZIAMA',
-                "abbreviation" => '01',
-                "local_government_id" => 1
+                'data_id' => 1,
+                'name' => 'EZIAMA',
+                'abbreviation' => '01',
+                'local_government_id' => 1,
             ],
             1 => [
-                
-                "data_id" => 16,
-                "name" => 'NGWA',
-                "abbreviation" => '04',
-                "local_government_id" => 2
+
+                'data_id' => 16,
+                'name' => 'NGWA',
+                'abbreviation' => '04',
+                'local_government_id' => 2,
             ],
             2 => [
-                
-                "data_id" => 19702,
-                "name" => 'GWARINPA',
-                "abbreviation" => '05',
-                "local_government_id" => 281
+
+                'data_id' => 19702,
+                'name' => 'GWARINPA',
+                'abbreviation' => '05',
+                'local_government_id' => 281,
             ],
         ];
 

@@ -2,11 +2,11 @@
 
 namespace App\Console\Commands\Data;
 
-use Illuminate\Console\Command;
-use App\Jobs\Data\GeneratePuData;
 use App\Jobs\Data\GenerateLgasData;
-use App\Jobs\Data\GenerateWardsData;
+use App\Jobs\Data\GeneratePuData;
 use App\Jobs\Data\GenerateStatesData;
+use App\Jobs\Data\GenerateWardsData;
+use Illuminate\Console\Command;
 
 class InecData extends Command
 {
@@ -49,12 +49,14 @@ class InecData extends Command
                 GeneratePuData::dispatch();
                 $this->info('Polling units generated!');
                 break;
-            
+
             default:
                 $this->error('No INEC data type - '.$name.'! Try `state`, `lga`, `ward`, `polling-unit`');
+
                 return Command::FAILURE;
                 break;
         }
+
         return Command::SUCCESS;
     }
 }

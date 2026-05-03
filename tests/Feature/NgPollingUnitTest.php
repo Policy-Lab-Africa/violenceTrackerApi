@@ -2,12 +2,10 @@
 
 namespace Tests\Feature;
 
-use Tests\TestCase;
-use App\Models\NgWard;
 use App\Models\NgPollingUnit;
-use Illuminate\Foundation\Testing\WithFaker;
+use App\Models\NgWard;
 use Illuminate\Foundation\Testing\RefreshDatabase;
-use Illuminate\Foundation\Testing\DatabaseMigrations;
+use Tests\TestCase;
 
 class NgPollingUnitTest extends TestCase
 {
@@ -17,9 +15,10 @@ class NgPollingUnitTest extends TestCase
      * Fetches polling units for a specified ward successfully.
      *
      * @test
+     *
      * @return void
      */
-    public function getPollingUnitsForASpecifiedWard()
+    public function get_polling_units_for_a_specified_ward()
     {
         $ward = NgWard::factory()->has(NgPollingUnit::factory()->count(3), 'pollingUnits')->create();
 
@@ -28,7 +27,7 @@ class NgPollingUnitTest extends TestCase
         $response->assertStatus(200)->assertJson([
             'status' => 'success',
             'data' => [
-                'wards' => [] // looks like there was an error that named polling units -> wards
+                'wards' => [], // looks like there was an error that named polling units -> wards
             ],
         ]);
     }

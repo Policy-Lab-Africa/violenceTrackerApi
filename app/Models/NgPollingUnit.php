@@ -2,14 +2,13 @@
 
 namespace App\Models;
 
-use Illuminate\Support\Facades\DB;
-use Illuminate\Database\Eloquent\Model;
-use \Znck\Eloquent\Traits\BelongsToThrough;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+use Znck\Eloquent\Traits\BelongsToThrough;
 
 class NgPollingUnit extends Model
 {
-    use HasFactory, BelongsToThrough;
+    use BelongsToThrough, HasFactory;
 
     protected $fillable = [
         'data_id',

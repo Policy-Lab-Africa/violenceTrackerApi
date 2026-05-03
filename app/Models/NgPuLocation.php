@@ -9,7 +9,7 @@ class NgPuLocation extends Model
 {
     use HasFactory;
 
-    protected $fillable =[
+    protected $fillable = [
         'ng_polling_unit_id',
         'latitude',
         'longitude',
@@ -20,7 +20,7 @@ class NgPuLocation extends Model
     ];
 
     protected $casts = [
-        'viewport' => 'array'
+        'viewport' => 'array',
     ];
 
     public function pollingUnit()

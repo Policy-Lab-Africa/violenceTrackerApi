@@ -2,10 +2,11 @@
 
 namespace Database\Factories;
 
+use App\Models\NgState;
 use Illuminate\Database\Eloquent\Factories\Factory;
 
 /**
- * @extends \Illuminate\Database\Eloquent\Factories\Factory<\App\Models\NgState>
+ * @extends Factory<NgState>
  */
 class NgStateFactory extends Factory
 {
@@ -22,19 +23,19 @@ class NgStateFactory extends Factory
                 'name' => 'abia',
             ],
             1 => [
-                'data_id' =>37,
-                'name' =>'federal capital territory',
+                'data_id' => 37,
+                'name' => 'federal capital territory',
             ],
             2 => [
-                'data_id' =>24,
-                'name' =>'lagos',
+                'data_id' => 24,
+                'name' => 'lagos',
             ],
             3 => [
-                'data_id' =>2,
-                'name' =>'adamawa',
-            ]
+                'data_id' => 2,
+                'name' => 'adamawa',
+            ],
         ];
-        
+
         $key = array_rand($states);
 
         return [

@@ -2,10 +2,11 @@
 
 namespace Database\Factories;
 
+use App\Models\NgPollingUnit;
 use Illuminate\Database\Eloquent\Factories\Factory;
 
 /**
- * @extends \Illuminate\Database\Eloquent\Factories\Factory<\App\Models\NgPollingUnit>
+ * @extends Factory<NgPollingUnit>
  */
 class NgPollingUnitFactory extends Factory
 {
@@ -18,30 +19,31 @@ class NgPollingUnitFactory extends Factory
     {
         $pollingUnits = [
             0 => [
-                "data_id" => 1,
-                "name" => 'ABIA POLY - ABIA POLY I',
-                "registration_area_id" => 1,
-                "precise_location" => NULL,
-                "abbreviation" => '005',
-                "units" => '005',
-                "delimitation" => '01/01/01/005',
-                "remark" => 'EXISTING PU',
-                "ward_id" => 1,
+                'data_id' => 1,
+                'name' => 'ABIA POLY - ABIA POLY I',
+                'registration_area_id' => 1,
+                'precise_location' => null,
+                'abbreviation' => '005',
+                'units' => '005',
+                'delimitation' => '01/01/01/005',
+                'remark' => 'EXISTING PU',
+                'ward_id' => 1,
             ],
             0 => [
-                "data_id" => 384240,
-                "name" => 'MAITSABA / YAR YARA',
-                "registration_area_id" => 19638,
-                "precise_location" => NULL,
-                "abbreviation" => '001',
-                "units" => '001',
-                "delimitation" => '36/14/02/001',
-                "remark" => 'EXISTING PU',
-                "ward_id" => 19638,
+                'data_id' => 384240,
+                'name' => 'MAITSABA / YAR YARA',
+                'registration_area_id' => 19638,
+                'precise_location' => null,
+                'abbreviation' => '001',
+                'units' => '001',
+                'delimitation' => '36/14/02/001',
+                'remark' => 'EXISTING PU',
+                'ward_id' => 19638,
             ],
         ];
 
         $key = array_rand($pollingUnits);
+
         return [
             //
             'data_id' => $pollingUnits[$key]['data_id'],

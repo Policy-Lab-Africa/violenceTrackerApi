@@ -2,12 +2,10 @@
 
 namespace Tests\Feature;
 
-use Tests\TestCase;
-use App\Models\NgState;
 use App\Models\NgLocalGovernment;
-use Illuminate\Foundation\Testing\WithFaker;
+use App\Models\NgState;
 use Illuminate\Foundation\Testing\RefreshDatabase;
-use Illuminate\Foundation\Testing\DatabaseMigrations;
+use Tests\TestCase;
 
 class NgLocalGovernmentTest extends TestCase
 {
@@ -17,9 +15,10 @@ class NgLocalGovernmentTest extends TestCase
      * Fetches local government areas successfully.
      *
      * @test
+     *
      * @return void
      */
-    public function getLocalGovernmentsForASpecifiedState()
+    public function get_local_governments_for_a_specified_state()
     {
         $state = NgState::factory()->has(NgLocalGovernment::factory()->count(3), 'lgas')->create();
 
@@ -28,7 +27,7 @@ class NgLocalGovernmentTest extends TestCase
         $response->assertStatus(200)->assertJson([
             'status' => 'success',
             'data' => [
-                'local_government_areas' => []
+                'local_government_areas' => [],
             ],
         ]);
     }

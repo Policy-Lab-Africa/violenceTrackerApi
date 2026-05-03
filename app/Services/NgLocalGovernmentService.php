@@ -2,8 +2,8 @@
 
 namespace App\Services;
 
-use App\Models\NgLocalGovernment;
 use App\Exceptions\NgLocalGovernmentException;
+use App\Models\NgLocalGovernment;
 
 class NgLocalGovernmentService
 {
@@ -13,8 +13,7 @@ class NgLocalGovernmentService
     {
         $ngLga = NgLocalGovernment::where('data_id', $lga)->orWhere('name', $lga)->first();
 
-        if(!is_null($ngLga))
-        {
+        if (! is_null($ngLga)) {
             $this->setLga($ngLga);
 
             return $this;

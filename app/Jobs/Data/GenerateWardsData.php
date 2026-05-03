@@ -4,12 +4,11 @@ namespace App\Jobs\Data;
 
 use App\Models\NgWard;
 use Illuminate\Bus\Queueable;
-use Illuminate\Queue\SerializesModels;
-use Illuminate\Support\Facades\Storage;
-use Illuminate\Queue\InteractsWithQueue;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Foundation\Bus\Dispatchable;
-use Illuminate\Contracts\Queue\ShouldBeUnique;
+use Illuminate\Queue\InteractsWithQueue;
+use Illuminate\Queue\SerializesModels;
+use Illuminate\Support\Facades\Storage;
 
 class GenerateWardsData implements ShouldQueue
 {
@@ -41,32 +40,26 @@ class GenerateWardsData implements ShouldQueue
     {
         //
         $stateDirs = Storage::disk('s3')->directories(config('inecdata.path'));
-        foreach($stateDirs as $stateDir)
-        {
+        foreach ($stateDirs as $stateDir) {
             $stateLga = Storage::disk('s3')->directories($stateDir);
-            foreach($stateLga as $stateLga)
-            {
+            foreach ($stateLga as $stateLga) {
                 $lgas = Storage::disk('s3')->directories($stateLga);
-                foreach($lgas as $lga)
-                {
-                    // 
+                foreach ($lgas as $lga) {
+                    //
                     if (Storage::disk('s3')->exists($lga.'/wards/index.json')) {
-                        
+
                         $lgaWards = collect(json_decode(Storage::disk('s3')->get($lga.'/wards/index.json')));
                     } else {
-                        
+
                         $subDirs = Storage::disk('s3')->allFiles($lga);
-                        foreach($subDirs as $subDir)
-                        {
-                            if(strpos($subDir, '/wards/index.json') !== false)
-                            {
+                        foreach ($subDirs as $subDir) {
+                            if (strpos($subDir, '/wards/index.json') !== false) {
                                 $lgaWards = collect(json_decode(Storage::disk('s3')->get($subDir)));
                             }
                         }
                     }
 
-                    foreach($lgaWards as $ward)
-                    {
+                    foreach ($lgaWards as $ward) {
                         NgWard::firstOrCreate([
                             'data_id' => $ward->id,
                             'name' => $ward->name,
@@ -77,7 +70,6 @@ class GenerateWardsData implements ShouldQueue
                     }
                 }
 
-                
             }
         }
     }

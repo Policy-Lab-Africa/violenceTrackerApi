@@ -2,26 +2,33 @@
 
 namespace Tests\Feature;
 
-use Tests\TestCase;
-use App\Models\NgWard;
-use App\Models\NgState;
 use App\Jobs\PublishTweet;
-use App\Models\ViolenceType;
-use App\Models\NgPollingUnit;
-use App\Models\ViolenceReport;
 use App\Models\NgLocalGovernment;
-use Illuminate\Support\Facades\App;
-use Illuminate\Support\Facades\Queue;
-use Illuminate\Foundation\Testing\WithFaker;
+use App\Models\NgPollingUnit;
+use App\Models\NgState;
+use App\Models\NgWard;
+use App\Models\ViolenceReport;
+use App\Models\ViolenceType;
 use Illuminate\Foundation\Testing\RefreshDatabase;
+use Illuminate\Foundation\Testing\WithFaker;
+use Illuminate\Support\Facades\Queue;
+use Tests\TestCase;
 
 class ViolenceReportTest extends TestCase
 {
     use RefreshDatabase, WithFaker;
 
-    private $state, $lga, $ward, $pollingUnit, $type;
-    
-    public function setUp(): void
+    private $state;
+
+    private $lga;
+
+    private $ward;
+
+    private $pollingUnit;
+
+    private $type;
+
+    protected function setUp(): void
     {
         parent::setUp();
         $this->state = NgState::factory()->create();
@@ -29,39 +36,41 @@ class ViolenceReportTest extends TestCase
         $this->ward = NgWard::factory()->create();
         $this->pollingUnit = NgPollingUnit::factory()->create();
         $this->type = ViolenceType::factory()->create();
-        
+
     }
+
     /**
      * Recent Reports
+     *
      * @test
      *
      * @return void
      */
-    public function getRecentReports()
+    public function get_recent_reports()
     {
 
         ViolenceReport::factory()->count(500)->create();
         $response = $this->get('api/violence-reports');
-        
+
         $response->assertJson([
             'status' => 'success',
             'data' => [
-                'violence_reports' => []
+                'violence_reports' => [],
             ],
         ])->assertStatus(200);
     }
 
     /**
      * Create violence reports
-     * 
+     *
      * @test
      *
      * @return void
      */
-    public function createViolenceReports()
+    public function create_violence_reports()
     {
         Queue::fake();
-        
+
         $response = $this->post('api/violence-reports', [
             'ng_state_id' => $this->state->data_id,
             'ng_local_government_id' => $this->lga->data_id,
@@ -74,15 +83,14 @@ class ViolenceReportTest extends TestCase
             'user_agent' => $this->faker->userAgent(),
             'longitude' => $this->faker->longitude(),
             'latitude' => $this->faker->latitude(),
-            'recaptchaToken' => '6LeIx-InvAlid-Token-For-Now'
+            'recaptchaToken' => '6LeIx-InvAlid-Token-For-Now',
         ]);
 
-        if($response->getStatusCode() === 201)
-        {
+        if ($response->getStatusCode() === 201) {
             $response->assertJson([
                 'status' => 'success',
                 'data' => [
-                    'violence_report' => []
+                    'violence_report' => [],
                 ],
             ])->assertStatus(201);
 
@@ -92,10 +100,10 @@ class ViolenceReportTest extends TestCase
                 'ng_polling_unit_id' => $this->pollingUnit->data_id,
                 'type_id' => $this->type->id,
             ]);
-    
+
             Queue::assertPushed(PublishTweet::class, 1);
-        } elseif($response->getStatusCode() === 201){
-            // 
+        } elseif ($response->getStatusCode() === 201) {
+            //
         }
 
     }
@@ -104,9 +112,10 @@ class ViolenceReportTest extends TestCase
      * Show report
      *
      * @test
+     *
      * @return void
      */
-    public function showViolenceReport()
+    public function show_violence_report()
     {
         $report = ViolenceReport::factory()->create();
 
@@ -117,29 +126,28 @@ class ViolenceReportTest extends TestCase
                 'data' => [
                     'violence_report' => [
                         'id' => $report->id,
-                    ]
-                ]
+                    ],
+                ],
             ]);
     }
 
     /**
      * Fetch Report Data
-     * 
+     *
      * @test
      *
      * @return void
      */
-    public function fetchesReportData()
+    public function fetches_report_data()
     {
-        // 
+        //
         $reports = ViolenceReport::factory()->create();
 
         $this->get(route('violence-reports.show.data', [
-            'q'=>NgState::find($reports->first()->ng_state_id)->name,
-            'start' => date('Y-m-d',  strtotime('8 years ago')),
-            'end' => date('Y-m-d',  strtotime('1 years ago')),
-            ]))
+            'q' => NgState::find($reports->first()->ng_state_id)->name,
+            'start' => date('Y-m-d', strtotime('8 years ago')),
+            'end' => date('Y-m-d', strtotime('1 years ago')),
+        ]))
             ->assertStatus(200);
     }
-
 }

@@ -2,14 +2,13 @@
 
 namespace App\Jobs\Data;
 
-use Illuminate\Bus\Queueable;
 use App\Models\NgLocalGovernment;
-use Illuminate\Queue\SerializesModels;
-use Illuminate\Support\Facades\Storage;
-use Illuminate\Queue\InteractsWithQueue;
+use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Foundation\Bus\Dispatchable;
-use Illuminate\Contracts\Queue\ShouldBeUnique;
+use Illuminate\Queue\InteractsWithQueue;
+use Illuminate\Queue\SerializesModels;
+use Illuminate\Support\Facades\Storage;
 
 class GenerateLgasData implements ShouldQueue
 {
@@ -41,16 +40,13 @@ class GenerateLgasData implements ShouldQueue
     {
         //
         $stateDirs = Storage::disk('s3')->directories(config('inecdata.path'));
-        
-        foreach($stateDirs as $stateDir)
-        {
+
+        foreach ($stateDirs as $stateDir) {
             $stateLgas = Storage::disk('s3')->directories($stateDir);
-            foreach($stateLgas as $stateLga)
-            {
+            foreach ($stateLgas as $stateLga) {
                 $lgas = collect(json_decode(Storage::disk('s3')->get($stateLga.'/index.json')));
-                foreach($lgas as $lga)
-                {
-                    // 
+                foreach ($lgas as $lga) {
+                    //
                     NgLocalGovernment::updateOrCreate([
                         'data_id' => $lga->id,
                         'name' => $lga->name,
@@ -59,7 +55,6 @@ class GenerateLgasData implements ShouldQueue
                     ]);
                 }
 
-                
             }
         }
 

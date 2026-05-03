@@ -2,9 +2,8 @@
 
 namespace Database\Seeders;
 
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
-use Illuminate\Database\Seeder;
 use App\Models\ViolenceType;
+use Illuminate\Database\Seeder;
 
 class ViolenceTypeSeeder extends Seeder
 {
@@ -26,14 +25,13 @@ class ViolenceTypeSeeder extends Seeder
             'physical threat',
             'group clash',
             'sexual violence',
-            'other'
+            'other',
         ];
 
-        foreach($types as $type)
-        {
-            // 
+        foreach ($types as $type) {
+            //
             ViolenceType::updateOrCreate([
-                'name' => $type
+                'name' => $type,
             ]);
         }
     }

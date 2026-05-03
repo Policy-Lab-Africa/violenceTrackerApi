@@ -2,20 +2,18 @@
 
 namespace App\Services;
 
-use App\Models\NgState;
-use App\Services\NgStateService;
 use App\Exceptions\NgStateException;
+use App\Models\NgState;
 
 class NgStateService
 {
     public $ngState;
-    
-    // 
-    public function __construct(NgState $ngState = null)
+
+    //
+    public function __construct(?NgState $ngState = null)
     {
-        if(!is_null($ngState))
-        {
-            // 
+        if (! is_null($ngState)) {
+            //
             $this->setState($ngState);
         }
     }
@@ -32,16 +30,12 @@ class NgStateService
 
     /**
      * Find a state using `data_id` or Name
-     *
-     * @param integer|string $state
-     * @return self
      */
-    public function findState(int|string $state) : self
+    public function findState(int|string $state): self
     {
         $ngState = NgState::where('data_id', $state)->orWhere('name', $state)->first();
 
-        if(!is_null($ngState))
-        {
+        if (! is_null($ngState)) {
             $this->setState($ngState);
 
             return $this;

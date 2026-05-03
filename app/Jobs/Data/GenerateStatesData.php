@@ -4,12 +4,11 @@ namespace App\Jobs\Data;
 
 use App\Models\NgState;
 use Illuminate\Bus\Queueable;
-use Illuminate\Queue\SerializesModels;
-use Illuminate\Support\Facades\Storage;
-use Illuminate\Queue\InteractsWithQueue;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Foundation\Bus\Dispatchable;
-use Illuminate\Contracts\Queue\ShouldBeUnique;
+use Illuminate\Queue\InteractsWithQueue;
+use Illuminate\Queue\SerializesModels;
+use Illuminate\Support\Facades\Storage;
 
 class GenerateStatesData implements ShouldQueue
 {
@@ -34,11 +33,11 @@ class GenerateStatesData implements ShouldQueue
     {
         //
         $statesData = collect(json_decode(Storage::disk('s3')->get(config('inecdata.path').'index.json')));
-        foreach($statesData as $state){
+        foreach ($statesData as $state) {
             NgState::updateOrCreate([
                 'data_id' => $state->id,
                 'name' => strtolower($state->name),
             ]);
-        };
+        }
     }
 }

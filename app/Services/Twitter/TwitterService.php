@@ -6,7 +6,6 @@ use Noweh\TwitterApi\Client;
 
 class TwitterService
 {
-    
     private Client $client;
 
     public function __construct()
@@ -17,7 +16,7 @@ class TwitterService
             'consumer_secret' => config('services.twitter.consumer_secret'),
             'bearer_token' => config('services.twitter.consumer_bearer_token'),
             'access_token' => config('services.twitter.access_token'),
-            'access_token_secret' => config('services.twitter.access_secret')
+            'access_token_secret' => config('services.twitter.access_secret'),
         ];
 
         $this->client = new Client($settings);
@@ -26,10 +25,10 @@ class TwitterService
     /**
      * Post a tweet
      *
-     * @param array $tweet['text', 'media']
+     * @param  array  $tweet['text',  'media']
      * @return void
      */
-    public function tweet(string $tweet, string $media = null)
+    public function tweet(string $tweet, ?string $media = null)
     {
         return $this->client->tweet()->performRequest('POST', [
             'text' => $tweet,

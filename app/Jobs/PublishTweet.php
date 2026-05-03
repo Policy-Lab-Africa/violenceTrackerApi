@@ -2,16 +2,13 @@
 
 namespace App\Jobs;
 
-use Illuminate\Bus\Queueable;
 use App\Models\ViolenceReport;
-use Illuminate\Support\Facades\Log;
-use Illuminate\Queue\SerializesModels;
-use Illuminate\Support\Facades\Storage;
 use App\Services\Twitter\TwitterService;
-use Illuminate\Queue\InteractsWithQueue;
+use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Foundation\Bus\Dispatchable;
-use Illuminate\Contracts\Queue\ShouldBeUnique;
+use Illuminate\Queue\InteractsWithQueue;
+use Illuminate\Queue\SerializesModels;
 
 class PublishTweet implements ShouldQueue
 {
@@ -34,13 +31,13 @@ class PublishTweet implements ShouldQueue
      */
     public function handle()
     {
-        //...
+        // ...
         $tweet = substr($this->report->title ?? $this->report->description, 0, 150).'.. ';
         $link = 'https://app.violencetrack.ng/reports';
         (new TwitterService)->tweet(
             $tweet.$link,
             $this->report->file
         );
-        return;
+
     }
 }

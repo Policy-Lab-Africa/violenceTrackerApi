@@ -2,18 +2,16 @@
 
 namespace App\Jobs\Data;
 
-use App\Models\NgPuLocation;
 use App\Models\NgPollingUnit;
+use App\Models\NgPuLocation;
 use Illuminate\Bus\Queueable;
-use Illuminate\Support\Facades\Log;
-use Illuminate\Queue\SerializesModels;
-use Illuminate\Support\Facades\Storage;
-use Illuminate\Queue\InteractsWithQueue;
-use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Foundation\Bus\Dispatchable;
-use Illuminate\Contracts\Queue\ShouldBeUnique;
+use Illuminate\Queue\InteractsWithQueue;
+use Illuminate\Queue\SerializesModels;
+use Illuminate\Support\Facades\Log;
+use Illuminate\Support\Facades\Storage;
 
-class GeneratePuData 
+class GeneratePuData
 {
     use Dispatchable, InteractsWithQueue, Queueable, SerializesModels;
 
@@ -42,36 +40,32 @@ class GeneratePuData
     public function handle()
     {
         //
-        try{
+        try {
 
             $stateDirs = Storage::disk('s3')->directories(config('inecdata.path'));
-            foreach($stateDirs as $stateDir)
-            {
+            foreach ($stateDirs as $stateDir) {
                 $stateLga = Storage::disk('s3')->directories($stateDir);
-                foreach($stateLga as $stateLga)
-                {
+                foreach ($stateLga as $stateLga) {
                     Log::debug('RANCreatePU', [
-                        'unit' => $stateLga
+                        'unit' => $stateLga,
                     ]);
                     $lgas = Storage::disk('s3')->directories($stateLga);
-                    foreach($lgas as $lga)
-                    {
+                    foreach ($lgas as $lga) {
                         Log::debug('RAN2CreatePU', [
-                            'unit' => $lga
+                            'unit' => $lga,
                         ]);
                         $allFiles = Storage::disk('s3')->allFiles($lga);
-                        //               
-                        foreach($allFiles as $file)
-                        {
+                        //
+                        foreach ($allFiles as $file) {
                             Log::debug('RAN3CreatePU', [
-                                'unit' => $file
+                                'unit' => $file,
                             ]);
                             if (strpos($file, '/units/index.json') !== false) {
 
                                 $units = collect(json_decode(Storage::disk('s3')->get($file)));
                                 foreach ($units as $unit) {
-                                    # code...
-                                        
+                                    // code...
+
                                     NgPollingUnit::firstOrCreate([
                                         'data_id' => $unit->id,
                                         'name' => $unit->name,
@@ -83,7 +77,7 @@ class GeneratePuData
                                         'remark' => $unit->remark,
                                         'ward_id' => $unit->ward_id,
                                     ]);
-                                    
+
                                     NgPuLocation::firstOrCreate([
                                         'ng_polling_unit_id' => $unit->id,
                                         'latitude' => $unit->location?->latitude,
@@ -98,15 +92,14 @@ class GeneratePuData
                                         'unit' => $unit->name,
                                     ]);
                                 }
-    
+
                             }
-                            
+
                         }
                     }
                 }
             }
-        } catch(Throwable $th)
-        {
+        } catch (Throwable $th) {
             Log::error($th);
         }
     }

@@ -19,7 +19,7 @@ class DatabaseSeeder extends Seeder
             NgLocalGovernmentSeeder::class,
             NgWardSeeder::class,
             NgPollingUnitSeeder::class,
-            ViolenceTypeSeeder::class
+            ViolenceTypeSeeder::class,
         ]);
         // \App\Models\User::factory(10)->create();
 
