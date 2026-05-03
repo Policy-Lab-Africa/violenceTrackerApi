@@ -3,6 +3,7 @@
 namespace Tests\Feature;
 
 use Illuminate\Foundation\Testing\RefreshDatabase;
+use PHPUnit\Framework\Test;
 use Tests\TestCase;
 
 class ViolenceTypesTest extends TestCase
@@ -12,10 +13,10 @@ class ViolenceTypesTest extends TestCase
     /**
      * A HTTP test for successful response from the violence test endpoint.
      *
-     * @test
      *
      * @return void
      */
+    #[Test]
     public function get_violence_types_is_successful()
     {
         $response = $this->get('api/violence-types');

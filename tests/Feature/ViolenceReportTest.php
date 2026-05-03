@@ -12,6 +12,7 @@ use App\Models\ViolenceType;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Foundation\Testing\WithFaker;
 use Illuminate\Support\Facades\Queue;
+use PHPUnit\Framework\Test;
 use Tests\TestCase;
 
 class ViolenceReportTest extends TestCase
@@ -42,10 +43,10 @@ class ViolenceReportTest extends TestCase
     /**
      * Recent Reports
      *
-     * @test
      *
      * @return void
      */
+    #[Test]
     public function get_recent_reports()
     {
 
@@ -63,10 +64,10 @@ class ViolenceReportTest extends TestCase
     /**
      * Create violence reports
      *
-     * @test
      *
      * @return void
      */
+    #[Test]
     public function create_violence_reports()
     {
         Queue::fake();
@@ -111,10 +112,10 @@ class ViolenceReportTest extends TestCase
     /**
      * Show report
      *
-     * @test
      *
      * @return void
      */
+    #[Test]
     public function show_violence_report()
     {
         $report = ViolenceReport::factory()->create();
@@ -134,10 +135,10 @@ class ViolenceReportTest extends TestCase
     /**
      * Fetch Report Data
      *
-     * @test
      *
      * @return void
      */
+    #[Test]
     public function fetches_report_data()
     {
         //

@@ -5,6 +5,7 @@ namespace Tests\Feature;
 use App\Models\NgPollingUnit;
 use App\Models\NgWard;
 use Illuminate\Foundation\Testing\RefreshDatabase;
+use PHPUnit\Framework\Test;
 use Tests\TestCase;
 
 class NgPollingUnitTest extends TestCase
@@ -14,10 +15,9 @@ class NgPollingUnitTest extends TestCase
     /**
      * Fetches polling units for a specified ward successfully.
      *
-     * @test
-     *
      * @return void
      */
+    #[Test]
     public function get_polling_units_for_a_specified_ward()
     {
         $ward = NgWard::factory()->has(NgPollingUnit::factory()->count(3), 'pollingUnits')->create();

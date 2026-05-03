@@ -5,6 +5,7 @@ namespace Tests\Feature;
 use App\Models\NgLocalGovernment;
 use App\Models\NgWard;
 use Illuminate\Foundation\Testing\RefreshDatabase;
+use PHPUnit\Framework\Test;
 use Tests\TestCase;
 
 class NgWardTest extends TestCase
@@ -14,10 +15,10 @@ class NgWardTest extends TestCase
     /**
      * Fetches wards in local government areas successfully.
      *
-     * @test
      *
      * @return void
      */
+    #[Test]
     public function get_wards()
     {
         $lga = NgLocalGovernment::factory()->has(NgWard::factory()->count(4), 'wards')->create();

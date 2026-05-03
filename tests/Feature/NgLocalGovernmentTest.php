@@ -5,6 +5,7 @@ namespace Tests\Feature;
 use App\Models\NgLocalGovernment;
 use App\Models\NgState;
 use Illuminate\Foundation\Testing\RefreshDatabase;
+use PHPUnit\Framework\Test;
 use Tests\TestCase;
 
 class NgLocalGovernmentTest extends TestCase
@@ -14,10 +15,10 @@ class NgLocalGovernmentTest extends TestCase
     /**
      * Fetches local government areas successfully.
      *
-     * @test
      *
      * @return void
      */
+    #[Test]
     public function get_local_governments_for_a_specified_state()
     {
         $state = NgState::factory()->has(NgLocalGovernment::factory()->count(3), 'lgas')->create();
