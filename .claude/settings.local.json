@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh pr *)",
+      "Bash(php -r \"echo class_exists\\('PHPUnit\\\\Framework\\\\Test'\\) ? 'interface exists' : 'not found'; echo PHP_EOL; echo class_exists\\('PHPUnit\\\\Framework\\\\Attributes\\\\Test'\\) ? 'attribute exists' : 'not found';\")"
+    ]
+  }
+}

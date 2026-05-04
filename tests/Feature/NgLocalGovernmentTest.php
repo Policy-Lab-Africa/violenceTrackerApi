@@ -5,7 +5,7 @@ namespace Tests\Feature;
 use App\Models\NgLocalGovernment;
 use App\Models\NgState;
 use Illuminate\Foundation\Testing\RefreshDatabase;
-use PHPUnit\Framework\Test;
+use PHPUnit\Framework\Attributes\Test;
 use Tests\TestCase;
 
 class NgLocalGovernmentTest extends TestCase

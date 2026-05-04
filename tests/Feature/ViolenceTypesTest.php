@@ -3,7 +3,7 @@
 namespace Tests\Feature;
 
 use Illuminate\Foundation\Testing\RefreshDatabase;
-use PHPUnit\Framework\Test;
+use PHPUnit\Framework\Attributes\Test;
 use Tests\TestCase;
 
 class ViolenceTypesTest extends TestCase

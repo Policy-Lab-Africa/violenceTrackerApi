@@ -12,7 +12,7 @@ use App\Models\ViolenceType;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Foundation\Testing\WithFaker;
 use Illuminate\Support\Facades\Queue;
-use PHPUnit\Framework\Test;
+use PHPUnit\Framework\Attributes\Test;
 use Tests\TestCase;
 
 class ViolenceReportTest extends TestCase
